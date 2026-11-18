@@ -15,7 +15,10 @@ The content service of the app does not keep a copy. It reads this repository:
    so on. `content/<article>.json` is the English source.
 2. Change the text. Keep the shape: the same sections, the same number of
    examples, the same terms.
-3. Commit. The service serves the new text within a few minutes.
+3. Commit. The pointer of the library moves to that commit, and the service
+   serves the new text within a minute. The workflow of this repository moves
+   the pointer; the house moves it as well with
+   `python tools\publish_content_to_github.py --publish-head`.
 
 The release id of the library is the commit the files live in. The service
 writes it into every answer, so the app knows that the library changed and
@@ -28,6 +31,9 @@ reads it again.
   repository. A person may change the text of `content/`; the rest is built.
 - `current.json` names the release the service reads. It is written after
   every push.
+- `legacy-releases.json` names the publications that were made before this
+  repository existed, so a reader that pinned an old release is still
+  answered.
 - The pictures are built from the media of the house repository, so a new
   picture is a new build, not a commit here.
 
