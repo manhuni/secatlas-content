@@ -1,0 +1,1169 @@
+{
+  "records": {
+    "ff2c66da975d5d4ffe2550947eab022f26b06eb2ffd8749c4de4e4ad8b5ff7d9": [
+      {
+        "forms": [
+          "Gross pay",
+          "gross_pay"
+        ],
+        "id": "lex.sa.money.gross_pay",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Gross pay",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.gross_pay.alt",
+          "sns.sa.money.gross_pay.alt.ja",
+          "sns.sa.money.gross_pay.alt.ko",
+          "sns.sa.money.gross_pay.alt.pt_br",
+          "sns.sa.money.gross_pay.alt.id",
+          "sns.sa.money.gross_pay.alt.th",
+          "sns.sa.money.gross_pay.alt.tr"
+        ]
+      },
+      {
+        "definition": "Total pay for the period before any money is deducted for tax, insurance or other agreed deductions.",
+        "exampleIds": [
+          "exm.sa.money.gross_pay.1.1"
+        ],
+        "gloss": "Total pay for the period before any money is deducted for tax, insurance or other agreed deductions.",
+        "id": "sns.sa.money.gross_pay.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.gross_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "税、保険料以及其他 agreed deductions before deducted.",
+        "exampleIds": [
+          "exm.sa.money.gross_pay.1.1.ja"
+        ],
+        "gloss": "税や保険料などを差し引く前の給与総額。",
+        "id": "sns.sa.money.gross_pay.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.gross_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "공식 급여에서 세금, 보험료 또는 사전에 정한 其他 deductions을 빼기 전의 금액이다. 순급여와 혼동하지 않도록 구분해야 한다.",
+        "exampleIds": [
+          "exm.sa.money.gross_pay.1.1.ko"
+        ],
+        "gloss": "세금과 보험료 등 공제되기 전의 총급여이다.",
+        "id": "sns.sa.money.gross_pay.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.gross_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Valor total do pagamento de um período antes da dedução de impostos, seguros e outros descontos acordados.",
+        "exampleIds": [
+          "exm.sa.money.gross_pay.1.1.pt_br"
+        ],
+        "gloss": "Remuneração total antes dos descontos.Reader",
+        "id": "sns.sa.money.gross_pay.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.gross_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Jumlah的全部 penghasilan yang diperoleh dalam satu periode sebelum dipotong pajak,ｉ렇게 kontribusi asuransi, dan potongan lain yang disepakati. Pendapatan ini berbeda dari jumlah uang yang benar-benar diterima.",
+        "exampleIds": [
+          "exm.sa.money.gross_pay.1.1.id"
+        ],
+        "gloss": "Pendapatantotal sebelum dipotong pajak, asuransi, atau potongan lain.",
+        "id": "sns.sa.money.gross_pay.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.gross_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "จำนวนเงินได้ทั้งหมดในงวดก่อนหักภาษี ค่าประกัน หรือรายการหักตามข้อตกลง จึงยังไม่เท่ากับเงินที่ผู้รับเงินได้รับจริง",
+        "exampleIds": [
+          "exm.sa.money.gross_pay.1.1.th"
+        ],
+        "gloss": "ยอดเงินได้รวมก่อนหักภาษี ประกัน และรายการหักอื่น ๆ",
+        "id": "sns.sa.money.gross_pay.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.gross_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir çalışma dönemi için kazanılan ve henüz hiçbir kesintinin uygulanmadığı toplam ödemedir. Brüt ücret, eline geçen net ücret değildir.",
+        "exampleIds": [
+          "exm.sa.money.gross_pay.1.1.tr"
+        ],
+        "gloss": "Vergi, sigorta ve diğer kesintiler çıkarılmadan önceki toplam ücret.",
+        "id": "sns.sa.money.gross_pay.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.gross_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.gross_pay.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My gross pay is 40 $ a month, before anything is taken off.",
+        "translation": "Ayda 40 dolar kazanıyorum; bu, hiçbir kesinti yapılmadan önceki brüt ödemem.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.gross_pay.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My gross pay is 40 $ a month, before anything is taken off.",
+        "translation": "ยอดเงินได้รวมของฉันอยู่ที่เดือนละ 40 ดอลลาร์สหรัฐ ก่อนหักรายการต่าง ๆ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.gross_pay.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My gross pay is 40 $ a month, before anything is taken off.",
+        "translation": "Pendapatan kotor saya 40 dolar per bulan sebelum dipotong pajak dan potongan lainnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.gross_pay.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My gross pay is 40 $ a month, before anything is taken off.",
+        "translation": "Minha remuneração bruta é de 40 dólares por mês, antes de qualquer desconto.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.gross_pay.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My gross pay is 40 $ a month, before anything is taken off.",
+        "translation": "내 월급의 총급여는各种 공제 전에는 40달러이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.gross_pay.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My gross pay is 40 $ a month, before anything is taken off.",
+        "translation": "税引前給与は毎月40ドルです。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.gross_pay.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My gross pay is 40 $ a month, before anything is taken off.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ff3ca99b40da3e5404233b68313d8d21205d12f1f623c271bc25012110f70486": [
+      {
+        "forms": [
+          "Attrition",
+          "war_attrition"
+        ],
+        "id": "lex.sa.mind.war_attrition",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Attrition",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_attrition.alt",
+          "sns.sa.mind.war_attrition.alt.ja",
+          "sns.sa.mind.war_attrition.alt.ko",
+          "sns.sa.mind.war_attrition.alt.pt_br",
+          "sns.sa.mind.war_attrition.alt.id",
+          "sns.sa.mind.war_attrition.alt.th",
+          "sns.sa.mind.war_attrition.alt.tr"
+        ]
+      },
+      {
+        "definition": "The wearing down of the opponent by continued cost, rather than by one decisive stroke.",
+        "exampleIds": [
+          "exm.sa.mind.war_attrition.1.1"
+        ],
+        "gloss": "The wearing down of the opponent by continued cost, rather than by one decisive stroke.",
+        "id": "sns.sa.mind.war_attrition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_attrition",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一撃で決着させるのではなく、 Daryl的な負担と損失を相手に加続けて weakens the opponent. 「消耗戦」とも呼ばれる。",
+        "exampleIds": [
+          "exm.sa.mind.war_attrition.1.1.ja"
+        ],
+        "gloss": "継続的な消耗によって相手の戦力を奪うこと。",
+        "id": "sns.sa.mind.war_attrition.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_attrition",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "한 번의 결정적인 타격 대신 계속되는 비용과 손실을 통해 상대의 힘을 gradually 약화시키는 전투 방식이다. ‘마모전’이라고도 한다.",
+        "exampleIds": [
+          "exm.sa.mind.war_attrition.1.1.ko"
+        ],
+        "gloss": "지속적인 비용과 손실로 상대를 약화시키는 것.",
+        "id": "sns.sa.mind.war_attrition.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_attrition",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a redução gradual da capacidade e da força do adversário por meio de custos prolongados, em vez de uma única ação decisiva.",
+        "exampleIds": [
+          "exm.sa.mind.war_attrition.1.1.pt_br"
+        ],
+        "gloss": "Desgaste progressivo do adversário por meio de custos contínuos.",
+        "id": "sns.sa.mind.war_attrition.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_attrition",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Peng weaken lawan melalui biaya dan kerugian yang berkelanjutan, bukan melalui satu serangan menentukan. Istilah ini digunakan dalam konteks perang atau kompetisi.",
+        "exampleIds": [
+          "exm.sa.mind.war_attrition.1.1.id"
+        ],
+        "gloss": "Peng weaken lawan melalui kerugian berkelanjutan, bukan dengan satu serangan menentukan.",
+        "id": "sns.sa.mind.war_attrition.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_attrition",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การสึกกร่อนคู่สู้ผ่านความสูญเสียและกำลังที่ใช้อย่างต่อเนื่อง แทนการตัดสินด้วยการรบครั้งเดียว",
+        "exampleIds": [
+          "exm.sa.mind.war_attrition.1.1.th"
+        ],
+        "gloss": "การทำให้คู่สู้อ่อนลงด้วยต้นทุนที่ต่อเนื่อง",
+        "id": "sns.sa.mind.war_attrition.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_attrition",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yıpratma, düşmanı tek bir büyük darbeyle değil, uzun süreli çarpışmalar ve kesintisiz harcamalarla gücünü tüketerek zayıflatmaktır.",
+        "exampleIds": [
+          "exm.sa.mind.war_attrition.1.1.tr"
+        ],
+        "gloss": "Tek bir belirleyici hamlede değil, sürekli maliyetle düşmanı yıpratma yöntemi.",
+        "id": "sns.sa.mind.war_attrition.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_attrition",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_attrition.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Savaşın uzun sürmesi, tarafların birbirini yıpratmasına yol açtı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_attrition.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "สงครามครั้งนี้จบลงด้วยการสึกกร่อน เพราะไม่มีการรบครั้งใดที่ตัดสินผลได้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_attrition.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Perang itu dimenangkan oleh peng weaken yang berkelanjutan, bukan oleh satu pertempuran menentukan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_attrition.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O desgaste gradual decidiu a campanha; nenhuma batalha isolada o fez.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_attrition.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "이 전투는 거대한 승리 없이 마모전만으로 승부가 결정되었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_attrition.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "どの戦いも決着させる/examplesではなくWar。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_attrition.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Attrition decided the campaign; no single battle did.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ff488ab8733e4c47df71b83349a8479186fbc6bbc7074355b16583f016ee16f0": [
+      {
+        "forms": [
+          "Snack",
+          "snack"
+        ],
+        "id": "lex.sa.kids_food.snack",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Snack",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_food.snack.alt",
+          "sns.sa.kids_food.snack.alt.ja",
+          "sns.sa.kids_food.snack.alt.ko",
+          "sns.sa.kids_food.snack.alt.pt_br",
+          "sns.sa.kids_food.snack.alt.id",
+          "sns.sa.kids_food.snack.alt.th",
+          "sns.sa.kids_food.snack.alt.tr"
+        ]
+      },
+      {
+        "definition": "A small amount of food that you eat between two meals.",
+        "exampleIds": [
+          "exm.sa.kids_food.snack.1.1"
+        ],
+        "gloss": "A small amount of food that you eat between two meals.",
+        "id": "sns.sa.kids_food.snack.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_food.snack",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "正餐.",
+        "exampleIds": [
+          "exm.sa.kids_food.snack.1.1.ja"
+        ],
+        "gloss": "正餐.",
+        "id": "sns.sa.kids_food.snack.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_food.snack",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "饥饿을 채우기 위해 한 끼와 다음 끼 사이에 먹는 가벼운 음식이다.",
+        "exampleIds": [
+          "exm.sa.kids_food.snack.1.1.ko"
+        ],
+        "gloss": "두 끼 사이에 먹는 작은 음식.",
+        "id": "sns.sa.kids_food.snack.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_food.snack",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Alimento leve comido entre o café da manhã e o almoço, ou entre o almoço e o jantar. Também pode ser uma refeição rápida e simples.",
+        "exampleIds": [
+          "exm.sa.kids_food.snack.1.1.pt_br"
+        ],
+        "gloss": "Pequena quantidade de comida comida entre duas refeições.",
+        "id": "sns.sa.kids_food.snack.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_food.snack",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Camilan adalah makanan dalam jumlah kecil yang dimakan sebelum atau sesudah waktu makan utama. Kamilan biasanya lebih ringan daripada makanan utama.",
+        "exampleIds": [
+          "exm.sa.kids_food.snack.1.1.id"
+        ],
+        "gloss": "Makanan kecil yang dimakan di antara dua waktu makan.",
+        "id": "sns.sa.kids_food.snack.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_food.snack",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "อาหารจำนวนน้อยที่กินระหว่างมื้ออาหารสองมื้อ เพื่อเพิ่มความอิ่มหรือลดความหิว",
+        "exampleIds": [
+          "exm.sa.kids_food.snack.1.1.th"
+        ],
+        "gloss": "อาหารจำนวนน้อยที่กินระหว่างมื้ออาหาร",
+        "id": "sns.sa.kids_food.snack.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_food.snack",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ana öğünler arasında açlığı gidermek için yenen küçük bir miktar yiyecek.",
+        "exampleIds": [
+          "exm.sa.kids_food.snack.1.1.tr"
+        ],
+        "gloss": "İki öğün arasında yenen az miktardaki yiyecek.",
+        "id": "sns.sa.kids_food.snack.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_food.snack",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_food.snack.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brought a snack to school for break time.",
+        "translation": "Mola için okula küçük bir ara öğün götürdüm.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_food.snack.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brought a snack to school for break time.",
+        "translation": "ฉันนำของว่างไปโรงเรียนเพื่อกินในช่วงพัก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_food.snack.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brought a snack to school for break time.",
+        "translation": "Saya membawa camilan ke sekolah untuk时间为 jeda.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_food.snack.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brought a snack to school for break time.",
+        "translation": "Levei um lanche para a escola para comer no intervalo.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_food.snack.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brought a snack to school for break time.",
+        "translation": "쉬는 시간에 먹을 간식을 학교에 가져왔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_food.snack.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brought a snack to school for break time.",
+        "translation": "学校に休憩用の_MARKETカナ存入。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_food.snack.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brought a snack to school for break time.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ff7772053abf7d817d6eec229a09e14f0d1552f1cb0aeedb2ac73784ac2d2e39": [
+      {
+        "forms": [
+          "both"
+        ],
+        "id": "lex.sa.en.both.determiner",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "both",
+        "pos": "determiner",
+        "pronunciationIds": [
+          "prn.sa.en.both.determiner",
+          "prn.sa.en.both.determiner.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.both.determiner.1",
+          "sns.sa.en.both-determiner.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.both-determiner",
+        "id": "prn.sa.en.both.determiner",
+        "ipa": "/bəʊθ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.both.determiner.us",
+        "ipa": "/boʊθ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Áp dụng cho hai đối tượng cùng lúc.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.both.determiner.1.1",
+          "exm.sa.en.both-determiner.more.01",
+          "exm.sa.en.both-determiner.more.02"
+        ],
+        "gloss": "cả hai",
+        "id": "sns.sa.vi.both.determiner.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.both.determiner",
+        "pos": "determiner",
+        "resourceIds": [
+          "res.sa.img.both-determiner",
+          "res.sa.aud.both-determiner",
+          "res.sa.lnk.both-determiner",
+          "res.sa.vid.both-determiner"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The left expression and the right expression.",
+        "exampleIds": [
+          "exm.sa.en.both.determiner.1.1"
+        ],
+        "gloss": "The left expression and the right expression.",
+        "id": "sns.sa.en.both-determiner.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.both.determiner",
+        "pos": "determiner",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.both.determiner.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Do the same operation on both sides.",
+        "translation": "Làm cùng phép toán trên cả hai vế.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.both-determiner",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "both clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.vi.both.determiner.1",
+        "id": "lnk.sa.en.glossary.047",
+        "kind": "relation",
+        "toId": "sns.sa.vi.sides.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "ff88bf24065193426262583a7d636aebc0d93bcbcc694628f698fa6306192431": [
+      {
+        "forms": [
+          "Hierarchy",
+          "pd_hierarchy"
+        ],
+        "id": "lex.sa.mind.pd_hierarchy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hierarchy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.pd_hierarchy.alt",
+          "sns.sa.mind.pd_hierarchy.alt.ja",
+          "sns.sa.mind.pd_hierarchy.alt.ko",
+          "sns.sa.mind.pd_hierarchy.alt.pt_br",
+          "sns.sa.mind.pd_hierarchy.alt.id",
+          "sns.sa.mind.pd_hierarchy.alt.th",
+          "sns.sa.mind.pd_hierarchy.alt.tr"
+        ]
+      },
+      {
+        "definition": "The arrangement of roles that says who decides and who answers for the decision.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1"
+        ],
+        "gloss": "The arrangement of roles that says who decides and who answers for the decision.",
+        "id": "sns.sa.mind.pd_hierarchy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "階層とは、意思決定権と説明責任がどの役職にあるかを示す、組織内の上下関係または役割の配置である。",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.ja"
+        ],
+        "gloss": "誰が決め、誰が説明責任を負うかを示す役割の配置。",
+        "id": "sns.sa.mind.pd_hierarchy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "조직이나 공동체의 역할을 위계에 따라 나누어 결정권과 책임을 정하는 구조다. 서면으로 명확하게 되어 있어도 실제로 역할이 잘려 있을 수 있다.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.ko"
+        ],
+        "gloss": "누가 결정하고 누가 그 결정에 책임지는지 정한 역할의 위계.",
+        "id": "sns.sa.mind.pd_hierarchy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A estrutura de comando de uma organização, com posições definidas de autoridade e responsabilidade. Ela existe no papel independentemente de quem ocupa cada cargo.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.pt_br"
+        ],
+        "gloss": "A organização dos papéis que diz quem decide e quem responde pela decisão.",
+        "id": "sns.sa.mind.pd_hierarchy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Susunan peran yang menunjukkan siapa yang memutuskan dan siapa yang bertanggung jawab atas keputusan itu. Kata ini dipakai untuk men Talking tentang urutan wewenang dalam kelompok atau organisasi, dan tidak boleh disamakan dengan 'hirarki' dalam artidz), tetapi harus tetap ditulis dalam bahasa Indonesia.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.id"
+        ],
+        "gloss": "Susunan peran yang menunjukkan siapa yang memutuskan dan siapa yang bertanggung jawab atas keputusan itu.",
+        "id": "sns.sa.mind.pd_hierarchy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การจัดความสัมพันธ์ของตำแหน่งและอำนาจเพื่อให้ทราบว่าใครมีสิทธิตัดสิน ใครต้องรายงาน และใครรับผิดชอบต่อผลนั้น คำนี้ไม่ได้หมายถึงฐานะหรือความมั่งคั่งของบุคคล",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.th"
+        ],
+        "gloss": "ลำดับตำแหน่งที่กำหนดว่าใครตัดสินใจและใครรับผิดชอบ",
+        "id": "sns.sa.mind.pd_hierarchy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kurum ya da topluluk içinde karar verme yetkisinin ve sorumluluğun kimde olduğunu gösteren düzendir. Kâğıt üzerinde açık olsa bile, uygulamada hesap, para ya da mal sorumluluğunun kime ait olduğu belirsizse hiyerarşi işlevini görmez.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.tr"
+        ],
+        "gloss": "Kim karar verir, kim kararın sonucundan sorumludur biçiminde rollerin dizilmesi.",
+        "id": "sns.sa.mind.pd_hierarchy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hiyerarşi kâğıt üzerinde belliydi; ama hesabın, faturanın ve yedek parçaların sorumluluğu kimdeydi?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ลำดับตำแหน่งกำหนดไว้ชัดเจนบนกระดาษ แต่บัญชี ใบแจ้งหนี้ และอะไหล่ยังไม่ได้รับการจัดการ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hierarki itu jelas di atas kertas; tetapi akun, faktur, dan suku cadang tidak jelas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A hierarquia é clara no papel; a conta, a nota fiscal e as peças não estavam.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "조직도는 명확했지만, 계정, 청구서, 부품에 대한 역할과 책임은 서로 겹쳐 있었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "文書上では階層は明確だったが、口座、請求書、部品の担当は決まっていなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hierarchy is clear on paper; the account, the invoice and the parts were not.",
+        "translation": "Hệ thống phân cấp rõ ràng trên giấy; còn tài khoản, hóa đơn và linh kiện thì không.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ffb1bb9574e822ff3fd1c1fa940157faba670082f49370d03bec95407c87c6d2": [
+      {
+        "forms": [
+          "Expertise",
+          "intel_expertise"
+        ],
+        "id": "lex.sa.mind.intel_expertise",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Expertise",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intel_expertise.alt",
+          "sns.sa.mind.intel_expertise.alt.ja",
+          "sns.sa.mind.intel_expertise.alt.ko",
+          "sns.sa.mind.intel_expertise.alt.pt_br",
+          "sns.sa.mind.intel_expertise.alt.id",
+          "sns.sa.mind.intel_expertise.alt.th",
+          "sns.sa.mind.intel_expertise.alt.tr"
+        ]
+      },
+      {
+        "definition": "Deep skill and knowledge in one narrow field, built up over years of practice.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1"
+        ],
+        "gloss": "Deep skill and knowledge in one narrow field, built up over years of practice.",
+        "id": "sns.sa.mind.intel_expertise.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある狭い分野で 長年の実践によって得た深いIllness.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.ja"
+        ],
+        "gloss": "ある狭い分野で、环境!",
+        "id": "sns.sa.mind.intel_expertise.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "특정 분야에 집중해 장기간 연습한 결과 얻은 높은 수준의 기술과 지식. 단순한 지식이나 대략적인 familiarity와 구별된다.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.ko"
+        ],
+        "gloss": "한 좁은 분야에서 오랜 연습으로 쌓은 깊고 전문적인 기술과 지식.",
+        "id": "sns.sa.mind.intel_expertise.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Especialização significativa em uma área, construída por experiência, estudo e prática prolongada. Implica mais do que conhecimento geral ou simples familiaridade com o assunto.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.pt_br"
+        ],
+        "gloss": "Conhecimento e habilidade aprofundados em um campo específico,ucking formados ao longo de anos de prática.",
+        "id": "sns.sa.mind.intel_expertise.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Keahlian dan pengetahuan mendalam dalam satu bidang tertentu yang terbentuk melalui pengalaman dan latihan bertahun-tahun. Kata ini menunjukkan keahlian yang lebih tinggi daripada kemampuan umum.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.id"
+        ],
+        "gloss": "Keahlian mendalam dalam satu bidang sempit yang diperoleh melalui latihan bertahun-tahun.",
+        "id": "sns.sa.mind.intel_expertise.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความเชี่ยวชาญคือทักษะและความรู้ที่ลึกและแคบ เกิดจากการฝึกปฏิบัติอย่างยาวนานในสาขาเดียว ไม่ใช่ความรู้กว้างๆ จึงมักพบในคนเฉพาะทาง และต่างจากความรู้ที่มีแต่ยังไม่ได้ใช้",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.th"
+        ],
+        "gloss": "ความชำนาญและความรู้ลึกในสาขาแคบๆ สั่งสมมาหลายปีแห่งการฝึกฝน",
+        "id": "sns.sa.mind.intel_expertise.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Belirli bir alanda uzun yıllar çalışarak kazanılmış derin bilgi, beceri ve ustalıktır. Genel bilgi veya yalnızca pratik bilgiden daha kapsamlı bir yetkinliği ifade eder.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.tr"
+        ],
+        "gloss": "Dar bir alanda, yılların pratiğiyle oluşmuş derin bilgi ve beceridir.",
+        "id": "sns.sa.mind.intel_expertise.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pres hattındaki uzmanlığı, makineyi yalnızca onun kurabileceği tek kişi yapmıştı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความเชี่ยวชาญของเธอในสายการผลิตทำให้เธอเป็นคนเดียวที่ตั้งเครื่องจักรได้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Keahliannya dalam pengoperasian mesin pers membuat ia satu-satunya orang yang mampu menyetel mesin tersebut.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sua especialização na linha de prensa tornou-a a única pessoa capaz de configurar a máquina.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀의 프레스 라인 전문 지식 덕분에 그녀만이 기계 설정을 할 수 있었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "プレス工程についての彼女のBET.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her expertise on the press line made her the only person who could set the machine up.",
+        "translation": "Chuyên môn của cô ấy về dây chuyền ép khiến cô ấy trở thành người duy nhất có thể thiết lập máy.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ffe8097ba79b07f751482c92ac443459d7966296ac69d88f480f303eac4c20c7": [
+      {
+        "forms": [
+          "Devaluation",
+          "cs_devaluation"
+        ],
+        "id": "lex.sa.mind.cs_devaluation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Devaluation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_devaluation.alt",
+          "sns.sa.mind.cs_devaluation.alt.ja",
+          "sns.sa.mind.cs_devaluation.alt.ko",
+          "sns.sa.mind.cs_devaluation.alt.pt_br",
+          "sns.sa.mind.cs_devaluation.alt.id",
+          "sns.sa.mind.cs_devaluation.alt.th",
+          "sns.sa.mind.cs_devaluation.alt.tr"
+        ]
+      },
+      {
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "exampleIds": [
+          "exm.sa.mind.cs_devaluation.1.1"
+        ],
+        "gloss": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "id": "sns.sa.mind.cs_devaluation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_devaluation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "人が人の作品や判断に対して持つ評価や立場を低い firstlyし、変ones牢牢させる行為。",
+        "exampleIds": [
+          "exm.sa.mind.cs_devaluation.1.1.ja"
+        ],
+        "gloss": "作品や判断に対する他人の評価や地位を、低いものにする行為。",
+        "id": "sns.sa.mind.cs_devaluation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_devaluation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사람들이 어떤 사람의 작품이나 판단을 덜 가치 있게 여기도록 만드는 행위. 단순한 의견 차이와 달리 당사자에게 불이익을 줄 수 있다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_devaluation.1.1.ko"
+        ],
+        "gloss": "다른 사람들이 매기는 한 사람의 일이나 판단의 가치를 낮추는 행위.",
+        "id": "sns.sa.mind.cs_devaluation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_devaluation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ação de diminuir a importância ou o reconhecimento atribuído ao trabalho, às ideias ou ao julgamento de alguém. Pode acontecer de forma explícita ou por meio de pequenas dúvidas.",
+        "exampleIds": [
+          "exm.sa.mind.cs_devaluation.1.1.pt_br"
+        ],
+        "gloss": "Ato de reduzir o valor atribuído ao trabalho ou ao julgamento de outra pessoa.",
+        "id": "sns.sa.mind.cs_devaluation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_devaluation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tindakan menurunkan nilai yang.attach orang lain terhadap pekerjaan, pendapat, atau penilaian seseorang. Penurunan ini dapat terjadi secara halus melalui pertanyaan-pertanyaan yang meragukan hasil kerjanya.",
+        "exampleIds": [
+          "exm.sa.mind.cs_devaluation.1.1.id"
+        ],
+        "gloss": "Penurunan nilai yang dilattach orang lain terhadap pekerjaan atau penilaian seseorang.",
+        "id": "sns.sa.mind.cs_devaluation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_devaluation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การทำให้ผลงานหรือคำพินิจของบุคคลดูมีคุณค่าน้อยลงในสายตาของผู้อื่น อาจเกิดจากการแสดงความไม่เชื่อถือหรือการลดทอนซ้ำ ๆ",
+        "exampleIds": [
+          "exm.sa.mind.cs_devaluation.1.1.th"
+        ],
+        "gloss": "การลดคุณค่าที่ผู้อื่นมองให้กับผลงานหรือคำพินิจของบุคคล",
+        "id": "sns.sa.mind.cs_devaluation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_devaluation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Başkalarının bir kişinin işine, yetkinliğine veya yargısına verdiği değeri azaltma. Genellikle açık bir saldırı yerine küçük itilazlar ve kuşkularla uygulanır.",
+        "exampleIds": [
+          "exm.sa.mind.cs_devaluation.1.1.tr"
+        ],
+        "gloss": "Bir kişinin işine veya yargısına verilen değeri düşürme.",
+        "id": "sns.sa.mind.cs_devaluation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_devaluation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_devaluation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Değersizleştirme sessizce ilerliyordu: her toplantı işine karşı küçük bir kuşkuyla başlıyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_devaluation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การลดคุณค่าเกิดขึ้นอย่างเงียบ ๆ เพราะทุกการประชุมเริ่มต้นด้วยความหวาดเห็นเล็ก ๆ เกี่ยวกับผลงานของเธอ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_devaluation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Penurunan nilai itu terjadi secara halus: setiap rapat dimulai dengan keraguan kecil terhadap pekerjaannya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_devaluation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A desvalorização foi discreta: cada reunião começava com uma pequena dúvida sobre o trabalho dela.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_devaluation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 평가 낮추기는 조용했다. 모든 회의가 그녀의 일에 대한 작은 의문을 꺼내는 것으로 시작했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_devaluation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "評価の引き下げは静かに行われ、すべての会議が彼女の仕事に小さな疑いを示して始まっていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_devaluation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

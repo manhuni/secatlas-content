@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <rect width="1200" height="675" fill="#101826"/>
+  <text x="64" y="72" font-family="Segoe UI, Noto Sans, sans-serif" font-size="40" font-weight="700" fill="#E8EDF3">How the seven base units carry every other unit</text>
+  <text x="64" y="116" font-family="Segoe UI, Noto Sans, sans-serif" font-size="21" fill="#96A5B9">Every derived unit is a product of the base units. Nothing is left over.</text>
+
+  <text x="64" y="186" font-family="Segoe UI, Noto Sans, sans-serif" font-size="19" font-weight="700" fill="#5EC8C0">BASE UNITS</text>
+
+  <g font-family="Segoe UI, Noto Sans, sans-serif">
+    <g fill="#1B2534" stroke="#34445C" stroke-width="2">
+      <rect x="64" y="204" width="140" height="104" rx="14"/>
+      <rect x="224" y="204" width="140" height="104" rx="14"/>
+      <rect x="384" y="204" width="140" height="104" rx="14"/>
+      <rect x="544" y="204" width="140" height="104" rx="14"/>
+      <rect x="704" y="204" width="140" height="104" rx="14"/>
+      <rect x="864" y="204" width="140" height="104" rx="14"/>
+      <rect x="1024" y="204" width="140" height="104" rx="14"/>
+    </g>
+    <g font-size="40" font-weight="700" fill="#5EC8C0" text-anchor="middle">
+      <text x="134" y="258">m</text>
+      <text x="294" y="258">kg</text>
+      <text x="454" y="258">s</text>
+      <text x="614" y="258">A</text>
+      <text x="774" y="258">K</text>
+      <text x="934" y="258">mol</text>
+      <text x="1094" y="258">cd</text>
+    </g>
+    <g font-size="18" fill="#96A5B9" text-anchor="middle">
+      <text x="134" y="288">metre</text>
+      <text x="294" y="288">kilogram</text>
+      <text x="454" y="288">second</text>
+      <text x="614" y="288">ampere</text>
+      <text x="774" y="288">kelvin</text>
+      <text x="934" y="288">mole</text>
+      <text x="1094" y="288">candela</text>
+    </g>
+  </g>
+
+  <g stroke="#34445C" stroke-width="2" fill="none">
+    <path d="M294 308 L294 372 L164 372 L164 430"/>
+    <path d="M134 308 L134 372 L164 372"/>
+    <path d="M454 308 L454 372 L164 372"/>
+    <path d="M164 430 L164 452 L326 452 L326 430"/>
+    <path d="M164 430 L164 452 L816 452 L816 430"/>
+    <path d="M164 452 L326 452"/>
+    <path d="M326 504 L326 540 L816 540 L816 504"/>
+  </g>
+
+  <text x="64" y="412" font-family="Segoe UI, Noto Sans, sans-serif" font-size="19" font-weight="700" fill="#5EC8C0">DERIVED UNITS</text>
+
+  <g font-family="Segoe UI, Noto Sans, sans-serif">
+    <g fill="#1B2534" stroke="#5EC8C0" stroke-width="2">
+      <rect x="64" y="430" width="200" height="104" rx="14"/>
+      <rect x="306" y="430" width="220" height="104" rx="14"/>
+      <rect x="568" y="430" width="220" height="104" rx="14"/>
+      <rect x="830" y="430" width="334" height="104" rx="14"/>
+    </g>
+    <g font-size="34" font-weight="700" fill="#E8EDF3">
+      <text x="84" y="476">N</text>
+      <text x="326" y="476">J</text>
+      <text x="588" y="476">W</text>
+      <text x="850" y="476">Pa</text>
+    </g>
+    <g font-size="17" fill="#96A5B9">
+      <text x="84" y="506">newton, force</text>
+      <text x="326" y="506">joule, energy</text>
+      <text x="588" y="506">watt, power</text>
+      <text x="850" y="506">pascal, pressure</text>
+    </g>
+    <g font-size="18" fill="#5EC8C0">
+      <text x="84" y="528">kg·m·s⁻²</text>
+      <text x="326" y="528">N·m</text>
+      <text x="588" y="528">J·s⁻¹</text>
+      <text x="850" y="528">N·m⁻²</text>
+    </g>
+  </g>
+
+  <g font-family="Segoe UI, Noto Sans, sans-serif">
+    <rect x="64" y="580" width="1100" height="54" rx="12" fill="#151E2E" stroke="#34445C" stroke-width="2"/>
+    <text x="88" y="614" font-size="19" fill="#E8EDF3">Read the box as a sentence: a newton is a kilogram, a metre and a second, used once.</text>
+  </g>
+</svg>

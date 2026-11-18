@@ -1,0 +1,1893 @@
+{
+  "records": {
+    "7f1ce4658d291d1bc83c072d08e15c722f9725e5c3df1afb0b0a856d9e269382": [
+      {
+        "forms": [
+          "Billing cycle",
+          "billing_cycle"
+        ],
+        "id": "lex.sa.money.billing_cycle",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Billing cycle",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.billing_cycle.alt",
+          "sns.sa.money.billing_cycle.alt.ja",
+          "sns.sa.money.billing_cycle.alt.ko",
+          "sns.sa.money.billing_cycle.alt.pt_br",
+          "sns.sa.money.billing_cycle.alt.id",
+          "sns.sa.money.billing_cycle.alt.th",
+          "sns.sa.money.billing_cycle.alt.tr"
+        ]
+      },
+      {
+        "definition": "The period between two statements. Everything bought in one cycle appears on the next statement.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1"
+        ],
+        "gloss": "The period between two statements. Everything bought in one cycle appears on the next statement.",
+        "id": "sns.sa.money.billing_cycle.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "利用明細書の発行間隔を指し、一つの請求期間中に利用した内容が次の明細書に記載される。",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.ja"
+        ],
+        "gloss": "二回の明細書の-betweenの間隔。",
+        "id": "sns.sa.money.billing_cycle.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "대부분의 구매 내역이 다음 청구서에 반영되는 정해진 기간이다. 결제일과 청구서 발행일은 서로 다를 수 있다.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.ko"
+        ],
+        "gloss": "두 번의 청구서 발행 사이에 흐르는 기간.",
+        "id": "sns.sa.money.billing_cycle.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Período durante o qual as compras são registradas para aparecer na próxima fatura. A data de encerramento do ciclo determina quais transações serão incluídas nela.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.pt_br"
+        ],
+        "gloss": "O intervalo entre duas cobranças ou faturas.",
+        "id": "sns.sa.money.billing_cycle.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Selang waktu antaramtv dua pernyataan tagihan. Semua pembelian yang dilakukan selama satu siklus akan tercantum pada pernyataan berikutnya.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.id"
+        ],
+        "gloss": "Periode antara duaHWFP tagihan.",
+        "id": "sns.sa.money.billing_cycle.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ช่วงเวลาที่ใช้เรียกเก็บเงินและออกใบแจ้งหนี้ตามรอบ รายการซื้อที่เกิดขึ้นในแต่ละรอบจะปรากฏในใบแจ้งหนี้ของรอบนั้นหรือรอบถัดไป",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.th"
+        ],
+        "gloss": "ระยะเวลาระหว่างการออกใบแจ้งหนี้สองครั้ง",
+        "id": "sns.sa.money.billing_cycle.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Harcamaların toplanıp hesap özetiyle sunulduğu süredir. Bu dönemde yapılan tüm alışverişler, bir sonraki hesap özetinde görünür.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.tr"
+        ],
+        "gloss": "İki hesap özeti arasında geçen faturalandırma dönemidir.",
+        "id": "sns.sa.money.billing_cycle.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "Faturalandırma dönemi 12'de kapanıyor; bu yüzden market alışverişlerim 12 tarihli hesap özetinde görünüyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "รอบการเรียกเก็บเงินปิดวันที่ ๑๒ ดังนั้นของซื้อของฉันจึงปรากฏในใบแจ้งหนี้วันที่ ๑๒",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "Siklus penagihan berakhir pada tanggal 12, sehingga belanjaan saya tercantum dalam pernyataan tanggal 12.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "O ciclo de cobrança fecha no dia 12, por isso minhas compras aparecem na fatura de fechamento daquele mês.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "청구 주기는 12일에 끝나므로 음식료품이 12일자에 issued 청구서에 나타난다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "請求サイクルは12日に終了するため、食品の purchases は12日付の明細書に記載されます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7f2221c8bae684d5a1618558c247a0eb21c5ef54ea4f5c76d932b186755d3e6b": [
+      {
+        "forms": [
+          "Due process",
+          "pd_due_process"
+        ],
+        "id": "lex.sa.mind.pd_due_process",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Due process",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.pd_due_process.alt",
+          "sns.sa.mind.pd_due_process.alt.ja",
+          "sns.sa.mind.pd_due_process.alt.ko",
+          "sns.sa.mind.pd_due_process.alt.pt_br",
+          "sns.sa.mind.pd_due_process.alt.id",
+          "sns.sa.mind.pd_due_process.alt.th",
+          "sns.sa.mind.pd_due_process.alt.tr"
+        ]
+      },
+      {
+        "definition": "The rules a decision must follow: notice, the chance to be heard, a written reason and a way to appeal.",
+        "exampleIds": [
+          "exm.sa.mind.pd_due_process.1.1"
+        ],
+        "gloss": "The rules a decision must follow: notice, the chance to be heard, a written reason and a way to appeal.",
+        "id": "sns.sa.mind.pd_due_process.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.pd_due_process",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "正当な手続とは、通知、意見を述べる機会、書面による理由、appeal Doubling 手段など、決定について定めた手続きである。",
+        "exampleIds": [
+          "exm.sa.mind.pd_due_process.1.1.ja"
+        ],
+        "gloss": "決定が守らなければならない手続き。",
+        "id": "sns.sa.mind.pd_due_process.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.pd_due_process",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "알림, 진술할 기회, 서면 이유, 이의 신청 수단 등 결정에 따라야 할 절차적 규칙을 이룬다. 공정한 심사를 보장하기 위해 사용된다.",
+        "exampleIds": [
+          "exm.sa.mind.pd_due_process.1.1.ko"
+        ],
+        "gloss": "결정을 내릴 때 따라야 하는 절차적 규칙.",
+        "id": "sns.sa.mind.pd_due_process.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.pd_due_process",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O conjunto de garantias que qualquer decisão deve respeitar, como ser avisado, poder se manifestar, receber uma justificativa por escrito e recorrer. Sem isso, a decisão vira final e incontestável.",
+        "exampleIds": [
+          "exm.sa.mind.pd_due_process.1.1.pt_br"
+        ],
+        "gloss": "As regras que uma decisão deve seguir: aviso, chance de ser ouvido, uma razão escrita e um caminho para recorrer.",
+        "id": "sns.sa.mind.pd_due_process.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.pd_due_process",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Prosedur hukum yang mengharuskan pemberitahuan, kesempatan didengar, penyajian alasan tertulis, dan hak untuk banding. Tanpa prosedur tersebut, keputusan dapat menjadi final dan tidak dapat dibantah.",
+        "exampleIds": [
+          "exm.sa.mind.pd_due_process.1.1.id"
+        ],
+        "gloss": "Prosedur wajib yang protects fairness terhadapKeputusan.",
+        "id": "sns.sa.mind.pd_due_process.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.pd_due_process",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หลักการที่การตัดสินต้องแจ้งข้อกล่าวหา ให้โอกาสผู้ถูกกล่าวหาได้แสดงความคิดเห็น ให้เหตุผลเป็นลายลักษณ์อักษร และเปิดทางให้อุทธิตรอง หากไม่มีหลักนิติการ การตัดสินอาจยุติได้โดยไม่มีทางโต้แย้ง",
+        "exampleIds": [
+          "exm.sa.mind.pd_due_process.1.1.th"
+        ],
+        "gloss": "หลักนิติการที่การตัดสินต้องปฏิบัติตาม",
+        "id": "sns.sa.mind.pd_due_process.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.pd_due_process",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hakkı elinden alınan ya da etkilenen kişinin, karar hakkında haberdar olması, savunmasını dinletilmesi, gerekçeyi yazılı görmesi ve karara itir edebilmesini güvence altına alan kurallar bütünüdür. Bu kurallar olmadan verilen karar baştan haksızdır.",
+        "exampleIds": [
+          "exm.sa.mind.pd_due_process.1.1.tr"
+        ],
+        "gloss": "Bir kararın uyması gereken kurallar: bildirim, dinlenme, yazılı gerekçe ve itir hakkı.",
+        "id": "sns.sa.mind.pd_due_process.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.pd_due_process",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.pd_due_process.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Usul olmadan karar kesinleşti ve itir edilecek bir yer kalmadı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.pd_due_process.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "หากไม่มีหลักนิติการ คำสั่งนั้นเป็นอันยุติและไม่มีทางอุทธิตรอง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.pd_due_process.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tanpa prosedur yang adil, keputusan menjadi final dan tidak ada tempat untuk mengadukan keputusan itu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.pd_due_process.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sem devido processo, a decisão era final, e não havia para onde levá-la.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.pd_due_process.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "정당한 절차 없이 내린 결정은 다시 다툴 수 있는 곳이 없었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.pd_due_process.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "正当な手続を踏まなければ決定は最終となり、不服を申立てる手段もなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.pd_due_process.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Without due process the decision was final, and there was nowhere to take it.",
+        "translation": "Không có thủ tục tố tương ứng, quyết định là cuối cùng và không có nơi nào để khiếu nại.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7f2fe580edb35154041fa3d4b41dd6d3adaef0c85d2ff6309f1d4b520eeecda3": [
+      {
+        "forms": [
+          "linear"
+        ],
+        "id": "lex.sa.en.linear.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "linear",
+        "pos": "adjective",
+        "pronunciationIds": [
+          "prn.sa.en.linear.adjective",
+          "prn.sa.en.linear.adjective.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.linear.adjective.1",
+          "sns.sa.en.linear-adjective.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.linear-adjective",
+        "id": "prn.sa.en.linear.adjective",
+        "ipa": "/ˈlɪniə/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.linear.adjective.us",
+        "ipa": "/ˈlɪn.i.ɚ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Có bậc một; đồ thị là đường thẳng, không có số hạng x² hay cao hơn.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.linear.adjective.1.1",
+          "exm.sa.en.linear-adjective.more.01",
+          "exm.sa.en.linear-adjective.more.02"
+        ],
+        "gloss": "tuyến tính; bậc nhất",
+        "id": "sns.sa.vi.linear.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.linear.adjective",
+        "pos": "adjective",
+        "resourceIds": [
+          "res.sa.diagram.line",
+          "res.sa.img.linear-adjective",
+          "res.sa.aud.linear-adjective",
+          "res.sa.lnk.linear-adjective",
+          "res.sa.vid.linear-adjective"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Degree one; the graph is a straight line.",
+        "exampleIds": [
+          "exm.sa.en.linear.adjective.1.1"
+        ],
+        "gloss": "Degree one; the graph is a straight line.",
+        "id": "sns.sa.en.linear-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.linear.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.linear.adjective.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A linear equation graphs as a straight line.",
+        "translation": "Phương trình tuyến tính có đồ thị là đường thẳng.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.diagram.line",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://ddc67689924cc303da14f2af9cc4c658adbefd3ea1c0de254f48bd9483724239",
+            "mime": "image/png"
+          }
+        ],
+        "title": "Straight line diagram",
+        "type": "image"
+      },
+      {
+        "id": "res.sa.vid.linear-adjective",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "linear clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.vi.linear.adjective.1",
+        "id": "lnk.sa.en.glossary.004",
+        "kind": "relation",
+        "toId": "sns.sa.vi.equation.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.linear.adjective.1",
+        "id": "lnk.sa.en.glossary.005",
+        "kind": "relation",
+        "toId": "sns.sa.vi.line.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.linear.adjective.1",
+        "id": "lnk.sa.en.glossary.006",
+        "kind": "relation",
+        "toId": "sns.sa.vi.straight.adjective.1",
+        "type": "related_to"
+      }
+    ],
+    "7f480e744a79953eb916b68f540e0eeec6f9cf23edf4aa08cc1cdf5f077c0f6f": [
+      {
+        "forms": [
+          "Spoon",
+          "spoon"
+        ],
+        "id": "lex.sa.kids_home.spoon",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Spoon",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_home.spoon.alt",
+          "sns.sa.kids_home.spoon.alt.ja",
+          "sns.sa.kids_home.spoon.alt.ko",
+          "sns.sa.kids_home.spoon.alt.pt_br",
+          "sns.sa.kids_home.spoon.alt.id",
+          "sns.sa.kids_home.spoon.alt.th",
+          "sns.sa.kids_home.spoon.alt.tr"
+        ]
+      },
+      {
+        "definition": "A small bowl with a handle. We use it for soup, rice and porridge.",
+        "exampleIds": [
+          "exm.sa.kids_home.spoon.1.1"
+        ],
+        "gloss": "A small bowl with a handle. We use it for soup, rice and porridge.",
+        "id": "sns.sa.kids_home.spoon.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_home.spoon",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "スープやご飯などを食べるために使う、柄の付いた小さな器。匙ともいう。",
+        "exampleIds": [
+          "exm.sa.kids_home.spoon.1.1.ja"
+        ],
+        "gloss": "柄の付いた小さな器で、スープやご飯を食べる。",
+        "id": "sns.sa.kids_home.spoon.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_home.spoon",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "수프, 밥, 죽 등을 떠먹는 데 쓰는 작고 얕은 그릇으로 손잡이가 달려 있다.",
+        "exampleIds": [
+          "exm.sa.kids_home.spoon.1.1.ko"
+        ],
+        "gloss": "손잡이가 달린 작은 국자.",
+        "id": "sns.sa.kids_home.spoon.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_home.spoon",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uma pequena concha com cabo usada para comer alimentos líquidos ou finos, como sopa, arroz e mingau.",
+        "exampleIds": [
+          "exm.sa.kids_home.spoon.1.1.pt_br"
+        ],
+        "gloss": "Pequena concha com cabo usada para comer sopas, arroz e mingau.",
+        "id": "sns.sa.kids_home.spoon.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_home.spoon",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sendok kecil yang beruas dan berpegangan, biasanya digunakan untuk-consuming sup, nasi, atau bubur.",
+        "exampleIds": [
+          "exm.sa.kids_home.spoon.1.1.id"
+        ],
+        "gloss": "Sendok kecil yang beruas dan berpegangan.",
+        "id": "sns.sa.kids_home.spoon.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_home.spoon",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ภาชนะชิ้นเล็กที่มีด้าม ใช้ตักซุป ข้าว และโจ้ก",
+        "exampleIds": [
+          "exm.sa.kids_home.spoon.1.1.th"
+        ],
+        "gloss": "ช้อนชิ้นเล็กที่มีด้ามสำหรับตักอาหาร",
+        "id": "sns.sa.kids_home.spoon.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_home.spoon",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sapı olan küçük bir kap. İçine çorba, pilav veya kahve alınır ve ağızdan yemek için kullanılır.",
+        "exampleIds": [
+          "exm.sa.kids_home.spoon.1.1.tr"
+        ],
+        "gloss": "Sapı olan küçük bir kap; çorba, pilav ve kahve içmek için kullanılır.",
+        "id": "sns.sa.kids_home.spoon.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_home.spoon",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_home.spoon.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a spoon for my soup?",
+        "translation": "Çorbam için bir kaşık alabilir miyim?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_home.spoon.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a spoon for my soup?",
+        "translation": "ขอช้อนสำหรับซุปหน่อยได้ไหม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_home.spoon.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a spoon for my soup?",
+        "translation": "Boleh saya memakai sendok untuk sup saya?",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_home.spoon.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a spoon for my soup?",
+        "translation": "Posso usar uma colher para tomar a sopa?",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_home.spoon.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a spoon for my soup?",
+        "translation": "수프를 먹을 때 스푼을 하나 주세요.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_home.spoon.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a spoon for my soup?",
+        "translation": "スープをすくうためにスプーンをください。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_home.spoon.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a spoon for my soup?",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7f4cc013fca95c112edb073a4e7c61054e3d6e2e96567318a74fb244e84319b0": [
+      {
+        "forms": [
+          "Model",
+          "mathlit_model"
+        ],
+        "id": "lex.sa.mind.mathlit_model",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Model",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mathlit_model.alt",
+          "sns.sa.mind.mathlit_model.alt.ja",
+          "sns.sa.mind.mathlit_model.alt.ko",
+          "sns.sa.mind.mathlit_model.alt.pt_br",
+          "sns.sa.mind.mathlit_model.alt.id",
+          "sns.sa.mind.mathlit_model.alt.th",
+          "sns.sa.mind.mathlit_model.alt.tr"
+        ]
+      },
+      {
+        "definition": "A working idea of how something behaves, kept by the writer and never written as a rule.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_model.1.1"
+        ],
+        "gloss": "A working idea of how something behaves, kept by the writer and never written as a rule.",
+        "id": "sns.sa.mind.mathlit_model.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mathlit_model",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "物事や人物がどのように振る舞うかについて、書き手が内 Tolkenに保っている考え。規則として明文化しない場合にも、その考えは場面の構成を左右する。",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_model.1.1.ja"
+        ],
+        "gloss": "書き手が心の中で保つ、物事の様子についての作業上の考え。",
+        "id": "sns.sa.mind.mathlit_model.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mathlit_model",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사람이나 사물이 어떻게 행동한다고 보는 작가의 working idea다. 명시적인 규칙으로 적히기보다 작품 전체에 일관된 방식으로 반영된다.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_model.1.1.ko"
+        ],
+        "gloss": "작품에서 보이지 않는 규칙처럼 작동하는 일에 대한 작가의 생각.",
+        "id": "sns.sa.mind.mathlit_model.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mathlit_model",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ideia de trabalho sobre o comportamento de algo, mantida pelo escritor sem ser transformada em regra.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_model.1.1.pt_br"
+        ],
+        "gloss": "Ideia de trabalho sobre o comportamento de algo, mantida pelo escritor sem ser transformada em regra.",
+        "id": "sns.sa.mind.mathlit_model.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mathlit_model",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gagasan kerja tentang perilaku sesuatu yang dipegang penulis tanpa dituliskan sebagai aturan. Kata ini merujuk pada gambaran mental penulis, bukan model fisik.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_model.1.1.id"
+        ],
+        "gloss": "Gagasan kerja tentang perilaku sesuatu yang dipegang penulis tanpa dituliskan sebagai aturan.",
+        "id": "sns.sa.mind.mathlit_model.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mathlit_model",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แนวคิดเกี่ยวกับพฤติกรรมของสิ่งหนึ่งที่ผู้เขียนใช้กำหนดฉาก โดยทั่วไปไม่ได้เขียนเป็นกฎ แต่ควรคงอยู่ตลอดงาน",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_model.1.1.th"
+        ],
+        "gloss": "แนวคิดเกี่ยวกับพฤติกรรมของสิ่งหนึ่งที่ผู้เขียนใช้กำหนดฉาก",
+        "id": "sns.sa.mind.mathlit_model.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mathlit_model",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yazarın zihninde tuttuğu, bir olayın nasıl işlediğine dair çalışan düşünce. Kural hâline getirilmez; metnin sahnelerini belirlemek için yol gösterir.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_model.1.1.tr"
+        ],
+        "gloss": "Yazarın zihninde tuttuğu, bir olayın nasıl işlediğine dair çalışan düşünce.",
+        "id": "sns.sa.mind.mathlit_model.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mathlit_model",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mathlit_model.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Yazarın sinirli bir mühendisin nasıl davrandığına dair bir modeli vardır ve bütün sahneler buna göre kurulur.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_model.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ผู้เขียนมีแบบจำลองว่าวิศวกรที่ nervous ประพฤติตัวอย่างไร และทุกฉากถูกสร้างขึ้นจากแนวคิดนั้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_model.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Penulis memiliki model perilaku seorang insinyur gugup, dan setiap adegan dibangun berdasarkan gambaran itu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_model.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O escritor tem um modelo de como se comporta um engenheiro nervoso, e cada cena é construída com base nele.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_model.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "작가는 긴장한 기술자의 행동 방식을 모델 삼아 모든 장면을 구성했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_model.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "書き手は nerves engineer の振る舞いについてのモデルを持っており、すべての場面はそれを土台にして書かれている。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_model.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The writer has a model of how a nervous engineer behaves, and every scene is built on it.",
+        "translation": "Người viết có một mô hình về cách một kỹ sư căng thẳng cư xử, và mọi cảnh trong câu chuyện đều được xây dựng trên mô hình đó.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7f7cc8d6d1e0c03f135c03339d01c5cf4c6243101cf3b83d62e0b6193ecb2488": [
+      {
+        "forms": [
+          "Brake light",
+          "brake_light"
+        ],
+        "id": "lex.sa.en.brake.light",
+        "kind": "lexeme",
+        "lemma": "Brake light",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.brake.light.alt"
+        ]
+      },
+      {
+        "definition": "The brake light is on. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The brake light is on.",
+        "id": "sns.sa.en.brake.light.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.brake.light",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "7f87f75072e0bca522f1fca45be264c3a40e1620c2d127f1c9ee74a6d76b1c68": [
+      {
+        "forms": [
+          "Gaslighting",
+          "psy_gaslighting"
+        ],
+        "id": "lex.sa.mind.psy_gaslighting",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Gaslighting",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.psy_gaslighting.alt",
+          "sns.sa.mind.psy_gaslighting.alt.ja",
+          "sns.sa.mind.psy_gaslighting.alt.ko",
+          "sns.sa.mind.psy_gaslighting.alt.pt_br",
+          "sns.sa.mind.psy_gaslighting.alt.id",
+          "sns.sa.mind.psy_gaslighting.alt.th",
+          "sns.sa.mind.psy_gaslighting.alt.tr"
+        ]
+      },
+      {
+        "definition": "A repeated attack on a person's memory and judgement, so that they stop trusting what they remember.",
+        "exampleIds": [
+          "exm.sa.mind.psy_gaslighting.1.1"
+        ],
+        "gloss": "A repeated attack on a person's memory and judgement, so that they stop trusting what they remember.",
+        "id": "sns.sa.mind.psy_gaslighting.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.psy_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "相手の記憶や判断を繰り返し攻撃して、その人が自分の記憶を信頼しなくなる手法。日常の場面や関係のCbclesの中で行われ、本人が気づいていないことが多い。",
+        "exampleIds": [
+          "exm.sa.mind.psy_gaslighting.1.1.ja"
+        ],
+        "gloss": "記憶と判断を繰り返し否定され、やがて自分の記憶を信じなくなること。",
+        "id": "sns.sa.mind.psy_gaslighting.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.psy_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대의 기억과 판단을 반복해서 부정하여 스스로 무엇이 진실인지 믿지 못하게 만드는 행위다.",
+        "exampleIds": [
+          "exm.sa.mind.psy_gaslighting.1.1.ko"
+        ],
+        "gloss": "반복적으로 기억과 판단심을 훼손해 자기 기억을 믿지 못하게 만드는 행위.",
+        "id": "sns.sa.mind.psy_gaslighting.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.psy_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Manipulação repetida da memória e do julgamento de alguém, fazendo-o duvidar das próprias lembranças e perder a confiança em seu discernimento. O termo é usado principalmente em contextos de abuso em relacionamentos, no trabalho e emstitutos familiares.",
+        "exampleIds": [
+          "exm.sa.mind.psy_gaslighting.1.1.pt_br"
+        ],
+        "gloss": "Ataques repetidos à memória e ao discernimento de alguém para fazê-lo duvidar do que lembra.",
+        "id": "sns.sa.mind.psy_gaslighting.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.psy_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pola manipulatif yang membuat korban kehilangan kepercayaan terhadap apa yang ia ingat dan penilaiannya sendiri. Berbeda dari sekadar berbohong, Dampaknya membuat korban meragukan persepsinya.",
+        "exampleIds": [
+          "exm.sa.mind.psy_gaslighting.1.1.id"
+        ],
+        "gloss": "Serangan berulang terhadap memori dan penilaian seseorang sehingga ia mulai meragukan ingatannya.",
+        "id": "sns.sa.mind.psy_gaslighting.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.psy_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การโจมตีความทรงจำและการตัดสินใจของบุคคลซ้ำ ๆ จนพวกเขาไม่เชื่อสิ่งที่ตนจำได้ มักเกิดจากการบอกว่าความทรงจำหรือคำบอกเล่าของพวกเขาผิด",
+        "exampleIds": [
+          "exm.sa.mind.psy_gaslighting.1.1.th"
+        ],
+        "gloss": "การทำให้บุคคลสงสัยในความทรงจำและการตัดสินใจของตนจนเลิกเชื่อมั่นตนเอง",
+        "id": "sns.sa.mind.psy_gaslighting.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.psy_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin anlattıklarının yanlış olduğu tekrar tekrar söylenerek ona duyduğu güvenin sarsılmasını sağlamak. Amaç, kişinin gerçeği kendi başına değerlendiremez hâle gelmesidir.",
+        "exampleIds": [
+          "exm.sa.mind.psy_gaslighting.1.1.tr"
+        ],
+        "gloss": "Duygusal manipülasyon: Bir kişinin hafızasına ve yargısına yönelik, kendi hatırladıklarına güvenmeyi bıraktıran tekrarlayan saldırı.",
+        "id": "sns.sa.mind.psy_gaslighting.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.psy_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.psy_gaslighting.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu duygusal manipülasyondu: ona kendisinin anlattığı toplantı hesabının yanlış olduğu söylendi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.psy_gaslighting.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "นั่นเป็นการทำให้สงสัยในความทรงจำ เพราะเธอถูกบอกว่าคำบอกเล่าของตัวเองเกี่ยวกับการประชุมผิด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.psy_gaslighting.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Gaslighting terlihat ketika ia diberi tahu bahwa kisahnya tentang rapat salah sehingga ia mulai meragukan ingatannya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.psy_gaslighting.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Houve um caso de gaslighting: ela foi induzida a duvidar da própria versão da reunião.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.psy_gaslighting.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 회의 내용을 잘못 말했다는 말을 계속 들어 들었다가 결국 가스라이팅을 당하게 되었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.psy_gaslighting.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "これはガスライティングだった。彼女は会議の事情を自分の記憶どおりに話なのに、誤りだと_clustersに言われるようになった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.psy_gaslighting.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was gaslighting: she was told her own account of the meeting was wrong.",
+        "translation": "",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Gaslighting",
+          "gd_gaslighting"
+        ],
+        "id": "lex.sa.mind.gd_gaslighting",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Gaslighting",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.gd_gaslighting.alt",
+          "sns.sa.mind.gd_gaslighting.alt.ja",
+          "sns.sa.mind.gd_gaslighting.alt.ko",
+          "sns.sa.mind.gd_gaslighting.alt.pt_br",
+          "sns.sa.mind.gd_gaslighting.alt.id",
+          "sns.sa.mind.gd_gaslighting.alt.th",
+          "sns.sa.mind.gd_gaslighting.alt.tr"
+        ]
+      },
+      {
+        "definition": "The repeated rewriting of a shared account of events, so that the person who was there begins to doubt their own memory.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting.1.1"
+        ],
+        "gloss": "The repeated rewriting of a shared account of events, so that the person who was there begins to doubt their own memory.",
+        "id": "sns.sa.mind.gd_gaslighting.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.gd_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "誰がCEN事実かではなく、起きなかったことを否定する仕組みを指す。",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting.1.1.ja"
+        ],
+        "gloss": "出来事を共有した記憶を繰り返し書き換える操作。",
+        "id": "sns.sa.mind.gd_gaslighting.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.gd_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "두 사람이 공유하는 사건의 내용을 반복해 고쳐, 당사자가 들은 말을 믿지 못하게 만드는 조작이다. 단순한 의견 불일치나 기억 착각과 다르다.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting.1.1.ko"
+        ],
+        "gloss": "공동된 사건의 기록을 반복해서 바꿔 나가, 목격자가 자신의 기억을 의심하게 만드는 행위다.",
+        "id": "sns.sa.mind.gd_gaslighting.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.gd_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Conduta em que uma versão compartilhada dos acontecimentos é reescrita repetidamente, fazendo quem estava presente começar a duvidar do que viu ou ouviu.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting.1.1.pt_br"
+        ],
+        "gloss": "Reescrita repetida de uma versão dos fatos que faz a própria memória parecer duvidosa.",
+        "id": "sns.sa.mind.gd_gaslighting.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.gd_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gaslighting adalah pola yang berulang kali mengubah kesaksian tentang peristiwa sehingga orang yang hadir mulai meragukan apa yang mereka alami atau dengar. Istilah ini tidak sama dengan sekadar perbedaan INGATAN atau kesalahan kecil.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting.1.1.id"
+        ],
+        "gloss": "Gaslighting adalah penulisan ulang berulang atas kesaksian sehingga seseorang mulai meragukan ingatannya sendiri.",
+        "id": "sns.sa.mind.gd_gaslighting.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.gd_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การแก้ไขเรื่องเล่าหรือปฏิเสธสิ่งที่เกิดขึ้นอย่างต่อเนื่องเพื่อให้ผู้ที่อยู่ในเหตุการณ์เริ่มไม่แน่ใจว่าตนจำได้จริงหรือไม่",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting.1.1.th"
+        ],
+        "gloss": "การปรับเปลี่ยนเรื่องเล่าซ้ำจนทำให้เหยื่อให้อีกฝ่ายสงสัยความทรงจำของตน",
+        "id": "sns.sa.mind.gd_gaslighting.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.gd_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Karşı tarafın gördüğü ve duyduğu şeyleri gerçekten yaşadığından kuşku duymasına yol açan sürekli olumsuzlama biçimi. Burada hedeflenen kişinin belleği değil, gerçeğe güvenmesidir.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting.1.1.tr"
+        ],
+        "gloss": "Bir olayın ortak anlatısını tekrar tekrar değiştirerek bir kişinin kendi belleğinden kuşku duymasını sağlamak.",
+        "id": "sns.sa.mind.gd_gaslighting.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.gd_gaslighting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu, bir olumsulama davranışıydı: toplantının anlatısı, kadın duyduklarından kuşku duyana dek yeniden yazıldı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "นั่นเป็นการปรับเปลี่ยนเรื่องเล่าจนเธอเริ่มสงสัยว่าได้ยินคำประชุมนั้นจริงหรือไม่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "-gaslighting terjadi ketika kesaksian rapat diubah terus-menerus sampai dia meragukan apa yang telah didengarnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Foi gaslighting: a versão da reunião foi reescrita até que ela duvidasse do que tinha ouvido.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그것은 기억 조작이었다. 회의에 관한 기록이 바뀌어 그녀는 자신이 들은 말을 의심했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "会議で何が起きたかが繰り返し否定され、彼女は自分の記憶を疑い始めた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was gaslighting: the account of the meeting was rewritten until she doubted what she had heard.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7f88637790fed89fb78807d89d684d3e7be6094114050aac24edf1c7021a318d": [
+      {
+        "forms": [
+          "Tolerance of frustration",
+          "gem_frustration_tolerance"
+        ],
+        "id": "lex.sa.social.gem_frustration_tolerance",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Tolerance of frustration",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gem_frustration_tolerance.alt",
+          "sns.sa.social.gem_frustration_tolerance.alt.ja",
+          "sns.sa.social.gem_frustration_tolerance.alt.ko",
+          "sns.sa.social.gem_frustration_tolerance.alt.pt_br",
+          "sns.sa.social.gem_frustration_tolerance.alt.id",
+          "sns.sa.social.gem_frustration_tolerance.alt.th",
+          "sns.sa.social.gem_frustration_tolerance.alt.tr"
+        ]
+      },
+      {
+        "definition": "The capacity to stay with a delay, a refusal or a mistake without making the other person pay for it.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1"
+        ],
+        "gloss": "The capacity to stay with a delay, a refusal or a mistake without making the other person pay for it.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "待ち時間、要求の拒絶、過ちなどがあっても、苛立ちを他人にぶつけることなくFixtureする能力。",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.ja"
+        ],
+        "gloss": "遅延や拒絶、間違いに直面しても他人にIRECTを向けずに耐える能力。",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기다림이나 거절, 실수로 불쾌해져도 그 결과를 주변 사람에게 감정적으로 전하지 않는 능력이다. 참는 것만 아니라 상황을 계속 다루면서 분노를 조절하는 힘을 뜻한다.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.ko"
+        ],
+        "gloss": "지연이나 거절, 실수에도 분노를 다른 사람에게 옮기지 않는 인내력.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A capacidade de suportar frustrações sem reagir de forma agressiva, impaciente ou excessivamente rancorosa.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.pt_br"
+        ],
+        "gloss": "lidar com atrasos, recusas ou erros sem fazer o outro pagar por isso.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kesampuan untuk tetap tenang menghadapi penundaan, penolakan, atau kesalahan tanpa membuat orang lain menanggung akibatnya. Istilah ini sering digunakan dalam konteks kerja tim dan parenting.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.id"
+        ],
+        "gloss": "Kesampuan bertahan menghadapi penundaan, penolakan, atau kesalahan tanpa menyalahkan orang lain.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสามารถในการรับมือกับความล่าช้า คำปฏิเสธ หรือความผิดพลาดโดยไม่ถ่ายภาระหรือผลกระทบไปให้ผู้อื่น",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.th"
+        ],
+        "gloss": "ความอดทนต่อความล่าช้า คำปฏิเสธ หรือความผิดพลาด",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gecikme, ret veya hata karşısında tepkisini kontrol altında tutma ve sıkıntısını başkasına yüklememe kapasitesi.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.tr"
+        ],
+        "gloss": "Gecikme, ret ya da hatayla karşılaşınca sabırlı kalabilme kapasitesi.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hayal kırıklığına tolerans, iyi bir ekip liderinin cuma günü sakin bir yanıtla kazandığı bir yetenektir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความอดทนต่อความหงุดหงิดทำให้ผู้นำทีมตอบอย่างสงบได้ในวันศุกร์ที่งานยุ่ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pemimpin tim yang baik menunjukkan toleransi frustrasi dengan menjawab tenang ketika Decisions keputusan tertunda.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A tolerância à frustração de uma boa liderança se vê na resposta calma diante de um atraso na sexta-feira.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "금요일에 받은 불만을 팀원에게 퍼붓지 않고 차분히 정리한 것은 좌절을 견디는 인내력 덕분이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "金曜の静かな答えは、よいチームリーダーにはフラストレーション耐性があること.robotics",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Tolerance of frustration is what a good team leader buys with a calm answer on a Friday.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7f8e56f49dee51f40faaae53c086eafa228680521bf448de0995f5b2e17a34d2": [
+      {
+        "forms": [
+          "Constructive disagreement",
+          "constructive_disagreement"
+        ],
+        "id": "lex.sa.social.constructive_disagreement",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Constructive disagreement",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.constructive_disagreement.alt",
+          "sns.sa.social.constructive_disagreement.alt.ja",
+          "sns.sa.social.constructive_disagreement.alt.ko",
+          "sns.sa.social.constructive_disagreement.alt.pt_br",
+          "sns.sa.social.constructive_disagreement.alt.id",
+          "sns.sa.social.constructive_disagreement.alt.th",
+          "sns.sa.social.constructive_disagreement.alt.tr"
+        ]
+      },
+      {
+        "definition": "A disagreement that improves the decision being made and leaves the working relationship intact.",
+        "exampleIds": [
+          "exm.sa.social.constructive_disagreement.1.1"
+        ],
+        "gloss": "A disagreement that improves the decision being made and leaves the working relationship intact.",
+        "id": "sns.sa.social.constructive_disagreement.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.constructive_disagreement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "異なる意見を述べても、決定のProcesses? no.",
+        "exampleIds": [
+          "exm.sa.social.constructive_disagreement.1.1.ja"
+        ],
+        "gloss": "decisionの質をGood? no.",
+        "id": "sns.sa.social.constructive_disagreement.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.constructive_disagreement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "서로 다른 주장을 통해 결정의 질을 높이는 이견이다.bate와 직후에도 사이를STF 관계와Qsat.",
+        "exampleIds": [
+          "exm.sa.social.constructive_disagreement.1.1.ko"
+        ],
+        "gloss": "의사결정을 개선하면서 관계를 유지하는 이견.",
+        "id": "sns.sa.social.constructive_disagreement.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.constructive_disagreement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Conflito em que as partes discordam de maneira útil, examinando argumentos e chegando a um próximo passo claro. O foco está no resultado da decisão, não em vencer a discussão.",
+        "exampleIds": [
+          "exm.sa.social.constructive_disagreement.1.1.pt_br"
+        ],
+        "gloss": "Discordância que melhora a decisão em discussão e preserva a relação de trabalho.",
+        "id": "sns.sa.social.constructive_disagreement.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.constructive_disagreement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Perbedaan pendapat yang membantu menghasilkan keputusan lebih baik while menjaga hubungan kerja tetap baik.ocus",
+        "exampleIds": [
+          "exm.sa.social.constructive_disagreement.1.1.id"
+        ],
+        "gloss": "Perbedaan pendapat yang memperbaiki keputusan tanpa merusak hubungan.",
+        "id": "sns.sa.social.constructive_disagreement.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.constructive_disagreement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การโต้แย้งที่เปิดโอกาสให้ปรับปรุงการตัดสินใจ โดยไม่ทำลายความสัมพันธ์ที่ดีระหว่างผู้ทำงาน",
+        "exampleIds": [
+          "exm.sa.social.constructive_disagreement.1.1.th"
+        ],
+        "gloss": "ข้อโต้แย้งที่ช่วยให้การตัดสินใจดีขึ้น",
+        "id": "sns.sa.social.constructive_disagreement.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.constructive_disagreement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tarafların bir kararı iyileştirmesine katkı sağlayan, ancak aralarındaki çalışma ilişkisini koruyan anlaşmazlıktır.",
+        "exampleIds": [
+          "exm.sa.social.constructive_disagreement.1.1.tr"
+        ],
+        "gloss": "Kararı geliştiren ve çalışma ilişkisini bozmayan görüşme ayrılığıdır.",
+        "id": "sns.sa.social.constructive_disagreement.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.constructive_disagreement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.constructive_disagreement.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+        "translation": "Toplantı gergin ama üreticiydi; yapıcı bir anlaşmazlıktan sonra net bir sonraki adım belirlendi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.constructive_disagreement.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+        "translation": "การประชุมตึงแต่ก็ให้ผลลัพธ์ สุดท้ายจบด้วยข้อโต้แย้งเชิงสร้างสรรค์และขั้นตอนถัดไปที่ชัดเจน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.constructive_disagreement.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+        "translation": "Rapat itu tegang tetapi produktif karena berakhir dengan perbedaan pendapat yang konstruktif dan langkah lanjutan yang jelas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.constructive_disagreement.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+        "translation": "A reunião foi tensa, mas produtiva — terminou com uma discordância construtiva e um próximo passo claro.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.constructive_disagreement.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+        "translation": "회의는 긴박했지만 생산적이었다. 건설적인 이견 뒤에 분명한 다음 단계가 정해졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.constructive_disagreement.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+        "translation": "会議は緊張していましたが、実りがあり、建設的な異議と明確な次の手順に終わりました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.constructive_disagreement.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7f98506ac7260e0e07f44b12711de667391b133a45ff4c8d2478667416b0f7a1": [
+      {
+        "forms": [
+          "check",
+          "checks",
+          "checked",
+          "checking"
+        ],
+        "id": "lex.sa.en.check.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "check",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.check.verb",
+          "prn.sa.en.check.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.check.verb.1",
+          "sns.sa.vi.check.verb.2",
+          "sns.sa.en.check-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.check-verb",
+        "id": "prn.sa.en.check.verb",
+        "ipa": "/tʃek/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.check.verb.us",
+        "ipa": "/tʃek/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Thay nghiệm vào phương trình gốc để xác nhận.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.check.verb.1.1",
+          "exm.sa.en.check-verb.more.01",
+          "exm.sa.en.check-verb.more.02",
+          "exm.sa.en.showcase.42"
+        ],
+        "gloss": "kiểm tra; thử lại",
+        "id": "sns.sa.vi.check.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.check.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.check-verb",
+          "res.sa.aud.check-verb",
+          "res.sa.lnk.check-verb",
+          "res.sa.vid.check-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Xem xét để bảo đảm đúng.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.check.verb.2.1",
+          "exm.sa.en.check-verb.more.01",
+          "exm.sa.en.check-verb.more.02"
+        ],
+        "gloss": "kiểm tra (chung)",
+        "id": "sns.sa.vi.check.verb.2",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.check.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.check-verb",
+          "res.sa.aud.check-verb",
+          "res.sa.lnk.check-verb",
+          "res.sa.vid.check-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Substitute the solution back into the original equation.",
+        "exampleIds": [
+          "exm.sa.en.check.verb.1.1",
+          "exm.sa.en.check.verb.2.1",
+          "exm.sa.en.showcase.42"
+        ],
+        "gloss": "Substitute the solution back into the original equation.",
+        "id": "sns.sa.en.check-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.check.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.check.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Check by substituting x back into the original equation.",
+        "translation": "Thử lại bằng cách thế x vào phương trình ban đầu.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.check.verb.2.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Check your work before you finish.",
+        "translation": "Kiểm tra bài trước khi xong.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.showcase.42",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Check: 2(3) + 1 = 7.",
+        "translation": "Kiểm tra: 2(3) + 1 = 7.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.check.verb.1",
+        "id": "lnk.sa.en.glossary.042",
+        "kind": "relation",
+        "toId": "sns.sa.vi.substitute.verb.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.check.verb.1",
+        "id": "lnk.sa.en.glossary.043",
+        "kind": "relation",
+        "toId": "sns.sa.vi.original.adjective.1",
+        "type": "related_to"
+      }
+    ],
+    "7fac42aaf082cbb5a388b4b6aff9172856e59ae6d277598d24308ceb2504ed36": [
+      {
+        "forms": [
+          "Self-control",
+          "dual_self_control"
+        ],
+        "id": "lex.sa.mind.dual_self_control",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Self-control",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.dual_self_control.alt",
+          "sns.sa.mind.dual_self_control.alt.ja",
+          "sns.sa.mind.dual_self_control.alt.ko",
+          "sns.sa.mind.dual_self_control.alt.pt_br",
+          "sns.sa.mind.dual_self_control.alt.id",
+          "sns.sa.mind.dual_self_control.alt.th",
+          "sns.sa.mind.dual_self_control.alt.tr"
+        ]
+      },
+      {
+        "definition": "Holding a decision back for a short time so that the second argument can be made.",
+        "exampleIds": [
+          "exm.sa.mind.dual_self_control.1.1"
+        ],
+        "gloss": "Holding a decision back for a short time so that the second argument can be made.",
+        "id": "sns.sa.mind.dual_self_control.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.dual_self_control",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "すぐ返事をせず、少しだけ Decision を保留して、反論や別の見方を出す余裕を作る Math のこと。衝動を抑えることと同じ意味ではない。",
+        "exampleIds": [
+          "exm.sa.mind.dual_self_control.1.1.ja"
+        ],
+        "gloss": "もう一つの論点を出すために、決定を少し遅らせること。",
+        "id": "sns.sa.mind.dual_self_control.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.dual_self_control",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "충동적으로 행동하지 않고 잠시 멈춰 다른 논리를 검토하게 하는 통제력이다. 강한 감정이나 즉각적인 반응을 억제하는 데 쓰인다.",
+        "exampleIds": [
+          "exm.sa.mind.dual_self_control.1.1.ko"
+        ],
+        "gloss": "다른 논리를 들을 수 있도록 결정을 잠시 미루는 능력.",
+        "id": "sns.sa.mind.dual_self_control.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.dual_self_control",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O domínio sobre os próprios impulsos e reações,ows especialmente no momento de conter uma resposta para poder refletir. Pode também designar moderação e disciplina no comportamento.",
+        "exampleIds": [
+          "exm.sa.mind.dual_self_control.1.1.pt_br"
+        ],
+        "gloss": "A capacidade de adiar uma decisão ou resposta por um breve período.",
+        "id": "sns.sa.mind.dual_self_control.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.dual_self_control",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kemampuan untuk menahan tindakan atau keputusan dalam waktu singkat agar alasan yang berlawanan dapat cylinde dan dipertimbangkan. Istilah ini merujuk pada pengaturan diri sebelum bertindak atau membalas.",
+        "exampleIds": [
+          "exm.sa.mind.dual_self_control.1.1.id"
+        ],
+        "gloss": "Kemampuan menunda tindakan agar argumen lain dapat disampaikan.",
+        "id": "sns.sa.mind.dual_self_control.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.dual_self_control",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสามารถในการหยุดหรือระงับการตอบสนองไว้ชั่วครู่ เพื่อให้พิจารณาเหตุผลทางเลือกก่อนตัดสินใจ",
+        "exampleIds": [
+          "exm.sa.mind.dual_self_control.1.1.th"
+        ],
+        "gloss": "การยังฟังตัวเองไว้เพื่อให้พิจารณาเหตุผลอีกข้อ",
+        "id": "sns.sa.mind.dual_self_control.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.dual_self_control",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Düşünmek için kısa süre yanıt veya eylemi bastırarak karşı savın da yapılmasını sağlamak; özdenetim anlamına gelir.",
+        "exampleIds": [
+          "exm.sa.mind.dual_self_control.1.1.tr"
+        ],
+        "gloss": "Yanıt vermeden önce kısa süre kararı erteleme becerisi.",
+        "id": "sns.sa.mind.dual_self_control.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.dual_self_control",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.dual_self_control.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Yanıttan önce biraz özdenetim, sonradan geri alınandan daha ucuzdur.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.dual_self_control.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การยังฟังตัวเองไว้สักครู่ก่อนตอบอาจถูกกว่าการถอนคำตอบในภายหลัง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.dual_self_control.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sedikit pengendalian diri sebelum menjawab lebih murah daripada mencabut jawaban kemudian.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.dual_self_control.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Um pouco de autocontrole antes de responder sai mais barato do que uma retraction depois.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.dual_self_control.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "답장 전의 조금의 자기 통제는 나중에 철회하는 것보다 값이 쳤다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.dual_self_control.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "返事の前に少し自制があれば、後の撤回より安い。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.dual_self_control.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little self-control before the reply is cheaper than a retraction later.",
+        "translation": "Một chút tự kiểm soát trước khi trả lời rẻ hơn nhiều so với việc phải rút lại lời nói sau đó.",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

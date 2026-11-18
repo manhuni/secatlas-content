@@ -1,0 +1,1036 @@
+{
+  "records": {
+    "8519e2f3d7cdd6a529e27fe14df2381ea8de7b615a18c3f179c17288b08ad2eb": [
+      {
+        "forms": [
+          "Quotient",
+          "ma_quotient"
+        ],
+        "id": "lex.sa.mathematics.ma_quotient",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Quotient",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mathematics.ma_quotient.alt",
+          "sns.sa.mathematics.ma_quotient.alt.ja",
+          "sns.sa.mathematics.ma_quotient.alt.ko",
+          "sns.sa.mathematics.ma_quotient.alt.pt_br",
+          "sns.sa.mathematics.ma_quotient.alt.id",
+          "sns.sa.mathematics.ma_quotient.alt.th",
+          "sns.sa.mathematics.ma_quotient.alt.tr"
+        ]
+      },
+      {
+        "definition": "The result of a division, without the part that is left over.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_quotient.1.1"
+        ],
+        "gloss": "The result of a division, without the part that is left over.",
+        "id": "sns.sa.mathematics.ma_quotient.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mathematics.ma_quotient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "割り算の結果のうち、余りを取り除いた部分。割り切れない場合は、余りを解决问题的前にした整数部分が商になる。",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_quotient.1.1.ja"
+        ],
+        "gloss": "割り算で得られた、余りを除いた部分。",
+        "id": "sns.sa.mathematics.ma_quotient.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mathematics.ma_quotient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "나눗셈의 결과에서 남는 부분을 제외한 수입니다. 나누어떨어지지 않는 경우에는 몫과 나머지를 함께 구합니다.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_quotient.1.1.ko"
+        ],
+        "gloss": "나눗셈에서 나누어떨어진 부분인 몫입니다.",
+        "id": "sns.sa.mathematics.ma_quotient.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mathematics.ma_quotient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o valor obtido ao dividir um número por outro. Quando a divisão não é exata, o quociente é acompanhado de um resto.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_quotient.1.1.pt_br"
+        ],
+        "gloss": "Quociente é o resultado da divisão, sem a parte que sobra.",
+        "id": "sns.sa.mathematics.ma_quotient.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mathematics.ma_quotient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam pembagian yang tidak habis sama, hasil bagi adalah jumlah kelompok ukuran penuh yang dapat dibuat. Sisanya disebut sisa pembagian.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_quotient.1.1.id"
+        ],
+        "gloss": "Hasil bagi adalah hasil pembagian tanpa bagian yang tersisa.",
+        "id": "sns.sa.mathematics.ma_quotient.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mathematics.ma_quotient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ผลหารคือจำนวนที่ได้จากการหาร โดยไม่รวมส่วนที่เหลือค้างไว้ จึงต้องไม่สับสนกับผลลัพธ์แบบรวมทั้งผลหารและเศษ",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_quotient.1.1.th"
+        ],
+        "gloss": "ผลหารจากการหารโดยไม่รวมเศษ",
+        "id": "sns.sa.mathematics.ma_quotient.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mathematics.ma_quotient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bölmede bölünen sayının, bölenle bölümün çarpımından çıkan kısımdır. Türkçede \"bölüm\" sözcüğü hem bu sonucu hem de bir kurumun birimini adlandırabildiği için bağlam önemlidir.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_quotient.1.1.tr"
+        ],
+        "gloss": "Bölme işleminde kalan hariç elde edilen sonuçtur.",
+        "id": "sns.sa.mathematics.ma_quotient.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mathematics.ma_quotient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mathematics.ma_quotient.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "87'nin 7'ye bölümü 12'dir ve kalan 3'tür.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_quotient.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เมื่อหาร 87 ด้วย 7 ผลหารคือ 12 และเศษคือ 3",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_quotient.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hasil bagi 87 dan 7 adalah 12, dengan sisa 3.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_quotient.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O quociente de 87 por 7 é 12, com resto 3.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_quotient.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "87을 7로 나눈 몫은 12이고 나머지는 3입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_quotient.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "87を7で割った商は12で、余りは3である。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_quotient.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The quotient of 87 and 7 is 12, with a remainder of 3.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "8560878b8782af43a43abf7108cd07c0ebf379d28370f85799821f495a7d9283": [
+      {
+        "forms": [
+          "Listening",
+          "listening"
+        ],
+        "id": "lex.sa.kids_feelings.listening",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Listening",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_feelings.listening.alt",
+          "sns.sa.kids_feelings.listening.alt.ja",
+          "sns.sa.kids_feelings.listening.alt.ko",
+          "sns.sa.kids_feelings.listening.alt.pt_br",
+          "sns.sa.kids_feelings.listening.alt.id",
+          "sns.sa.kids_feelings.listening.alt.th",
+          "sns.sa.kids_feelings.listening.alt.tr"
+        ]
+      },
+      {
+        "definition": "Giving your full attention to somebody who is talking.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.listening.1.1"
+        ],
+        "gloss": "Giving your full attention to somebody who is talking.",
+        "id": "sns.sa.kids_feelings.listening.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_feelings.listening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "話している相手の言葉Carolに耳を傾け、気づくこと。聞き手にodoshi.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.listening.1.1.ja"
+        ],
+        "gloss": "相手の話に全神経を集中して聞くこと。",
+        "id": "sns.sa.kids_feelings.listening.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_feelings.listening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대방이 하는 말에 집중하여 끝까지 듣는 행위다. 소리를 단순히 듣는 것과는 다르며, 상대방의 말에 관심과 배려를 기울일 때 사용한다.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.listening.1.1.ko"
+        ],
+        "gloss": "누군가 말할 때 온 주의를 기울이는 것.",
+        "id": "sns.sa.kids_feelings.listening.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_feelings.listening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ação ou ato de prestar atenção ao que outra pessoa está dizendo. Diferente de apenas perceber sons, a escuta exige interesse e concentração.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.listening.1.1.pt_br"
+        ],
+        "gloss": "Ato de ouvir alguém com total atenção.",
+        "id": "sns.sa.kids_feelings.listening.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_feelings.listening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Menyimak adalah memberikan seluruh perhatian kepada pembicara. Kata benda ini menunjuk pada kegiatan atau proses mendengarkan, bukan pada isi pembicaraan.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.listening.1.1.id"
+        ],
+        "gloss": "Perhatian penuh yang diberikan kepada orang yang sedang berbicara.",
+        "id": "sns.sa.kids_feelings.listening.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_feelings.listening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การตั้งใจฟังและติดตามสิ่งที่ผู้พูดบอก ไม่ใช่แค่การได้ยินเสียง",
+        "exampleIds": [
+          "exm.sa.kids_feelings.listening.1.1.th"
+        ],
+        "gloss": "การฟังผู้พูดอย่างตั้งใจและให้ความสนใจทั้งหมด",
+        "id": "sns.sa.kids_feelings.listening.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_feelings.listening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Konuşan kişinin söylediklerini anlamak için bütün dikkatini vermek.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.listening.1.1.tr"
+        ],
+        "gloss": "Birinin konuşmasına bütün dikkatini vermek.",
+        "id": "sns.sa.kids_feelings.listening.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_feelings.listening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_feelings.listening.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He listened to my whole story.",
+        "translation": "Hikâyemin tamamını dinledi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_feelings.listening.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He listened to my whole story.",
+        "translation": "เขาฟังเรื่องราวทั้งหมดของฉันอย่างตั้งใจ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_feelings.listening.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He listened to my whole story.",
+        "translation": "Rani menyimak cerita neneknya sampai habis.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_feelings.listening.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He listened to my whole story.",
+        "translation": "Ele ouviu toda a minha história com atenção.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_feelings.listening.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He listened to my whole story.",
+        "translation": "친구가 이야기를 꺼낼 때마다 나는 온전히 경청했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_feelings.listening.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He listened to my whole story.",
+        "translation": "彼は私の話を最後まで聞いてくれました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_feelings.listening.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He listened to my whole story.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "856e8bd358ece398c72f1003391aef5d1cd4fb9146e9f280b86290ce670b5afc": [
+      {
+        "forms": [
+          "safety"
+        ],
+        "id": "lex.sa.en.safety.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "safety",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.safety.noun.1",
+          "sns.sa.en.safety-noun.alt"
+        ]
+      },
+      {
+        "definition": "Trạng thái không gây hại.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [],
+        "gloss": "an toàn",
+        "id": "sns.sa.vi.safety.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.safety.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The state of being free from danger.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [],
+        "gloss": "The condition of being free from harm.",
+        "id": "sns.sa.en.safety-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.safety.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "85703b5e834c3d975ef521120665bab9d01bcbe04dc24cf2e8240343862d4615": [
+      {
+        "forms": [
+          "Shared account",
+          "gd_shared_account"
+        ],
+        "id": "lex.sa.mind.gd_shared_account",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Shared account",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.gd_shared_account.alt",
+          "sns.sa.mind.gd_shared_account.alt.ja",
+          "sns.sa.mind.gd_shared_account.alt.ko",
+          "sns.sa.mind.gd_shared_account.alt.pt_br",
+          "sns.sa.mind.gd_shared_account.alt.id",
+          "sns.sa.mind.gd_shared_account.alt.th",
+          "sns.sa.mind.gd_shared_account.alt.tr"
+        ]
+      },
+      {
+        "definition": "What two people agree happened, and what each of them remembers about it.",
+        "exampleIds": [
+          "exm.sa.mind.gd_shared_account.1.1"
+        ],
+        "gloss": "What two people agree happened, and what each of them remembers about it.",
+        "id": "sns.sa.mind.gd_shared_account.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.gd_shared_account",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "関係する二人が、何が起きたかについて共有している出来事的説明である。両者の記憶が一致している状態を指す。",
+        "exampleIds": [
+          "exm.sa.mind.gd_shared_account.1.1.ja"
+        ],
+        "gloss": "二人が同じ出来事が起きたと agreedし、それぞれが記憶している説明。",
+        "id": "sns.sa.mind.gd_shared_account.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.gd_shared_account",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "두 사람이 실제로 무엇이 일어났다고 합의하고, 각자 그때 같은 장면을 기억하는 내용이다. 한쪽의 기억만을 말하는 것이 아니라 서로의 기억이 맞아떨어지는 부분이다.",
+        "exampleIds": [
+          "exm.sa.mind.gd_shared_account.1.1.ko"
+        ],
+        "gloss": "두 사람이 일어난 일에 동의하여 기억하고 있는 공동의 서술이다.",
+        "id": "sns.sa.mind.gd_shared_account.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.gd_shared_account",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Versão dos acontecimentos construída ou aceita em comum por duas pessoas, com detalhes que ambas se comprometem a lembrar.",
+        "exampleIds": [
+          "exm.sa.mind.gd_shared_account.1.1.pt_br"
+        ],
+        "gloss": "Relato sobre o que aconteceu que duas pessoas reconhecem e lembram.",
+        "id": "sns.sa.mind.gd_shared_account.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.gd_shared_account",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kes tentang apa yang disepakati oleh dua orang serta apa yang masing-masing ingat tentang hal itu. Kata ini menunjuk pada versi peristiwa yang sama, bukan dua sudut pandang yang berbeda.",
+        "exampleIds": [
+          "exm.sa.mind.gd_shared_account.1.1.id"
+        ],
+        "gloss": "Kes cerita yang disepakati oleh dua orang.",
+        "id": "sns.sa.mind.gd_shared_account.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.gd_shared_account",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ข้อเท็จจริงเกี่ยวกับเหตุการณ์ที่สองบุคคลเห็นตรงกัน รวมถึงความทรงจำและการตีความที่แต่ละฝ่ายมีต่อเหตุการณ์นั้น",
+        "exampleIds": [
+          "exm.sa.mind.gd_shared_account.1.1.th"
+        ],
+        "gloss": "เรื่องราวที่สองฝ่ายเห็นตรงกันและจดจำได้ในแบบเดียวกัน",
+        "id": "sns.sa.mind.gd_shared_account.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.gd_shared_account",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Birden çok kişinin yaşananlara ilişkin ortak kabulü ve bu kabulü oluşturan anlatı. İki tarafın belleği birbirini desteklediğinde daha güçlü hâle gelir.",
+        "exampleIds": [
+          "exm.sa.mind.gd_shared_account.1.1.tr"
+        ],
+        "gloss": "İki kişinin üzerinde anlaştığı ve her birinin hatırladığı olayların anlatısı.",
+        "id": "sns.sa.mind.gd_shared_account.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.gd_shared_account",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.gd_shared_account.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Vardiyayla ilgili ortak anlatıları basitti ve ikisi de hâlâ aynı şekilde anlatabiliyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.gd_shared_account.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เรื่องราวร่วมเกี่ยวกับกะเวรของทั้งสองคนเรีย่งและต่างฝ่ายยังเล่าได้ตรงกัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.gd_shared_account.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kes mereka tentang pergantian shift itu sama, dan keduanya masih dapat presidencialannya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.gd_shared_account.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O relato compartilhado sobre o turno era simples, e ambos ainda conseguiam repeti-lo.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.gd_shared_account.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 둘의 공유된 서술은 단순했고, 둘 다 그 내용을 아직 말할 수 있었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.gd_shared_account.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その勤務について二人の共有記憶は単純で、どちらも同じように話せた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.gd_shared_account.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Their shared account of the shift was simple, and both of them could still say it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "85804b5005b597873d432ab4767914f3bf10ab00ee5a15b7d983f599cb30dca2": [
+      {
+        "forms": [
+          "Dunning–Kruger effect"
+        ],
+        "id": "lex.sa.mind.dunning_kruger_effect",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Dunning–Kruger effect",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.dunning_kruger_effect.en",
+          "sns.sa.mind.dunning_kruger_effect.vi"
+        ]
+      },
+      {
+        "definition": "The pattern in which people with little skill in a domain overestimate their ability, because the skill needed to judge answers is the same skill needed to give them.",
+        "exampleIds": [],
+        "gloss": "The pattern in which people with little skill in a domain overestimate their ability, because the skill needed to judge answers is the same skill needed to give them.",
+        "id": "sns.sa.mind.dunning_kruger_effect.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.dunning_kruger_effect",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Quy luật mà người kém kỹ năng trong một lĩnh vực lại tự đánh giá cao khả năng của mình, vì kỹ năng phán xét câu trả lời chính là kỹ năng đưa ra câu trả lời.",
+        "id": "sns.sa.mind.dunning_kruger_effect.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.dunning_kruger_effect",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "8580e9e565e32e4110067cc340b29078abdafd8dff0efe0cb569643cd799da45": [
+      {
+        "forms": [
+          "Voluntary singleness",
+          "lts_voluntary_singleness"
+        ],
+        "id": "lex.sa.social.lts_voluntary_singleness",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Voluntary singleness",
+        "pos": "phrase",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_voluntary_singleness.alt",
+          "sns.sa.social.lts_voluntary_singleness.alt.ja",
+          "sns.sa.social.lts_voluntary_singleness.alt.ko",
+          "sns.sa.social.lts_voluntary_singleness.alt.pt_br",
+          "sns.sa.social.lts_voluntary_singleness.alt.th",
+          "sns.sa.social.lts_voluntary_singleness.alt.tr",
+          "sns.sa.social.lts_voluntary_singleness.alt.id"
+        ]
+      },
+      {
+        "definition": "Being single because that is the arrangement the person has chosen.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1"
+        ],
+        "gloss": "Being single because that is the arrangement the person has chosen.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "自分の意思で選択して独身でいること。的事情などの結果として独身になっている場合とは区別する。",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.ja"
+        ],
+        "gloss": "自分で選んだ配偶lessnessによって独身でいること。",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "배우자나 파트너 없이 혼자 살기를 자신의 선택으로 삼은 상태를 뜻한다. 이혼이나 사별 뒤의 일시적인 미혼 상태와는 다르다.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.ko"
+        ],
+        "gloss": "혼자 살기를 스스로 선택한 상태이다.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Solteiridão adotada deliberadamente pela pessoa, e não imposta por circumstances como a falta de um parceiro.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.pt_br"
+        ],
+        "gloss": "Estado de quem é solteiro por escolha própria.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "สถานะการเป็นโสดที่บุคคลเลือกเป็นการจัดการชีวิตของตน ไม่ใช่ผลจากการสูญเสียคู่ครอง",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.th"
+        ],
+        "gloss": "การเป็นโสดโดยเจตนา",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Evlenmeyi veya ilişki kurmayı bilinçli olarak tercih ederek tek başına yaşama durumu; kişinin kendi kararı olarak görülür.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.tr"
+        ],
+        "gloss": "Kişinin tek başına yaşamayı bilinçli olarak seçmesi.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Berstatus-single karena memilih atau patteskan untuk hidup sendiri, bukan karena kehilangan pasangan atau belum mendapat pasangan.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.id"
+        ],
+        "gloss": "Menyepi karena keadaan tersebut telah dipilih sendiri.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ia menyebut pekerjaannya sebagai menyepi secara sukarela karena Hydup sendirinya telah ia pilih.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Gönüllü bekarlık, yaşamını kendi isteğiyle böyle düzenlemesinden ibarettir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เขาเรียกการเป็นโสดของตนว่าการเป็นโสดโดยเจตนา เพราะเป็นการตัดสินใจของเขาเอง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ele chama isso de solteiridão voluntária e deixa claro que se trata de uma decisão, não de um consolo.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그는 이를 자발적 독신 생활이라고 부르며, 위로받아 견디는 상태가 아니라 스스로 내린 결정이라고 말한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼はこれを自発的な独身と呼び、慰めではなく自分の選択だという意味で話しています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He calls it voluntary singleness, and he means it as a decision rather than a consolation.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "8589c63b0943a62bfda9b35dccc71a30f5677386f6f7c644c3307465ce2cfa55": [
+      {
+        "forms": [
+          "Maintenance"
+        ],
+        "id": "lex.sa.mind.maintenance",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Maintenance",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.maintenance.en",
+          "sns.sa.mind.maintenance.vi"
+        ]
+      },
+      {
+        "definition": "The ongoing work of keeping software alive: fixing, adapting, and explaining it across years of changing conditions.",
+        "exampleIds": [],
+        "gloss": "The ongoing work of keeping software alive: fixing, adapting, and explaining it across years of changing conditions.",
+        "id": "sns.sa.mind.maintenance.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.maintenance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Công việc liên tục giữ phần mềm sống: sửa, thích nghi, và giải thích nó qua nhiều năm điều kiện thay đổi.",
+        "id": "sns.sa.mind.maintenance.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.maintenance",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "85bf8b9ddc492d6476bbf5ac2e2d7989e8e4fcd266b9124c1c785bdcb4e611f8": [
+      {
+        "forms": [
+          "maternal age",
+          "bc_maternal_age"
+        ],
+        "id": "lex.sa.social.bc_maternal_age",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "maternal age",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.bc_maternal_age.alt",
+          "sns.sa.social.bc_maternal_age.alt.ja",
+          "sns.sa.social.bc_maternal_age.alt.ko",
+          "sns.sa.social.bc_maternal_age.alt.id",
+          "sns.sa.social.bc_maternal_age.alt.th",
+          "sns.sa.social.bc_maternal_age.alt.tr",
+          "sns.sa.social.bc_maternal_age.alt.pt_br"
+        ]
+      },
+      {
+        "definition": "The age of the woman when her child is born, used as a medical label.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1"
+        ],
+        "gloss": "The age of the woman when her child is born, used as a medical label.",
+        "id": "sns.sa.social.bc_maternal_age.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "出産時の母親の年齢を示す、医学・統計上の項目。母親の能力や motherboardを評価する判定ではない。",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.ja"
+        ],
+        "gloss": "子供が生まれたときの母親の年齢。",
+        "id": "sns.sa.social.bc_maternal_age.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "의료 기록에서 산모의 연령을 나타내는 용어이다. 어머니의 능력이나 건강 상태를 평가하는 값은 아니다.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.ko"
+        ],
+        "gloss": "아이가 태어났을 때 어머니의 나이.",
+        "id": "sns.sa.social.bc_maternal_age.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Usia ibu adalah usia perempuan pada saat persalinan, yang dicantumkan sebagai informasi medis. Istilah ini bukan penilaian terhadap kemampuan atau sikap ibu.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.id"
+        ],
+        "gloss": "Usia perempuan ketika ia melahirkan anak, yang digunakan sebagai label medis.",
+        "id": "sns.sa.social.bc_maternal_age.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ข้อมูลทางการแพทย์ที่บันทึกอายุของมารดา ณ เวลาที่บุตรเกิด ไม่ควรตีความเป็นคำตัดสินเกี่ยวกับมารดา",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.th"
+        ],
+        "gloss": "อายุของมารดาในวันที่บุตรเกิด",
+        "id": "sns.sa.social.bc_maternal_age.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Anne yaşı, çocuğun doğduğu sırada annenin yaşını ifade eder. Tıbbi bir kayıt ve istatistik ölçütüdür; annenin kişisel değerini ya da yetkinliğini yargılamaz.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.tr"
+        ],
+        "gloss": "Çocuğu doğduğunda annenin yaşı; tıbbi kayıtlarda kullanılan bir etiket.",
+        "id": "sns.sa.social.bc_maternal_age.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Idade da mulher no momento do nascimento do filho. É uma informação médica, não um julgamento sobre a capacidade ou o comportamento da mãe.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.pt_br"
+        ],
+        "gloss": "Idade da mãe quando seu filho nasce, usada como informação médica.",
+        "id": "sns.sa.social.bc_maternal_age.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A idade materna consta no prontuário como informação médica, não como julgamento sobre a mãe.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Anne yaşı kayıttaki bir etikettir; anne hakkında bir yargı değildir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "อายุมารดาในเวชระเบียนเป็นข้อมูลประกอบการดูแล ไม่ใช่คำพิพากษาว่าเธอเป็นแม่ที่ดีหรือไม่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Usia ibu adalah label dalam rekam medis, bukan penilaian terhadap ibunya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "기록지의 산모 나이는 34세였다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "母性年齢は記録上の項目であり、母親を判断する尺度ではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Maternal age is a label in the record, not a judgement about the mother.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "85f57945aa7a38263c4bee45e2e47babf1702b88728bed0f0793a9faf45647c4": [
+      {
+        "forms": [
+          "Central locking",
+          "central_locking"
+        ],
+        "id": "lex.sa.en.central.locking",
+        "kind": "lexeme",
+        "lemma": "Central locking",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.central.locking.alt"
+        ]
+      },
+      {
+        "definition": "The doors are locked, or the lock button has been pressed. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The doors are locked, or the lock button has been pressed.",
+        "id": "sns.sa.en.central.locking.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.central.locking",
+        "pos": "noun",
+        "revision": 1
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

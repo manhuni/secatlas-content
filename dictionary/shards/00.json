@@ -1,0 +1,737 @@
+{
+  "records": {
+    "000f5d7f3dcab96f66a9444666490cf177ce3686d46db199724a43748a590a62": [
+      {
+        "forms": [
+          "Parking light",
+          "parking_light"
+        ],
+        "id": "lex.sa.en.parking.light",
+        "kind": "lexeme",
+        "lemma": "Parking light",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.parking.light.alt"
+        ]
+      },
+      {
+        "definition": "The parking lights are on. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The parking lights are on.",
+        "id": "sns.sa.en.parking.light.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.parking.light",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "0056c33a9f096da8d328f29a690ce109f45bd6c04a2364ae8de13d6ef6fd308b": [
+      {
+        "forms": [
+          "Manufactured doubt",
+          "gd_manufactured_doubt"
+        ],
+        "id": "lex.sa.mind.gd_manufactured_doubt",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Manufactured doubt",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.gd_manufactured_doubt.alt",
+          "sns.sa.mind.gd_manufactured_doubt.alt.ja",
+          "sns.sa.mind.gd_manufactured_doubt.alt.ko",
+          "sns.sa.mind.gd_manufactured_doubt.alt.pt_br",
+          "sns.sa.mind.gd_manufactured_doubt.alt.id",
+          "sns.sa.mind.gd_manufactured_doubt.alt.th",
+          "sns.sa.mind.gd_manufactured_doubt.alt.tr"
+        ]
+      },
+      {
+        "definition": "The doubt a person is given about their own memory, until they check themselves instead of the facts.",
+        "exampleIds": [
+          "exm.sa.mind.gd_manufactured_doubt.1.1"
+        ],
+        "gloss": "The doubt a person is given about their own memory, until they check themselves instead of the facts.",
+        "id": "sns.sa.mind.gd_manufactured_doubt.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.gd_manufactured_doubt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "他者が人の記憶に対する疑念をあおり、事実を確認する前に自分の記憶を疑わせることをいう。人為的にすり込まれた疑念を指す。",
+        "exampleIds": [
+          "exm.sa.mind.gd_manufactured_doubt.1.1.ja"
+        ],
+        "gloss": "自分の記憶を疑わせることを、人為的に stirred Anyway.",
+        "id": "sns.sa.mind.gd_manufactured_doubt.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.gd_manufactured_doubt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대가 자신의 기억을 의심하도록 유도해, 사실을 확인하기보다 자기 기억을 다시 점검하게 만드는 의심을 뜻한다.",
+        "exampleIds": [
+          "exm.sa.mind.gd_manufactured_doubt.1.1.ko"
+        ],
+        "gloss": "자신의 기억에 대한 의심을 만들어 내는 상태다.",
+        "id": "sns.sa.mind.gd_manufactured_doubt.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.gd_manufactured_doubt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Incerteza fabricada em uma pessoa para que ela passe a questionar sua própria memória e a verificar a si mesma, em vez de conferir os fatos registrados.",
+        "exampleIds": [
+          "exm.sa.mind.gd_manufactured_doubt.1.1.pt_br"
+        ],
+        "gloss": "Dúvida induzida sobre a própria memória, em vez de sobre os fatos.",
+        "id": "sns.sa.mind.gd_manufactured_doubt.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.gd_manufactured_doubt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ragu-raguan yang diberikan kepada seseorang tentang ingatannya sendiri, sampai ia memeriksa dirinya sendiri alih-alih fakta. Yang diperiksa adalah ingatannya, bukan catatan yang ada.",
+        "exampleIds": [
+          "exm.sa.mind.gd_manufactured_doubt.1.1.id"
+        ],
+        "gloss": "Ragu-raguan yang diberikan kepada seseorang tentang ingatannya sendiri, sampai ia memeriksa dirinya sendiri alih-alih fakta.",
+        "id": "sns.sa.mind.gd_manufactured_doubt.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.gd_manufactured_doubt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสงสัยเกี่ยวกับความทรงจำที่ถูกบ่มให้จนบุคคลนั้นตรวจสอบความทรงจำของตนแทนที่จะตรวจสอบข้อเท็จจริง",
+        "exampleIds": [
+          "exm.sa.mind.gd_manufactured_doubt.1.1.th"
+        ],
+        "gloss": "ความสงสัยที่ถูกสร้างขึ้นให้ต่อความทรงจำของตนเอง",
+        "id": "sns.sa.mind.gd_manufactured_doubt.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.gd_manufactured_doubt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Başka birinin, kişinin kendi hatırladıklarını sorgulamasına yol açan yapay kuşku. Bu durumda kişi gerçekleri değil kendi belleğini denetlemeye yönelir.",
+        "exampleIds": [
+          "exm.sa.mind.gd_manufactured_doubt.1.1.tr"
+        ],
+        "gloss": "Bir kişinin kendi belleğine güvenmeye başlayana dek ona aşılan kuşku.",
+        "id": "sns.sa.mind.gd_manufactured_doubt.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.gd_manufactured_doubt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.gd_manufactured_doubt.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sonuç yapay kuşku oldu: adam kendi belleğini, kayıt yerine kendi kendine denetlemeye başladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.gd_manufactured_doubt.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ผลที่เกิดขึ้นคือความสงสัยที่ถูกสร้างขึ้น เขาเริ่มตรวจสอบความทรงจำของตนเองแทนที่จะดูบันทึก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.gd_manufactured_doubt.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hasilnya adalah keraguan yang sengaja: ia mulai memeriksa ingatannya sendiri, bukan catatan yang ada.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.gd_manufactured_doubt.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O resultado foi uma dúvida fabricada: ele começou a verificar a própria memória em vez do registro.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.gd_manufactured_doubt.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "결과는 인위적 의심이었다. 그는 사실을 살펴보기 전에 자기 기억을 확인하기 시작했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.gd_manufactured_doubt.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その結果は記憶の doubtであった。彼は記録ではなく自分の記憶を確認し始めた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.gd_manufactured_doubt.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The result was manufactured doubt: he began to check his own memory instead of the record.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "00b4b489f742ddffd4ccbb58e214ac1474c84157267fdaa3086ca7bd255abbbb": [
+      {
+        "forms": [
+          "market thickness",
+          "dm_market_thickness"
+        ],
+        "id": "lex.sa.social.dm_market_thickness",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "market thickness",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.dm_market_thickness.alt",
+          "sns.sa.social.dm_market_thickness.alt.ja",
+          "sns.sa.social.dm_market_thickness.alt.ko",
+          "sns.sa.social.dm_market_thickness.alt.pt_br",
+          "sns.sa.social.dm_market_thickness.alt.id",
+          "sns.sa.social.dm_market_thickness.alt.th",
+          "sns.sa.social.dm_market_thickness.alt.tr"
+        ]
+      },
+      {
+        "definition": "How many potential partners a person can actually meet, given where they live and how their life is arranged.",
+        "exampleIds": [
+          "exm.sa.social.dm_market_thickness.1.1"
+        ],
+        "gloss": "How many potential partners a person can actually meet, given where they live and how their life is arranged.",
+        "id": "sns.sa.social.dm_market_thickness.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.dm_market_thickness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "その人の居住地や生活環境によって、出会える交際候補者が何人いるか。候補者が少ない状態を「市場が薄い」と呼ぶ。",
+        "exampleIds": [
+          "exm.sa.social.dm_market_thickness.1.1.ja"
+        ],
+        "gloss": "住まいや生活環境によって、実際に会える交際候補者が何人いるか。",
+        "id": "sns.sa.social.dm_market_thickness.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.dm_market_thickness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "거주지와 생활 방식 때문에 한 사람이 실제로 만날 수 있는 잠재 상대의 수이다. 단순히 지역에 사는 사람 수를 뜻하지 않는다.",
+        "exampleIds": [
+          "exm.sa.social.dm_market_thickness.1.1.ko"
+        ],
+        "gloss": "생활 환경상 실제로 만날 수 있는 잠재 상대의 수.",
+        "id": "sns.sa.social.dm_market_thickness.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.dm_market_thickness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Número de parceiros potenciais que uma pessoa consegue encontrar efetivamente, considerando o lugar onde mora e a forma como conduz a vida. É sempre menor do que o número teórico de pessoas disponíveis.",
+        "exampleIds": [
+          "exm.sa.social.dm_market_thickness.1.1.pt_br"
+        ],
+        "gloss": "Quantos parceiros potenciais uma pessoa encontra de fato, dados onde mora e como organiza a vida.",
+        "id": "sns.sa.social.dm_market_thickness.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.dm_market_thickness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ketebalan pasar menunjukkan berapa banyak calon pasangan yang dapat ditemui berdasarkan lokasi, lingkaran sosial, dan cara hidup seseorang. Ukurannya bukan jumlah seluruh penduduk di suatu tempat.",
+        "exampleIds": [
+          "exm.sa.social.dm_market_thickness.1.1.id"
+        ],
+        "gloss": "Ketebalan pasar adalah banyaknya calon pasangan yang benar-benar dapat ditemui seseorang.",
+        "id": "sns.sa.social.dm_market_thickness.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.dm_market_thickness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงจำนวนผู้คนที่แต่ละฝ่ายมีโอกาสพบจริง โดยขึ้นอยู่กับที่อยู่และการจัดชีวิต ตลาดที่บางจึงหมายถึงมีคู่ที่เลือกได้น้อย ไม่ใช่มีคนน้อยทั้งโลก",
+        "exampleIds": [
+          "exm.sa.social.dm_market_thickness.1.1.th"
+        ],
+        "gloss": "จำนวนคู่ที่มีโอกาสพบจริงตามสภาพแวดล้อมและการจัดชีวิตของแต่ละคน",
+        "id": "sns.sa.social.dm_market_thickness.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.dm_market_thickness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin sosyal çevresinde erişebildiği potansiyel eşlerin sayısıdır; genel nüfus veya tanıdıkların toplamı değildir.",
+        "exampleIds": [
+          "exm.sa.social.dm_market_thickness.1.1.tr"
+        ],
+        "gloss": "Bir kişinin yaşadığı yerde ve yaşam düzenine göre tanışabileceği potansiyel eş sayısı.",
+        "id": "sns.sa.social.dm_market_thickness.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.dm_market_thickness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.dm_market_thickness.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dar piyasanın asıl sorunu buydu: hep ayni insanlarla tanışıyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.dm_market_thickness.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ปัญหาที่แท้จริงคือความหนาแน่นของตลาดที่บาง เธอจึงพบคนกลุ่มเดิมซ้ำ ๆ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.dm_market_thickness.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ketebalan pasar di daerahnya tipis, sehingga ia terus bertemu orang yang sama.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.dm_market_thickness.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A market thickness baixa era o verdadeiro problema: ela continuava encontrando as mesmas pessoas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.dm_market_thickness.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀가 사는 곳의 시장은 얇아 같은 사람들만 계속 만났다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.dm_market_thickness.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "市場の厚みが-thinだった才是 she kept meeting the same people.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.dm_market_thickness.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A thin market was the real problem: she kept meeting the same people.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "00bddb36a62f5719e4711f0209a8cfffdda5f6c96770c1082799601b5bcb169f": [
+      {
+        "forms": [
+          "Solitude",
+          "solitude"
+        ],
+        "id": "lex.sa.culture.solitude",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Solitude",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.culture.solitude.alt",
+          "sns.sa.culture.solitude.alt.ja",
+          "sns.sa.culture.solitude.alt.ko",
+          "sns.sa.culture.solitude.alt.pt_br",
+          "sns.sa.culture.solitude.alt.id",
+          "sns.sa.culture.solitude.alt.th",
+          "sns.sa.culture.solitude.alt.tr"
+        ]
+      },
+      {
+        "definition": "Being alone by choice, with no element of loss or distress. It is not the same as loneliness.",
+        "exampleIds": [
+          "exm.sa.culture.solitude.1.1"
+        ],
+        "gloss": "Being alone by choice, with no element of loss or distress. It is not the same as loneliness.",
+        "id": "sns.sa.culture.solitude.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.culture.solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "vodily孤立や寂しさ-pollutes这种感觉を感じずに、一人でいること。孤独感とは意味が異なる。",
+        "exampleIds": [
+          "exm.sa.culture.solitude.1.1.ja"
+        ],
+        "gloss": "自分の意志で一時的に一人になること。",
+        "id": "sns.sa.culture.solitude.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.culture.solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자발적으로 혼자 있는 것으로, 외로움처럼 상실감이나 괴로움이 따르지 않는다. 쓸쓸함이나 고립감을 뜻하지는 않는다.",
+        "exampleIds": [
+          "exm.sa.culture.solitude.1.1.ko"
+        ],
+        "gloss": "원하는 대로 홀로 있는 상태인 고독이다.",
+        "id": "sns.sa.culture.solitude.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.culture.solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estado de estar sozinho por escolha, sem necessariamente envolver sofrimento ou sensação de abandono. É diferente do sentimento de solidão provocado pela ausência de outras pessoas.",
+        "exampleIds": [
+          "exm.sa.culture.solitude.1.1.pt_br"
+        ],
+        "gloss": "Estar sozinho por escolha, sem perda ou sofrimento, ao contrário do sentimento de solidão causado pela ausência de outras pessoas.",
+        "id": "sns.sa.culture.solitude.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.culture.solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kesendirian berarti berada sendiri karena pilihan, tanpa unsur kehilangan atau DISTRESS. Kebalikan ini tidak sama dengan kesepian, yang merupakan perasaan tidak sendirian yang tidak diinginkan.",
+        "exampleIds": [
+          "exm.sa.culture.solitude.1.1.id"
+        ],
+        "gloss": "Kesendirian adalah keadaan sendirian yang dipilih dengan sengaja.",
+        "id": "sns.sa.culture.solitude.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.culture.solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ต่างจากความเหงาเปล่า ซึ่งหมายถึงความรู้สึกที่ว่าเหงาหรือขาดผู้คน",
+        "exampleIds": [
+          "exm.sa.culture.solitude.1.1.th"
+        ],
+        "gloss": "การอยู่คนเดียวตามเจตนา โดยไม่รู้สึกว่าถูกทิ้งหรือทุกข์",
+        "id": "sns.sa.culture.solitude.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.culture.solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kendin isteğinle başkası olmadan vakit geçirmek. Mutsuzluk veya dışlanma anlamındaki yalnızlıktan farklıdır.",
+        "exampleIds": [
+          "exm.sa.culture.solitude.1.1.tr"
+        ],
+        "gloss": "Kendi seçimiyle, kayıp veya sıkıntı içermeyen yalnız olma durumu.",
+        "id": "sns.sa.culture.solitude.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.culture.solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.culture.solitude.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Two hours of solitude on Sunday is what makes the week work.",
+        "translation": "Pazar günü iki saat yalnız kalmak, haftanın işleyişini sağlıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.culture.solitude.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Two hours of solitude on Sunday is what makes the week work.",
+        "translation": "วันอาทิตย์ฉันมีเวลาสงัดสองชั่วโมง และเวลานั้นทำให้สัปดาห์นี้มีความสมดุล",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.culture.solitude.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Two hours of solitude on Sunday is what makes the week work.",
+        "translation": "Dua jam发送irian pada hari Minggu membuatnya merasa seimbang selama seminggu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.culture.solitude.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Two hours of solitude on Sunday is what makes the week work.",
+        "translation": "Duas horas de solidão aos domingos são o que faz a semana funcionar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.culture.solitude.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Two hours of solitude on Sunday is what makes the week work.",
+        "translation": "일요일에는 두 시간 동안 고독을 즐기는 것이 한 주를 지탱해 준다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.culture.solitude.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Two hours of solitude on Sunday is what makes the week work.",
+        "translation": "日曜に一人で過ごす二時間が、一週間をうまく整えてくれます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.culture.solitude.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Two hours of solitude on Sunday is what makes the week work.",
+        "translation": "",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Solitude",
+          "lsc_solitude"
+        ],
+        "id": "lex.sa.social.lsc_solitude",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Solitude",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lsc_solitude.alt",
+          "sns.sa.social.lsc_solitude.alt.ja",
+          "sns.sa.social.lsc_solitude.alt.ko",
+          "sns.sa.social.lsc_solitude.alt.pt_br",
+          "sns.sa.social.lsc_solitude.alt.id",
+          "sns.sa.social.lsc_solitude.alt.th",
+          "sns.sa.social.lsc_solitude.alt.tr"
+        ]
+      },
+      {
+        "definition": "Being alone as a condition, chosen or at least not distressing.",
+        "exampleIds": [
+          "exm.sa.social.lsc_solitude.1.1"
+        ],
+        "gloss": "Being alone as a condition, chosen or at least not distressing.",
+        "id": "sns.sa.social.lsc_solitude.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lsc_solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一人でいる状態を 指す。好んで選んだものでなくても、その状態自体は苦にならない。",
+        "exampleIds": [
+          "exm.sa.social.lsc_solitude.1.1.ja"
+        ],
+        "gloss": "一人好不好の状態。",
+        "id": "sns.sa.social.lsc_solitude.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lsc_solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "혼자 있는 상태를 뜻하며, 스스로 선택한 경우와 반드시 외롭게 느끼지 않는 경우를 모두 포함한다.",
+        "exampleIds": [
+          "exm.sa.social.lsc_solitude.1.1.ko"
+        ],
+        "gloss": "선택했거나 불쾌하지 않게 혼자 있는 상태를 뜻한다.",
+        "id": "sns.sa.social.lsc_solitude.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lsc_solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A condição de estar sozinho, seja por escolha, seja sem que isso sejaidez fonte de sofrimento.",
+        "exampleIds": [
+          "exm.sa.social.lsc_solitude.1.1.pt_br"
+        ],
+        "gloss": "Estado de estar sozinho, escolhido ou pelo menos não sofrido.",
+        "id": "sns.sa.social.lsc_solitude.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lsc_solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kesendirian adalah keadaan hidup sendirian yang dapat menjadi pilihan dan tidak selalu berarti kesepian. Istilah ini dipakai ketika kesendirian dianggap sebagai kondisi yang dapat diterima.",
+        "exampleIds": [
+          "exm.sa.social.lsc_solitude.1.1.id"
+        ],
+        "gloss": "Keadaan hidup sendirian yang dipilih atau setidaknya tidak menimbulkan penderitaan.",
+        "id": "sns.sa.social.lsc_solitude.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lsc_solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การอยู่คนเดียวในฐานะที่เป็นการเลือกหรืออย่างน้อยไม่ทำให้รู้สึกทุกข์ยาก ไม่จำเป็นต้องหมายถึงความเหงาหรือการตัดขาดจากผู้อื่น",
+        "exampleIds": [
+          "exm.sa.social.lsc_solitude.1.1.th"
+        ],
+        "gloss": "ความสงบลำพังในการอยู่คนเดียวโดยเลือกหรือไม่รู้สึกทุกข์ยาก",
+        "id": "sns.sa.social.lsc_solitude.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lsc_solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tek başına bulunma hâli. Kişi bu durumu kendi tercihiyle yaşayabilir ve yalnızlık her zaman sıkıntı veren bir duygu olmak zorunda değildir.",
+        "exampleIds": [
+          "exm.sa.social.lsc_solitude.1.1.tr"
+        ],
+        "gloss": "Yalnız kalma durumu; seçilmiş olabilir ve mutlaka üzücü değildir.",
+        "id": "sns.sa.social.lsc_solitude.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lsc_solitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lsc_solitude.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Her akşam bir saat boyunca kitap okuyor ve buna yalnızlık diyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lsc_solitude.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ทุกเย็นเธออ่านหนังสือหนึ่งชั่วโมงและเรียกช่วงเวลานั้นว่าความสงบลำพัง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lsc_solitude.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Setiap malam ia membaca selama satu jam dan menyebutnya sebagai kesendirian.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lsc_solitude.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ela lê por uma hora todas as noites e chama esse momento de solidão.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lsc_solitude.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 매일 저녁 한 시간 동안 책을 읽고, 그것을 혼자만의 시간이라고 부른다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lsc_solitude.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女は一時間ほど本を読むことを、ひとり '{{SAC}}' と呼ぶ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lsc_solitude.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She reads for an hour every evening, and she calls it solitude.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,195 @@
+{
+  "language": "tr",
+  "lessonId": "article_units_dimensions",
+  "objectives": [
+    "Bir ölçümün neden bir birime ihtiyaç duyduğunu ve boyutun ne olduğunu açıklayın.",
+    "Yedi SI temel birimini adlandırın ve simgelerini okuyun.",
+    "Önekleri doğru kullanın ve her birinin ne kadar çoğalttığını söyleyin.",
+    "Boyut analiziyle bir formülü kontrol et.",
+    "Sayıların anlamını değiştirmeden birimler arasında dönüştürün."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Ölçüm, bir sayı ve bir birimdir; birim süs değildir. Aynı nicelik birçok biçimde yazılabilir — 0,35 mm, 350 µm, 0,00035 m — ve üçü de tam olarak aynı şeyi söyler. Birimi çıkarın geriye dünyaya ilişkin bir gerçek kalmaz; geriye kâğıt üzerindeki bir gerçek kalır. Bu nedenle her ciddi çizim birimi sayının yanında tutar ve yalın bir sayı okuyan bir mühendis durur ve sayının neyin sayısı olduğunu sorar.",
+      "examples": [
+        "Plaka 12,5 mm yazıyor, 12,5 değil.",
+        "İki tedarikçi aynı parça için 3,0 fiyatı veriyor; yalnızca biri 3,0'ın neye ait olduğunu söylüyor.",
+        "Birim, sonradan yapıştırılan bir etiket değil, ölçümün bir parçasıdır."
+      ],
+      "heading": "Sayı ölçüm değildir",
+      "terms": [
+        {
+          "example": "Birim, sayıdan sonra bir boşluk bırakarak yazılır.",
+          "gloss": "Bir şeyi ölçmek için standart olarak kullanılan sabit nicelik."
+        },
+        {
+          "example": "On kilometre bir ölçümdür; on değildir.",
+          "gloss": "Sayıya anlamını veren birimle birlikte kullanılan sayı."
+        }
+      ]
+    },
+    {
+      "body": "International System of Units yedi temel birime dayanır. Mühendislikteki diğer bütün birimler bu birimlerden oluşturulur ve her temel birimin hiçbir zaman değişmeyen, hiçbir zaman çoğul biçim almayan ve hiçbir zaman nokta ile bitmeyen bir simgesi vardır. Bir simge bir kısaltma değildir: metre için m yazarsınız, metreler için asla ms yazmazsınız, çünkü ms millisecond anlamına gelir. Yedi simgeyi öğrenin ve bir specification satırını çevirmeden okuyabilirsiniz.",
+      "examples": [
+        "Simge m'dir, M değildir, mtr de değildir.",
+        "Bir simge asla çoğul biçim almaz: 5 m, metreler için asla 5 ms değil.",
+        "Büyük harfler de bir süs değildir: A ampere'dir, a değildir."
+      ],
+      "heading": "Yedi temel birim ve onları gösteren işaretler"
+    },
+    {
+      "body": "Bir önek, neyi ölçtüğünüzü değiştirmez; sayının ne kadar büyük olduğunu değiştirir. Kilo bin, milli binde bir anlamına gelir. Önek, birimden önce sembol olarak aralarında boşluk bırakılmadan yazılır: 12.5 km, 3.2 mm. Her önek onun bir kuvvetidir ve her onun kuvveti aynı zamanda üçün bir kuvvetidir: 1 kilometre 1000 metredir; bin, onun on kez on kez çarpımıdır. Sistemin tamamındaki tek tuzağa dikkat edin: milli ile metre aynı harfle başlar; bu nedenle 25 mA yirmibeş miliamper, 25 m ise yirmibeş metredir. Birim, hangisini gördüğünüzü söyler.",
+      "examples": [
+        "3.5 mm'lik bir vida, 3.5 m'lik değil, 3.5 mm'lik bir delik gerektirir.",
+        "Önek sayıyı değiştirir, asla ölçülen miktarı değil: 5 km, 5000 m uzunluğundaki yoldur.",
+        "Gigabyte ile gigahertz farklı şeylerdir; önek yalnızca ne kadar büyük olduğunu söyler."
+      ],
+      "heading": "Önekler: sayıyı çarpanlar",
+      "table": {
+        "headers": [
+          "Önek",
+          "Sembol",
+          "Çarpan",
+          "Örnek"
+        ],
+        "rows": [
+          [
+            "nano",
+            "n",
+            "10^-9",
+            "5 nm — yeşil ışığın dalga boyu"
+          ],
+          [
+            "micro",
+            "μ",
+            "10^-6",
+            "12 μm — ince bir saçın genişliği"
+          ],
+          [
+            "milli",
+            "m",
+            "10^-3",
+            "25 mA — küçük bir akım"
+          ],
+          [
+            "centi",
+            "c",
+            "10^-2",
+            "3 cm — bir madeni paranın yarıçapı kadar"
+          ],
+          [
+            "—",
+            "",
+            "10^0",
+            "1 m — metrenin kendisi"
+          ],
+          [
+            "kilo",
+            "k",
+            "10^3",
+            "5 kW — bir tencere ısısının gücü"
+          ],
+          [
+            "mega",
+            "M",
+            "10^6",
+            "3 MHz — eski elektronik cihazların saat hızı"
+          ],
+          [
+            "giga",
+            "G",
+            "10^9",
+            "2 GB — büyük bir dosya"
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Boyut analizi, bir formülü ona güvenmeden önce hataları yakalamanın bir yöntemidir. Denklemdeki her büyüklüğü, ölçüldüğü boyutla değiştirirsiniz; yalnızca aynı boyuttaki büyüklükleri toplar ve çıkarırsınız; sonra iki tarafın da aynı boyutla sonuçlanıp sonuçlanmadığını görürsünüz. Tutarlı bir formül kanıtlanmış değildir; ancak tutarsız bir formül kesinlikle yanlıştır ve genellikle adını verebileceğiniz bir nedenle başarısız olur. Örneğin, üssü bir birim şaşan bir üs ya da formül kopyalanırken düşürülen bir çarpan gibi.",
+      "examples": [
+        "Mesafe = hız × zaman: (m/s) × s = m. İki taraf da uzunluktur.",
+        "Enerji = kütle × hız²: kg × (m/s)² = kg·m²/s²; bu da joule'dur."
+      ],
+      "heading": "Boyut analiziyle bir formülü nasıl denetleriz",
+      "steps": [
+        "Formülü, her büyüklük bir tarafta ve sonuç öteki tarafta olacak biçimde yazın.",
+        "Her büyüklüğü onun boyutuyla değiştirin: uzunluk, kütle, zaman, akım, sıcaklık, madde miktarı ya da ışık şiddeti.",
+        "Yalnızca aynı türden boyutları toplayın ve çıkarın; çarpın ve bölün, sayılarla yaptığınız gibi.",
+        "İki tarafı karşılaştırın. Formülün mümkün olabilmesi için iki tarafta da aynı boyut bulunması gerekir.",
+        "Taraflar eşleşmiyorsa, yanlış ölçtüğünüz büyüklüğü ya da düşürdüğünüz çarpanı arayın."
+      ]
+    },
+    {
+      "body": "İngilizcede birim, sayıdan sonra ve aralarında boşluk bırakılarak yazılır: 12.5 mm, 3.2 kg, 20 °C. Boşluk isteğe bağlı değildir; sayıyı birimden ayıran şeydir. Birim çoğul biçimde ve nokta olmadan yazılır: 5 m, asla 5 m. veya 5 ms. yazılmaz. Dereceler derece işaretiyle ve aralarında boşluk olmadan yazılır: 20 °C. Bir sayı bir aralığı ifade ettiğinde aralığı “to” sözcüğü veya tire taşır: 10 to 20 mm ya da 10–20 mm. Birim, kişi adını taşımadığı sürece küçük harfle yazılır: 5 m, 5 kg, 5 mol; ancak amper için 5 A, kelvin için 5 K ve Degrees Celsius için 5 °C yazılır.",
+      "examples": [
+        "Çizim bir aralığı ifade ettiğinde tolerans 10–20 mm olur, ±20 mm değil.",
+        "5 m yazın, 5 m. yazmayın — nokta cümlenin bir parçasıdır.",
+        "Birim, kişi adına göre adlandırılmadıkça küçük harfle yazılır: 5 A, 5 a değil."
+      ],
+      "heading": "Ölçümün dilbilgisi",
+      "terms": [
+        {
+          "example": "Tolerans ±0.1 mm'dir.",
+          "gloss": "Bir ölçümün nominal değerden farklı olmasına izin verilen miktar."
+        },
+        {
+          "example": "Nominal çap, ±0.1 mm toleransla 12 mm'dir.",
+          "gloss": "Bir parçın tolerans uygulanmadan önce üretildiği değer."
+        }
+      ]
+    },
+    {
+      "body": "Teknik anlamın büyük bölümünü üç sözcük taşır. Bir boyut, bir niceliğin türüdür. Türetilmiş birim, temel birimlerden oluşturulan bir birimdir. Boyut homojenliği, bir denklemin hiçbir koşulda mümkün olmasını sağlayan özelliktir. Bu üçünü öğrenin; teknik English, sözcük öbekleri listesi olmaktan çıkıp kendinizin uygulayabileceğiniz bir kurallar bütünü hâline gelir.",
+      "heading": "Birimlerle birlikte kullanılan sözcükler",
+      "terms": [
+        {
+          "example": "Uzunluk ve zaman farklı boyutlardır, bu yüzden onları toplayamazsınız.",
+          "gloss": "Bir niceliğin türü: uzunluk, kütle, zaman, elektrik akımı, sıcaklık, madde miktarı veya ışık şiddeti."
+        },
+        {
+          "example": "Formül, boyut homojenliği testinden geçemiyor.",
+          "gloss": "İki tarafı aynı boyuta sahip denklemin özelliği."
+        },
+        {
+          "example": "Newton, kuvvetin türetilmiş birimidir.",
+          "gloss": "Temel birimlerden oluşturulan birim; newton veya joule gibi."
+        }
+      ]
+    },
+    {
+      "body": "Tanıştığınız birimlerin çoğu temel birim değildir; bunlardan oluşturulur. Newton, kuvvetin türetilmiş birimidir: bir kilogram, saniyede bir metre, saniyede bir kez hareket eder. Joule, enerjinin türetilmiş birimidir; watt ise gücün türetilmiş birimidir. Bir türetilmiş birimin içindeki temel birimleri adlandırabilirseniz formül olmaktan çıkar ve dünya hakkında bir cümleye dönüşür.",
+      "examples": [
+        "Kuvvet newton cinsinden ölçülür; bir newton, bir kilogramın saniyede bir metre, saniyede bir kez hareket etmesidir.",
+        "Bir motorun gücü, ne kadar sert ittiği değil; işi ne kadar hızlı yaptığıdır."
+      ],
+      "heading": "Türetilmiş birimler ve bunların içinde gizlenen birimler"
+    },
+    {
+      "body": "Dönüşüm yapmak arithmetiktir; hangi dönüşümün doğru olduğuna karar vermek ise engineering'dir. Sayı değişir, ancak miktar hiç değişmez. 90 km/h değerini metres per second cinsine dönüştürün ve answer 25 m/s olur — ancak bu answer yalnızca, sayının sayfada artık kendinden önceki sayıdan farklı bir şey ifade ettiğini de söylediğiniz zaman doğrudur. Bir conversion table kolaylık sağlar; arkasındaki formula gerçek tool'dur ve onun arkasındaki formula yalnızca arithmetic'in tek satırıdır.",
+      "examples": [
+        "90 km/s, 25 m/s'dir; ilk sayı bir road speed, ikincisi ise bir laboratory speed'tir.",
+        "Bir conversion table yalnızca bir kolaylıktır: arkasındaki formula gerçek tool'dur."
+      ],
+      "heading": "Anlamı kaybetmeden birimler arasında dönüşüm yapmak"
+    },
+    {
+      "body": "Bir şartname size birimi, nominal değeri ve toleransı söyler. Parçanın hangi sıcaklıkta test edildiğini, hangi malzemeden kesildiğini ya da yükün yönünü söylemez. Birimler belirsizliğin bir türünü giderir, hepsini değil. Bir çizim ile bir ölçüm birbiriyle uyuşmadığında, hemen dönüşüme başvurmayın — önce koşulları kontrol edin.",
+      "heading": "Bir şartname size neyi söylemez"
+    },
+    {
+      "body": "Bunlar, bir çizimin sizin yüksek sesle söylemenizi sağladığı cümlelerdir. Bunları öğrenin; bir specification okumak, bir puzzle yerine bir conversation hâline gelsin.",
+      "examples": [
+        "Delik çapı 25 mm H7’dir, toleransı +0,021 / 0’dır.",
+        "Panel kalınlığı 1,5 mm’dir, tahta damarı yönünde ölçülmüştür.",
+        "Tork 4 N·m’dir, kalibre edilmiş bir wrench ile uygulanır.",
+        "Malzeme, 200 °C sürekli kullanım için rated’tır.",
+        "Tolerance, accuracy değildir: çizim izin verileni, measurement ise elde ettiğiniz sonucu söyler."
+      ],
+      "heading": "Bir çizimi okurken yeniden kullanabileceğiniz cümleler"
+    }
+  ],
+  "summary": "Birimsiz bir sayı ölçüm değildir ve iki tarafının birimleri eşleşmeyen bir formül de formül değildir. Bunu okuduktan sonra yedi temel birimi adlandırabilir, bir ölçümü çizimin beklediği şekilde yazabilir, bir formülü boyut analiziyle kontrol edebilir ve dönüştürülmüş bir sayının aritmetik olarak doğru, anlam bakımından yanlış olabileceğini açıklayabilirsiniz.",
+  "title": "Birimler, Boyutlar ve Boyutsal Analiz"
+}

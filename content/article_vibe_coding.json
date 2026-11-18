@@ -1,0 +1,115 @@
+{
+  "dependencies": [
+    "2afef503ff5f1f2359756ce075650071b2fc35d1ec0f78b09c676c74da88d4c5"
+  ],
+  "item": {
+    "addedAt": "2026-11-16T08:00:00Z",
+    "cover": "asset://2afef503ff5f1f2359756ce075650071b2fc35d1ec0f78b09c676c74da88d4c5",
+    "durationMin": 21,
+    "fieldId": "mind",
+    "id": "article_vibe_coding",
+    "media": {
+      "audio": [],
+      "cover": "asset://2afef503ff5f1f2359756ce075650071b2fc35d1ec0f78b09c676c74da88d4c5",
+      "gallery": [],
+      "images": [],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Define vibe coding and explain how it differs from programming.",
+      "Describe where technical debt accumulates in AI-generated code.",
+      "Explain why working code is not the same as understood code.",
+      "Recognize the architectural limits of prompt-driven development.",
+      "State who is responsible for software that an AI wrote."
+    ],
+    "sections": [
+      {
+        "body": "Vibe coding is the practice of building software by describing what you want to an AI in plain language, pasting the generated code, and accepting the result when it seems to work. The term spread in 2025 as AI coding tools became good enough that non-programmers could produce real, running applications.\n\nThe output is not fake. The apps run, the demos impress, and for small personal tools the method is often the fastest path from idea to working software. Something real has changed: the cost of producing code has collapsed, and with it the barrier that once forced people to understand a system before they could extend it.\n\nBut code that runs is not code that is understood. A program is not only its behavior today; it is its behavior under bad input, under load, under attack, and a year from now when the platform changes. Vibe coding optimizes the first of these and discovers the rest later.",
+        "examples": [
+          "The weekend app worked perfectly in the demo and collapsed when two hundred real users arrived with real data."
+        ],
+        "heading": "Software by description",
+        "type": "definition"
+      },
+      {
+        "body": "Technical debt is the future cost of shortcuts taken today. AI-generated code carries a special flavor of it: code that nobody — including its author — fully understands.\n\nThe debt hides in specific places. **Error handling** is generated in happy-path shapes, so failures surface far from their cause. **Data handling** trusts inputs the way examples do, not the way the real world behaves. **Dependencies** pile up silently: generated code imports packages nobody chose, each a future security bulletin. And **architecture** is improvised one prompt at a time, so the system is a palace of additions with no load-bearing design.\n\nNone of this makes the code useless. It makes it **unpriced**. The true cost of a vibe-coded system is not visible at shipping time; it arrives as a series of small mysteries that consume the hours of whoever maintains it — often the same person, now reading code that is nominally theirs and functionally a stranger's.",
+        "examples": [
+          "The fix for one bug produced three new ones, because nobody — human or machine — remembered why the original code was written that way."
+        ],
+        "heading": "Where the debt hides",
+        "type": "prose"
+      },
+      {
+        "body": "Programming was never mainly about typing code. It was always about holding a system in your head: knowing why it is shaped this way, what it will do in the corner cases, and where it will break. Writing code was one way to build that mental model. AI has separated the two.\n\nThis produces a new distinction. There are people who can produce software without understanding it, and people who understand software and use AI to produce it faster. The first group ships demos; the second group ships products. The difference is not intelligence or talent — it is whether reading the code matters to them.\n\nThe practical test is simple: for any system you ship, could you explain, line by line, what the important parts do and why? Not from memory of the prompts — from the code itself. If yes, the AI accelerated you. If no, the AI replaced you, and you are now a passenger in your own product.",
+        "examples": [
+          "She reviews every AI-generated function before accepting it; her codebase grows slower and breaks far less than her colleague's."
+        ],
+        "heading": "Reading code is the actual skill",
+        "type": "prose"
+      },
+      {
+        "body": "These terms name the forces at work when software is generated rather than written.",
+        "heading": "The vocabulary of AI-built software",
+        "terms": [
+          {
+            "example": "His vibe coding session produced a working to-do app in one evening — and he could not modify its sorting logic the next day.",
+            "gloss": "Building software by prompting an AI and accepting generated code based on whether it seems to work, without necessarily understanding it.",
+            "term": "Vibe coding",
+            "termId": "vibe_coding"
+          },
+          {
+            "example": "Skipping proper data validation was technical debt that came due the first time a user typed a quotation mark.",
+            "gloss": "The future cost of shortcuts in software: work that must be redone because quick solutions were chosen over correct ones.",
+            "term": "Technical debt",
+            "termId": "technical_debt"
+          },
+          {
+            "example": "Good software architecture is why one team can change the payment system without touching the login system.",
+            "gloss": "The high-level structure of a system: how its parts are divided and connected, decided before the details are written.",
+            "term": "Software architecture",
+            "termId": "software_architecture"
+          },
+          {
+            "example": "The code review caught that the AI had used a random number generator for the security token.",
+            "gloss": "The practice of having code read and checked by another developer — or by its author with fresh eyes — before it is accepted.",
+            "term": "Code review",
+            "termId": "code_review"
+          },
+          {
+            "example": "The module has perfect maintainability: a new developer fixed a bug in it on their first day.",
+            "gloss": "How easily software can be understood, fixed and extended by a human in the future.",
+            "term": "Maintainability",
+            "termId": "maintainability"
+          },
+          {
+            "example": "The root cause of the crash was a missing check two layers away from where the error appeared.",
+            "gloss": "The underlying reason a problem exists, as opposed to the symptom that made it visible.",
+            "term": "Root cause",
+            "termId": "root_cause"
+          }
+        ],
+        "type": "terminology"
+      },
+      {
+        "body": "If AI writes the code and you ship it, the bugs are yours. The law, the app stores, your users and your conscience all assign software to the person or company that published it. 'The AI made it' is not a defense, because you chose the tool, accepted the output, and kept the proceeds.",
+        "calloutKind": "danger",
+        "heading": "The responsibility does not transfer",
+        "type": "callout"
+      },
+      {
+        "body": "The productive way to use AI in programming is not to avoid it but to keep the loop closed: **prompt, read, test, own**. Generate, then read what was generated — actually read it, including the parts you did not ask for. Test beyond the happy path: bad input, empty state, repeat use, a second user.\n\nGrow the system in small pieces a human can hold. When a generated block exceeds what you can explain, stop and reduce until you can. Keep a written record — even a notebook — of why each major piece exists.\n\nUsed this way, AI is the most powerful programming assistant ever built: it removes typing, remembers syntax for you, and drafts the boring eighty percent. What it cannot do is the remaining twenty percent — judgment, responsibility, and the decision about what should exist. That part is still a human job, and it is the part that matters.",
+        "examples": [
+          "He generates with AI daily, but every function is read, every decision recorded, and his products survive their users."
+        ],
+        "heading": "Vibe coding well",
+        "type": "prose"
+      }
+    ],
+    "summary": "Describe an app to an AI, get working code, ship it tonight. Vibe coding is real and it works — until it doesn't. This article explains what is actually happening when software appears from prompts, where technical debt hides in AI-generated code, and why the person who ships is still responsible for what they shipped.",
+    "systemId": "mind_ai",
+    "title": "Vibe Coding and the Illusion of Understanding"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,606 @@
+{
+  "records": {
+    "240ebdadff83e0b697311d08c441b89d29f00cea68143107be9c3f0ea418d204": [
+      {
+        "forms": [
+          "Air conditioning",
+          "air_conditioning"
+        ],
+        "id": "lex.sa.en.air.conditioning",
+        "kind": "lexeme",
+        "lemma": "Air conditioning",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.air.conditioning.alt"
+        ]
+      },
+      {
+        "definition": "The air conditioning is on. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The air conditioning is on.",
+        "id": "sns.sa.en.air.conditioning.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.air.conditioning",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "245158361610600ff5703ce28c613fdbe9dad3a84f4e33edb64f4cf2957d2f1f": [
+      {
+        "forms": [
+          "Perspective",
+          "mathlit_perspective"
+        ],
+        "id": "lex.sa.mind.mathlit_perspective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Perspective",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mathlit_perspective.alt",
+          "sns.sa.mind.mathlit_perspective.alt.ja",
+          "sns.sa.mind.mathlit_perspective.alt.ko",
+          "sns.sa.mind.mathlit_perspective.alt.pt_br",
+          "sns.sa.mind.mathlit_perspective.alt.id",
+          "sns.sa.mind.mathlit_perspective.alt.th",
+          "sns.sa.mind.mathlit_perspective.alt.tr"
+        ]
+      },
+      {
+        "definition": "The point of view a story is told from, which decides what the reader can and cannot see.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_perspective.1.1"
+        ],
+        "gloss": "The point of view a story is told from, which decides what the reader can and cannot see.",
+        "id": "sns.sa.mind.mathlit_perspective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mathlit_perspective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "物語が語られる視点。語り手や焦点となる人物の立場によって、読者に示す情報と伏せる情報が変わる。",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_perspective.1.1.ja"
+        ],
+        "gloss": "物語を語る視点であり、読者が何を見られるかを決める。",
+        "id": "sns.sa.mind.mathlit_perspective.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mathlit_perspective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "이야기를 바라보는 위치나 관점이다. 이 선택에 따라 독자가 알 수 있는 정보와 보이지 못하는 정보가 달라진다.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_perspective.1.1.ko"
+        ],
+        "gloss": "이야기가 전달되는 관점이며 독자가 볼 수 있는 범위를 정한다.",
+        "id": "sns.sa.mind.mathlit_perspective.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mathlit_perspective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ponto de vista a partir do qual uma história é contada, o que determina o que o leitor pode e não pode ver.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_perspective.1.1.pt_br"
+        ],
+        "gloss": "Ponto de vista a partir do qual uma história é contada.",
+        "id": "sns.sa.mind.mathlit_perspective.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mathlit_perspective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sudut pandang yang menunjukkan posisi pembaca dalam cerita dan menentukan apa yang dapat dilihat atau diketahui pembaca.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_perspective.1.1.id"
+        ],
+        "gloss": "Sudut pandang yang digunakan untuk menceritakan sebuah cerita.",
+        "id": "sns.sa.mind.mathlit_perspective.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mathlit_perspective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "มุมมองที่ใช้เล่าเรื่องและกำหนดสิ่งที่ผู้อ่านเห็นหรือมองไม่เห็น การเปลี่ยนมุมมองอาจทำให้ข้อมูลและความหมายของเรื่องเปลี่ยนไปด้วย",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_perspective.1.1.th"
+        ],
+        "gloss": "มุมมองที่ใช้เล่าเรื่องและกำหนดสิ่งที่ผู้อ่านเห็นหรือมองไม่เห็น",
+        "id": "sns.sa.mind.mathlit_perspective.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mathlit_perspective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir anlatının aktarıldığı bakış açısı; okurun neyi görüp neyi göremeyeceğini belirler. Bakış açısı, anlatıcının konumu ve olaylara erişimiyle sınırlıdır.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_perspective.1.1.tr"
+        ],
+        "gloss": "Bir anlatının aktarıldığı bakış açısı; okurun neyi görüp neyi göremeyeceğini belirler.",
+        "id": "sns.sa.mind.mathlit_perspective.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mathlit_perspective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mathlit_perspective.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Gece vardiyasındaki mühendisin bakış açısından sakin bina bütün hikâyedir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_perspective.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "จากมุมมองของวิศวกรกะดึก ตึกเงียบแห่งนี้ก็คือทั้งเรื่องราว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_perspective.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dari perspektif insinyur malam, gedung yang hening itu menjadi inti cerita.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_perspective.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Da perspectiva do engenheiro noturno, o prédio silencioso é toda a história.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_perspective.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "야간 근무 기술자의 관점에서 보면 조용한 건물 자체가 이야기의 전부였다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_perspective.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "夜勤技師の視点からすれば、静かな建物そのものが物語のすべてになる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_perspective.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "From the perspective of the night engineer, the quiet building is the whole story.",
+        "translation": "Từ góc nhìn của kỹ sư trực đêm, tòa nhà yên tĩnh chính là toàn bộ câu chuyện.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "246c73613fa96766c772fa910b08eb90a20a7959e25f28790bcf5040993178be": [
+      {
+        "forms": [
+          "Social pressure",
+          "lts_social_pressure"
+        ],
+        "id": "lex.sa.social.lts_social_pressure",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Social pressure",
+        "pos": "phrase",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_social_pressure.alt",
+          "sns.sa.social.lts_social_pressure.alt.ja",
+          "sns.sa.social.lts_social_pressure.alt.ko",
+          "sns.sa.social.lts_social_pressure.alt.pt_br",
+          "sns.sa.social.lts_social_pressure.alt.id",
+          "sns.sa.social.lts_social_pressure.alt.th",
+          "sns.sa.social.lts_social_pressure.alt.tr"
+        ]
+      },
+      {
+        "definition": "The repeated sense that a status such as being single is a condition to be explained, corrected or ended.",
+        "exampleIds": [
+          "exm.sa.social.lts_social_pressure.1.1"
+        ],
+        "gloss": "The repeated sense that a status such as being single is a condition to be explained, corrected or ended.",
+        "id": "sns.sa.social.lts_social_pressure.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_social_pressure",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "独身などの状態を、説明、修正、または解消すべきconditionとしてとらえるCBT感。",
+        "exampleIds": [
+          "exm.sa.social.lts_social_pressure.1.1.ja"
+        ],
+        "gloss": "ある状態を問題として扱う繰り返しの圧力。",
+        "id": "sns.sa.social.lts_social_pressure.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_social_pressure",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "독신과 같은 상태가 설명, 교정 또는 끝나야 할 문제라는 점을 반복적으로 느끼게 되는 사회적 압박을 뜻한다. 반드시 직접적인 압박으로 나타나지는 않는다.",
+        "exampleIds": [
+          "exm.sa.social.lts_social_pressure.1.1.ko"
+        ],
+        "gloss": "혼신 같은 자신의 상태를 설명하거나 바로잡아야 한다는 압박을 뜻한다.",
+        "id": "sns.sa.social.lts_social_pressure.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_social_pressure",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Expressão usada para descrever a pressão exercida sobre uma pessoa por causa de seu estado civil ou sentimental, muitas sob a forma de perguntas e cobranças.",
+        "exampleIds": [
+          "exm.sa.social.lts_social_pressure.1.1.pt_br"
+        ],
+        "gloss": "Sensação repetida de que um estado, como estar solteiro, deve ser explicado ou corrigido.",
+        "id": "sns.sa.social.lts_social_pressure.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_social_pressure",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Rasa berulang bahwa suatu status, seperti belum menikah, merupakan kondisi yang perlu dijelaskan, diperbaiki, atau diakhiri. Kata ini merujuk pada tekanan sosial, bukan tekanan fisik.",
+        "exampleIds": [
+          "exm.sa.social.lts_social_pressure.1.1.id"
+        ],
+        "gloss": "Tekanan untuk mengubah suatu kondisi status karena dianggap perlu dijelaskan atau diperbaiki.",
+        "id": "sns.sa.social.lts_social_pressure.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_social_pressure",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "ความรู้สึกต่อเนื่องว่าสถานะอย่างการเป็นโสดเป็นสิ่งที่ต้องอธิบาย แก้ไข หรือยุติ มักมาเป็นรูปแบบคำถามจากผู้อื่น",
+        "exampleIds": [
+          "exm.sa.social.lts_social_pressure.1.1.th"
+        ],
+        "gloss": "แรงกดดันทางสังคมต่อสถานะทางสังคม",
+        "id": "sns.sa.social.lts_social_pressure.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_social_pressure",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin toplumsal durumunu başkalarına açıklaması ya da değiştirmesi gerektiğine dair hissettiği tekrarlı zorlama. Genellikle başkalarının soruları ve yorumlarıyla sürdürülür.",
+        "exampleIds": [
+          "exm.sa.social.lts_social_pressure.1.1.tr"
+        ],
+        "gloss": "Bekâr kalmak gibi bir durumu açıklamanın, düzeltmenin veya sona erdirmenin gerektiği yönünde oluşan tekrarlı baskı.",
+        "id": "sns.sa.social.lts_social_pressure.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_social_pressure",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_social_pressure.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu toplumsal baskı tek bir acımasız sözle değil, bir dizi küçük soruyla ortaya çıkar.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_social_pressure.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "แรงกดดันทางสังคมมักมากับคำถามเล็ก ๆ น้อย ๆ มากกว่าคำพูดรุนแรงครั้งเดียว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_social_pressure.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tekanan sosial datang dari pertanyaan-pertanyaan kecil, bukan dari satu komentar kejam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_social_pressure.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A pressão social chega em pequenas perguntas, não em uma única observação cruel.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_social_pressure.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그러한 사회적 압박은 거친 말 한마디가 아니라 작은 질문들로 다가온다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_social_pressure.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "社会的圧力は残酷な発言だけでなく、小さな質問の形で現れる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_social_pressure.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The social pressure arrives in small questions, not in one cruel remark.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "247610f4dedd4ab7247d07dbda19c81ca9817f85820742cad49d407ffae9e4ed": [
+      {
+        "forms": [
+          "live"
+        ],
+        "id": "lex.sa.en.live.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "live",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.live.adjective.1",
+          "sns.sa.en.live-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Được cập nhật khi chạy; đang sống.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "trực tiếp",
+        "id": "sns.sa.vi.live.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.live.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Alive; updating as it runs.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "Running and updating at the moment; being alive.",
+        "id": "sns.sa.en.live-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.live.adjective",
+        "pos": "adjective",
+        "revision": 1
+      }
+    ],
+    "24d25dda4c6d3d7d3f7871e6a3286451cb348d9dbef5220b3dd857e205c0abed": [
+      {
+        "forms": [
+          "reproductive urgency",
+          "bc_reproductive_urgency"
+        ],
+        "id": "lex.sa.social.bc_reproductive_urgency",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "reproductive urgency",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.bc_reproductive_urgency.alt",
+          "sns.sa.social.bc_reproductive_urgency.alt.ja",
+          "sns.sa.social.bc_reproductive_urgency.alt.ko",
+          "sns.sa.social.bc_reproductive_urgency.alt.pt_br",
+          "sns.sa.social.bc_reproductive_urgency.alt.id",
+          "sns.sa.social.bc_reproductive_urgency.alt.th",
+          "sns.sa.social.bc_reproductive_urgency.alt.tr"
+        ]
+      },
+      {
+        "definition": "The felt push to act on reproduction because the window seems to be closing.",
+        "exampleIds": [
+          "exm.sa.social.bc_reproductive_urgency.1.1"
+        ],
+        "gloss": "The felt push to act on reproduction because the window seems to be closing.",
+        "id": "sns.sa.social.bc_reproductive_urgency.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.bc_reproductive_urgency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "出産や妊娠を急かminuteほど、出産の機会が失われる(dst)。",
+        "exampleIds": [
+          "exm.sa.social.bc_reproductive_urgency.1.1.ja"
+        ],
+        "gloss": "出産や妊娠unnyを急かすほど、出産できる猶予が限られていると感じる切迫感。",
+        "id": "sns.sa.social.bc_reproductive_urgency.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.bc_reproductive_urgency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "임신이나 출산의 가능성이 줄어드는 것 같을 때, 이를 놓치지 않으려는 마음이 생기는 압박감. 반드시 실제로 시한이 있다는 뜻은 아니다.",
+        "exampleIds": [
+          "exm.sa.social.bc_reproductive_urgency.1.1.ko"
+        ],
+        "gloss": "임신·출산의 기회를 놓칠 것 같아 조급해지는 압박감.",
+        "id": "sns.sa.social.bc_reproductive_urgency.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.bc_reproductive_urgency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Urgência sentida para agir sobre a reprodução porque o período parece estar se encerrando. Reflete a percepção de que uma oportunidade está se fechando.",
+        "exampleIds": [
+          "exm.sa.social.bc_reproductive_urgency.1.1.pt_br"
+        ],
+        "gloss": "Sentimento de pressa para acted sobre a reprodução porque a janela parece estar se fechando.",
+        "id": "sns.sa.social.bc_reproductive_urgency.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.bc_reproductive_urgency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dorongan yang dirasakan untuk segera bertindak soal reproduksi karena diperkirakan waktunya akan segera menutup. Dorongan ini adalah perasaan, bukan jadwal, dan ia tidak memberi tahu kapan jendela itu benar-benar tertutup.",
+        "exampleIds": [
+          "exm.sa.social.bc_reproductive_urgency.1.1.id"
+        ],
+        "gloss": "Dorongan yang dirasakan untuk segera bertindak soal reproduksi karena diperkirakan waktunya akan segera menutup.",
+        "id": "sns.sa.social.bc_reproductive_urgency.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.bc_reproductive_urgency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความรู้สึกว่าต้องลงมือสืบพันธุ์โดยเร็วเพราะเห็นว่าโอกาสหรือช่วงเวลาที่เหมาะสมกำลังจะปิดลง ไม่ได้หมายถึงความรีบร้อนทางกายเท่านั้น",
+        "exampleIds": [
+          "exm.sa.social.bc_reproductive_urgency.1.1.th"
+        ],
+        "gloss": "แรงกดดันที่รู้สึกว่าต้องรีบสืบพันธุ์เพราะช่วงเวลากำลังปิดลง",
+        "id": "sns.sa.social.bc_reproductive_urgency.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.bc_reproductive_urgency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Üreme için harekete geçme penceresi kapanıyor gibi göründüğünde doğan içsel dürtü. Zaman baskısından farklı olarak kişinin kendi zamanlamasından kaynaklanabilir.",
+        "exampleIds": [
+          "exm.sa.social.bc_reproductive_urgency.1.1.tr"
+        ],
+        "gloss": "Üreme fırsatının kapanıyor gibi görünmesinden doğan, üremeye yönelik hareket etme dürtüsü.",
+        "id": "sns.sa.social.bc_reproductive_urgency.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.bc_reproductive_urgency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.bc_reproductive_urgency.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Üreme aciliyeti gerçekti; ancak arkasındaki süre hâlâ hesaplanmamıştı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.bc_reproductive_urgency.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอรู้สึกถึงความเร่งรีบในการสืบพันธุ์มากขึ้นเมื่อเห็นว่าอายุกำลังเดินไปพร้อมกับเวลา",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.bc_reproductive_urgency.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dorongan itu nyata, dan tenggat di baliknya belum pernah diperiksa.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.bc_reproductive_urgency.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A urgência reprodutiva era real, mas o prazo que a motivava continuava sem definição.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.bc_reproductive_urgency.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 출산 압박감은 분명했지만, 그 뒤에 놓인 기한은 아직 확인되지 않았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.bc_reproductive_urgency.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "生殖の切迫感は本物だったが、その背後にある期限はまだ確認されていなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.bc_reproductive_urgency.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The reproductive urgency was real, and the deadline behind it was still unchecked.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

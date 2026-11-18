@@ -1,0 +1,63 @@
+{
+  "items": {
+    "gem_emotional_labour": {
+      "definition": "The work of managing your own feelings and other people's feelings so that the situation keeps running.",
+      "dictionaryId": "lex.sa.social.gem_emotional_labour",
+      "example": "Emotional labour is the invisible work of keeping a meeting calm.",
+      "fieldId": "social",
+      "id": "gem_emotional_labour",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Emotional labour"
+    },
+    "kpar_distinction": {
+      "definition": "The act of saying what makes two things different, so that the reader does not confuse them.",
+      "dictionaryId": "lex.sa.mind.kpar_distinction",
+      "example": "The distinction between the answer and the reason matters in every report.",
+      "fieldId": "mind",
+      "id": "kpar_distinction",
+      "lessonIds": [
+        "article_knowledge_paradox"
+      ],
+      "packs": [
+        "knw.mind.knowledge_paradox"
+      ],
+      "term": "Distinction"
+    },
+    "ma_carry": {
+      "definition": "To bear or transport something.",
+      "dictionaryId": "lex.sa.en.carry.verb",
+      "example": "In 8 + 7 you write 5 and carry 1 to the next column.",
+      "fieldId": "mathematics",
+      "id": "ma_carry",
+      "lessonIds": [
+        "article_mental_arithmetic"
+      ],
+      "packs": [
+        "knw.math.mental_arithmetic"
+      ],
+      "term": "carry"
+    },
+    "token": {
+      "conflict": true,
+      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
+      "dictionaryId": "lex.sa.technology.token",
+      "example": "The word \"the\" is one token, and a long word may be three.",
+      "fieldId": "technology",
+      "id": "token",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Token"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

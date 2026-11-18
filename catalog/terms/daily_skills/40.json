@@ -1,0 +1,221 @@
+{
+  "items": [
+    {
+      "definition": "The whole arrangement that connects the metal parts of an installation to the earth, so that a fault current has a safe way back.",
+      "dictionaryId": "lex.sa.daily_skills.elec_earthing",
+      "example": "The earthing of the pump was checked when the board was replaced.",
+      "fieldId": "daily_skills",
+      "id": "elec_earthing",
+      "lessonIds": [
+        "article_pump_electrical_safety",
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety",
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Earthing"
+    },
+    {
+      "definition": "A device that compares the current going out with the current coming back, and opens the circuit when they differ.",
+      "dictionaryId": "lex.sa.daily_skills.elec_residual_current_device_rcd",
+      "example": "The residual-current device is the wide switch on the board with the test button.",
+      "fieldId": "daily_skills",
+      "id": "elec_residual_current_device_rcd",
+      "lessonIds": [
+        "article_pump_electrical_safety",
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety",
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Residual-current device (RCD)"
+    },
+    {
+      "definition": "The IP code on the nameplate that says how well the casing keeps out solid objects and water.",
+      "dictionaryId": "lex.sa.daily_skills.pump_ip_rating",
+      "example": "The nameplate of this pump carries an ingress protection rating of IP68.",
+      "fieldId": "daily_skills",
+      "id": "pump_ip_rating",
+      "lessonIds": [
+        "article_pump_electrical_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety"
+      ],
+      "term": "Ingress protection rating"
+    },
+    {
+      "definition": "A switch on a float that starts or stops the pump when the water level rises or falls.",
+      "dictionaryId": "lex.sa.daily_skills.pump_float_switch",
+      "example": "The float switch in the tank stops the pump when the tank is empty.",
+      "fieldId": "daily_skills",
+      "id": "pump_float_switch",
+      "lessonIds": [
+        "article_pump_electrical_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety"
+      ],
+      "term": "Float switch"
+    },
+    {
+      "definition": "The pump turning without water around it, so that the motor has nothing to cool it.",
+      "dictionaryId": "lex.sa.daily_skills.pump_dry_run",
+      "example": "A dry run heats the motor of a submersible pump.",
+      "fieldId": "daily_skills",
+      "id": "pump_dry_run",
+      "lessonIds": [
+        "article_pump_electrical_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety"
+      ],
+      "term": "Dry run"
+    },
+    {
+      "definition": "Water moving in the wrong direction, back along the pipe towards the pump.",
+      "dictionaryId": "lex.sa.daily_skills.pump_backflow",
+      "example": "After the supply stops, backflow can leave the pump running with no water.",
+      "fieldId": "daily_skills",
+      "id": "pump_backflow",
+      "lessonIds": [
+        "article_pump_electrical_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety"
+      ],
+      "term": "Backflow"
+    },
+    {
+      "definition": "The push of electric charge that drives a current.",
+      "dictionaryId": "lex.sa.en.voltage.noun",
+      "example": "The voltage across the cell is 12 V.",
+      "fieldId": "daily_skills",
+      "id": "wh_voltage",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "voltage"
+    },
+    {
+      "definition": "The green-and-yellow conductor that ties the metal case of an appliance to the earth bar in the board.",
+      "dictionaryId": "lex.sa.daily_skills.wh_earth_wire",
+      "example": "The earth wire was cut by a drill during the last renovation.",
+      "fieldId": "daily_skills",
+      "id": "wh_earth_wire",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Earth wire (ground wire)"
+    },
+    {
+      "definition": "A device that opens a circuit when the current is higher than the circuit is rated for.",
+      "dictionaryId": "lex.sa.daily_skills.wh_circuit_breaker",
+      "example": "The circuit breaker is the 16 A device on the board.",
+      "fieldId": "daily_skills",
+      "id": "wh_circuit_breaker",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Circuit breaker"
+    },
+    {
+      "definition": "Joining metal parts to each other so that they cannot sit at different voltages.",
+      "dictionaryId": "lex.sa.daily_skills.wh_bonding",
+      "example": "Bonding of the metal pipework is part of the installation.",
+      "fieldId": "daily_skills",
+      "id": "wh_bonding",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Bonding"
+    },
+    {
+      "definition": "To open the circuit by itself, because the device has found a fault or an overload.",
+      "dictionaryId": "lex.sa.daily_skills.wh_trip",
+      "example": "The RCD tripped when the heater was switched on.",
+      "fieldId": "daily_skills",
+      "id": "wh_trip",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Trip"
+    },
+    {
+      "definition": "A valve on the tank that opens and releases water if the pressure or the temperature inside becomes too high.",
+      "dictionaryId": "lex.sa.daily_skills.wh_safety_valve",
+      "example": "The safety valve is the small brass valve on the cold pipe.",
+      "fieldId": "daily_skills",
+      "id": "wh_safety_valve",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Safety valve"
+    },
+    {
+      "definition": "A rod of metal that corrodes instead of the tank, so that the tank wall is saved.",
+      "dictionaryId": "lex.sa.daily_skills.wh_anode_rod",
+      "example": "The anode rod is checked at every service and replaced when it is worn away.",
+      "fieldId": "daily_skills",
+      "id": "wh_anode_rod",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Anode rod"
+    },
+    {
+      "definition": "A burn caused by hot liquid or steam.",
+      "dictionaryId": "lex.sa.daily_skills.wh_scald",
+      "example": "Water at 60 °C can scald a child in a few seconds.",
+      "fieldId": "daily_skills",
+      "id": "wh_scald",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Scald"
+    },
+    {
+      "definition": "Removing the mineral scale that builds up inside a tank and on the heating element.",
+      "dictionaryId": "lex.sa.daily_skills.wh_descaling",
+      "example": "Descaling is done at the service interval in hard water areas.",
+      "fieldId": "daily_skills",
+      "id": "wh_descaling",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Descaling"
+    }
+  ],
+  "nextCursor": null,
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

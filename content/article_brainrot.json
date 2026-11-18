@@ -1,0 +1,196 @@
+{
+  "dependencies": [
+    "07658d52bc7356e324c1afe318b36ca720a3430b99946c296d3aa1a3dfa70f39",
+    "14c7431ec8a6531820b43c34a0edd18edf80ea7109cd4e93ab810b048a089400",
+    "5baf887c6375b8646a0c04250968e2daeeee0f5b4182867542e9e7701ba9c226",
+    "8a761824f144ea04b5ac799c263dd98eff41787174283405441af5ba198f611f"
+  ],
+  "item": {
+    "addedAt": "2026-11-14T00:00:00Z",
+    "cover": "asset://5baf887c6375b8646a0c04250968e2daeeee0f5b4182867542e9e7701ba9c226",
+    "durationMin": 22,
+    "fieldId": "technology",
+    "id": "article_brainrot",
+    "media": {
+      "audio": [],
+      "cover": "asset://5baf887c6375b8646a0c04250968e2daeeee0f5b4182867542e9e7701ba9c226",
+      "gallery": [
+        {
+          "caption": "How a scroll turns into an hour, and where you can break it.",
+          "kind": "image",
+          "source": "asset://14c7431ec8a6531820b43c34a0edd18edf80ea7109cd4e93ab810b048a089400",
+          "title": "The five steps of the attention cycle"
+        },
+        {
+          "caption": "The cheapest change that gives back the most attention.",
+          "kind": "image",
+          "source": "asset://8a761824f144ea04b5ac799c263dd98eff41787174283405441af5ba198f611f",
+          "title": "The phone out of reach"
+        },
+        {
+          "caption": "What a lost evening looks like from the inside.",
+          "kind": "image",
+          "source": "asset://07658d52bc7356e324c1afe318b36ca720a3430b99946c296d3aa1a3dfa70f39",
+          "title": "Two hours later"
+        }
+      ],
+      "images": [
+        "asset://8a761824f144ea04b5ac799c263dd98eff41787174283405441af5ba198f611f",
+        "asset://07658d52bc7356e324c1afe318b36ca720a3430b99946c296d3aa1a3dfa70f39"
+      ],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Explain what brain rot means, and what the phrase does not prove.",
+      "Describe how a recommendation feed is built to keep you scrolling.",
+      "Tell the difference between a short attention span and a trained habit.",
+      "Recognise the signs that scrolling has become automatic behaviour.",
+      "Run a one-week attention reset using a fixed set of steps.",
+      "Use the correct words when you talk about attention with other people.",
+      "Protect one block of deep work each day without turning it into a rule you break."
+    ],
+    "sections": [
+      {
+        "body": "Brain rot is the informal name for a familiar feeling: you spend a long time on short, fast videos, and when you finally stop you feel hollow and slightly annoyed. The phrase became common because the feeling is common. It is not a medical diagnosis, and it is not a new condition. It is a description of an ordinary experience with a modern design.\n\nThe important part of the definition is **automatic behaviour**. An automatic behaviour is one you start without deciding to. Brushing your teeth is automatic, and so is opening a video app and swiping. Between those two there is a huge difference: one serves a purpose you chose, the other serves a purpose the designer chose for you. The design of a feed is not neutral. A feed is built to predict what will keep you watching, and every scroll you make is a small piece of evidence about you.\n\nBrain rot also has a **dose-response** pattern, which simply means more causes more. Ten minutes of scrolling before work is usually nothing. Three hours of it, every evening, in the dark, with the phone at arm's length, is a different situation. The same app, the same person, a very different outcome. That is why the useful question is never \"is the internet bad for me\". It is \"how much of my day does it decide for me, and what did I get back\".\n\nTwo things brain rot is often confused with. The first is a **short attention span**. Some people genuinely cannot hold attention for long, and for them a ten-minute focus block is already an achievement. Brain rot is different: it is not the inability to focus, it is the erosion of the habit of focusing. The second is **doomscrolling**. Doomscrolling is reading bad news on purpose, again and again, because the news is genuinely interesting or genuinely upsetting. Brain rot can include it, but it does not need it. You can be deeply brain-rotted on nothing but recipes and football clips.\n\nThere is a third, quieter cost. Fragmented attention is not only about concentration. It is about the feeling that a spare twenty minutes is no longer enough for anything. When you can no longer be bored, you cannot be rested, because boredom and rest are the same thing wearing different clothes.",
+        "examples": [
+          "It is not that I cannot focus. It is that I no longer start without being pushed.",
+          "The problem is not the phone. The problem is that I open it before I decide to."
+        ],
+        "heading": "What brain rot means, and what it does not mean",
+        "type": "definition"
+      },
+      {
+        "body": "A recommendation feed is a prediction system. It has watched which videos you watched to the end, which you skipped at three seconds, and which you replayed. It uses that history to guess the next video, and it is judged by one number: how long you stay.\n\nThat single goal produces several well-known design choices. **Autoplay** removes the pause between videos, so stopping takes an active decision instead of a natural one. **Infinite scroll** removes the end of the list, so there is no natural place to stop. **Variable rewards** mean the next video might be wonderful or dull, and the brain cannot tell which in advance, so it keeps pulling the lever. **Notifications** bring the feed back to you when you are doing something else.\n\nNone of this is a conspiracy. It is ordinary business, and the same tools are used for good: a language lesson, a recipe, a health briefing, a friend far away. The problem is that you are not competing with other videos. You are competing with a system optimising one number, and that number is not your day.\n\nThe same logic appears in messaging. A chat that ends quietly is a chat that ended. A chat that shows a typing indicator holds you in the room. The interface is not neutral, and reading an interface is a skill.\n\nIt also explains why a good hour can still feel empty. The feed is optimised for continuation, not for satisfaction. Continuation means one more video; satisfaction means you feel better afterwards. A system tuned for continuation will always win against your intentions, because your intentions are slow and the system is not.",
+        "examples": [
+          "The video was not what I wanted. It was just what came next, and next was endless.",
+          "I stayed for one minute and then lost forty minutes to the same idea.",
+          "The typing indicator is doing the work here, not the conversation."
+        ],
+        "heading": "How a feed is built to keep you scrolling",
+        "type": "prose"
+      },
+      {
+        "body": "The sentence \"my attention span is short\" is used to explain almost anything, and it is usually the wrong explanation. It is worth separating three things that get mixed together.\n\n**Capacity** is how long you can hold a difficult thought in mind. It changes with sleep, stress, age and illness. It is not a character flaw, and it cannot be improved by willpower alone.\n\n**Habit** is what you do automatically. Habits are built by repeating a behaviour in a stable context until the cue alone is enough to start it. Scrolling on the sofa at nine o'clock is a habit. So is opening a laptop at breakfast and checking messages before the coffee.\n\n**Tolerance** is how much stimulation you need before boredom feels unbearable. This is the part that moves with use. Someone who spends the evening in short, loud, fast videos finds a long novel slow. Someone who reads for two hours finds the scrolling restless.\n\nThe good news is that tolerance and habit are the two parts you can actually train. Capacity responds to rest and to gradual challenge. Habit responds to context, so changing the context is more reliable than relying on willpower at the moment of temptation.\n\nThe second good news is that attention is not a fixed asset that is being spent down. It is closer to a muscle that gets tired and recovers. A bad week does not destroy it. But it does hide it, and the hiding is what people mistake for damage.",
+        "examples": [
+          "My attention span is not short. My evenings are full of fast things.",
+          "It is a habit, not a talent. The habit can be moved.",
+          "I could not read a whole chapter, so I started with two pages."
+        ],
+        "heading": "A short attention span and a trained habit are not the same thing",
+        "type": "prose"
+      },
+      {
+        "body": "Watch for these four signs together, because any one of them alone is harmless. First, you cannot remember the last video you watched, though you watched many. Second, you open the app without any intention to watch anything. Third, you feel a small jolt of irritation when the internet is slow, even for a minute. Fourth, you have said \"I will just check\" and then lost a stretch of time you wanted back. When all four are true, the pattern is automatic and it is worth treating it as a habit rather than as a weakness of character. Go to the reset in the next section before you try to fight it with willpower alone.",
+        "calloutKind": "warning",
+        "heading": "The signs that the feed has taken over",
+        "type": "callout"
+      },
+      {
+        "body": "The reset below is deliberately small. It works because it changes the context, not because it tests your willpower. Do it for seven days, then decide what to keep with a clear head.\n\nPick the one period of the day where you currently do the most scrolling, and protect it. Breakfast, the commute, or the hour after work are the usual candidates. Remove the app from that window rather than from your whole life.\n\nThen set up the conditions. The phone goes face down and out of arm's reach, or into another room. A physical distance of two metres is worth more than any amount of intention.\n\nReplace the habit with a named alternative, and name it before you need it. Reading the same ten pages, a walk without headphones, a phone call to one person. An alternative without a name will not be chosen.\n\nFinally, keep one piece of evidence. Write down what you did with the hour. A diary line a day is enough, and it is the only way to see the change, because memory will tell you the change did not happen.",
+        "examples": [
+          "For one week I keep the first hour after work for reading, and the phone stays in the kitchen.",
+          "I wrote one line a day, and the answer was almost always \"I did not even open it\"."
+        ],
+        "heading": "A one-week attention reset, in order",
+        "steps": [
+          "Choose the one window of the day where you scroll most.",
+          "Remove the app from that window, not from your whole life.",
+          "Put the phone out of arm's reach during that window.",
+          "Name one alternative activity before you need it.",
+          "Write one line a day about what you did with the time.",
+          "At the end of seven days, keep only what worked."
+        ],
+        "type": "steps"
+      },
+      {
+        "body": "These are the terms you will meet in reporting, in research and in ordinary conversation about screens. Most of them are precise once you have seen the definition.\n\n**Attention span** is the length of time you can hold focus on one thing. It is measured in tasks and conditions, not as a personal rating.\n\n**Attention residue** is what is left in your head from the task you just stopped. Switching tasks without a gap leaves part of the old task behind, and the new one starts from a lower level.\n\n**Dopamine** is a chemical signal in the brain tied to reward and motivation. People use the word loosely. The accurate version is that unpredictable rewards keep a behaviour interesting, and predictable ones do not.\n\n**Variable reward** is the pattern where you cannot predict what comes next, which is the strongest driver of repeated checking.\n\n**Doomscrolling** is deliberately reading distressing news in a loop. It is a specific habit with a specific feeling, not a synonym for scrolling.\n\n**Notification fatigue** is the state of ignoring notifications on purpose, which costs you the alerts that mattered.\n\n**Deep work** is sustained work on a demanding task with no interruption. It is a practice, not a personality trait.",
+        "heading": "The words of attention, one by one",
+        "terms": [
+          {
+            "example": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+            "gloss": "The length of time you can hold focus on one task. It depends on the task and on your state, not on a fixed personal rating.",
+            "term": "Attention span",
+            "termId": "attention_span"
+          },
+          {
+            "example": "I checked messages between every paragraph, so both pieces of work suffered.",
+            "gloss": "The part of the previous task still in your head after you stop it, which lowers the quality of the next task.",
+            "term": "Attention residue",
+            "termId": "attention_residue"
+          },
+          {
+            "example": "You keep opening the app because you never know which post will be interesting.",
+            "gloss": "A reward schedule where the outcome is unpredictable. Unpredictable rewards keep a behaviour going far longer than predictable ones.",
+            "term": "Variable reward",
+            "termId": "variable_reward"
+          },
+          {
+            "example": "The video was not even good, but the pull to check again was strong.",
+            "gloss": "A brain chemical linked to reward and motivation. People say it loosely; the useful idea is that wanting and liking are different things.",
+            "term": "Dopamine",
+            "termId": "dopamine"
+          },
+          {
+            "example": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+            "gloss": "Reading bad news repeatedly on purpose, because the subject holds your attention. A specific habit, not a synonym for scrolling.",
+            "term": "Doomscrolling",
+            "termId": "doomscrolling"
+          },
+          {
+            "example": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
+            "gloss": "The habit of ignoring alerts on purpose, so that the one alert that mattered gets ignored too.",
+            "term": "Notification fatigue",
+            "termId": "notification_fatigue"
+          }
+        ],
+        "type": "terminology"
+      },
+      {
+        "body": "It is easy to assume that if short videos have broken your focus, then long work is over. It is not. They fail in different ways, and one of them does not affect the other.\n\nA long piece of work fails because of **interruption**. Each message, each tab, each notification splits the task into pieces, and each split costs you the time to get back into it. The fix is interruption control: fewer sources, one device, longer gaps.\n\nA short video feed fails because of **replacement**. It does not interrupt a task. It occupies the slot where a task would otherwise be, and it fills the slot so comfortably that you never notice the trade.\n\nThe difference matters because the fixes are different. Removing the interruption means changing your work environment. Removing the replacement means changing what happens in the gap.\n\nThere is also a healthy form of the same habit. A short video can teach you a skill, a language, a repair, a movement. The problem is never the length of the content. It is whether you chose it and whether you stopped.\n\nSo the honest summary is this: the internet is not emptying your head. It is competing for the slots in your day, and it is very good at the competition. The defence is not a better phone. It is a day you planned before the screen was switched on.",
+        "examples": [
+          "The video did not interrupt my work. It replaced it, which is worse.",
+          "I do not need eight hours of silence. I need ninety minutes without a message.",
+          "I watched twenty minutes of a tutorial and stopped. That was a good use of the slot."
+        ],
+        "heading": "Why short videos and long work are different problems",
+        "type": "prose"
+      },
+      {
+        "body": "People often assume that once focus has slipped, it is gone for the day. It is not. Attention is trainable in short blocks, and short blocks are the ones that survive a busy week.\n\nStart with ten minutes. Set a timer, put the phone in another room, and do one thing that is mildly difficult: a page of writing, a spreadsheet, a language exercise, a repair manual. The difficulty is the point. Something easy will not prove anything.\n\nThen notice the moment you want to check the phone. Write the time down. Most people find the first few days are the worst, and that the urge comes in waves rather than a constant pull. A wave passes. That is the whole technique.\n\nAdd a small reward at the end, and make it physical rather than digital. A drink, a walk to the window, a piece of fruit. Rewarding a block of focus with another feed works against you.\n\nKeep a record for two weeks. You will not need a study to tell you what helps; you will be able to see which days were different. That record is also the answer to the question people ask most often, which is whether it is possible to get back to what they were like. Two weeks of ten minutes usually answers it.\n\nAnd keep one part of your day deliberately dull. Washing the dishes, walking without headphones, waiting for the bus. A mind that is never bored is a mind that never gets to wander, and wandering is where most good ideas come from.",
+        "examples": [
+          "Ten minutes, one task, phone in the next room. That is the whole method.",
+          "The urge came at minute three, passed at minute four, and I kept going.",
+          "I rewarded ten minutes of focus with a walk, not with a feed."
+        ],
+        "heading": "What you can still do in ten minutes",
+        "type": "prose"
+      },
+      {
+        "body": "Most people lose this argument because they use medical language for a design problem. These sentences keep it where it belongs: in habits, choices and time. Use them as they are, or change the details to match your own day.",
+        "examples": [
+          "It is not that I cannot concentrate. It is that starting has become automatic.",
+          "The feed is optimised for how long I stay, not for how I feel afterwards.",
+          "I lost forty minutes to one video, and I cannot remember a single thing about it.",
+          "My attention span is fine on paper. It is the phone in my hand that ruins it.",
+          "Doomscrolling is a different habit. It has bad news in it, and that changes how it feels.",
+          "I am trying one window a day, and I am writing it down, because memory is not evidence.",
+          "If I have to fight the phone every evening, I have already lost the evening."
+        ],
+        "heading": "Sentences you can reuse when you talk about this",
+        "type": "examples"
+      },
+      {
+        "body": "The apps will change again. The formats, the lengths and the tricks will all change, because that is what the business requires. Do not build your defence around a particular app or a particular feature. Build it around three durable things: decide what the screen is for before you pick it up, keep one part of the day free of it, and keep enough boring time in your day that your mind stays able to wander. Any technique that survives a change of interface is worth learning. The ones that only work on one version of one app will not.",
+        "calloutKind": "tip",
+        "heading": "Keeping your own head when the feed changes again",
+        "type": "callout"
+      }
+    ],
+    "summary": "Short videos and infinite feeds are engineered to hold your attention, and the result is a tired, scattered feeling after hours of scrolling. After reading this you can tell the difference between a weak attention span and a strong habit, spot the signs that the feed has taken over your day, and run a one-week reset that gives you your focus back.",
+    "systemId": "attention_and_the_internet",
+    "title": "Brain Rot: Is the Internet Destroying Our Attention Span?"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

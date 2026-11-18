@@ -1,0 +1,195 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_units_dimensions",
+  "objectives": [
+    "Explique por que uma medida precisa de uma unidade e o que é uma dimensão.",
+    "Nomeie as sete unidades básicas do SI e leia seus símbolos.",
+    "Use os prefixos corretamente e diga quanto cada um multiplica.",
+    "Verifique uma fórmula usando análise dimensional.",
+    "Converta entre unidades sem alterar o significado do número."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Uma medição é um número e uma unidade, e a unidade não é decoração. A mesma quantidade pode ser escrita de muitas maneiras — 0,35 mm, 350 µm, 0,00035 m — e as três dizem exatamente a mesma coisa. Tire a unidade e o que sobra não é um fato sobre o mundo; é um fato sobre um pedaço de papel. É por isso que todo desenho sério mantém a unidade ao lado do número, e por isso que um engineer que lê um número sem unidade para e pergunta de que coisa o número é a medida.",
+      "examples": [
+        "A placa indica 12,5 mm, não 12,5.",
+        "Dois suppliers cotam 3,0 para a mesma peça; apenas um deles diz a qual coisa o 3,0 se refere.",
+        "Uma unidade faz parte da medição, não é uma label grudada nela depois."
+      ],
+      "heading": "Um número não é uma medição",
+      "terms": [
+        {
+          "example": "A unidade é escrita depois do número, com um espaço.",
+          "gloss": "Uma quantidade fixa usada como standard para medir alguma coisa."
+        },
+        {
+          "example": "Dez kilometres é uma medição; dez não é.",
+          "gloss": "Um número junto com a unidade que dá sentido ao número."
+        }
+      ]
+    },
+    {
+      "body": "O International System of Units se apoia em sete unidades de base. Todas as demais unidades da engenharia são construídas a partir delas, e cada unidade de base tem um símbolo que nunca muda, nunca assume o plural e nunca recebe ponto final. Um símbolo não é uma abbreviation: escreve-se m para metre e nunca se escreve ms para metres, porque ms significa millisecond. Learn os sete símbolos e poderá ler uma linha de specification sem traduzi-la.",
+      "examples": [
+        "O símbolo é m, não M e não mtr.",
+        "Um símbolo nunca assume o plural: 5 m, nunca 5 ms para metres.",
+        "As letras maiúsculas também não são decoração: A é o ampere e a não é."
+      ],
+      "heading": "As sete unidades de base e os símbolos que as representam"
+    },
+    {
+      "body": "Um prefixo não muda o que você está medindo; muda o tamanho do número. Kilo significa mil, e milli significa milésimo. O prefixo é escrito como um símbolo antes da unidade, sem espaço entre eles: 12,5 km, 3,2 mm. Todo prefixo é uma potência de dez, e toda potência de dez também é uma potência de três: um quilômetro é mil metros, e mil é dez vezes dez vezes dez. Fique atento à única armadilha de todo o sistema: milli e metre começam com a mesma letra, então 25 mA são vinte e cinco miliampères, enquanto 25 m são vinte e cinco metros. A unidade indica qual deles você está observando.",
+      "examples": [
+        "Um parafuso de 3,5 mm precisa de um furo de 3,5 mm, não de um de 3,5 m.",
+        "O prefixo muda o número, nunca a quantidade: 5 km são 5000 m de estrada.",
+        "Gigabyte e gigahertz são coisas diferentes; o prefixo indica apenas o tamanho."
+      ],
+      "heading": "Prefixos: as palavras que multiplicam",
+      "table": {
+        "headers": [
+          "Prefixo",
+          "Símbolo",
+          "Fator",
+          "Exemplo"
+        ],
+        "rows": [
+          [
+            "nano",
+            "n",
+            "10^-9",
+            "5 nm — o comprimento de onda da luz verde"
+          ],
+          [
+            "micro",
+            "μ",
+            "10^-6",
+            "12 μm — a largura de um fio de cabelo fino"
+          ],
+          [
+            "milli",
+            "m",
+            "10^-3",
+            "25 mA — uma corrente pequena"
+          ],
+          [
+            "centi",
+            "c",
+            "10^-2",
+            "3 cm — aproximadamente o raio de uma moeda"
+          ],
+          [
+            "—",
+            "",
+            "10^0",
+            "1 m — o próprio metro"
+          ],
+          [
+            "kilo",
+            "k",
+            "10^3",
+            "5 kW — a potência de uma chaleira"
+          ],
+          [
+            "mega",
+            "M",
+            "10^6",
+            "3 MHz — a velocidade de clock deogenic/templateselectronics antiga"
+          ],
+          [
+            "giga",
+            "G",
+            "10^9",
+            "2 GB — um arquivo grande"
+          ]
+        ]
+      }
+    },
+    {
+      "body": "A análise dimensional é uma maneira de detectar erros em uma fórmula antes de confiar nela. Você substitui toda quantidade na equação pela dimensão em que ela é medida, soma e subtrai apenas coisas de mesma dimensão e verifica se os dois lados terminam com a mesma dimensão. Uma fórmula que se equilibra não é comprovada, mas uma fórmula que não se equilibra está certamente errada — e normalmente falha por um motivo que você pode nomear, como um expoente que está errado em uma unidade ou um fator que foi descartado quando a fórmula foi copiada.",
+      "examples": [
+        "Distance = speed × time: (m/s) × s = m. Os dois lados são comprimentos.",
+        "Energy = mass × speed²: kg × (m/s)² = kg·m²/s², que é o joule."
+      ],
+      "heading": "Como verificar uma fórmula com análise dimensional",
+      "steps": [
+        "Escreva a fórmula com todas as quantidades de um lado e o resultado do outro.",
+        "Substitua cada quantidade pela sua dimensão: comprimento, massa, tempo, corrente, temperatura, quantidade de substância ou intensidade luminosa.",
+        "Some e subtraia apenas dimensões do mesmo tipo; multiplique e divida como você faria com números.",
+        "Compare os dois lados. A mesma dimensão nos dois lados é necessária para que a fórmula seja possível.",
+        "Se os lados não corresponderem, procure a quantidade que você mediu de forma errada ou o fator que você descartou."
+      ]
+    },
+    {
+      "body": "O inglês põe a unidade depois do número, com um espaço: 12.5 mm, 3.2 kg, 20 °C. O espaço não é opcional; é ele que separa o número da unidade. Uma unidade não tem plural nem ponto final: 5 m, nunca 5 m. ou 5 ms. Os graus são escritos com o sinal de grau e sem espaço: 20 °C. Quando um número é uma faixa, a palavra to ou o traço indica a faixa: 10 to 20 mm, ou 10–20 mm. E uma unidade vai em minúsculas, a menos que carregue o nome de uma pessoa: 5 m, 5 kg, 5 mol, mas 5 A para o ampere, 5 K para o kelvin e 5 °C para graus Celsius.",
+      "examples": [
+        "A tolerância é 10–20 mm, não ±20 mm, quando o desenho indica uma faixa.",
+        "Escreva 5 m, não 5 m. — o ponto final pertence à frase.",
+        "A unidade vai em minúsculas, a menos que seja nomeada em homenagem a uma pessoa: 5 A, não 5 a."
+      ],
+      "heading": "A gramática de uma medida",
+      "terms": [
+        {
+          "example": "A tolerância é ±0.1 mm.",
+          "gloss": "A quantidade dentro da qual uma medida pode diferir do valor nominal."
+        },
+        {
+          "example": "O diâmetro nominal é 12 mm com uma tolerância de ±0.1 mm.",
+          "gloss": "O valor para o qual uma peça é fabricada, antes que a tolerância seja aplicada a ela."
+        }
+      ]
+    },
+    {
+      "body": "Três palavras carregam a maior parte do significado técnico. Dimensão é o tipo de uma grandeza. Unidade derivada é uma unidade construída a partir das unidades fundamentais. Homogeneidade dimensional é a propriedade que torna uma equação possível. Aprenda essas três e uma grande parte da linguagem técnica para especificações deixa de ser uma lista de expressões e passa a ser um conjunto de regras que você pode aplicar por conta própria.",
+      "heading": "As palavras que acompanham as unidades",
+      "terms": [
+        {
+          "example": "Comprimento e tempo são dimensões diferentes, portanto não é possível somá-los.",
+          "gloss": "O tipo de uma grandeza: comprimento, massa, tempo, corrente elétrica, temperatura, quantidade de matéria ou intensidade luminosa."
+        },
+        {
+          "example": "A fórmula não passa no teste de homogeneidade dimensional.",
+          "gloss": "A propriedade de uma equação cujos dois lados têm a mesma dimensão."
+        },
+        {
+          "example": "O newton é uma unidade derivada de força.",
+          "gloss": "Uma unidade derivada das unidades de base, como o newton ou o joule."
+        }
+      ]
+    },
+    {
+      "body": "A maioria das unidades que você encontra não são unidades de base; elas são construídas a partir delas. O newton é uma unidade derivada de force: um kilogram se movendo um metre por second, uma vez por second. O joule é uma unidade derivada de energy, e o watt é uma unidade derivada de power. Quando você consegue nomear as unidades de base dentro de uma unidade derivada, uma fórmula deixa de ser uma fórmula e passa a ser uma sentence sobre o world.",
+      "examples": [
+        "Force é medido em newtons, e um newton é um kilogram vezes um metre por second ao quadrado.",
+        "A potência de um engine não é o quanto ele empurra com força; é a velocidade com que ele realiza work."
+      ],
+      "heading": "Unidades derivadas e as unidades escondidas dentro delas"
+    },
+    {
+      "body": "Converter é aritmética; decidir qual conversão é correta é engenharia. O número muda, a quantidade nunca muda. Convert 90 km/h into metros por segundo e a resposta é 25 m/s — mas a resposta só está correta se você também disser que o número na página agora significa algo diferente do número que significava antes. Uma tabela de conversão é uma conveniência; a formula por trás dela é a ferramenta real, e a formula por trás dela é uma linha de aritmética.",
+      "examples": [
+        "90 km/h é 25 m/s; o primeiro número é uma velocidade de estrada, o segundo é uma velocidade de laboratório.",
+        "Uma tabela de conversão é apenas uma conveniência: a formula por trás dela é a ferramenta real."
+      ],
+      "heading": "Convertendo entre unidades sem perder o significado"
+    },
+    {
+      "body": "Uma especificação tells a unit, o valor nominal e a tolerância. Não tells a temperatura em que a parte foi testada, o material de que foi cortada nem a direction da carga. As Units remove um kind de ambiguity, não todos eles. Quando um drawing e uma measurement discordam, não recorra à conversion — check as conditions first.",
+      "heading": "O que uma especificação não tells"
+    },
+    {
+      "body": "Estas são as frases que um desenho faz você dizer em voz alta. Aprenda-as e a leitura de uma especificação se torna uma conversa, não um enigma.",
+      "examples": [
+        "O furo é 25 mm H7, com tolerância de +0,021 / 0.",
+        "A espessura do painel é de 1,5 mm, medida no sentido transversal à veia.",
+        "O torque é de 4 N·m, aplicado com uma chave calibrada.",
+        "O material é classificado para uso contínuo a 200 °C.",
+        "Tolerância não é precisão: o desenho indica o que é permitido, e a medição indica o que você obteve."
+      ],
+      "heading": "Frases que você pode reutilizar ao ler um desenho"
+    }
+  ],
+  "summary": "Um número sem uma unidade não é uma medida, e uma fórmula cujos dois lados não correspondem em unidades não é uma fórmula. Depois de ler isto, você poderá nomear as sete unidades fundamentais, escrever uma medida da forma que um desenho exige, verificar uma fórmula pela análise dimensional e explicar por que um número convertido pode estar correto aritmeticamente, mas errado quanto ao significado.",
+  "title": "Unidades, Dimensões e Análise Dimensional"
+}

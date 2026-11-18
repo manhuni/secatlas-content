@@ -1,0 +1,221 @@
+{
+  "language": "id",
+  "lessonId": "article_water_heater_safety",
+  "objectives": [
+    "Jelaskan bagaimana pemanas air dapat mengalirkan listrik ke dalam air, ke dalam pipa, dan ke dalam tubuh manusia.",
+    "Sebutkan arus, tegangan, insulasi, grounding, arus kebocoran, dan perangkat arus sisa (RCD), serta jelaskan fungsi masing-masing.",
+    "Jelaskan mengapa kamar mandi menjadi tempat di mana gangguan listrik kecil dapat menjadi berbahaya.",
+    "Pisahkan proteksi listrik dari proteksi tekanan, sehingga bagian yang benar diperiksa.",
+    "Bandingkan kabel pelindung bumi, perangkat arus sisa, dan pemutus sirkuit berdasarkan apa yang masing-masing mengawasi.",
+    "Gunakan urutan tindakan yang benar saat seseorang mengalami sengatan listrik dari perangkat air panas.",
+    "Periksa label pemanas dan pemeliharaan yang mencegah gangguan tersebut terjadi."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Pemanas air adalah tangki logam yang menampung air, serta elemen di dalamnya yang memanaskan air menggunakan listrik. Elemen, kabel, dan air semua berada di dalam casing logam yang sama. Itulah sebabnya perangkat ini berada di tepi dua bahaya: perangkat ini menahan air panas di bawah tekanan, dan perangkat ini membawa arus listrik dari jaringan. Yang kedua bisa menghentikan jantung, dan itulah yang menjadi topik artikel ini.\n\nLima kata membawa subjek. **Arus listrik** adalah aliran listrik, diukur dalam ampere (A). **Tegangan** adalah dorongan yangarus listrik, diukur dalam volt (V); suplai ke rumah biasanya sekitar 230 V di sebagian besar dunia dan sekitar 120 V di Amerika Utara. **Insulasi** adalah material di sekitar bagian hidup peralatan yang menjaga arus tetap di dalam kabel. Kawat **bumi**, yang disebut kawat grounding di Amerika Utara, adalah konductor berwarna hijau-kuning yang menghubungkan selubung logam dengan bar pembumian pada panel, sehingga arus gangguan memiliki jalur pendek kembali ke tanah. Dan air yang mengandung mineral mengalir membawa arus listrik: air murni adalah penghantar listrik yang buruk, tetapi air keran bukan air murni.\n\nKesalahannya mudah dinyatakan. Jika bagian hidup pemanas menyentuh tangki atau air, arus listrik dapat keluar dari kabel, masuk ke dalam air, mencapai pipa, lalu sampai ke orang yang sedang memegang keran. Tidak ada yang tampak salah pada pemanas dari luar. Kesalahannya terletak di dalam selubung, dan itu terjadi pada orang yang berdiri di atas lantai yang basah.\n\nArtikel ini menjelaskan apa itu kerusakan, fungsi setiap komponen, apa yang harus dilakukan pada menit-menit pertama, dan kapan harus berhenti serta memanggil profesional. Ini tidak menggantikan manual perangkat, dan tidak menggantikan pekerjaan teknisi listrik berlisensi.",
+      "examples": [
+        "Pemanas ini merupakan tangki logam yang berisi air dan sebuah elemen di dalamnya, sehingga casingnya merupakan bagian dari rangkaian listrik.",
+        "Arus grounds yang mencapai air dapat mencapai pipa, dan pipa dapat mencapai orang.",
+        "Manual dan teknisi listrik menentukan apa yang harus dilakukan; artikel ini hanya menjelaskan risikonya."
+      ],
+      "heading": "Apa risikonya: listrik di dalam tangki berisi air",
+      "terms": [
+        {
+          "example": "Arus listrik kembali melalui kabel tanah, bukan melalui beban.",
+          "gloss": "Aliran listrik, diukur dalam ampere (A)."
+        },
+        {
+          "example": "Suplai listrik ke rumah ini adalah 230 V, sehingga pemanas berada pada tegangan berbahaya.",
+          "gloss": "Dorong yang mengatur arus saat ini, diukur dalam volt (V)."
+        },
+        {
+          "example": "Insulasi pada kabel retak dan gelap di dekat steker.",
+          "gloss": "Bahan di sekitar bagian hidup kabel yang menjaga arus listrik tetap di dalamnya."
+        },
+        {
+          "example": "Kabel earth terpotong oleh bor saat renovasi terakhir.",
+          "gloss": "Konductor hijau-kuning yang menghubungkan selubung logam suatu peralatan ke batang tanah di panel distribusi."
+        }
+      ]
+    },
+    {
+      "body": "Arus tidak bepergian sendirian. Ini memerlukan jalur tertutup: ia meninggalkan papan melalui kawat hidup dan kembali melalui kawat netral, serta akan mengambil jalur apa pun yang menutup lingkarannya. Jika bagian hidup pemanas menyentuh air, air tersebut menjadi bagian dari loop itu. Pipa-pipa yang membawa air itu juga menjadi bagian dari air tersebut, begitu pula setiap keran dan setiap fitting logam yang tersambung dengannya.\n\nTubuh Anda tersambung ke rangkaian listrik begitu menyentuh dua titik dengan tegangan berbeda. Saat Anda berdiri di lantai basah dan memegang keran logam, arus listrik mengalir melalui Anda, bukan melalui kabel earth yang seharusnyahone membawa arus tersebut dengan aman. Air pada kulit menurunkan resistensi tubuh, sehingga lebih banyak arus listrik yang mengalir, dan arus listrik yang mengalir melalui jantung adalah yang penting.\n\nJadi, jalur air di kamar mandi layak disebutkan: air di dalam pipa, lantai yang basah, keran logam, handuk atau alas yang tergeletak di lantai, serta pemanas yang selubung casingnya telah kehilangan insulasi. Salah satu dari mereka secara tunggal tidak berbahaya. Seorang, sebuah lantai, dan sebuah pipa bersama-sama adalah kesalahannya.\n\nJumlah kecil arus yang selalu menemukan jalannya melalui isolasi disebut **arus bocor**. Dalam instalasi yang sehat, ukurannya kecil dan stabil. Ketika insulasi rusak, arus kebocoran meningkat, dan pertumbuhan itulah, bukan ukuran gangguan, yang biasanya memperingatkan Anda terlebih dahulu: perangkat arus sisa mulai tripping.",
+      "examples": [
+        "Jika bagian yang hidup menyentuh air, pipa-pipa tersebut menjadi bagian dari sirkuit.",
+        "Lantai yang basah dan keran logam membentuk jalur yang dapat diduduki seseorang tanpa menyentuh pemanas.",
+        "RCD terpicu karena arus bocor telah meningkat, bukan karena pemanasnya kelebihan beban."
+      ],
+      "heading": "Bagaimana Zach creando menemukan jalan menuju seseorang",
+      "terms": [
+        {
+          "example": "Tukang listrik mengukur arus kebocoran dan hasilnya di atas tingkat biasa.",
+          "gloss": "Arus yang lolos dari bagian hidup peralatan melalui insulasi yang rusak."
+        }
+      ]
+    },
+    {
+      "body": "Tiga susunan melindungi orang tersebut, dan masing-masing mengamati hal yang berbeda. Yang pertama adalah **kabel earth protektif**, yaitu konductor hijau-kuning yang menghubungkan selubung logam pemanas dengan busbar earth pada panel. Fungsinya adalah memberikan jalur hambatan rendah bagi arus gangguan kembali ke papan, sehingga arus besar muncul pada rangkaian dan pemutus circuitos terbuka. Hal ini juga menjaga bagian logam pada perpipaan berada pada tegangan mendekati nol. **Pentanahan** adalah keseluruhan susunan konduktor dan sambungan; kawat tanah merupakan salah satu konduktor di dalamnya. **Pembondingan** adalah bagian dari susunan tersebut yang menyambungkan bagian logam satu sama lain, seperti pipa, casing pemanas, dan fitting logam, sehingga tidak ada satu pun bagian logam yang berada pada tegangan yang dapat disentuh oleh seseorang.\n\nSusunan kedua adalah **perangkat arus sisa** (RCD), juga disebut RCB atau RCCB. Ini membandingkan arus yang keluar melalui kawat hidup dengan arus yang kembali melalui kawat netral. Dalam sirkuit yang sehat, keduanya sama. Jika keduanya berbeda, ada arus listrik yang mengalir ke tempat lain: melalui manusia, melalui air, atau melalui isolasi yang rusak. Perbedaan tersebut merupakan arus sisa, dan ketika RCD mendeteksinya, perangkat **bertrip**, memutus jalur fase hidup dan netral dalam waktu sepersekian detik, jauh sebelum arus dapat menimbulkan kerusakan serius. Ini tidak tahu ke mana arus sekarang pergi, dan tidak perlu tahu. Dia hanya mengetahui bahwa sebagian dari dirinya hilang.\n\nSusunan ketiga adalah insulasi kabel dan pemutusircuit di ujung thereof. Isolasi menjaga arus tetap berada di dalam kabel sesuai tempatnya, dan pemutus DAYAT memonitori arus sesuai kapasitas kabel serta membuka sirkuit ketika arusnya terlalu tinggi. Breaker melindungi kabel dan peralatan; dengan sendirinya, breaker tidak melindungi orang dari arus kebocoran kecil. Itu adalah pekerjaan RCD. Arus residual 30 mA adalah tingkat yang biasanya digunakan untuk perlindungan pribadi pada sebagian besar instalasi, dan standar lokal yang menentukan.\n\nSemua itu adalah tentang saat ini. Perlindungan tekanan merupakan sistem yang terpisah. Katup **pengaman**, biasanya katup pelepas tekanan dan suhu, terbuka jika tekanan di dalam tangki meningkat terlalu tinggi dan mengeluarkan air. Rod **anoda** sama sekali bukan katup: ia adalah batang logam yang lebih mudah berkarat daripada tangki baja, dan ia berkarat menggantikan dinding tangki. Heater ini dapat memiliki seluruh komponen ini bekerja dengan sempurna dan tetapNmembahayakan seseorang jika kabel earth telah terputus. Bacalah kedua sistem itu sebagai dua sistem.",
+      "examples": [
+        "Kabel tanah membawa arus gangguan kembali ke papan, dan pemutus terbuka.",
+        "RCD membandingkan arus yang keluar dengan arus yang kembali.",
+        "Katup pengaman melindungi tangki dari tekanan, dan RCD melindungi orang dari arus listrik."
+      ],
+      "heading": "Bagian-bagian yang melindungi orang tersebut.",
+      "terms": [
+        {
+          "example": "Perangkat arus sisa adalah sakelar lebar pada panel dengan tombol uji.",
+          "gloss": "Perangkat yang membandingkan arus yang keluar dengan arus yang kembali, dan diputuskan saat keduanya berbeda."
+        },
+        {
+          "example": "Pemutus sirkuit adalah perangkat 16 A pada papan.",
+          "gloss": "Perangkat yang memutus rangkaian ketika arus listrik melebihi daya tahannya."
+        },
+        {
+          "example": "Penanahan diperiksa saat papan diganti.",
+          "gloss": "Susunan yang menghubungkan bagian logam dari sebuah instalasi ke tanah, sehingga arus gangguan memiliki jalur yang aman."
+        },
+        {
+          "example": "Penyambungan pipa logam merupakan bagian dari pemasangan.",
+          "gloss": "Menyambung bagian logam satu sama lain sehingga tidak berada pada potensial listrik yang berbeda."
+        },
+        {
+          "example": "RCD terputus saat pemanas dinyalakan.",
+          "gloss": "Untuk membuka sirkuit secara otomatis, karena perangkat telah menemukan gangguan atau kelebihan beban."
+        },
+        {
+          "example": "Katup pengaman adalah katup kuningan kecil pada pipa dingin.",
+          "gloss": "Katup pada tangki yang terbuka dan melepaskan air jika tekanan atau suhu di dalamnya menjadi terlalu tinggi."
+        },
+        {
+          "example": "Batang anoda diperiksa setiap kali servis dan diganti ketika sudah terkikis.",
+          "gloss": "batang logam yang berkarat alih-alih tangki, sehingga dinding tangki tersebut terlindungi."
+        }
+      ]
+    },
+    {
+      "body": "Enam bagian melakukan pekerjaan itu, dan keduanya termasuk dalam dua sistem yang berbeda. Tiga yang pertama mengawasi listrik: kabel tanah pelindung, perangkat arus residual, dan pemutus sirkuit. Mereka melindungi orang itu. Tiga bagian terakhir memantau panas, tekanan, dan korosi di dalam tangki: katup pengaman, batangan anoda, dan pemutus termal. Mereka melindungi peralatan itu. Pembaca yang mencampur kedua kelompok itu akan menunggu bagian yang salah untuk menyelamatkan mereka.\n\nThermal cut-out terletak di antara kedua kelompok. Ini adalah sakelar di dalam tangki yang membuka sirkuit pemanasan ketika air terlalu panas, sehingga melindungi elemen dan isolasi di sekitarnya. Hal ini tidak melindungi seseorang dari sengatan listrik ke tanah, dan tidak membuat air tersebut aman untuk disentuh.\n\nPeringkat dalam tabel tersebut adalah tingkat yang umum, bukan ketetapan hukum. Arus residual 30 mA adalah tingkat yang umum untuk perlindungan pribadi, breaker 16 A lazim digunakan untuk sirkuit stopkontak, dan pemanas air sering berada pada sirkuit khusus tersendiri. Standar lokal menentukan setiap nilai tersebut. Jika instalasi di depan Anda tidak sesuai dengan tabel, tanyakan kepada tukang listrik atau perusahaanUTILITAS apa yang seharusnya.",
+      "examples": [
+        "Kabel grounding dan RCD melindungi orang; katup pelepas dan anodebatang melindungi tangki.",
+        "Sirkuit stopkontak berkapasitas 16 A umum digunakan, dan nilai ditentukan oleh standar setempat.",
+        "RCD terputus saat arus yang kembali lebih kecil daripada arus yang keluar."
+      ],
+      "heading": "Perlindungan dan fungsi setiap bagian",
+      "table": {
+        "headers": [
+          "Part",
+          "What it watches",
+          "What it does when it works",
+          "Typical rating",
+          "What it does not protect against"
+        ],
+        "rows": [
+          [
+            "The protective earth wire is the green-and-yellow conductor to the earth bar in the board.",
+            "It watches the connection between the live part and the metal case.",
+            "It carries the fault current back to the board, so that the breaker opens.",
+            "No rating; it is a continuous conductor, and the local standard decides its size.",
+            "It does not protect a person who is already in contact with water, and it does nothing at all if it has been cut."
+          ],
+          [
+            "The residual-current device is the RCD, also called RCB or RCCB.",
+            "It watches the difference between the current that leaves and the current that returns.",
+            "It trips and cuts the power in a fraction of a second when the two currents differ.",
+            "Typically 30 mA for personal protection in most installations; the local standard decides.",
+            "It does not protect against a current that goes out and comes back the normal way, such as an overload."
+          ],
+          [
+            "The circuit breaker is the device that opens the circuit on an overload.",
+            "It watches the current in the circuit against the rating of the cable.",
+            "It opens the circuit when the current is too high, so the cable cannot overheat.",
+            "A 16 A breaker is common for a socket circuit, and a water heater is often on a dedicated circuit; the local standard decides.",
+            "It does not protect a person from a small leakage current; only the RCD does that."
+          ],
+          [
+            "The temperature and pressure relief valve is the safety valve on the tank.",
+            "It watches the pressure and the temperature inside the tank.",
+            "It opens and releases water if the pressure rises above the safe level.",
+            "Set for the appliance; the maker states the pressure, and the local standard decides.",
+            "It does not protect against electric current at all."
+          ],
+          [
+            "The anode rod is the sacrificial rod inside the head of the tank.",
+            "It does not watch anything; it corrodes instead of the tank.",
+            "It gives up its metal so that the steel tank does not rust through.",
+            "A rod of magnesium or another sacrificial metal, sized for the tank; the maker decides.",
+            "It does not protect against current, and a fitted rod does not stop the tank from scaling."
+          ],
+          [
+            "The thermal cut-out is the switch inside the tank that stops the heating.",
+            "It watches the temperature inside the tank.",
+            "It opens the heating circuit when the tank is too hot.",
+            "A fixed temperature set by the maker; the local standard decides.",
+            "It does not protect the metalwork from a fault to earth, and it does not make the water safe to touch."
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Sengatan listrik dari alat pemanas air terjadi di ruangan basah, dan menit-menit pertama menentukan hasilnya. Urutan di bawah ini penting. Jangan mulai dengan orang; mulailah dengan kekuasaan. Aturan yang mengatur semua hal lain: jangan pernah menyentuh orang yang masih bersentuhan dengan air atau peralatan tersebut. Seseorang yang memegang keran, atau berdiri di dalam genangan air sambil memegang pipa, tetap merupakan bagian dari rangkaian listrik. Tangan Anda di lengan mereka membuat Anda bagian dari mereka juga.\n\nMatikan daya pada breaker atau saklar utama jika Anda dapat mencapainya tanpa memasuki area basah. Jika Anda tidak dapat mencapainya dengan aman, jangan masuk ke air. Keluarkan semua orang dari ruangan, hubungi nomor darurat dan perusahaan listrik, lalu tunggu hingga listrik dimatikan dari tempat yang aman. Lantai basah di sekitar alat yang menyala adalah tempat korban kedua terjadi.\n\nKemudian buat ruangan itu aman. Keringkan lantai di sekitar peralatan dan keringkan orang tersebut, terutama tangan dan kakinya. Jangan menyentuh sakelar lampu atau keran di area basah: Anda tidak dapat yakin bahwa jalur pentanahan berfungsi, dan saat ini bukan waktu untuk mengujinya.\n\nKemudian panggil bantuan dan tulis hari itu. Jika orang tersebut tidak memberikan respons, atau jika Anda tidak yakin seberapa serius keadaan tersebut, hubungi nomor darurat di negara Anda: 113 untuk polisi dan lalu lintas, serta 115 untuk ambulans di Vietnam, 112 di sebagian besar Eropa, 999 di Britania Raya, dan 911 di Amerika Serikat. Sebutkan lokasi Anda, apa yang terjadi, dan apa yang sedang dilakukan orang tersebut sekarang. Setelah itu, hubungi tukang listrik atau perusahaanUTILitas, jangan gunakan pemanas sampai diperiksa, dan catat waktu kejadian, gejala yang muncul, serta nama-nama orang yang Anda hubungi.",
+      "examples": [
+        "Jangan sentuh dia sampai listriknya dimatikan; dia masih berdiri di dalam air.",
+        "Saya telah mematikan sakelar dan sekarang sedang mengeringkan lantai.",
+        "Saya menelepon nomor darurat karena dia tidak merespons."
+      ],
+      "heading": "Apa yang harus dilakukan ketika seseorang mengalami sengatan listrik",
+      "steps": [
+        "Jangan menyentuh orang tersebut selama mereka bersentuhan dengan air atau perangkat.",
+        "Matikan daya di breaker atau saklar utama, jika Anda dapat mencapainya tanpa memasuki area basah.",
+        "Keringkan lantai di sekitar perangkat dan keringkan orang tersebut, terutama tangan dan kakinya.",
+        "Hubungi nomor darurat jika orang tersebut tidak responsif, atau jika Anda tidak yakin seberapa serius kondisi tersebut.",
+        "Hubungi tukang listrik atau perusahaan listrik, lalu jelaskan apa yang Anda lihat dan urutan peristiwanya.",
+        "Tuliskan apa yang terjadi, kapan terjadi, dan siapa yang Anda hubungi, serta jangan gunakan perangkat tersebut sampai sudah diperiksa."
+      ]
+    },
+    {
+      "body": "**Jangan pernah mengerjakan pemanas saat dayanya menyala.** Bukan elemennya, bukan kabelnya, bukan steknya, dan jangan dengan asserts yang sudah dimatikan serta berharap bahwa dayanya memang sudah mati. Jika Anda tidak dapat memastikan bahwa sirkuit tersebut tidak aktif, Anda tidak boleh bekerja pada sirkuit itu.\n\n**Jangan pernah menyetel ulang RCD berulang kali.** Perangkat yang trips telah menemukan gangguan. Mengaturnya ulang menghapus bukti dan mengembalikan kesalahan. Catat apa yang sedang dilakukan oleh peralatan itu, catat waktunya, dan panggil tukang listrik. Perangkat yang mati dua kali dalam satu minggu merupakan gangguan yang harus dilaporkan, bukan gangguan yang dapat diabaikan.\n\n**Jangan pernah menggunakan kabel ekstensi atau pemanas portabel di ruangan yang lembap.** Kabel ekstensi adalah konductor panjang yang poorly dilindungi, sedangkan pemanas portabel merupakan elemen bertegangan yang berada di lantai ruangan lembap. Keduanya tidak pantas berada di kamar mandi. Jika stopkontak jauh dari perangkat, solusinya adalah instalasi sirkuit baru oleh tukang listrik, bukan lead yang membentang di seluruh ruangan.\n\n**Jangan mengandalkan kabel tanah saja.** Kabel tanah adalah satu lapisan perlindungan, dan hanya berfungsi ketika papan melihat arus gangguan. RCD adalah lapisan yang mengawasi orang tersebut. Pemanas dengan grounding yang baik dan tanpa proteksi RCD tidak aman, dan pemanas dengan RCD yang baik serta kawat grounding yang terputus juga tidak aman. Dan satu aturan berlaku di atas keempatnya: **hanya listriken berlisensi yang boleh membuka, memperbaiki, atau menguji pemanas air.** Manual peralatan, standar lokal, dan sertifikat listriken menentukan apa yang harus dilakukan. Artikel ini menjelaskan apa yang terjadi dan apa yang harus dilakukan pada menit-menit pertama. Hal itu bukan instruksi perbaikan, dan itu tidak menggantikan salah satu dari ketiganya.",
+      "examples": [
+        "Saya tidak akan menyetel ulang RCD lagi; alat ini sudah tripping dua kali dan kesalahannya harus ditemukan.",
+        "Kami tidak menggunakan kabel ekstensi untuk pemanas; stopkontaknya terlalu jauh dari peralatan.",
+        "Hanya tukang listrik berlisensi yang membuka dan menguji pemanas, jadi saya akan menelepon salah satunya."
+      ],
+      "heading": "Empat hal yang tidak boleh dilakukan"
+    },
+    {
+      "body": "Sebagian besar dari yang Anda butuhkan dalam perdagangan ini adalah bahasa laporan. Ucapkan apa yang Anda lihat, ucapkan apa yang dilakukan perangkat, dan ucapkan apa yang ingin Anda lakukan selanjutnya. Jangan diagnosis kesalahannya sendiri; jelaskan gejalanya dan biarkan teknisi listrik menentukan penyebabnya.\n\nTeknisi memerlukan empat hal: lokasi pemanas, isi label, gejala dalam urutan kejadian, dan apa yang sudah dicoba. Baca label sebelum menelepon, dan letakkan di depan Anda saat teknisi tiba.\n\nSeorang pemilik sewa atau manajer kantor memerlukan fakta yang sama dalam bentuk yang lebih singkat, beserta permintaan: tanggal, nomor referensi, dan pernyataan bahwa peralatan tersebut tidak dapat digunakan. Seorang rekan kerja membutuhkan aturan dan peringatan ini: matikan, hubungi, jangan setel ulang.",
+      "examples": [
+        "RCD tripped dua kali semalam, dan pemanas sekarang tidak dapat digunakan.",
+        "Label tersebut memberikan merek dan modelnya, dan saya sudah menuliskannya.",
+        "Seseorang tersengat listrik dari shower saat heater sedang menyala; saya telah mematikan listrik di panel.",
+        "Bisakah Anda Memorizzaatan listrik dan memberi saya nomor referensi untuk kunjungan tersebut?",
+        "Kamar mandi tidak dapat digunakan sampai sambungan ke tanah diperiksa.",
+        "Saya tidak tahu apa yang menyebabkannya; saya bisa memberi tahu dengan tepat apa yang saya lihat.",
+        "Jangan mengatur ulang perangkat. Hubungi perusahaan listrik dan biarkan mereka menemukan kesalahannya.",
+        "Apakah layanan rutin sudah termasuk dalam sewa, atau saya harus mengaturnya sendiri?"
+      ],
+      "heading": "Kalimat yang dapat Anda gunakan"
+    },
+    {
+      "body": "Sebagian besar kerusakan di dalam pemanas air dimulai sebagai perubahan perlahan yang tidak disadari siapa pun. Air sadah mengandung mineral, dan setiap kali pemanas menyala, sebagian dari mineral tersebut mengendap pada elemen pemanas dan di dalam tangki sebagai kerak. Skala merupakan isolator termal: elemen harus bekerja lebih keras untuk pengaturan yang sama, sehingga menjadi lebih panas dan insulation di sekitarnya menua lebih cepat. **Descaling** adalah pengangkatan kerak tersebut. Itu adalah pekerjaan untuk prosedur pembuatannya, dan dalam banyak kasus untuk profesional. Jangan masukkan apa pun ke dalam tangki yang tidak disebutkan oleh pembuatnya.\n\nBatang anoda adalah bagian yang dimaksudkan untuk berkarat. Ini adalah batangan magnesium, atau logam lain yang lebih aktif daripada baja, yang disekrup ke kepala tangki, dan selama berada di sana, korosi memakan batangan tersebut alih-alih dinding tangki. Periksa saatinterval servis, dan ganti ketika sudah hampir habis. Tangki yang kehilangan rod-nya dapat rusak dari bagian dalam tanpa peringatan apa pun saat keran dibuka.\n\nPada kunjungan yang sama, sirihkan tangki agar endapan di bagian bawah keluar, dan periksa apakah katup drainase dapat dibuka dan ditutup, karena katup yang tidak dapat dibuka adalah katup yang tidak dapat digunakan. Periksa bahwa katup pelepas tidak macet dan bahwa pipa pembuangannya bersih. Dengan daya dimatikan, periksa kabel dan steker apakah ada kerusakan: bagian yang terpotong, terjepit, pin yang panas atau berubah warna, atau steker yang.longgar di soket.\n\nAtur suhu sehingga air tidak dapat **membakar** seseorang. Suhu penyimpanan sekitar 60 °C biasanya direkomendasikan di banyak instalasi, dan aturan lokal yang menentukan. Baca label pemanas sebelum Anda mengubah apa pun: label itu menyebutkan jenis perangkat, daya, rentang termostat, dan jangka waktu servis yang diharapkan oleh produsen. Label bukan dekorasi.",
+      "examples": [
+        "Pemanas perlu dibersihkan dari kerak setiap tahun di gedung ini karena airnya sadah.",
+        "Batang anoda diperiksa dan diganti saat servis, bukan ketika tangki mulai bocor.",
+        "Label tersebut mengatur rentang termostat, sedangkan kode lokal menentukan suhu maksimum."
+      ],
+      "heading": "Perawatan yang mencegah kerusakan tersebut",
+      "terms": [
+        {
+          "example": "Air pada suhu 60 °C dapat melukai anak dalam hitungan detik.",
+          "gloss": "Luka bakar akibat cairan panas atau uap."
+        },
+        {
+          "example": "Descaling dilakukan pada interval servis di daerah air sadah.",
+          "gloss": "Menghapus kerak mineral yang menumpuk di dalam tangki dan pada elemen pemanas."
+        }
+      ]
+    }
+  ],
+  "summary": "Water heater adalah tangki logam berisi air yang memiliki listrik di dalamnya. Setelah membaca artikel ini, Anda dapat menjelaskan bagaimana arus gangguan mencapai seseorang, menyebutkan komponen yang melindungi Anda, melakukan tindakan yang tepat pada menit-menit pertama setelah sengatan listrik, menjelaskan gangguan kepada teknisi, serta menjaga perangkat tetap aman di antara jadwal pemeriksaan dan pemeliharaan.",
+  "title": "Water Heater dan Risiko sengatan listrik"
+}

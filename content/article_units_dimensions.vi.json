@@ -1,0 +1,275 @@
+{
+  "language": "vi",
+  "lessonId": "article_units_dimensions",
+  "objectives": [
+    "Giải thích vì sao một phép đo cần có đơn vị, và chiều là gì.",
+    "Gọi tên bảy đơn vị gốc của hệ SI và đọc được ký hiệu của chúng.",
+    "Dùng tiền tố đúng cách, và nói được tiền tố đó nhân lên bao nhiêu.",
+    "Kiểm tra một công thức bằng phân tích chiều.",
+    "Chuyển đổi giữa các đơn vị mà không làm đổi ý nghĩa của con số."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Một phép đo là một con số cộng với một đơn vị, và đơn vị không phải là thứ trang trí. Cùng một đại lượng có thể được viết ra bằng nhiều cách — 0,35 mm, 350 µm, 0,00035 m — và cả ba đều nói đúng một điều. Bỏ đơn vị đi thì phần còn lại không phải là sự thật về thế giới, mà là sự thật về một tờ giấy. Đó là lý do mọi bản vẽ nghiêm túc luôn đặt đơn vị ngay cạnh con số, và là lý do một kỹ sư đọc trần một con số sẽ dừng lại và hỏi: con số này là của cái gì.",
+      "examples": [
+        "Trên tấm ghi ghi 12,5 mm, chứ không phải 12,5.",
+        "Hai nhà cung cấp cùng báo 3,0 cho cùng một chi tiết; chỉ một người nói rõ 3,0 đó là của gì.",
+        "Đơn vị là một phần của phép đo, không phải nhãn dán vào sau cùng."
+      ],
+      "heading": "Một con số không phải là một phép đo",
+      "terms": [
+        {
+          "example": "Đơn vị được viết sau con số, kèm một khoảng trắng.",
+          "gloss": "Một đại lượng cố định được dùng làm chuẩn để đo một thứ khác."
+        },
+        {
+          "example": "Mười ki lô mét là một phép đo; mười thì không.",
+          "gloss": "Một con số cùng với đơn vị làm cho con số đó có ý nghĩa."
+        }
+      ]
+    },
+    {
+      "body": "Hệ đơn vị quốc tế đứng trên bảy đơn vị gốc. Mọi đơn vị khác trong kỹ thuật đều được dựng ra từ chúng, và mỗi đơn vị gốc có một ký hiệu không bao giờ đổi, không bao giờ có số nhiều và không bao giờ có dấu chấm. Ký hiệu không phải là chữ viết tắt: bạn viết m cho mét và không bao giờ viết ms thay cho mét, vì ms là mili giây. Học kỹ bảy ký hiệu này thì bạn đọc được một dòng quy cách mà không cần dịch.",
+      "examples": [
+        "Ký hiệu là m, không phải M và không phải mtr.",
+        "Ký hiệu không có số nhiều: 5 m, không bao giờ là 5 ms thay cho mét.",
+        "Chữ hoa cũng không phải thừa: A là ampe, còn a thì không phải."
+      ],
+      "heading": "Bảy đơn vị gốc và những ký hiệu đứng thay chúng",
+      "questions": {
+        "how": "Viết nó ra sao?",
+        "what": "Nó là gì?",
+        "when": "Khi nào người ta dùng nó?",
+        "where": "Bạn thấy nó ở đâu?",
+        "who": "Ai đọc nó?",
+        "why": "Tại sao nó tồn tại?"
+      },
+      "symbols": [
+        {
+          "how": "Một con số, một khoảng trắng, rồi đến m. Không có dấu chấm, và không bao giờ viết ms thay cho mét, vì ms là mili giây.",
+          "label": "m",
+          "meaning": "mét — đơn vị gốc của độ dài",
+          "what": "m là ký hiệu của mét, đơn vị gốc của độ dài trong hệ SI.",
+          "when": "Mọi khi có khoảng cách được viết ra: chiều cao một con bulong, bề rộng một tấm, khoảng cách giữa hai ngôi sao.",
+          "where": "Trên thước, trên mép bản vẽ, ở dòng đầu tiên của một bảng thông số.",
+          "who": "Mọi kỹ sư có đo bất cứ thứ gì.",
+          "why": "Độ dài là đại lượng mà mọi đại lượng cơ học khác đều được đo theo, nên đây là đơn vị đầu tiên một kỹ sư học."
+        },
+        {
+          "how": "Một con số, một khoảng trắng, rồi đến kg. Tiền tố kilo thuộc về đơn vị, nên ki lô gam viết cùng k và g.",
+          "label": "kg",
+          "meaning": "ki lô gam — đơn vị gốc của khối lượng",
+          "what": "kg là ký hiệu của ki lô gam, đơn vị gốc của khối lượng trong hệ SI.",
+          "when": "Mọi khi có thứ gì được cân: một linh kiện, một kiện hàng, một con người.",
+          "where": "Trên tải trọng cho phép, trên bảng bill of materials, trên bàn cân của xưởng.",
+          "who": "Người thiết kế chi tiết và người vận hành nó.",
+          "why": "Khối lượng không đổi dù bạn mang nó đi đâu; trọng lượng thì đổi theo trọng lực, khối lượng thì không."
+        },
+        {
+          "how": "Một con số, một khoảng trắng, rồi đến s. Cẩn thận: 5 s là năm giây, còn 5 ms là năm mili giây.",
+          "label": "s",
+          "meaning": "giây — đơn vị gốc của thời gian",
+          "what": "s là ký hiệu của giây, đơn vị gốc của thời gian trong hệ SI.",
+          "when": "Mọi khi có một khoảng thời gian được viết ra: thời gian một chu kỳ, thời gian giữ chừa, thời gian phản ứng.",
+          "where": "Trên sơ đồ thời gian, trên cột cycle time của một bảng thông số, trên kim giây.",
+          "who": "Bất kỳ ai đo xem một việc mất bao lâu.",
+          "why": "Thời gian là chiều biến mọi phép đo khác thành một tốc độ."
+        },
+        {
+          "label": "A",
+          "meaning": "ampe — đơn vị gốc của cường độ dòng điện"
+        },
+        {
+          "label": "K",
+          "meaning": "kelvin — đơn vị gốc của nhiệt độ"
+        },
+        {
+          "label": "mol",
+          "meaning": "môn — đơn vị gốc của lượng chất"
+        },
+        {
+          "label": "cd",
+          "meaning": "candela — đơn vị gốc của cường độ quang"
+        }
+      ]
+    },
+    {
+      "body": "Tiền tố không đổi thứ bạn đang đo; nó đổi con số lớn hay nhỏ đi bao nhiêu. Kilo nghĩa là nghìn, milli nghĩa là một phần nghìn. Tiền tố được viết bằng ký hiệu ở trước đơn vị, không có khoảng trắng: 12,5 km, 3,2 mm. Mọi tiền tố đều là một lũy thừa của mười, và mọi lũy thừa của mười cũng là một lũy thừa của ba: một ki lô mét là một nghìn mét, mà một nghìn là mười nhân mười nhân mười. Hãy nhớ cạm bẫy duy nhất của cả hệ thống: milli và mét bắt đầu bằng cùng một chữ cái, nên 25 mA là hai mươi lăm mili ampe, còn 25 m là hai mươi lăm mét. Chính đơn vị cho bạn biết bạn đang nhìn cái nào.",
+      "examples": [
+        "Một con bulông 3,5 mm cần một lỗ 3,5 mm, chứ không phải lỗ 3,5 m.",
+        "Tiền tố đổi con số, không đổi đại lượng: 5 km là 5000 m đường.",
+        "Gigabyte và gigahertz là hai thứ khác nhau; tiền tố chỉ nói cho biết cái đó lớn hay nhỏ."
+      ],
+      "heading": "Tiền tố: những từ nhân lên",
+      "steps": [],
+      "table": {
+        "headers": [
+          "Tiền tố",
+          "Ký hiệu",
+          "Hệ số",
+          "Ví dụ"
+        ],
+        "rows": [
+          [
+            "nano",
+            "n",
+            "10^-9",
+            "5 nm — bước sóng của ánh sáng xanh"
+          ],
+          [
+            "micro",
+            "μ",
+            "10^-6",
+            "12 μm — bề dày của một sợi tóc"
+          ],
+          [
+            "milli",
+            "m",
+            "10^-3",
+            "25 mA — một dòng điện nhỏ"
+          ],
+          [
+            "centi",
+            "c",
+            "10^-2",
+            "3 cm — gần bằng bán kính một đồng tiền"
+          ],
+          [
+            "—",
+            "",
+            "1",
+            "1 m — chính mét"
+          ],
+          [
+            "kilo",
+            "k",
+            "10^3",
+            "5 kW — công suất của một ấm"
+          ],
+          [
+            "mega",
+            "M",
+            "10^6",
+            "3 MHz — tần số của mạch điện tử cũ"
+          ],
+          [
+            "giga",
+            "G",
+            "10^9",
+            "2 GB — một tệp dữ liệu lớn"
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Phân tích chiều là cách bắt lỗi một công thức trước khi bạn tin nó. Bạn thay mỗi đại lượng trong phương trình bằng chiều của nó, chỉ cộng và trừ những thứ cùng chiều, rồi xem hai vế có ra cùng một chiều hay không. Một công thức cân bằng thì chưa được chứng minh, nhưng một công thức không cân bằng thì chắc chắn sai — và thường sai vì một lý do bạn gọi tên được, chẳng hạn một số mũ lệch một đơn vị, hay một hệ số bị rơi mất lúc công thức được chép lại.",
+      "examples": [
+        "Quãng đường = vận tốc × thời gian: (m/s) × s = m. Cả hai vế đều là độ dài.",
+        "Năng lượng = khối lượng × vận tốc²: kg × (m/s)² = kg·m²/s², đó là đơn vị joule."
+      ],
+      "heading": "Cách kiểm tra một công thức bằng phân tích chiều",
+      "steps": [
+        "Viết công thức với mọi đại lượng ở một vế và kết quả ở vế kia.",
+        "Thay từng đại lượng bằng chiều của nó: độ dài, khối lượng, thời gian, cường độ dòng điện, nhiệt độ, lượng chất, cường độ quang.",
+        "Chỉ cộng và trừ những chiều cùng loại; nhân và chia chúng như nhân và chia số.",
+        "So sánh hai vế. Cùng chiều ở cả hai vế là điều kiện cần để công thức ấy có thể tồn tại.",
+        "Nếu hai vế không khớp, hãy tìm đại lượng bạn đo sai hoặc hệ số bạn đã bỏ sót."
+      ]
+    },
+    {
+      "body": "Tiếng Anh đặt đơn vị sau con số, kèm một khoảng trắng: 12,5 mm, 3,2 kg, 20 °C. Khoảng trắng không phải là tuỳ chọn; nó là thứ tách con số khỏi đơn vị. Đơn vị không có số nhiều và không có dấu chấm: 5 m, không bao giờ là 5 m. hay 5 ms. Độ được viết với dấu độ và không có khoảng cách: 20 °C. Khi một con số là một khoảng, từ \"đến\" hoặu dấu gạch nối mang ý nghĩa đó: 10 đến 20 mm, hoặc 10–20 mm. Và đơn vị viết thường trừ khi nó mang tên một người: 5 m, 5 kg, 5 mol, nhưng 5 A cho ampe, 5 K cho kelvin và 5 °C cho độ C.",
+      "examples": [
+        "Dung sai là 10–20 mm, không phải ±20 mm, khi bản vẽ muốn nói một khoảng.",
+        "Viết 5 m, không phải 5 m. — dấu chấm thuộc về câu.",
+        "Đơn vị viết thường trừ khi mang tên một người: 5 A, không phải 5 a."
+      ],
+      "heading": "Ngữ pháp của một phép đo",
+      "terms": [
+        {
+          "example": "Dung sai là ±0,1 mm.",
+          "gloss": "Lượng mà một phép đo được phép lệch khỏi giá trị danh định."
+        },
+        {
+          "example": "Đường kính danh định là 12 mm với dung sai ±0,1 mm.",
+          "gloss": "Giá trị mà một chi tiết được gia công theo, trước khi áp dung sai số vào."
+        }
+      ]
+    },
+    {
+      "body": "Có ba từ gánh phần lớn ý nghĩa kỹ thuật. Chiều là loại của một đại lượng. Đơn vị dẫn xuất là một đơn vị dựng ra từ các đơn vị gốc. Đồng nhất chiều là tính chất làm cho một phương trình trở thành khả thi. Học ba từ này thì rất nhiều tiếng Anh trong quy cách không còn là một danh sách cụm từ, mà là một bộ quy tắc bạn tự áp dụng được.",
+      "heading": "Những từ đi cùng đơn vị",
+      "questions": {},
+      "terms": [
+        {
+          "example": "Độ dài và thời gian là hai chiều khác nhau, nên bạn không thể cộng chúng.",
+          "gloss": "Loại của một đại lượng: độ dài, khối lượng, thời gian, cường độ dòng điện, nhiệt độ, lượng chất hoặc cường độ quang."
+        },
+        {
+          "example": "Công thức không vượt qua được bài kiểm tra đồng nhất chiều.",
+          "gloss": "Tính chất của một phương trình mà hai vế mang cùng một chiều."
+        },
+        {
+          "example": "Newton là một đơn vị dẫn xuất của lực.",
+          "gloss": "Một đơn vị dựng ra từ các đơn vị gốc, chẳng hạn newton hay joule."
+        }
+      ]
+    },
+    {
+      "body": "Hầu hết các đơn vị bạn gặp đều không phải đơn vị gốc; chúng được dựng ra từ đơn vị gốc. Newton là một đơn vị dẫn xuất của lực: một ki lô gam dịch chuyển một mét mỗi giây, một lần mỗi giây. Joule là một đơn vị dẫn xuất của năng lượng, và watt là một đơn vị dẫn xuất của công suất. Một khi bạn gọi tên được các đơn vị gốc nằm bên trong một đơn vị dẫn xuất, một công thức không còn là công thức nữa mà trở thành một câu nói về thế giới.",
+      "equations": [
+        {
+          "caption": "Một newton là một ki lô gam tăng tốc với gia tốc một mét trên giây bình phương.",
+          "id": "newton",
+          "tex": "1\\,\\mathrm{N} = 1\\,\\mathrm{kg} \\cdot \\mathrm{m\\,s^{-2}}"
+        },
+        {
+          "caption": "Một joule là một newton dịch chuyển một vật khối một mét.",
+          "id": "joule",
+          "tex": "1\\,\\mathrm{J} = 1\\,\\mathrm{N} \\cdot \\mathrm{m}"
+        },
+        {
+          "caption": "Vận tốc là quãng đường chia cho thời gian.",
+          "id": "speed",
+          "tex": "v = \\frac{s}{t}"
+        },
+        {
+          "caption": "Công suất là công chia cho thời gian.",
+          "id": "power",
+          "tex": "P = \\frac{W}{t}"
+        }
+      ],
+      "examples": [
+        "Lực được đo bằng newton, và một newton là một ki lô gam nhân với một mét trên giây bình phương.",
+        "Công suất của một động cơ không phải là lực nó đẩy, mà là tốc độ nó thực hiện công việc."
+      ],
+      "heading": "Đơn vị dẫn xuất, và những đơn vị ẩn bên trong chúng"
+    },
+    {
+      "body": "Chuyển đổi là số học; quyết định xem phép chuyển đổi nào là đúng thì là kỹ thuật. Con số thay đổi, đại lượng thì không bao giờ. Chuyển 90 km/h sang mét trên giây thì đáp án là 25 m/s — nhưng đáp án chỉ đúng nếu bạn còn nói thêm rằng con số trên trang giấy giờ mang một nghĩa khác với con số nó mang trước đó. Bảng chuyển đổi chỉ là một tiện lợi; công thức đứng sau nó mới là công cụ thật, và công thức đó chỉ dài một dòng tính.",
+      "examples": [
+        "90 km/h là 25 m/s; con số đầu là tốc độ đường, con số sau là tốc độ phòng thí nghiệm.",
+        "Bảng chuyển đổi chỉ là tiện lợi: công thức đứng sau nó mới là công cụ thật."
+      ],
+      "heading": "Chuyển đổi giữa các đơn vị mà không mất ý nghĩa"
+    },
+    {
+      "body": "Một bản quy cách nói cho bạn biết đơn vị, giá trị danh định và dung sai. Nó không nói cho bạn biết chi tiết đã được thử ở nhiệt độ nào, cắt ra từ vật liệu nào, hay chịu tải theo hướng nào. Đơn vị loại bỏ một kiểu mơ hồ, không loại bỏ mọi kiểu mơ hồ. Khi bản vẽ và phép đo không khớp, đừng vội tìm phép chuyển đổi — hãy kiểm tra điều kiện trước đã.",
+      "heading": "Điều mà một bản quy cách không nói cho bạn"
+    },
+    {
+      "body": "Đây là những câu mà một bản vẽ bắt bạn nói ra. Học chúng thì việc đọc một bản quy cách trở thành một cuộc trò chuyện thay vì một câu đố.",
+      "examples": [
+        "Lỗ khoan có đường kính 25 mm H7, dung sai +0,021 / 0.",
+        "Chiều dày tấm là 1,5 mm, đo theo hướng gỗ.",
+        "Mô-men xoắn là 4 N·m, siết bằng cờ vặn đã hiệu chuẩn.",
+        "Vật liệu chịu được 200 °C liên tục.",
+        "Dung sai không phải là độ chính xác: bản vẽ nói cái gì được phép, còn phép đo nói bạn đã nhận được cái gì."
+      ],
+      "heading": "Những câu bạn dùng lại được khi đọc bản vẽ"
+    }
+  ],
+  "summary": "Một con số không có đơn vị thì không phải là một phép đo, và một công thức mà hai vế không cùng đơn vị thì không phải là công thức. Đọc xong bài này, bạn gọi tên được bảy đơn vị gốc, viết một phép đo đúng kiểu mà bản vẽ mong đợi, kiểm tra một công thức bằng phân tích chiều, và giải thích vì sao một con số đã chuyển đổi vẫn có thể đúng về số học nhưng sai về ý nghĩa.",
+  "title": "Đơn vị, chiều và phân tích chiều"
+}

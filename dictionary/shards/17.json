@@ -1,0 +1,620 @@
+{
+  "records": {
+    "178d94b31abc2bd33d0638375669ad371733180a096ac1f9b7d4a64218aba7c3": [
+      {
+        "forms": [
+          "Co-working space",
+          "coworking"
+        ],
+        "id": "lex.sa.culture.coworking",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Co-working space",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.culture.coworking.alt",
+          "sns.sa.culture.coworking.alt.ja",
+          "sns.sa.culture.coworking.alt.ko",
+          "sns.sa.culture.coworking.alt.pt_br",
+          "sns.sa.culture.coworking.alt.id",
+          "sns.sa.culture.coworking.alt.th",
+          "sns.sa.culture.coworking.alt.tr"
+        ]
+      },
+      {
+        "definition": "A paid workspace where people work in the same room, usually by the day or the month, with a desk and reliable internet.",
+        "exampleIds": [
+          "exm.sa.culture.coworking.1.1"
+        ],
+        "gloss": "A paid workspace where people work in the same room, usually by the day or the month, with a desk and reliable internet.",
+        "id": "sns.sa.culture.coworking.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.culture.coworking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "日額または月額で机と通信環境を利用できる共有作業場です。administrationや会議室をchaftせず、個人や小组の作業 chiefly.",
+        "exampleIds": [
+          "exm.sa.culture.coworking.1.1.ja"
+        ],
+        "gloss": "有料で複数の人が同じ場所で働く作業場。",
+        "id": "sns.sa.culture.coworking.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.culture.coworking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "책상과 안정적인 인터넷을 제공하고, 이용자가 같은 방에서各自 일하는 유료 업무 공간이다. 일반 사무실처럼 한 회사가 전용하는 공간과는 다르다.",
+        "exampleIds": [
+          "exm.sa.culture.coworking.1.1.ko"
+        ],
+        "gloss": "사람들이 같은 사무 공간에서 함께 일하며 일일 또는 월 단위로 이용료를 내는 공간이다.",
+        "id": "sns.sa.culture.coworking.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.culture.coworking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Espaço pago onde várias pessoas trabalham no mesmo ambiente, normalmente por diária ou mensalidade. Geralmente oferece mesa, internet e outras atividades de uso compartilhado.",
+        "exampleIds": [
+          "exm.sa.culture.coworking.1.1.pt_br"
+        ],
+        "gloss": "Espaço de trabalho compartilhado, alugado por dia ou mês, com mesa e internet.",
+        "id": "sns.sa.culture.coworking.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.culture.coworking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ruang kerja yang disewakan kepada orang yang bekerja di tempat yang sama, biasanya menyediakan meja dan internet yang stabil. Biayanya dapat dihitung per hari atau per bulan.",
+        "exampleIds": [
+          "exm.sa.culture.coworking.1.1.id"
+        ],
+        "gloss": "Ruang kerja berwenang yang dipakai bersama dengan biaya harian atau bulanan.",
+        "id": "sns.sa.culture.coworking.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.culture.coworking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สำนักงานหรือพื้นที่ที่คนหลายคนเช่าใช้ร่วมกันเพื่อทำงาน โดยทั่วไปคิดค่าเช่าเป็นรายวันหรือรายเดือน การใช้พื้นที่นี้ต้องชำระค่าเช่า",
+        "exampleIds": [
+          "exm.sa.culture.coworking.1.1.th"
+        ],
+        "gloss": "พื้นที่ทำงานร่วมแบบเช่าซื้อ มีโต๊ะและอินเทอร์เน็ตที่ใช้งานได้",
+        "id": "sns.sa.culture.coworking.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.culture.coworking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Birden fazla kişinin aynı mekânda çalıştığı, genellikle günlük veya aylık ücret ödenen çalışma alanıdır. Çoğunlukla masa, sandalye ve güvenilir internet sunar.",
+        "exampleIds": [
+          "exm.sa.culture.coworking.1.1.tr"
+        ],
+        "gloss": "Günlük veya aylık ücretle, masası ve güvenilir interneti olan ortak çalışma alanı.",
+        "id": "sns.sa.culture.coworking.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.culture.coworking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.culture.coworking.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A co-working space costs less than the coffee I would buy sitting in a café all day.",
+        "translation": "Bu ortak çalışma alanının günlük ücreti, bütün gün bir kafede oturup harcadığım paradan az.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.culture.coworking.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A co-working space costs less than the coffee I would buy sitting in a café all day.",
+        "translation": "ค่าเช่าพื้นที่ทำงานร่วมถูกกว่าค่ากาแฟที่ฉันจะสั่งเพื่อนั่งอยู่ในร้านทั้งวัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.culture.coworking.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A co-working space costs less than the coffee I would buy sitting in a café all day.",
+        "translation": "Ruang kerja bersama lebih murah daripada membeli kopi dan duduk di kafe sepanjang hari.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.culture.coworking.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A co-working space costs less than the coffee I would buy sitting in a café all day.",
+        "translation": "O coworking custa menos do que eu gastaria com cafés se ficasse o dia inteiro em uma casa de cafés.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.culture.coworking.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A co-working space costs less than the coffee I would buy sitting in a café all day.",
+        "translation": "이 코워킹 스페이스에서는 하루 이용료를 내고 필요한 공간을 빌릴 수 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.culture.coworking.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A co-working space costs less than the coffee I would buy sitting in a café all day.",
+        "translation": "このコワーキングスペースは月額でdeskをレンタルできる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.culture.coworking.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A co-working space costs less than the coffee I would buy sitting in a café all day.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "17ae69cc7e46047716212885f5683353e6d2b0e575e74f2a33d2f73667669584": [
+      {
+        "forms": [
+          "cover",
+          "covers"
+        ],
+        "id": "lex.sa.en.cover.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "cover",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.cover.noun.1",
+          "sns.sa.en.cover-noun.alt"
+        ]
+      },
+      {
+        "definition": "Ảnh đại diện cho một bài viết hoặc một gói nội dung.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [],
+        "gloss": "ảnh bìa",
+        "id": "sns.sa.vi.cover.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.cover.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The picture that represents an article.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [],
+        "gloss": "The picture that represents an article or a pack.",
+        "id": "sns.sa.en.cover-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.cover.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "17b25aa98b7d114ac2f7bc015b4b8f4f2252998b90dd5558fa687d99035f0935": [
+      {
+        "forms": [
+          "Persuasion",
+          "psy_persuasion"
+        ],
+        "id": "lex.sa.mind.psy_persuasion",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Persuasion",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.psy_persuasion.alt",
+          "sns.sa.mind.psy_persuasion.alt.ja",
+          "sns.sa.mind.psy_persuasion.alt.ko",
+          "sns.sa.mind.psy_persuasion.alt.pt_br",
+          "sns.sa.mind.psy_persuasion.alt.id",
+          "sns.sa.mind.psy_persuasion.alt.th",
+          "sns.sa.mind.psy_persuasion.alt.tr"
+        ]
+      },
+      {
+        "definition": "An honest attempt to win agreement, in which the other person is free to say no.",
+        "exampleIds": [
+          "exm.sa.mind.psy_persuasion.1.1"
+        ],
+        "gloss": "An honest attempt to win agreement, in which the other person is free to say no.",
+        "id": "sns.sa.mind.psy_persuasion.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.psy_persuasion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "相手の自由意志を尊重しながら、理由を示して同意uq而在を得ようとする誠実な試み。圧力とは区別され、誘惑や脅しによるものではない。",
+        "exampleIds": [
+          "exm.sa.mind.psy_persuasion.1.1.ja"
+        ],
+        "gloss": "相手が断る自由のある状態で、同意をMaximum求めようとすること。",
+        "id": "sns.sa.mind.psy_persuasion.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.psy_persuasion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "이유를 설명하고 상대가 자유롭게 결정할 수 있도록 하면서 동의를 구하는 시도다.",
+        "exampleIds": [
+          "exm.sa.mind.psy_persuasion.1.1.ko"
+        ],
+        "gloss": "상대가 거절할 자유를 가진 채로 동의를 얻으려는 정직한 설득.",
+        "id": "sns.sa.mind.psy_persuasion.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.psy_persuasion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Esforço por meio de argumentos e explicações para convencer alguém, respeitando seu direito de dizer não.difere da pressão e da manipulação, pois não esconde opções nem tira a liberdade de decisão da outra pessoa.",
+        "exampleIds": [
+          "exm.sa.mind.psy_persuasion.1.1.pt_br"
+        ],
+        "gloss": "Tentativa honesta de conquistar concordância que preserva a liberdade de recusar.",
+        "id": "sns.sa.mind.psy_persuasion.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.psy_persuasion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pengaruh yang jujur untuk mendapatkan kesetujuan, dengan orang yang AGAIN bebas menyatakan penolakan. Berbeda dari tekanan, persuasi tidak menghilangkan pilihan.",
+        "exampleIds": [
+          "exm.sa.mind.psy_persuasion.1.1.id"
+        ],
+        "gloss": "Upaya memperoleh persetujuan dengan tetap memberikan kebebasan untuk menolak.",
+        "id": "sns.sa.mind.psy_persuasion.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.psy_persuasion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การพยายามโน้มน้าวให้บุคคลเห็นด้วยด้วยเหตุผล ขณะที่ปล่อยให้อีกฝ่ายปฏิเสธได้อย่างอิสระ ต่างจากการชักจูงแบบบิดบังที่ทำให้ไม่มีทางเลือกจริง",
+        "exampleIds": [
+          "exm.sa.mind.psy_persuasion.1.1.th"
+        ],
+        "gloss": "การโน้มน้าวอย่างสุจริตให้เห็นด้วย",
+        "id": "sns.sa.mind.psy_persuasion.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.psy_persuasion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Karşı tarafın bilgilendirildiği, fikrinin dinlendiği ve hayır diyebildiği dürüst ikna girişimi. Baskıdan farklı olarak seçim özgürlüğünü ortadan kaldırmaz.",
+        "exampleIds": [
+          "exm.sa.mind.psy_persuasion.1.1.tr"
+        ],
+        "gloss": "İkna: Birinin gerekçeli açıklamalarla bir kararı benimsemesini sağlamak, hayır diyebilmesine izin vermek.",
+        "id": "sns.sa.mind.psy_persuasion.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.psy_persuasion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.psy_persuasion.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu bir iknaydı, baskı değildi: planı açıklayıp kararı ona bıraktı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.psy_persuasion.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "นั่นเป็นการโน้มน้าวอย่างสุจริต ไม่ใช่การกดดัน เขาอธิบายแผนและให้เธอตัดสินใจเอง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.psy_persuasion.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Persuasion terlihat ketika ia menjelaskan rencana dan membiarkan orang itu memutuskan tanpa tekanan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.psy_persuasion.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Isso foi persuasão, não pressão: ele explicou o plano e deixou a decisão com ela.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.psy_persuasion.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그는 계획을 설명하고 결정권을 그녀에게 맡겼기에 압박이 아니라 설득이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.psy_persuasion.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "あれは説得であって圧力ではなかった。彼は計画を説明し、決めるのは彼女に任せた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.psy_persuasion.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was persuasion, not pressure: he explained the plan and left the decision to her.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "17c27200a8205ccd632c15802a62df4dccf2ff256c57815d9e17e139ff0422b0": [
+      {
+        "forms": [
+          "Open weights"
+        ],
+        "id": "lex.sa.mind.open_weights",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Open weights",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.open_weights.en",
+          "sns.sa.mind.open_weights.vi"
+        ]
+      },
+      {
+        "definition": "Publishing the trained parameters of a model so anyone may download, run and modify it.",
+        "exampleIds": [],
+        "gloss": "Publishing the trained parameters of a model so anyone may download, run and modify it.",
+        "id": "sns.sa.mind.open_weights.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.open_weights",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Công bố tham số đã huấn luyện của mô hình để ai cũng có thể tải, chạy và chỉnh sửa.",
+        "id": "sns.sa.mind.open_weights.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.open_weights",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "17d3a823224d656b57d6e6fc93da18dc26abe90876b967ea6092693ad33c5cfe": [
+      {
+        "forms": [
+          "Circle back",
+          "circle_back"
+        ],
+        "id": "lex.sa.work.circle_back",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Circle back",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.circle_back.alt",
+          "sns.sa.work.circle_back.alt.ja",
+          "sns.sa.work.circle_back.alt.ko",
+          "sns.sa.work.circle_back.alt.pt_br",
+          "sns.sa.work.circle_back.alt.id",
+          "sns.sa.work.circle_back.alt.th",
+          "sns.sa.work.circle_back.alt.tr"
+        ]
+      },
+      {
+        "definition": "To return to a topic later. Often used to postpone a decision.",
+        "exampleIds": [
+          "exm.sa.work.circle_back.1.1"
+        ],
+        "gloss": "To return to a topic later. Often used to postpone a decision.",
+        "id": "sns.sa.work.circle_back.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.circle_back",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "その場で決着をつけず、時間を置いて議題を再開することを指す。",
+        "exampleIds": [
+          "exm.sa.work.circle_back.1.1.ja"
+        ],
+        "gloss": "後の时机? に同じ話題へ戻ることを指す表現。",
+        "id": "sns.sa.work.circle_back.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.circle_back",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "논의하던 주제를 잠시 미루었다가 나중에 다시 꺼내는 것을 뜻하며, 특히 결정이나 답을 나중에 하기로 할 때 자주 사용합니다.",
+        "exampleIds": [
+          "exm.sa.work.circle_back.1.1.ko"
+        ],
+        "gloss": "어떤 주제를 나중에 다시 다루는 일.",
+        "id": "sns.sa.work.circle_back.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.circle_back",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Retomar uma discussão ou um tema em outro momento, geralmente quando o assunto fica para depois. É uma expressão do meio corporativo usada com frequência para adiar decisões.",
+        "exampleIds": [
+          "exm.sa.work.circle_back.1.1.pt_br"
+        ],
+        "gloss": "Voltar a um assunto mais tarde, muitas vezes para adiar uma decisão.",
+        "id": "sns.sa.work.circle_back.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.circle_back",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kembali kepada suatu topik untuk dibahas kemudian, terutama ketika keputusannya ingin ditunda sampai ada informasi atau waktu yang lebih tepat.",
+        "exampleIds": [
+          "exm.sa.work.circle_back.1.1.id"
+        ],
+        "gloss": "Tindakan kembali membahas sebuah topik pada kesempatan berikutnya.",
+        "id": "sns.sa.work.circle_back.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.circle_back",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การยกกลับมาเรื่องหรือคำถามเดิมเพื่อพิจารณาอีกครั้ง มักใช้เพื่อเลื่อนการตัดสินใจไปก่อน",
+        "exampleIds": [
+          "exm.sa.work.circle_back.1.1.th"
+        ],
+        "gloss": "การกลับมาพิจารณาหัวข้อเดิมในภายหลัง",
+        "id": "sns.sa.work.circle_back.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.circle_back",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Görüşmede o an çözülemeyen bir konuyu daha sonra ele almak için kullanılır. Kararın ertelenmesini ifade edebilir.",
+        "exampleIds": [
+          "exm.sa.work.circle_back.1.1.tr"
+        ],
+        "gloss": "Bir konuya daha sonra yeniden dönme eylemi.",
+        "id": "sns.sa.work.circle_back.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.circle_back",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.circle_back.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us circle back to the budget question after lunch.",
+        "translation": "Bütçe sorusunu öğle yemeğinden sonra yeniden ele alalım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.circle_back.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us circle back to the budget question after lunch.",
+        "translation": "การกลับมาพิจารณาคำถามเรื่องงบประมาณหลังอาหารเป็นแนวทางที่ทุกคนเห็นพ้องต้องกัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.circle_back.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us circle back to the budget question after lunch.",
+        "translation": "Mari kita kembali membahas pertanyaan tentang anggaran setelah makan siang.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.circle_back.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us circle back to the budget question after lunch.",
+        "translation": "Vamos dar um circle back na questão do orçamento depois do almoço.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.circle_back.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us circle back to the budget question after lunch.",
+        "translation": "예산 문제는 점심 이후에 다시 다루기로 합시다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.circle_back.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us circle back to the budget question after lunch.",
+        "translation": "予算のことは昼食後に戻して検討しましょう。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.circle_back.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us circle back to the budget question after lunch.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

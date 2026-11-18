@@ -1,0 +1,199 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_math_and_literature",
+  "objectives": [
+    "Descreva os dois modos de pensar e a promessa que cada um faz sobre sua conclusão.",
+    "Explique a máquina da matemática: axiomas, definições, dedução e prova.",
+    "Explique a máquina da literatura: modelo, plausibilidade, perspectiva e ambiguidade.",
+    "Distinga um erro de dedução de um erro de premissa.",
+    "Use os dois modos lado a lado para escolher a verificação correta para uma pergunta.",
+    "Mova-se entre os dois modos em seis etapas, de um fato a uma decisão sobre a qual uma pessoa pode agir.",
+    "Escreva uma frase no registro do analista e outra no registro do escritor."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Duas maneiras de pensar estão por trás da maior parte do trabalho que as pessoas fazem. **A matemática** raciocina a partir de significados fixos e chega a uma conclusão que precisa ser certa: se as palavras dizem o que significam e os passos estão corretos, a conclusão não pode ser falsa. **A literatura** raciocina a partir de modelos de pessoas e chega a uma conclusão que precisa parecer verdadeira: a história precisa estar certa sobre como as pessoas se comportam e sobre o mundo que descreve.\n\nNa matemática, você começa fixando palavras. Uma **definição** diz exatamente o que uma palavra significa, de modo que duas pessoas que a leem usam a palavra da mesma forma. Você também aceita um pequeno número de afirmações sem prova; essas são chamadas de **axiomas**. A partir das definições e dos axiomas, você avança por **dedução lógica**: aplica as regras da lógica e chega ao que decorre delas. Nada é acrescentado de fora. Cada afirmação posterior repousa apenas nas anteriores.\n\nNa literatura, você começa com pessoas. O escritor tem um **modelo** de como uma pessoa, um grupo ou um lugar se comporta, e a história é construída sobre esse modelo. O modelo nunca é registrado como uma regra nem apresentado como uma lista. Ele se revela nas escolhas: o que um personagem percebe, o que um personagem se recusa a fazer, o que um personagem diz quando a sala fica em silêncio.\n\nA diferença está no que se pede ao leitor. Um leitor de matemática verifica as etapas. Um leitor de literatura acredita no comportamento, ou não. O primeiro pergunta: *isso precisa ser verdade?* O segundo pergunta: *isso poderia ser verdade de uma pessoa?* Ambas as perguntas são difíceis, e ambas recebem uma resposta aberta.",
+      "examples": [
+        "A matemática dá uma conclusão que deve ser certa; a literatura dá uma que deve parecer verdadeira.",
+        "Vamos fixar primeiro o significado da palavra, para que a utilizemos da mesma forma.",
+        "A história é construída com base em um modelo de como essas pessoas se comportam."
+      ],
+      "heading": "Duas formas de pensar e o que cada uma promete",
+      "terms": [
+        {
+          "example": "A definição de tolerância está escrita no topo do desenho, e todas as medições a seguem.",
+          "gloss": "Uma afirmação que fixa o significado exato de uma palavra, para que todos a usem da mesma forma."
+        },
+        {
+          "example": "Os axiomas são os pontos de partida da prova, e tudo o que vem depois deles é derivado.",
+          "gloss": "Uma afirmação que um sistema considera verdadeira e nunca prova por si mesmo."
+        },
+        {
+          "example": "Por dedução lógica, a conclusão decorre das premissas, e nada mais é necessário.",
+          "gloss": "O passo que leva você do que já é aceito ao que decorre disso."
+        },
+        {
+          "example": "O escritor tem um modelo de como se comporta um engenheiro nervoso, e cada cena é construída com base nele.",
+          "gloss": "Uma ideia funcional de como algo se comporta, mantida pelo escritor e nunca registrada como uma regra."
+        }
+      ]
+    },
+    {
+      "body": "A máquina tem três partes e não funciona com nada além delas. Um **axioma** é uma afirmação que o sistema considera verdadeira e nunca prova. Uma **definição** fixa o significado de uma palavra. A **dedução lógica** é a regra que conduz você daquilo que já é aceito ao que decorre disso. Quando os três estão no lugar, o raciocínio é mecânico: cada linha decorre das linhas acima dela.\n\nUma **prova** é o registro escrito dessa execução, e sua força está no fato de não precisar do autor. Qualquer leitor que siga os passos chega à mesma conclusão. É isso que torna uma prova verificável: não a confiança, mas a inspeção. Você lê uma linha e pergunta: *isso decorre do que está acima?* Se decorre, você continua. Se não decorre, você encontrou o erro, e o erro é local — as linhas anteriores continuam válidas.\n\nUma **premissa** é uma afirmação da qual a prova parte. Aqui está a parte que surpreende as pessoas: uma prova a partir de uma premissa falsa ainda é uma prova válida. Se a premissa é falsa, o erro não está na dedução. O erro está na premissa, e a prova mostrou algo mais restrito do que você queria: *se as premissas são verdadeiras, então a conclusão é verdadeira*. A máquina fez seu trabalho. A entrada estava errada.\n\nMais uma propriedade vale a pena conhecer: a **consistência**. Um conjunto de axiomas é consistente quando não se contradizem entre si, de modo que nenhuma proposição falsa pode ser deduzida a partir deles. A matemática não escolhe seus axiomas por você nem diz quais deles são verdadeiros. Ela diz o que se segue dos axiomas que você escolheu e se todos eles podem ser verdadeiros ao mesmo tempo.",
+      "examples": [
+        "Cada linha da prova decorre da linha imediatamente anterior.",
+        "A dedução é válida; a premissa é a parte que está errada.",
+        "Enuncie as premissas para que o argumento possa ser verificado ali e não apenas aqui."
+      ],
+      "heading": "A máquina da matemática: axiomas, definições e dedução",
+      "terms": [
+        {
+          "example": "A prova é curta, e qualquer leitor pode verificá-la linha a linha.",
+          "gloss": "O registro escrito de um raciocínio, no qual cada linha decorre das linhas acima dela."
+        },
+        {
+          "example": "A premissa está errada, portanto a conclusão só é válida na prova.",
+          "gloss": "Uma afirmação de que um argumento parte e toma como dada."
+        },
+        {
+          "example": "As duas regras não podem ser ambas verdadeiras, portanto, o conjunto de regras não é consistente.",
+          "gloss": "A propriedade de um conjunto de axiomas que não se contradizem."
+        }
+      ]
+    },
+    {
+      "body": "A máquina da literatura não tem axiomas nem provas. Ela tem um **modelo**: a ideia de trabalho do escritor sobre como as pessoas se comportam. O modelo nunca é escrito como uma regra. Ele é visível nas escolhas que o escritor faz, e um leitor pode inferi-lo pelo que acontece na página.\n\nUma história é julgada pela **plausibilidade**. Ninguém pode mostrar que um personagem teria dito o que disse, e ninguém precisa mostrar. O leitor confere a história contra o que já sabe sobre como as pessoas se comportam, e essa verificação acontece na própria cabeça do leitor. Uma história soa verdadeira quando o leitor reconhece o comportamento, e não quando o escritor comprovou alguma coisa.\n\nA terceira parte é a **perspectiva**: cujos olhos a história é vista. Uma história contada por uma pessoa deixa de fora tudo o que essa pessoa não pode ver, e as lacunas não são erros; são a forma da narrativa. Um escritor também pode usar a **ambiguidade** de propósito. Uma cena pode ter dois significados ao mesmo tempo, de modo que o leitor precisa decidir em qual deles o personagem agiu. A ambiguidade que o escritor controla é uma ferramenta. A vagueza que ninguém controla é um defeito.\n\nAqui está uma cena curta que é plausível, mas errada. Um relatório diz que um engenheiro entrou na sala de controle, viu a luz vermelha e desligou a bomba. Todas as partes dessa situação são plausíveis: engenheiros entram em salas de controle, uma luz vermelha indica uma falha e desligar a bomba é o que o procedimento determina. Ela está errada no que importa, porque o procedimento pede que o engenheiro telefone primeiro para o engenheiro de plantão, e a pessoa da história não fez isso. Nada de estranho aconteceu: uma pessoa comum tomou uma decisão comum sem uma regra que nunca havia visto. É isso que uma **analogia** pode fazer por você, porque a história do engenheiro é como qualquer passagem de plantão que pressupõe que o leitor já conheça as regras. Uma história ainda não é verdadeira por ser plausível; ela é verdadeira quando seus detalhes correspondem ao mundo que ela diz descrever.",
+      "examples": [
+        "Uma história é julgada pela plausibilidade, não pela demonstração.",
+        "As lacunas no que ela vê são consequência da perspectiva, não um erro.",
+        "A cena é plausível, e ainda assim está errada quanto à regra."
+      ],
+      "heading": "A máquina da literatura: modelo, plausibilidade e ponto de vista",
+      "terms": [
+        {
+          "example": "A história tem plausibilidade, e os detalhes da regra ainda estão faltando.",
+          "gloss": "A qualidade de uma situação que poderia ter acontecido, mesmo quando não aconteceu."
+        },
+        {
+          "example": "Do ponto de vista do engenheiro da noite, o prédio silencioso é toda a história.",
+          "gloss": "O ponto de vista a partir do qual uma história é contada, que decide o que o leitor pode e não pode ver."
+        },
+        {
+          "example": "A ambiguidade na última linha é intencional, e o leitor precisa resolvê-la.",
+          "gloss": "Um lugar em um texto onde dois significados são mantidos ao mesmo tempo e o leitor deve escolher um."
+        },
+        {
+          "example": "A analogia é clara: o cano é como uma estrada, e a perda é a distância.",
+          "gloss": "Uma comparação que leva um caso conhecido pelo leitor a um caso que ele ainda não conhece."
+        }
+      ]
+    },
+    {
+      "body": "Coloque lado a lado: os dois modos respondem a perguntas diferentes sobre a mesma obra. A matemática trata de fatos que devem ser verdadeiros, independentemente do que qualquer pessoa pense. A literatura trata de pessoas e do que elas farão.\n\nUma assimetria merece ser mencionada. A matemática pode ser verificada por um estranho que nunca conheceu o problema: os passos estão lá, e a verificação não depende de uma experiência compartilhada. A literatura não pode. O leitor precisa trazer consigo o mesmo mundo que a história descreve e, se não o tem, a história é simplesmente opaca. É por isso que as palavras de uma história carregam mais peso do que as palavras de uma prova.\n\nA maneira mais rápida de usar as duas colunas é fazer a pergunta primeiro e escolher a verificação depois. Uma pergunta sobre tamanho, carga, custo ou tempo é respondida no registro da matemática. Uma pergunta sobre o que as pessoas farão é respondida no registro da literatura.",
+      "examples": [
+        "Essa é uma questão de fato, portanto está resolvida no registro da matemática.",
+        "Essa é uma questão de ação, então a história precisa carregá-la.",
+        "O erro está na premissa, não na dedução."
+      ],
+      "heading": "Os dois modos lado a lado",
+      "table": {
+        "headers": [
+          "Question",
+          "Mathematics",
+          "Literature"
+        ],
+        "rows": [
+          [
+            "What does it answer?",
+            "It answers whether a conclusion must be true.",
+            "It answers whether a situation is true to people."
+          ],
+          [
+            "What counts as an error?",
+            "A step that does not follow from the steps above it.",
+            "A behaviour that nobody in that world would show."
+          ],
+          [
+            "What does it produce?",
+            "A result that holds for every case the rules cover.",
+            "A picture of a person that a reader recognises."
+          ],
+          [
+            "How is it checked?",
+            "Line by line, by any reader who follows the steps.",
+            "Against what the reader already knows about how people behave."
+          ],
+          [
+            "Where does it fail?",
+            "When a premise is false or the model of the system is wrong.",
+            "When the model of the people is wrong and nobody checks the story."
+          ],
+          [
+            "What is its use at work?",
+            "To settle a question of fact: a size, a load, a cost, a time.",
+            "To settle a question of action: what a team does next, and why."
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Alternar entre os dois modos é um procedimento, e a ordem das etapas é o que mantém sua integridade. As etapas abaixo funcionam com qualquer tipo de trabalho: um relatório, uma especificação, uma investigação, uma nota de passagem.\n\nOs três primeiros passos pertencem à matemática. Você declara o que tem certeza, nomeia o modelo que vai usar e escreve a premissa que o modelo esconde. Os quarto e quinto passos são o cálculo e sua verificação. O último passo pertence à literatura: você diz o que o resultado significa para uma pessoa.\n\nA ordem importa em um ponto. A suposição oculta é escrita *antes* do cálculo, não depois. Uma pessoa que conhece a suposição antes de o número aparecer pode julgar o número. Uma pessoa que a ouve depois está defendendo uma conclusão que já aceitou.",
+      "examples": [
+        "Declare o fato primeiro e diga de onde ele veio.",
+        "A suposição que o modelo oculta está escrita antes do cálculo.",
+        "Agora me diga o que isso significa para a pessoa que precisa tomar uma decisão com base nisso."
+      ],
+      "heading": "Como alternar de um modo para o outro",
+      "steps": [
+        "Declare o fato de que você tem certeza e anote de onde ele veio.",
+        "Nomeie o modelo que você está usando: a regra, a fórmula ou a imagem de como as pessoas se comportam.",
+        "Escreva a suposição que o modelo esconde, aquela que você deixaria de lado se alguém lhe perguntasse por quê.",
+        "Faça o cálculo com o modelo e mantenha a unidade em todos os números.",
+        "Verifique o cálculo: faça de outra maneira e compare o resultado com o tamanho que você esperava.",
+        "Diga o que o resultado significa para a pessoa, em uma frase que ela possa usar para agir."
+      ]
+    },
+    {
+      "body": "**O número decide; a história faz as pessoas agirem.** Um time que tem apenas o número tem uma resposta e nenhum movimento. Um time que tem apenas a história tem movimento e nenhuma resposta. O trabalho precisa dos dois, e cada um faz o trabalho que o outro não pode fazer.\n\nEscrever uma especificação é matemática. As palavras são definidas, as etapas estão em ordem e quem as segue obtém a mesma máquina que você obteve. Explicar por que a especificação importa é literatura. O leitor precisa ver seu próprio trabalho dentro dela, ou a especificação permanece na prateleira.\n\n**Coloque o número primeiro quando a pergunta for um fato. Coloque a história primeiro quando a pergunta for uma decisão.** Um preço, um prazo de entrega, uma tolerância: comece pelo número. Um novo turno, uma nova ferramenta, um novo procedimento: comece pelo motivo, porque o leitor precisa querer aquilo antes que o detalhe importe.",
+      "examples": [
+        "O número decide; a história faz as pessoas agirem.",
+        "A especificação é a matemática; a razão dela é a literatura.",
+        "Aqui está a figura primeiro e, em seguida, por que isso é importante para o turno da noite."
+      ],
+      "heading": "Para que serve cada modo em uma equipe"
+    },
+    {
+      "body": "O registro de uma frase indica ao ouvinte que tipo de resposta ele receberá. As quatro primeiras frases abaixo estão no registro do analista: são lidas por pessoas que verificarão as etapas. As quatro seguintes estão no registro do escritor: são lidas por pessoas que precisarão decidir se devem agir.\n\nNão misture os dois na mesma frase. Uma frase que começa com um cálculo e termina com uma opinião não dá ao leitor nada para verificar nem nada para sentir. Se uma mensagem precisa dos dois, ela precisa de duas frases: primeiro o número, depois o motivo.",
+      "examples": [
+        "Sob essas premissas, a conclusão decorre necessariamente.",
+        "Cada passo decorre do passo anterior, portanto o resultado vale para todos os casos abrangidos pelas regras.",
+        "As premissas são suposições, e aqui estão as que estamos usando.",
+        "Dê-me as entradas e eu mostrarei o cálculo.",
+        "O motivo pelo qual isso importa é o que o turno da noite faz às duas da manhã.",
+        "Ela cumpriu sua promessa, e ninguém na sala disse uma palavra sobre isso.",
+        "No desenho, a mudança é pequena; na semana da pessoa que tem que fazê-la, ela é grande.",
+        "O que acontece a seguir depende de quem ler isto e do que achar que significa para o próprio trabalho."
+      ],
+      "heading": "Frases que você pode usar em cada registro"
+    },
+    {
+      "body": "Os dois modos não são rivais. Eles respondem a perguntas diferentes sobre a mesma peça de trabalho, e o trabalho está concluído quando ambas as respostas estão diante das pessoas que precisam agir com base nelas. Aqui está um pequeno exemplo prático. Uma oficina em um único andar precisa de uma nova linha de água para uma máquina. Há dois caminhos possíveis: um novo cano curto atravessando o prédio, ou o caminho mais longo pela tubulação antiga. O desenho fornece o comprimento de cada caminho. O cálculo determina qual caminho pode comportar o fluxo de que a máquina precisa. A história determina o que acontece no turno da noite, quando ninguém da equipe diurna está presente.\n\nO cálculo é simples. No desenho, o trajeto curto tem 25 metros de tubo e o longo tem 40. Quanto maior o tubo, maior a pressão que ele utiliza no percurso, portanto o cálculo compara a perda em cada trajeto com o fluxo de que a máquina precisa. A resposta não é uma questão de opinião: neste desenho, o trajeto curto fornece o fluxo necessário e o trajeto longo não. Os números aqui apresentados são os deste desenho, e não medições de uma construção real.\n\nA história resolve o resto. O funcionário de manutenção que faz o turno da noite diz que o percurso longo fica fechado quando a oficina está vazia, porque a pressão nesse ramal cai à noite e a bomba para. O cálculo não sabia disso, e não precisava saber: o percurso longo já havia reprovado na verificação. Mas a história carrega a parte que o número não consegue carregar, que o trabalho será feito à noite, em um percurso fechado, com uma pessoa cujo conhecimento não está registrado no projeto.\n\nO último movimento é **interpretação**. O leitor recebe o resultado e lhe dá um sentido em seu próprio trabalho: o técnico que precisa cortar o tubo, o_planejador que precisa comprá-lo, o gerente que precisa explicar o custo. A matemática pode verificar se um resultado está certo e não pode verificar se ele foi compreendido. A literatura pode fazer com que ele seja compreendido e não pode fazer com que esteja certo. O trabalho que precisa dos dois precisa de um número que as pessoas possam verificar e de uma história sobre a qual possam agir.",
+      "examples": [
+        "O cálculo decide o caminho; a história decide o plantão da noite.",
+        "As figuras são as que constam do nosso desenho, e nosso desenho tem o seu próprio.",
+        "Diga o que o resultado significa para a pessoa que precisa agir com base nele."
+      ],
+      "heading": "Quando os dois trabalham juntos: um número e uma história",
+      "terms": [
+        {
+          "example": "A interpretação é a última etapa: o número está correto e agora precisa significar algo no turno da noite.",
+          "gloss": "O significado que um leitor dá a um resultado em seu próprio trabalho, depois de compreendê-lo."
+        }
+      ]
+    }
+  ],
+  "summary": "Matemática e literatura são duas máquinas para chegar a uma conclusão, e cada uma faz uma promessa diferente. Depois de ler isto, você pode descrever como uma prova é construída e verificada, explicar como uma história é julgada, distinguir um erro de dedução de um erro de premissa e passar de um modo ao outro com seis etapas, de um fato certo a uma frase que uma pessoa pode executar.",
+  "title": "Matemática e Literatura: Duas Formas de Pensar"
+}

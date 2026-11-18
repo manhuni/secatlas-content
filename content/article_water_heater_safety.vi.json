@@ -1,0 +1,235 @@
+{
+  "language": "vi",
+  "lessonId": "article_water_heater_safety",
+  "objectives": [
+    "Mô tả cách bình nóng nước có thể truyền dòng điện vào nước, vào đường ống và vào cơ thể người.",
+    "Gọi tên dòng điện, điện áp, lớp cách điện, nối đất, dòng rò và thiết bị chống dòng rò, đồng thời giải thích chức năng của từng khái niệm.",
+    "Giải thích vì sao phòng tắm là nơi một sự cố điện nhỏ trở nên nguy hiểm.",
+    "Phân biệt bảo vệ điện với bảo vệ áp suất để kiểm tra đúng bộ phận cần thiết.",
+    "So sánh dây nối đất bảo vệ, thiết bị chống dòng rò và cầu dao mạch theo đối tượng mà mỗi thiết bị giám sát.",
+    "Thực hiện đúng thứ tự hành động khi có người bị điện giật từ thiết bị nước nóng.",
+    "Kiểm tra nhãn của bình nóng nước và lịch bảo dưỡng để ngăn ngừa sự cố."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Bình nóng nước là một bình kim loại chứa nước và một bộ phận sưởi nóng bên trong dùng điện để làm nóng nước. Các bộ phận, dây dẫn và nước đều nằm trong cùng một vỏ kim loại. Đó là lý do thiết bị nằm ở ranh giới của hai mối nguy: nó chứa nước nóng dưới áp suất và mang dòng điện lưới. Cái thứ hai có thể làm ngừng tim, và đó chính là điều bài viết này đề cập đến.\n\nNăm từ mang chủ đề. **Dòng điện** là dòng chảy của điện, được đo bằng ampe (A). **Điện áp** là đẩy thúc dòng điện, được đo bằng vôn (V); nguồn điện cấp cho một ngôi nhà thường vào khoảng 230 V ở phần lớn thế giới và khoảng 120 V ở Bắc Mỹ. **Cách điện** là vật liệu bao quanh phần mang điện của thiết bị giúp dòng điện nằm trong cáp. **Dây tiếp đất**, được gọi là dây nối đất ở Bắc Mỹ, là dây màu xanh-vàng nối vỏ kim loại với thanh tiếp đất trong tủ điện, để dòng sự cố có đường ngắn quay lại đất. Và nước chứa khoáng chất dẫn điện: nước tinh khiết là chất dẫn điện kém, nhưng nước máy không phải là nước tinh khiết.\n\nLỗi này rất dễ nêu. Nếu phần mang điện của máy sưởi chạm vào bình hoặc nước, dòng điện có thể thoát ra khỏi cáp, đi vào nước, truyền đến các đường ống, rồi đến người đang cầm vòi. Không có gì trông sai về bên ngoài của máy sưởi. Lỗi nằm bên trong vỏ, và nó được gây ra cho một người đang đứng trên sàn ướt.\n\nBài viết này giải thích lỗi là gì, các bộ phận có tác dụng gì, cần làm gì trong những phút đầu tiên và khi nào nên ngừng lại và gọi một chuyên gia. Nó không thay thế hướng dẫn sử dụng của thiết bị, và cũng không thay thế công việc của thợ điện có giấy phép.",
+      "examples": [
+        "Bộ sưởi là một bình kim loại có nước và một điện trở bên trong, vì vậy vỏ bình là một phần của mạch điện.",
+        "Dòng điện lỗi tiếp xúc với nước có thể truyền đến đường ống, và đường ống có thể truyền đến con người.",
+        "Hướng dẫn sử dụng và thợ điện quyết định những gì cần thực hiện; bài viết này chỉ giải thích các rủi ro."
+      ],
+      "heading": "Rủi ro là gì: điện bên trong một bể nước",
+      "terms": [
+        {
+          "example": "Dòng điện đã đi ngược lại qua dây tiếp đất thay vì đi qua tải.",
+          "gloss": "Dòng điện, được đo bằng ampe (A).",
+          "termId": "elec_electric_current"
+        },
+        {
+          "example": "Nguồn cấp điện cho ngôi nhà này là 230 V, vì vậy máy sưởi đang hoạt động ở mức điện áp nguy hiểm.",
+          "gloss": "Điện áp đẩy dòng điện hiện tại, được đo bằng đơn vị vôn (V).",
+          "termId": "wh_voltage"
+        },
+        {
+          "example": "Lớp cách điện trên cáp bị nứt và thâm đen gần phích cắm.",
+          "gloss": "Vật liệu bao quanh phần dẫn mang điện của cáp giúp giữ dòng điện bên trong.",
+          "termId": "elec_insulation"
+        },
+        {
+          "example": "Dây tiếp đất đã bị cưa cắt bởi một chiếc máy khoan trong lần tu sửa gần đây nhất.",
+          "gloss": "Dây màu xanh-vàng nối vỏ kim loại của thiết bị với thanh tiếp đất trong bảng điện.",
+          "termId": "wh_earth_wire"
+        }
+      ]
+    },
+    {
+      "body": "Dòng hiện tại không đi một mình. Nó cần một đường dẫn kín: nó rời bảng điện ở dây động và quay lại ở dây trung tính, và nó sẽ đi theo bất kỳ đường dẫn nào đóng mạch vòng. Nếu phần đang hoạt động của bộ sưởi chạm vào nước, nước sẽ trở thành một phần của vòng tuần hoàn đó. Những ống dẫn nước cũng trở thành một phần của nước, và mọi vòi nước cùng mọi khớp kim loại nối với chúng cũng vậy.\n\nCơ thể bạn được kết nối vào mạch điện ngay khi chạm vào hai điểm ở các điện áp khác nhau. Khi bạn đứng trên sàn ướt và cầm vào vòi nước kim loại, dòng điện sẽ đi qua cơ thể bạn thay vì đi qua dây tiếp đất vốn được thiết kế để dẫn dòng điện an toàn. Nước trên da làm giảm điện trở của cơ thể, nên nhiều dòng điện hơn đi qua, và dòng điện đi qua tim là điều quan trọng.\n\nVì vậy, cần gọi tên các đường đi trong nhà tắm: nước trong đường ống, sàn ướt, vòi nước bằng kim loại, khăn hoặi tấm thảm nằm trên sàn, cùng một bộ sưởi đã bị mất lớp cách điện ở vỏ ngoài. Bất kỳ ai trong số họ, nếu đứng riêng, đều vô hại. Một con người, một sàn và một đường ống cùng nhau tạo thành sự cố.\n\nDòng điện nhỏ luôn tìm đường xuyên qua lớp cách điện được gọi là **dòng rò rỉ**. Trong một hệ thống cài đặt hoạt động bình thường, nó nhỏ và ổn định. Khi lớp cách điện bị hỏng, dòng rò tăng lên, và chính sự tăng này, chứ không phải kích thước của lỗi, thường là dấu hiệu cảnh báo đầu tiên: thiết bị cắt dòng rò bắt đầu ngắt mạch.",
+      "examples": [
+        "Nếu phần sống chạm vào nước, các ống trở thành một phần của mạch điện.",
+        "Một sàn ướt và một vòi nước kim loại tạo thành một lối đi để một người có thể đứng mà không cần chạm vào bộ sưởi.",
+        "RCD đã ngắt mạch vì dòng rò tăng lên, chứ không phải vì tải sưởi bị quá tải."
+      ],
+      "heading": "Cách hiện tại tìm ra con đường đến với một người",
+      "terms": [
+        {
+          "example": "Thợ điện đã đo dòng rò rỉ và thấy nó cao hơn mức thông thường.",
+          "gloss": "Dòng điện rò rỉ ra khỏi phần mang điện của thiết bị thông qua lớp cách điện bị hư hỏng.",
+          "termId": "elec_leakage_current"
+        }
+      ]
+    },
+    {
+      "body": "Ba cách sắp xếp bảo vệ con người, và mỗi cách theo dõi một thứ khác nhau. Đầu tiên là **dây nối đất bảo vệ**, dây dẫn màu xanh-vàng nối vỏ kim loại của máy sưởi với thanh nối đất trong bảng điện. Nhiệm vụ của nó là tạo cho dòng sự cố một đường dẫn trở kháng thấp trở lại bảng mạch, để một dòng điện lớn xuất hiện trên mạch và bộ ngắt mạch hoạt động. Nó cũng duy trì các bộ phận kim loại của hệ thống đường ống ở mức điện áp gần bằng không. **Nối đất** là toàn bộ hệ thống dây dẫn và các mối nối; dây nối đất là một dây dẫn nằm trong hệ thống đó. **Liên kết** là phần của hệ thống đó nối các bộ phận kim loại với nhau, chẳng hạn như đường ống, vỏ máy sưởi và phụ kiện kim loại, để không bộ phận kim loại nào có thể ở mức điện áp mà con người có thể chạm vào.\n\nThiết bị thứ hai là **thiết bị dòng rò** (RCD), còn được gọi là RCB hoặc RCCB. Nó so sánh dòng điện chạy ra trên dây điện sống với dòng điện chạy về trên dây trung tính. Trong một mạch khỏe mạnh, cả hai là như nhau. Khi chúng khác nhau, một phần dòng điện đã đi sang chỗ khác: xuyên qua một người, xuyên qua nước, hoặc xuyên qua lớp cách điện đã hỏng. Sự chênh lệch đó chính là dòng rò, và khi RCD phát hiện, thiết bị **nhảy**, mở cả dây pha và dây trung tính trong chưa đầy một giây, kịp hơn nhiều so với khi dòng điện có thể gây hại nghiêm trọng. Nó không biết dòng chảy hiện tại đã đi đâu, và nó cũng không cần biết. Nó chỉ biết rằng một phần nào đó đã bị thiếu.\n\nSơ đồ thứ ba là lớp cách điện của cáp và bộ ngắt mạch ở đầu cuối. Lớp cách điện giữ cho dòng điện nằm trong cáp đúng chỗ, còn bộ ngắt mạch theo dõi dòng điện dựa trên mức chịu định mức của cáp và ngắt mạch khi dòng điện quá cao. Bộ ngắt mạch bảo vệ dây cáp và thiết bị; bản thân nó không bảo vệ con người khỏi dòng rò nhỏ. Đó là công việc của RCD. Dòng rò 30 mA là mức thông thường để bảo vệ cá nhân trong hầu hết các hệ thống điện, và tiêu chuẩn địa phương sẽ quyết định.\n\nTất cả những điều đó là về hiện tại. Áp suất bảo vệ là một hệ thống riêng biệt. **Van an toàn**, thường là van giảm áp và nhiệt độ, sẽ mở ra nếu áp suất bên trong bình tăng quá cao và để nước thoát ra. **Cực anode** không phải là van: đó là một thanh kim loại bị ăn mòn dễ dàng hơn thùng thép, và nó bị ăn mòn thay cho thành thùng. Một máy sưởi có thể có tất cả các bộ phận này hoạt động hoàn hảo và vẫn gây nguy hiểm cho con người nếu dây nối đất bị cắt. Hãy đọc hai hệ thống như hai hệ thống riêng biệt.",
+      "examples": [
+        "Dây tiếp đất mang dòng sự cố trở lại bảng điện và bộ ngắt mạch mở ra.",
+        "RCD so sánh dòng điện đi ra với dòng điện quay lại.",
+        "Van an toàn bảo vệ bể chịu áp suất, và RCD bảo vệ con người khỏi dòng điện."
+      ],
+      "heading": "Các bộ phận bảo vệ con người",
+      "terms": [
+        {
+          "example": "Thiết bị dòng rò là công tắc lớn trên bảng điện có nút kiểm tra.",
+          "gloss": "Một thiết bị so sánh dòng điện đi ra với dòng điện quay lại, và ngắt mạch khi chúng khác nhau.",
+          "termId": "elec_residual_current_device_rcd"
+        },
+        {
+          "example": "Cầu giao là thiết bị 16 A trên bảng điện.",
+          "gloss": "Một thiết bị ngắt mạch điện khi dòng điện cao hơn mức mạch điện được định mức.",
+          "termId": "wh_circuit_breaker"
+        },
+        {
+          "example": "Việc nối đất đã được kiểm tra khi thay bản mạch.",
+          "gloss": "Bố trí kết nối các bộ phận kim loại của hệ thống lắp đặt với mặt đất, để dòng sự cố có đường dẫn an toàn.",
+          "termId": "elec_earthing"
+        },
+        {
+          "example": "Việc nối các đường ống kim loại là một phần của quá trình lắp đặt.",
+          "gloss": "Nối các bộ phận kim loại với nhau để chúng không thể ở các điện áp khác nhau.",
+          "termId": "wh_bonding"
+        },
+        {
+          "example": "Rơ-le điện đã nhảy khi bật công tắc sưởi.",
+          "gloss": "Để tự mở mạch điện, vì thiết bị đã phát hiện lỗi hoặc quá tải.",
+          "termId": "wh_trip"
+        },
+        {
+          "example": "Van an toàn là van đồng thau nhỏ trên ống nước lạnh.",
+          "gloss": "Một van trên bể tự mở và xả nước ra nếu áp suất hoặc nhiệt độ bên trong bể tăng quá cao.",
+          "termId": "wh_safety_valve"
+        },
+        {
+          "example": "Que cực được kiểm tra mỗi lần bảo dưỡng và được thay thế khi đã mòn hết.",
+          "gloss": "Một thanh kim loại bị ăn mòn thay cho bể, nhờ đó thành bể được bảo vệ.",
+          "termId": "wh_anode_rod"
+        }
+      ]
+    },
+    {
+      "body": "Sáu phần thực hiện công việc, và chúng thuộc về hai hệ thống khác nhau. Ba thiết bị đầu tiên bảo vệ hệ thống điện: dây tiếp đất bảo vệ, thiết bị đo dòng rò và bộ ngắt mạch. Họ bảo vệ con người. Ba yếu tố cuối cùng theo dõi nhiệt độ, áp suất và ăn mòn bên trong bình: van an toàn, que cực âm và bộ cắt nhiệt. Họ bảo vệ thiết bị. Người đọc trộn lẫn hai nhóm sẽ chờ đúng phần cần để cứu mình.\n\nThermal cut-out nằm giữa các nhóm. Đó là một công tắc bên trong bình, mở mạch sưởi khi nước quá nóng, nhờ vậy nó bảo vệ điện trở và lớp cách nhiệt xung quanh điện trở. Nó không bảo vệ con người khỏi điện chạm đất, và cũng không làm cho nước trở nên an toàn khi chạm vào.\n\nCác mức xếp hạng trong bảng là những mức thông dụng, không phải quy định pháp luật. Dòng rò 30 mA là mức thông thường để bảo vệ con người, bộ ngắt mạch 16 A là phổ biến đối với mạch ổ cắm, và bình nước nóng thường được đấu vào một mạch riêng biệt. Tiêu chuẩn địa phương quyết định từng giá trị này. Nếu hệ thống điện trước mặt bạn không khớp với bảng, hãy hỏi thợ điện hoặc đơn vị cung cấp điện xem nó phải là gì.",
+      "examples": [
+        "Dây tiếp đất và RCD bảo vệ con người; van an toàn và thanh anod bảo vệ bể.",
+        "Một bộ ngắt mạch 16 A trên một ổ cắm điện là phổ biến, và tiêu chuẩn địa phương quyết định giá trị.",
+        "RCD ngắt mạch khi dòng điện quay lại nhỏ hơn dòng điện đã đi ra."
+      ],
+      "heading": "Sự bảo vệ và tác dụng của từng bộ phận",
+      "table": {
+        "headers": [
+          "Part",
+          "What it watches",
+          "What it does when it works",
+          "Typical rating",
+          "What it does not protect against"
+        ],
+        "rows": [
+          [
+            "The protective earth wire is the green-and-yellow conductor to the earth bar in the board.",
+            "It watches the connection between the live part and the metal case.",
+            "It carries the fault current back to the board, so that the breaker opens.",
+            "No rating; it is a continuous conductor, and the local standard decides its size.",
+            "It does not protect a person who is already in contact with water, and it does nothing at all if it has been cut."
+          ],
+          [
+            "The residual-current device is the RCD, also called RCB or RCCB.",
+            "It watches the difference between the current that leaves and the current that returns.",
+            "It trips and cuts the power in a fraction of a second when the two currents differ.",
+            "Typically 30 mA for personal protection in most installations; the local standard decides.",
+            "It does not protect against a current that goes out and comes back the normal way, such as an overload."
+          ],
+          [
+            "The circuit breaker is the device that opens the circuit on an overload.",
+            "It watches the current in the circuit against the rating of the cable.",
+            "It opens the circuit when the current is too high, so the cable cannot overheat.",
+            "A 16 A breaker is common for a socket circuit, and a water heater is often on a dedicated circuit; the local standard decides.",
+            "It does not protect a person from a small leakage current; only the RCD does that."
+          ],
+          [
+            "The temperature and pressure relief valve is the safety valve on the tank.",
+            "It watches the pressure and the temperature inside the tank.",
+            "It opens and releases water if the pressure rises above the safe level.",
+            "Set for the appliance; the maker states the pressure, and the local standard decides.",
+            "It does not protect against electric current at all."
+          ],
+          [
+            "The anode rod is the sacrificial rod inside the head of the tank.",
+            "It does not watch anything; it corrodes instead of the tank.",
+            "It gives up its metal so that the steel tank does not rust through.",
+            "A rod of magnesium or another sacrificial metal, sized for the tank; the maker decides.",
+            "It does not protect against current, and a fitted rod does not stop the tank from scaling."
+          ],
+          [
+            "The thermal cut-out is the switch inside the tank that stops the heating.",
+            "It watches the temperature inside the tank.",
+            "It opens the heating circuit when the tank is too hot.",
+            "A fixed temperature set by the maker; the local standard decides.",
+            "It does not protect the metalwork from a fault to earth, and it does not make the water safe to touch."
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Một cú sốc từ thiết bị nước nóng xảy ra trong phòng ẩm ướt, và vài phút đầu tiên quyết định kết quả. Thứ tự bên dưới có ý nghĩa quan trọng. Đừng bắt đầu từ con người; hãy bắt đầu từ quyền lực. Quy tắc chi phối mọi thứ khác: không được chạm vào người vẫn đang tiếp xúc với nước hoặc thiết bị. Một người đang cầm vòi nước, hoặc đứng trong vũng nước và cầm một ống, vẫn là một phần của mạch điện. Bàn tay của bạn đặt trên cánh tay họ khiến bạn cũng trở thành một phần của nó.\n\nNếu có thể tiếp cận mà không cần bước vào khu vực bị ướt, hãy tắt nguồn điện tại cầu dao hoặc công tắc chính. Nếu bạn không thể tiếp cận nó một cách an toàn, đừng xuống nước. Đưa tất cả mọi người ra khỏi phòng, gọi số khẩn cấp và đơn vị cung cấp điện, rồi chờ cho điện bị cắt từ một vị trí an toàn. Nước sàn quanh một thiết bị đang hoạt động là nơi nạn nhân thứ hai trở thành.\n\nSau đó, hãy làm cho căn phòng trở nên an toàn. Lau sàn xung quanh thiết bị và làm khô người, đặc biệt là tay và chân. Không chạm vào công tắc đèn hoặc vòi nước trong khu vực ẩm ướt: bạn không thể chắc chắn rằng đường tiếp đất đang hoạt động, và đây không phải lúc để kiểm tra nó.\n\nSau đó hãy gọi điện trợ giúp và ghi ngày đó ra. Nếu người đó không đáp lại, hoặc nếu bạn không chắc mức độ nghiêm trọng, hãy gọi số khẩn cấp tại nước bạn: 113 cho cảnh sát và giao thông và 115 cho xe cứu thương tại Việt Nam, 112 ở hầu hết các nước châu Âu, 999 ở Vương quốc Anh và 911 ở Hoa Kỳ. Hãy nói bạn đang ở đâu, chuyện gì đã xảy ra và người đó đang làm gì lúc này. Sau đó, hãy gọi thợ điện hoặc đơn vị cung cấp điện, không sử dụng máy sưởi cho đến khi máy được kiểm tra, và ghi lại thời điểm xảy ra sự cố, các triệu chứng và tên những người mà bạn đã gọi.",
+      "examples": [
+        "Đừng chạm vào cô ấy cho đến khi nguồn điện đã tắt; cô ấy vẫn đang đứng trong nước.",
+        "Tôi đã tắt cầu dao và hiện đang lau khô sàn.",
+        "Tôi đang gọi số khẩn cấp vì anh ấy không phản hồi."
+      ],
+      "heading": "Cần làm gì khi ai đó bị điện giật",
+      "steps": [
+        "Không chạm vào người khi họ đang tiếp xúc với nước hoặc thiết bị.",
+        "Tắt nguồn điện tại bộ ngắt mạch hoặc công tắc chính, nếu bạn có thể tiếp cận mà không bước vào khu vực ướt.",
+        "Lau khô sàn xung quanh thiết bị và lau khô người, đặc biệt là tay và chân.",
+        "Gọi số khẩn cấp nếu người đó không phản hồi hoặc nếu bạn không chắc mức độ nghiêm trọng của tình huống.",
+        "Gọi thợ điện hoặc đơn vị cung cấp điện và mô tả những gì bạn đã thấy cũng như trình tự các sự kiện đã xảy ra.",
+        "Hãy ghi lại điều đã xảy ra, thời điểm xảy ra và ai mà bạn đã gọi; đồng thời không sử dụng thiết bị cho đến khi nó được kiểm tra."
+      ]
+    },
+    {
+      "body": "**Tuyệt đối không thao tác trên bộ sưởi khi nguồn điện vẫn bật.** Không phải bộ điện trở, không phải dây nối, không phải phích cắm, và cũng không được mặc định rằng nó đã tắt khi công tắc điện đã được ngắt. Nếu không thể xác nhận rằng mạch điện đã ngắt, không được làm việc trên mạch đó.\n\n**Tuyệt đối không đặt lại RCD nhiều lần và nhiều lần nữa.** Một thiết bị đã ngắt mạch là do đã tìm thấy sự cố trục trặc. Đặt lại sẽ xóa bằng chứng và đưa lỗi trở lại. Ghi nhận thiết bị đang hoạt động như thế nào, ghi lại thời gian và gọi thợ điện. Một thiết bị bị ngắt hai lần trong một tuần là sự cố cần được báo cáo, chứ không phải phiền nhiễu cần đẩy sang bên cạnh.\n\n**Không bao giờ sử dụng dây nối dài hoặc máy sưởi cầm tay trong phòng ẩm ướt.** Dây nối dài là một dây dẫn dài, được bảo vệ kém, còn máy sưởi cầm tay là một thiết bị phát nhiệt có điện đặt trên sàn của phòng ẩm ướt. Không cái nào thuộc về nhà tắm. Nếu ổ cắm ở xa thiết bị, giải pháp là lắp một mạch điện mới do thợ điện thực hiện, chứ không phải kéo dây điện khắp phòng.\n\n**Không bao giờ chỉ dựa vào dây tiếp đất.** Dây tiếp đất chỉ là một lớp bảo vệ và chỉ có tác dụng khi bảng mạch nhìn thấy dòng điện lỗi. RCD là lớp theo dõi con người. Một máy sưởi có dây nối đất tốt nhưng không có bảo vệ RCD thì không an toàn, và một máy sưởi có RCD tốt nhưng dây nối đất bị cắt cũng không an toàn. Và có một quy tắc đứng trên cả bốn quy tắc: **chỉ thợ điện có giấy phép mới được mở, sửa hoặc kiểm tra bình nước nóng.** Hướng dẫn sử dụng của thiết bị, tiêu chuẩn địa phương và giấy chứng nhận của thợ điện quyết định những gì cần thực hiện. Bài viết này giải thích những gì xảy ra và cần làm trong những phút đầu tiên. Đó không phải là hướng dẫn sửa chữa, và nó không thay thế bất kỳ điều nào trong ba điều đó.",
+      "examples": [
+        "Tôi sẽ không đặt lại RCD nữa; RCD đã nhảy hai lần và phải tìm ra nguyên nhân sự cố.",
+        "Chúng tôi không sử dụng dây nối cho máy sưởi; ổ cắm nằm quá xa so với thiết bị.",
+        "Chỉ có thợ điện có giấy phép mới mở và kiểm tra bộ sưởi, nên tôi sẽ gọi một người."
+      ],
+      "heading": "Bốn điều không bao giờ được làm"
+    },
+    {
+      "body": "Hầu hết những gì bạn cần trong lĩnh vực này là ngôn ngữ của một bản báo cáo. Hãy nói điều bạn đã nhìn thấy, nói điều thiết bị đã làm và nói điều bạn muốn thực hiện tiếp theo. Không tự chẩn đoán sự cố; hãy mô tả triệu chứng và để thợ điện xác định nguyên nhân.\n\nMột kỹ thuật viên cần bốn thứ: vị trí bộ sưởi, nội dung trên nhãn, triệu chứng theo đúng thứ tự xảy ra và những gì đã được thử. Hãy đọc nhãn trước khi gọi và giữ nó ở trước mặt bạn khi kỹ thuật viên đến.\n\nChủ nhà hoặc quản lý văn phòng cần cùng những thông tin đó dưới dạng ngắn hơn, cộng thêm yêu cầu: một ngày, một số hồi chơi và xác nhận rằng thiết bị đang ngoài dịch vụ. Một đồng nghiệp cần biết quy tắc và cảnh báo: tắt nguồn, gọi, không đặt lại.",
+      "examples": [
+        "RCD đã bị ngắt hai lần vào tối qua và bộ sưởi hiện không còn hoạt động.",
+        "Nhãn ghi rõ hãng sản xuất và mẫu xe, tôi đã chép lại.",
+        "Có người bị điện giật khi tắm với vòi nước nóng trong lúc bình nóng đang chạy; tôi đã tắt cầu dao điện ở bảng điện.",
+        "Bạn có thể cử một thợ điện có giấy phép và cho tôi một số mã tham chiếu để theo dõi lượt việc này không?",
+        "Phòng tắm sẽ không được sử dụng cho đến khi kết nối tiếp đất đã được kiểm tra.",
+        "Tôi không biết điều gì đã gây ra nó; tôi có thể nói chính xác điều mình đã nhìn thấy.",
+        "Không đặt lại thiết bị. Gọi đơn vị cung cấp tiện ích để họ tìm ra lỗi.",
+        "Dịch vụ bảo trì thường xuyên đã được bao gồm trong hợp đồng thuê chưa, hay tôi phải tự liên hệ sắp xếp?"
+      ],
+      "heading": "Các câu bạn có thể sử dụng"
+    },
+    {
+      "body": "Hầu hết các sự cố bên trong bình nước nóng đều bắt đầu từ một sự thay đổi chậm mà không ai nhận ra. Nước cứng chứa khoáng chất, và mỗi lần bình nóng chạy, một phần chúng lắng đọng trên điện trở và bên trong bình chứa thành cặn. Cánh tay cân là một chất cách nhiệt: bộ phận phải hoạt động nhiều hơn để đạt cùng mức cài đặt, nó nóng hơn và lớp cách nhiệt xung quanh cũng già nhanh hơn. **Cao trô** là việc loại bỏ lớp cặn đó. Đó là công việc dành cho quy trình của nhà sản xuất và trong nhiều trường hợp là dành cho chuyên gia. Không cho vào bể bất cứ thứ gì mà nhà sản xuất không ghi tên.\n\nQue anode là bộ phận được thiết kế để bị ăn mòn. Đó là một thanh magiê, hoặc một kim loại khác hoạt động mạnh hơn thép, được vặn vào đầu bể; khi ở đó, sự ăn mòn ăn mòn thanh kim loại thay vì thành bể. Kiểm tra vào khoảng thời gian bảo dưỡng và thay thế khi đã mòn hết phần lớn. Một bể chứa nước đã mất thanh đẩy có thể hỏng từ bên trong mà không có bất kỳ cảnh báo nào tại vòi nước.\n\nTrong lần ghép này, hãy xả toàn bộ nước trong bể để cặn lắng đọng ở đáy được đưa ra, đồng thời kiểm tra xem van xả có thể mở và đóng đúng cách hay không, bởi vì một van không thể mở thì cũng không thể sử dụng. Kiểm tra rằng van an toàn không bị kẹt và đường ống thoát của van không bị tắc. Khi đã ngắt nguồn điện, hãy kiểm tra dây điện và phích cắm xem có bị hư hỏng không: bị cắt, bị bóp nứt, chân cắm bị nóng hoặc đổi màu, phích cắm bị lỏng trong ổ cắm.\n\nĐặt nhiệt độ để nước không thể gây **bỏng** cho người. Nhiệt độ lưu trữ khoảng 60 °C là khuyến nghị thông thường trong nhiều cơ sở, còn mã quy định địa phương sẽ quyết định. Hãy đọc nhãn của thiết bị sưởi trước khi thay đổi bất cứ thứ gì: nhãn cho biết loại thiết bị, công suất định mức, phạm vi nhiệt độ của bộ điều nhiệt và khoảng thời gian bảo dưỡng mà nhà sản xuất yêu cầu. Một nhãn hiệu không phải là đồ trang trí.",
+      "examples": [
+        "Máy sưởi cần được khử cặn mỗi năm trong tòa nhà này vì nước có độ cứng cao.",
+        "Que thanh anode được kiểm tra và thay thế khi bảo dưỡng, không phải khi bình bắt đầu rò rỉ.",
+        "Nhãn xác định phạm vi của bộ ổn nhiệt, và mã cục bộ quyết định nhiệt độ tối đa."
+      ],
+      "heading": "Bảo trì ngăn ngừa sự cố",
+      "terms": [
+        {
+          "example": "Nước ở 60 °C có thể gây bỏng cho trẻ em trong vài giây.",
+          "gloss": "Bỏng do chất lỏng nóng hoặc hơi nước gây ra.",
+          "termId": "wh_scald"
+        },
+        {
+          "example": "Việc khử cặn được thực hiện theo chu kỳ bảo dưỡng tại các khu vực nước cứng.",
+          "gloss": "Loại bỏ lớp cặn khoáng tích tụ bên trong bình chứa và trên điện trở sưởi.",
+          "termId": "wh_descaling"
+        }
+      ]
+    }
+  ],
+  "summary": "Sau khi đọc bài viết này, người đọc có thể mô tả cách dòng sự cố điện truyền vào cơ thể, nhận biết các bộ phận bảo vệ, xử lý đúng quy trình trong những phút đầu sau khi bị điện giật, trình bày sự cố cho kỹ thuật viên và giữ thiết bị an toàn giữa các lần bảo dưỡng.",
+  "title": "Bình nóng nước và nguy cơ điện giật"
+}

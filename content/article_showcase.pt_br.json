@@ -1,0 +1,170 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_showcase",
+  "objectives": [
+    "Abrir capa, fotos, galerias, playlists de áudio e vídeos standalone.",
+    "Ler fórmulas de álgebra, cálculo e álgebra linear com gráficos.",
+    "Ler fórmulas de cinemática, Newton, energia, Ohm e ondas com gráficos.",
+    "Ler fórmulas de química, equilíbrio, pH e gráficos de taxa."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Este é um artigo curto em inglês usado como modelo de layout. Não é um curso. Cada subtítulo abaixo é um bloco real que o aplicativo pode renderizar: prosa, uma única imagem, uma galeria, áudio, vídeo, um link, uma chapa de fórmulas e um gráfico ao vivo. Cada localizador de mídia neste pacote é um arquivo sob media/.",
+      "heading": "O que este artigo é"
+    },
+    {
+      "body": "O arquivo está armazenado no zip, não no APK.",
+      "heading": "Ouça o termo"
+    },
+    {
+      "body": "A capa do artigo é um PNG real em media/covers/.",
+      "heading": "Capa da imagem"
+    },
+    {
+      "body": "Um único arquivo mp4 sob o título. O arquivo está em media/video/intro.mp4.",
+      "heading": "Vídeo independente"
+    },
+    {
+      "body": "Um único diagrama fica abaixo do título. Use isso quando o título nomeia uma figura.",
+      "heading": "Imagem estática única"
+    },
+    {
+      "body": "Um título como uma visita, um campus ou uma biblioteca famosa precisa de muitas fotos. Deslize a galeria. A ordem no zip é a ordem na tela.",
+      "heading": "Galeria de imagens — vistas"
+    },
+    {
+      "body": "Imagens, um arquivo de vídeo local e um link externo compartilham uma única galeria. O áudio do artigo também é reproduzido a partir da lista de reprodução da lição no topo.",
+      "heading": "Galeria mista — foto, vídeo, link"
+    },
+    {
+      "body": "Frases gravadas do arquivo zip. Trate um bloco de audição como uma lista de reprodução, não como um único clipe.",
+      "heading": "Lista de reprodução de áudio"
+    },
+    {
+      "body": "Vários arquivos mp4 em uma galeria. Deslize entre os cliques. Cada arquivo é único no zip.",
+      "heading": "Lista de vídeos"
+    },
+    {
+      "body": "Uma equação linear em uma variável é escrita como ax + b = 0, com a não sendo zero. A mesma relação que uma reta é y = ax + b.",
+      "heading": "Matemática — álgebra"
+    },
+    {
+      "body": "O seno e o cosseno são periódicos. Uma derivada é uma inclinação. Um integral é uma área acumulada.",
+      "heading": "Matemática — trigonometria e cálculo"
+    },
+    {
+      "body": "Uma matriz 2×2 multiplica uma coluna. A média amostral é a soma das observações dividida por n.",
+      "heading": "Matemática — álgebra linear e estatística"
+    },
+    {
+      "body": "Para aceleração constante, deslocamento, velocidade e tempo estão relacionados pelo conjunto SUVAT. O gráfico x–t é uma curva; o gráfico v–t é uma linha.",
+      "heading": "Física — cinemática"
+    },
+    {
+      "body": "A segunda lei de Newton, energia mecânica, a lei de Ohm e uma onda viajante estão escritas abaixo. O gráfico I–V de um resistor é uma linha reta passando pela origem.",
+      "heading": "Física — força, energia, eletricidade, ondas"
+    },
+    {
+      "body": "Escreva as espécies em tipo romano matemático. Quantidade de matéria, concentração e a lei dos gases ideais são os nomes comuns em inglês.",
+      "heading": "Química — fórmulas e quantidades"
+    },
+    {
+      "body": "O pH é logarítmico. Um equilíbrio dinâmico possui uma constante K constante. A taxa frequentemente diminui conforme a concentração diminui.",
+      "heading": "Química — ácido-base, equilíbrio, taxas"
+    },
+    {
+      "body": "Leia o símbolo, em seguida o nome em inglês.",
+      "heading": "Símbolos usados nesta página"
+    },
+    {
+      "body": "Termos de matemática, física e química conforme aparecem em inglês.",
+      "heading": "Terminologia técnica",
+      "terms": [
+        {
+          "example": "",
+          "gloss": "Um símbolo cujo valor é desconhecido até que a equação seja resolvida."
+        },
+        {
+          "example": "",
+          "gloss": "A inclinação de uma linha; a razão entre a ascensão e a base."
+        },
+        {
+          "example": "",
+          "gloss": "A taxa de variação da velocidade."
+        },
+        {
+          "example": "",
+          "gloss": "Quanto fortemente um componente se opõe à corrente."
+        },
+        {
+          "example": "",
+          "gloss": "Unidade SI de quantidade de matéria."
+        },
+        {
+          "example": "",
+          "gloss": "Um estado em que as taxas de reação direta e reversa são iguais."
+        }
+      ]
+    },
+    {
+      "body": "Resolva 2x + 1 = 7. Subtraia 1, depois divida por 2. A solução é x = 3. Verificação: 2(3) + 1 = 7.",
+      "examples": [
+        "Subtraia 1 de ambos os lados.",
+        "Divida ambos os lados por 2.",
+        "A solução é x = 3."
+      ],
+      "heading": "Exemplo prático — mantenha ambos os lados iguais"
+    },
+    {
+      "body": "Os arquivos JSON Lottie reproduzem em linha, em loop, diretamente do pacote. Um piscar indicador e uma agulha de medidor giratório são os dois cliques de exemplo. Use animações para luzes de painel, medidores e qualquer coisa que precise se mover para ser compreendida.",
+      "heading": "Animações — movimento vetorial no zip"
+    },
+    {
+      "body": "A lista de etapas é renderizada como um procedimento numerado. A ordem no JSON é a ordem na tela.",
+      "heading": "Procedimento — ler um instrumento em cinco etapas",
+      "steps": [
+        "Identifique o símbolo na face do dial.",
+        "Leia a unidade impressa abaixo da agulha.",
+        "Compare a agulha com a faixa marcada.",
+        "Observe se a lâmpada indicadora está acesa.",
+        "Escreva o valor e a unidade no seu relatório."
+      ]
+    },
+    {
+      "body": "Uma seção pode conter uma tabela de dados de duas colunas com uma linha de cabeçalho com tom.",
+      "heading": "Tabela de dados — símbolos de unidade"
+    },
+    {
+      "body": "Os símbolos podem carregar um localizador de imagem em vez de um glyph Unicode. Cada pictograma é renderizado como um cartão com um rótulo e uma linha de significado.",
+      "heading": "Símbolos pictogramáticos — estilo painel"
+    },
+    {
+      "body": "Uma chamada de observação fica em um cartão com tom neutro e um ícone de informação. Use-a para comentários laterais que não interrompem o fluxo.",
+      "heading": "Chamada — observação"
+    },
+    {
+      "body": "Um destaque de dica usa o container primário verde. Use-o para uma maneira mais rápida ou melhor de realizar a tarefa.",
+      "heading": "Destaque — dica"
+    },
+    {
+      "body": "Uma chamada de atenção com cuidado utiliza o tom amarelado de aviso. Use-a quando um erro custa tempo ou quando é necessário uma tentativa de repetição.",
+      "heading": "Chamada de atenção — Cuidado"
+    },
+    {
+      "body": "Uma chamada de atenção de perigo utiliza o container de erro vermelho. Use-a apenas quando um erro pode prejudicar uma pessoa ou destruir equipamentos.",
+      "heading": "Chamada de atenção — perigo"
+    },
+    {
+      "body": "Uma seção de aviso tipada é renderizada no cartão de aviso âmbar, mesmo sem um calloutKind, para parágrafos de segurança no estilo de normas.",
+      "heading": "Tipo de seção de aviso"
+    },
+    {
+      "body": "No arquivo JSON do pacote, coloque os localizadores dentro de media/ no zip. Uma seção pode listar galeria, imagens, áudio, vídeo, links, matemática e gráficos juntos. Um arquivo único é uma galeria de um. Muitos arquivos são uma galeria. Gráficos ao vivo são pontos JSON; pacotes PNGs são fotos extras.",
+      "heading": "Nota de autoria"
+    }
+  ],
+  "summary": "Um artigo de demonstração: capa, fotos, galerias, cliques de áudio únicos, vídeos únicos, links, matemática, física, química, gráficos ao vivo e fórmulas — cada localizador é um arquivo real no zip.",
+  "title": "Artigo de demonstração com ativos completos"
+}

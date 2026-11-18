@@ -1,0 +1,123 @@
+{
+  "dependencies": [
+    "2723cc6d5a5be540e8a46032a3e751d1ffcff5469f9be04b226c257eae90d037"
+  ],
+  "item": {
+    "addedAt": "2026-11-16T08:00:00Z",
+    "cover": "asset://2723cc6d5a5be540e8a46032a3e751d1ffcff5469f9be04b226c257eae90d037",
+    "durationMin": 22,
+    "fieldId": "mind",
+    "id": "article_outsourced_brain",
+    "media": {
+      "audio": [],
+      "cover": "asset://2723cc6d5a5be540e8a46032a3e751d1ffcff5469f9be04b226c257eae90d037",
+      "gallery": [],
+      "images": [],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Define cognitive offloading and give everyday examples of it.",
+      "Distinguish between delegating a task and delegating a judgment.",
+      "Explain why skills that are not practiced quietly disappear.",
+      "Recognize the signs of unhealthy dependence on AI tools.",
+      "Set personal rules for which thinking to keep and which to hand over."
+    ],
+    "sections": [
+      {
+        "body": "Cognitive offloading is the practice of using tools to store, process or retrieve information so that your own brain does not have to. Writing a shopping list is offloading memory. Using a calculator is offloading arithmetic. Following a GPS turn by turn is offloading navigation.\n\nOffloading is not new and not bad. In fact, it is one of the things that make humans powerful: a person with paper, books and schedules can think about far more than a person relying on memory alone. The philosopher Andy Clark calls humans \"natural-born cyborgs\" because we have always merged our thinking with tools.\n\nThe question is never whether to offload — everyone does — but **which** parts of thinking to offload. Memory of appointments? Fine. The habit of forming an opinion before checking what others think? Dangerous.",
+        "examples": [
+          "You stop memorizing phone numbers the day you get a contacts app, and nothing is lost. But a navigator used for every single trip also removes the practice of building a mental map."
+        ],
+        "heading": "What cognitive offloading means",
+        "type": "definition"
+      },
+      {
+        "body": "A question is a mental event. It creates tension, mobilizes attention and starts the machinery of thinking. An answer that arrives instantly — before the question has done its work — quietly deletes that event.\n\nSearch engines began this process. Research on \"transactive memory\" shows that when people expect information to be retrievable later, they remember the information itself worse but remember where to find it better. The brain happily demotes facts it believes a machine will hold.\n\nAI assistants complete the shift. They do not just store answers; they produce reasoning on demand. The risk is a slow erosion of the practice of reasoning: not the loss of intelligence, but the loss of the *occasions* on which intelligence is exercised. A muscle that is never loaded does not complain — it simply becomes unable to lift.",
+        "examples": [
+          "A student who asks an AI to explain every difficult paragraph finishes the chapter faster and understands almost none of it a week later."
+        ],
+        "heading": "The tool that answers ends the question",
+        "type": "prose"
+      },
+      {
+        "body": "There is a line that separates healthy tool use from dependence, and it runs between **tasks** and **judgments**. A task has one correct answer and an outside check: the fastest route, the sum of a column, the spelling of a word. Handing tasks to tools is almost always a gain.\n\nA judgment is different. It has no single correct answer, it depends on values and context, and nobody else can check it for you: Is this argument fair? Is this risk worth taking? Is this person trustworthy? Judgments are exactly the things you become worse at by not making.\n\nWhen AI is asked to make judgments — summarize what this person really meant, tell me which option I should choose — the user receives an answer without the exercise that produces the skill. Receiving more and more judgments, the person slowly loses the feeling for how judgments are made.",
+        "examples": [
+          "Letting a tool correct your grammar is a task. Letting it decide which of two job offers fits your life is a judgment you will never learn to make by delegation."
+        ],
+        "heading": "Delegation of tasks versus delegation of judgments",
+        "type": "prose"
+      },
+      {
+        "body": "These terms name the mechanics of outsourced thinking. Each describes a force you can observe in your own week.",
+        "heading": "The vocabulary of the borrowed mind",
+        "terms": [
+          {
+            "example": "Keeping a to-do list is cognitive offloading that frees your mind from remembering tasks.",
+            "gloss": "Using external tools to store, compute or retrieve information so that your own mind does not have to.",
+            "term": "Cognitive offloading",
+            "termId": "cognitive_offloading"
+          },
+          {
+            "example": "In a transactive memory with my phone, I remember that the photos exist and the phone remembers where they are.",
+            "gloss": "The shared system by which a group, or a person and a tool, divides the work of remembering who knows what.",
+            "term": "Transactive memory",
+            "termId": "transactive_memory"
+          },
+          {
+            "example": "Critical thinking is asking who benefits before believing a surprising statistic.",
+            "gloss": "The disciplined practice of examining claims, evidence and reasoning before accepting a conclusion.",
+            "term": "Critical thinking",
+            "termId": "critical_thinking"
+          },
+          {
+            "example": "Intellectual autonomy is saying 'I disagree, and here is my reasoning' even when everyone in the room thinks otherwise.",
+            "gloss": "The ability to form, hold and explain your own views without needing them to be pre-approved by an authority or a tool.",
+            "term": "Intellectual autonomy",
+            "termId": "intellectual_autonomy"
+          },
+          {
+            "example": "Pilots who always fly on autopilot show deskilling when they must take manual control in an emergency.",
+            "gloss": "The gradual loss of a skill when it is no longer practiced because a machine performs it instead.",
+            "term": "Deskilling",
+            "termId": "deskilling"
+          },
+          {
+            "example": "After years of letting apps plan his day, he felt cognitive atrophy when he had to organize a complex project alone.",
+            "gloss": "The weakening of mental abilities through long disuse, similar to the shrinking of an unexercised muscle.",
+            "term": "Cognitive atrophy",
+            "termId": "cognitive_atrophy"
+          }
+        ],
+        "type": "terminology"
+      },
+      {
+        "body": "Dependence rarely announces itself. It arrives as convenience. Each individual delegation feels smart, and it usually is. The danger is cumulative: a hundred reasonable delegations can add up to a mind that has quietly stopped doing the things that made it yours. Audit the delegations, not the tools.",
+        "calloutKind": "warning",
+        "heading": "The comfort trap",
+        "type": "callout"
+      },
+      {
+        "body": "A practical test keeps the right work in your own head. Before delegating a thinking task to a tool, ask three questions. **Is this a task or a judgment?** Tasks go to tools freely. **Would I want to be good at this myself?** If yes, do it yourself first and use the tool as a checker, not as a substitute. **Will I have to live with the consequences of this answer?** The more a decision shapes your life, the less it should be delegated.\n\nMany heavy users of AI adopt a simple rule: **generate first, then compare**. Before opening the tool, write your own answer — a draft, a sketch of an argument, a guess at the solution. Then ask the machine. The gap between your answer and its answer is the exact shape of what you have to learn, and it turns every query into a small lesson instead of a small surrender.",
+        "examples": [
+          "Before asking the AI to write the email, write three sentences yourself. Compare, steal the good phrases, and notice what you missed."
+        ],
+        "heading": "What to keep, what to hand over",
+        "type": "prose"
+      },
+      {
+        "body": "The goal is not to reject tools but to stay the owner of the thinking that matters. People who use powerful tools without losing themselves share a pattern: they keep a few activities where no tool is allowed to start for them.\n\nThey write before they research. They guess before they calculate. They form a provisional opinion before they read the comments. They keep at least one hobby — an instrument, a language, a craft, a sport — where progress comes only from their own unaided practice.\n\nTools will keep getting stronger. That is exactly why the premium on genuinely independent thinking goes up rather than down. The outsourced brain is a fine servant. It is a terrible master.",
+        "examples": [
+          "She lets AI check her translations but never produce the first draft: the first draft is where her own judgment gets its exercise."
+        ],
+        "heading": "Keeping a mind of your own",
+        "type": "prose"
+      }
+    ],
+    "summary": "Navigation apps remember routes so we do not have to, search engines answer so we do not wonder, and AI now writes so we do not think. This article examines cognitive offloading: when delegating thinking to tools is smart, when it quietly erodes the ability to think, and how to keep the mental muscles that no tool can exercise for you.",
+    "systemId": "mind_information",
+    "title": "The Outsourced Brain: When People Stop Thinking for Themselves"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

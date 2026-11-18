@@ -1,0 +1,473 @@
+{
+  "records": {
+    "d22e7467a13cfcc1dc34f89fb8878408149c694234339d7545a502c7a4db947f": [
+      {
+        "forms": [
+          "Brake fade",
+          "abs_brake_fade"
+        ],
+        "id": "lex.sa.daily_skills.abs_brake_fade",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Brake fade",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.abs_brake_fade.alt",
+          "sns.sa.daily_skills.abs_brake_fade.alt.ja",
+          "sns.sa.daily_skills.abs_brake_fade.alt.ko",
+          "sns.sa.daily_skills.abs_brake_fade.alt.pt_br",
+          "sns.sa.daily_skills.abs_brake_fade.alt.id",
+          "sns.sa.daily_skills.abs_brake_fade.alt.th",
+          "sns.sa.daily_skills.abs_brake_fade.alt.tr"
+        ]
+      },
+      {
+        "definition": "The loss of braking power when the brakes are hot, so that the pedal goes soft.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_brake_fade.1.1"
+        ],
+        "gloss": "The loss of braking power when the brakes are hot, so that the pedal goes soft.",
+        "id": "sns.sa.daily_skills.abs_brake_fade.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.abs_brake_fade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ブレーキが過熱-trainingsによって制動力を失い、ペダルが柔らかくなる現象。长時間の下り坂などで起こりやすい。",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_brake_fade.1.1.ja"
+        ],
+        "gloss": "ブレーキが熱くなって制動力が落ち、ペダルが柔らかくなる現象。",
+        "id": "sns.sa.daily_skills.abs_brake_fade.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.abs_brake_fade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "브레이크가 뜨거워지면 제동력이 감소하여 페달이 부드러워지는 현상. 장거리 하강이나 반복 제동 뒤에 나타날 수 있다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_brake_fade.1.1.ko"
+        ],
+        "gloss": "브레이크가 뜨거워지면 제동력이 줄어 페달이 부드러워지는 현상.",
+        "id": "sns.sa.daily_skills.abs_brake_fade.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.abs_brake_fade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Redução da força de frenagem quando os freios estão quentes, fazendo com que o pedal pareça mais leve. É comum após uso intenso, como em descidas longas.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_brake_fade.1.1.pt_br"
+        ],
+        "gloss": "Perda da capacidade de frenagem quando os freios estão quentes e o pedal fica mole.",
+        "id": "sns.sa.daily_skills.abs_brake_fade.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.abs_brake_fade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kehilangan daya rem ketika rem terlalu panas sehingga pedal rem terasa empuk. Kondisi ini berbeda dari rem yang_NORMAL pada awal gunakan.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_brake_fade.1.1.id"
+        ],
+        "gloss": "Kehilangan daya rem ketika rem panas sehingga pedal terasa empuk.",
+        "id": "sns.sa.daily_skills.abs_brake_fade.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.abs_brake_fade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "อาการที่เบรกมีความร้อนสูงจนเสียแรงเบรก ทำให้แป้นเบรกนุ่มและระยะเบรกยาวขึ้น",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_brake_fade.1.1.th"
+        ],
+        "gloss": "เบรกร้อนจนแรงเบรกลดลงและแป้นเบรกนุ่มขึ้น",
+        "id": "sns.sa.daily_skills.abs_brake_fade.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.abs_brake_fade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Frenler aşırı ısındığında frenleme gücünün azalması ve fren pedalının yumuşamasıdır. Bu durumda aracı durdurmak zorlaşır.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_brake_fade.1.1.tr"
+        ],
+        "gloss": "Frenler aşırı ısındığında fren gücünün azalması ve pedalın yumuşaması.",
+        "id": "sns.sa.daily_skills.abs_brake_fade.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.abs_brake_fade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_brake_fade.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Uzun yokuştan sonra frenler ısındı, fren gücü azaldı ve pedal yumuşadı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_brake_fade.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "หลังลงทางลาดยาวเป็นเวลานาน เบรกจึงร้อนจนแรงเบรกลดลงและแป้นเบรกรู้สึกนุ่ม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_brake_fade.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Setelah turun panjang, remnya kehilangan daya dan pedal terasa lemah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_brake_fade.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Depois da longa descida, os freios perderam força e o pedal ficou mole.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_brake_fade.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "오르막길을 오래 내려오니 브레이크가 과열되어 제동력이 줄었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_brake_fade.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "長い坂を下ったあとブレーキの力が落ち、ペダルが弱く感じるようになった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_brake_fade.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "After the long descent the brakes faded and the pedal felt weak.",
+        "translation": "Sau một đoạn đường đổ dốc dài, phanh bị suy giảm hiệu quả và bàn đạp phanh cảm thấy yếu.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d2369e7997d5f37d0917a423c56064cf028672a0102e9df534b327329e0cae42": [
+      {
+        "forms": [
+          "acceleration",
+          "accelerations"
+        ],
+        "id": "lex.sa.en.acceleration.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "acceleration",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.acceleration.noun.gb",
+          "prn.sa.en.acceleration.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.acceleration.noun.1",
+          "sns.sa.en.acceleration-noun.alt"
+        ]
+      },
+      {
+        "id": "prn.sa.en.acceleration.noun.gb",
+        "ipa": "/əkˈseləreɪʃən/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.acceleration.noun.us",
+        "ipa": "/əkˌseləˈreɪʃən/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Tốc độ thay đổi của vận tốc theo thời gian; đơn vị SI là m/s².",
+        "domain": [
+          "physics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.acceleration.noun.1.1"
+        ],
+        "gloss": "gia tốc",
+        "id": "sns.sa.vi.acceleration.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.acceleration.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The rate of change of velocity with time.",
+        "domain": [
+          "physics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.acceleration.noun.1.1"
+        ],
+        "gloss": "acceleration",
+        "id": "sns.sa.en.acceleration-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.acceleration.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.acceleration.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A car that speeds up from 0 to 100 km/h in 10 s has an acceleration of 2.78 m/s².",
+        "translation": "Một chiếc xe tăng tốc từ 0 lên 100 km/h trong 10 s có gia tốc 2,78 m/s².",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d29af8a2e160dd867fe45a75f70bf805b1b6c1cf92017cf53cdf1d5cf390c916": [
+      {
+        "forms": [
+          "Bicycle",
+          "bicycle"
+        ],
+        "id": "lex.sa.kids_adventure.bicycle",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Bicycle",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_adventure.bicycle.alt",
+          "sns.sa.kids_adventure.bicycle.alt.ja",
+          "sns.sa.kids_adventure.bicycle.alt.ko",
+          "sns.sa.kids_adventure.bicycle.alt.pt_br",
+          "sns.sa.kids_adventure.bicycle.alt.id",
+          "sns.sa.kids_adventure.bicycle.alt.th",
+          "sns.sa.kids_adventure.bicycle.alt.tr"
+        ]
+      },
+      {
+        "definition": "A machine with two wheels that you push with your feet. A good bicycle makes your legs feel like they have a strong friend.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.bicycle.1.1"
+        ],
+        "gloss": "A machine with two wheels that you push with your feet. A good bicycle makes your legs feel like they have a strong friend.",
+        "id": "sns.sa.kids_adventure.bicycle.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_adventure.bicycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ペダルを足で漕いで進む、二つの車輪Grayのある乗り物。通勤や運動、レジャーなどに使われます。",
+        "exampleIds": [
+          "exm.sa.kids_adventure.bicycle.1.1.ja"
+        ],
+        "gloss": "足で漕いで進む、二つの車輪の乗り物。",
+        "id": "sns.sa.kids_adventure.bicycle.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_adventure.bicycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "pedal과 손잡이로 움직이는 두 바퀴짜리 탈것으로, 발로 페달을 밟아 나갑니다.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.bicycle.1.1.ko"
+        ],
+        "gloss": "바퀴가 두 개 있어 발로 밀어 나가는 탈것입니다.",
+        "id": "sns.sa.kids_adventure.bicycle.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_adventure.bicycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Meio de transporte com duas rodas, guidado pelos pés por meio do pedal.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.bicycle.1.1.pt_br"
+        ],
+        "gloss": "Veículo de duas rodas que se desloca quando se pedala.",
+        "id": "sns.sa.kids_adventure.bicycle.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_adventure.bicycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kendaraan dengan dua roda yang dijalankan dengan mengayuh kaki. Jangan tertukar dengan sepeda motor, yang digerakkan oleh mesin.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.bicycle.1.1.id"
+        ],
+        "gloss": "Alat dengan dua roda yang digerakkan dengan mengayuh kaki.",
+        "id": "sns.sa.kids_adventure.bicycle.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_adventure.bicycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ยานพาหนะที่มีล้อสองล้อและขับเคลื่อนด้วยการปั่นเท้า ไม่ใช่จักรยานยนต์ที่ใช้เครื่องยนต์",
+        "exampleIds": [
+          "exm.sa.kids_adventure.bicycle.1.1.th"
+        ],
+        "gloss": "จักรยาน",
+        "id": "sns.sa.kids_adventure.bicycle.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_adventure.bicycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İki tekerleği ve pedalı olan, ayakla hareket ettirilen araç. Ulaşım için veya eğlence amacıyla kullanılır.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.bicycle.1.1.tr"
+        ],
+        "gloss": "Pedallarla sürülen, iki tekerlekli araç.",
+        "id": "sns.sa.kids_adventure.bicycle.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_adventure.bicycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_adventure.bicycle.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
+        "translation": "Dedemin bisikleti ağırdı ve paslıydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_adventure.bicycle.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
+        "translation": "จักรยานของคุณตาของฉันหนักและขึ้นสนิม แต่ฉันก็รักมันมาก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_adventure.bicycle.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
+        "translation": "Sepeda kakeknya berat dan berkarat, dan Nam sangat menyukainya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_adventure.bicycle.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
+        "translation": "A bicicleta de seu avô era pesada e enferrujada, e o Nam gostava dela.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_adventure.bicycle.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
+        "translation": "남이의 할아버지 자전거는 무거워서 녹이슬었지만 남은 아주 좋아했습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_adventure.bicycle.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
+        "translation": "おじいちゃん的自転車は重くて錆びていましたが、ナムはそのことが:apply，好歡喜でした。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_adventure.bicycle.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d2f647c78e82e2c3f2749a205fb2a679ab83353bb72657b3f4ece7bf0c8cbb39": [
+      {
+        "forms": [
+          "Intellectual humility"
+        ],
+        "id": "lex.sa.mind.intellectual_humility",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Intellectual humility",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intellectual_humility.en",
+          "sns.sa.mind.intellectual_humility.vi"
+        ]
+      },
+      {
+        "definition": "The habit of holding your own beliefs with the right amount of confidence: strong when the evidence is strong, weak when it is weak.",
+        "exampleIds": [],
+        "gloss": "The habit of holding your own beliefs with the right amount of confidence: strong when the evidence is strong, weak when it is weak.",
+        "id": "sns.sa.mind.intellectual_humility.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intellectual_humility",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Thói quen giữ niềm tin với mức độ tự tin đúng mực: mạnh khi bằng chứng mạnh, yếu khi bằng chứng yếu.",
+        "id": "sns.sa.mind.intellectual_humility.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.intellectual_humility",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

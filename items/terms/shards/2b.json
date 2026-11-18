@@ -1,0 +1,106 @@
+{
+  "items": {
+    "abs_threshold_braking": {
+      "definition": "Braking at the limit of grip by pressing and releasing the pedal before the wheel locks.",
+      "dictionaryId": "lex.sa.daily_skills.abs_threshold_braking",
+      "example": "Without ABS the driver has to use threshold braking.",
+      "fieldId": "daily_skills",
+      "id": "abs_threshold_braking",
+      "lessonIds": [
+        "article_abs_braking"
+      ],
+      "packs": [
+        "knw.daily.abs_braking"
+      ],
+      "term": "Threshold braking"
+    },
+    "cs_deflection": {
+      "definition": "Turning a question back on the person who asked it, so that the original question is never answered.",
+      "dictionaryId": "lex.sa.mind.cs_deflection",
+      "example": "The deflection worked once, and I still had not answered what was wrong with the drawing.",
+      "fieldId": "mind",
+      "id": "cs_deflection",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Deflection"
+    },
+    "gem_accountability": {
+      "conflict": true,
+      "definition": "The answer you owe for an act, to the people affected and to the law.",
+      "dictionaryId": "lex.sa.mind.dual_accountability",
+      "example": "The mistake was hers, and the accountability was hers as well.",
+      "fieldId": "social",
+      "id": "gem_accountability",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Accountability"
+    },
+    "market_valuation": {
+      "definition": "The total price investors place on a company or sector, reflecting expected future profits rather than current ones.",
+      "dictionaryId": "lex.sa.mind.market_valuation",
+      "example": "",
+      "fieldId": "mind",
+      "id": "market_valuation",
+      "lessonIds": [
+        "article_ai_bubble"
+      ],
+      "packs": [
+        "knw.mind.ai_bubble"
+      ],
+      "term": "Market valuation"
+    },
+    "psy_consent": {
+      "conflict": true,
+      "definition": "Everyone agreeing freely to something, every time. A clear no is a complete answer that needs no follow-up.",
+      "dictionaryId": "lex.sa.social.consent",
+      "example": "Consent has to be clear on both sides, and a no is always a complete answer.",
+      "fieldId": "mind",
+      "id": "psy_consent",
+      "lessonIds": [
+        "article_psychological_manipulation"
+      ],
+      "packs": [
+        "knw.mind.manipulation"
+      ],
+      "term": "Consent"
+    },
+    "tax_withholding": {
+      "definition": "Income tax taken out of your pay in advance by the employer. It is not your final tax bill.",
+      "dictionaryId": "lex.sa.money.tax_withholding",
+      "example": "The tax withheld this month was higher because my bonus was large.",
+      "fieldId": "money",
+      "id": "tax_withholding",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Tax withheld"
+    },
+    "why": {
+      "definition": "The question word that asks for a reason. Why questions are the most interesting ones.",
+      "dictionaryId": "lex.sa.kids_daily.why",
+      "example": "Why do we have to sleep?",
+      "fieldId": "kids_daily",
+      "id": "why",
+      "lessonIds": [
+        "article_asking_questions_in_class"
+      ],
+      "packs": [
+        "knw.kids.daily.questions"
+      ],
+      "term": "Why"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

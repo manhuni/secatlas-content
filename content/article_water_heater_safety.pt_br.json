@@ -1,0 +1,221 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_water_heater_safety",
+  "objectives": [
+    "Descreva como um aquecedor de água pode introduzir corrente elétrica na água, nos canos e em uma pessoa.",
+    "Nomeie corrente, tensão, isolamento, aterramento, corrente de fuga e o dispositivo de corrente residual e explique a função de cada um.",
+    "Explique por que o banheiro é o lugar onde uma pequena falha elétrica se torna perigosa.",
+    "Separe a proteção elétrica da proteção de pressão, de modo que a parte direita seja verificada.",
+    "Compare o fio terra protetor, o dispositivo de corrente residual e o disjuntor pelo que cada um vigia.",
+    "Use a ordem correta de ação quando alguém levar um choque de um aparelho de água quente.",
+    "Verifique a etiqueta do aquecedor e a manutenção que impede a ocorrência do defeito."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Um aquecedor de água é um reservatório metálico que contém água e um elemento em seu interior que aquece a água com eletricidade. O elemento, a fiação e a água ficam todos na mesma caixa metálica. É por isso que o eletrodoméstico está à beira de dois perigos: ele mantém água quente sob pressão e conduz corrente da rede elétrica. O segundo pode parar um coração, e é sobre ele que este artigo trata.\n\nCinco palavras sustentam o tema. A corrente elétrica é o fluxo de eletricidade, medido em amperes (A). **Tensão** é a força que impulsiona a corrente, medida em volts (V); o fornecimento a uma residência costuma ser de cerca de 230 V em grande parte do mundo e de cerca de 120 V na América do Norte. **Isolamento** é o material ao redor da parte viva do aparelho que mantém a corrente dentro do cabo. O **fio terra**, chamado de fio de aterramento na América do Norte, é o condutor verde e amarelo que conecta a caixa metálica ao barramento de terra do quadro, para que uma corrente de falha tenha um caminho curto de retorno. E a água com sais minerais dissolvidos conduz corrente elétrica: a água pura é um mau condutor, mas a água da torneira não é água pura.\n\nA falha é simples de relatar. Se a parte viva do aquecedor entrar em contato com o reservatório ou a água, a corrente elétrica pode sair do cabo, passar para a água, alcançar os canos e chegar à pessoa que está segurando uma torneira. Nada no aquecedor parece errado por fora. A falha está dentro do invólucro, e é causada a uma pessoa em pé sobre um piso molhado.\n\nEste artigo explica o que é a falha, o que fazem as peças, o que fazer nos primeiros minutos e quando parar e chamar um profissional. Isso não substitui o manual do eletrodoméstico nem o trabalho de um eletricista credenciado.",
+      "examples": [
+        "O aquecedor é um tanque de metal com água e um elemento dentro dele, portanto, a carcaça faz parte do circuito.",
+        "Uma corrente de falha que chega à água pode alcançar os canos, e os canos podem alcançar a pessoa.",
+        "O manual e o eletricista decidem o que deve ser feito; este artigo explica apenas o risco."
+      ],
+      "heading": "Qual é o risco: eletricidade dentro de um tanque de água",
+      "terms": [
+        {
+          "example": "A corrente voltou pelo fio terra em vez de passar pela carga.",
+          "gloss": "O fluxo de eletricidade, medido em ampères (A)."
+        },
+        {
+          "example": "A tensão de alimentação desta casa é de 230 V, portanto, o aquecedor está em uma tensão perigosa.",
+          "gloss": "A força que impulsiona a corrente, medida em volts (V)."
+        },
+        {
+          "example": "O isolamento do cabo está trincado e escurecido perto do plugue.",
+          "gloss": "O material ao redor da parte viva de um cabo que mantém a corrente elétrica dentro dele."
+        },
+        {
+          "example": "O fio terra foi cortado por uma broca durante a última reforma.",
+          "gloss": "O condutor verde-amarelo que conecta a carcaça metálica de um eletrodoméstico à barra de terra no quadro de distribuição."
+        }
+      ]
+    },
+    {
+      "body": "A corrente não viaja sozinha. Ele precisa de um caminho fechado: sai do quadro no fio fase e retorna no fio neutro, e seguirá qualquer caminho que feche o circuito. Se a parte viva do aquecedor entrar em contato com a água, a água passa a fazer parte desse circuito. Os canos que conduzem a água também passam a fazer parte dela, assim como cada torneira e cada peça metálica conectada a eles.\n\nSeu corpo se conecta ao circuito no momento em que toca dois pontos com voltagens diferentes. Enquanto você está sobre um piso molhado e segura uma torneira metálica, a corrente passa por você em vez de passar pelo fio terra, que deveria conduzir a corrente com segurança. A água na pele reduz a resistência do corpo, de modo que passa mais corrente, e a corrente que passa pelo coração é a que importa.\n\nAssim, vale nomear os elementos de um banheiro: a água nos canos, o piso molhado, uma torneira de metal, uma toalha ou um tapete estendido no chão e um aquecedor cuja carcaça perdeu o isolamento. Qualquer um deles, isoladamente, é inofensivo. Uma pessoa, um piso e um cano juntos são a falha.\n\nA pequena quantidade de corrente que sempre encontra seu caminho através do isolamento é chamada de **corrente de fuga**. Em uma instalação saudável, é pequeno e estável. Quando o isolamento se rompe, a corrente de fuga aumenta, e é esse aumento, e não o tamanho da falta, que geralmente lhe dá o primeiro aviso: o dispositivo de corrente residual começa a disparar.",
+      "examples": [
+        "Se a parte energizada toca a água, os canos passam a fazer parte do circuito.",
+        "Um piso molhado e uma torneira metálica formam um caminho no qual uma pessoa pode ficar de pé sem tocar no aquecedor.",
+        "O DR estava disparando porque a corrente de fuga havia aumentado, não porque o aquecedor estava sobrecarregado."
+      ],
+      "heading": "Como a corrente encontra um caminho até uma pessoa",
+      "terms": [
+        {
+          "example": "O eletricista mediu a corrente de fuga e ela estava acima do nível habitual.",
+          "gloss": "Corrente que escapa da parte energizada do eletrodoméstico através de isolamento danificado."
+        }
+      ]
+    },
+    {
+      "body": "Três disposições protegem a pessoa, e cada uma observa uma coisa diferente. O primeiro é o **fio terra de proteção**, o condutor verde e amarelo que conecta a carcaça metálica do aquecedor à barra de terra no quadro. Sua função é fornecer à corrente de falha um caminho de baixa resistência de volta à placa, de modo que uma corrente grande apareça no circuito e o disjuntor abra. Ele também mantém os componentes metálicos da tubulação em uma tensão próxima de zero. **Aterramento** é todo o conjunto de condutores e conexões; o fio terra é um condutor dentro dele. **A ligação** é a parte dessa disposição que conecta partes metálicas entre si, como canos, a carcaça do aquecedor e conexões metálicas, de modo que nenhuma parte metálica possa ficar em uma voltagem que uma pessoa possa tocar.\n\nO segundo arranjo é o **dispositivo de corrente residual** (DCR), também chamado de RCB ou RCCB. Compara a corrente que sai pelo fio vivo com a corrente que retorna pelo fio neutro. Em um circuito saudável, os dois são iguais. Quando eles diferem, parte da corrente foi para outro lugar: através de uma pessoa, pela água ou por meio de um isolamento que falhou. Essa diferença é a corrente residual e, quando o DR vê a corrente, o dispositivo **dispara**, abrindo o fase e o neutro em uma fração de segundo, muito antes que a corrente possa causarSeriously dano. Não sabe para onde a corrente foi e não precisa saber. Ele sabe apenas que alguma parte está faltando.\n\nO terceiro arranjo é o isolamento do cabo e o disjuntor no final dele. O isolamento mantém a corrente dentro do cabo onde ela pertence, e o disjuntor monitora a corrente em relação à capacidade nominal do cabo e abre o circuito quando ela está alta demais. Um disjuntor protege o cabo e o eletrodoméstico; por si só, não protege uma pessoa contra uma pequena corrente de fuga. Esse é o trabalho do RCD. Uma corrente residual de 30 mA é o nível usual para proteção pessoal na maioria das instalações, e a norma local prevalece.\n\nTudo isso é sobre o presente. A proteção contra pressão é um sistema separado. A **válvula de segurança**, geralmente uma válvula de alívio de temperatura e pressão, abre se a pressão dentro do tanque subir demais e deixa a água sair. O **anode rod** não é uma válvula de forma alguma: é uma haste de um metal que corrói mais facilmente do que o tanque de aço, e ela corrói em vez da parede do tanque. Um aquecedor pode ter todas estas peças funcionando perfeitamente e ainda assim colocar uma pessoa em risco se o fio terra tiver sido cortado. Leia os dois sistemas como dois sistemas.",
+      "examples": [
+        "O fio terra conduz a corrente de falha de volta ao quadro, e o disjuntor abre.",
+        "O RCD compara a corrente que sai com a corrente que retorna.",
+        "A válvula de segurança protege o tanque contra a pressão, e o DR protege a pessoa contra a corrente elétrica."
+      ],
+      "heading": "As partes que protegem a pessoa",
+      "terms": [
+        {
+          "example": "O dispositivo de corrente residual é o interruptor largo no quadro com o botão de teste.",
+          "gloss": "Um dispositivo que compara a corrente que sai com a corrente que volta e desliga quando elas são diferentes."
+        },
+        {
+          "example": "O disjuntor é o dispositivo de 16 A no quadro.",
+          "gloss": "Um dispositivo que abre um circuito quando a corrente é maior do que a corrente nominal do circuito."
+        },
+        {
+          "example": "O aterramento foi verificado quando a placa foi substituída.",
+          "gloss": "A ligação que conecta as partes metálicas de uma instalação à terra, de modo que uma corrente de falha tenha um caminho seguro."
+        },
+        {
+          "example": "A ligação dos canos metálicos faz parte da instalação.",
+          "gloss": "Juntando partes metálicas entre si para que não possam estar em potenciais diferentes."
+        },
+        {
+          "example": "O DRCC disparou quando o aquecedor foi ligado.",
+          "gloss": "Para abrir o circuito por si só, porque o dispositivo detectou uma falha ou uma sobrecarga."
+        },
+        {
+          "example": "A válvula de segurança é a pequena válvula de latão no cano frio.",
+          "gloss": "Uma válvula no tanque que abre e libera água se a pressão ou a temperatura interna ficarem altas demais."
+        },
+        {
+          "example": "A haste do ânodo é verificada a cada manutenção e substituída quando está desgastada.",
+          "gloss": "Uma haste de metal que corrói em vez do tanque, de modo que a parede do tanque seja preservada."
+        }
+      ]
+    },
+    {
+      "body": "Seis partes fazem o trabalho, e elas pertencem a dois sistemas diferentes. Os três primeiros zelam pela eletricidade: o fio terra de proteção, o dispositivo de corrente residual e o disjuntor. Eles protegem a pessoa. Os três últimos monitoram o calor, a pressão e a corrosão dentro do tanque: a válvula de alívio, a haste do ânodo e o dispositivo de corte térmico. Eles protegem o eletrodoméstico. Um leitor que misturar os dois grupos aguardará a parte errada para salvá-los.\n\nO thermal cut-out fica entre os grupos. É uma chave dentro do tanque que abre o circuito de aquecimento quando a água está muito quente, proteger o elemento e o isolamento ao redor dele. Não protege a pessoa contra um fault to earth e não torna a água segura para ser tocada.\n\nAs classificações na tabela são os níveis comuns, não a lei. Uma corrente residual de 30 mA é o nível usual para proteção pessoal, um disjuntor de 16 A é comum para um circuito de tomada, e o chuveiro geralmente fica em um circuito dedicado só para ele. O padrão local determina todos esses valores. Se a instalação à sua frente não corresponder à tabela, pergunte ao eletricista ou à concessionária o que deveria ser.",
+      "examples": [
+        "O fio terra e o DRC protegem a pessoa; a válvula de alívio e a haste do ânodo protegem o tanque.",
+        "Um disjuntor de 16 A em um circuito de tomada é comum, e a norma local determina o valor.",
+        "O DR dispara quando a corrente que retorna é menor do que a corrente que saiu."
+      ],
+      "heading": "A proteção e o que cada parte faz",
+      "table": {
+        "headers": [
+          "Part",
+          "What it watches",
+          "What it does when it works",
+          "Typical rating",
+          "What it does not protect against"
+        ],
+        "rows": [
+          [
+            "The protective earth wire is the green-and-yellow conductor to the earth bar in the board.",
+            "It watches the connection between the live part and the metal case.",
+            "It carries the fault current back to the board, so that the breaker opens.",
+            "No rating; it is a continuous conductor, and the local standard decides its size.",
+            "It does not protect a person who is already in contact with water, and it does nothing at all if it has been cut."
+          ],
+          [
+            "The residual-current device is the RCD, also called RCB or RCCB.",
+            "It watches the difference between the current that leaves and the current that returns.",
+            "It trips and cuts the power in a fraction of a second when the two currents differ.",
+            "Typically 30 mA for personal protection in most installations; the local standard decides.",
+            "It does not protect against a current that goes out and comes back the normal way, such as an overload."
+          ],
+          [
+            "The circuit breaker is the device that opens the circuit on an overload.",
+            "It watches the current in the circuit against the rating of the cable.",
+            "It opens the circuit when the current is too high, so the cable cannot overheat.",
+            "A 16 A breaker is common for a socket circuit, and a water heater is often on a dedicated circuit; the local standard decides.",
+            "It does not protect a person from a small leakage current; only the RCD does that."
+          ],
+          [
+            "The temperature and pressure relief valve is the safety valve on the tank.",
+            "It watches the pressure and the temperature inside the tank.",
+            "It opens and releases water if the pressure rises above the safe level.",
+            "Set for the appliance; the maker states the pressure, and the local standard decides.",
+            "It does not protect against electric current at all."
+          ],
+          [
+            "The anode rod is the sacrificial rod inside the head of the tank.",
+            "It does not watch anything; it corrodes instead of the tank.",
+            "It gives up its metal so that the steel tank does not rust through.",
+            "A rod of magnesium or another sacrificial metal, sized for the tank; the maker decides.",
+            "It does not protect against current, and a fitted rod does not stop the tank from scaling."
+          ],
+          [
+            "The thermal cut-out is the switch inside the tank that stops the heating.",
+            "It watches the temperature inside the tank.",
+            "It opens the heating circuit when the tank is too hot.",
+            "A fixed temperature set by the maker; the local standard decides.",
+            "It does not protect the metalwork from a fault to earth, and it does not make the water safe to touch."
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Um choque causado por um eletrodoméstico com água quente acontece em um ambiente molhado, e os primeiros minutos decidem o resultado. A ordem abaixo importa. Não comece com a pessoa; comece com o poder. A regra que rege todo o restante: nunca toque em uma pessoa que ainda esteja em contato com a água ou com o eletrodoméstico. Uma pessoa segurando uma torneira, ou em pé numa poça e segurando um cano, ainda faz parte do circuito. Sua mão no braço deles também faz de você parte disso.\n\nDesligue a energia no disjuntor ou no interruptor principal, se puder alcançá-lo sem entrar na área molhada. Se você não conseguir alcançá-lo com segurança, não entre na água. Tire todos da sala, ligue para o número de emergência e para a concessionária e aguarde o corte de energia em um local seguro. O piso molhado ao redor de um eletrodoméstico energizado é onde a segunda vítima é formada.\n\nEntão, deixe o ambiente seguro. Seque o piso ao redor do aparelho e seque a pessoa, especialmente as mãos e os pés. Não toque no interruptor de luz nem na torneira na área molhada: você não pode ter certeza de que o aterramento está funcionando, e este não é o momento de testá-lo.\n\nEntão, chame por ajuda e anote o dia. Se a pessoa não estiver respondendo, ou se você não tiver certeza de quão grave é a situação, ligue para o número de emergência do seu país: 113 para a polícia e o trânsito e 115 para uma ambulância no Vietnã, 112 em grande parte da Europa, 999 no Reino Unido e 911 nos Estados Unidos. Diga onde você está, o que aconteceu e o que a pessoa está fazendo agora. Depois disso, ligue para o eletricista ou para a concessionária, mantenha o aquecedor fora de operação até que ele seja verificado e anote o horário do evento, os sintomas e os nomes das pessoas que você chamou.",
+      "examples": [
+        "Não a toque até que a energia seja desligada; ela ainda está em pé na água.",
+        "Desliguei o disjuntor e estou secando o piso agora.",
+        "Estou ligando para o número de emergência porque ele não está respondendo."
+      ],
+      "heading": "O que fazer quando alguém leva um choque",
+      "steps": [
+        "Não toque na pessoa enquanto ela estiver em contato com a água ou com o aparelho.",
+        "Desligue a energia no disjuntor ou no interruptor principal, se você puder acessá-lo sem entrar na área molhada.",
+        "Seque o piso ao redor do eletrodoméstico e seque a pessoa, especialmente as mãos e os pés.",
+        "Ligue para o número de emergência se a pessoa não estiver respondendo ou se você não tiver certeza de quão grave é a situação.",
+        "Ligue para o eletricista ou para a concessionária e descreva o que você viu e em que ordem isso aconteceu.",
+        "Anote o que aconteceu, quando aconteceu e quem você ligou, e mantenha o eletrodoméstico fora de uso até que ele seja verificado."
+      ]
+    },
+    {
+      "body": "**Nunca mexa no aquecedor com a energia ligada.** Nem no elemento, nem na fiação, nem no plugue, nem com o disjuntor desligado e a esperança de que já estivesse desligado. Se você não puder confirmar que o circuito está desenergizado, não trabalhe nele.\n\n**Nunca reinicie o RCD novamente.** Um dispositivo que desarmou encontrou uma falha. Redefinir isso apaga as evidências e restaura o defeito. Observe o que o eletrodoméstico estava fazendo, anote o horário e chame o eletricista. Um dispositivo que desarma duas vezes em uma semana é uma falha a ser relatada, não um incômodo a ser descartado.\n\n**Nunca use uma extensão ou um aquecedor portátil em um ambiente molhado.** Uma extensão é um condutor longo e mal protegido, e um aquecedor portátil é um elemento energizado no chão de um ambiente molhado. Nenhum dos dois pertence a um banheiro. Se a tomada estiver longe do eletrodoméstico, a solução é um novo circuito instalado por um eletricista, e não um cabo atravessando a sala.\n\n**Nunca confie apenas no fio terra.** O fio terra é uma camada de proteção, e só funciona quando a placa detecta a corrente de falha. O RCD é a camada que observa a pessoa. Um aquecedor com uma boa aterragem e sem proteção por DR não é seguro, e um aquecedor com um DR em bom estado e um fio terra cortado também não é seguro. E uma regra se sobrepõe às outras quatro: **somente um eletricista habilitado abre, repara ou testa um aquecedor de água.** O manual do aparelho, a norma local e o certificado do eletricista determinam o que deve ser feito. Este artigo explica o que acontece e o que fazer nos primeiros minutos. Não é uma instrução de reparo e não substitui nenhuma dessas três.",
+      "examples": [
+        "Não zerarei o RCD novamente; ele já desligou duas vezes e a falha precisa ser encontrada.",
+        "Não usamos fio de extensão para o aquecedor; a tomada está muito longe do aparelho.",
+        "Somente um eletricista credenciado abre e testa o aquecedor, portanto vou chamar um."
+      ],
+      "heading": "Quatro coisas para nunca fazer"
+    },
+    {
+      "body": "A maior parte do que você precisa neste comércio é a linguagem de um relatório. Diga o que você viu, diga o que o dispositivo fez e diga o que deseja que seja feito em seguida. Não diagnostique o defeito por conta própria; descreva o sintoma e deixe o eletricista decidir a causa.\n\nUm técnico precisa de quatro coisas: onde está o aquecedor, o que diz a etiqueta, o sintoma na ordem em que aconteceu e o que já foi tentado. Leia o rótulo antes de ligar e mantenha-o à sua frente quando o técnico chegar.\n\nUm locador ou gerente de escritório precisa dos mesmos fatos de forma mais resumida, além da solicitação: uma data, um número de referência e a declaração de que o eletrodoméstico está fora de uso. Um colega precisa da regra e do aviso: desligue, ligue, não reinicie.",
+      "examples": [
+        "O DR disparou duas vezes ontem à noite, e o aquecedor está fora de operação.",
+        "A etiqueta indica a marca e o modelo, e eu os anotei.",
+        "Alguém levou um choque no chuveiro enquanto o aquecedor estava ligado; desliguei a energia no quadro de energia.",
+        "Você poderia enviar um eletricista licenciado e me fornecer um número de referência para a visita?",
+        "O banheiro permanece fora de uso até que a conexão à terra tenha sido verificada.",
+        "Eu não sei o que causou isso; posso te dizer exatamente o que vi.",
+        "Não reinicie o dispositivo. Chame a concessionária e deixe que encontrem o defeito.",
+        "O serviço de manutenção está incluído no aluguel ou preciso providenciá-lo?"
+      ],
+      "heading": "Frases que você pode usar"
+    },
+    {
+      "body": "A maioria das falhas em um aquecedor de água começa como uma mudança lenta que ninguém percebe. A água dura contém minerais e, sempre que o aquecedor funciona, alguns deles se depositam no elemento e no interior do tanque, formando calcário. A escala é um isolante térmico: o elemento precisa trabalhar mais para a mesma configuração, funciona mais quente e o isolamento ao redor dele envelhece mais rápido. **A descalcificação** é a remoção dessa crosta. É um trabalho para o procedimento do fabricante e, em muitos casos, para um profissional. Não coloque nada no tanque que o fabricante não indicar.\n\nA haste do ânodo é a parte destinada a corroer. É uma haste de magnésio, ou de outro metal mais ativo que o aço, rosqueada na cabeça do tanque e, enquanto estiver ali, a corrosão corrói a haste em vez da parede do tanque. Verifique durante a revisão programada e substitua-o quando estiver quase no fim. Um tanque que perdeu a haste pode falhar por dentro sem nenhum aviso na torneira.\n\nNa mesma visita, drene o tanque para que o sedimento do fundo saia e verifique se a válvula de drenagem abre e fecha, pois uma válvula que não pode ser aberta é uma válvula que não pode ser usada. Verifique se a válvula de alívio não está travada e se o tubo de descarga está desobstruído. Com a energia desligada, Examine o cabo e a plugue para verificar se há danos: um corte, uma seção esmagada, um pino quente ou descolorido, uma plugue que se move no soquete.\n\nAjuste a temperatura para que a água não **escalde** uma pessoa. Uma temperatura de armazenamento de cerca de 60 °C é a recomendação usual em muitas instalações, e a regulamentação local decide. Leia a etiqueta do aquecedor antes de alterar qualquer coisa: ela informa o tipo de aparelho, a potência, a faixa do termostato e os intervalos de manutenção previstos pelo fabricante. Uma etiqueta não é decoração.",
+      "examples": [
+        "O aquecedor precisa ser descalcificado todos os anos neste prédio, porque a água é dura.",
+        "A haste do ânodo é verificada e substituída na manutenção, não quando o tanque começa a vazar.",
+        "A etiqueta define o intervalo do termostato, e o código local determina a temperatura máxima."
+      ],
+      "heading": "A manutenção que evita a falha",
+      "terms": [
+        {
+          "example": "Água a 60 °C pode escaldar uma criança em poucos segundos.",
+          "gloss": "Uma queimadura causada por líquido quente ou vapor."
+        },
+        {
+          "example": "A descalcificação é realizada no intervalo de serviço em áreas de água dura.",
+          "gloss": "Removendo a incrustação mineral que se acumula dentro do tanque e no elemento de aquecimento."
+        }
+      ]
+    }
+  ],
+  "summary": "Um aquecedor de água é um tanque de metal cheio de água com eletricidade dentro. Depois de ler este artigo, você poderá descrever como uma corrente de defeito atinge uma pessoa, nomear as partes que protegem você, fazer as coisas certas nos primeiros minutos após um choque elétrico, descrever a falha a um técnico e manter o aparelho seguro entre as manutenções.",
+  "title": "Aquecedores de Água e o Risco de Eletrocutação"
+}

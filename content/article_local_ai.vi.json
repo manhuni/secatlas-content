@@ -1,0 +1,91 @@
+{
+  "language": "vi",
+  "lessonId": "article_local_ai",
+  "objectives": [
+    "Giải thích chạy mô hình AI cục bộ thật sự cho bạn điều gì.",
+    "Phân biệt sở hữu trọng số với sở hữu công nghệ.",
+    "Mô tả hạ tầng ẩn mà AI phụ thuộc.",
+    "Định nghĩa khóa chặt nhà cung cấp và phụ thuộc hệ sinh thái.",
+    "Đánh giá tuyên bố độc lập về AI một cách thực tế."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "AI cục bộ nghĩa là chạy mô hình ngôn ngữ trên phần cứng của chính mình thay vì gọi API của một công ty. Tệp mô hình — 'trọng số' — nằm trên ổ cứng, câu hỏi của bạn ở lại trong nhà, và không đồng hồ thuê bao nào chạy. Về riêng tư, về dùng ngoại tuyến, và về nghịch ngợm, đây là lợi thật, và cộng đồng mở trọng số đứng sau nó là một trong những phong trào sản xuất nhất của phần mềm hiện đại.\n\nNhưng tệp mô hình chỉ là một thành phần của cả chồng công nghệ. Nó được huấn luyện trên phần cứng bạn không sở hữu, bằng bộ dữ liệu bạn không thể kiểm tra, với công cụ bạn không viết, và nó chạy trên chip do một nắm công ty thiết kế. Sở hữu trọng số là quyền sở hữu thật một lớp — một lớp quan trọng — chứ không phải của cả công nghệ.\n\nNhầm lẫn hai điều đó sinh ra một ảo tưởng đặc trưng: cảm giác độc lập với các tập đoàn công nghệ trong khi đứng trên mặt đất do chính họ đổ. Câu hỏi không phải AI cục bộ có đáng chạy không — với nhiều việc thì rõ ràng đáng — mà là nó thật sự lấy đi khỏi tay người khác những gì.",
+      "examples": [
+        "Trợ lý ngoại tuyến làm việc trên núi không có sóng; nó cũng lặng lẽ phụ thuộc vào driver của một hãng chip và đường ống huấn luyện nó không bao giờ thấy."
+      ],
+      "heading": "Mô hình trên ổ cứng"
+    },
+    {
+      "body": "AI miễn phí có vài lớp, và chúng dễ bị nhòe. **Miễn phí về giá**: không thuê bao. **Miễn phí về trọng số**: bạn được tải và chạy tệp mô hình. **Miễn phí về mã nguồn**: phần mềm xung quanh là mở. **Miễn phí về dữ liệu và huấn luyện**: gần như không có thứ gì hiện đại đạt được — bộ dữ liệu, cụm máy tính và công thức huấn luyện là những hoạt động công nghiệp.\n\nMỗi lớp đều đáng có. Khả năng chạy một mô hình đủ mạnh mà không phải xin phép bất kỳ ai là một quyền lực thật không tồn tại năm năm trước. Các cộng đồng cải tiến những mô hình này, kiểm toán chúng, và thích nghi chúng cho những ngôn ngữ các phòng thí nghiệm lớn bỏ qua.\n\nNhưng mỗi lớp cũng có ranh giới. Trọng số miễn phí; phương tiện tạo trọng số mới thì tập trung. Người dùng với trọng số miễn phí giống hành khách với chiếc ghế tuyệt hảo — tốt hơn mọi ghế trước đây, nhưng vẫn không phải buồng lái. Biết mình thật sự có những tự do nào ngăn cả sự tự mãn lẫn sự tuyệt vọng: bạn độc lập hơn khách hàng dùng API và kém độc lập hơn huyền thoại kể.",
+      "examples": [
+        "Anh ấy tự hào chạy mô hình miễn phí — và nhận ra khi đọc tài liệu rằng nó không thể tồn tại nếu thiếu kiến trúc chip của một công ty."
+      ],
+      "heading": "'Miễn phí' nghĩa là gì"
+    },
+    {
+      "body": "Bên dưới mọi mô hình AI, dù chạy ở đâu, là một chỗ phụ thuộc mà không người dùng nào kiểm soát. Chip đến từ số ít nhà sản xuất. Nhà máy in chip còn ít hơn. Các framework huấn luyện mô hình, thư viện chạy chúng, cửa hàng ứng dụng phát tán chúng — mỗi lớp đều có một danh sách ngắn những chủ sở hữu.\n\nPhụ thuộc không tự nhiên là xấu; đó là cách công nghệ phức tạp vận hành. Một thành phố phụ thuộc lưới điện. Câu hỏi là sự nhận thức và các phương án thay thế. Phụ thuộc mà bạn biết có thể được dự phòng, vận động thay đổ i, hoặc kỹ thuật hoá dần qua nhiều năm. Phụ thuộc mà bạn phủ nhận để bạn lộ sở hở đúng lúc nhà cung cấp đổ i điều khoản, giá, hoặc khả năng cung cấp — mà nhà cung cấp cuối cùng rồ i cũng đổ i.\n\nĐây là lý do tư thế lành mạnh với AI miễn phí không phải tôn thờ hay hoài nghi. Hãy dùng trọn các tự do: chạy cục bộ, giữ dữ liệu riêng tư, kiểm toán hành vi. Và đếm các phụ thuộc một cách thành thật, để khi ai hỏi bạn có độc lập không, bạn trả lời được chính xác phần nào mình kiểm soát và phần nào mình đang thuê.",
+      "examples": [
+        "Khi giá API tăng gấp ba trong một đêm, người dùng mô hình cục bộ vẫn làm việc — và phát hiện 'sự độc lập' của họ vẫn dựa vào tồn kho của một hãng GPU."
+      ],
+      "heading": "Hạ tầng vô hình"
+    },
+    {
+      "body": "Những thuật ngữ này đặt tên các lớp nằm giữa sở hữu một mô hình và sở hữu một công nghệ.",
+      "heading": "Từ vựng của sự độc lập",
+      "terms": [
+        {
+          "example": "Bộ AI cục bộ của cô ấy trả lời câu hỏi trên máy bay, không mạng và không dữ liệu rời khỏi laptop.",
+          "gloss": "Chạy mô hình AI trên phần cứng của chính mình thay vì qua dịch vụ lưu trữ của công ty.",
+          "term": "AI cục bộ",
+          "termId": "local_ai"
+        },
+        {
+          "example": "Nhờ trọng số mở, nhóm tinh chỉnh mô hình trên sổ tay nội bộ mà không phải xin phép ai.",
+          "gloss": "Công bố tham số đã huấn luyện của mô hình để ai cũng có thể tải, chạy và chỉnh sửa.",
+          "term": "Trọng số mở",
+          "termId": "open_weights"
+        },
+        {
+          "example": "Suy luận diễn ra trên laptop ở nhà và trên máy chủ thuê khi cô ấy cần nhanh hơn.",
+          "gloss": "Quá trình chạy mô hình đã huấn luyện để tạo câu trả lời; hoạt động thường nhật của AI.",
+          "term": "Suy luận",
+          "termId": "inference"
+        },
+        {
+          "example": "Hạ tầng tính toán phía sau AI hiện đại được đo bằng hàng tỷ đô chip.",
+          "gloss": "Chip, trung tâm dữ liệu và nguồn năng lượng giúp huấn luyện và chạy các mô hình lớn trở nên khả thi.",
+          "term": "Hạ tầng tính toán",
+          "termId": "compute_infrastructure"
+        },
+        {
+          "example": "Khóa chặt nhà cung cấp lộ rõ khi báo giá di chuyển hệ thống gấp ba hoá đơn API hằng năm.",
+          "gloss": "Tình trạng chuyển nhà cung cấp đắt tới mức sự phụ thuộc tiếp tục bất kể giá hay chất lượng.",
+          "term": "Khóa chặt nhà cung cấp",
+          "termId": "vendor_lock_in"
+        },
+        {
+          "example": "Một mô hình chỉ tự do bằng hệ sinh thái nó chạy trong: chip, driver, định dạng và cửa hàng.",
+          "gloss": "Mạng lưới phần cứng, phần mềm, chuẩn và dịch vụ mà một công nghệ cần để hoạt động.",
+          "term": "Hệ sinh thái",
+          "termId": "ecosystem"
+        }
+      ]
+    },
+    {
+      "body": "Một cuộc kiểm toán hữu ích cho mọi tuyên bố độc lập công nghệ: liệt kê điều gì sẽ vỡ nếu từng nhà cung cấp biến mất — hãng chip, nhà cung cấp mô hình, cửa hàng ứng dụng, vùng đám mây, dòng điện. Thứ nào không có phương án thay thế là phụ thuộc, dù nhãn trên hộp ghi gì.",
+      "heading": "Đếm các phụ thuộc của bạn"
+    },
+    {
+      "body": "Câu hỏi hữu ích không phải 'tôi có độc lập không' mà là 'độc lập với cái gì, chính xác, và với cái giá nào?' AI cục bộ mua những tự do thật: riêng tư trước việc quét, khả năng chống sốc giá, quyền chỉnh sửa và kiểm toán. Những thứ đó đáng có và đáng bảo vệ.\n\nNó không mua nên độc lập khỏi chồng tính toán, khỏi vật lý của chip, hay khỏi tri thức tập trung ở vài phòng thí nghiệm. Không chiếc laptop nào chứa được sự độc lập đó, ở mọi mức giá.\n\nTự chủ công nghệ chín chắn trông giống danh mục đa dạng hơn là pháo đài: một phần cục bộ, một phần lưu trữ, một phần mở, một phần độc quyền — cùng kiến thức, luôn cập nhật, về từng mảnh nằm ở đâu và ai có thể lấy nó đi. Chính kiến thức đó, hơn bất kỳ công cụ đơn lẻ nào, là phần công nghệ mà một người thật sự có thể sở hữu.",
+      "examples": [
+        "Cô ấy chạy mô hình cục bộ cho việc riêng tư, mô hình lưu trữ cho việc nặng, và giữ một bản đồ viết tay về mọi phụ thuộc — và ngủ ngon."
+      ],
+      "heading": "Tự chủ thật, được đo lường thành thật"
+    }
+  ],
+  "summary": "Chạy mô hình miễn phí trên máy mình, sở hữu trọng số, giữ dữ liệu — vậy là độc lập rồ i đúng không? Bài viết khảo sát ảo tưởng về tự chủ công nghệ: AI cục bộ thật sự giải phóng bạn khỏi điều gì, không giải phóng điều gì, và vì sao hệ sinh thái phía dưới quan trọng hơn mô hình nằm trên ổ cứng của bạn.",
+  "title": "AI miễn phí và ảo tưởng tự chủ"
+}

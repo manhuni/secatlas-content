@@ -1,0 +1,576 @@
+{
+  "items": [
+    {
+      "definition": "The money that comes in over a period minus the money that goes out over it.",
+      "dictionaryId": "lex.sa.money.mon_cash_flow",
+      "example": "Cash flow is positive, but the stock is not there.",
+      "fieldId": "money",
+      "id": "mon_cash_flow",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Cash flow"
+    },
+    {
+      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
+      "dictionaryId": "lex.sa.technology.token",
+      "example": "The word \"the\" is one token, and a long word may be three.",
+      "fieldId": "technology",
+      "id": "aiw_token",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Token"
+    },
+    {
+      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
+      "dictionaryId": "lex.sa.technology.training_data",
+      "example": "The model's weakness on local rules comes from what the training data never covered.",
+      "fieldId": "technology",
+      "id": "aiw_training_data",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Training data"
+    },
+    {
+      "definition": "The numbers inside a model that hold what it learned. Each one is a weight that raises or lowers the chance of a continuation.",
+      "dictionaryId": "lex.sa.technology.aiw_parameters",
+      "example": "The model has billions of parameters, and not one of them is a sentence you can read.",
+      "fieldId": "technology",
+      "id": "aiw_parameters",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Parameters"
+    },
+    {
+      "conflict": true,
+      "definition": "Running a trained model to produce one answer. Cheap and fast compared with training, and it is what happens when you press send.",
+      "dictionaryId": "lex.sa.technology.inference",
+      "example": "Training cost a fortune; inference is what you pay for every time you use it.",
+      "fieldId": "technology",
+      "id": "aiw_inference",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Inference"
+    },
+    {
+      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+      "dictionaryId": "lex.sa.technology.context_window",
+      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
+      "fieldId": "technology",
+      "id": "aiw_context_window",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Context window"
+    },
+    {
+      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
+      "dictionaryId": "lex.sa.technology.prompt",
+      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
+      "fieldId": "technology",
+      "id": "aiw_prompt",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Prompt"
+    },
+    {
+      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
+      "dictionaryId": "lex.sa.technology.hallucination",
+      "example": "It invented a reference that looks perfect and does not exist.",
+      "fieldId": "technology",
+      "id": "aiw_hallucination",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Hallucination"
+    },
+    {
+      "definition": "The method of letting a system find patterns in data instead of following instructions a person wrote for every case.",
+      "dictionaryId": "lex.sa.technology.machine_learning",
+      "example": "Spam filtering was one of the first everyday uses of machine learning.",
+      "fieldId": "technology",
+      "id": "machine_learning",
+      "lessonIds": [
+        "article_ai_revolution"
+      ],
+      "packs": [
+        "knw.tech.revolution"
+      ],
+      "term": "Machine learning"
+    },
+    {
+      "definition": "A layered structure of simple units whose connection strengths are tuned during training. The most common structure in modern AI.",
+      "dictionaryId": "lex.sa.technology.neural_network",
+      "example": "The translation and the image search both run on a neural network.",
+      "fieldId": "technology",
+      "id": "neural_network",
+      "lessonIds": [
+        "article_ai_revolution"
+      ],
+      "packs": [
+        "knw.tech.revolution"
+      ],
+      "term": "Neural network"
+    },
+    {
+      "definition": "One adjustable number inside a model. Models are described by how many parameters they have.",
+      "dictionaryId": "lex.sa.technology.parameter",
+      "example": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+      "fieldId": "technology",
+      "id": "parameter",
+      "lessonIds": [
+        "article_ai_revolution"
+      ],
+      "packs": [
+        "knw.tech.revolution"
+      ],
+      "term": "Parameter"
+    },
+    {
+      "conflict": true,
+      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
+      "dictionaryId": "lex.sa.technology.training_data",
+      "example": "The model's weakness on local rules comes from what the training data never covered.",
+      "fieldId": "technology",
+      "id": "training_data",
+      "lessonIds": [
+        "article_ai_revolution"
+      ],
+      "packs": [
+        "knw.tech.revolution"
+      ],
+      "term": "Training data"
+    },
+    {
+      "definition": "AI that produces new content such as text, images, audio or code, rather than only sorting or labelling.",
+      "dictionaryId": "lex.sa.technology.generative_ai",
+      "example": "Drafting the email was the easiest part of the job this week.",
+      "fieldId": "technology",
+      "id": "generative_ai",
+      "lessonIds": [
+        "article_ai_revolution"
+      ],
+      "packs": [
+        "knw.tech.revolution"
+      ],
+      "term": "Generative AI"
+    },
+    {
+      "conflict": true,
+      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
+      "dictionaryId": "lex.sa.technology.hallucination",
+      "example": "It invented a reference that looks perfect and does not exist.",
+      "fieldId": "technology",
+      "id": "hallucination",
+      "lessonIds": [
+        "article_ai_revolution"
+      ],
+      "packs": [
+        "knw.tech.revolution"
+      ],
+      "term": "Hallucination"
+    },
+    {
+      "conflict": true,
+      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
+      "dictionaryId": "lex.sa.technology.prompt",
+      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
+      "fieldId": "technology",
+      "id": "prompt",
+      "lessonIds": [
+        "article_ai_revolution",
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.revolution",
+        "knw.tech.tokens"
+      ],
+      "term": "Prompt"
+    },
+    {
+      "conflict": true,
+      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
+      "dictionaryId": "lex.sa.technology.token",
+      "example": "The word \"the\" is one token, and a long word may be three.",
+      "fieldId": "technology",
+      "id": "token",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Token"
+    },
+    {
+      "definition": "The fixed vocabulary a model uses, plus the rule that splits text into tokens and joins them back.",
+      "dictionaryId": "lex.sa.technology.tokenizer",
+      "example": "A different tokenizer means the same text costs a different number of tokens.",
+      "fieldId": "technology",
+      "id": "tokenizer",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Tokenizer"
+    },
+    {
+      "conflict": true,
+      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+      "dictionaryId": "lex.sa.technology.context_window",
+      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
+      "fieldId": "technology",
+      "id": "context_window",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Context window"
+    },
+    {
+      "definition": "The tokens you send, counted and billed on the way in. Documents and chat history both count here.",
+      "dictionaryId": "lex.sa.technology.input_tokens",
+      "example": "Uploading the same file twice charges the input tokens twice.",
+      "fieldId": "technology",
+      "id": "input_tokens",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Input tokens"
+    },
+    {
+      "definition": "The tokens the model generates, counted and billed on the way out. Long answers cost more than short ones.",
+      "dictionaryId": "lex.sa.technology.output_tokens",
+      "example": "Asking for 2,000 words doubles the output cost of asking for 200.",
+      "fieldId": "technology",
+      "id": "output_tokens",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Output tokens"
+    },
+    {
+      "definition": "The setting that controls how random the choice of the next token is. Lower values are more repeatable, higher values more varied and less reliable.",
+      "dictionaryId": "lex.sa.technology.temperature",
+      "example": "For extracting data from a document, keep the temperature low.",
+      "fieldId": "technology",
+      "id": "temperature",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Temperature"
+    },
+    {
+      "definition": "The automatic cutting of input that is longer than the context window, usually removing the oldest part.",
+      "dictionaryId": "lex.sa.technology.truncation",
+      "example": "Truncation is why the model never mentions the first page you uploaded.",
+      "fieldId": "technology",
+      "id": "truncation",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Truncation"
+    },
+    {
+      "definition": "The unit of time equal to one sixtieth of a minute.",
+      "dictionaryId": "lex.sa.en.second.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_second",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "second"
+    },
+    {
+      "definition": "The SI unit of force.",
+      "dictionaryId": "lex.sa.en.newton.noun",
+      "example": "Newton’s second law, mechanical energy, Ohm’s law, and a travelling wave are written below.",
+      "fieldId": "physics",
+      "id": "si_newton",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "newton"
+    },
+    {
+      "conflict": true,
+      "definition": "The capacity to do work or cause change.",
+      "dictionaryId": "lex.sa.en.energy.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_energy",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "energy"
+    },
+    {
+      "definition": "The speed of a body together with its direction.",
+      "dictionaryId": "lex.sa.en.velocity.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_velocity",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "velocity"
+    },
+    {
+      "definition": "Matter of a definite kind and composition.",
+      "dictionaryId": "lex.sa.en.substance.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_substance",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "substance"
+    },
+    {
+      "definition": "A written sign that stands for a quantity or an idea.",
+      "dictionaryId": "lex.sa.en.symbol.noun",
+      "example": "Read the symbol, then the English name.",
+      "fieldId": "physics",
+      "id": "si_symbol",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "symbol"
+    },
+    {
+      "definition": "A short piece of text naming an item.",
+      "dictionaryId": "lex.sa.en.label.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_label",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "label"
+    },
+    {
+      "definition": "A level of quality or a rule of conduct.",
+      "dictionaryId": "lex.sa.en.standard.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_standard",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "standard"
+    },
+    {
+      "definition": "A wrong result or a report of a fault.",
+      "dictionaryId": "lex.sa.en.error.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_error",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "error"
+    },
+    {
+      "definition": "An illustration, or a numerical value.",
+      "dictionaryId": "lex.sa.en.figure.noun",
+      "example": "Use this when the title names one figure.",
+      "fieldId": "physics",
+      "id": "si_figure",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "figure"
+    },
+    {
+      "definition": "The card or phone screen that lets you board the aircraft. It carries your name, the flight, the gate, the seat and the boarding time.",
+      "dictionaryId": "lex.sa.travel.boarding_pass",
+      "example": "Show your boarding pass at the gate and find your seat.",
+      "fieldId": "travel",
+      "id": "boarding_pass",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Boarding pass"
+    },
+    {
+      "definition": "The secure part of the airport where you wait for a connecting flight. You cannot leave it without a new ticket.",
+      "dictionaryId": "lex.sa.travel.transit_area",
+      "example": "My flight is delayed, so I am stuck in the transit area.",
+      "fieldId": "travel",
+      "id": "transit_area",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Transit area"
+    },
+    {
+      "definition": "The door onto the aircraft, identified by a letter and a number, for example B22. It is assigned late and can change.",
+      "dictionaryId": "lex.sa.travel.departure_gate",
+      "example": "My gate has changed from B22 to C4.",
+      "fieldId": "travel",
+      "id": "departure_gate",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Departure gate"
+    },
+    {
+      "definition": "The area where the belt for your flight delivers your suitcase. The belt number is shown on the screens above it.",
+      "dictionaryId": "lex.sa.travel.baggage_claim",
+      "example": "Your bag is on belt 7, and it has been there for ten minutes.",
+      "fieldId": "travel",
+      "id": "baggage_claim",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Baggage claim"
+    },
+    {
+      "definition": "A connection between two flights at the same airport, without going through the city in between.",
+      "dictionaryId": "lex.sa.travel.transfer",
+      "example": "I have a two-hour transfer in Singapore.",
+      "fieldId": "travel",
+      "id": "transfer",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Transfer"
+    },
+    {
+      "definition": "The checkpoint where bags and people are checked before entering the secure part of the airport.",
+      "dictionaryId": "lex.sa.travel.security_screening",
+      "example": "Security screening starts at the end of this corridor.",
+      "fieldId": "travel",
+      "id": "security_screening",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Security screening"
+    },
+    {
+      "definition": "The rule limiting containers of liquid in hand baggage, usually to 100 ml each in a clear bag.",
+      "dictionaryId": "lex.sa.travel.liquids_rule",
+      "example": "My bottle is 500 ml, so I have to empty it before screening.",
+      "fieldId": "travel",
+      "id": "liquids_rule",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Liquids rule"
+    },
+    {
+      "definition": "The border desk where an officer checks your passport and your right to enter or leave the country.",
+      "dictionaryId": "lex.sa.travel.passport_control",
+      "example": "Passport control is straight ahead, and baggage claim is on the left.",
+      "fieldId": "travel",
+      "id": "passport_control",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Passport control"
+    }
+  ],
+  "nextCursor": "760",
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

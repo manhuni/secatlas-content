@@ -1,0 +1,1168 @@
+{
+  "records": {
+    "f1104a6bd8cc56ce34f21110d38c06cdf118ca0809ee674852540d79b46c78a9": [
+      {
+        "forms": [
+          "Rear washer",
+          "rear_washer"
+        ],
+        "id": "lex.sa.en.rear.washer",
+        "kind": "lexeme",
+        "lemma": "Rear washer",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.rear.washer.alt"
+        ]
+      },
+      {
+        "definition": "Washer fluid is being sprayed on the rear window. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "Washer fluid is being sprayed on the rear window.",
+        "id": "sns.sa.en.rear.washer.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.rear.washer",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "f12fde684b2ed4c627b777a0d2346ef769ccdd9f3e4ad3dab5cf663ba9598d0f": [
+      {
+        "forms": [
+          "cancel",
+          "cancels",
+          "canceled",
+          "cancelled",
+          "canceling",
+          "cancelling"
+        ],
+        "id": "lex.sa.en.cancel.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "cancel",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.cancel.verb",
+          "prn.sa.en.cancel.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.cancel.verb.1",
+          "sns.sa.en.cancel-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.cancel-verb",
+        "id": "prn.sa.en.cancel.verb",
+        "ipa": "/ˈkænsl/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.cancel.verb.us",
+        "ipa": "/ˈkæn.səl/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Loại hạng tử giống nhau ở hai vế hoặc tử và mẫu.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.cancel.verb.1.1",
+          "exm.sa.en.cancel-verb.more.01",
+          "exm.sa.en.cancel-verb.more.02"
+        ],
+        "gloss": "rút gọn; triệt tiêu",
+        "id": "sns.sa.vi.cancel.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.cancel.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.cancel-verb",
+          "res.sa.aud.cancel-verb",
+          "res.sa.lnk.cancel-verb",
+          "res.sa.vid.cancel-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Informal for divide both sides by the same factor. Prefer the precise verb.",
+        "exampleIds": [
+          "exm.sa.en.cancel.verb.1.1"
+        ],
+        "gloss": "Informal for divide both sides by the same factor. Prefer the precise verb.",
+        "id": "sns.sa.en.cancel-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.cancel.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.cancel.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The +3 and −3 cancel on the left side.",
+        "translation": "+3 và −3 triệt tiêu ở vế trái.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.cancel.verb.1",
+        "id": "lnk.sa.en.glossary.067",
+        "kind": "relation",
+        "toId": "sns.sa.vi.subtract.verb.1",
+        "type": "related_to"
+      }
+    ],
+    "f1537d8de0bbe107268e2b4263ae6753d2de8a56cb6463b92d7df109079aad51": [
+      {
+        "forms": [
+          "go",
+          "goes",
+          "went",
+          "gone",
+          "going"
+        ],
+        "id": "lex.sa.en.go.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "go",
+        "morphology": {
+          "irregular": true,
+          "tense": {
+            "past": "went",
+            "pastParticiple": "gone"
+          }
+        },
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.go.verb.gb",
+          "prn.sa.en.go.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.go.verb.move",
+          "sns.sa.en.go-verb.alt"
+        ]
+      },
+      {
+        "definition": "Di chuyển khỏi vị trí hiện tại.",
+        "exampleIds": [
+          "exm.sa.en.go-verb.more.01",
+          "exm.sa.en.go-verb.more.02"
+        ],
+        "gloss": "đi",
+        "id": "sns.sa.en.go.verb.move",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.go.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.go-verb",
+          "res.sa.aud.go-verb",
+          "res.sa.lnk.go-verb",
+          "res.sa.vid.go-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To move or travel from one place to another.",
+        "gloss": "To move or travel from one place to another.",
+        "id": "sns.sa.en.go-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.go.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.go.verb.gb",
+        "ipa": "/ɡəʊ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.go.verb.us",
+        "ipa": "/ɡoʊ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      }
+    ],
+    "f15457883f4f409a2191d5e8b3fdf9ae6a1174a135ec35a8baab35817057f64b": [
+      {
+        "forms": [
+          "Hallucination",
+          "aiw_hallucination"
+        ],
+        "id": "lex.sa.technology.aiw_hallucination",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hallucination",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.aiw_hallucination.alt",
+          "sns.sa.technology.aiw_hallucination.alt.ja",
+          "sns.sa.technology.aiw_hallucination.alt.ko",
+          "sns.sa.technology.aiw_hallucination.alt.pt_br",
+          "sns.sa.technology.aiw_hallucination.alt.id",
+          "sns.sa.technology.aiw_hallucination.alt.th",
+          "sns.sa.technology.aiw_hallucination.alt.tr"
+        ]
+      },
+      {
+        "definition": "A fluent, confident answer that is not true. The model produced a likely-looking continuation instead of a fact.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_hallucination.1.1"
+        ],
+        "gloss": "A fluent, confident answer that is not true. The model produced a likely-looking continuation instead of a fact.",
+        "id": "sns.sa.technology.aiw_hallucination.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.aiw_hallucination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "言語モデルが、事実ではなく統計的にありそうな文章を生成して而产生的、Creation details。引用や論文名 即使 appears to be real that does not exist.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_hallucination.1.1.ja"
+        ],
+        "gloss": "真実ではないのに、自信満々にivu生成的された答え。",
+        "id": "sns.sa.technology.aiw_hallucination.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.aiw_hallucination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "모순이나 존재하지 않는 정보를 그럴듯하게 제시하는 현상입니다. 문장이 매끄럽거나 논리적으로 들려도 사실로 확인되지 않을 수 있습니다.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_hallucination.1.1.ko"
+        ],
+        "gloss": "인공지능 모델이 사실이 아닌 내용을 확신에 차서 답하는 현상입니다.",
+        "id": "sns.sa.technology.aiw_hallucination.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.aiw_hallucination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É uma informação inventada pelo modelo e apresentada com confiança, muitas vezes com detalhes plausíveis. Uma resposta fluent, convincente e incorreta ainda assim é uma alucinação.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_hallucination.1.1.pt_br"
+        ],
+        "gloss": "Alucinação é uma resposta segura e bem formulada, mas falsa.",
+        "id": "sns.sa.technology.aiw_hallucination.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.aiw_hallucination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Halusinasi terjadi ketika model menghasilkan kelanjutan yang tampak masuk akal meskipun tidak didukung fakta. Jawabanexecute tersebut dapat|Referensi yang terlihat meyakinkan dan palsu.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_hallucination.1.1.id"
+        ],
+        "gloss": "Halusinasi adalah jawaban yang lancar dan yakin, tetapi tidak benar.",
+        "id": "sns.sa.technology.aiw_hallucination.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.aiw_hallucination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คำตอบที่โมเดลสร้างขึ้นอย่างมั่นใจแต่ไม่ได้มีนัยตามความจริง โดยอาจเป็นการต่อข้อความที่ดูสมเหตุสมผลแทนการอ้างอิงข้อเท็จจริง ความลื่นไหลและน้ำเสียงหนักแน่นจึงไม่ได้เป็นหลักฐานว่าถูกต้อง",
+        "exampleIds": [
+          "exm.sa.technology.aiw_hallucination.1.1.th"
+        ],
+        "gloss": "คำตอบที่ดูน่าเชื่อถือแต่ไม่เป็นความจริง",
+        "id": "sns.sa.technology.aiw_hallucination.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.aiw_hallucination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Modelin gerçek bir bilgi yerine, doğru görünen bir devam ürettiği yanıttır. Yanıtın akıcı ve inandırıcı olması, doğru olduğunu göstermez.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_hallucination.1.1.tr"
+        ],
+        "gloss": "Gerçek olmayan fakat akıcı ve kendinden emin bir yanıttır.",
+        "id": "sns.sa.technology.aiw_hallucination.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.aiw_hallucination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.aiw_hallucination.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kaynakça kusursuzdu, ancak makale hiç var olmadı; bu bir halüsinasyondur.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.aiw_hallucination.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การอ้างอิงสมบูรณ์แบบและมีบทความที่ไม่มีอยู่จริง นั่นคือคำตอบที่โมเดลแต่งขึ้นมาเอง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.aiw_hallucination.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Referensinya tampak sempurna, tetapi makalah yang dikutip tidak pernah ada; itu adalah halusinasi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.aiw_hallucination.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A resposta parecia convincente, mas o artigo citado não existia; era uma alucinação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.aiw_hallucination.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "인용 형식은 완벽했는데 해당 논문이 존재하지 않았다면 그 답은 환각입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.aiw_hallucination.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "引用符は完璧に見えるが、その論文は存在しません。これはハルシネーションです。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.aiw_hallucination.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The citation was perfect and the paper does not exist. That is a hallucination.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "f169dba9000a54ce2368c1e6cdb770595a0f7f43f5247d74fe5256be70e5e19f": [
+      {
+        "forms": [
+          "postponement",
+          "mt_postponement"
+        ],
+        "id": "lex.sa.social.mt_postponement",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "postponement",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.mt_postponement.alt",
+          "sns.sa.social.mt_postponement.alt.ja",
+          "sns.sa.social.mt_postponement.alt.ko",
+          "sns.sa.social.mt_postponement.alt.pt_br",
+          "sns.sa.social.mt_postponement.alt.id",
+          "sns.sa.social.mt_postponement.alt.th",
+          "sns.sa.social.mt_postponement.alt.tr"
+        ]
+      },
+      {
+        "definition": "A planned event moved to a later date.",
+        "exampleIds": [
+          "exm.sa.social.mt_postponement.1.1"
+        ],
+        "gloss": "A planned event moved to a later date.",
+        "id": "sns.sa.social.mt_postponement.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.mt_postponement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "予定されていた行事や契約を後の日付に変更すること。延期と中止は異なる点で、延期では新しい日付が決まっている。",
+        "exampleIds": [
+          "exm.sa.social.mt_postponement.1.1.ja"
+        ],
+        "gloss": "予定されていた行事を後の日付に動かすこと。",
+        "id": "sns.sa.social.mt_postponement.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.mt_postponement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "계획된 행사나 활동의 날짜를 뒤로 미루는 것이다. 단순히 늦게 진행된다는 뜻이 아니라 원래 정해졌던 시기를 의도적으로 변경한 경우를 가리킨다.",
+        "exampleIds": [
+          "exm.sa.social.mt_postponement.1.1.ko"
+        ],
+        "gloss": "예정된 일을 나중으로 미루는 것.",
+        "id": "sns.sa.social.mt_postponement.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.mt_postponement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Adiamento de algo que estava marcado para uma data, seja um evento, uma reunião ou uma entrega. Diferente do cancelamento, a data apenas passa para mais tarde.",
+        "exampleIds": [
+          "exm.sa.social.mt_postponement.1.1.pt_br"
+        ],
+        "gloss": "Um evento planejado transferido para uma data posterior.",
+        "id": "sns.sa.social.mt_postponement.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.mt_postponement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Peristiwa yang telah direncanakan dipindahkan ke tanggal yang lebih akhir. Penundaan tidak selalu berarti dibatalkan.",
+        "exampleIds": [
+          "exm.sa.social.mt_postponement.1.1.id"
+        ],
+        "gloss": "Penundaan suatu acara.",
+        "id": "sns.sa.social.mt_postponement.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.mt_postponement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การเลื่อนกำหนดการของงานหรือกิจกรรมที่วางไว้ไปเป็นเวลาภายหลัง คำนี้ใช้เมื่อการเลื่อนเป็นเรื่องที่ตั้งใจหรือมีเหตุผล ไม่ใช่เพียงการทำงานล่าช้า",
+        "exampleIds": [
+          "exm.sa.social.mt_postponement.1.1.th"
+        ],
+        "gloss": "การเลื่อนงานหรือกิจกรรมที่ตั้งกำหนดไว้ไปเป็นเวลาภายหลัง",
+        "id": "sns.sa.social.mt_postponement.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.mt_postponement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sözleşme, toplantı, sınav ya da etkinlik gibi planlanmış bir şeyin bilinçli olarak ileri bir tarihe taşınmasıdır. İptalden farklıdır: olay yine de yapılacak, yalnızca zamanı değişmiştir.",
+        "exampleIds": [
+          "exm.sa.social.mt_postponement.1.1.tr"
+        ],
+        "gloss": "Planlanmış bir olayın daha sonraki bir tarihe kaldırılması.",
+        "id": "sns.sa.social.mt_postponement.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.mt_postponement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.mt_postponement.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ertelemenin bir nedeni vardı ve neden sözleşmeydi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.mt_postponement.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การเลื่อนกำหนดการมีเหตุผล เพราะสัญญายังไม่พร้อม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.mt_postponement.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Penundaan acara itu_reason ada, yaitu karena kontrak.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.mt_postponement.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O adiamento tinha um motivo, e o motivo era o contrato.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.mt_postponement.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "연기에는 이유가 있었고, 그 이유는 계약 때문이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.mt_postponement.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "契約上の理由で行事の延期が決定されました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.mt_postponement.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The postponement had a reason, and the reason was the contract.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "f176a29d481d9e342be1b5ad1cde6e8c21673f810f842cd8ce8c1d32b334f267": [
+      {
+        "forms": [
+          "Take offline",
+          "take_offline"
+        ],
+        "id": "lex.sa.work.take_offline",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Take offline",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.take_offline.alt",
+          "sns.sa.work.take_offline.alt.ja",
+          "sns.sa.work.take_offline.alt.ko",
+          "sns.sa.work.take_offline.alt.pt_br",
+          "sns.sa.work.take_offline.alt.id",
+          "sns.sa.work.take_offline.alt.th",
+          "sns.sa.work.take_offline.alt.tr"
+        ]
+      },
+      {
+        "definition": "To move a discussion out of the meeting into a smaller group.",
+        "exampleIds": [
+          "exm.sa.work.take_offline.1.1"
+        ],
+        "gloss": "To move a discussion out of the meeting into a smaller group.",
+        "id": "sns.sa.work.take_offline.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.take_offline",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "全員で検討する必要がない議題について、議論を会議外の小集団へ移すことをいう。別の場所で詳しく話し合う意味でも使う。",
+        "exampleIds": [
+          "exm.sa.work.take_offline.1.1.ja"
+        ],
+        "gloss": "会議中の議論を少数の参加者だけの協議へ移すこと。",
+        "id": "sns.sa.work.take_offline.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.take_offline",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "회의 중 다루기 어려운 주제를 떼어 내어 따로 논의하는 것을 뜻한다. 인터넷이나 장비의 연결을 끊는다는 뜻은 아니다.",
+        "exampleIds": [
+          "exm.sa.work.take_offline.1.1.ko"
+        ],
+        "gloss": "회의 중의 논의를 소수의 사람끼리 별도로 이어 가는 것.",
+        "id": "sns.sa.work.take_offline.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.take_offline",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Continuar uma discussão em particular ou em um grupo menor após retirá-la da reunião.",
+        "exampleIds": [
+          "exm.sa.work.take_offline.1.1.pt_br"
+        ],
+        "gloss": "Mover uma discussão da reunião para um grupo menor.",
+        "id": "sns.sa.work.take_offline.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.take_offline",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Memindahkan pembahasan dari rapat ke percakapan dengan kelompok yang lebih kecil, biasanya agar urusan detail tidak mengganggu seluruh peserta rapat.",
+        "exampleIds": [
+          "exm.sa.work.take_offline.1.1.id"
+        ],
+        "gloss": "Memindahkan pembahasan keluar dari rapat ke kelompok yang lebih kecil.",
+        "id": "sns.sa.work.take_offline.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.take_offline",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ใช้เมื่อต้องการพูดคุยเรื่องที่ควรละเอียดหรือเร่งด่วนต่อกันเป็นการส่วนตัว โดยไม่จำเป็นต้องเป็นเรื่องลับ",
+        "exampleIds": [
+          "exm.sa.work.take_offline.1.1.th"
+        ],
+        "gloss": "การย้ายการหารือออกจากที่ประชุมไปพูดคุยกันกลุ่มเล็ก ๆ",
+        "id": "sns.sa.work.take_offline.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.take_offline",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Toplantıda kalan bir tartışmayı ayırarak daha küçük bir grupta ele almak; konuşmanın bütün toplantıyı meşgul etmesini önlemek için kullanılır.",
+        "exampleIds": [
+          "exm.sa.work.take_offline.1.1.tr"
+        ],
+        "gloss": "Toplantıda kalan bir tartışmanın daha küçük bir grupta ele alındığı görüşme.",
+        "id": "sns.sa.work.take_offline.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.take_offline",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.take_offline.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us take this offline and I will send you the figures.",
+        "translation": "Bu konuyu çevrimdışı ele alalım; size gerekli sayıları göndereyim.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.take_offline.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us take this offline and I will send you the figures.",
+        "translation": "ขอย้ายเรื่องนี้ไปคุยต่อในกลุ่มเล็ก ๆ แล้วฉันจะส่งตัวเลขให้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.take_offline.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us take this offline and I will send you the figures.",
+        "translation": "Mari bawa pembahasan ini ke luar rapat, dan saya akan mengirim angka-angkanya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.take_offline.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us take this offline and I will send you the figures.",
+        "translation": "Vamos tratar disso fora da reunião e eu enviarei os números para você.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.take_offline.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us take this offline and I will send you the figures.",
+        "translation": "이 문제는 회의에서 다루기 어려우니 별도로 논의하겠습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.take_offline.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us take this offline and I will send you the figures.",
+        "translation": "この議題は、いったんオフラインで協議しましょう。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.take_offline.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us take this offline and I will send you the figures.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "f1b4cab5d413e739eeedfe6103346285a614e271b968f57a3f71fa7633ff33af": [
+      {
+        "forms": [
+          "Audience",
+          "dual_audience"
+        ],
+        "id": "lex.sa.mind.dual_audience",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Audience",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.dual_audience.alt",
+          "sns.sa.mind.dual_audience.alt.ja",
+          "sns.sa.mind.dual_audience.alt.ko",
+          "sns.sa.mind.dual_audience.alt.pt_br",
+          "sns.sa.mind.dual_audience.alt.id",
+          "sns.sa.mind.dual_audience.alt.th",
+          "sns.sa.mind.dual_audience.alt.tr"
+        ]
+      },
+      {
+        "definition": "The people who are present and watching when you act.",
+        "exampleIds": [
+          "exm.sa.mind.dual_audience.1.1"
+        ],
+        "gloss": "The people who are present and watching when you act.",
+        "id": "sns.sa.mind.dual_audience.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.dual_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある場に出席して、あなたの発言や行為を聞いている・見ている人々のこと。抽象的な「Adaptation /Control 'public'」ではなく、その場にいる具体 rara なcoworkersや観客を指す。",
+        "exampleIds": [
+          "exm.sa.mind.dual_audience.1.1.ja"
+        ],
+        "gloss": "あなたが行為をする場合に、そこに居て見ている人々。",
+        "id": "sns.sa.mind.dual_audience.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.dual_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "행위나 공연을 바라보며 지켜보는 사람들. 말하거나 행동하는 장소에 함께 있는 청중이나 관객을 가리킨다.",
+        "exampleIds": [
+          "exm.sa.mind.dual_audience.1.1.ko"
+        ],
+        "gloss": "행위나 공연을 지켜보는 사람들.",
+        "id": "sns.sa.mind.dual_audience.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.dual_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O conjunto de pessoas que presenceia e acompanha uma ação, apresentação ou desempenho. O termo também pode indicar o público de uma obra ou evento.",
+        "exampleIds": [
+          "exm.sa.mind.dual_audience.1.1.pt_br"
+        ],
+        "gloss": "As pessoas que estão presentes e observam uma ação.",
+        "id": "sns.sa.mind.dual_audience.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.dual_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "...",
+        "exampleIds": [
+          "exm.sa.mind.dual_audience.1.1.id"
+        ],
+        "gloss": "Orang-orang yang hadir dan Physician...",
+        "id": "sns.sa.mind.dual_audience.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.dual_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กลุ่มคนที่กำลังอยู่ตรงนั้นและเป็นผู้เห็นหรือรับรู้การกระทำ อาจหมายถึงผู้ฟัง ผู้ชม หรือผู้ที่ได้รับผลจากการกระทำนั้น",
+        "exampleIds": [
+          "exm.sa.mind.dual_audience.1.1.th"
+        ],
+        "gloss": "ผู้ชมที่อยู่และกำลังมองการกระทำของเรา",
+        "id": "sns.sa.mind.dual_audience.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.dual_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişi eylemde bulunduğunda yanında bulunan ve onu izleyen kişiler; bu kişilerin varlığı kişinin davranışını etkileyebilir.",
+        "exampleIds": [
+          "exm.sa.mind.dual_audience.1.1.tr"
+        ],
+        "gloss": "Bir kişinin eylemini izleyen ve yanında bulunan insanlar.",
+        "id": "sns.sa.mind.dual_audience.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.dual_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.dual_audience.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Müşteri odadaydı ve yanında bulunan izleyiciler onun ne söylediğini değiştirdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.dual_audience.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เมื่อมีลูกค้าอยู่ในห้อง ผู้ฟังก็ทำให้เขาพูดต่างไปจากเดิม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.dual_audience.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "...",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.dual_audience.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Com o cliente na sala, a presença dele mudou o que ele disse.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.dual_audience.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "고객이 함께하자 그는 말하는 방식이 바뀌었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.dual_audience.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "客が同席していたので、前の発言は Changed なものになった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.dual_audience.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "With the customer in the room, the audience changed what he said.",
+        "translation": "Khi khách hàng có mặt trong phòng, khán giả đã thay đổi điều ông nói.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "f1ddefdccb80ed8d02e9bc92a32984f4dc6fa1324075f537307bb6d89d7cc840": [
+      {
+        "forms": [
+          "Teddy bear",
+          "teddy_bear"
+        ],
+        "id": "lex.sa.kids_home.teddy_bear",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Teddy bear",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_home.teddy_bear.alt",
+          "sns.sa.kids_home.teddy_bear.alt.ja",
+          "sns.sa.kids_home.teddy_bear.alt.ko",
+          "sns.sa.kids_home.teddy_bear.alt.pt_br",
+          "sns.sa.kids_home.teddy_bear.alt.id",
+          "sns.sa.kids_home.teddy_bear.alt.th",
+          "sns.sa.kids_home.teddy_bear.alt.tr"
+        ]
+      },
+      {
+        "definition": "A soft toy with fur. Many children hug it or sleep with it.",
+        "exampleIds": [
+          "exm.sa.kids_home.teddy_bear.1.1"
+        ],
+        "gloss": "A soft toy with fur. Many children hug it or sleep with it.",
+        "id": "sns.sa.kids_home.teddy_bear.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_home.teddy_bear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "毛並みの_playfulnessがあり、子どもが抱きしめたり、抱えて寝たりするぬいぐるみ。",
+        "exampleIds": [
+          "exm.sa.kids_home.teddy_bear.1.1.ja"
+        ],
+        "gloss": "毛でできた、やわらかい人形。",
+        "id": "sns.sa.kids_home.teddy_bear.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_home.teddy_bear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "부드러운 털로 덮인 장난감 곰으로, 아이들이 안거나 잠잘 때 곁에 두는 경우가 많다.",
+        "exampleIds": [
+          "exm.sa.kids_home.teddy_bear.1.1.ko"
+        ],
+        "gloss": "털로 된 부드러운 장난감 곰이다.",
+        "id": "sns.sa.kids_home.teddy_bear.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_home.teddy_bear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Brinquedo de pelúcia macio, com formato parecido com um ursinho. Muitas crianças o abraçam ou dormem com ele.",
+        "exampleIds": [
+          "exm.sa.kids_home.teddy_bear.1.1.pt_br"
+        ],
+        "gloss": "Brinquedo macio com pelo, que muitas crianças abraçam ou levam para dormir.",
+        "id": "sns.sa.kids_home.teddy_bear.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_home.teddy_bear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Boneka yang lembut dan berbulu, sering digunakan sebagai teman main atau объекта дитя.",
+        "exampleIds": [
+          "exm.sa.kids_home.teddy_bear.1.1.id"
+        ],
+        "gloss": "Boneka lembut berbulu yang sering dipeluk atau dipegang anak.",
+        "id": "sns.sa.kids_home.teddy_bear.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_home.teddy_bear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ของเล่นนุ่มรูปหมีที่มีขน มักมีขนาดเล็กและใช้กอดหรือนอนด้วยเมื่อเข้านอน",
+        "exampleIds": [
+          "exm.sa.kids_home.teddy_bear.1.1.th"
+        ],
+        "gloss": "ตุ๊กตี้นุ่มรูปหมีที่เด็ก ๆ ชอบกอด",
+        "id": "sns.sa.kids_home.teddy_bear.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_home.teddy_bear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çoğu çocuğun sarılıp uyurken yanında tuttuğu, kürkü olan yumuşak bir oyuncaktır.",
+        "exampleIds": [
+          "exm.sa.kids_home.teddy_bear.1.1.tr"
+        ],
+        "gloss": "Kürkü olan yumuşak oyuncak; çocuklar genellikle sarılır veya uyurken yanlarında tutarlar.",
+        "id": "sns.sa.kids_home.teddy_bear.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_home.teddy_bear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_home.teddy_bear.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My teddy bear sleeps on my pillow.",
+        "translation": "Ayıçığım benim yastığımda uyuyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_home.teddy_bear.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My teddy bear sleeps on my pillow.",
+        "translation": "ตุ๊กตี้หมอนของฉันชอบนอนกอดตอนนอน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_home.teddy_bear.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My teddy bear sleeps on my pillow.",
+        "translation": "Boneka beruangku tidur di atas bantal.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_home.teddy_bear.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My teddy bear sleeps on my pillow.",
+        "translation": "Meu ursinho de pelúcia dorme no meu travesseiro.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_home.teddy_bear.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My teddy bear sleeps on my pillow.",
+        "translation": "내 곰 인형은 베개 위에서 자고 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_home.teddy_bear.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My teddy bear sleeps on my pillow.",
+        "translation": "大きいの teddy bearは枕元的hhhOutputs?",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_home.teddy_bear.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My teddy bear sleeps on my pillow.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "f1e53b902d342070d2517c1fdfd5d14e1c615d0754ec92d8a3bbe3d3c4c291f5": [
+      {
+        "forms": [
+          "bank",
+          "banks",
+          "banked",
+          "banking"
+        ],
+        "id": "lex.sa.en.bank.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "bank",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.bank.us",
+          "prn.sa.en.bank.verb.gb"
+        ],
+        "senseIds": [
+          "sns.sa.en.bank.verb.tilt",
+          "sns.sa.en.bank-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.audio.bank.us",
+        "id": "prn.sa.en.bank.us",
+        "ipa": "/bæŋk/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.bank.verb.gb",
+        "ipa": "/bæŋk/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Nghiêng một phía khi đổi hướng.",
+        "domain": [
+          "aviation"
+        ],
+        "exampleIds": [
+          "exm.sa.en.bank-verb.more.01",
+          "exm.sa.en.bank-verb.more.02"
+        ],
+        "gloss": "nghiêng (máy bay)",
+        "id": "sns.sa.en.bank.verb.tilt",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.bank.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.bank-verb",
+          "res.sa.aud.bank-verb",
+          "res.sa.lnk.bank-verb",
+          "res.sa.vid.bank-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To tilt a vehicle or aircraft so that it leans or turns.",
+        "gloss": "To tilt a vehicle or aircraft so that it leans or turns.",
+        "id": "sns.sa.en.bank-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.bank.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "res.sa.audio.bank.us",
+        "kind": "resource",
+        "offlinePolicy": "required",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://f19fa5874925de439821202ae90d0c3ea0e065f96fe2457aa731292505f45159",
+            "mime": "audio/wav"
+          }
+        ],
+        "title": "bank /bæŋk/ US",
+        "type": "audio"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

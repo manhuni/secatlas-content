@@ -1,0 +1,160 @@
+{
+  "language": "tr",
+  "lessonId": "article_how_ai_works",
+  "objectives": [
+    "Bir dil modelinin ne olduğunu ve ne olmadığını açıklayın.",
+    "Parametreleri ayarlamaktan metin toplamaya kadar eğitim döngüsünü tanımlayın.",
+    "Bir mesaj gönderme ile yanıt alma arasında ne olduğunu açıklayın.",
+    "Alanın sözcüklerini doğru kullanın: token, training data, parameters, inference, context window, prompt, hallucination.",
+    "Akıcı bir cevabın neden hâlâ yanlış olabileceğini açıklayın.",
+    "Hangi işi modele vermek ve hangi işi elde tutmak gerektiğini değerlendirin.",
+    "Bir çıktıya güvenmeden önce sayıları, kaynakları ve eksikleri kontrol edin."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Bir dil modeli, metin devam ettirmek üzere eğitilmiş bir programdır. Makinenin düzeyinde, görevi tam olarak budur. Yanıtların veritabanı değildir. Şirketiniz, makineniz veya dünkü toplantınız hakkında olgular listesi tutmaz; sizin metninizden almadığı bir olguyu size verdiğinde, bu olguyu bir kayıttan değil, bir örüntüden üretmiştir.\n\nModelin sahip olduğu şey, hangi metin parçalarının hangi başka metin parçalarını izleme eğiliminde olduğunu betimleyen, çok büyük miktarda metinden öğrenilmiş çok büyük bir sayı kümesidir. “The pump” ifadesinin genellikle basınç veya akışla ilgili bir sözcükten sonra geldiğini öğrenmiştir. Bir kılavuzun, bir şikâyetin, bir kod açıklamasının veya birimle birlikte sayı olarak yazılmış bir güvenlik sınırının biçimini öğrenmiştir. “Model” sözcüğü, başka bir şeyin yerine geçmek üzere inşa edilmiş şey anlamına gelir: ölçek modeli bir geminin yerine geçer, hava durumu modeli hava durumunun yerine geçer. Bir dil modeli de dilin kendisinin yerine geçer.\n\nModelin sınırları da buradan gelir. Modelin deneyimi ve öz-farkındalığı yoktur. Bilinçli değildir ve içindeki hiçbir şey, söylediğini bir kişinin anladığı biçimde anlamaz. Makinenizi, müşterinizi veya sitenizi hiç görmemiştir; dünya hakkında söylediği her şey metinden gelir ve bu metnin bir kısmı eski, yanlış ya da yanıtta çıkarı olan bir kişi tarafından yazılmıştır. Uygulamadaki sonuç basittir. Bilen bir makineyle konuşmuyorsunuz. Metin tamamlayan bir makineyle konuşuyorsunuz ve bu yazının geri kalanındaki her nokta, bu tek farktan doğar.",
+      "examples": [
+        "Yanıtların veritabanı değildir; sıradakinin ne olacağına dair eğilimler kümesidir.",
+        "Model cümleyi bir olguyu kontrol ettiği için değil, o devamın olası olduğu için tamamladı.",
+        "Modelin içinde makinemizi bilen hiçbir şey yoktur; bize onun hakkında söylediği her şey, verdiğim metinden geldi."
+      ],
+      "heading": "Bir dil modeli nedir ve ne değildir"
+    },
+    {
+      "body": "Eğitim, modeli hiç görmeden önce bir kez yapılır ve pahalıdır. Çok büyük bir miktar metin üzerinde çalışır; bu metin kitaplardan, makalelerden, web sitelerinden, koddan ve transkriptlerden toplanır. Ham metin önce token'lara, yani modelin okuyup yazdığı parçalara bölünür. Model harfleri okumaz.\n\nArdından döngü başlar ve aynı döngü, milyarlarca metin parçası üzerinde milyonlarca kez tekrarlanır. Modele bir token dizisi gösterilir, sonraki token gizlenir. Model gizli token'ı tahmin eder. Tahminini gerçek olanla karşılaştırır ve hatayı tek bir sayı olarak ölçer. Sonra her parametreyi, hatayı daha küçük kılacak yönde hafifçe ayarlar. Bir sonraki diziye geçer.\n\nParametreler, makinenin öğrenilmiş kısmıdır: eğilimleri tutan çok büyük bir ağırlık sayısı. Ad, \"measure\" sözcüğüyle aynı kökten gelir. Her ağırlık, bir örüntünün başka bir örüntünün olasılığını ne kadar yükseltmesi veya düşürmesi gerektiğini söyler.\n\nBu çalışmayı mümkün kılan tasarım, transformer'ı tanıtan 2017 tarihli \"Attention Hep Seninle\" makalesinden çıktı. Transformer, bugün çoğu modelin kullandığı katman düzenidir. Merkez fikri attention'dır: her token çevresindeki token'lara bakar ve tahmin için hangilerinin önemli olduğunu belirler. Size yanıt veren model, içindeki parametrelerle birlikte bunun birçok katmanıdır.\n\nAklınızda tutmaya değer bir nokta var. Modeli kullandığınızda hiçbir şey öğrenilmez. Parametreler sabittir. Aldığınız her yanıt, aynı eğitilmiş modelin kendi metniniz üzerinde ileri yönde çalıştırılmasıdır.",
+      "examples": [
+        "Eğitim bir döngüdür: sonraki token'ı tahmin et, hatayı ölç, ağırlıkları ayarla, yeniden başla.",
+        "Enter'a bastığımda kimse modeli eğitmez. Ağırlıklar çoktan sabitlenmişti."
+      ],
+      "heading": "Bir model nasıl eğitilir",
+      "steps": [
+        "Çok büyük bir miktar metin topla: kitaplar, makaleler, web siteleri, kod ve transkriptler.",
+        "Metni, modelin okuduğu parçalar olan token'lara böl.",
+        "Modele bir token dizisi göster ve sonraki token'ı gizle.",
+        "Modelden gizli token'ı tahmin etmesini iste.",
+        "Hatanın büyüklüğünü ölç ve hatayı küçültmek için her parametreyi hafifçe ayarla.",
+        "Milyarlarca metin parçası üzerinde, hatalar faydalı olacak kadar küçülene kadar tekrarla."
+      ]
+    },
+    {
+      "body": "Mesajınız tokenlara ayrılır. Bu tokenlar, modelin tek seferde görebildiği alan olan bağlam penceresine; şimdiye kadarki konuşma, eklediğiniz belge ve hizmete verilen talimatlarla birlikte yerleştirilir. Model sonra tek bir şey yapar: sonraki tokeni tahmin eder. Olası sonraki tokenların olasılıklarını hesaplar, birini seçer ve onu yazar. Ardından o token eklenerek aynı işlemi yine yapar, yine yapar ve yeniden yapar. Yanıt her seferinde bir token eklenerek oluşturulur ve her yeni token, kendisinden önce gelen her şeyden seçilir.\n\nEğitilmiş bir modelin yeni metin üzerinde çalıştırılmasına çıkarım denir. Bu, eğitimin tam tersidir: parametreler değişmez ve sorunuzdan hiçbir şey öğrenilmez. Aldığınız her yanıt, bir çıkarım çalıştırmasıdır.\n\nHer token, olası adayların bulunduğu bir listeden seçildiği için aynı soru iki farklı yanıt alabilir. Çoğu hizmet, bu seçimde ne kadar rastgelelik kullanılacağını belirleyen bir denetim sunar. Düşük rastgelelik, aynı yanıı iki kez almanızı sağlar. Yüksek rastgelelik ise daha fazla çeşitlilik ve yanlış bir yöne sapma olasılığı sunar.\n\nModel, ne zaman duracağına da karar verir. Bir son belirteci üretir; ya da hizmet onu bir uzunluk sınırında durdurur; ya da yanıt, önce çalıştırılması gereken bir araç gerektirdiği için durur.\n\nAyrıca konuşmalar arasında bellek yoktur. Yeni bir sohbet hiçbir şeyle başlar; ancak hizmet, önceki sohbetin özetini en üste geri yapıştırırsa bu değişir. Bu bellek, modelin değil hizmetin tarafındaki bir veritabanında bulunur; model ikisinin farkını ayırt edemez.",
+      "examples": [
+        "Yanıt, her seferinde bir token eklenerek oluşturuldu ve her token kendinden öncekilere bağlıydı.",
+        "Ağırlıklar değişmedi; model yalnızca ileri doğru çalıştırıldı.",
+        "Aynı soruyu iki kez sorun ve iki farklı yanıt alabilirsiniz. İkisi de aynı parametrelerden geldi."
+      ],
+      "heading": "Enter'a bastığınızda ne olur?"
+    },
+    {
+      "body": "Bu yedi sözcük, alanın çalışma sözlüğüdür. Model belgelerinde, fiyatlandırma sayfalarında ve bu sistemleri geliştiren kişilerin konuşmalarında karşımıza çıkar.\n\nDördü makineyi ve onun çalıştığı iki aşamayı tanımlar: **token**, **training data**, **parameters** ve **inference**. İkisi modele verdiğiniz şeyi tanımlar: **prompt** ve **context window**. Biri ise en çok çalışma zamanına mal olan hatayı adlandırır: **hallucination**.\n\nTraining, modeli kuran kişilerin yürüttüğü uzun ve pahalı aşamadır ve model size ulaşmadan önce sona erer. Inference ise her seferinde bir kez çalıştırılarak elde ettiğiniz yanıttır.\n\nYedi sözcüğün tamamı hakkında bir uyarı. Her biri bir mekanizmayı adlandırır; bir taahhütü değil. \"The model learned\" ifadesi, modelin istatistiksel bir eğilimi sakladığı anlamına gelir; modelin onu bildiği anlamına gelmez.",
+      "examples": [
+        "Tokens, modelin okuduğu birimlerdir; parameters ise modelin bunları öğrendiği sayılardır.",
+        "Training, onu kullanmadan önce bir kez gerçekleşti. Her aldığım yanıt inference'dır.",
+        "Eğer bir şey context window içinde değilse, model onu kullanamamış olurdu."
+      ],
+      "heading": "Alanın sözcükleri",
+      "terms": [
+        {
+          "example": "\"Pompa\" sözcüğü bir token olabilir; alışılmadık bir parça numarası ise üç token olabilir.",
+          "gloss": "Modelin tek bir birim olarak okuyup yazdığı metin parçası. Genellikle bir sözcük, bir sözcüğün parçası veya yaygın bir simgedir."
+        },
+        {
+          "example": "Training data çoğunlukla English web sayfalarından oluşuyorsa, model English yanıtlarını en iyi verir.",
+          "gloss": "Modelin öğrendiği metin. Kapsamı ve kalitesi, modelin hangi konularda iyi olduğunu ve hiç görmediği şeyleri belirler."
+        },
+        {
+          "example": "Modelin milyarlarca parameters'ı vardır; bunların hiçbiri okunabilir bir cümle değildir.",
+          "gloss": "Modelin öğrendiklerini saklayan, modelin içindeki sayılar. Her biri, bir devamın olasılığını yükselten veya düşüren bir ağırlıktır."
+        },
+        {
+          "example": "Gönderdiğiniz her soru, tek bir inference çalıştırmasıdır.",
+          "gloss": "Eğitilmiş bir modelin yeni bir girdi üzerinde parameters'ı çalıştırarak yanıt ürettiği aşama."
+        },
+        {
+          "example": "Context window dolduğunda, belgenin ilk sayfası artık modelin önünde değildir.",
+          "gloss": "Modelin aynı anda kullanabildiği metin miktarı: mesajınız, o ana kadarki konuşma ve ekli belge."
+        },
+        {
+          "example": "Prompt toleransımızı hiç belirtmediği için yanıt yanlış toleransı kullandı.",
+          "gloss": "Modele gönderdiğiniz her şey: talimat, materyal ve soru. Modelin yanıt verirken kullandığı metne dönüşür."
+        },
+        {
+          "example": "Kaynak kusursuzdu, ancak makale hiç yoktu. Bu bir hallucination örneğidir.",
+          "gloss": "Doğru olmayan, akıcı ve kendinden emin bir yanıt. Model, bir gerçek bilgi yerine, olası görünen bir devam üretti."
+        }
+      ]
+    },
+    {
+      "body": "Model, gerçek metin değil, olası metin üretmek için eğitildi. Doğruluk modelin hedefi değildir. Model, bir sonraki tokenı iyi tahmin eden bir tahmincidir ve iyi bir tahmin yanlış olabilir.\n\nTamamlanmış bir yanıtın iki ayrı niteliği vardır: doğru gibi gelir ve doğrudur. Model ilkini bütünüyle denetler. İkincisini bilme şansı yoktur; çünkü neyin doğru olduğuna dair bir kaydı yoktur ve bir cümleyi hiçbir zaman kaynağıyla karşılaştırmaz.\n\nÜç yaygın neden. Olgu, modele verilen bağlamda yoktu; model boşluğu kalıptan doldurdu. Olgu nadirdir ve eğitim metni onu hiç içermemiş olabilir; dolayısıyla modelin kopyalayacağı bir şey yoktu. Ya da soru bir kaynak istedi ve model bir alıntının biçimini üretti: başlık, yazar, yıl; bunların tümü gerçek bir belgeden değil, alıntıların nasıl göründüğünden derlenmişti.\n\nBöyle bir yanıt doğru bir yanıtla aynı kesinlikle geldiğinde buna halüsinasyon denir. Adı, modelin kafasının karıştığı anlamına gelmez. Yanıtın altında dayanak bulunmadığı anlamına gelir. Bir halüsinasyon uydurulmuş bir sayı, uydurulmuş bir alıntı, uydurulmuş bir politika, uydurulmuş bir dosya ya da var olmayan bir sayfa olabilir.\n\nYanlışlığın ikinci bir türü daha vardır ve bu daha sessizdir. Yanıt doğrudur, ama başka bir şey hakkında doğrudur. Model, başka bir şirket, başka bir makine ya da başka bir standart hakkında tanıdık bir kalıbı tamamladı ve cümle doğruyken özne yanlıştı.\n\nBunların tümünden çıkan sonuç basittir. Kaynağından geldiği kaynakla karşılaştırıp doğrulayana kadar her olgusal iddiayı doğrulanmamış olarak değerlendirin. Akıcılık kanıt değildir. Bu, iddianın değil, yazının bir özelliğidir.",
+      "examples": [
+        "Cümle akıcıydı ama sayı yanlıştı. Akıcılık kanıt değildir.",
+        "Bana doğru görünen bir referans verdi; ancak makale mevcut değil.",
+        "Alıntıladığı politika gerçek bir politikadır; başka bir şirkete aittir."
+      ],
+      "heading": "Akıcı bir yanıt neden hâlâ yanlış olabilir?"
+    },
+    {
+      "body": "Aynı mekanizma bu tablonun iki yarısını da üretir ve aralarındaki fark şans değildir. Yeniden yazma, özetleme, taslak hazırlama ve çeviri, modelin iyi yaptığı işlerdir: eğitim metnine yakındırlar ve sonuç, ne kadar iyi okunduğuna göre değerlendirilir. Sayma, şirketinizi bilme ve dünkü konuşmayı hatırlama ise modelin kötü yaptığı işlerdir; bunlar, modelin sahip olmadığı bilgilere ya da araç olmadan yapamadığı aritmetiğe ihtiyaç duyar.\n\nKötü listeyi, sorumluluğunuzda kalacak işler olarak okuyun. Modele belgeyi verirseniz belgeyi özetleyebilir. Yanıt, kayıtlarınızdan bir sayıya bağlıysa, o sayı sizin işinizdir. İşin bir durumu varsa; yani nerede durduğu, neyin kararlaştırıldığı ve neyin hâlâ açık olduğu anlamına geliyorsa, bu durumu siz tutarsınız; çünkü model hiçbir şeyi saklamaz.\n\nİyi listede bir koşul vardır. Bunlar, yeterince iyi bir yanıtın yararlı olduğu ve okurun olgular yerine ifadeyi denetlediği işlerdir. Bir yanıt; para, zaman, tolerans veya güvenliği belirleyen bir sayı taşımak zorunda olduğu anda, yanıt ne kadar iyi görünürse görünsün kötü listeye girer.",
+      "examples": [
+        "Modele e-postayı taslak olarak hazırlatın, sonra siz gönderin. Modele süreci açıklatın, sonra dördüncü adımdaki sayıyı denetleyin.",
+        "Yanıtın kayıtlarımızdan bir sayıya ihtiyacı varsa, o denetim bizde kalır.",
+        "Modele gerçek metni veriyorum; çünkü yapıştırmayı unuttuğum metni uyduramaz."
+      ],
+      "heading": "Bir modelin neyi iyi, neyi kötü yaptığı",
+      "table": {
+        "headers": [
+          "It does this well",
+          "It does this badly"
+        ],
+        "rows": [
+          [
+            "Rewriting a text in another tone or length",
+            "Arithmetic in its head, without a calculator"
+          ],
+          [
+            "Summarising a document you gave it",
+            "Counting a long list and getting the total right"
+          ],
+          [
+            "Drafting the first version of an email",
+            "Knowing anything about your company"
+          ],
+          [
+            "Translating between languages",
+            "Remembering yesterday's conversation"
+          ],
+          [
+            "Explaining a standard procedure step by step",
+            "Telling whether the number on the page is the right one"
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Üç kontrol var ve insanların atladığı üçüncüsü. **Sayılar.** Para, zaman, tolerans veya güvenliği belirleyen her şeyi yeniden hesaplayın. Bir model, doğru bir sayı biçimine sahip ama arkasında hiçbir şey bulunmayan bir sayı üretebilir; kontrolü ise bir dakika sürer. **Kaynaklar.** Her referansı açın. Yanıt bir makaleyi, bir standardı veya bir web sayfasını atıfta bulunduruyorsa, açın ve yanıtın iddia ettiği şeyi söylediğini doğrulayın. Biçimi doğru ama arkasındaki belgesi yanlış olan bir atıf, tipik bir hatadır. **Boşluklar.** Modele ne verilmediğini sorun. Model sizin parça numaranızı, sözleşmenizi veya dünkü toplantınızı bilmez; bu nedenle bunlara bağlı olan her yanıtı kendiniz tamamlamanız gerekir. Üçünü de kapatan bir alışkanlık: modelden adımlarını göstermesini isteyin, sonra adımları modelin yazdığı cümleye karşı değil, güvendiğiniz bir kaynağa karşı kontrol edin.",
+      "examples": [
+        "Bana o sayının kaynağını verin, ben de kontrol edeyim.",
+        "Adımları gösterin ve emin olmadığınız kısmı işaretleyin.",
+        "Bunun hangi kısmı sizin elinizde yoktu? Ben onu sağlarım."
+      ],
+      "heading": "Çıktıya güvenmeden önce neyi kontrol etmelisiniz"
+    },
+    {
+      "body": "Bu cümleler, insanların kafasını karıştıran davranışı açıklar; bir meslektaşınızla, öğretmeninizle veya bir destek hattıyla kullanışlı olurlar. Oldukları gibi kullanın ve kendi durumunuza uyacak şekilde ayrıntıyı değiştirin.",
+      "examples": [
+        "Model bunu bilmiyordu. Metni, metnin genellikle devam ettiği şekilde tamamladı.",
+        "Yanıt akıcı ve doğrulanmamıştı; bu nedenle onu bir taslak olarak değerlendiriyorum.",
+        "Bir sonraki tokeni, sonraki token ise yanlış şekilde tahmin etti.",
+        "Eğitim tamamlandı. Baktığınız şey çıkarım işlemidir.",
+        "Sohbetler arasında bellek yoktur. Bağlam penceresi tüm bellektir.",
+        "Bana gerçek metni verin; hatırladığım şeyden yerine ondan çalışayım.",
+        "Adımları bana gösterin ve hangi kısımdan emin olmadığınızı söyleyin."
+      ],
+      "heading": "Yeniden kullanabileceğiniz cümleler"
+    }
+  ],
+  "summary": "Bir dil modeli cevapları aramaz. Çok miktardan metinden kalıplar öğrenir ve çalışma zamanında bir sonraki tokeni, her seferinde bir token olacak şekilde tahmin eder. Bunu okuduktan sonra bir modelin nasıl eğitildiğini, bağlam penceresinin neyi tuttuğunu, akıcı bir cevabın neden yanlış olabileceğini ve bir çıktıya iş ortamında güvenmeden önce neleri kontrol etmeniz gerektiğini açıklayabilirsiniz.",
+  "title": "Yapay Zekâ Aslında Nasıl Çalışır: Eğitim, Tahmin ve Sınırları"
+}

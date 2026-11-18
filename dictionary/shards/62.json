@@ -1,0 +1,1251 @@
+{
+  "records": {
+    "6201111b83a0cb5b0922cb37cc442b9a40e24e3b1ce100a4bb204f4c63fd2ac0": [
+      {
+        "forms": [
+          "and"
+        ],
+        "id": "lex.sa.en.and.conjunction",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "and",
+        "pos": "conjunction",
+        "senseIds": [
+          "sns.sa.vi.and.conjunction.1",
+          "sns.sa.en.and-conjunction.alt"
+        ]
+      },
+      {
+        "definition": "Từ nối hai từ, hai cụm từ hoặc hai mệnh đề.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "và",
+        "id": "sns.sa.vi.and.conjunction.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.and.conjunction",
+        "pos": "conjunction",
+        "revision": 1
+      },
+      {
+        "definition": "A word that joins two items.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "Joins words, phrases or clauses.",
+        "id": "sns.sa.en.and-conjunction.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.and.conjunction",
+        "pos": "conjunction",
+        "revision": 1
+      }
+    ],
+    "621306704b3c1b426474fab455c51bcb97a3cf86a3de48b223133cd94013f77a": [
+      {
+        "forms": [
+          "Airfoil",
+          "airfoil"
+        ],
+        "id": "lex.sa.kids_science.airfoil",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Airfoil",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.airfoil.alt",
+          "sns.sa.kids_science.airfoil.alt.ja",
+          "sns.sa.kids_science.airfoil.alt.ko",
+          "sns.sa.kids_science.airfoil.alt.pt_br",
+          "sns.sa.kids_science.airfoil.alt.id",
+          "sns.sa.kids_science.airfoil.alt.th",
+          "sns.sa.kids_science.airfoil.alt.tr"
+        ]
+      },
+      {
+        "definition": "The shape of a wing. The curved top and flat bottom help the air push the wing up.",
+        "exampleIds": [
+          "exm.sa.kids_science.airfoil.1.1"
+        ],
+        "gloss": "The shape of a wing. The curved top and flat bottom help the air push the wing up.",
+        "id": "sns.sa.kids_science.airfoil.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.airfoil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "翼の断面や形のこと。翼の上が湾曲し，下が平面になっていることで，空气が翼を上へ押さえ，揚力を生む。",
+        "exampleIds": [
+          "exm.sa.kids_science.airfoil.1.1.ja"
+        ],
+        "gloss": "翼の形。上の曲面と下の平面が，空気を押して翼をupぼる。",
+        "id": "sns.sa.kids_science.airfoil.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.airfoil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "비행체 날개의 단면 형태를 뜻한다. 윗면이 굽고 아랫면이 평평하면 공기 흐름의 차이로 인해 날개가 위로 떠는 힘이 생긴다.",
+        "exampleIds": [
+          "exm.sa.kids_science.airfoil.1.1.ko"
+        ],
+        "gloss": "비행체가 날개를 통해 공기를 받으며 생기는 힘의 원리를 설명하는 날개 단면.",
+        "id": "sns.sa.kids_science.airfoil.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.airfoil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Perfil de uma asa ou de um aeroplano, cujo formato influencia a maneira como o ar age sobre ele e contribui para sua sustentação.",
+        "exampleIds": [
+          "exm.sa.kids_science.airfoil.1.1.pt_br"
+        ],
+        "gloss": "Formato de uma asa, projetado para produzir sustentação no ar.",
+        "id": "sns.sa.kids_science.airfoil.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.airfoil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bentuk penampang sayap yang biasanya lebih melengkung di bagian atas dan lebih datar di bagian bawah. Perbedaan ini membantu udara menghasilkan gaya angkat.",
+        "exampleIds": [
+          "exm.sa.kids_science.airfoil.1.1.id"
+        ],
+        "gloss": "Bentuk penampang sayap yang membantu mendorong sayap ke atas.",
+        "id": "sns.sa.kids_science.airfoil.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.airfoil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "พื้นผิวรูปร่างของปีกเครื่องบิน ซึ่งมักมีด้านบนโค้งและด้านล่างค่อนข้างแบน อากาศไหลผ่านพื้นผิวนี้ทำให้เกิดแรงยกขึ้น",
+        "exampleIds": [
+          "exm.sa.kids_science.airfoil.1.1.th"
+        ],
+        "gloss": "รูปร่างของปีกเครื่องบินที่ช่วยให้เกิดแรงยก",
+        "id": "sns.sa.kids_science.airfoil.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.airfoil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kanadın üst yüzeyi genellikle kavisli, alt yüzeyi ise düzdür. Bu biçim, havanın hızını ve yönünü değiştirerek kaldırma kuvveti oluşturur.",
+        "exampleIds": [
+          "exm.sa.kids_science.airfoil.1.1.tr"
+        ],
+        "gloss": "Kanadın kesit biçimi; havanın kanadı yukarı kaldırmasını sağlayan şekil.",
+        "id": "sns.sa.kids_science.airfoil.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.airfoil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.airfoil.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A good airfoil makes lift with less speed.",
+        "translation": "Bu modelde iyi tasarlanmış bir kanat profili daha düşük hızda kalkış sağlıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.airfoil.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A good airfoil makes lift with less speed.",
+        "translation": "ปีกเครื่องบินที่มีรูปร่างเหมาะสมสามารถสร้างแรงยกได้ดีกว่าเมื่อใช้ความเร็วต่ำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.airfoil.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A good airfoil makes lift with less speed.",
+        "translation": "Bentuk sayap yang baik dapat menghasilkan gaya angkat pada kecepatan lebih rendah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.airfoil.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A good airfoil makes lift with less speed.",
+        "translation": "Um bom aerofólio gera sustentação mesmo em baixa velocidade.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.airfoil.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A good airfoil makes lift with less speed.",
+        "translation": "좋은 날개 단면은 더 낮은 속도로도 들어 올림력을 발생시킨다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.airfoil.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A good airfoil makes lift with less speed.",
+        "translation": "良い翼型なら，より低速でも揚力を得ることができる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.airfoil.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A good airfoil makes lift with less speed.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6220c9ec0e953bbc196f2e26d99cfafe3d63fc47923908936a36f3128084b12e": [
+      {
+        "forms": [
+          "Soft power"
+        ],
+        "id": "lex.sa.mind.soft_power",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Soft power",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.soft_power.en",
+          "sns.sa.mind.soft_power.vi"
+        ]
+      },
+      {
+        "definition": "Influence achieved through attraction and information rather than force or payment.",
+        "exampleIds": [],
+        "gloss": "Influence achieved through attraction and information rather than force or payment.",
+        "id": "sns.sa.mind.soft_power.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.soft_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Ảnh hưởng đạt được qua sức hút và thông tin thay vì lực lượng hay tiền bạc.",
+        "id": "sns.sa.mind.soft_power.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.soft_power",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "623210167553939c87ed8c5f2bfe0b3e0684e12c3a3dd2513613c4e67263b5a1": [
+      {
+        "forms": [
+          "Bill",
+          "bill"
+        ],
+        "id": "lex.sa.travel.bill",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Bill",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.bill.alt",
+          "sns.sa.travel.bill.alt.ja",
+          "sns.sa.travel.bill.alt.ko",
+          "sns.sa.travel.bill.alt.pt_br",
+          "sns.sa.travel.bill.alt.id",
+          "sns.sa.travel.bill.alt.th",
+          "sns.sa.travel.bill.alt.tr"
+        ]
+      },
+      {
+        "definition": "The list of what you ordered and what you owe. In America it is called the check.",
+        "exampleIds": [
+          "exm.sa.travel.bill.1.1"
+        ],
+        "gloss": "The list of what you ordered and what you owe. In America it is called the check.",
+        "id": "sns.sa.travel.bill.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.bill",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "注文した品物と、支払わなければならない金額の一覧です。アメリカではこれをチェック（check）と呼びます。",
+        "exampleIds": [
+          "exm.sa.travel.bill.1.1.ja"
+        ],
+        "gloss": "注文した内容と支払べき金額を示す明細。",
+        "id": "sns.sa.travel.bill.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.bill",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "음식점이나 호텔에서 주문한 항목과 payable 금액을 보여 주는 서류다. 미국에서는 보통 체크라고 부른다.",
+        "exampleIds": [
+          "exm.sa.travel.bill.1.1.ko"
+        ],
+        "gloss": "주문한 항목과 지불할 금액이 적힌 명세.",
+        "id": "sns.sa.travel.bill.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.bill",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Documento que apresenta os serviços ou produtos utilizados e o total devido, especialmente em restaurantes, hotéis e comércios.",
+        "exampleIds": [
+          "exm.sa.travel.bill.1.1.pt_br"
+        ],
+        "gloss": "A relação dos itens consumidos e do valor a pagar.",
+        "id": "sns.sa.travel.bill.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.bill",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rincian pesanan dan tagihan yang harus dibayar, terutama di restoran atau establishment. Istilah ini tidak selalu-merujuk pada тоже tagihan listrik.",
+        "exampleIds": [
+          "exm.sa.travel.bill.1.1.id"
+        ],
+        "gloss": "Daftar barang atau makanan yang dipesan beserta jumlah yang harus dibayar.",
+        "id": "sns.sa.travel.bill.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.bill",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ใบที่แสดงรายการสิ่งที่สั่งซื้อพร้อมยอดเงินที่ต้องชำระ เมื่อใช้กับร้านอาหารในอเมริกามักเรียกว่าเช็ค",
+        "exampleIds": [
+          "exm.sa.travel.bill.1.1.th"
+        ],
+        "gloss": "ใบแสดงรายการสิ่งที่สั่งซื้อและยอดเงินที่ต้องจ่าย",
+        "id": "sns.sa.travel.bill.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.bill",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Restoranda veya işletmede sipariş edilen ürünlerin ve ödenecek tutarın yer aldığı listeyi ifade eder. Amerika'da aynı belge için daha çok “hesap” denir.",
+        "exampleIds": [
+          "exm.sa.travel.bill.1.1.tr"
+        ],
+        "gloss": "Sipariş edilenler ile ödenecek tutarı gösteren listedir.",
+        "id": "sns.sa.travel.bill.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.bill",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.bill.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could we have the bill, please? Is service included?",
+        "translation": "Hesabı getirir misiniz? Hizmet bedeli dahil mi?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.bill.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could we have the bill, please? Is service included?",
+        "translation": "ขอบิลหน่อยได้ไหม ค่าบริการรวมอยู่ในนี้แล้วหรือยัง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.bill.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could we have the bill, please? Is service included?",
+        "translation": "Bisakah kami mendapat tagihan, ya? Apakah sudah termasuk biaya layanan?",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.bill.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could we have the bill, please? Is service included?",
+        "translation": "Poderia trazer a conta, por favor? O serviço está incluído?",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.bill.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could we have the bill, please? Is service included?",
+        "translation": "계산서 좀 주시겠어요? 서비스료도 포함되어 있나요?",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.bill.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could we have the bill, please? Is service included?",
+        "translation": "お会計をお願いします。サービス料は含まれていますか？",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.bill.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could we have the bill, please? Is service included?",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6247db0ce4bd7f0efc07867a299040f9ea773658030a259f4ded819eb5798e8f": [
+      {
+        "forms": [
+          "Manipulation",
+          "mia_manipulation"
+        ],
+        "id": "lex.sa.mind.mia_manipulation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Manipulation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mia_manipulation.alt",
+          "sns.sa.mind.mia_manipulation.alt.ja",
+          "sns.sa.mind.mia_manipulation.alt.ko",
+          "sns.sa.mind.mia_manipulation.alt.pt_br",
+          "sns.sa.mind.mia_manipulation.alt.th",
+          "sns.sa.mind.mia_manipulation.alt.tr",
+          "sns.sa.mind.mia_manipulation.alt.id"
+        ]
+      },
+      {
+        "definition": "The arranging of an exchange so that the ground under the claim moves and the claim is never tested.",
+        "exampleIds": [
+          "exm.sa.mind.mia_manipulation.1.1"
+        ],
+        "gloss": "The arranging of an exchange so that the ground under the claim moves and the claim is never tested.",
+        "id": "sns.sa.mind.mia_manipulation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mia_manipulation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "会話の組み立て方を操作し、主張の土台となる前提や条件をずらして、主張自体を検証させないこと。単なる強い意見の表明とは区別する。",
+        "exampleIds": [
+          "exm.sa.mind.mia_manipulation.1.1.ja"
+        ],
+        "gloss": "論点や前提を操作して主張を検証させなくする手法。",
+        "id": "sns.sa.mind.mia_manipulation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mia_manipulation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "질문의 초점을 옮기거나 정보를 감춰 상대방이 자신의 주장을 검토하지 못하게 만드는 논쟁 수법이다. 반박하기 어려운 상황으로 대화를 유도한다는 점이 문제이다.",
+        "exampleIds": [
+          "exm.sa.mind.mia_manipulation.1.1.ko"
+        ],
+        "gloss": "대화의 조건을 바꾸어 주장이 검증되지 않게 만드는 수법이다.",
+        "id": "sns.sa.mind.mia_manipulation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mia_manipulation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recurso que desvia a discussão e altera as bases do debate de modo que a afirmação inicial nunca seja submetida a um teste adequado.",
+        "exampleIds": [
+          "exm.sa.mind.mia_manipulation.1.1.pt_br"
+        ],
+        "gloss": "Deslocamento do debate para impedir que uma afirmação seja testada.",
+        "id": "sns.sa.mind.mia_manipulation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mia_manipulation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การจัดวางการสนทนาโดยเปลี่ยนประเด็นหรือเลื่อนพื้นฐานของข้อโต้แย้ง จนไม่ได้ตรวจสอบสิ่งที่อ้าง",
+        "exampleIds": [
+          "exm.sa.mind.mia_manipulation.1.1.th"
+        ],
+        "gloss": "การจัดการหรือบิดเบือนการสนทนาเพื่อหลบข้อโต้แย้ง",
+        "id": "sns.sa.mind.mia_manipulation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mia_manipulation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Soru veya konuşma akışı öyle düzenlenir ki iddia yerine başka bir konu ele alınır. Konu değiştirme, iddiyanın yanlış olduğunu kanıtlamış sayılmaz.",
+        "exampleIds": [
+          "exm.sa.mind.mia_manipulation.1.1.tr"
+        ],
+        "gloss": "Tartışmanın koşulları değiştirilerek iddianın sınanmaktan kaçırılması.",
+        "id": "sns.sa.mind.mia_manipulation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mia_manipulation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pengaturan percakapan sehingga dasar atau fokus suatu klaim dialihkan dan klaim itu sendiri tidak pernah diuji.",
+        "exampleIds": [
+          "exm.sa.mind.mia_manipulation.1.1.id"
+        ],
+        "gloss": "Pengaturan percakapan sehingga argumen tidak pernah benar-benar diuji.",
+        "id": "sns.sa.mind.mia_manipulation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mia_manipulation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mia_manipulation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ini adalah manipulasi: pertanyaan tentang jadwal berubah menjadi pertanyaan tentang orangnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mia_manipulation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Programla ilgili sorun kişinin sorumluluğuna dönüştürüldü; bu, bir manipülasyondu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mia_manipulation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การเปลี่ยนคำถามเรื่องกำหนดการเป็นคำถามเรื่องตัวบุคคลเป็นการบิดเบือน เพราะไม่ได้ตรวจสอบข้ออ้างเรื่องกำหนดการ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mia_manipulation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A discussão sobre o cronograma virou uma julgamento sobre a pessoa, o que caracterizou manipulação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mia_manipulation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "일정에 관한 질문이 곧바로 그 사람의 사람됨에 관한 질문으로 바뀐 것은 대화 조작이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mia_manipulation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "予定についてではなく話者を問題にする questioning は、主張の土台をずらす操作です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mia_manipulation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was manipulation: the question about the schedule became a question about the person.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "62734c10e7368144fea8a8a81bac4bb9144f7f29b0d51666d7d39128f7d6e19c": [
+      {
+        "forms": [
+          "Reliable source"
+        ],
+        "id": "lex.sa.mind.reliable_source",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Reliable source",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.reliable_source.en",
+          "sns.sa.mind.reliable_source.vi"
+        ]
+      },
+      {
+        "definition": "A medical source written or reviewed by qualified professionals, updated, and not selling the fear it describes.",
+        "exampleIds": [],
+        "gloss": "A medical source written or reviewed by qualified professionals, updated, and not selling the fear it describes.",
+        "id": "sns.sa.mind.reliable_source.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.reliable_source",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Nguồn y tế do chuyên gia đủ trình độ viết hoặc phê duyệt, được cập nhật, và không bán chính nỗi sợ mà nó mô tả.",
+        "id": "sns.sa.mind.reliable_source.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.reliable_source",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "628746ef9b853ead625c55596c382bb514b154f523955efafb9fb87249fb651a": [
+      {
+        "forms": [
+          "Chargeback",
+          "chargeback"
+        ],
+        "id": "lex.sa.technology.chargeback",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Chargeback",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.chargeback.alt",
+          "sns.sa.technology.chargeback.alt.ja",
+          "sns.sa.technology.chargeback.alt.ko",
+          "sns.sa.technology.chargeback.alt.pt_br",
+          "sns.sa.technology.chargeback.alt.id",
+          "sns.sa.technology.chargeback.alt.th",
+          "sns.sa.technology.chargeback.alt.tr"
+        ]
+      },
+      {
+        "definition": "A reversal of a card payment requested from the bank, usually because the transaction was not authorised or the goods never arrived.",
+        "exampleIds": [
+          "exm.sa.technology.chargeback.1.1"
+        ],
+        "gloss": "A reversal of a card payment requested from the bank, usually because the transaction was not authorised or the goods never arrived.",
+        "id": "sns.sa.technology.chargeback.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.chargeback",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "取引が承認されていなかったり商品が届かなEIARD?VEVENT? たりした場合に、購入者が銀行へ決済取消を請求すること。",
+        "exampleIds": [
+          "exm.sa.technology.chargeback.1.1.ja"
+        ],
+        "gloss": "カード決済を銀行に取り消させる手続き。",
+        "id": "sns.sa.technology.chargeback.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.chargeback",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "승인되지 않은 거래이거나 상품이 도착하지 않은 경우 등에 은행에 요청하여 카드 결제를 취소하고 돈을 돌려 받는 절차입니다. 판매자가 직접 환불하는 것과는 다릅니다.",
+        "exampleIds": [
+          "exm.sa.technology.chargeback.1.1.ko"
+        ],
+        "gloss": "은행에 요청하여 카드 결제를 되돌리는 절차.",
+        "id": "sns.sa.technology.chargeback.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.chargeback",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Reversão de um pagamento com cartão solicitada ao banco, geralmente porque a transação não foi autorizada ou porque as mercadorias nunca chegaram. No Brasil, costuma-se dizer \"estorno\" para ocancelamento feito pelo próprio Established.",
+        "exampleIds": [
+          "exm.sa.technology.chargeback.1.1.pt_br"
+        ],
+        "gloss": "Estorno de um pagamento com cartão pedido ao banco.",
+        "id": "sns.sa.technology.chargeback.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.chargeback",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Permintaan dari pemegang kartu agar bank membatalkan suatu transaksi dan mengembalikan uangnya. Permintaan ini biasanya diajukan karena transaksi tidak disetujui atau barang yang dibayar tidak pernah tiba.",
+        "exampleIds": [
+          "exm.sa.technology.chargeback.1.1.id"
+        ],
+        "gloss": "Permintaan kepada bank untuk membatalkan pembayaran kartu.",
+        "id": "sns.sa.technology.chargeback.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.chargeback",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คำขอให้ธนาคารยกเลิกและคืนเงินจากรายการชำระเงินด้วยบัตร มักเกิดเมื่อไม่ได้รับอนุญาตให้ชำระเงินหรือไม่ได้รับสินค้า",
+        "exampleIds": [
+          "exm.sa.technology.chargeback.1.1.th"
+        ],
+        "gloss": "คำขอให้ธนาคารคืนเงินจากรายการชำระเงินด้วยบัตร",
+        "id": "sns.sa.technology.chargeback.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.chargeback",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İşlem yetkilendirilmemişse, ürün teslim edilmemişse veya başka bir sorun varsa kart sahibinin bankadan ödemenin ters çevrilmesini talep etmesi.",
+        "exampleIds": [
+          "exm.sa.technology.chargeback.1.1.tr"
+        ],
+        "gloss": "Bankanın bir kart ödemesini geri çevirip parayı kart sahibine iade etmesi.",
+        "id": "sns.sa.technology.chargeback.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.chargeback",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.chargeback.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bank raised a chargeback and returned the money five days later.",
+        "translation": "Bankaya ters ödeme talebinde bulundum ve param beş gün sonra hesabıma geri yattı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.chargeback.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bank raised a chargeback and returned the money five days later.",
+        "translation": "ธนาคารยื่นคำขอเรียกเงินคืนและส่งเงินกลับมาในอีกห้าวัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.chargeback.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bank raised a chargeback and returned the money five days later.",
+        "translation": "Bank-opticciones chargeback dan mengembalikan uang saya lima hari kemudian.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.chargeback.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bank raised a chargeback and returned the money five days later.",
+        "translation": "O bancoraised o estorno e devolveu o dinheiro cinco dias depois.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.chargeback.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bank raised a chargeback and returned the money five days later.",
+        "translation": "은행이 결제 취소 청구를 접수하고 이틀 뒤에 돈을 돌려 주었습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.chargeback.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bank raised a chargeback and returned the money five days later.",
+        "translation": "銀行がチャージバックを行い、五日後に金が戻された。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.chargeback.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bank raised a chargeback and returned the money five days later.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "62aa449c8576dd1152277ecdb1829aa0f20c95316fb6e7bb120969056044a77d": [
+      {
+        "forms": [
+          "Flaps",
+          "flaps"
+        ],
+        "id": "lex.sa.kids_science.flaps",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Flaps",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.flaps.alt",
+          "sns.sa.kids_science.flaps.alt.ja",
+          "sns.sa.kids_science.flaps.alt.ko",
+          "sns.sa.kids_science.flaps.alt.pt_br",
+          "sns.sa.kids_science.flaps.alt.id",
+          "sns.sa.kids_science.flaps.alt.th",
+          "sns.sa.kids_science.flaps.alt.tr"
+        ]
+      },
+      {
+        "definition": "Moving panels on the back edge of a wing. They make the wing bigger for take-off and landing.",
+        "exampleIds": [
+          "exm.sa.kids_science.flaps.1.1"
+        ],
+        "gloss": "Moving panels on the back edge of a wing. They make the wing bigger for take-off and landing.",
+        "id": "sns.sa.kids_science.flaps.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.flaps",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "飛行機などの翼の後縁にある可動部分で、離着陸のときに翼の面積を変える。",
+        "exampleIds": [
+          "exm.sa.kids_science.flaps.1.1.ja"
+        ],
+        "gloss": "翼の後ろにある、大きさを変えられる可動部分。",
+        "id": "sns.sa.kids_science.flaps.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.flaps",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "비행기 날개 뒷부분에 있는 움직이는 패널로, 활주와 착륙할 때 날개의 크기를 조절한다.",
+        "exampleIds": [
+          "exm.sa.kids_science.flaps.1.1.ko"
+        ],
+        "gloss": "비행기 날개 뒷부분의 움직이는 패널이다.",
+        "id": "sns.sa.kids_science.flaps.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.flaps",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Superfícies articuladas colocadas na parte de trás das asas dos aviões. Aumentam ou diminuem a área das asas para ajudar na decolagem e na aterrissagem.",
+        "exampleIds": [
+          "exm.sa.kids_science.flaps.1.1.pt_br"
+        ],
+        "gloss": "Flaps são peças móveis das asas que mudam de posição na decolagem e na aterrissagem.",
+        "id": "sns.sa.kids_science.flaps.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.flaps",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Panel-panel pada bagian belakang sayap yang digerakkan untuk memperbesar sayap saat lepas landas dan mendarat. Panel ini juga membantu pesawat melambat saatlanding.",
+        "exampleIds": [
+          "exm.sa.kids_science.flaps.1.1.id"
+        ],
+        "gloss": "Panel-panel bergerak di bagian belakang sayap pesawat.",
+        "id": "sns.sa.kids_science.flaps.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.flaps",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แผงที่อยู่บริเวณขอบหลังของปีกเครื่องบินและเคลื่อนที่ได้ เมื่อยืดออกจะทำให้ปีกใหญ่ขึ้นและช่วยในการขึ้นบินกับการลงจอด",
+        "exampleIds": [
+          "exm.sa.kids_science.flaps.1.1.th"
+        ],
+        "gloss": "แผงปีกเคลื่อนที่ของเครื่องบินที่ยืดปีกออกเพื่อขึ้นบินและลงจอด",
+        "id": "sns.sa.kids_science.flaps.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.flaps",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uçak kanatlarının arka kenarında bulunan, hareket ettirilen paneller. Kalkışta ve inişte kanat yüzeyini büyütüp uçağı yavaşlatırlar.",
+        "exampleIds": [
+          "exm.sa.kids_science.flaps.1.1.tr"
+        ],
+        "gloss": "Kanatların arka kenarındaki hareketli bölümler; kalkış ve inişte kanatları büyütürler.",
+        "id": "sns.sa.kids_science.flaps.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.flaps",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.flaps.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The flaps come out so the plane can land slowly.",
+        "translation": "Uçak yavaşça inebilsin diye kanat flapları açılır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.flaps.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The flaps come out so the plane can land slowly.",
+        "translation": "ปีกเคลื่อนที่ยืดออกเพื่อให้เครื่องบินลดความเร็วก่อนลงจอด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.flaps.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The flaps come out so the plane can land slowly.",
+        "translation": "Panel-panel itu dikeluarkan agar pesawat dapat mendarat dengan perlahan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.flaps.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The flaps come out so the plane can land slowly.",
+        "translation": "Os flaps se abriram para que o avião pudesse pousar devagar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.flaps.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The flaps come out so the plane can land slowly.",
+        "translation": "비행기가 천천히 착륙할 수 있도록 날개 뒷부분의 패널이 나온다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.flaps.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The flaps come out so the plane can land slowly.",
+        "translation": "飞机的のフラップを出して、ゆっくり着陸する。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.flaps.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The flaps come out so the plane can land slowly.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "62b251cd4e17183fc1068f65ce9927b2b60f36bce88167b35d3aa5f06633fb8b": [
+      {
+        "forms": [
+          "Multi-agent system"
+        ],
+        "id": "lex.sa.mind.multi_agent_system",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Multi-agent system",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.multi_agent_system.en",
+          "sns.sa.mind.multi_agent_system.vi"
+        ]
+      },
+      {
+        "definition": "A setup in which several specialized AI agents divide a task among themselves and pass work along.",
+        "exampleIds": [],
+        "gloss": "A setup in which several specialized AI agents divide a task among themselves and pass work along.",
+        "id": "sns.sa.mind.multi_agent_system.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.multi_agent_system",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Thiết lập mà nhiều agent chuyên hoá chia nhau một nhiệm vụ và chuyển tiếp công việc.",
+        "id": "sns.sa.mind.multi_agent_system.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.multi_agent_system",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "62bb92d72dcf11d755aef74c94993b408adc59e77359fd297da336bb78d1d888": [
+      {
+        "forms": [
+          "Electronic stability control switched off",
+          "esp_off"
+        ],
+        "id": "lex.sa.en.esp.off",
+        "kind": "lexeme",
+        "lemma": "Electronic stability control switched off",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.esp.off.alt"
+        ]
+      },
+      {
+        "definition": "The stability control has been switched off by the driver. Severity level 2 — Caution. Action: Watch the grip of the road. Switch the system back on when you can..",
+        "gloss": "The stability control has been switched off by the driver.",
+        "id": "sns.sa.en.esp.off.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.esp.off",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "62c2e8417c2797167682afce3ac90c250791b6cb885e81bec55f2f2cd690ba17": [
+      {
+        "forms": [
+          "Serving size",
+          "serving_size"
+        ],
+        "id": "lex.sa.daily_skills.serving_size",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Serving size",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.serving_size.alt",
+          "sns.sa.daily_skills.serving_size.alt.ja",
+          "sns.sa.daily_skills.serving_size.alt.ko",
+          "sns.sa.daily_skills.serving_size.alt.pt_br",
+          "sns.sa.daily_skills.serving_size.alt.id",
+          "sns.sa.daily_skills.serving_size.alt.th",
+          "sns.sa.daily_skills.serving_size.alt.tr"
+        ]
+      },
+      {
+        "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
+        "exampleIds": [
+          "exm.sa.daily_skills.serving_size.1.1"
+        ],
+        "gloss": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
+        "id": "sns.sa.daily_skills.serving_size.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.serving_size",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "メーカーが設定する表示上の一定量であり、実際に食べる量とは一致しないことが多い。",
+        "exampleIds": [
+          "exm.sa.daily_skills.serving_size.1.1.ja"
+        ],
+        "gloss": "栄養表示の数値が示されている食品の量。",
+        "id": "sns.sa.daily_skills.serving_size.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.serving_size",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "포장식품의 영양 정보가 표시된 양을 말한다. 회사가 정한 기준이므로 실제 먹는 양과 다를 수 있다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.serving_size.1.1.ko"
+        ],
+        "gloss": "식품의 영양 정보가 계산된 기준이 되는 섭취량.",
+        "id": "sns.sa.daily_skills.serving_size.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.serving_size",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O tamanho da porção é escolhido pelo fabricante e pode não corresponder à quantidade normalmente consumida. Por isso, é importante conferir os valores antes de comer.",
+        "exampleIds": [
+          "exm.sa.daily_skills.serving_size.1.1.pt_br"
+        ],
+        "gloss": "Quantidade usada como referência para os valores nutricionais indicados no rótulo.",
+        "id": "sns.sa.daily_skills.serving_size.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.serving_size",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ukuran porsi ditentukan oleh produsen dan sering tidak sama dengan jumlah yang benar-benar dimakan.",
+        "exampleIds": [
+          "exm.sa.daily_skills.serving_size.1.1.id"
+        ],
+        "gloss": "Jumlah produk yang menjadi dasar perhitungan informasi gizi.",
+        "id": "sns.sa.daily_skills.serving_size.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.serving_size",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ปริมาณสินค้าที่ใช้เป็นฐานในการคำนวณข้อมูลโภชนาการ ขนาดนี้ผู้ผลิตกำหนดเอง และอาจไม่เท่ากับปริมาณที่แต่ละคนกินจริง",
+        "exampleIds": [
+          "exm.sa.daily_skills.serving_size.1.1.th"
+        ],
+        "gloss": "ปริมาณสินค้าหนึ่งหน่วยที่ใช้คำนวณข้อมูลโภชนาการ",
+        "id": "sns.sa.daily_skills.serving_size.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.serving_size",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Besin değerlerinin hesaplandığı ürün miktarı. Miktarı üretici belirlediğinden genellikle yenen porsiyonla aynı olmaz.",
+        "exampleIds": [
+          "exm.sa.daily_skills.serving_size.1.1.tr"
+        ],
+        "gloss": "Besin değerlerinin hesaplandığı ürün miktarı.",
+        "id": "sns.sa.daily_skills.serving_size.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.serving_size",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.serving_size.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One serving is 30 g, which is much less than the bowl I had.",
+        "translation": "Bir porsiyon 30 gramdı, bu da yediğim kâsenin çok daha azıydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.serving_size.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One serving is 30 g, which is much less than the bowl I had.",
+        "translation": "หนึ่งหน่วยบริโภคมีน้ำหนัก 30 กรัม ซึ่งน้อยกว่าปริมาณในโถงที่ผมกินมาก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.serving_size.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One serving is 30 g, which is much less than the bowl I had.",
+        "translation": "Satu porsi adalah 30 gram, jauh lebih sedikit daripada mangkuk yang saya makan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.serving_size.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One serving is 30 g, which is much less than the bowl I had.",
+        "translation": "Uma porção corresponde a 30 g, bem menos do que eu comi na tigela.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.serving_size.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One serving is 30 g, which is much less than the bowl I had.",
+        "translation": "한 번 제공되는 양은 30그램인데, 제가 먹은 그릇의 양보다 훨씬 적습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.serving_size.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One serving is 30 g, which is much less than the bowl I had.",
+        "translation": "一回の servings の量は30グラムですが、私が食べた丼はそれよりずっと多かったです。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.serving_size.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One serving is 30 g, which is much less than the bowl I had.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

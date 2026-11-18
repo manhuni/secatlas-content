@@ -1,0 +1,1308 @@
+{
+  "records": {
+    "d7311026c07a636ad0ce4b8730ff70613d54f087b248fecd4c803114d07c639b": [
+      {
+        "forms": [
+          "Variable reward",
+          "variable_reward"
+        ],
+        "id": "lex.sa.technology.variable_reward",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Variable reward",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.variable_reward.alt",
+          "sns.sa.technology.variable_reward.alt.ja",
+          "sns.sa.technology.variable_reward.alt.ko",
+          "sns.sa.technology.variable_reward.alt.pt_br",
+          "sns.sa.technology.variable_reward.alt.id",
+          "sns.sa.technology.variable_reward.alt.th",
+          "sns.sa.technology.variable_reward.alt.tr"
+        ]
+      },
+      {
+        "definition": "A reward schedule where the outcome is unpredictable. Unpredictable rewards keep a behaviour going far longer than predictable ones.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1"
+        ],
+        "gloss": "A reward schedule where the outcome is unpredictable. Unpredictable rewards keep a behaviour going far longer than predictable ones.",
+        "id": "sns.sa.technology.variable_reward.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "報酬の内容やタイミングが毎回予測できない場合、報酬が明確な場合より行動が長く続く傾向がある。",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.ja"
+        ],
+        "gloss": "結果が予測できない報酬の与え方。",
+        "id": "sns.sa.technology.variable_reward.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "다음 보상이 나올지 알 수 없는 방식의 보상 일정이다. 예측 가능한 보상보다 행동을 훨씬 오래 지속시킬 수 있다.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.ko"
+        ],
+        "gloss": "보상의 결과를 예측할 수 없을 때의 보상 방식.",
+        "id": "sns.sa.technology.variable_reward.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Em um esquema de recompensa variável, a possibilidade de ganhar algo mantém o comportamento por mais tempo do que uma recompensa previsível.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.pt_br"
+        ],
+        "gloss": "Recompensa cujo resultado não pode ser previsto com certeza.",
+        "id": "sns.sa.technology.variable_reward.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam pola imbalan variabel, Butcher COD ‘Tidak dapat diprediksi’. Ketidakpastian ini dapat membuat suatu perilaku terus berlangsung lebih lama daripada imbalan yang dapat diperkirakan.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.id"
+        ],
+        "gloss": "Imbalan yang hasil dan waktunya tidak dapat diprediksi.",
+        "id": "sns.sa.technology.variable_reward.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การให้รางวัลตามระบบที่ผลลัพธ์ไม่แน่นอน ความไม่แน่นอนนี้มักทำให้พฤติกรรมหนึ่ง ๆ ดำเนินต่อไปได้นานกว่ารางวัลที่คาดการณ์ได้",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.th"
+        ],
+        "gloss": "ระบบรางวัลที่ผลลัพธ์คาดเดาไม่ได้",
+        "id": "sns.sa.technology.variable_reward.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sonucun önceden bilinemediği ödül düzeni. Belirsiz ödüller, davranışın tahmin edilebilir ödüllere göre çok daha uzun sürmesini sağlar.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.tr"
+        ],
+        "gloss": "Sonucun önceden bilinemediği ödül düzeni.",
+        "id": "sns.sa.technology.variable_reward.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "Hangi gönderinin ilginç çıkacağını bilmediğiniz için uygulamayı açmaya devam ediyorsunuz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "คุณเปิดแอปซ้ำ ๆ เพราะไม่รู้ว่าโพสต์ใดจะน่าสนใจ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "Anda terus membuka aplikasi karena tidak pernah tahu kiriman mana yang menarik.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "Você continua abrindo o aplicativo porque nunca sabe qual publicação será interessante.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "다음에 어떤 게시물이 재미있을지 알 수 없으므로 계속 앱을 열게 됩니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "どの投稿がおもしろいか分からないので.Tx? アプリを開き続けてしまいます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d735fb5e9f2f61a33e8d9a6b862367bd645d2cff91c7597f4fbd17994b499eb8": [
+      {
+        "forms": [
+          "Fossil",
+          "fossil"
+        ],
+        "id": "lex.sa.kids_adventure.fossil",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Fossil",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_adventure.fossil.alt",
+          "sns.sa.kids_adventure.fossil.alt.ja",
+          "sns.sa.kids_adventure.fossil.alt.ko",
+          "sns.sa.kids_adventure.fossil.alt.pt_br",
+          "sns.sa.kids_adventure.fossil.alt.id",
+          "sns.sa.kids_adventure.fossil.alt.th",
+          "sns.sa.kids_adventure.fossil.alt.tr"
+        ]
+      },
+      {
+        "definition": "The hard part of an animal that turned to stone after a very long time. Fossils tell us what the animal looked like.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.fossil.1.1"
+        ],
+        "gloss": "The hard part of an animal that turned to stone after a very long time. Fossils tell us what the animal looked like.",
+        "id": "sns.sa.kids_adventure.fossil.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_adventure.fossil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Very long time により、石や骨などの硬い部分になった生き物の痕跡で、昔の動物の姿を知る手がかりになる。",
+        "exampleIds": [
+          "exm.sa.kids_adventure.fossil.1.1.ja"
+        ],
+        "gloss": "長い年月をかけて石のになった生き物の跡。",
+        "id": "sns.sa.kids_adventure.fossil.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_adventure.fossil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "매우 오랜 시간과 압력을 받아 동물의 딱딱한 부분이 돌로 변한 흔적이다. 고대의 동물이 어떤 모습이었는지 알아 주는 단서가 된다.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.fossil.1.1.ko"
+        ],
+        "gloss": "매우 오랜 시간을 지나 동물의 딱딱한 부분이 돌로 변한 것이다.",
+        "id": "sns.sa.kids_adventure.fossil.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_adventure.fossil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Parte do corpo, impressa ou marca deixada por um organismo que foi preservada em material rochoso durante um longo período. Os fósseis ajudam os cientistas a reconstruir como os animais eram.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.fossil.1.1.pt_br"
+        ],
+        "gloss": "Fóssil é o resto ou a marca de um organismo que se preservou na rocha.",
+        "id": "sns.sa.kids_adventure.fossil.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_adventure.fossil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sisa keras tubuh makhluk hidup yang bertahan dalam bentuk batuan karena proses alami yang berlangsung sangat lama. Fosil membantu para ahli mengetahui bentuk makhluk hidup pada masa dahulu.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.fossil.1.1.id"
+        ],
+        "gloss": "Fosil adalah bagian tubuh hewan yang berubah menjadi batu setelah waktu yang sangat lama.",
+        "id": "sns.sa.kids_adventure.fossil.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_adventure.fossil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ส่วนของสัตว์ พืช หรือสิ่งมีชีวิตในอดีตที่กลายเป็นหินหรือถูกเก็บรักษาไว้ในหินเป็นเวลานานมาก ซากเหล่านี้ช่วยให้เราทราบรูปลักษณ์ของสิ่งมีชีวิตในอดีต",
+        "exampleIds": [
+          "exm.sa.kids_adventure.fossil.1.1.th"
+        ],
+        "gloss": "ซากดึกดำบรรพ์ของสิ่งมีชีวิตที่หลงเหลืออยู่ในหิน",
+        "id": "sns.sa.kids_adventure.fossil.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_adventure.fossil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Milyonlarca yıl içinde taşlaşmış hayvan kalıntılarından oluşan, kemik ve kabuk gibi sert kısımlar. Fosiller, yaşamış hayvanların görünüşünü ve yaşam biçimini anlatmamızı sağlar.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.fossil.1.1.tr"
+        ],
+        "gloss": "Çok uzun zaman sonra taşa dönüşen bir hayvanın sert kısmı; hayvanın nasıl göründüğünü anlatır.",
+        "id": "sns.sa.kids_adventure.fossil.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_adventure.fossil",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_adventure.fossil.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She found a yellow fossil under a huge leaf.",
+        "translation": "Dev bir yaprağın altında sarı bir fosil buldu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_adventure.fossil.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She found a yellow fossil under a huge leaf.",
+        "translation": "เธอพบซากดึกดำบรรพ์สีเหลืองใต้ใบไม้ขนาดใหญ่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_adventure.fossil.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She found a yellow fossil under a huge leaf.",
+        "translation": "Dia menemukan fosil berwarna kuning di bawah daun yang sangat besar.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_adventure.fossil.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She found a yellow fossil under a huge leaf.",
+        "translation": "Ela encontrou um fóssil amarelo debaixo de uma folha enorme.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_adventure.fossil.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She found a yellow fossil under a huge leaf.",
+        "translation": "그녀는 큰 잎 아래에서 누런 화석을 발견했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_adventure.fossil.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She found a yellow fossil under a huge leaf.",
+        "translation": "彼女は大きな葉の下に黄色い化石を見つけた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_adventure.fossil.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She found a yellow fossil under a huge leaf.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d73ccc0d5a38a1c703eb409d4f686d7f439560da4fb55b82bc115616f57d60d6": [
+      {
+        "forms": [
+          "Slow travel",
+          "slow_travel"
+        ],
+        "id": "lex.sa.culture.slow_travel",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Slow travel",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.culture.slow_travel.alt",
+          "sns.sa.culture.slow_travel.alt.ja",
+          "sns.sa.culture.slow_travel.alt.ko",
+          "sns.sa.culture.slow_travel.alt.pt_br",
+          "sns.sa.culture.slow_travel.alt.id",
+          "sns.sa.culture.slow_travel.alt.th",
+          "sns.sa.culture.slow_travel.alt.tr"
+        ]
+      },
+      {
+        "definition": "Staying in one place for weeks or months instead of moving on every few days, which is what makes long-term work possible.",
+        "exampleIds": [
+          "exm.sa.culture.slow_travel.1.1"
+        ],
+        "gloss": "Staying in one place for weeks or months instead of moving on every few days, which is what makes long-term work possible.",
+        "id": "sns.sa.culture.slow_travel.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.culture.slow_travel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "数日ごとに移動する代わりに、一つの場所に長く留まる旅行の形を指す。現地 familiarityや長期的な滞在浑然 active.mozillaを容易にする。",
+        "exampleIds": [
+          "exm.sa.culture.slow_travel.1.1.ja"
+        ],
+        "gloss": "旅先で数週間から数か月滞在する旅行スタイル。",
+        "id": "sns.sa.culture.slow_travel.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.culture.slow_travel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "몇 날마다 이동하지 않고 한곳에서 몇 주나 몇 달 머무르는 여행 방식이다. 현장의 생활과 문화에 더 깊이 익숙해질 수 있다.",
+        "exampleIds": [
+          "exm.sa.culture.slow_travel.1.1.ko"
+        ],
+        "gloss": "한 장소에 오래 머물러 하며 여행하는 방식.",
+        "id": "sns.sa.culture.slow_travel.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.culture.slow_travel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Diferente de um roteiro com mudanças frequentes, esse modo de viajar favorece a convivência mais longa com o destino e pode facilitar o trabalho remoto.",
+        "exampleIds": [
+          "exm.sa.culture.slow_travel.1.1.pt_br"
+        ],
+        "gloss": "Viagem em que a pessoa permanece semanas ou meses no mesmo lugar.",
+        "id": "sns.sa.culture.slow_travel.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.culture.slow_travel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Perjalanan lambatodrI'm intentionally visiting a place for weeks or months rather than moving on every few days. Media ini memungkinkan pekerjaan jangka panjang dan kehidupan sehari-hari dengan komunitas setempat.",
+        "exampleIds": [
+          "exm.sa.culture.slow_travel.1.1.id"
+        ],
+        "gloss": "Gaya bepergian dengan tinggal di satu tempat selama berminggu-minggu atau berbulan-bulan.",
+        "id": "sns.sa.culture.slow_travel.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.culture.slow_travel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "รูปแบบการเดินทางที่ใช้เวลาอยู่ในแต่ละสถานที่หลายสัปดาห์หรือหลายเดือน อาจทำให้เข้าใจท้องถิ่นและทำงานระยะยาวได้จริง",
+        "exampleIds": [
+          "exm.sa.culture.slow_travel.1.1.th"
+        ],
+        "gloss": "การเดินทางโดยอยู่ในที่หนึ่งนานแทนการรีบย้ายที่",
+        "id": "sns.sa.culture.slow_travel.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.culture.slow_travel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Haftalar veya aylar boyunca aynı yerde kalmayı, bölgeyi ve insanları daha iyi tanımayı ve uzun süreli çalışmayı mümkün kılan bir seyahat biçimidir.",
+        "exampleIds": [
+          "exm.sa.culture.slow_travel.1.1.tr"
+        ],
+        "gloss": "Sık sık yer değiştirmek yerine bir yerde uzun süre kalarak yapılan seyahattir.",
+        "id": "sns.sa.culture.slow_travel.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.culture.slow_travel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.culture.slow_travel.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Slow travel costs less and lets you actually know the place.",
+        "translation": "Yavaş seyahat daha az masraflıdır ve yeri gerçekten tanımanızı sağlar.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.culture.slow_travel.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Slow travel costs less and lets you actually know the place.",
+        "translation": "การเดินทางแบบช้า ๆ ช่วยประหยัดค่าใช้จ่ายและทำให้ฉันรู้จักท้องถิ่นนั้นอย่างแท้จริง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.culture.slow_travel.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Slow travel costs less and lets you actually know the place.",
+        "translation": "Perjalanan lambat lebih murah dan memberi kesempatan bagi saya untuk mengenal tempat itu dengan sungguhan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.culture.slow_travel.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Slow travel costs less and lets you actually know the place.",
+        "translation": "A viagem lenta custa menos e me permite conhecer de verdade o lugar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.culture.slow_travel.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Slow travel costs less and lets you actually know the place.",
+        "translation": "느린 여행은 비용이 적게 들고 그곳을 제대로 알아가게 해 줍니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.culture.slow_travel.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Slow travel costs less and lets you actually know the place.",
+        "translation": "長期滞在型の旅行はSTORING费用を抑え、その土地の韵味UYỆIouches。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.culture.slow_travel.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Slow travel costs less and lets you actually know the place.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d75546422484457b78e4929a96b577bd3a76ddbed9f0ed1076d3e8bec0ef280d": [
+      {
+        "forms": [
+          "Unpartnered",
+          "lts_unpartnered"
+        ],
+        "id": "lex.sa.social.lts_unpartnered",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Unpartnered",
+        "pos": "adjective",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_unpartnered.alt",
+          "sns.sa.social.lts_unpartnered.alt.ja",
+          "sns.sa.social.lts_unpartnered.alt.ko",
+          "sns.sa.social.lts_unpartnered.alt.pt_br",
+          "sns.sa.social.lts_unpartnered.alt.id",
+          "sns.sa.social.lts_unpartnered.alt.th",
+          "sns.sa.social.lts_unpartnered.alt.tr"
+        ]
+      },
+      {
+        "definition": "Describing a person who has no romantic partner, without saying whether that is a choice.",
+        "exampleIds": [
+          "exm.sa.social.lts_unpartnered.1.1"
+        ],
+        "gloss": "Describing a person who has no romantic partner, without saying whether that is a choice.",
+        "id": "sns.sa.social.lts_unpartnered.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_unpartnered",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "恋愛関係を持たない人を表す。その状態を選んでいるかどうかは含めない。",
+        "exampleIds": [
+          "exm.sa.social.lts_unpartnered.1.1.ja"
+        ],
+        "gloss": "交際相手のいない人の。",
+        "id": "sns.sa.social.lts_unpartnered.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_unpartnered",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "현재 연인이나 배우자가 없는 사람을 뜻하는 표현이다. 그 상태가 본인의 선택인지 우연 때문인지는 나타내지 않는다.",
+        "exampleIds": [
+          "exm.sa.social.lts_unpartnered.1.1.ko"
+        ],
+        "gloss": "연인이 없는 사람을 뜻하되 혼자인 상태를 스스로 선택했는지는 말하지 않는다.",
+        "id": "sns.sa.social.lts_unpartnered.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_unpartnered",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Adjetivo usado para indicar que alguém não tem parceiro amoroso, sem especificar se essa condição foi escolhida.",
+        "exampleIds": [
+          "exm.sa.social.lts_unpartnered.1.1.pt_br"
+        ],
+        "gloss": "Que descreve uma pessoa que não tem parceiro amoroso.",
+        "id": "sns.sa.social.lts_unpartnered.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_unpartnered",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Istilah ini hanya menyatakan bahwa seseorang tidak sedang memiliki pasangan asmara. Istilah ini tidak memberi informasi apakah keadaan tersebut dipilih atau BUMWE dll.",
+        "exampleIds": [
+          "exm.sa.social.lts_unpartnered.1.1.id"
+        ],
+        "gloss": "Orang yang tidak memiliki pasangan asmara, tanpa menyatakan apakah hal itu merupakan pilihan.",
+        "id": "sns.sa.social.lts_unpartnered.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_unpartnered",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "เป็นลักษณะของบุคคลที่ไม่มีคู่รัก โดยไม่บ่งบอกว่าสถานะดังกล่าวเกิดจากการเลือกหรือไม่ได้เลือก",
+        "exampleIds": [
+          "exm.sa.social.lts_unpartnered.1.1.th"
+        ],
+        "gloss": "ไม่มีคู่รัก",
+        "id": "sns.sa.social.lts_unpartnered.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_unpartnered",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Romantik bir ilişkisi bulunmayan kişiyi anlatan ifade. Kişinin bu durumu kendi isteğiyle mi yaşadığı, yoksa başka bir nedenle mi olduğu konusunda bilgi vermez.",
+        "exampleIds": [
+          "exm.sa.social.lts_unpartnered.1.1.tr"
+        ],
+        "gloss": "Romantik ilişkisi olmayan kişiyi belirtir; durumun seçim mi olduğunu söylemez.",
+        "id": "sns.sa.social.lts_unpartnered.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_unpartnered",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_unpartnered.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Romantik bir ilişkisi olmadığını, bunu özür dilemeden söyledi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_unpartnered.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เขาบอกว่าตัวเองไม่มีคู่รัก และพูดโดยไม่มีคำขอโทษในน้ำเสียง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_unpartnered.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ia mengatakan bahwa ia tidak berpasangan dan mengatakannya tanpa meminta maaf.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_unpartnered.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ele disse que estava sem parceiro e não pediu desculpas por isso.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_unpartnered.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그는 연인이 없다고 말했고, 그 말에는 어떤 사과도 섞여 있지 않았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_unpartnered.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼は交際相手がいないと言ったが、声音には謝罪の気持ちはなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_unpartnered.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He said he was unpartnered, and he said it without any apology in his voice.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d767748a603799c85319dba02a583b3fdbe28ae5f82b2e872d6bb66cf104e62c": [
+      {
+        "forms": [
+          "under"
+        ],
+        "id": "lex.sa.en.under.preposition",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "under",
+        "pos": "preposition",
+        "senseIds": [
+          "sns.sa.vi.under.preposition.1",
+          "sns.sa.en.under-preposition.alt"
+        ]
+      },
+      {
+        "definition": "Ở phía dưới hoặc ở trạng thái thấp hơn.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "dưới",
+        "id": "sns.sa.vi.under.preposition.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.under.preposition",
+        "pos": "preposition",
+        "revision": 1
+      },
+      {
+        "definition": "Beneath something; less than something.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "Below; in a lower state.",
+        "id": "sns.sa.en.under-preposition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.under.preposition",
+        "pos": "preposition",
+        "revision": 1
+      }
+    ],
+    "d79890f120ff70924a1b14bf58b73b5a03313dece952cdb2c9d74ff3723a58e4": [
+      {
+        "forms": [
+          "Headlamp (dipped beam)",
+          "headlamp"
+        ],
+        "id": "lex.sa.en.headlamp",
+        "kind": "lexeme",
+        "lemma": "Headlamp (dipped beam)",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.headlamp.alt"
+        ]
+      },
+      {
+        "definition": "The dipped-beam headlamp is on. Severity level 1 — Information / Status. Action: Nothing to do. The lamp is working..",
+        "gloss": "The dipped-beam headlamp is on.",
+        "id": "sns.sa.en.headlamp.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.headlamp",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "d79d3458a58877cd8e48c18ebaf4c27b9d5c1a9cb5dfbdac769a7a21d8a1022e": [
+      {
+        "forms": [
+          "claim",
+          "claims",
+          "claimed",
+          "claiming"
+        ],
+        "id": "lex.sa.en.claim.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "claim",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.claim.verb",
+          "prn.sa.en.claim.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.claim.verb.1",
+          "sns.sa.en.claim-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.claim-verb",
+        "id": "prn.sa.en.claim.verb",
+        "ipa": "/kleɪm/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.claim.verb.us",
+        "ipa": "/kleɪm/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Nói rằng điều gì đó đúng.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.claim.verb.1.1",
+          "exm.sa.en.claim-verb.more.01",
+          "exm.sa.en.claim-verb.more.02"
+        ],
+        "gloss": "khẳng định (động từ)",
+        "id": "sns.sa.vi.claim.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.claim.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.claim-verb",
+          "res.sa.aud.claim-verb",
+          "res.sa.lnk.claim-verb",
+          "res.sa.vid.claim-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "To state that something is true.",
+        "exampleIds": [
+          "exm.sa.en.claim.verb.1.1"
+        ],
+        "gloss": "To state that something is true.",
+        "id": "sns.sa.en.claim-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.claim.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.claim.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "They claim the solution is unique.",
+        "translation": "Họ khẳng định nghiệm là duy nhất.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d7a13d148eb05ea057024bef468d20e3987a8d0f91e1452050930c319dc6e6c3": [
+      {
+        "forms": [
+          "tale"
+        ],
+        "id": "lex.sa.en.tale.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "tale",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.tale.noun.1",
+          "sns.sa.en.tale-noun.alt"
+        ]
+      },
+      {
+        "definition": "Một câu chuyện kể ra.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "chuyện",
+        "id": "sns.sa.vi.tale.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.tale.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A narrative of events.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "A story that is told.",
+        "id": "sns.sa.en.tale-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.tale.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "d7d5dcc369426e2e5f8dcb89af4308b0daed6e55910d53395ce38bd6dd1a9456": [
+      {
+        "forms": [
+          "better"
+        ],
+        "id": "lex.sa.en.better.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "better",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.better.adjective.1",
+          "sns.sa.en.better-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Ở mức độ tốt hơn.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "tốt hơn",
+        "id": "sns.sa.vi.better.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.better.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Higher in quality or standard.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "Of higher quality.",
+        "id": "sns.sa.en.better-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.better.adjective",
+        "pos": "adjective",
+        "revision": 1
+      }
+    ],
+    "d7f0c0236b246b8c1b0fddb4fe674328d15ca98ed2509484f24eee5663db2ab7": [
+      {
+        "forms": [
+          "Differential diagnosis",
+          "differential_diagnosis"
+        ],
+        "id": "lex.sa.health.differential_diagnosis",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Differential diagnosis",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.differential_diagnosis.alt",
+          "sns.sa.health.differential_diagnosis.alt.ja",
+          "sns.sa.health.differential_diagnosis.alt.ko",
+          "sns.sa.health.differential_diagnosis.alt.pt_br",
+          "sns.sa.health.differential_diagnosis.alt.id",
+          "sns.sa.health.differential_diagnosis.alt.th",
+          "sns.sa.health.differential_diagnosis.alt.tr"
+        ]
+      },
+      {
+        "definition": "The clinician's shortlist of possible causes, kept in mind while they examine you and order tests.",
+        "exampleIds": [
+          "exm.sa.health.differential_diagnosis.1.1"
+        ],
+        "gloss": "The clinician's shortlist of possible causes, kept in mind while they examine you and order tests.",
+        "id": "sns.sa.health.differential_diagnosis.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.differential_diagnosis",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "医師が診察や検査を行う間、可能性のある原因をいくつか挙げて検討する手順。一つの確定した診断ではない。",
+        "exampleIds": [
+          "exm.sa.health.differential_diagnosis.1.1.ja"
+        ],
+        "gloss": "検査で確かめるsiblequo症状の原因として考えられる候補の一覧。",
+        "id": "sns.sa.health.differential_diagnosis.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.differential_diagnosis",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "의사가 환자를 진료하고 검사 결과를 살피면서 가능한 병이나 원인을 잠정적으로 나열하는 후보 목록입니다. 확정된 진단과 구별합니다.",
+        "exampleIds": [
+          "exm.sa.health.differential_diagnosis.1.1.ko"
+        ],
+        "gloss": "환자 상태를 바탕으로，考虑할 수 있는 원인들을 짧게 나열한 목록입니다.",
+        "id": "sns.sa.health.differential_diagnosis.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.differential_diagnosis",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Conjunto de hipóteses que um profissional da saúde considera ao examinar o paciente e solicitar exames. Não necessariamente corresponde ao diagnóstico final.",
+        "exampleIds": [
+          "exm.sa.health.differential_diagnosis.1.1.pt_br"
+        ],
+        "gloss": "Lista de possíveis causas considered durante a avaliação de um paciente.",
+        "id": "sns.sa.health.differential_diagnosis.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.differential_diagnosis",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Daftar diagnosis banding yang dibuat tenaga kesehatan saat memeriksa pasien dan memesan pemeriksaan. Diagnosis banding bukan berarti penyebab yang paling mungkin sudah dipastikan.",
+        "exampleIds": [
+          "exm.sa.health.differential_diagnosis.1.1.id"
+        ],
+        "gloss": "Daftar sementara kemungkinan penyebab suatu penyakit.",
+        "id": "sns.sa.health.differential_diagnosis.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.differential_diagnosis",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงรายการความเป็นไปได้ที่แพทย์ใช้เป็นแนวทางวินิจฉัยแยกโรคระหว่างการตรวจและสั่งการตรวจ โดยยังไม่ถือว่าเป็นการวินิจฉัยที่ยืนยันแล้ว",
+        "exampleIds": [
+          "exm.sa.health.differential_diagnosis.1.1.th"
+        ],
+        "gloss": "รายการโรคหรือสาเหตุที่เป็นไปได้ซึ่งแพทย์พิจารณาขณะตรวจผู้ป่วย",
+        "id": "sns.sa.health.differential_diagnosis.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.differential_diagnosis",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bulgulara göre hastalığın olası nedenlerini sıralayan, hekimin kendi ifadesiyle \"ayırıcı tanı\" listesi. Henüz kesin tanı konmamış, sıralama yapılmış olasılıkları gösterir.",
+        "exampleIds": [
+          "exm.sa.health.differential_diagnosis.1.1.tr"
+        ],
+        "gloss": "Hekimin muayene ve tetkik sırasında aklında tuttuğu olası hastalık nedenleri listesi.",
+        "id": "sns.sa.health.differential_diagnosis.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.differential_diagnosis",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.differential_diagnosis.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The doctor said the differential included three possibilities, and explained each one.",
+        "translation": "Doktor ayırıcı tanıda üç olasılık olduğunu söyledi ve her birini açıkladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.differential_diagnosis.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The doctor said the differential included three possibilities, and explained each one.",
+        "translation": "แพทย์อธิบายว่าการวินิจฉัยแยกโรคของอาการนี้มีสามความเป็นไปได้ และอธิบายแต่ละอย่าง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.differential_diagnosis.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The doctor said the differential included three possibilities, and explained each one.",
+        "translation": "Dokter mengatakan diagnosis bandingnya mencakup tiga kemungkinan dan menjelaskan masing-masing.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.differential_diagnosis.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The doctor said the differential included three possibilities, and explained each one.",
+        "translation": "O médico disse que o diagnóstico diferencial incluía três possibilidades e explicou cada uma.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.differential_diagnosis.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The doctor said the differential included three possibilities, and explained each one.",
+        "translation": "의사는 감별 진단에 포함된 세 가지 가능성을 차례로 설명했습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.differential_diagnosis.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The doctor said the differential included three possibilities, and explained each one.",
+        "translation": "医師は鑑別診断として三つの可能性を示し、それぞれについて説明しました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.differential_diagnosis.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The doctor said the differential included three possibilities, and explained each one.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d7f72bf0c2db69d91286e0c85d03d3444d18ead8c2de07c284cb620a63bfd8e6": [
+      {
+        "forms": [
+          "Currency",
+          "mon_currency"
+        ],
+        "id": "lex.sa.money.mon_currency",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Currency",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_currency.alt",
+          "sns.sa.money.mon_currency.alt.ja",
+          "sns.sa.money.mon_currency.alt.ko",
+          "sns.sa.money.mon_currency.alt.pt_br",
+          "sns.sa.money.mon_currency.alt.id",
+          "sns.sa.money.mon_currency.alt.th",
+          "sns.sa.money.mon_currency.alt.tr"
+        ]
+      },
+      {
+        "definition": "The money of a country: its notes, its coins, and the rules that govern them.",
+        "exampleIds": [
+          "exm.sa.money.mon_currency.1.1"
+        ],
+        "gloss": "The money of a country: its notes, its coins, and the rules that govern them.",
+        "id": "sns.sa.money.mon_currency.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_currency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある国のお金の単位のこと。発行される紙幣・硬貨や額面、交換のきまりなどを含む。",
+        "exampleIds": [
+          "exm.sa.money.mon_currency.1.1.ja"
+        ],
+        "gloss": "その国の紙幣・硬貨と、それらに関する取り決め。",
+        "id": "sns.sa.money.mon_currency.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.mon_currency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "한 나라의 지폐와 동전으로 이루어진 돈과 이를 다루는 규칙을 이룬다. 통화는 서로 다른 나라의 돈과 구별된다.",
+        "exampleIds": [
+          "exm.sa.money.mon_currency.1.1.ko"
+        ],
+        "gloss": "한 나라에서 통용하는 돈과 그 사용 규칙.",
+        "id": "sns.sa.money.mon_currency.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.mon_currency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dinheiro utilizado em um país, composto por cédulas, moedas e pelos regulamentos que governam sua emissão e circulação.",
+        "exampleIds": [
+          "exm.sa.money.mon_currency.1.1.pt_br"
+        ],
+        "gloss": "Moeda oficial de um país, incluindo cédulas, moedas e regras de emissão.",
+        "id": "sns.sa.money.mon_currency.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.mon_currency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Mata uang adalah uang yang berlaku di suatu negara, termasuk uang kertas, uang logam, dan aturan yang mengaturnya.",
+        "exampleIds": [
+          "exm.sa.money.mon_currency.1.1.id"
+        ],
+        "gloss": "Mata uang adalah uang yang berlaku di suatu negara, termasuk uang kertas, uang logam, dan aturan yang mengaturnya.",
+        "id": "sns.sa.money.mon_currency.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.mon_currency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เงินที่ใช้ในประเทศหนึ่ง ได้แก่ ธนบัตร เหรียญ และกฎเกณฑ์เกี่ยวกับการออกและใช้เงินตรา",
+        "exampleIds": [
+          "exm.sa.money.mon_currency.1.1.th"
+        ],
+        "gloss": "ระบบเงินของประเทศ ทั้งธนบัตร เหรียญ และกฎเกณฑ์ที่กำกับ",
+        "id": "sns.sa.money.mon_currency.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.mon_currency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir ülkenin banknotlarından, madeni paralarından ve bunların kullanımını düzenleyen kurallardan oluşan para birimi.",
+        "exampleIds": [
+          "exm.sa.money.mon_currency.1.1.tr"
+        ],
+        "gloss": "Bir ülkenin banknot, madeni para ve para sistemi.",
+        "id": "sns.sa.money.mon_currency.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.mon_currency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_currency.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dükkân yalnızca yerel para birimini kabul eder.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.mon_currency.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ร้านค้านี้รับเฉพาะสกุลเงินท้องถิ่น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.mon_currency.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Toko itu hanya menerima mata uang setempat.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.mon_currency.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A loja aceita apenas a moeda local.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.mon_currency.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "이 가게에서는 지역 통화만 받을 수 있습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.mon_currency.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "この店はその国の通貨だけを受け付ける。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.mon_currency.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The shop takes only the local currency.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

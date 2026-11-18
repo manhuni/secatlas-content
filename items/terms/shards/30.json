@@ -1,0 +1,103 @@
+{
+  "items": {
+    "abs_reaction_time": {
+      "definition": "The time between seeing a hazard and moving the brake pedal.",
+      "dictionaryId": "lex.sa.daily_skills.abs_reaction_time",
+      "example": "The reaction time of the driver is part of the distance the car travels before the brakes work.",
+      "fieldId": "daily_skills",
+      "id": "abs_reaction_time",
+      "lessonIds": [
+        "article_abs_braking"
+      ],
+      "packs": [
+        "knw.daily.abs_braking"
+      ],
+      "term": "Reaction time"
+    },
+    "dinosaur": {
+      "definition": "An animal that lived a very long time ago, long before people. Dinosaurs are gone now, but their bones turn to stone under the ground.",
+      "dictionaryId": "lex.sa.kids_adventure.dinosaur",
+      "example": "The long-necked dinosaur pulled leaves from the treetop.",
+      "fieldId": "kids_adventure",
+      "id": "dinosaur",
+      "lessonIds": [
+        "article_dinosaur_land"
+      ],
+      "packs": [
+        "knw.kids.adventure.dinos"
+      ],
+      "term": "Dinosaur"
+    },
+    "dream": {
+      "definition": "The story your brain makes while you sleep. Some people remember them, most do not.",
+      "dictionaryId": "lex.sa.kids_science.dream",
+      "example": "I had a strange dream about a talking bicycle.",
+      "fieldId": "kids_science",
+      "id": "dream",
+      "lessonIds": [
+        "article_science_sleepneed"
+      ],
+      "packs": [
+        "knw.kids.science.sleepneed"
+      ],
+      "term": "Dream"
+    },
+    "ethnocentrism": {
+      "definition": "Judging another culture by the standards of your own, and reading every difference as a mistake.",
+      "dictionaryId": "lex.sa.culture.ethnocentrism",
+      "example": "Calling a local custom rude is ethnocentrism, not an observation.",
+      "fieldId": "culture",
+      "id": "ethnocentrism",
+      "lessonIds": [
+        "article_culture_shock"
+      ],
+      "packs": [
+        "knw.culture.shock"
+      ],
+      "term": "Ethnocentrism"
+    },
+    "linear_equation": {
+      "definition": "An equation that can be written as ax + b = 0, with a not equal to zero.",
+      "dictionaryId": "exp.sa.en.linear-equation",
+      "example": "2x + 3 = 11 is a linear equation in one unknown.",
+      "fieldId": "mathematics",
+      "hidden": true,
+      "id": "linear_equation",
+      "lessonIds": [],
+      "packs": [
+        "knw.solving.linear"
+      ],
+      "term": "linear equation"
+    },
+    "lsc_approach_avoidance": {
+      "definition": "The state in which the same goal pulls you towards it and away from it at the same time.",
+      "dictionaryId": "lex.sa.social.lsc_approach_avoidance",
+      "example": "The approach-avoidance conflict is inside him, not in the other person.",
+      "fieldId": "social",
+      "id": "lsc_approach_avoidance",
+      "lessonIds": [
+        "article_loneliness_selectivity"
+      ],
+      "packs": [
+        "knw.social.loneliness_selectivity"
+      ],
+      "term": "Approach-avoidance conflict"
+    },
+    "shallow_knowledge": {
+      "definition": "Familiarity with the surface of many topics without understanding of how any of them works.",
+      "dictionaryId": "lex.sa.mind.shallow_knowledge",
+      "example": "",
+      "fieldId": "mind",
+      "id": "shallow_knowledge",
+      "lessonIds": [
+        "article_info_overload"
+      ],
+      "packs": [
+        "knw.mind.info_overload"
+      ],
+      "term": "Shallow knowledge"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

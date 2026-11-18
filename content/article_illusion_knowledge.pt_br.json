@@ -1,0 +1,79 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_illusion_knowledge",
+  "objectives": [
+    "Explique o que é a ilusão do conhecimento e de onde ela vem.",
+    "Descreva o efeito Dunning–Kruger e reconheça-o em si mesmo.",
+    "Mostre como os mecanismos de busca e a IA reforçam a ilusão.",
+    "Explique o viés de confirmação e por que ele parece ser uma evidência.",
+    "Exercícios práticos que distinguem a informação do verdadeiro entendimento."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "A ilusão do conhecimento é a diferença entre o quanto você acha que sabe sobre um assunto e o quanto realmente sabe. Ela cresce em um ambiente específico: aquele em que as respostas estão sempre a uma busca de distância. Quando a informação é barata, o cérebro para de registrar a diferença entre “eu sei isso” e “eu sei onde encontrar isso”.\n\nPsicólogos demonstraram o efeito com um truque simples. Deram às pessoas a possibilidade de pesquisar na internet enquanto respondiam a perguntas e, depois, fizeram as mesmas perguntas sem acesso à internet. As pessoas que pesquisaram de forma consistently avaliaram seu próprio conhecimento como maior, mesmo sobre assuntos que nunca tinham pesquisado. O acesso às respostas inflou a sensação de saber.\n\nOs assistentes de IA vão um passo adiante. Eles não apenas dão acesso às respostas; eles fornecem respostas fluentes e confiantes. A fluência parece capacidade, e uma resposta fluente e errada é o tipo mais perigoso.",
+      "examples": [
+        "Depois de pedir a uma IA que explique a inflação, você sente que entende a inflação — mas tente escrever a explicação por conta própria e a sensação desmorona."
+      ],
+      "heading": "A resposta mais fácil é a que parece verdadeira"
+    },
+    {
+      "body": "O efeito Dunning–Kruger descreve um padrão doloroso: quanto menos alguém sabe sobre um assunto, mais tende a superestimar sua competência. Os Beginners viram apenas a superfície de uma área — o suficiente para sentir sua forma — e nada ainda da profundidade que mostraria quanto ainda está faltando.\n\nDois mecanismos impulsionam esse padrão. First, a skill necessária para julgar respostas é a mesma necessária para produzi-las. Uma pessoa que não consegue identificar um argumento ruim não consegue contar quantos argumentos ruins aceita. Second, o início da learning é genuinamente recompensador: você passa de não saber nada para saber algo, e a slope parece íngreme. Only mais tarde você descobre que o mapa é muito maior do que a parte que você percorreu.\n\nO ambiente moderno de information alimenta essa curve. Uma week assistindo a videos ou fazendo vinte perguntas a uma IA pode fazer um beginner se sentir como mid-expert. Os Real experts, meanwhile, viram edge cases suficientes para duvidar de si mesmos. A voz mais loudest na sala raramente é a mais accurate.",
+      "examples": [
+        "Uma pessoa que assistiu a cinco videos sobre nutrition defende com confiança uma opinião diante de um dietitian — e não consegue dizer o que é um controlled trial."
+      ],
+      "heading": "Dunning–Kruger e a pressa do iniciante"
+    },
+    {
+      "body": "O viés de confirmação é a tendência a buscar, lembrar e confiar em informações que apoiam o que você já acredita, e a descartar o restante. Por dentro, não parece um viés. Parece que o mundo continua concordando com você.\n\nOs mecanismos de busca amplificam isso silenciosamente. Eles classificam os resultados com base no que as pessoas clicam, e as pessoas clicam no que já concordam. Digite uma afirmação como uma pergunta e o mecanismo retorna evidências a favor dela. Digite a afirmação oposta e ele também retorna evidências a favor dela. A ferramenta é um espelho usando um jaleco de laboratório.\n\nOs assistentes de IA acrescentam uma segunda camada: são treinados para serem cordiais. Faça perguntas tendenciosas e eles costumam seguir a linha que vocêestablished. Uma sessão com uma IA pode deixá-lo mais certo e não mais correto — a certeza emprestada da fluência da máquina, não de evidências que você examinou.",
+      "examples": [
+        "Ao pesquisar “por que o café é bom para você” e “por que o café é ruim para você”, os dois retornos apresentam centenas de artigos convictos."
+      ],
+      "heading": "Viés de confirmação: a busca que nunca foi uma busca"
+    },
+    {
+      "body": "Estes termos nomeiam as peças móveis da illusion. Learn them e você pode observar a machinery funcionando em sua própria cabeça.",
+      "heading": "O vocabulário de saber",
+      "terms": [
+        {
+          "example": "Ele tinha a illusion de saber sobre encanamento até que o cano que ele 'consertou' alagou o banheiro.",
+          "gloss": "A falsa sensação de compreender um tópico que vem do fácil acesso a respostas, e não da compreensão real."
+        },
+        {
+          "example": "O Dunning–Kruger effect explica por que o employee mais novo era o mais certain de que o system nunca falharia.",
+          "gloss": "O padrão em que pessoas com pouca habilidade em um domain superestimam sua própria ability, porque a habilidade necessária para judge as respostas é a mesma necessária para dá-las."
+        },
+        {
+          "example": "A confirmation bias dele significa que ele lê três reviews que elogiam o car e ignora as trinta que relatam trouble no engine.",
+          "gloss": "A tendency de procurar, lembrar e confiar em information que apoia as beliefs existentes, enquanto minimiza o restante."
+        },
+        {
+          "example": "O Google effect explica por que ninguém na meeting conseguia se lembrar da date, mas todos sabiam qual site a teria.",
+          "gloss": "A tendency de esquecer information que é fácil de encontrar online, enquanto lembra como encontrá-la."
+        },
+        {
+          "example": "Intellectual humility é dizer 'Eu estava wrong sobre isso' em public sem que isso pareça uma defeat.",
+          "gloss": "O habit de sustentar as próprias beliefs com a quantidade certa de confidence: forte quando a evidence é forte, fraca quando ela é fraca."
+        },
+        {
+          "example": "Information literacy é verificar se a headline chocante leva a uma study ou a outra headline.",
+          "gloss": "A skill de encontrar, judge e usar information: distinguir uma primary source de uma opinion, e evidence de um anecdote."
+        }
+      ]
+    },
+    {
+      "body": "O antídoto mais rápido para a ilusão de conhecimento é a recuperação. Depois de aprender algo, feche tudo e explique em voz alta com suas próprias palavras, idealmente para uma pessoa real ou uma página em branco. As lacunas que você não sabia que tinha aparecem imediatamente. Se você não consegue produzir a explicação sem a ferramenta, o conhecimento nunca foi seu.",
+      "heading": "O teste do explain-it-back"
+    },
+    {
+      "body": "Nada disso significa que as ferramentas são o inimigo. Os mecanismos de busca e a IA são amplificadores extraordinários — para quem sabe a diferença entre tomar emprestada uma resposta e|possuí-la. As práticas que mantêm essa distinção nítida são antigas e baratas.\n\n**Teste a si mesmo antes de confiar em si mesmo.** Depois de ler, feche a aba e escreva a ideia principal de memória. **Procure o contra-argumento mais forte**, não o mais fraco: se você testar sua ideia apenas contra homens de palha, ela nunca falhará. **Pergunte de onde vem a afirmação**: de um estudo, de uma testemunha ocular ou de uma cadeia de repostagens? **Atualize em voz alta**: fale ou anote quando mudar de ideia, para que mudar de ideia se torne um evento normal, e não uma derrota.\n\nA sensação de saber é um prazer que o mundo moderno oferece de graça. O conhecimento real ainda custa o preço de sempre: atenção, esforço e a disposição de estar errado no curto prazo, para que você possa estar certo no longo prazo.",
+      "examples": [
+        "Antes do seu próximo argumento, gaste dez minutos escrevendo a melhor versão do caso do outro lado. Vencer ou perder, você saberá mais do que quando começou."
+      ],
+      "heading": "De sentir-se informado a estar informado"
+    }
+  ],
+  "summary": "Quanto mais fácil é encontrar uma resposta, mais pessoas acham que sempre souberam. Este artigo explica a ilusão do conhecimento: como os mecanismos de busca e a IA alimentam o efeito Dunning–Kruger, por que o viés de confirmação dá a sensação de estar certo e como distinguir o fato de ter informações do fato de ter compreensão.",
+  "title": "A Ilusão do Conhecimento: Por que Respostas Fáceis Parecem Verdade"
+}

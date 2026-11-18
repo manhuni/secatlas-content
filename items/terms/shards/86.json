@@ -1,0 +1,107 @@
+{
+  "items": {
+    "active_listening": {
+      "definition": "Listening to understand the other person's point, including checking your understanding, instead of waiting for your turn to speak.",
+      "dictionaryId": "lex.sa.social.active_listening",
+      "example": "Active listening means repeating their concern back before you answer it.",
+      "fieldId": "social",
+      "id": "active_listening",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Active listening"
+    },
+    "bedtime": {
+      "conflict": true,
+      "definition": "The time when you get ready to sleep. It is the end of the evening.",
+      "dictionaryId": "lex.sa.kids_daily.bedtime",
+      "example": "Bedtime is eight o'clock on a school night.",
+      "fieldId": "kids_daily",
+      "id": "bedtime",
+      "lessonIds": [
+        "article_day",
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime",
+        "knw.kids.home.day"
+      ],
+      "term": "Bedtime"
+    },
+    "compute_infrastructure": {
+      "definition": "The chips, data centers and energy supply that make training and running large models possible.",
+      "dictionaryId": "lex.sa.mind.compute_infrastructure",
+      "example": "",
+      "fieldId": "mind",
+      "id": "compute_infrastructure",
+      "lessonIds": [
+        "article_local_ai"
+      ],
+      "packs": [
+        "knw.mind.local_ai"
+      ],
+      "term": "Compute infrastructure"
+    },
+    "kpar_rule": {
+      "definition": "A statement of what to do in a case, written for the situation the author had in mind.",
+      "dictionaryId": "lex.sa.mind.kpar_rule",
+      "example": "The rule says to tighten the bolt to a stated torque, and it says nothing about the old bolt.",
+      "fieldId": "mind",
+      "id": "kpar_rule",
+      "lessonIds": [
+        "article_knowledge_paradox"
+      ],
+      "packs": [
+        "knw.mind.knowledge_paradox"
+      ],
+      "term": "Rule"
+    },
+    "luggage_storage": {
+      "definition": "Free storage of bags before check-in or after check-out, which lets you use the city without carrying a suitcase.",
+      "dictionaryId": "lex.sa.travel.luggage_storage",
+      "example": "Could you store my luggage until my flight in the evening?",
+      "fieldId": "travel",
+      "id": "luggage_storage",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Luggage storage"
+    },
+    "rapport": {
+      "definition": "A comfortable relationship between people, built when each can predict how the other will behave.",
+      "dictionaryId": "lex.sa.social.rapport",
+      "example": "We had no topic in common, but we talked for twenty minutes and had instant rapport.",
+      "fieldId": "social",
+      "id": "rapport",
+      "lessonIds": [
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.social.smalltalk"
+      ],
+      "term": "Rapport"
+    },
+    "spec_competence": {
+      "definition": "The ability to do a piece of work well.",
+      "dictionaryId": "lex.sa.mind.spec_competence",
+      "example": "His competence is in the numbers; the rest of the project is not his field.",
+      "fieldId": "mind",
+      "id": "spec_competence",
+      "lessonIds": [
+        "article_specialization_blindspot"
+      ],
+      "packs": [
+        "knw.mind.specialization_blindspot"
+      ],
+      "term": "Competence"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

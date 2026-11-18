@@ -1,0 +1,1789 @@
+{
+  "records": {
+    "2b1d52ac254c84c6e01cdff069d4382cbce92072b5f12694e23ec8081de67996": [
+      {
+        "forms": [
+          "Tax withheld",
+          "tax_withholding"
+        ],
+        "id": "lex.sa.money.tax_withholding",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Tax withheld",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.tax_withholding.alt",
+          "sns.sa.money.tax_withholding.alt.ja",
+          "sns.sa.money.tax_withholding.alt.ko",
+          "sns.sa.money.tax_withholding.alt.pt_br",
+          "sns.sa.money.tax_withholding.alt.id",
+          "sns.sa.money.tax_withholding.alt.th",
+          "sns.sa.money.tax_withholding.alt.tr"
+        ]
+      },
+      {
+        "definition": "Income tax taken out of your pay in advance by the employer. It is not your final tax bill.",
+        "exampleIds": [
+          "exm.sa.money.tax_withholding.1.1"
+        ],
+        "gloss": "Income tax taken out of your pay in advance by the employer. It is not your final tax bill.",
+        "id": "sns.sa.money.tax_withholding.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.tax_withholding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "給与や賞与が支払われる際に、雇主が先手を引いて控除する税額をいう。最終的な納税額そのものではない。",
+        "exampleIds": [
+          "exm.sa.money.tax_withholding.1.1.ja"
+        ],
+        "gloss": "雇主が給与から先に差し引いて徴収する所得税。",
+        "id": "sns.sa.money.tax_withholding.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.tax_withholding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "근로자의 급여를 지급할 때 고용인이 먼저 떼어 내는 세금이다. 연말에 계산하는 최종 세금 전체와는 다를 수 있다.",
+        "exampleIds": [
+          "exm.sa.money.tax_withholding.1.1.ko"
+        ],
+        "gloss": "급여에서 미리 원천징수된 소득세.",
+        "id": "sns.sa.money.tax_withholding.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.tax_withholding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Valor de imposto retido pelo empregador antes do pagamento do salário. Ele não representa necessariamente a dívida tributária final da pessoa.",
+        "exampleIds": [
+          "exm.sa.money.tax_withholding.1.1.pt_br"
+        ],
+        "gloss": "Imposto sobre a renda descontado antecipadamente do pagamento.",
+        "id": "sns.sa.money.tax_withholding.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.tax_withholding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pajak yang dipotong majikan dari gaji di muka sebagai bagian dari pajak akhir tahun. Jumlah ini bukan tagihan pajak final dan dapat disesuaikan saat pajakiann taun dihitung.",
+        "exampleIds": [
+          "exm.sa.money.tax_withholding.1.1.id"
+        ],
+        "gloss": "Pajak penghasilan yang dipotong dari gaji sebelum dibayarkan.",
+        "id": "sns.sa.money.tax_withholding.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.tax_withholding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "นายจ้างหักภาษีจากเงินได้ล่วงหน้าเพื่อนำไปชำระกับหน่วยงานภาษี ยอดที่หักไว้เป็นเพียงการประมาณการ ไม่ใช่ภาษีสุดท้ายที่ต้องชำระ",
+        "exampleIds": [
+          "exm.sa.money.tax_withholding.1.1.th"
+        ],
+        "gloss": "ภาษีที่ถูกหักไว้จากเงินได้ก่อนจ่ายให้พนักงาน",
+        "id": "sns.sa.money.tax_withholding.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.tax_withholding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Vergi kesintisi, çalışanın ücretinden işverence peşin alınan gelir vergisidir; nihai vergi borcunun tamamı değildir.",
+        "exampleIds": [
+          "exm.sa.money.tax_withholding.1.1.tr"
+        ],
+        "gloss": "Çalışanın ücretinden işverence peşin alınan gelir vergisi.",
+        "id": "sns.sa.money.tax_withholding.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.tax_withholding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.tax_withholding.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The tax withheld this month was higher because my bonus was large.",
+        "translation": "Bu ayki vergi kesintisi, primimin büyük olması nedeniyle daha yüksekti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.tax_withholding.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The tax withheld this month was higher because my bonus was large.",
+        "translation": "ภาษีที่ถูกหักไว้เดือนนี้สูงขึ้นเพราะฉันได้โบนัสก้อนใหญ่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.tax_withholding.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The tax withheld this month was higher because my bonus was large.",
+        "translation": "Pajak yang dipotong bulan ini lebih tinggi karena bonus saya besar.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.tax_withholding.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The tax withheld this month was higher because my bonus was large.",
+        "translation": "O imposto retido neste mês foi maior porque meu bônus foi elevado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.tax_withholding.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The tax withheld this month was higher because my bonus was large.",
+        "translation": "이번 달에 원천징수된 세금은 보너스가 커서 평소보다 많았습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.tax_withholding.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The tax withheld this month was higher because my bonus was large.",
+        "translation": "今月の源泉徴収税は、賞与が増えた分、高くなっていました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.tax_withholding.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The tax withheld this month was higher because my bonus was large.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "2b20299668a6aa796fc60da71e174a2f1ef2e4957ce4adf1003d57d41b1742c1": [
+      {
+        "forms": [
+          "Accountability",
+          "gem_accountability"
+        ],
+        "id": "lex.sa.social.gem_accountability",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Accountability",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gem_accountability.alt",
+          "sns.sa.social.gem_accountability.alt.ja",
+          "sns.sa.social.gem_accountability.alt.ko",
+          "sns.sa.social.gem_accountability.alt.pt_br",
+          "sns.sa.social.gem_accountability.alt.id",
+          "sns.sa.social.gem_accountability.alt.th",
+          "sns.sa.social.gem_accountability.alt.tr"
+        ]
+      },
+      {
+        "definition": "Owning the effect of your behaviour and repairing what it damaged.",
+        "exampleIds": [
+          "exm.sa.social.gem_accountability.1.1"
+        ],
+        "gloss": "Owning the effect of your behaviour and repairing what it damaged.",
+        "id": "sns.sa.social.gem_accountability.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gem_accountability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自分の行為がもたらした結果を引き受け、謝罪だけでなく.Streamline what it damagedを修復する責任の态度を指す。",
+        "exampleIds": [
+          "exm.sa.social.gem_accountability.1.1.ja"
+        ],
+        "gloss": "自分の行動の結果に責任を負い、害を修復すること。",
+        "id": "sns.sa.social.gem_accountability.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gem_accountability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자신의 행동이 낳은 결과와 타인에게 끼친 피해를 인정하고, 그 피해를 줄이거나 회복할 책임을 지는 태도다. 단순한 사과가 아니라 결과에 대해 책임지는 일을 뜻한다.",
+        "exampleIds": [
+          "exm.sa.social.gem_accountability.1.1.ko"
+        ],
+        "gloss": "자신의 행동이 만든 영향을 인정하고, 저지어진 것을 회복하는 책임이다.",
+        "id": "sns.sa.social.gem_accountability.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gem_accountability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Capacidade e obrigação de reconhecer os efeitos do próprio comportamento, assumir a responsabilidade por eles e reparar os danos causados.",
+        "exampleIds": [
+          "exm.sa.social.gem_accountability.1.1.pt_br"
+        ],
+        "gloss": "Assumir a responsabilidade pelos efeitos do próprio comportamento.",
+        "id": "sns.sa.social.gem_accountability.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gem_accountability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Akuntabilitas adalah kesediaan untuk mengakui dampak perilaku one's, bertanggung jawab atasnya, dan memperbaiki kerusakan yang timbul. Dalam konteks ini, sekadar menyesal tanpa tindakan perbaikan belum cukup.",
+        "exampleIds": [
+          "exm.sa.social.gem_accountability.1.1.id"
+        ],
+        "gloss": "Akuntabilitas adalah bertanggung jawab atas dampak perilaku oneself serta memperbaiki kerusakan yang timbul.",
+        "id": "sns.sa.social.gem_accountability.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gem_accountability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การยอมรับความรับผิดชอบต่อผลของพฤติกรรมของตนและดำเนินการเพื่อซ่อมแซมสิ่งที่เสียหาย ไม่ใช่เพียงการขอโทษหรือแสดงความสงสัย",
+        "exampleIds": [
+          "exm.sa.social.gem_accountability.1.1.th"
+        ],
+        "gloss": "การรับผิดชอบผลของการกระทำและแก้ไขความเสียหายที่เกิดขึ้น",
+        "id": "sns.sa.social.gem_accountability.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gem_accountability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Eylemlerinden sorumlu olmak, ortaya çıkan zararı kabul etmek ve onu düzeltmek için harekete geçmek. Yalnızca özür dilemek, hesap verebilirlik yerine geçmez.",
+        "exampleIds": [
+          "exm.sa.social.gem_accountability.1.1.tr"
+        ],
+        "gloss": "Kendi davranışının sonuçlarını üstlenmek ve verdiği zararı gidermek.",
+        "id": "sns.sa.social.gem_accountability.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gem_accountability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gem_accountability.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hesap verebilirlik önce geldi: neyi kırdığını ve bunu düzeltmek için ne yapacağını açıkladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gem_accountability.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "สิ่งสำคัญที่สุดคือการรับผิดชอบ เขาระบุว่าทำอะไรเสียหายและจะแก้ไขอย่างไร",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gem_accountability.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Akuntabilitas harus didahulukan: ia menyebutkan apa yang dirusak dan akan undertakes untuk memperbaikinya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gem_accountability.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A responsabilidade veio primeiro: ele reconheceu o que havia quebrado e explicou o que faria a respeito.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gem_accountability.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "책임이 먼저였다. 그는 자신이 무엇을 망가뜨렸고 무엇을 할지 분명히 말했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gem_accountability.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "説明責任が先だった、彼は自分が壊したものとこれから行う是正について言及した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gem_accountability.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Accountability came first: he named what he had broken and what he would do about it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "2b2407b88242b0adaa16f28006b3fe1ab000641fee8d4e6ae576cec6f44a1859": [
+      {
+        "forms": [
+          "Deflection",
+          "cs_deflection"
+        ],
+        "id": "lex.sa.mind.cs_deflection",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Deflection",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_deflection.alt",
+          "sns.sa.mind.cs_deflection.alt.ja",
+          "sns.sa.mind.cs_deflection.alt.ko",
+          "sns.sa.mind.cs_deflection.alt.pt_br",
+          "sns.sa.mind.cs_deflection.alt.id",
+          "sns.sa.mind.cs_deflection.alt.th",
+          "sns.sa.mind.cs_deflection.alt.tr"
+        ]
+      },
+      {
+        "definition": "Turning a question back on the person who asked it, so that the original question is never answered.",
+        "exampleIds": [
+          "exm.sa.mind.cs_deflection.1.1"
+        ],
+        "gloss": "Turning a question back on the person who asked it, so that the original question is never answered.",
+        "id": "sns.sa.mind.cs_deflection.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_deflection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "元の問いに答えず、質問した人に向けて別の質問を返すこと。話題や責任を逸らすときに使われる。",
+        "exampleIds": [
+          "exm.sa.mind.cs_deflection.1.1.ja"
+        ],
+        "gloss": "答えずに、質問した人へ質問を返すこと。",
+        "id": "sns.sa.mind.cs_deflection.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_deflection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자신에게Questions asked question throw back so original unanswered. 답을 흐리지 않으려는 시도다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_deflection.1.1.ko"
+        ],
+        "gloss": "질문한 사람에게 질문을 돌려 원래 답을 피하는 행위.",
+        "id": "sns.sa.mind.cs_deflection.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_deflection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recurso de devolver ao interlocutor a pergunta que ele fez, em vez de responder. A desvio pode impedir que a questão original sejareated de forma direta.",
+        "exampleIds": [
+          "exm.sa.mind.cs_deflection.1.1.pt_br"
+        ],
+        "gloss": "Desvio de uma pergunta para quem a fez, deixando a pergunta original sem resposta.",
+        "id": "sns.sa.mind.cs_deflection.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_deflection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tindakan mengembalikan pertanyaan kepada orang yang mengajuannya sehingga pertanyaan asal tidak pernah terjawab. Tindakan ini biasanya menghindari jawaban yang sebenarnya.",
+        "exampleIds": [
+          "exm.sa.mind.cs_deflection.1.1.id"
+        ],
+        "gloss": "Pengalihan pertanyaan kembali kepada orang yang bertanya.",
+        "id": "sns.sa.mind.cs_deflection.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_deflection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การเปลี่ยนคำถามให้กลับมาหาผู้ถาม จนปัญหาเดิมไม่ได้รับคำตอบ มักเป็นวิธีหลบเลี่ยงการรับผิดชอบหรือเผยแสดงข้อมูล",
+        "exampleIds": [
+          "exm.sa.mind.cs_deflection.1.1.th"
+        ],
+        "gloss": "การโยกคำถามกลับไปยังผู้ถามเพื่อหลีกเลี่ยงการตอบ",
+        "id": "sns.sa.mind.cs_deflection.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_deflection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir soruyu, onu soran kişiye geri yönlendirerek asıl soruyu cevaplamaktan kaçınma. Böylece sorunun kaynağı araştırılmadan konu değiştirilmiş olur.",
+        "exampleIds": [
+          "exm.sa.mind.cs_deflection.1.1.tr"
+        ],
+        "gloss": "Soruya yanıt vermek yerine soruyu sorana geri çevirme.",
+        "id": "sns.sa.mind.cs_deflection.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_deflection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_deflection.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Saptırma bir kez işe yaradı; hâlâ çizimdeki sorunun ne olduğunu açıklamamıştım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_deflection.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การโยกคำถามกลับได้ผลครั้งเดียว แต่ฉันยังไม่เคยตอบว่าภาพวาดนั้นมีอะไรผิด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_deflection.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pengalihan itu berhasil untuk sementara, tetapi saya tetap belum menjawab apa yang salah dengan gambar itu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_deflection.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O desvio funcionou uma vez, e eu ainda não havia respondido o que havia de errado com o desenho.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_deflection.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "질문을 되돌리는 데는 성공했지만, 나는 그림의 무엇이 잘못되었는지는 여전히 답하지 못했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_deflection.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その逸らしは一度効果があり、図面の問題にはまだ答えられていなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_deflection.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The deflection worked once, and I still had not answered what was wrong with the drawing.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "2b26ef1ffae23a7b113d21b992c3088450e46fde84f56e33ee85dc2e00d1aafd": [
+      {
+        "forms": [
+          "Threshold braking",
+          "abs_threshold_braking"
+        ],
+        "id": "lex.sa.daily_skills.abs_threshold_braking",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Threshold braking",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.abs_threshold_braking.alt",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.ja",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.ko",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.pt_br",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.id",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.th",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.tr"
+        ]
+      },
+      {
+        "definition": "Braking at the limit of grip by pressing and releasing the pedal before the wheel locks.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1"
+        ],
+        "gloss": "Braking at the limit of grip by pressing and releasing the pedal before the wheel locks.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "タイヤが路面を抓住できる限界の力でブレーキを踏む技術。ABSがない車両では、ペダルを踏んだり緩めたりして車輪のロックを防ぐ。",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.ja"
+        ],
+        "gloss": "タイヤのグリップの限界で、車輪がロックしないように brake 操作を制御すること。",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "바퀴가 완전히 잠기기 직전의 최대 마찰력 한계에서 페달 압력을 조절하며 제동하는 방법. ABS가 없는 차량에서는 이 기술이 필요하다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.ko"
+        ],
+        "gloss": "바퀴가 잠기지 않도록 페달을 밟고 놓으며 최대 마찰력으로 제동하는 방법.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Técnica de frenagem usada quando não há sistema ABS, na qual o motorista pressiona e solta o pedal para evitar que a roda trave. Exige controle e pode não ser adequada em emergências.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.pt_br"
+        ],
+        "gloss": "Frenagem no limite da aderência, alternando a pressão do pedal para impedir o travamento da roda.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Teknik pengereman pada batas daya cengkeraman dengan menekan dan melepas pedal rem sebelum roda terkunci. Pada kendaraan tanpa ABS, teknik ini diperlukan untuk mencegah terkunci.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.id"
+        ],
+        "gloss": "Pengereman pada batas cengkeraman dengan menekan dan melepas pedal sebelum roda terkunci.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "วิธีเบรกที่ใช้แรงดันใกล้ขีดจำกัดแรงยึดเกาะสูงสุด ผู้ขับขี่ต้องกดแล้วคลายแป้นเบรกเป็นจังหวะเพื่อไม่ให้ล้อล็อกหมุน",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.th"
+        ],
+        "gloss": "การเบรกในระดับขีดจำกัดแรงยึดเกาะโดยกดแล้วคลายแป้นก่อนล้อล็อก",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Fren pedalına basılıp bırakılarak tekerleğin kilitlenmeden tutunma sınırında frenlenmesidir. ABS olmayan araçlarda kullanılır.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.tr"
+        ],
+        "gloss": "Tekerlek kilitlenmeden, tutunma sınırında fren yapmak.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ABS olmayan araçta sürücünün sınırda frenleme yapması gerekir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "หากรถไม่มีระบบ ABS ผู้ขับขี่ต้องใช้การเบรกที่ขีดจำกัดแรงยึดเกาะ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tanpa ABS, pengemudi harus menggunakan pengereman ambang.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sem o sistema ABS, o motorista precisa usar a frenagem no limite da aderência.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ABS가 없는 차량에서는 한계 제동 기법을 사용해야 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ABSがない車では、极限ブレーキを巧みに使う必要がある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Without ABS the driver has to use threshold braking.",
+        "translation": "Không có ABS, người lái phải dùng phanh tới ngưỡng.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "2b3bcb2b7d1d97cec0bf38439c7238a9e0e11bfd250e455712df0d781f35b98e": [
+      {
+        "forms": [
+          "Expertise",
+          "intel_expertise"
+        ],
+        "id": "lex.sa.mind.intel_expertise",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Expertise",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intel_expertise.alt",
+          "sns.sa.mind.intel_expertise.alt.ja",
+          "sns.sa.mind.intel_expertise.alt.ko",
+          "sns.sa.mind.intel_expertise.alt.pt_br",
+          "sns.sa.mind.intel_expertise.alt.id",
+          "sns.sa.mind.intel_expertise.alt.th",
+          "sns.sa.mind.intel_expertise.alt.tr"
+        ]
+      },
+      {
+        "definition": "Deep skill and knowledge in one narrow field, built up over years of practice.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1"
+        ],
+        "gloss": "Deep skill and knowledge in one narrow field, built up over years of practice.",
+        "id": "sns.sa.mind.intel_expertise.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある狭い分野で 長年の実践によって得た深いIllness.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.ja"
+        ],
+        "gloss": "ある狭い分野で、环境!",
+        "id": "sns.sa.mind.intel_expertise.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "특정 분야에 집중해 장기간 연습한 결과 얻은 높은 수준의 기술과 지식. 단순한 지식이나 대략적인 familiarity와 구별된다.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.ko"
+        ],
+        "gloss": "한 좁은 분야에서 오랜 연습으로 쌓은 깊고 전문적인 기술과 지식.",
+        "id": "sns.sa.mind.intel_expertise.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Especialização significativa em uma área, construída por experiência, estudo e prática prolongada. Implica mais do que conhecimento geral ou simples familiaridade com o assunto.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.pt_br"
+        ],
+        "gloss": "Conhecimento e habilidade aprofundados em um campo específico,ucking formados ao longo de anos de prática.",
+        "id": "sns.sa.mind.intel_expertise.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Keahlian dan pengetahuan mendalam dalam satu bidang tertentu yang terbentuk melalui pengalaman dan latihan bertahun-tahun. Kata ini menunjukkan keahlian yang lebih tinggi daripada kemampuan umum.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.id"
+        ],
+        "gloss": "Keahlian mendalam dalam satu bidang sempit yang diperoleh melalui latihan bertahun-tahun.",
+        "id": "sns.sa.mind.intel_expertise.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความเชี่ยวชาญคือทักษะและความรู้ที่ลึกและแคบ เกิดจากการฝึกปฏิบัติอย่างยาวนานในสาขาเดียว ไม่ใช่ความรู้กว้างๆ จึงมักพบในคนเฉพาะทาง และต่างจากความรู้ที่มีแต่ยังไม่ได้ใช้",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.th"
+        ],
+        "gloss": "ความชำนาญและความรู้ลึกในสาขาแคบๆ สั่งสมมาหลายปีแห่งการฝึกฝน",
+        "id": "sns.sa.mind.intel_expertise.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Belirli bir alanda uzun yıllar çalışarak kazanılmış derin bilgi, beceri ve ustalıktır. Genel bilgi veya yalnızca pratik bilgiden daha kapsamlı bir yetkinliği ifade eder.",
+        "exampleIds": [
+          "exm.sa.mind.intel_expertise.1.1.tr"
+        ],
+        "gloss": "Dar bir alanda, yılların pratiğiyle oluşmuş derin bilgi ve beceridir.",
+        "id": "sns.sa.mind.intel_expertise.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intel_expertise",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pres hattındaki uzmanlığı, makineyi yalnızca onun kurabileceği tek kişi yapmıştı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความเชี่ยวชาญของเธอในสายการผลิตทำให้เธอเป็นคนเดียวที่ตั้งเครื่องจักรได้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Keahliannya dalam pengoperasian mesin pers membuat ia satu-satunya orang yang mampu menyetel mesin tersebut.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sua especialização na linha de prensa tornou-a a única pessoa capaz de configurar a máquina.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀의 프레스 라인 전문 지식 덕분에 그녀만이 기계 설정을 할 수 있었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "プレス工程についての彼女のBET.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intel_expertise.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her expertise on the press line made her the only person who could set the machine up.",
+        "translation": "Chuyên môn của cô ấy về dây chuyền ép khiến cô ấy trở thành người duy nhất có thể thiết lập máy.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "2b4f296ce9a0de125f6acffe66ce74719c75c28e090337f701e07da2463ab813": [
+      {
+        "forms": [
+          "Consent",
+          "psy_consent"
+        ],
+        "id": "lex.sa.mind.psy_consent",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Consent",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.psy_consent.alt",
+          "sns.sa.mind.psy_consent.alt.ja",
+          "sns.sa.mind.psy_consent.alt.ko",
+          "sns.sa.mind.psy_consent.alt.pt_br",
+          "sns.sa.mind.psy_consent.alt.id",
+          "sns.sa.mind.psy_consent.alt.th",
+          "sns.sa.mind.psy_consent.alt.tr"
+        ]
+      },
+      {
+        "definition": "Agreement that is free, informed, and given by a person who is still able to say no.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1"
+        ],
+        "gloss": "Agreement that is free, informed, and given by a person who is still able to say no.",
+        "id": "sns.sa.mind.psy_consent.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "本人の自由意思と十分な情報に基づいて与えられる同意。拒むこともできたという状態であることが前提で、書式に署名しただけでは足りない。",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.ja"
+        ],
+        "gloss": "自由で、十分な情報を得て、なお「いや」と言える状態での同意。",
+        "id": "sns.sa.mind.psy_consent.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "강요받지 않고 필요한 정보를 바탕으로 자발적으로 표현한 동의이다. 어느 때든 거절할 수 있는 상태에서 이루어져야 한다.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.ko"
+        ],
+        "gloss": "자유롭고 정보에 근거해__, 그리고 거부할 수 있는 상태에서 이루어지는 동의.",
+        "id": "sns.sa.mind.psy_consent.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ConcordânciaManifestada de maneira livre e compreendida, sem pressão ou ameaça, por uma pessoa capaz de aceitar ou recusar a proposta.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.pt_br"
+        ],
+        "gloss": "Acordo livre, informado e dado por quem ainda pode dizer não.",
+        "id": "sns.sa.mind.psy_consent.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Persetujuan yang diberikan tanpa paksaan, setelah memahami informasi yang relevan, dan tetap dapat ditarik kembali ketika orang tersebut mampu berkata tidak.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.id"
+        ],
+        "gloss": "Kesepakatan yang diberikan secara bebas dan penuh informasi.",
+        "id": "sns.sa.mind.psy_consent.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความยินยอมที่เกิดจากการเลือกอย่างอิสระ มีข้อมูลเพียงพอ และยังสามารถพูดว่าไม่ได้ การเงียบหรือการเซ็นแบบฟอร์มโดยไม่มีความยินยอมดังกล่าวจึงไม่เพียงพอ",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.th"
+        ],
+        "gloss": "ความยินยอมที่เสรี เต็มทราบ และสามารถปฏิเสธได้",
+        "id": "sns.sa.mind.psy_consent.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rıza, baskı veya yanıltma olmadan verilmiş olmalı; kişi onaylamaktan vazgeçebilmelidir.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.tr"
+        ],
+        "gloss": "Kişinin özgür ve bilgilendirilmiş biçimde, hayır deme şansı varken verdiği onay.",
+        "id": "sns.sa.mind.psy_consent.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Rıza olmadan verilen sipariş, yazılı biçimde böyle görünse de sözleşme değildir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คำสั่งซื้อที่ไม่มีความยินยอมที่เสรีและเต็มทราบไม่ถือเป็นสัญญา แม้ในแบบฟอร์มจะเขียนว่าเป็นยินยอมก็ตาม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tanpa persetujuan, pesanan itu bukan kontrak, apa pun yang tertulis di dalam formulir.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sem consentimento, a ordem não constitui um contrato, qualquer que seja o que diga o formulário.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "동의가 없으면 서류에 어떤 내용이 적혀 있더라도 그 주문은 계약이 아니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "同意なしなら契約ではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Without consent the order is not a contract, whatever the form says.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "2b6d1862b679b271191bdf71d7530981add2dca9611890dec89b8bb543b0961b": [
+      {
+        "forms": [
+          "Best-before date",
+          "best_before"
+        ],
+        "id": "lex.sa.daily_skills.best_before",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Best-before date",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.best_before.alt",
+          "sns.sa.daily_skills.best_before.alt.ja",
+          "sns.sa.daily_skills.best_before.alt.ko",
+          "sns.sa.daily_skills.best_before.alt.pt_br",
+          "sns.sa.daily_skills.best_before.alt.id",
+          "sns.sa.daily_skills.best_before.alt.th",
+          "sns.sa.daily_skills.best_before.alt.tr"
+        ]
+      },
+      {
+        "definition": "The date after which the food is still safe to eat but has gone down in quality. A quality date, not a safety date.",
+        "exampleIds": [
+          "exm.sa.daily_skills.best_before.1.1"
+        ],
+        "gloss": "The date after which the food is still safe to eat but has gone down in quality. A quality date, not a safety date.",
+        "id": "sns.sa.daily_skills.best_before.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.best_before",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "賞味期限は、その日以降でも食べ物の安全性は保たれるが、味や品質が低下する年月日を指す。-figures食べ物の安全性を保証する期限とは区別する。",
+        "exampleIds": [
+          "exm.sa.daily_skills.best_before.1.1.ja"
+        ],
+        "gloss": "食べ物の品質が低下し始める境界日。",
+        "id": "sns.sa.daily_skills.best_before.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.best_before",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "음식이 안전하지 않다는 뜻이 아니라 맛이나 질감이 저하될 수 있다는 뜻의 품질 기준 날짜이다. 안전성 기준 날짜와 구별해야 한다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.best_before.1.1.ko"
+        ],
+        "gloss": "이 날짜가 지나도 먹을 수 있지만 품질이 저하되는 기준 날짜이다.",
+        "id": "sns.sa.daily_skills.best_before.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.best_before",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Indica o limite da qualidade do alimento, não da sua segurança. Depois dessa data, o produto pode continuar próprio para consumo, mas ter sabor ou textura piores.",
+        "exampleIds": [
+          "exm.sa.daily_skills.best_before.1.1.pt_br"
+        ],
+        "gloss": "Data após a qual o alimento ainda é seguro para consumo, mas perde qualidade.",
+        "id": "sns.sa.daily_skills.best_before.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.best_before",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tanggal terbaik sebelum menunjukkan bahwa makanan masih aman dimakan setelah tanggal tersebut, meskipun rasa atau mutunya sudah menurun. Tanggal ini menunjukkan mutu, bukan keamanan pangan.",
+        "exampleIds": [
+          "exm.sa.daily_skills.best_before.1.1.id"
+        ],
+        "gloss": "Tanggal setelah makanan masih aman dimakan tetapi kualitasnya menurun.",
+        "id": "sns.sa.daily_skills.best_before.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.best_before",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "วันที่บ่งชี้ว่าอาหารยังปลอดภัยต่อการรับประทาน แต่คุณภาพอาจลดลง จึงเป็นวันคุณภาพ ไม่ใช่วันสิ้นสุดอายุเพื่อความปลอดภัย",
+        "exampleIds": [
+          "exm.sa.daily_skills.best_before.1.1.th"
+        ],
+        "gloss": "วันที่ผ่านมาแล้วอาหารยังรับประทานได้แต่คุณภาพอาจลดลง",
+        "id": "sns.sa.daily_skills.best_before.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.best_before",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gıdanın hâlâ güvenle yenebildiği fakat lezzet veya dokusunun bozulmaya başladığı tarih. Güvenlik tarihi değil, kalite tarihidir.",
+        "exampleIds": [
+          "exm.sa.daily_skills.best_before.1.1.tr"
+        ],
+        "gloss": "Gıdanın kalitesinin düştüğü ancak güvenle tüketilebildiği tarih.",
+        "id": "sns.sa.daily_skills.best_before.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.best_before",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.best_before.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The best-before date has passed, so the biscuits are only stale, not bad.",
+        "translation": "En iyi tüketim tarihi geçtiği için bisküviler yalnızca bayatlamış, kötüleşmemiş.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.best_before.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The best-before date has passed, so the biscuits are only stale, not bad.",
+        "translation": "วันสิ้นสุดคุณภาพผ่านไปแล้ว คุกกี้จึงเพียงเก่าไม่ใช่เสีย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.best_before.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The best-before date has passed, so the biscuits are only stale, not bad.",
+        "translation": "Tanggal terbaik sebelum pada biskuit itu sudah lewat, tetapi biskuitnya hanya basi, bukan rusak.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.best_before.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The best-before date has passed, so the biscuits are only stale, not bad.",
+        "translation": "A data ideal de consumo já passou, então os biscoitos estão apenas velhos, não estragados.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.best_before.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The best-before date has passed, so the biscuits are only stale, not bad.",
+        "translation": "최적 섭취 기준일이 지났지만, 과자는 상한 것일 뿐 먹을 수 없다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.best_before.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The best-before date has passed, so the biscuits are only stale, not bad.",
+        "translation": "賞味期限が過ぎていたが、ボスコットは傷んでいるのではなく只是古estheticだけだった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.best_before.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The best-before date has passed, so the biscuits are only stale, not bad.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "2ba9ed81ae9fd8129bcc39be5451b576abd11ae6f82abe702b322689baca9b6b": [
+      {
+        "forms": [
+          "intercept",
+          "intercepts"
+        ],
+        "id": "lex.sa.en.intercept.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "intercept",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.intercept.noun",
+          "prn.sa.en.intercept.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.intercept.noun.1",
+          "sns.sa.en.intercept-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.intercept-noun",
+        "id": "prn.sa.en.intercept.noun",
+        "ipa": "/ˈɪntəsept/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.intercept.noun.us",
+        "ipa": "/ˈɪn.tɚ.sept/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Điểm đường thẳng cắt trục x hoặc trục y.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.intercept.noun.1.1",
+          "exm.sa.en.intercept-noun.more.01",
+          "exm.sa.en.intercept-noun.more.02"
+        ],
+        "gloss": "giao điểm với trục",
+        "id": "sns.sa.vi.intercept.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.intercept.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.intercept-noun",
+          "res.sa.aud.intercept-noun",
+          "res.sa.lnk.intercept-noun",
+          "res.sa.vid.intercept-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Where the line meets an axis.",
+        "exampleIds": [
+          "exm.sa.en.intercept.noun.1.1"
+        ],
+        "gloss": "Where the line meets an axis.",
+        "id": "sns.sa.en.intercept-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.intercept.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.intercept.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The y-intercept is the value of y when x = 0.",
+        "translation": "Tung độ gốc là giá trị y khi x = 0.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.intercept.noun.1",
+        "id": "lnk.sa.en.glossary.024",
+        "kind": "relation",
+        "toId": "sns.sa.vi.x-intercept.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.intercept.noun.1",
+        "id": "lnk.sa.en.glossary.025",
+        "kind": "relation",
+        "toId": "sns.sa.vi.y-intercept.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.intercept.noun.1",
+        "id": "lnk.sa.en.glossary.026",
+        "kind": "relation",
+        "toId": "sns.sa.vi.slope.noun.1",
+        "type": "related_to"
+      },
+      {
+        "forms": [
+          "intercept",
+          "intercepts",
+          "intercepted",
+          "intercepting"
+        ],
+        "id": "lex.sa.en.intercept.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "intercept",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.intercept.verb",
+          "prn.sa.en.intercept.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.intercept.verb.1",
+          "sns.sa.en.intercept-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.intercept-verb",
+        "id": "prn.sa.en.intercept.verb",
+        "ipa": "/ˌɪntəˈsept/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.intercept.verb.us",
+        "ipa": "/ˈɪn.tɚ.sept/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Cắt ngang đường đi của vật hoặc tín hiệu.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.intercept.verb.1.1",
+          "exm.sa.en.intercept-verb.more.01",
+          "exm.sa.en.intercept-verb.more.02"
+        ],
+        "gloss": "chặn; cắt",
+        "id": "sns.sa.vi.intercept.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.intercept.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.intercept-verb",
+          "res.sa.aud.intercept-verb",
+          "res.sa.lnk.intercept-verb",
+          "res.sa.vid.intercept-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "To stop or catch a person or a vehicle on the way.",
+        "exampleIds": [
+          "exm.sa.en.intercept.verb.1.1"
+        ],
+        "gloss": "To stop or catch a person or a vehicle on the way.",
+        "id": "sns.sa.en.intercept-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.intercept.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.intercept.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The line intercepts the axis at (0, 2).",
+        "translation": "Đường thẳng cắt trục tại (0, 2).",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.intercept.verb.1",
+        "id": "lnk.sa.en.glossary.027",
+        "kind": "relation",
+        "toId": "sns.sa.vi.point.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "2bb851abdf7a620ace836df7fd2857ec680765a17545b4ed53e6150e937e3d2d": [
+      {
+        "forms": [
+          "Pay band",
+          "pay_band"
+        ],
+        "id": "lex.sa.work.pay_band",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Pay band",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.pay_band.alt",
+          "sns.sa.work.pay_band.alt.ja",
+          "sns.sa.work.pay_band.alt.ko",
+          "sns.sa.work.pay_band.alt.pt_br",
+          "sns.sa.work.pay_band.alt.id",
+          "sns.sa.work.pay_band.alt.th",
+          "sns.sa.work.pay_band.alt.tr"
+        ]
+      },
+      {
+        "definition": "The range a role is paid within, with a minimum, a midpoint and a maximum.",
+        "exampleIds": [
+          "exm.sa.work.pay_band.1.1"
+        ],
+        "gloss": "The range a role is paid within, with a minimum, a midpoint and a maximum.",
+        "id": "sns.sa.work.pay_band.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.pay_band",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "某个职位。",
+        "exampleIds": [
+          "exm.sa.work.pay_band.1.1.ja"
+        ],
+        "gloss": "ある職位の給与の下限から上限までの範囲。",
+        "id": "sns.sa.work.pay_band.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.pay_band",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "같은 직무나 직급에서 지급할 수 있는 급여가 정해진 범위이며, 최소값과 중간값, 최대값으로 구성된다. 실제 급여는 성과와 경력 등에 따라 이 범위 안에서 결정된다.",
+        "exampleIds": [
+          "exm.sa.work.pay_band.1.1.ko"
+        ],
+        "gloss": "직무에 배정되는 급여의 최소·중간·최대 금액 범위이다.",
+        "id": "sns.sa.work.pay_band.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.pay_band",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Intervalo salarial definido para um cargo ou função. Ele estabelece os limites inferior e superior da remuneração, além de um valor de referência intermediário.",
+        "exampleIds": [
+          "exm.sa.work.pay_band.1.1.pt_br"
+        ],
+        "gloss": "É a faixa de salário prevista para uma função, com valor mínimo, médio e máximo.",
+        "id": "sns.sa.work.pay_band.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.pay_band",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rentang gaji yang berlaku bagi sebuah jabatan, dengan batas minimum, titik tengah, dan batas maksimum. Posisi dalam jabatan dapat menentukan tempat致敬 gaji berada dalam rentang tersebut.",
+        "exampleIds": [
+          "exm.sa.work.pay_band.1.1.id"
+        ],
+        "gloss": "Rentang gaji untuk suatu jabatan.",
+        "id": "sns.sa.work.pay_band.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.pay_band",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ช่วงอัตราเงินเดือนของตำแหน่งหนึ่ง ซึ่งมีอัตราต่ำสุด จุดกึ่งกลาง และอัตราสูงสุด",
+        "exampleIds": [
+          "exm.sa.work.pay_band.1.1.th"
+        ],
+        "gloss": "ช่วงเงินเดือนที่กำหนดไว้สำหรับตำแหน่งหนึ่ง",
+        "id": "sns.sa.work.pay_band.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.pay_band",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir iş pozisyonuna verilebilecek ücretlerin, taban ve tavan değerleriyle tanımlanan aralığı. Orta nokta, görevin beklentileri ile deneyiminin dengesini gösterir.",
+        "exampleIds": [
+          "exm.sa.work.pay_band.1.1.tr"
+        ],
+        "gloss": "Bir görevin ücretinin belirlendiği en düşük, orta ve en yüksek tutarları kapsayan aralık.",
+        "id": "sns.sa.work.pay_band.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.pay_band",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.pay_band.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My band goes from $1,400 to $1,900, and I am currently below the midpoint.",
+        "translation": "Ücret aralığım 1.400 dolardan 1.900 dolara kadar uzanıyor ve şu anda orta noktanın altındayım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.pay_band.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My band goes from $1,400 to $1,900, and I am currently below the midpoint.",
+        "translation": "ช่วงเงินเดือนของฉันอยู่ระหว่าง 1,400 ถึง 1,900 บาท และตอนนี้ฉันอยู่ต่ำกว่าจุดกึ่งกลาง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.pay_band.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My band goes from $1,400 to $1,900, and I am currently below the midpoint.",
+        "translation": "Rentang gaji saya dari 1.400 dolar hingga 1.900 dolar, dan sekarang masih di bawah titik tengah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.pay_band.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My band goes from $1,400 to $1,900, and I am currently below the midpoint.",
+        "translation": "Minha faixa salarial vai de R$ 1.400 a R$ 1.900, e atualmente estou abaixo do valor intermediário.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.pay_band.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My band goes from $1,400 to $1,900, and I am currently below the midpoint.",
+        "translation": "제 급여 범위는 1,400달러에서 1,900달러까지이며, 현재는 중간값보다 낮습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.pay_band.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My band goes from $1,400 to $1,900, and I am currently below the midpoint.",
+        "translation": "給与レンジは1400ドルから1900ドルで，現在は中間額を下回っています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.pay_band.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My band goes from $1,400 to $1,900, and I am currently below the midpoint.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "2be23c585f15e5fd3279d0663036dd9f6e634f4225ef326fc83fb874dbb81a0f": [
+      {
+        "forms": [
+          "Why",
+          "why"
+        ],
+        "id": "lex.sa.kids_daily.why",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Why",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_daily.why.alt",
+          "sns.sa.kids_daily.why.alt.ja",
+          "sns.sa.kids_daily.why.alt.ko",
+          "sns.sa.kids_daily.why.alt.pt_br",
+          "sns.sa.kids_daily.why.alt.id",
+          "sns.sa.kids_daily.why.alt.th",
+          "sns.sa.kids_daily.why.alt.tr"
+        ]
+      },
+      {
+        "definition": "The question word that asks for a reason. Why questions are the most interesting ones.",
+        "exampleIds": [
+          "exm.sa.kids_daily.why.1.1"
+        ],
+        "gloss": "The question word that asks for a reason. Why questions are the most interesting ones.",
+        "id": "sns.sa.kids_daily.why.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_daily.why",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "なぜそうするのか、理由や原因が何かを質問する語。「どうして」に置き換えられる。",
+        "exampleIds": [
+          "exm.sa.kids_daily.why.1.1.ja"
+        ],
+        "gloss": "理由や原因を尋ねる疑問詞。",
+        "id": "sns.sa.kids_daily.why.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_daily.why",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 행동을 하거나 사건이 일어나게 된 이유를 물을 때 사용한다. 가능한 이유를 함께 제시하기도 한다.",
+        "exampleIds": [
+          "exm.sa.kids_daily.why.1.1.ko"
+        ],
+        "gloss": "이유나 목적을 묻는 의문사.",
+        "id": "sns.sa.kids_daily.why.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_daily.why",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É usada para pedir uma explicação ou descobrir o motivo de uma ação, situação ou acontecimento.",
+        "exampleIds": [
+          "exm.sa.kids_daily.why.1.1.pt_br"
+        ],
+        "gloss": "Palavra interrogativa usada para perguntar a razão de algo.",
+        "id": "sns.sa.kids_daily.why.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_daily.why",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kata tanya yang digunakan untuk meminta alasan atau tujuanbehindi suatu tindakan atau peristiwa.",
+        "exampleIds": [
+          "exm.sa.kids_daily.why.1.1.id"
+        ],
+        "gloss": "Kata tanya untuk menanyakan alasan.",
+        "id": "sns.sa.kids_daily.why.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_daily.why",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ใช้เมื่อต้องการทราบเหตุผลหรือสาเหตุของสิ่งที่เกิดขึ้น",
+        "exampleIds": [
+          "exm.sa.kids_daily.why.1.1.th"
+        ],
+        "gloss": "คำถามที่ใช้ถามถึงเหตุผล",
+        "id": "sns.sa.kids_daily.why.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_daily.why",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Neden? diye sorulur ve bir şeyin neden yapıldığını ya da bir durumun neden oluştuğunu sorar.",
+        "exampleIds": [
+          "exm.sa.kids_daily.why.1.1.tr"
+        ],
+        "gloss": "Bir olayın veya durumun sebebini soran soru sözcüğü.",
+        "id": "sns.sa.kids_daily.why.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_daily.why",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_daily.why.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Why do we have to sleep?",
+        "translation": "Neden uyumak zorundayız?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_daily.why.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Why do we have to sleep?",
+        "translation": "ทำไมเราจึงต้องนอนพักผ่อน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_daily.why.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Why do we have to sleep?",
+        "translation": "Mengapa kita harus tidur?",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_daily.why.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Why do we have to sleep?",
+        "translation": "Por que precisamos dormir?",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_daily.why.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Why do we have to sleep?",
+        "translation": "왜 반드시 자야 합니까?",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_daily.why.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Why do we have to sleep?",
+        "translation": "なぜ私たちは寝なければならないの。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_daily.why.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Why do we have to sleep?",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

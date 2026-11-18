@@ -1,0 +1,1489 @@
+{
+  "records": {
+    "444a73408dfe09d08c5fea72d047f017561c4b0084298a47a06e3d0190a7a666": [
+      {
+        "forms": [
+          "Engine oil pressure",
+          "oil_pressure"
+        ],
+        "id": "lex.sa.en.oil.pressure",
+        "kind": "lexeme",
+        "lemma": "Engine oil pressure",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.oil.pressure.alt"
+        ]
+      },
+      {
+        "definition": "Oil pressure has fallen to a level where the engine can be damaged in a very short time. Severity level 4 — Critical / Immediate action. Action: Stop safely at the first opportunity, switch the engine off and check the oil. If the lamp stays on, do not drive on..",
+        "gloss": "Oil pressure has fallen to a level where the engine can be damaged in a very short time.",
+        "id": "sns.sa.en.oil.pressure.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.oil.pressure",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "44574c4ba2ea74ad4bf1e184133cdbf4e7390a3690beff6a7364511a70ec208e": [
+      {
+        "forms": [
+          "Referral",
+          "referral"
+        ],
+        "id": "lex.sa.health.referral",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Referral",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.referral.alt",
+          "sns.sa.health.referral.alt.ja",
+          "sns.sa.health.referral.alt.ko",
+          "sns.sa.health.referral.alt.pt_br",
+          "sns.sa.health.referral.alt.id",
+          "sns.sa.health.referral.alt.th",
+          "sns.sa.health.referral.alt.tr"
+        ]
+      },
+      {
+        "definition": "A letter sending you to another service, such as a specialist, a physiotherapist or a scan.",
+        "exampleIds": [
+          "exm.sa.health.referral.1.1"
+        ],
+        "gloss": "A letter sending you to another service, such as a specialist, a physiotherapist or a scan.",
+        "id": "sns.sa.health.referral.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.referral",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "主治医などが別の医療機関や专科[!]紹介し，那里asonsで診察・治療・検査を受けるために渡される文書。",
+        "exampleIds": [
+          "exm.sa.health.referral.1.1.ja"
+        ],
+        "gloss": "別の専門的[!]な診察や検査を受けるための紹介状。",
+        "id": "sns.sa.health.referral.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.referral",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "환자를 전문가의 진료나 검사, 치료로 보내기 위해 의료기관이 발급하는 문서이다.",
+        "exampleIds": [
+          "exm.sa.health.referral.1.1.ko"
+        ],
+        "gloss": "다른 진료나 검사를 받기 위해 필요한 의뢰서.",
+        "id": "sns.sa.health.referral.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.referral",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Encaminhamento feito por um profissional ou serviço de saúde a um especialista, fisioterapeuta ou exame, respectivamente.",
+        "exampleIds": [
+          "exm.sa.health.referral.1.1.pt_br"
+        ],
+        "gloss": "Indicação ou documento que encaminha alguém para outro serviço.",
+        "id": "sns.sa.health.referral.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.referral",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Surat yang diberikan untuk mengarahkan seseorang ke tenaga ahli, fisioterapis, pemeriksaan pencitraan, atau layanan kesehatan lainnya. Surat ini sering diperlukan sebagai syarat Obtain layanan.",
+        "exampleIds": [
+          "exm.sa.health.referral.1.1.id"
+        ],
+        "gloss": "Surat yang mengarahkan seseorang ke layanan kesehatan lain.",
+        "id": "sns.sa.health.referral.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.referral",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "จดหมายหรือเอกสารที่ส่งต่อผู้ป่วยไปยังผู้เชี่ยวชาญ บริการบำบัด หรือการตรวจวินิจฉัยอื่น",
+        "exampleIds": [
+          "exm.sa.health.referral.1.1.th"
+        ],
+        "gloss": "เอกสารส่งต่อให้ผู้เชี่ยวชาญหรือบริการอื่น",
+        "id": "sns.sa.health.referral.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.referral",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uzman hekim, fizyoterapist ya da tetkik hizmeti gibi başka bir hizmete yönlendirme için düzenlenen belge.",
+        "exampleIds": [
+          "exm.sa.health.referral.1.1.tr"
+        ],
+        "gloss": "Kişiyi başka bir sağlık hizmetine veya uzman hekime yönlendiren sevk yazısı.",
+        "id": "sns.sa.health.referral.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.referral",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.referral.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have a referral for a scan, and the appointment is in ten days.",
+        "translation": "Tetkik için sevk yazım var; randevum on gün sonra.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.referral.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have a referral for a scan, and the appointment is in ten days.",
+        "translation": "ฉันมีใบส่งต่อไปตรวจสแกน และมีนัดหมายในอีกสิบวัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.referral.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have a referral for a scan, and the appointment is in ten days.",
+        "translation": "Saya memiliki surat rujukan untuk pemeriksaan pencitraan, dan jadwalnya sepuluh hari lagi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.referral.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have a referral for a scan, and the appointment is in ten days.",
+        "translation": "Tenho um encaminhamento para fazer um exame de imagem, e a consulta está marcada para daqui a dez dias.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.referral.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have a referral for a scan, and the appointment is in ten days.",
+        "translation": "검사 의뢰서를 받았고 예약일은 10일 뒤이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.referral.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have a referral for a scan, and the appointment is in ten days.",
+        "translation": "精密検査の受診紹介状があり、予約は十日後だ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.referral.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have a referral for a scan, and the appointment is in ten days.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4460d5ad797749c22f94a5e8dedcf4cac0361ab5027c55f2ec1c207e59ebb261": [
+      {
+        "forms": [
+          "Neural network",
+          "neural_network"
+        ],
+        "id": "lex.sa.technology.neural_network",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Neural network",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.neural_network.alt",
+          "sns.sa.technology.neural_network.alt.ja",
+          "sns.sa.technology.neural_network.alt.ko",
+          "sns.sa.technology.neural_network.alt.pt_br",
+          "sns.sa.technology.neural_network.alt.id",
+          "sns.sa.technology.neural_network.alt.th",
+          "sns.sa.technology.neural_network.alt.tr"
+        ]
+      },
+      {
+        "definition": "A layered structure of simple units whose connection strengths are tuned during training. The most common structure in modern AI.",
+        "exampleIds": [
+          "exm.sa.technology.neural_network.1.1"
+        ],
+        "gloss": "A layered structure of simple units whose connection strengths are tuned during training. The most common structure in modern AI.",
+        "id": "sns.sa.technology.neural_network.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.neural_network",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "多数の小さな計算要素を層状につなぎ、接続の強度を訓練によって調整する情報処理の構造。現在の人工知能で広く使われている。",
+        "exampleIds": [
+          "exm.sa.technology.neural_network.1.1.ja"
+        ],
+        "gloss": "複数の層を組み合わせた情報処理の構造。",
+        "id": "sns.sa.technology.neural_network.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.neural_network",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "인공지능에서 사용하는 여러 층으로 이루어진 계산 구조로, 학습 과정에서 각 연결의 강도를 조정한다. 현재 인공지능에서 가장 널리 사용되는 구조 중 하나이다.",
+        "exampleIds": [
+          "exm.sa.technology.neural_network.1.1.ko"
+        ],
+        "gloss": "여러 층의 단순한 연결 단위로 정보를 처리하는 구조이다.",
+        "id": "sns.sa.technology.neural_network.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.neural_network",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Modelo computacional formado por camadas de unidades simples que processam dados e ajustam a força de suas conexões durante o treinamento. É uma das estruturas mais usadas na inteligência artificial moderna.",
+        "exampleIds": [
+          "exm.sa.technology.neural_network.1.1.pt_br"
+        ],
+        "gloss": "Estrutura em camadas cujas conexões são ajustadas durante o treinamento de um modelo.",
+        "id": "sns.sa.technology.neural_network.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.neural_network",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Struktur terdiri atas unit sederhana yang terhubung dalam beberapa lapisan, dengan kekuatan koneksi disesuaikan selama pelatihan. Struktur ini merupakan fondasi yang umum dalam AI modern.",
+        "exampleIds": [
+          "exm.sa.technology.neural_network.1.1.id"
+        ],
+        "gloss": "Struktur berlapis yang meniru cara kerja sel saraf.",
+        "id": "sns.sa.technology.neural_network.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.neural_network",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เป็นโครงสร้างพื้นฐานที่พบได้ทั่วไปในปัญญาประดิษฐ์สมัยใหม่ โดยแต่ละชั้นรับข้อมูลจากชั้นก่อนหน้าและประมวลผลต่อไป",
+        "exampleIds": [
+          "exm.sa.technology.neural_network.1.1.th"
+        ],
+        "gloss": "โครงสร้างหลายชั้นที่ประกอบด้วยหน่วยย่อยและปรับความแรงของการเชื่อมต่อระหว่างการฝึก",
+        "id": "sns.sa.technology.neural_network.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.neural_network",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Basit birimlerin katmanlar hâlinde birbirine bağlandığı ve eğitim sırasında bu bağlantıların gücünün ayarlandığı model yapısı. Modern yapay zekâda en yaygın kullanılan temel mimarilerden biridir.",
+        "exampleIds": [
+          "exm.sa.technology.neural_network.1.1.tr"
+        ],
+        "gloss": "Eğitim sırasında bağlantı güçleri ayarlanan, katmanlardan oluşan yapay zekâ modeli.",
+        "id": "sns.sa.technology.neural_network.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.neural_network",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.neural_network.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The translation and the image search both run on a neural network.",
+        "translation": "Çeviri ve görsel arama işlemlerinin ikisi de bir sinir ağı üzerinde çalışıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.neural_network.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The translation and the image search both run on a neural network.",
+        "translation": "การแปลภาษาและการค้นหาภาพทำงานด้วยโครงข่ายประสาทเทียมทั้งคู่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.neural_network.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The translation and the image search both run on a neural network.",
+        "translation": "Fitur penerjemahan dan pencarian gambar sama-sama menggunakan jaringan saraf.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.neural_network.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The translation and the image search both run on a neural network.",
+        "translation": "A tradução e a busca de imagens funcionam com uma rede neural.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.neural_network.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The translation and the image search both run on a neural network.",
+        "translation": "번역 기능과 이미지 검색 기능은 모두 신경망을 기반으로 작동한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.neural_network.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The translation and the image search both run on a neural network.",
+        "translation": "翻訳と画像検索はいずれもニューラルネットワークによって処理されています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.neural_network.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The translation and the image search both run on a neural network.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "44a71a3935b2663209506e6cb54ec3600b82a7ff7b9cdfa2e19a67b656e844ba": [
+      {
+        "forms": [
+          "Escalation ladder",
+          "war_escalation_ladder"
+        ],
+        "id": "lex.sa.mind.war_escalation_ladder",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Escalation ladder",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_escalation_ladder.alt",
+          "sns.sa.mind.war_escalation_ladder.alt.ja",
+          "sns.sa.mind.war_escalation_ladder.alt.ko",
+          "sns.sa.mind.war_escalation_ladder.alt.pt_br",
+          "sns.sa.mind.war_escalation_ladder.alt.id",
+          "sns.sa.mind.war_escalation_ladder.alt.th",
+          "sns.sa.mind.war_escalation_ladder.alt.tr"
+        ]
+      },
+      {
+        "definition": "The ladder of steps a conflict can climb, from a limited incident up to a general war.",
+        "exampleIds": [
+          "exm.sa.mind.war_escalation_ladder.1.1"
+        ],
+        "gloss": "The ladder of steps a conflict can climb, from a limited incident up to a general war.",
+        "id": "sns.sa.mind.war_escalation_ladder.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_escalation_ladder",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "小さな限定的な対立から、より大きな対立、最終的には全面戦争へ進む段階的な構造。各段階は参加者と規模の違いで区別される。",
+        "exampleIds": [
+          "exm.sa.mind.war_escalation_ladder.1.1.ja"
+        ],
+        "gloss": "対立が限定的な事案から全面戦争へ激化する一連の段階。",
+        "id": "sns.sa.mind.war_escalation_ladder.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_escalation_ladder",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "갈등이 점점 커지면서 올라가는 단계들을 이르는 말이다. 한정된 사건에서 시작해 위기나 전면전으로 이어지는 상승 과정을 나타낸다.",
+        "exampleIds": [
+          "exm.sa.mind.war_escalation_ladder.1.1.ko"
+        ],
+        "gloss": "갈등이 한정된 사건에서 전면전까지 높아질 수 있는 단계들.",
+        "id": "sns.sa.mind.war_escalation_ladder.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_escalation_ladder",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a progressão de escalating de um incidente limitado a Situações cada vez mais abrangentes, até chegar à guerra geral.",
+        "exampleIds": [
+          "exm.sa.mind.war_escalation_ladder.1.1.pt_br"
+        ],
+        "gloss": "Sequência de níveis que um conflito pode percorrer até uma guerra geral.",
+        "id": "sns.sa.mind.war_escalation_ladder.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_escalation_ladder",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tangga eskalasi menggambarkan urutan tahap yang mungkin dilalui sebuah konflik, dari insiden terbatas hingga perang umum._CONFIRM Konflik dapat berhenti pada suatu tahap atau terus naik ke tahap yang lebih tinggi.",
+        "exampleIds": [
+          "exm.sa.mind.war_escalation_ladder.1.1.id"
+        ],
+        "gloss": "Tangga tahap yang dapat dilalui suatu konflik saat meluas.",
+        "id": "sns.sa.mind.war_escalation_ladder.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_escalation_ladder",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ลำดับขั้นของการขยายความขัดแย้ง ตั้งแต่เหตุการณ์จำกัดจนถึงสงครามทั่วไป ใช้เปรียบเทียบระดับความรุนแรงของวิกฤต",
+        "exampleIds": [
+          "exm.sa.mind.war_escalation_ladder.1.1.th"
+        ],
+        "gloss": "ระดับขั้นที่ข้อขัดแย้งสามารถขยายตัวขึ้นไปได้",
+        "id": "sns.sa.mind.war_escalation_ladder.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_escalation_ladder",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tırmanma basamakları, çatışmanın şiddetlenme ve genişleme biçimlerini gösteren kademeli bir çerçevedir. Bir olayın sınırlı bir çatışmaya, iç savaşa veya genel savaşa dönüşmesi bu basamaklarla izlenebilir.",
+        "exampleIds": [
+          "exm.sa.mind.war_escalation_ladder.1.1.tr"
+        ],
+        "gloss": "Bir çatışmanın sınırlı bir olaydan genel savaşa doğru yükselebileceği basamaklar dizisi.",
+        "id": "sns.sa.mind.war_escalation_ladder.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_escalation_ladder",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_escalation_ladder.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Analistler krizi, tırmanma basamaklarının üçüncü derecesine yerleştirdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_escalation_ladder.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "นักวิเคราะห์จัดวิกฤตนี้ไว้สามขั้นบนบันไดการขยายความขัดแย้ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_escalation_ladder.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Para analis menempatkan krisis ini tiga anak tangga di atas tangga eskalasi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_escalation_ladder.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Os analistas colocaram a crise três degraus acima na escada de escalada.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_escalation_ladder.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "분석가들은 이 위기를 갈등의 승강 단계 중 세 번째에 놓았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_escalation_ladder.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "分析者は、この危機を激化の階段で三段上に位置づけている。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_escalation_ladder.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Analysts place the crisis three rungs up the escalation ladder.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "44a795f7240d2f537ca2d9a70e9cdfee929f7309453daabbb74a598f32033cf5": [
+      {
+        "forms": [
+          "Liking",
+          "dpn_liking"
+        ],
+        "id": "lex.sa.work.dpn_liking",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Liking",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.dpn_liking.alt",
+          "sns.sa.work.dpn_liking.alt.ja",
+          "sns.sa.work.dpn_liking.alt.ko",
+          "sns.sa.work.dpn_liking.alt.pt_br",
+          "sns.sa.work.dpn_liking.alt.id",
+          "sns.sa.work.dpn_liking.alt.th",
+          "sns.sa.work.dpn_liking.alt.tr"
+        ]
+      },
+      {
+        "definition": "The pull of a person you like, used to move the decision away from the terms.",
+        "exampleIds": [
+          "exm.sa.work.dpn_liking.1.1"
+        ],
+        "gloss": "The pull of a person you like, used to move the decision away from the terms.",
+        "id": "sns.sa.work.dpn_liking.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.dpn_liking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The pull of a person you like, used to move the decision away from the terms.",
+        "exampleIds": [
+          "exm.sa.work.dpn_liking.1.1.ja"
+        ],
+        "gloss": "好きな相手への好ましさをSHOT one's decision away from the terms.",
+        "id": "sns.sa.work.dpn_liking.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.dpn_liking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "호감 때문에 상대방에게 유리한 조건을 받아들이거나 협상에서 유리한 위치를 차지하게 되는 현상이다. liking은 조건 자체를 바꾸지는 않는다.",
+        "exampleIds": [
+          "exm.sa.work.dpn_liking.1.1.ko"
+        ],
+        "gloss": "좋아하는 사람에게 끌리는 힘이 판단의 방향을 바꾸는 현상.",
+        "id": "sns.sa.work.dpn_liking.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.dpn_liking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Influência da simpatia ou da afeição por uma pessoa na escolha entre duas opções. Ajuda a vencer a decisão, mas não altera preço, prazo ou condições.",
+        "exampleIds": [
+          "exm.sa.work.dpn_liking.1.1.pt_br"
+        ],
+        "gloss": "O apelo de alguém de quem se gosta, usado para deslocar a decisão dos termos.",
+        "id": "sns.sa.work.dpn_liking.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.dpn_liking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Daya tarik dari orang yang kita suka, yang dapat membuat seseorang memilih atau-reverse suatu keputusan dari ketentuan yang telah disepakati. Kata ini bukan berartivf singkat atau CONDITIONS.",
+        "exampleIds": [
+          "exm.sa.work.dpn_liking.1.1.id"
+        ],
+        "gloss": "Daya tarik dari orang yang kita suka, yang dapat memengaruhi keputusan dari luar ketentuan yang disepakati.",
+        "id": "sns.sa.work.dpn_liking.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.dpn_liking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ในบริบทการเจรจา หมายถึงความชอบหรือแรงดึงดูดที่มีต่อคู่สนทนา ซึ่งอาจทำให้ผู้เจรจาให้ความสำคัญกับความสัมพันธ์มากกว่าราคาและเงื่อนไข",
+        "exampleIds": [
+          "exm.sa.work.dpn_liking.1.1.th"
+        ],
+        "gloss": "แรงดึงดูดจากคนที่เราชอบ ซึ่งทำให้การตัดสินใจเบี่ยงจากเงื่อนไข",
+        "id": "sns.sa.work.dpn_liking.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.dpn_liking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Müzakerede karşı tarafı beğenmenin, değerlendirmenin ölçütlerini öne yerine kişinin kendisine yöneltmesidir; fiyat veya şartları doğrudan değiştirmez.",
+        "exampleIds": [
+          "exm.sa.work.dpn_liking.1.1.tr"
+        ],
+        "gloss": "Sevilen bir kişinin oluşturduğu çekimin kararı koşullardan kişiye doğru kaydırması.",
+        "id": "sns.sa.work.dpn_liking.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.dpn_liking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.dpn_liking.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Beğenme fiyatı değiştirmemişti, ama son sözü kimin söyleyeceğini değiştirmişti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.dpn_liking.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความชอบไม่ได้เปลี่ยนราคา แต่เปลี่ยนว่าใครจะได้พูดคำสุดท้าย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.dpn_liking.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Minat itu tidak mengubah harga, tetapi mengubah siapa yang berwenang mengambil keputusan terakhir.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.dpn_liking.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O liking não mudou o preço, mas mudou quem deu a palavra final.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.dpn_liking.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "호감은 가격을 바꾸지는 않았지만 마지막 말을 누가 하느냐는 점은 바꾸었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.dpn_liking.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "The liking did not change the price, but it changed who got the last word.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.dpn_liking.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The liking did not change the price, but it changed who got the last word.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "44b3b4235ae8714f8c732b6f4c2953e127ffb7c4fe1710e5a3213c1d9fc84bf1": [
+      {
+        "forms": [
+          "Coercion",
+          "psy_coercion"
+        ],
+        "id": "lex.sa.mind.psy_coercion",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Coercion",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.psy_coercion.alt",
+          "sns.sa.mind.psy_coercion.alt.ja",
+          "sns.sa.mind.psy_coercion.alt.ko",
+          "sns.sa.mind.psy_coercion.alt.pt_br",
+          "sns.sa.mind.psy_coercion.alt.id",
+          "sns.sa.mind.psy_coercion.alt.th",
+          "sns.sa.mind.psy_coercion.alt.tr"
+        ]
+      },
+      {
+        "definition": "The removal of a real choice by force or by the threat of harm.",
+        "exampleIds": [
+          "exm.sa.mind.psy_coercion.1.1"
+        ],
+        "gloss": "The removal of a real choice by force or by the threat of harm.",
+        "id": "sns.sa.mind.psy_coercion.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.psy_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "本来は選べるはずの選択肢を、暴力や危害の脅しによって取り去ること。説得ではなく、拒んだ場合に何が起こるかを押しつけるもの。",
+        "exampleIds": [
+          "exm.sa.mind.psy_coercion.1.1.ja"
+        ],
+        "gloss": "力や危害の脅しによって、選べるはずの選択肢そのものを奪うこと。",
+        "id": "sns.sa.mind.psy_coercion.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.psy_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "강제하거나 해를 끼칠 earth's 협박으로 상대가 원하지 않는 행동을 하도록 만드는 행위이다. 협박이 없는 설득과는 구별된다.",
+        "exampleIds": [
+          "exm.sa.mind.psy_coercion.1.1.ko"
+        ],
+        "gloss": "강제나 위해의 협박으로 실제 선택지를 없애는 행위.",
+        "id": "sns.sa.mind.psy_coercion.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.psy_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Situação em que a pessoa perde a liberdade de escolher porque enfrenta força, coerção física, ameaça ou outra consequência grave. Não se confunde com persuasão legítima.",
+        "exampleIds": [
+          "exm.sa.mind.psy_coercion.1.1.pt_br"
+        ],
+        "gloss": "Eliminação de uma escolha real pela força ou pela ameaça de dano.",
+        "id": "sns.sa.mind.psy_coercion.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.psy_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Situasi ketika seseorang dipaksa memilih melalui kekuatan atau ancaman bahaya, sehingga persetujuannya bukan pilihan yang bebas.",
+        "exampleIds": [
+          "exm.sa.mind.psy_coercion.1.1.id"
+        ],
+        "gloss": "Paksaan yang menghilangkan pilihan sebenarnya.",
+        "id": "sns.sa.mind.psy_coercion.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.psy_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การบังคับให้บุคคลเลือกทางใดทางหนึ่งโดยใช้แรงบังคับหรือคุกคาม จนไม่เหลือทางเลือกจริง จึงต่างจากการชวนโน้มน้าว",
+        "exampleIds": [
+          "exm.sa.mind.psy_coercion.1.1.th"
+        ],
+        "gloss": "การทำให้ทางเลือกจริงของผู้อื่นหายไปด้วยแรงบังคับหรือคุกคาม",
+        "id": "sns.sa.mind.psy_coercion.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.psy_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Zorlama, bir kişinin özgür seçimini zor ya da zarar görme korkusuyla sınırlandırır; salt ikna zorlama değildir.",
+        "exampleIds": [
+          "exm.sa.mind.psy_coercion.1.1.tr"
+        ],
+        "gloss": "Gerçek bir seçeneği zorla veya zarar verme tehdidiyle ortadan kaldırma.",
+        "id": "sns.sa.mind.psy_coercion.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.psy_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.psy_coercion.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Formu bugün imzala ya da işini kaybet; bu ikna değil, zorlamadır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.psy_coercion.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คำสั่งว่าต้องเซ็นฟอร์มวันนี้ไม่เช่นนั้นจะเสียงานนับเป็นการบังคับ ไม่ใช่การโน้มน้าว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.psy_coercion.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tanda tangani formulir hari ini atau kehilangan pekerjaan; itu paksaan, bukan buatan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.psy_coercion.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Assine o formulário hoje ou perca o emprego — isso é coerção, não persuasão.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.psy_coercion.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "오늘 서명하지 않으면 직장을 잃으라는 말은 설득이 아니라 강요이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.psy_coercion.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "署名を迫るために脅しを使うのは強制であって、説得ではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.psy_coercion.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Sign the form today or lose the job — that is coercion, not persuasion.",
+        "translation": "",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Coercion",
+          "pd_coercion"
+        ],
+        "id": "lex.sa.mind.pd_coercion",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Coercion",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.pd_coercion.alt",
+          "sns.sa.mind.pd_coercion.alt.ja",
+          "sns.sa.mind.pd_coercion.alt.ko",
+          "sns.sa.mind.pd_coercion.alt.pt_br",
+          "sns.sa.mind.pd_coercion.alt.id",
+          "sns.sa.mind.pd_coercion.alt.th",
+          "sns.sa.mind.pd_coercion.alt.tr"
+        ]
+      },
+      {
+        "definition": "The removal of a real choice by force or by the threat of a cost to the other person.",
+        "exampleIds": [
+          "exm.sa.mind.pd_coercion.1.1"
+        ],
+        "gloss": "The removal of a real choice by force or by the threat of a cost to the other person.",
+        "id": "sns.sa.mind.pd_coercion.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.pd_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "力Based on force or threat of a cost to the other person. 押しつけや脅しによって本来ある選択の自由を奪うことをいう。説 persuadeや操作とは区別される。",
+        "exampleIds": [
+          "exm.sa.mind.pd_coercion.1.1.ja"
+        ],
+        "gloss": "力Resizeや不利益のおそれによって、本人の_REAL_CHOICEを奪うこと。",
+        "id": "sns.sa.mind.pd_coercion.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.pd_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "강제하거나 상대방에게 비용을 부담시킬iadthreat을 행사하여 사실상 선택할 수 없게 만드는 것이다. 위협을 받는 사람이 실제로 협박을 믿을 가능성이 있는지가 중요하다.",
+        "exampleIds": [
+          "exm.sa.mind.pd_coercion.1.1.ko"
+        ],
+        "gloss": "강제나 불이익의 위협으로 실질적인 선택지를 없애는 것.",
+        "id": "sns.sa.mind.pd_coercion.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.pd_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A prática de obrigar alguém a escolher entre duas opções, sendo que uma delas traz prejuízo ou prejuízo iminente. Em sentido estrito, a coerção tira a escolha; a persuasão ainda deixa escolha real.",
+        "exampleIds": [
+          "exm.sa.mind.pd_coercion.1.1.pt_br"
+        ],
+        "gloss": "A eliminação de uma escolha real pela força ou pela ameaça de um custo para o outro.",
+        "id": "sns.sa.mind.pd_coercion.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.pd_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tindakan yang memaksa seseorang dengan kekuatan atau ancaman atas kerugian yang akan diterima. Paksaan berbeda dari persuade atau permintaan yang dapat ditolak.",
+        "exampleIds": [
+          "exm.sa.mind.pd_coercion.1.1.id"
+        ],
+        "gloss": "Penghilangan pilihan nyata melalui paksaan.",
+        "id": "sns.sa.mind.pd_coercion.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.pd_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การบังคับให้อีกฝ่ายเลือกโดยไม่มีทางปฏิเสธอย่างแท้จริง ผ่านการใช้แรงหรือการขู่ว่าอีกฝ่ายจะต้องแบกรับต้นทุน ต่างจากการโน้มน้าวที่ยังเปิดให้เลือกได้",
+        "exampleIds": [
+          "exm.sa.mind.pd_coercion.1.1.th"
+        ],
+        "gloss": "การทำให้อีกฝ่ายหมดทางเลือกด้วยการข่มขืนหรือคุกคาม",
+        "id": "sns.sa.mind.pd_coercion.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.pd_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Karşı tarafın seçeneği seçebilir ama seçmenin bedeli ağırlaştırıldığında ortaya çıkan durumdur. İknadan farklıdır: iknada seçim özgürdür, zorlamada seçim ancak biçimsel olarak mümkündür.",
+        "exampleIds": [
+          "exm.sa.mind.pd_coercion.1.1.tr"
+        ],
+        "gloss": "Gerçek bir seçeneğin zorla ya da karşı tarafa bir maliyet tehdidiyle ortadan kaldırılması.",
+        "id": "sns.sa.mind.pd_coercion.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.pd_coercion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.pd_coercion.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bugün formu imzala ya da işini kaybet; bu zorlamadır, ikna değil.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.pd_coercion.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เซ็นฟอร์มวันนี้หรือเสียงาน นั่นคือการบังคับ ไม่ใช่การโน้มน้าว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.pd_coercion.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tanda tangani formulir hari ini atau kehilangan pekerjaan, itu adalah paksaan, bukan ajakan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.pd_coercion.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Assine o formulário hoje ou perca o emprego — isso é coerção, não persuasão.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.pd_coercion.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "오늘 서명하지 않으면 일을 잃게 하라는 것은 설득이 아니라 강박이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.pd_coercion.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "今すぐこれに署名すればよいさ。さもないとこの仕事を失う――それは説得ではなく強制だ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.pd_coercion.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Sign the form today or lose the job — that is coercion, not persuasion.",
+        "translation": "Ký vào biểu mẫu ngày hôm nay hoặc mất việc — đó là ép buộc, không phải thuyết phục.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "44c3e574dac5455e6749eefb5373a809552b1c947108270c8be760d03c02c4be": [
+      {
+        "forms": [
+          "Doll",
+          "doll"
+        ],
+        "id": "lex.sa.kids_home.doll",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Doll",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_home.doll.alt",
+          "sns.sa.kids_home.doll.alt.ja",
+          "sns.sa.kids_home.doll.alt.ko",
+          "sns.sa.kids_home.doll.alt.pt_br",
+          "sns.sa.kids_home.doll.alt.id",
+          "sns.sa.kids_home.doll.alt.th",
+          "sns.sa.kids_home.doll.alt.tr"
+        ]
+      },
+      {
+        "definition": "A small toy that looks like a person. You talk for it and give it a name.",
+        "exampleIds": [
+          "exm.sa.kids_home.doll.1.1"
+        ],
+        "gloss": "A small toy that looks like a person. You talk for it and give it a name.",
+        "id": "sns.sa.kids_home.doll.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_home.doll",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "人の形をした小型のおもちゃ。名前を付け、anthropomorphic な設定で conversation することもある。",
+        "exampleIds": [
+          "exm.sa.kids_home.doll.1.1.ja"
+        ],
+        "gloss": "人の形をした small toy。",
+        "id": "sns.sa.kids_home.doll.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_home.doll",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사람의 모습을 본뜬 작은 장난감으로, 이름을 붙여 대화를 나누는 등 놀이에 사용합니다.",
+        "exampleIds": [
+          "exm.sa.kids_home.doll.1.1.ko"
+        ],
+        "gloss": "사람을 닮은 작은 장난감.",
+        "id": "sns.sa.kids_home.doll.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_home.doll",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Brinquedo com forma de pessoa, que pode ser vestido e recebeu um nome. Brincar com uma boneca costuma envolver imaginar falas e ações.",
+        "exampleIds": [
+          "exm.sa.kids_home.doll.1.1.pt_br"
+        ],
+        "gloss": "Brinquedo pequeno que parece uma pessoa.",
+        "id": "sns.sa.kids_home.doll.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_home.doll",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Boneka sering diberi nama dan digunakan anak untuk berpura-pura atau bergaul dengan mainan tersebut.",
+        "exampleIds": [
+          "exm.sa.kids_home.doll.1.1.id"
+        ],
+        "gloss": "Mainan kecil yang berbentuk seperti orang.",
+        "id": "sns.sa.kids_home.doll.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_home.doll",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ของเล่นขนาดเล็กที่ทำให้ดูเหมือนคน มักตั้งชื่อและพูดหรือเล่นแทนบุคคลได้",
+        "exampleIds": [
+          "exm.sa.kids_home.doll.1.1.th"
+        ],
+        "gloss": "ตุ๊กตาขนาดเล็กที่มีรูปร่างเหมือนมนุษย์",
+        "id": "sns.sa.kids_home.doll.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_home.doll",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İnsan gibi görünen küçük oyuncak bebek. Onunla konuşulabilir ve ona bir isim verilebilir.",
+        "exampleIds": [
+          "exm.sa.kids_home.doll.1.1.tr"
+        ],
+        "gloss": "İnsan biçiminde küçük oyuncak.",
+        "id": "sns.sa.kids_home.doll.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_home.doll",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_home.doll.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My doll is called Mai.",
+        "translation": "Oyuncak bebeğimin adı Mai.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_home.doll.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My doll is called Mai.",
+        "translation": "ตุ๊กตาของฉันชื่อใบ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_home.doll.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My doll is called Mai.",
+        "translation": "Bonekaku bernama Mai.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_home.doll.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My doll is called Mai.",
+        "translation": "Minha boneca se chama Mai.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_home.doll.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My doll is called Mai.",
+        "translation": "내 인형의 이름은 마이야이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_home.doll.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My doll is called Mai.",
+        "translation": "私の人形はマイという名前だ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_home.doll.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My doll is called Mai.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "44c5e7071f3a75a22457bc5f06d3e2ba564b4d6ee8165fb0e9087bacf953bcc3": [
+      {
+        "forms": [
+          "way"
+        ],
+        "id": "lex.sa.en.way.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "way",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.way.noun.1",
+          "sns.sa.en.way-noun.alt"
+        ]
+      },
+      {
+        "definition": "Cách thực hiện; một con đường.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "cách; đường",
+        "id": "sns.sa.vi.way.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.way.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A method of doing something.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "A method; a road or path.",
+        "id": "sns.sa.en.way-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.way.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "44d5d21b865794a685dd78912800c5dd68e1acb18a10ea5edb6dd9d72201bfc2": [
+      {
+        "forms": [
+          "normative timing",
+          "mt_normative_timing"
+        ],
+        "id": "lex.sa.social.mt_normative_timing",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "normative timing",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.mt_normative_timing.alt",
+          "sns.sa.social.mt_normative_timing.alt.ja",
+          "sns.sa.social.mt_normative_timing.alt.ko",
+          "sns.sa.social.mt_normative_timing.alt.pt_br",
+          "sns.sa.social.mt_normative_timing.alt.id",
+          "sns.sa.social.mt_normative_timing.alt.th",
+          "sns.sa.social.mt_normative_timing.alt.tr"
+        ]
+      },
+      {
+        "definition": "The age or stage at which a milestone is expected in a given community.",
+        "exampleIds": [
+          "exm.sa.social.mt_normative_timing.1.1"
+        ],
+        "gloss": "The age or stage at which a milestone is expected in a given community.",
+        "id": "sns.sa.social.mt_normative_timing.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.mt_normative_timing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "特定の社会や共同体で、節目，比如生日や入学、成人式などがResolve Naturallyな年齢や段階を指す。",
+        "exampleIds": [
+          "exm.sa.social.mt_normative_timing.1.1.ja"
+        ],
+        "gloss": "ある社会で節目が期待される年齢や段階。",
+        "id": "sns.sa.social.mt_normative_timing.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.mt_normative_timing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 공동체에서 특정 발달 단계가 이루어질 것으로 통상적으로 예상되는 나이 또는 시기를 이르는 말이다. 실제 시기가 아니라 사회적으로 기대되는 기준을 가리킨다.",
+        "exampleIds": [
+          "exm.sa.social.mt_normative_timing.1.1.ko"
+        ],
+        "gloss": "어떤 공동체에서 어떤 발달 단계가 이루어질 것으로 예상되는 나이 또는 시기.",
+        "id": "sns.sa.social.mt_normative_timing.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.mt_normative_timing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O momento em que se espera que um acontecimento da vida ocorra segundo os costumes de um grupo. É uma expectativa social, não uma medida do que de fato aconteceu com alguém.",
+        "exampleIds": [
+          "exm.sa.social.mt_normative_timing.1.1.pt_br"
+        ],
+        "gloss": "A idade ou a etapa em que um marco é esperado em determinada comunidade.",
+        "id": "sns.sa.social.mt_normative_timing.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.mt_normative_timing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Usia atau tahap perkembangan ketika suatu peristiwa diharapkan terjadi dalam kelompok masyarakat tertentu. Ini merupakan Expectations umum, bukan ukuran tentang perkembangan nyata seseorang.",
+        "exampleIds": [
+          "exm.sa.social.mt_normative_timing.1.1.id"
+        ],
+        "gloss": "Waktu yang dianggap wajar bagi suatu peristiwa dalam masyarakat.",
+        "id": "sns.sa.social.mt_normative_timing.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.mt_normative_timing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "อายุหรือช่วงชีวิตที่ชุมชนหนึ่งคาดหวังให้เหตุการณ์สำคัญ เช่น การแต่งงานหรือการมีบุตร เกิดขึ้น เป็นเกณฑ์ทางสังคม ไม่ใช่ข้อบังคับจริง",
+        "exampleIds": [
+          "exm.sa.social.mt_normative_timing.1.1.th"
+        ],
+        "gloss": "กรอบเวลาที่สังคมคาดหวังให้เหตุการณ์สำคัญเกิดขึ้น",
+        "id": "sns.sa.social.mt_normative_timing.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.mt_normative_timing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Evlilik, çocuk sahibi olma ya da işe başlama gibi bir olayın belirli bir toplulukta hangi yaşta veya hangi aşamada beklenildiğini anlatır. Gerçek kişilerin davranışını değil, o topluluğun varsayılan beklentisini gösterir.",
+        "exampleIds": [
+          "exm.sa.social.mt_normative_timing.1.1.tr"
+        ],
+        "gloss": "Verilen bir toplulukta bir kilometre taşının hangi yaşta ya da hangi evrede beklendiği.",
+        "id": "sns.sa.social.mt_normative_timing.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.mt_normative_timing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.mt_normative_timing.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Normatif zamanlama, insanların sormadığında varsaydığı şeydir: otuz yaşında evlenmek beklentisi gibi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.mt_normative_timing.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "กรอบเวลาที่สังคมคาดหวังคือสิ่งที่ผู้คนมักถือเป็นมาตรฐานเมื่อไม่ได้ถาม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.mt_normative_timing.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dalam kelompok itu, waktu normatif bagi perkawinan adalah usia dua puluh lima tahun.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.mt_normative_timing.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O tempo normativo é aquilo que as pessoas presumem quando não perguntam.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.mt_normative_timing.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "사람들이developmental milestones를 물어보지 않을 때 가정하는 것은 규범적 시기이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.mt_normative_timing.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "特別な Indicationsがない場合、人々は社会的な規範的な時期を前提とする。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.mt_normative_timing.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The normative timing is what people assume when they do not ask.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

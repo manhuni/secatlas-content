@@ -1,0 +1,238 @@
+{
+  "language": "vi",
+  "lessonId": "article_pump_electrical_safety",
+  "objectives": [
+    "Mô tả cách bơm, động cơ và nước xung quanh tiếp xúc với nguồn điện.",
+    "Gọi tên các bộ phận của hệ thống bơm dẫn nước, dẫn điện và nối đất.",
+    "Giải thích nơi dòng rò phát sinh trong cáp hỏng, hộp đấu nối ướt hoặc dây nối đất bị thiếu.",
+    "Phân biệt sáu lớp bảo vệ theo đối tượng giám sát và giới hạn bảo vệ của từng lớp.",
+    "So sánh vai trò của dây nối đất, thiết bị dòng rò và cầu dao.",
+    "Thực hiện quy trình kiểm tra hệ thống bơm gồm sáu bước trước khi sử dụng.",
+    "Nêu đúng thứ tự xử lý sau khi bị điện giật trong nước và xác định bên chịu trách nhiệm lắp đặt."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Một chiếc bơm vận chuyển nước. Nước đến từ giếng, hố thu nước hoặc bể chứa, và động cơ quay bánh công tác đẩy nước lên qua đường ống. Hai cách sắp xếp phổ biến. Trong cái thứ nhất, động cơ nằm phía trên mặt nước trên một khung, và bơm nâng nước lên đó. Trong cái thứ hai, động cơ được niêm phong bên trong một vỏ được hạ xuống nước và ở lại đó. Đây là một máy bơm lặn, và vỏ máy, cáp và nước đều gặp nhau ở cùng một chỗ.\n\nNăm từ mang chủ đề. Dòng điện là dòng chảy của điện tử, được đo bằng ampe (A). Vật liệu cách điện là lớp vật liệu bao quanh phần mang điện của cáp, giúp giữ dòng điện bên trong cáp. Trái đất chính là mặt đất, còn dây tiếp đất là dây màu xanh-vàng nối các bộ phận kim loại của hệ thống điện với mặt đất. Dòng rò là dòng điện nhỏ luôn thoát qua lớp cách điện và tăng lên khi lớp cách điện bị hư hỏng. Và nước có chứa khoáng chất tạo ra dòng điện: nước tinh khiết là chất dẫn điện kém, nhưng nước trong giếng, hố hoặc bể chứa không phải là nước tinh khiết.\n\nLỗi rất dễ nêu. Nếu phần đang mang điện của cáp hoặc động cơ chạm vào nước, dòng điện có thể thoát khỏi cáp, truyền vào nước, đến mặt đất và tiếp chạm vào người đang đứng trên nền ẩm ướt hoặc đang cầm một ống kim loại. Nhìn từ bên ngoài, không có gì về chiếc bơm trông có vẻ bất thường. Lỗi nằm bên trong cáp hoặc bên trong vỏ, và nó xảy ra với một người đang đứng trong nước.\n\nBài viết này giải thích nguồn gốc của sự rò rỉ, những gì bảo vệ mạch điện, cách kiểm tra hệ thống điện đã lắp đặt và cần làm gì trong những phút đầu tiên sau khi bị điện giật. Nó không thay thế hướng dẫn sử dụng của máy bơm, và không thay thế công việc của thợ điện có giấy phép.",
+      "examples": [
+        "Một chiếc bơm lặn nằm trong nước, nên vỏ bơm và cáp của nó cũng nằm trong nước.",
+        "Dòng điện chỉ rời khỏi cáp khi lớp cách điện bị hỏng, và nước mang dòng điện từ đó đi.",
+        "Hướng dẫn sử dụng và thợ điện quyết định những gì cần thực hiện; bài viết này giải thích các rủi ro."
+      ],
+      "heading": "Bơm là gì, và tại sao nước gặp dòng chảy",
+      "terms": [
+        {
+          "example": "Dòng điện đã đi ngược lại qua dây tiếp đất thay vì qua động cơ.",
+          "gloss": "Dòng điện, được đo bằng ampe (A).",
+          "termId": "elec_electric_current"
+        },
+        {
+          "example": "Bơm trong hố thu nước đưa nước lên bể chứa.",
+          "gloss": "Một cỗ máy di chuyển nước từ nơi này sang nơi khác.",
+          "termId": "pump_pump"
+        },
+        {
+          "example": "Một bơm lặn được treo bằng cáp bên trong giếng.",
+          "gloss": "Một máy bơm có động cơ được niêm phong trong một vỏ bọc có thể hoạt động dưới nước.",
+          "termId": "pump_submersible_pump"
+        },
+        {
+          "example": "Lớp cách điện trên cáp bị nứt ở chỗ cáp đi qua mép của hố.",
+          "gloss": "Vật liệu bao quanh phần mang điện của cáp giúp dòng điện chạy bên trong.",
+          "termId": "elec_insulation"
+        },
+        {
+          "example": "Thợ điện đã đo dòng rò trước khi chạy lại bơm.",
+          "gloss": "Dòng điện rò rỉ từ phần sống của cáp hoặc bơm thông qua lớp cách điện bị hư hỏng.",
+          "termId": "elec_leakage_current"
+        }
+      ]
+    },
+    {
+      "body": "Dòng rò rỉ bắt đầu từ vị trí mà lớp cách điện không đạt yêu cầu. Một sợi cáp chạy từ bảng điều khiển đến bơm, và đây là bộ phận tiếp xúc với môi trường nhiều nhất của toàn bộ hệ thống: nó nằm trên nền của một hố, dọc theo thành giếng hoặc vắt qua mép của một bể. Nó có thể bị nứt vì lão hóa, bị kẹp ở nơi vượt qua cạnh sắc của giếng hoặc hố, bị cắt bởi dụng cụ trong lúc thực hiện công việc khác, hoặc bị gặm nhấm bởi loài gặm nhấm. Bất kỳ điểm nào trong số này cũng mở ra một đường dẫn từ dây dẫn có điện ra bên ngoài cáp, và bên ngoài cáp đang ở dưới nước.\n\nĐiểm vào còn lại là chính cái bơm. Động cơ có hộp đấu nối: chiếc hộp nhỏ ở phía cáp chứa các kết nối giữa cáp và động cơ. Nắp đậy kín nước, và gioăng cùng các tuyến giữ dây cáp là những yếu tố ngăn nước lọt vào. Một nắp không được đóng đúng cách, một van tiết lưu bị lỏng hoặc một hộp đầu cuối không đúng loại cho bơm sẽ khiến nước tràn vào. Khi có nước trong hộp đấu nối, dòng điện có thể bắt đầu bên trong máy bơm.\n\nCách thứ ba là một mảnh đất bị thiếu hoặc bị hỏng. Một máy bơm không có dây nối đất không có cách an toàn để dòng sự cố quay trở lại bảng điện. Nó có thể là một cáp nguồn hoàn toàn không có dây nối đất, một bơm được cấp điện từ máy phát hoặc từ một dây điện nối kéo dài không có dây nối đất, một bể chứa hoặc hệ thống ống kim loại không được nối đất, hoặc một dây nối đất đã bị cắt, chẳng hạn do bị khoan xuyên trong quá trình cải tạo. Trong mọi trường hợp, kết quả đều như nhau: khi xảy ra sự cố, dòng điện sẽ tìm một đường đi khác, và mặt đất ẩm ướt ở đó.",
+      "examples": [
+        "Cáp nằm trên sàn của hố và đó là nơi nó bị hư hỏng.",
+        "Nước trong hộp nối cuối có nghĩa là dòng điện có thể bắt đầu bên trong bơm.",
+        "Bộ lắp đặt hoàn toàn không có dây nối đất, nên không có cách nào an toàn để dòng lỗi quay trở lại."
+      ],
+      "heading": "Nguồn rò rỉ",
+      "terms": [
+        {
+          "example": "Chiếc bơm treo sâu mười mét bên trong giếng.",
+          "gloss": "Một cái hố sâu đào trong lòng đất chứa nước mà bơm hút lên.",
+          "termId": "pump_well"
+        },
+        {
+          "example": "Hố ga trong hầm tầng bị đầy khi cống thoát nước sàn bị ứng nghẽn.",
+          "gloss": "Một hố thu nước từ sàn hoặc tầng hầm để bơm có thể hút nước lên.",
+          "termId": "pump_sump"
+        },
+        {
+          "example": "Dây tiếp đất đã bị máy khoan cắt trong quá trình cải tạo.",
+          "gloss": "Dây màu xanh lá-vàng nối các bộ phận kim loại của hệ thống với mặt đất.",
+          "termId": "pump_earth_conductor"
+        }
+      ]
+    },
+    {
+      "body": "Dòng chảy không đi một mình. Nó cần một đường dẫn khép kín: nó rời bảng mạch ở dây có điện và quay lại ở dây trung tính, và nó sẽ đi theo bất kỳ đường dẫn nào để khép kín mạch vòng. Nếu phần sống của máy bơm tiếp xúc với nước, nước sẽ trở thành một phần của vòng tuần hoàn đó. Mặt đất cũng trở thành một phần của nó, bởi vì nước trong giếng hoặc trong bể chứa nước đều tiếp xúc với mặt đất.\n\nVì vậy, những đường dẫn có thể dẫn điện cần được gọi tên: mặt đất ẩm quanh một bơm, sàn bê tông bị ướt, hệ thống ống kim loại và nước trong bể, nắp kim loại của hố, và một sợi cáp có lớp cách điện đã hỏng. Từng cái một trong số chúng đều vô hại. Một người, một sàn ướt và một máy bơm đang chạy cùng nhau là nguyên nhân gây sự cố.\n\nCơ thể bạn trở thành một phần của mạch điện ngay khi chạm vào hai điểm ở các mức điện áp khác nhau. Khi bạn đứng trên mặt đất ướt và cầm một đường ống kim loại, dòng điện sẽ đi qua cơ thể bạn thay vì đi qua dây tiếp đất được thiết kế để dẫn dòng điện an toàn. Mức độ nghiêm trọng không chỉ phụ thuộc vào điện áp. Điều đó được quyết định bởi đường đi mà dòng điện đi qua cơ thể và bởi thời gian dòng điện chạy qua. Nguồn cấp điện cho một ngôi nhà ở nhiều nơi trên thế giới vào khoảng 230 V và ở Bắc Mỹ vào khoảng 120 V, và những mức điện áp đó đủ để dẫn dòng điện qua cơ thể con người mỗi khi đường đi trở nên ngắn và mặt đất ẩm ướt. Dòng điện mà con người có thể cảm nhận đã là lý do để dừng lại, bởi vì một cơ co giãn tự nhiên có thể không thể tự thả lỏng: bàn tay vẫn nắm chặt vào ống.\n\nNối đất là cách bố trí để dòng sự cố có đường trở lại về tấm điện qua một điện trở thấp thay vì đi qua người. Ở nơi thiếu, dòng hiện tại đi theo đường còn lại. Đây là lý do sau khi bị điện giật, việc đầu tiên cần làm là cắt mạch điện, chứ không phải kéo người bị điện giật ra.",
+      "examples": [
+        "Nước trong bể tiếp xúc với mặt đất, do đó mặt đất là một phần của mạch điện.",
+        "Mức độ nghiêm trọng phụ thuộc vào đường đi của dòng điện qua cơ thể và thời gian, không chỉ vào điện áp.",
+        "Một bàn tay nắm chặt ống không tự buông ra; hãy ngắt mạch trước đã."
+      ],
+      "heading": "Con đường quay lại với con người ấy",
+      "terms": [
+        {
+          "example": "Việc nối đất của máy bơm đã được kiểm tra khi bảng mạch được thay thế.",
+          "gloss": "Toàn bộ bố trí kết nối các bộ phận kim loại của một thiết bị với mặt đất, để dòng sự cố có một đường trở về an toàn.",
+          "termId": "elec_earthing"
+        }
+      ]
+    },
+    {
+      "body": "Sáu bộ phận bảo vệ một hệ thống bơm, và mỗi bộ phận theo dõi những thứ khác nhau. Dây đất, thiết bị dòng rò và cầu dao bảo vệ giám sát dòng điện. Cấp độ bảo vệ chống xâm nhập, công tắc phao và bảo vệ chạy không tải theo dõi bơm và nước xung quanh bơm. Độc giả nhầm lẫn hai nhóm sẽ chờ đợi phần sai để cứu mình.\n\nCác mức đánh giá trong bảng là mức phổ biến, không phải quy định pháp luật. Dòng rò 30 mA là mức thông thường để bảo vệ cá nhân trong hầu hết các hệ thống điện, và bơm chìm thường được ghi là IP68. Tiêu chuẩn địa phương quyết định từng giá trị này. Nếu bộ lắp đặt trước mặt bạ không khớp với bảng, hãy hỏi thợ điện hoặc đơn vị cung cấp điện xem nó phải như thế nào.\n\nTrước mọi thứ khác, một thông số đáng đọc trên tấm dữ liệu là: cấp bảo vệ chống xâm nhập. Nó cho biết vỏ máy chống nước và vật rắn tốt đến mức nào, cũng như một bơm được ghi là dùng để ngâm sẽ có ký hiệu cho việc đó. Đó không phải là quyền được nhấc máy bơm ra khỏi nước và chạy ở đó.",
+      "examples": [
+        "Dây tiếp đất, thiết bị ngắt mạch dò rò và bộ ngắt mạch theo dõi dòng điện; công suất định mức, công tắc phao và bảo vệ chạy không tải theo dõi bơm.",
+        "Thiết bị chống rò rỉ ngắt mạch khi dòng điện quay lại nhỏ hơn dòng điện đã đi ra.",
+        "Ba mươi milliampe là mức điển hình để bảo vệ cá nhân trong hầu hết các hệ thống lắp đặt, và tiêu chuẩn địa phương sẽ quyết định."
+      ],
+      "heading": "Sự bảo vệ và tác dụng của từng loại",
+      "table": {
+        "headers": [
+          "Part",
+          "What it watches",
+          "What it does when it works",
+          "Typical rating",
+          "What it does not protect against"
+        ],
+        "rows": [
+          [
+            "Protective earth conductor",
+            "It watches the connection between the live part and the metal parts of the installation.",
+            "It carries the fault current back to the board, so that the breaker opens.",
+            "No rating; it is a continuous conductor, and the local standard decides its size.",
+            "It does nothing at all if it has been cut, and it does not protect a person who is already in the water."
+          ],
+          [
+            "Residual-current device (RCD)",
+            "It watches the difference between the current that leaves the circuit and the current that returns.",
+            "It trips and cuts the power in a fraction of a second when the two currents differ.",
+            "Typically 30 mA for personal protection in most installations; the local standard decides.",
+            "It does not protect against an overload, where the current goes out and comes back the normal way."
+          ],
+          [
+            "Circuit breaker",
+            "It watches the current in the circuit against the rating of the cable.",
+            "It opens the circuit when the current is too high, so that the cable cannot overheat.",
+            "A common rating for a socket circuit is 16 A, and a pump is often on a circuit of its own; the local standard decides.",
+            "It does not protect a person from a small leakage current; only the residual-current device does that."
+          ],
+          [
+            "Ingress protection rating of the pump",
+            "It watches the seal of the casing of the motor against water and solid objects.",
+            "It tells the reader that the casing is built to work under water, so the pump can stay submerged.",
+            "A submersible pump is often marked IP68; the maker states the depth and the time, and the local standard decides the installation.",
+            "It does not protect the cable, the plug or the socket, and it is no permission to run the pump dry."
+          ],
+          [
+            "Float switch",
+            "It watches the water level in the tank or in the pit.",
+            "It starts the pump when the level rises and stops it when the level falls.",
+            "A switch on a float, set to the level of the tank; the maker and the local standard decide the setting.",
+            "It does not protect the cable or the person, and a switch set at the wrong level does not protect the motor."
+          ],
+          [
+            "Dry-run protection",
+            "It watches whether there is water around the motor, by the current the motor draws or by the heat in the motor.",
+            "It stops the pump when the pump turns without water, so that the motor is not damaged.",
+            "Often built into the pump or added as a separate device; the maker and the local standard decide.",
+            "It does not protect the cable, the socket or the person, and it does not find a fault in the insulation."
+          ]
+        ]
+      },
+      "terms": [
+        {
+          "example": "Thiết bị dòng rò là công tắc rộng trên bảng điện có nút kiểm tra.",
+          "gloss": "Một thiết bị so sánh dòng điện đi ra với dòng điện quay lại, và ngắt mạch điện khi chúng khác nhau.",
+          "termId": "elec_residual_current_device_rcd"
+        },
+        {
+          "example": "Tấn biển tên của máy bơm này ghi mức bảo vệ chống xâm nhập IP68.",
+          "gloss": "Mã IP trên tấm nhãn cho biết mức độ chống vật rắn và nước của vỏ bọc.",
+          "termId": "pump_ip_rating"
+        },
+        {
+          "example": "Công tắc phao trong bể ngừng bơm khi bể cạn.",
+          "gloss": "Công tắc trên bè nổi tự động khởi động hoặc dừng bơm khi mực nước dâng lên hoặc hạ xuống.",
+          "termId": "pump_float_switch"
+        }
+      ]
+    },
+    {
+      "body": "Việc kiểm tra hệ thống bơm có thể do người phụ trách thực hiện và việc kiểm tra chỉ mất vài phút. Không thao tác nào trong quy trình chạm vào hệ thống dây điện, và không thao tác nào mở bơm. Nếu một bước cho thấy sự cố, cách xử lý là tắt nguồn, báo cáo và gọi thợ điện có giấy phép: quy trình này nhằm xác định xem có vấn đề gì, chứ không phải để tự sửa.\n\nThứ tự các bước rất quan trọng, vì những bước đầu tiên xác lập rằng máy bơm đang ở trạng thái an toàn để có thể kiểm tra, còn những bước sau đó kiểm tra các bộ phận mang dòng điện. Nút kiểm tra trên thiết bị dòng rò là cách để xác nhận rằng cơ chế bảo vệ vẫn hoạt động: nếu thiết bị không ngắt mạch khi bạn nhấn nút, thì nó không bảo vệ được bất cứ thứ gì, bất kể máy bơm đang hoạt động thế nào.\n\nCó hai lỗi đáng được nêu tên ở đây. Việc chạy khô xảy ra khi bơm quay mà không có nước xung quanh động cơ; trong bơm chìm, nước là thứ làm mát động cơ, và việc chạy khô sẽ làm nóng động cơ. Dòng chảy ngược là nước di chuyển theo hướng sai, chạy ngược lại trong đường ống về phía máy bơm: trong một số hệ thống, nước chảy ngược đó khiến máy bơm tiếp tục chạy dù không có nước để bơm, và đó lại là tình trạng chạy khô.",
+      "examples": [
+        "Bơm nằm trên mạch điện riêng, và thiết bị chống rò điện là công tắc rộng có nút kiểm tra.",
+        "Tôi dừng lại ở vết nứt đầu tiên trên cáp, gần mép của hố.",
+        "Ổ cắm nằm trên hố và nó luôn khô ráo."
+      ],
+      "heading": "Quy trình kiểm tra an toàn cho việc lắp đặt máy bơm",
+      "steps": [
+        "Xác định nguồn cấp điện cho máy bơm và xác nhận rằng máy bơm có mạch điện riêng được bảo vệ bằng thiết bị đo dòng rò.",
+        "Kiểm tra thiết bị dòng rò bằng nút kiểm tra và xác nhận rằng nó ngắt và đặt lại.",
+        "Hãy nhìn dọc theo toàn bộ chiều dài của dây, từ phích cắm đến bơm, và dừng lại ở chỗ đầu tiên bạn thấy bị nứt, rách hoặc bị bóp.",
+        "Giữ bơm hút nước ngập dưới nước trong khi hoạt động và đóng nắp hố.",
+        "Không bao giờ để bơm chạy khô: hãy kiểm tra mực nước, công tắc phao và bể đều hoạt động bình thường trước khi khởi động.",
+        "Giữ ổ cắm, phích cắm và mối nối phía trên hố không bị ngập trong nước, và giữ chúng khô ráo."
+      ],
+      "terms": [
+        {
+          "example": "Một lần chạy thử không tải làm nóng động cơ của bơm hợp thủy.",
+          "gloss": "Bơm quay mà không có nước bao quanh, nên động cơ không có gì để làm mát.",
+          "termId": "pump_dry_run"
+        },
+        {
+          "example": "Sau khi nguồn cấp nước ngừng, nước có thể chảy ngược lại, khiến bơm tiếp tục chạy dù không có nước.",
+          "gloss": "Nước chảy ngược hướng, quay lại dọc theo đường ống về phía máy bơm.",
+          "termId": "pump_backflow"
+        }
+      ]
+    },
+    {
+      "body": "**Không bao giờ thao tác với máy bơm khi đang có điện.** Không thao tác với cáp, hộp đấu nối, phích cắm, và cũng không thao tác khi công tắc đã ngắt với hy vọng rằng nó vốn đã ngắt từ trước. Nếu bạn không thể xác nhận rằng mạch điện đã ngắt, đừng thực hiện bất kỳ thao tác nào trên đó.\n\n**Tuyệt đối không được kéo máy bơm ra khỏi nước bằng dây cáp.** Dây cáp không phải là tay cầm. Nó chịu trọng lượng của bơm, và một bơm không được cố định vào giá đỡ có thể kéo cáp xuống qua mép hố hoặc qua ròng rọng, làm cáp bị cắt và bơm mất kiểm soát. Sử dụng chain, rope hoặc bracket do nhà sản xuất cung cấp.\n\n**Không bao giờ cho bơm chìm chạy khô.** Động cơ của bơm chìm được làm mát bởi nước xung quanh nó. Chạy nó không có nước và động cơ hoàn toàn không được làm mát, và nó có thể bị hỏng trong thời gian ngắn. Nếu mực nước thấp hoặc bình chứa đã cạn, bơm sẽ chờ.\n\n**Không bao giờ nối máy bơm với máy phát điện hoặc dây nối dài không có dây tiếp đất.** Máy phát điện và dây nối không có dây tiếp đất loại bỏ đường trở về an toàn đối với nguồn điện, nên khi xảy ra sự cố, dòng điện sẽ tìm đường trở về khác, và mặt đất ướt chính là đường đó. Khi bơm cần nguồn cấp mà tòa nhà không có, giải pháp là lắp đặt một mạch điện do thợ điện thực hiện.\n\n**Đừng cứ liên tục reset thiết bị chống rò rỉ thay vì tìm ra nguyên nhân.** Thiết bị đã ngắt mạch nghĩa là đã phát hiện sự cố. Việc đặt lại sẽ xóa bằng chứng và đưa lỗi trở lại. Ghi chú lại máy bơm đang làm gì, ghi lại thời gian và gọi thợ điện. Một thiết bị bị ngắt hai lần trong một tuần là sự cố cần được báo cáo, không phải phiền nhiễu để gạt bỏ.\n\nVà trên năm quy tắc ấy, có một quy tắc nữa: **chỉ thợ điện có giấy phép mới được tháo, sửa hoặc kiểm tra hệ thống điện.** Sổ tay hướng dẫn của máy bơm, tiêu chuẩn địa phương và giấy chứng nhận của thợ điện quyết định những gì cần thực hiện. Bài viết này giải thích điều gì xảy ra và cần làm gì trong những phút đầu tiên. Đó không phải là hướng dẫn sửa chữa, và nó không thay thế bất kỳ điều nào trong ba điều đó.",
+      "examples": [
+        "Tôi sẽ không kéo bơm ra bằng dây cáp; tôi sẽ dùng dây xích do nhà sản xuất cung cấp.",
+        "Thiết bị dòng rò đã nhảy hai lần, nên sẽ không được đặt lại lần nữa; phải tìm ra nguyên nhân sự cố.",
+        "Chỉ có thợ điện có giấy phép mới được mở bộ lắp đặt, nên tôi sẽ gọi một người và không sử dụng bơm."
+      ],
+      "heading": "Năm điều không bao giờ được làm"
+    },
+    {
+      "body": "Phần lớn những gì bạn cần trong công việc này là ngôn ngữ của báo cáo và của yêu cầu. Hãy nói những gì bạn đã thấy, hãy nói thiết bị đã làm gì và hãy nói bạn muốn làm gì tiếp theo. Không tự chẩn đoán sự cố; hãy mô tả triệu chứng và để thợ điện quyết định nguyên nhân.\n\nMột kỹ thuật viên cần bốn thứ: vị trí của bơm, nội dung ghi trên tấm nhãn, triệu chứng theo đúng thứ tự xảy ra và những gì đã được thử. Hãy đọc bảng tên trước khi gọi và giữ nó ở phía trước khi nhân viên kỹ thuật đến. Chủ sở hữu hoặc quản lý văn phòng cần những thông tin đó ở dạng ngắn hơn, kèm theo yêu cầu: một ngày, một số hồi sơ và thông báo rằng máy bơm đã ngừng hoạt động. Một đồng nghiệp cần biết quy tắc và cảnh báo: tắt nguồn, gọi điện, không được đặt lại.",
+      "examples": [
+        "Bơm trong bể thu nước tầng hầm đang ngừng hoạt động và thiết bị chống rò rỉ đã nhảy hai lần.",
+        "Tấm tên đưa thông tin về nhà sản xuất, mẫu mã và chỉ số bảo vệ chống xâm nhập, và tôi đã ghi chúng lại.",
+        "Có người bị điện giật từ cái bơm khi đang đứng trong nước; tôi đã tắt nguồn điện ở bảng điện.",
+        "Bạn có thể cử một thợ điện có giấy phép và cho tôi một số mã tham chiếu để theo dõi lần việc thăm không?",
+        "Bơm sẽ ngừng hoạt động cho đến khi kết nối tiếp đất và cáp đã được kiểm tra.",
+        "Tôi không biết nguyên nhân là gì; tôi có thể nói chính xác điều mình đã nhìn thấy và sự việc đã xảy ra theo thứ tự nào.",
+        "Không khởi động lại thiết bị nữa. Gọi đơn vị tiện ích và để họ tìm ra lỗi.",
+        "Việc sử dụng máy bơm có được bao gồm trong hợp đồng thuê không, hay tôi phải tự lo?"
+      ],
+      "heading": "Các câu bạn có thể sử dụng"
+    },
+    {
+      "body": "Một cú sốc trong nước là một trường hợp khẩn cấp, và vài phút đầu tiên quyết định kết quả. Thứ tự bên dưới có ý nghĩa quan trọng. Đừng bắt đầu với con người; hãy bắt đầu với quyền lực. Một người đang đứng trong nước vẫn là một phần của mạch điện, và bàn tay của bạn đặt trên cánh tay họ cũng khiến bạn trở thành một phần của mạch điện.\n\nNếu có thể tắt nguồn điện tại bộ ngắt mạch hoặc công tắc chính mà không cần bước vào khu vực ẩm ướt, hãy làm như vậy. Nếu bạn không thể tiếp cận nó một cách an toàn, đừng xuống nước. Di dời tất cả mọi người ra, gọi số khẩn cấp và chờ đến khi nguồn điện bị cắt từ một vị trí an toàn. Sau đó, lau khô người và sàn, đặc biệt là tay và chân, và lau khô hốp cùng mặt đất xung quanh bơm. Không chạm vào công tắc hoặc ổ cắm trong khu vực ẩm ướt: bạn không thể chắc chắn rằng đường nối đất vẫn hoạt động, và đây không phải là lúc để kiểm tra điều đó.\n\nGọi số khẩn cấp nếu người đó không phản hồi hoặc nếu bạn không chắc chắn về mức độ nghiêm trọng của tình huống. Ở Việt Nam, xe cứu thương gọi 115, cảnh sát và cảnh sát giao thông gọi 113; ở phần lớn châu Âu gọi 112; ở Vương quốc Anh gọi 999; và ở Hoa Kỳ và Canada gọi 911. Hãy nói bạn đang ở đâu, điều gì đã xảy ra và người đó đang làm gì lúc này. Sau đó, hãy gọi thợ điện và đơn vị cung cấp điện, giữ máy bơm ngừng hoạt động cho đến khi được kiểm tra, và ghi lại thời điểm xảy ra sự việc, các triệu chứng và tên những người mà bạn đã gọi.\n\nVậy hãy nghĩ xem ai chịu trách nhiệm, bởi vì điều đó quyết định ai phải hành động. Người lắp đặt đã thi công lắp đặt chịu trách nhiệm về công trình: dây nối đất, bảo vệ và mạch điện là thuộc về anh cho đến khi anh đã chứng nhận chúng. Chủ sở hữu, chủ nhà hoặc quản lý văn phòng người quản lý tòa nhà, chịu trách nhiệm về việc bảo trì: các kỳ kiểm tra, việc sửa chữa, bảo dưỡng và khả năng tiếp cận bơm. Ngành điện chịu trách nhiệm cung cấp: công tơ, công tắc chính và đường dây vào nhà. Ở nơi hệ thống lắp đặt đã cũ, trách nhiệm có thể không rõ ràng, và đó là câu hỏi dành cho nhà cung cấp dịch vụ và chính quyền địa phương, không phải là câu hỏi để giải quyết một mình.",
+      "examples": [
+        "Không chạm vào cô ấy cho đến khi nguồn điện được ngắt; cô ấy vẫn đang đứng trong nước.",
+        "Tôi đã tắt công tắc và đang lau sàn và hố ga.",
+        "Máy bơm không hoạt động cho đến khi thợ điện đã kiểm tra kết nối mặt đất.",
+        "Nhà thợ lắp đặt xác nhận việc lắp đặt, chủ sở hữu giữ nó, và công ty cung cấp điện."
+      ],
+      "heading": "Sau một cú sốc trong nước"
+    }
+  ],
+  "summary": "Sau khi đọc bài, người đọc có thể xác định các bộ phận của hệ thống bơm, giải thích nguồn gốc dòng rò và cách dòng điện tiếp xúc với con người qua nền ướt. Bài học cũng giúp phân biệt sáu lớp bảo vệ, thực hiện quy trình kiểm tra bơm an toàn theo sáu bước và xử lý đúng thứ tự trong những phút đầu sau khi bị điện giật.",
+  "title": "Bơm nước và nguy cơ rò điện"
+}

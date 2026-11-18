@@ -1,0 +1,1294 @@
+{
+  "records": {
+    "0209442e115ad7bc79fd281d91423a86b619e3c711fe574b7cc198d2e3c461c4": [
+      {
+        "forms": [
+          "travel",
+          "travelling",
+          "traveling"
+        ],
+        "id": "lex.sa.en.travel.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "travel",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.travel.verb.1",
+          "sns.sa.en.travel-verb.alt"
+        ]
+      },
+      {
+        "definition": "Chuyển động từ nơi này sang nơi khác.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "di chuyển; đi du lịch",
+        "id": "sns.sa.vi.travel.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.travel.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "Going from one place to another.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "Moving from one place to another.",
+        "id": "sns.sa.en.travel-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.travel.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "020f87d7bbeb84efba82f8f68e0012b5a143275398ab78c3c4f449a543a630f4": [
+      {
+        "forms": [
+          "Role negotiation",
+          "gre_role_negotiation"
+        ],
+        "id": "lex.sa.social.gre_role_negotiation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Role negotiation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gre_role_negotiation.alt",
+          "sns.sa.social.gre_role_negotiation.alt.ja",
+          "sns.sa.social.gre_role_negotiation.alt.ko",
+          "sns.sa.social.gre_role_negotiation.alt.pt_br",
+          "sns.sa.social.gre_role_negotiation.alt.id",
+          "sns.sa.social.gre_role_negotiation.alt.th",
+          "sns.sa.social.gre_role_negotiation.alt.tr"
+        ]
+      },
+      {
+        "definition": "The talk in which two people change or confirm the roles they play together.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_negotiation.1.1"
+        ],
+        "gloss": "The talk in which two people change or confirm the roles they play together.",
+        "id": "sns.sa.social.gre_role_negotiation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gre_role_negotiation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一緒に的人是 two people who change or confirm the roles they play together. 誰が何をLift するかの取り決めamong なされているDISCUSSION.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_negotiation.1.1.ja"
+        ],
+        "gloss": "二人以上の間で、互いの役割を相談し決めること。",
+        "id": "sns.sa.social.gre_role_negotiation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gre_role_negotiation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "두 사람이 각자 맡는 역할과 서로의 기대를 이야기하며 조정하는 과정이다. 반드시 다툼이나 갈등을 뜻하지는 않는다.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_negotiation.1.1.ko"
+        ],
+        "gloss": "서로 함께하는 역할들을 바꾸거나 확인하는 대화.",
+        "id": "sns.sa.social.gre_role_negotiation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gre_role_negotiation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Processo pelo qual duas ou mais pessoas discutem, alteram ou confirmam as responsabilidades que assumem em uma relação ou grupo. Não é necessariamente uma disputa ou briga.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_negotiation.1.1.pt_br"
+        ],
+        "gloss": "Conversa ou acordo sobre os papéis desempenhados por pessoas.",
+        "id": "sns.sa.social.gre_role_negotiation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gre_role_negotiation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Percakapan antara dua orang untuk menetapkan, mengubah, atau menyepakati peran mereka bersama. Percakapan ini dapat berupa kesepakatan, bukan pertengkaran.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_negotiation.1.1.id"
+        ],
+        "gloss": "Percakapan untuk mengubah atau menyepakati peran yang dijalankan dua orang.",
+        "id": "sns.sa.social.gre_role_negotiation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gre_role_negotiation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กระบวนการประเมินและตกลงกันระหว่างบุคคลสองฝ่ายเกี่ยวกับบทบาทของแต่ละฝ่าย เช่น ใครทำอะไร และความคาดหมายเป็นอย่างไร ไม่ใช่การทะเถียงว่าใครถูก",
+        "exampleIds": [
+          "exm.sa.social.gre_role_negotiation.1.1.th"
+        ],
+        "gloss": "การพูดคุยเพื่อเปลี่ยนหรือยืนยันบทบาทที่ต่างฝ่ายรับบทร่วมกัน",
+        "id": "sns.sa.social.gre_role_negotiation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gre_role_negotiation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İki kişinin birbirlerinin rolleriyle ilgili beklentilerini açıklaması, değiştirmesi veya karşılıklı olarak doğrulaması. Genellikle kimin hangi işi yapacağının kararlaştırılmasını içerir.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_negotiation.1.1.tr"
+        ],
+        "gloss": "İki kişinin birlikte üstlendikleri rolleri görüşerek belirlediği konuşma.",
+        "id": "sns.sa.social.gre_role_negotiation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gre_role_negotiation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gre_role_negotiation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Rol müzakeresi, kimin haklı olduğu üzerine bir tartışma değil; kimin ne yapacağına dair bir karardır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gre_role_negotiation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การเจรจาเรื่องบทบาทไม่ใช่การทะเลียงว่าใครถูก แต่เป็นการตัดสินใจว่าใครจะทำอะไร",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gre_role_negotiation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Negosiasi peran bukan pertengkaran tentang siapa yang benar, tetapi tentang pembagian tugas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gre_role_negotiation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A negociação de papéis ajudou o casal a dividir as tarefas da casa de maneira mais justa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gre_role_negotiation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "역할 협상은 누가 옳은지를 다투는 것이 아니라 누가 무엇을 맡을지를 정하는 대화이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gre_role_negotiation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "役割の交渉は Who's right についての口論ではなく、誰が何をするかを決めることである。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gre_role_negotiation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Role negotiation is not a quarrel about who is right; it is a decision about who does what.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "021f8ffac9f9a70fd3468b23fc6f299877339299a4ae8764e892e3f197e867f5": [
+      {
+        "forms": [
+          "lead",
+          "leads",
+          "led",
+          "leading"
+        ],
+        "id": "lex.sa.en.lead.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "lead",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.lead.verb",
+          "prn.sa.en.lead.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.lead.verb.guide",
+          "sns.sa.en.lead-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.lead-verb",
+        "id": "prn.sa.en.lead.verb",
+        "ipa": "/liːd/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.lead.verb.us",
+        "ipa": "/liːd/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Đi trước và chỉ đường cho người khác.",
+        "exampleIds": [
+          "exm.sa.en.lead-verb.more.01",
+          "exm.sa.en.lead-verb.more.02"
+        ],
+        "gloss": "dẫn dắt",
+        "id": "sns.sa.en.lead.verb.guide",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.lead.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.lead-verb",
+          "res.sa.aud.lead-verb",
+          "res.sa.lnk.lead-verb",
+          "res.sa.vid.lead-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To show the way; to be in charge of a team or a task.",
+        "gloss": "To show the way; to be in charge of a team or a task.",
+        "id": "sns.sa.en.lead-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.lead.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "029aa3dad1ce9995d052667ba241ead871746c91a3b6d5346f96795c63edd879": [
+      {
+        "forms": [
+          "Precipitation",
+          "precipitation"
+        ],
+        "id": "lex.sa.kids_science.precipitation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Precipitation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.precipitation.alt",
+          "sns.sa.kids_science.precipitation.alt.ja",
+          "sns.sa.kids_science.precipitation.alt.ko",
+          "sns.sa.kids_science.precipitation.alt.pt_br",
+          "sns.sa.kids_science.precipitation.alt.id",
+          "sns.sa.kids_science.precipitation.alt.th",
+          "sns.sa.kids_science.precipitation.alt.tr"
+        ]
+      },
+      {
+        "definition": "Any water that falls out of a cloud: rain, snow, sleet or hail.",
+        "exampleIds": [
+          "exm.sa.kids_science.precipitation.1.1"
+        ],
+        "gloss": "Any water that falls out of a cloud: rain, snow, sleet or hail.",
+        "id": "sns.sa.kids_science.precipitation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.precipitation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "雲から落ちる水的一切を指し、雨、雪、みぞれ、ひょうなどを含みます。",
+        "exampleIds": [
+          "exm.sa.kids_science.precipitation.1.1.ja"
+        ],
+        "gloss": "雲から落ちる水的一切で、雨や雪など。",
+        "id": "sns.sa.kids_science.precipitation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.precipitation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "구름에서 떨어져 나오는 강수 현상으로 비, 눈, sleet, 우박 등이 포함된다.，气候나 날씨를 예상할 때 함께 쓰이는 말이다.",
+        "exampleIds": [
+          "exm.sa.kids_science.precipitation.1.1.ko"
+        ],
+        "gloss": "구름에서 떨어져 나오는 물.",
+        "id": "sns.sa.kids_science.precipitation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.precipitation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Precipitação é a queda de água da atmosfera em gotas ou cristais, incluindo chuva, neve, chuva com gelo e granizo. O termo também designa a quantidade de água que caiu em um determinado período.",
+        "exampleIds": [
+          "exm.sa.kids_science.precipitation.1.1.pt_br"
+        ],
+        "gloss": "Água que cai das nuvens sob a forma de chuva, neve ou granizo.",
+        "id": "sns.sa.kids_science.precipitation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.precipitation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Presipitasi mencakup berbagai bentuk air yang jatuh dari awan ke bumi. Kata ini lebih umum daripada menyebutkan jenisnya secara khusus.",
+        "exampleIds": [
+          "exm.sa.kids_science.precipitation.1.1.id"
+        ],
+        "gloss": "Presipitasi adalah air yang jatuh dari awan, seperti hujan, salju, sleet, atau es batu.",
+        "id": "sns.sa.kids_science.precipitation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.precipitation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การตกต่อมหมายถึงน้ำที่ตกจากเมฆ ได้แก่ ฝน หิมะ หิมะกลมกลืน และลูกเห็บ คำนี้ไม่ได้หมายถึงเฉพาะฝน",
+        "exampleIds": [
+          "exm.sa.kids_science.precipitation.1.1.th"
+        ],
+        "gloss": "น้ำที่ตกลงมาจากเมฆ",
+        "id": "sns.sa.kids_science.precipitation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.precipitation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bulutlardan yeryüzüne düşen yağış biçimlerinin tümü; yağmur, kar, kırat ve dolu buna girer. Hava tahmininde genel bir terim olarak kullanılır.",
+        "exampleIds": [
+          "exm.sa.kids_science.precipitation.1.1.tr"
+        ],
+        "gloss": "Buluttan düşen her türlü su: yağmur, kar, kırat ve dolu.",
+        "id": "sns.sa.kids_science.precipitation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.precipitation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.precipitation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The forecast said precipitation, so I took my umbrella.",
+        "translation": "Hava tahmininde yağış bildirildiği için şemsiyemi aldım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.precipitation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The forecast said precipitation, so I took my umbrella.",
+        "translation": "พยากรณ์บอกว่ามีการตกต่อม ฉันจึงพกร่มไปด้วย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.precipitation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The forecast said precipitation, so I took my umbrella.",
+        "translation": "Prakiraan menyebutkan presipitasi, jadi saya membawa payung.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.precipitation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The forecast said precipitation, so I took my umbrella.",
+        "translation": "A previsão indicou precipitação, então levei meu guarda-chuva.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.precipitation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The forecast said precipitation, so I took my umbrella.",
+        "translation": "일기 예보에 강수가 있다고 해서 우산을 가져왔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.precipitation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The forecast said precipitation, so I took my umbrella.",
+        "translation": "降水の予報が出ていたので、傘を持って行きました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.precipitation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The forecast said precipitation, so I took my umbrella.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "02a67270a115da58f9e09eac85388795420933540d290783e0a3e22d0819e1d1": [
+      {
+        "forms": [
+          "Deliberation",
+          "dual_deliberation"
+        ],
+        "id": "lex.sa.mind.dual_deliberation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Deliberation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.dual_deliberation.alt",
+          "sns.sa.mind.dual_deliberation.alt.ja",
+          "sns.sa.mind.dual_deliberation.alt.ko",
+          "sns.sa.mind.dual_deliberation.alt.pt_br",
+          "sns.sa.mind.dual_deliberation.alt.id",
+          "sns.sa.mind.dual_deliberation.alt.th",
+          "sns.sa.mind.dual_deliberation.alt.tr"
+        ]
+      },
+      {
+        "definition": "The short space in which one argument is weighed against another.",
+        "exampleIds": [
+          "exm.sa.mind.dual_deliberation.1.1"
+        ],
+        "gloss": "The short space in which one argument is weighed against another.",
+        "id": "sns.sa.mind.dual_deliberation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.dual_deliberation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "二つの立場の Arguments を PK ニュースpel し、選び取るための短い時間のこと。長くconsideringすることではなく、weighing a balance に重点を置く。",
+        "exampleIds": [
+          "exm.sa.mind.dual_deliberation.1.1.ja"
+        ],
+        "gloss": "一つの論点と反対の論点を釣り合わせる短い時間。",
+        "id": "sns.sa.mind.dual_deliberation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.dual_deliberation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "결정을 내리기 전에 여러 이유를 따져 보고 판단하는 과정이나 그에 걸리는 시간이다. 단순한 고민과 달리 대안들을 비교하는 aspects을 강조한다.",
+        "exampleIds": [
+          "exm.sa.mind.dual_deliberation.1.1.ko"
+        ],
+        "gloss": "서로 다른 논리를 비교해 보는 짧은 시간.",
+        "id": "sns.sa.mind.dual_deliberation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.dual_deliberation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O período em que se analisam diferentes argumentos e razões para escolher uma conduta ou tomar uma decisão. Também pode designar a própria reflexão feita antes da escolha.",
+        "exampleIds": [
+          "exm.sa.mind.dual_deliberation.1.1.pt_br"
+        ],
+        "gloss": "O processo breve de ponderar um argumento contra outro antes de decidir.",
+        "id": "sns.sa.mind.dual_deliberation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.dual_deliberation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ruang singkat yang digunakan untuk menimbang satu argumen terhadap argumen lain sebelum mengambil keputusan. Kata ini menunjuk pada lamanya waktuDeutsche yang tersedia untuk pertimbangan, bukan pada proses berpikir secara umum.",
+        "exampleIds": [
+          "exm.sa.mind.dual_deliberation.1.1.id"
+        ],
+        "gloss": "Ruang singkat untuk menimbang satu argumen terhadap argumen lain.",
+        "id": "sns.sa.mind.dual_deliberation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.dual_deliberation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ช่วงเวลาที่ใช้คิดพิจารณาและเปรียบเทียบเหตุผลสองข้างอย่างรอบคอบก่อนตัดสินใจ",
+        "exampleIds": [
+          "exm.sa.mind.dual_deliberation.1.1.th"
+        ],
+        "gloss": "ช่วงเวลาสั้นที่ใช้เปรียบเทียบเหตุผลสองฝ่าย",
+        "id": "sns.sa.mind.dual_deliberation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.dual_deliberation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir karar verilmeden önce farklı savların karşılaştırılıp tartışıldığı kısa düşünme süresi; bu süre boyunca karar geciktirilir.",
+        "exampleIds": [
+          "exm.sa.mind.dual_deliberation.1.1.tr"
+        ],
+        "gloss": "İki savın karşılaştırılarak tartışıldığı kısa süre.",
+        "id": "sns.sa.mind.dual_deliberation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.dual_deliberation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.dual_deliberation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tartışma iki dakika sürdü ve iki dakika yeterli oldu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.dual_deliberation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การพิจารณาใช้เวลาสองนาที และสองนาทีก็เพียงพอ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.dual_deliberation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Deliberasi hanya berlangsung dua menit, dan dua menit itu cukup untuk memilih salah satu pilihan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.dual_deliberation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A deliberação levou dois minutos, e esse tempo foi suficiente.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.dual_deliberation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Deliberation에는 두 분이 걸렸고, 그 두 분이면 충분했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.dual_deliberation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "検討は2分で終わり、その2分で十分だった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.dual_deliberation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Deliberation took two minutes, and the two minutes were enough.",
+        "translation": "Việc cân nhắc mất hai phút, và hai phút đó là đủ.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "02aaf1960aca282aefc8c9851701c45e82813a1468f9e60f7896c2f2bc9cb357": [
+      {
+        "forms": [
+          "swipe"
+        ],
+        "id": "lex.sa.en.swipe.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "swipe",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.swipe.verb.1",
+          "sns.sa.en.swipe-verb.alt"
+        ]
+      },
+      {
+        "definition": "Kéo ngón tay qua màn hình để chuyển trang.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.12"
+        ],
+        "gloss": "vuốt",
+        "id": "sns.sa.vi.swipe.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.swipe.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To drag a finger across a screen.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.12"
+        ],
+        "gloss": "To drag a finger across the screen to change page.",
+        "id": "sns.sa.en.swipe-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.swipe.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.12",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Swipe the gallery.",
+        "translation": "Vuốt thư viện ảnh.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "02b10f6203bd3d1c714ae28857f53d571922ebd3669e9cee07e738fcd18ec17a": [
+      {
+        "forms": [
+          "Consulate",
+          "consulate"
+        ],
+        "id": "lex.sa.travel.consulate",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Consulate",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.consulate.alt",
+          "sns.sa.travel.consulate.alt.ja",
+          "sns.sa.travel.consulate.alt.ko",
+          "sns.sa.travel.consulate.alt.pt_br",
+          "sns.sa.travel.consulate.alt.id",
+          "sns.sa.travel.consulate.alt.th",
+          "sns.sa.travel.consulate.alt.tr"
+        ]
+      },
+      {
+        "definition": "A smaller embassy office in a city other than the capital, serving a region. It does the same passport work.",
+        "exampleIds": [
+          "exm.sa.travel.consulate.1.1"
+        ],
+        "gloss": "A smaller embassy office in a city other than the capital, serving a region. It does the same passport work.",
+        "id": "sns.sa.travel.consulate.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.consulate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "大使館より小規模で、一定地域在外本国人を Adaptive? no.",
+        "exampleIds": [
+          "exm.sa.travel.consulate.1.1.ja"
+        ],
+        "gloss": "本京以外の都市 Outreach? no.",
+        "id": "sns.sa.travel.consulate.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.consulate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "대사관의 분관처럼 수도가 아닌 도시에 설치되어 해당 지역을 담당하는 기관이다. 본국에 대사관이 없어도 여권 관련 업무를 처리할 수 있다.",
+        "exampleIds": [
+          "exm.sa.travel.consulate.1.1.ko"
+        ],
+        "gloss": "수도가 아닌 도시에서 지역을 관할하며 여권 업무 등을 처리하는 외교 기관.",
+        "id": "sns.sa.travel.consulate.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.consulate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Representação consular instalada em cidade diferente da capital, que atende a uma região e funciona como a embaixada local, emitindo passaportes e outros documentos, com horário próprio.",
+        "exampleIds": [
+          "exm.sa.travel.consulate.1.1.pt_br"
+        ],
+        "gloss": "Escritório da embaixada em uma cidade que não é a capital, atendendo a uma região.",
+        "id": "sns.sa.travel.consulate.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.consulate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kantor kedutaan yang lebih kecil dan biasanya berada di kota selain ibu kota, serving wilayah tertentu.insula",
+        "exampleIds": [
+          "exm.sa.travel.consulate.1.1.id"
+        ],
+        "gloss": "Kantor kedutaan yang melayani suatu wilayah di luar ibu kota.",
+        "id": "sns.sa.travel.consulate.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.consulate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สำนักงานทูตขนาดเล็กที่ตั้งอยู่ในเมืองอื่นนอกเหนือจากเมืองหลวงและให้บริการแก่พักเมืองในภูมิภาคนั้น รวมถึงงานเอกสารจำเป็นต่าง ๆ",
+        "exampleIds": [
+          "exm.sa.travel.consulate.1.1.th"
+        ],
+        "gloss": "สำนักงานทูตในภูมิภาคที่ดูแลพักเมือง",
+        "id": "sns.sa.travel.consulate.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.consulate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Başkent dışında bulunan ve bir bölgeye hizmet veren devlet temsilciliği ofisidir. Büyükelçilikler gibi pasaport ve konser işlemleri yapar.",
+        "exampleIds": [
+          "exm.sa.travel.consulate.1.1.tr"
+        ],
+        "gloss": "Başkent dışındaki bir şehirde bölgeyi temsil eden büyükelçilik ofisidir.",
+        "id": "sns.sa.travel.consulate.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.consulate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.consulate.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There is no embassy here, only a consulate, and it opens at nine.",
+        "translation": "Burada büyükelçilik yok, yalnızca konsolosluk var ve saat dokuzda açılıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.consulate.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There is no embassy here, only a consulate, and it opens at nine.",
+        "translation": "ที่นี่ไม่มีสถานทูตใหญ่ มีเพียงสถานกงสุลซึ่งเปิดตั้งแต่เก้าโมง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.consulate.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There is no embassy here, only a consulate, and it opens at nine.",
+        "translation": "Di sini tidak ada kedutaan, hanya konsulat, dan bukaannya pukul sembilan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.consulate.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There is no embassy here, only a consulate, and it opens at nine.",
+        "translation": "Aqui não há embaixada, só consulado, e ele abre às nove.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.consulate.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There is no embassy here, only a consulate, and it opens at nine.",
+        "translation": "여기에는 대사관이 없고 영사관만 있으며, 오전 아홉 시에 문을 연다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.consulate.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There is no embassy here, only a consulate, and it opens at nine.",
+        "translation": "ここには大使館はなく領事館だけがあり、九時に開きます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.consulate.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There is no embassy here, only a consulate, and it opens at nine.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "02b3dce98c61897231fdcf1a0594d6c2e159ff8a812386001c769706727efb3e": [
+      {
+        "forms": [
+          "APR (annual percentage rate)",
+          "apr"
+        ],
+        "id": "lex.sa.money.apr",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "APR (annual percentage rate)",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.apr.alt",
+          "sns.sa.money.apr.alt.ja",
+          "sns.sa.money.apr.alt.ko",
+          "sns.sa.money.apr.alt.pt_br",
+          "sns.sa.money.apr.alt.id",
+          "sns.sa.money.apr.alt.th",
+          "sns.sa.money.apr.alt.tr"
+        ]
+      },
+      {
+        "definition": "The yearly price of borrowing on the card, with most fees included. It is the number to compare two cards by.",
+        "exampleIds": [
+          "exm.sa.money.apr.1.1"
+        ],
+        "gloss": "The yearly price of borrowing on the card, with most fees included. It is the number to compare two cards by.",
+        "id": "sns.sa.money.apr.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.apr",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "カードSylvesterの借入コストを年率で表したもので、ほとんどの手数料を含む。複数のカードを比較axiaときは、この数値を用いる。",
+        "exampleIds": [
+          "exm.sa.money.apr.1.1.ja"
+        ],
+        "gloss": "カードで借りる際の、年間の利息率に相当する割合。",
+        "id": "sns.sa.money.apr.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.apr",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "카드에서 돈을 빌릴 때 일 년을 기준으로 계산한 비용으로, 대부분의 수수료가 포함됩니다. 여러 카드를 비교할 때 주로 보는 수치입니다.",
+        "exampleIds": [
+          "exm.sa.money.apr.1.1.ko"
+        ],
+        "gloss": "연이율(APR).",
+        "id": "sns.sa.money.apr.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.apr",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A APR, ou taxa percentual anual, expressa o custo anual do crédito, incluindo a maioria das tarifas. É um dos principais números para comparar duas ofertas de cartão.",
+        "exampleIds": [
+          "exm.sa.money.apr.1.1.pt_br"
+        ],
+        "gloss": "Taxa anual que representa o custo de tomar dinheiro emprestado com o cartão.",
+        "id": "sns.sa.money.apr.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.apr",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "APR atau persentase suku bunga tahunan menunjukkan biaya tahunan meminjam melalui kartu, termasuk sebagian besar biaya. Angka ini dapat digunakan untuk membandingkan两张图片的成本",
+        "exampleIds": [
+          "exm.sa.money.apr.1.1.id"
+        ],
+        "gloss": "Persentase biaya tahunan untuk meminjam uang melalui kartu.",
+        "id": "sns.sa.money.apr.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.apr",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ต้นทุนการกู้เงินด้วยบัตรคิดเป็นรายปีและรวมค่าธรรมเนียมส่วนใหญ่ แต่ไม่จำเป็นต้องรวมทุกค่าใช้จ่าย ตัวเลขนี้ใช้เปรียบเทียบต้นทุนการกู้เงินระหว่างบัตร",
+        "exampleIds": [
+          "exm.sa.money.apr.1.1.th"
+        ],
+        "gloss": "อัตราดอกเบี้ยเปอร์เซ็นต์ต่อปีของการกู้เงินด้วยบัตร",
+        "id": "sns.sa.money.apr.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.apr",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çoğu ücreti kapsar ve iki kartın maliyetini karşılaştırmak için kullanılır.",
+        "exampleIds": [
+          "exm.sa.money.apr.1.1.tr"
+        ],
+        "gloss": "APR (yıllık yüzde oranı), kartla borçlanmanın yıllık maliyetini gösteren orandır.",
+        "id": "sns.sa.money.apr.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.apr",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.apr.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This card has a 24 % APR, which is about 0.066 % a day.",
+        "translation": "Bu kartın APR oranı yüzde 24'tür, bu da günlük yaklaşık yüzde 0,066'ya karşılık gelir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.apr.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This card has a 24 % APR, which is about 0.066 % a day.",
+        "translation": "บัตรนี้มี APR 24 เปอร์เซ็นต์ ซึ่งเท่ากับประมาณ 0.066 เปอร์เซ็นต์ต่อวัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.apr.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This card has a 24 % APR, which is about 0.066 % a day.",
+        "translation": "Kartu ini memiliki APR 24%, yang setara dengan sekitar 0,066% per hari.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.apr.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This card has a 24 % APR, which is about 0.066 % a day.",
+        "translation": "Este cartão tem uma APR de 24%, equivalente a cerca de 0,066% ao dia.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.apr.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This card has a 24 % APR, which is about 0.066 % a day.",
+        "translation": "이 카드의 APR은 24%로, 하루 약 0.066%에 해당합니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.apr.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This card has a 24 % APR, which is about 0.066 % a day.",
+        "translation": "このカードEffectsの年率は24パーセントで、1日当たりおよそ0.066パーセントです。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.apr.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This card has a 24 % APR, which is about 0.066 % a day.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "02bd175f329720378ce83dd56a1b6b1f5291a60182d6c54b5e0d1e8d248a267a": [
+      {
+        "forms": [
+          "json"
+        ],
+        "id": "lex.sa.en.json.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "json",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.json.noun.1",
+          "sns.sa.en.json-noun.alt"
+        ]
+      },
+      {
+        "definition": "Định dạng văn bản dùng để trao đổi dữ liệu có cấu trúc.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.47"
+        ],
+        "gloss": "JSON",
+        "id": "sns.sa.vi.json.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.json.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A text format for structured data.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.47"
+        ],
+        "gloss": "A text format for exchanging structured data.",
+        "id": "sns.sa.en.json-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.json.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.47",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Order in the JSON is the order on screen.",
+        "translation": "Thứ tự trong JSON chính là thứ tự trên màn hình.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "02c24fff5b5b0f0ce5e304306d76f9cef35846df93865f4fc3319cdea184dc41": [
+      {
+        "forms": [
+          "readiness",
+          "msa_readiness"
+        ],
+        "id": "lex.sa.social.msa_readiness",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "readiness",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.msa_readiness.alt",
+          "sns.sa.social.msa_readiness.alt.ja",
+          "sns.sa.social.msa_readiness.alt.ko",
+          "sns.sa.social.msa_readiness.alt.pt_br",
+          "sns.sa.social.msa_readiness.alt.id",
+          "sns.sa.social.msa_readiness.alt.th",
+          "sns.sa.social.msa_readiness.alt.tr"
+        ]
+      },
+      {
+        "definition": "The state of being ready for a relationship, in time, money and emotional terms.",
+        "exampleIds": [
+          "exm.sa.social.msa_readiness.1.1"
+        ],
+        "gloss": "The state of being ready for a relationship, in time, money and emotional terms.",
+        "id": "sns.sa.social.msa_readiness.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.msa_readiness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "~~~~~~~~~~~~~~~~~~~~~~。~~~~~~~~~~~~~~~~~~~~~~。",
+        "exampleIds": [
+          "exm.sa.social.msa_readiness.1.1.ja"
+        ],
+        "gloss": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~。",
+        "id": "sns.sa.social.msa_readiness.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.msa_readiness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "관계 맺기를 생각하는 사람이 시간, 돈, 감정 면에서 준비되어 있는 상태를 뜻한다. 단순히 원하는 마음만 있다는 것과는 다르다.",
+        "exampleIds": [
+          "exm.sa.social.msa_readiness.1.1.ko"
+        ],
+        "gloss": "관계에 들어갈 준비가 되어 있는 상태.",
+        "id": "sns.sa.social.msa_readiness.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.msa_readiness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Prontidão é o conjunto de condições que permite a uma pessoa encarar um relacionamento, considerando tempo, dinheiro, estabilidade e disposição emocional.",
+        "exampleIds": [
+          "exm.sa.social.msa_readiness.1.1.pt_br"
+        ],
+        "gloss": "O estado de estar preparado para um relacionamento em termos práticos e emocionais.",
+        "id": "sns.sa.social.msa_readiness.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.msa_readiness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kesiapan mencakup kesiapan waktu, keuangan, dan emosi untuk suatu hubungan. Kesiapan bukan berarti seluruh persiapan sudah lengkap, melainkan cukup untuk memulai.",
+        "exampleIds": [
+          "exm.sa.social.msa_readiness.1.1.id"
+        ],
+        "gloss": "Kesiapan adalah keadaan seseorang yang sudah siap membangun hubungan.",
+        "id": "sns.sa.social.msa_readiness.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.msa_readiness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สภาวะที่บุคคลพร้อมเข้าสู่ความสัมพันธ์ ทั้งในแง่เวลา ทรัพยากรทางการเงิน และความพร้อมทางอารมณ์ ความพร้อมแต่ละด้านอาจไม่เท่ากัน",
+        "exampleIds": [
+          "exm.sa.social.msa_readiness.1.1.th"
+        ],
+        "gloss": "ความพร้อมสำหรับการมีความสัมพันธ์ ทั้งด้านเวลา การเงิน และอารมณ์",
+        "id": "sns.sa.social.msa_readiness.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.msa_readiness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İlişkiye hazırlık, bu üç alanda da kendini hazır hissetmeyi anlatır; yalnızca maddi hazırlık değildir.",
+        "exampleIds": [
+          "exm.sa.social.msa_readiness.1.1.tr"
+        ],
+        "gloss": "İlişkiye zaman, para ve duygusal bakımdan hazır olma durumu.",
+        "id": "sns.sa.social.msa_readiness.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.msa_readiness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.msa_readiness.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "İlişkiye hazırlığı henüz yoktu ve bunu açıkça söyledi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.msa_readiness.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความพร้อมยังไม่ถึง เธอจึงพูดตรง ๆ ว่ายังไม่พร้อม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.msa_readiness.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kesiapannya belum tercapai, dan dia menyatakannya dengan jelas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.msa_readiness.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A prontidão ainda não existia, e ela disse isso com todas as letras.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.msa_readiness.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "아직 관계에 들어갈 준비가 되지 않았고, 그녀는 그것을 분명히 말했습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.msa_readiness.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "~~~~~~~~~~~~~~~~~~~~；~~~~~~~~~~~~~~~~~~~~。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.msa_readiness.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Readiness was not there yet, and she said so plainly.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

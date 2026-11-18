@@ -1,0 +1,1653 @@
+{
+  "records": {
+    "ca00fccfb408989eddc401062c4d1219a6aceb6b9b55412357f1790862e8f178": [
+      {
+        "forms": [
+          "error"
+        ],
+        "id": "lex.sa.en.error.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "error",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.error.noun.1",
+          "sns.sa.en.error-noun.alt"
+        ]
+      },
+      {
+        "definition": "Kết quả sai; thông báo của hệ thống về một sai sót.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "lỗi",
+        "id": "sns.sa.vi.error.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.error.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A wrong result or a report of a fault.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "A wrong result; a message that something is wrong.",
+        "id": "sns.sa.en.error-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.error.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "ca1e4eae65abf78d2ad9f89fbec483de09c25f6e6431f0f50e25616defde7f5e": [
+      {
+        "forms": [
+          "Follow-up",
+          "follow_up"
+        ],
+        "id": "lex.sa.work.follow_up",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Follow-up",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.follow_up.alt",
+          "sns.sa.work.follow_up.alt.ja",
+          "sns.sa.work.follow_up.alt.ko",
+          "sns.sa.work.follow_up.alt.pt_br",
+          "sns.sa.work.follow_up.alt.id",
+          "sns.sa.work.follow_up.alt.th",
+          "sns.sa.work.follow_up.alt.tr"
+        ]
+      },
+      {
+        "definition": "A message sent after an earlier one, either to remind someone or to ask for a decision.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1"
+        ],
+        "gloss": "A message sent after an earlier one, either to remind someone or to ask for a decision.",
+        "id": "sns.sa.work.follow_up.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "すでに送ったメールや連絡に対する追加連絡をいう。単なる次の行動ではなく、以前の連絡を受けた_LONG後 dred 送られるmessage を指す。",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.ja"
+        ],
+        "gloss": "以前の連絡の後に送る催促や確認の連絡。",
+        "id": "sns.sa.work.follow_up.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "보낸 메시지에 대한 답을 받지 못했거나 필요한 결정을 받기 위해 그 뒤에 추가로 보내는 메시지이다. 기존 내용을 다시 알려 주거나 행동을촉구하는 데 쓰인다.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.ko"
+        ],
+        "gloss": "이전 메시지 뒤에 보내는_reminder 또는_결정 요청.",
+        "id": "sns.sa.work.follow_up.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Comunicação posterior à primeira, enviada para retomar um assunto, cobrar uma resposta ou pedir uma decisão.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.pt_br"
+        ],
+        "gloss": "Mensagem enviada depois de outra para lembrar algo ou solicitar uma decisão.",
+        "id": "sns.sa.work.follow_up.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pesan yang dikirim setelah pesan sebelumnya sebagai pengingat, permintaan tindakan, atau permintaan keputusan.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.id"
+        ],
+        "gloss": "Pesan lanjutan yang dikirim untuk mengingatkan atau meminta keputusan.",
+        "id": "sns.sa.work.follow_up.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ข้อความที่ส่งต่อจากการติดต่อหรือข้อความก่อนหน้า โดยมักมีไว้เตือนความจำ ตรวจสอบความคืบหน้า หรือขอคำตัดสินใจ",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.th"
+        ],
+        "gloss": "ข้อความที่ส่งหลังจากข้อความเดิมเพื่อเตือนความจำหรือขอให้ตัดสินใจ",
+        "id": "sns.sa.work.follow_up.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Daha önce gönderilmiş bir mesajı izleyerek kişiyi hatırlatan, durum soran veya karar isteyen yeni mesaj.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.tr"
+        ],
+        "gloss": "Önceki bir mesajdan sonra gönderilen, hatırlatma veya karar isteyen mesaj.",
+        "id": "sns.sa.work.follow_up.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "Bu, geçen salı gönderdiğim e-postanın kısa bir takip mesajıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "นี่เป็นข้อความติดตามอีกครั้งสำหรับอีเมลที่ฉันส่งไปเมื่อวันอังคาร",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "Ini adalah tindak lanjut singkat terhadap surel saya_last Tuesday.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "Este é um acompanhamento do e-mail que enviei na terça-feira passada.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "이번 메시지는 지난 화요일에 보낸 이메일에 대한 후속 메시지입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "先週のメールへのフォローアップとして、返事の期限について問い合わせました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ca32a84f162caa1d7e30f5add558da668947e75667a9d09320dd51205334ee60": [
+      {
+        "forms": [
+          "Trigger",
+          "att_trigger"
+        ],
+        "id": "lex.sa.social.att_trigger",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Trigger",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.att_trigger.alt",
+          "sns.sa.social.att_trigger.alt.ja",
+          "sns.sa.social.att_trigger.alt.ko",
+          "sns.sa.social.att_trigger.alt.pt_br",
+          "sns.sa.social.att_trigger.alt.id",
+          "sns.sa.social.att_trigger.alt.th",
+          "sns.sa.social.att_trigger.alt.tr"
+        ]
+      },
+      {
+        "definition": "The event that makes a person read a partner as less available than the person assumed.",
+        "exampleIds": [
+          "exm.sa.social.att_trigger.1.1"
+        ],
+        "gloss": "The event that makes a person read a partner as less available than the person assumed.",
+        "id": "sns.sa.social.att_trigger.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.att_trigger",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "本来预期对方会积极回应，却因某个事件而认为对方不再那么愿意接近自己。指使这种想法产生的事件。",
+        "exampleIds": [
+          "exm.sa.social.att_trigger.1.1.ja"
+        ],
+        "gloss": "给对方留下的好感度有所下降的契机。",
+        "id": "sns.sa.social.att_trigger.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.att_trigger",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "연락이나 만남의 감소로 상대가 자신에게서 멀어졌다고 해석하게 만드는 사건이다. 객관적으로 상대가 떠난 뜻이 아니라 불안한 해석을 촉발한 사건일 수 있다.",
+        "exampleIds": [
+          "exm.sa.social.att_trigger.1.1.ko"
+        ],
+        "gloss": "상대가 약속한 만큼 곁에 있지 않다고 느끼게 만드는 사건.",
+        "id": "sns.sa.social.att_trigger.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.att_trigger",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Substantivo que designa o evento concreto, como uma ligação não atendida ou um horário mudado, que dispara a leitura de indisponibilidade. É o sinal perceptível, não a reação da pessoa a ele.",
+        "exampleIds": [
+          "exm.sa.social.att_trigger.1.1.pt_br"
+        ],
+        "gloss": "O acontecimento que leva a pessoa a ler o parceiro como menos disponível do que ela supunha.",
+        "id": "sns.sa.social.att_trigger.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.att_trigger",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam konteks relasi, kata ini menunjuk kejadian kecil seperti panggilan yang tidak dijawab, yang memicu tafsir negatif. Hati-hati: dalam pemakaian sehari-hari kata ini lebih sering berarti pemicu atau sebab dalam arti umum.",
+        "exampleIds": [
+          "exm.sa.social.att_trigger.1.1.id"
+        ],
+        "gloss": "Peristiwa yang membuat seseorang membaca pasangan sebagai kurang tersedia daripada yang diasumsikan sebelumnya.",
+        "id": "sns.sa.social.att_trigger.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.att_trigger",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เหตุการณ์ที่กระตุ้นให้บุคคลตีความว่าคู่รักไม่พร้อมอยู่ หรือรู้สึกว่าความผูกพันอาจกำลังอ่อนลง",
+        "exampleIds": [
+          "exm.sa.social.att_trigger.1.1.th"
+        ],
+        "gloss": "เหตุการณ์ที่ทำให้รู้สึกว่าคู่รักพร้อมอยู่น้อยกว่าที่คาด",
+        "id": "sns.sa.social.att_trigger.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.att_trigger",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir eşin kısa süre yanıt vermemesi, meşgul görünmesi ya da davranışındaki bir değişiklik gibi kişinin kaygısını harekete geçirebilen olaydır. Tetikleyen olay gerçek bir tehlikeyi göstermek zorunda değildir.",
+        "exampleIds": [
+          "exm.sa.social.att_trigger.1.1.tr"
+        ],
+        "gloss": "Bir kişinin eşini beklediğinden daha az müsait olarak algılamasına yol açan olay.",
+        "id": "sns.sa.social.att_trigger.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.att_trigger",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.att_trigger.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bir kez cevaplanmayan çağrı tetik oldu ve akşamın geri kalanı sessizliği yorumlamakla geçti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.att_trigger.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การที่โทรศัพท์ครั้งหนึ่งไม่ได้รับเป็นตัวกระตุ้น ทำให้เขาใช้เวลาที่เหลือของค่ำคืนไปกับการตีความความเงียบ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.att_trigger.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Satu panggilan yang tidak dijawab menjadi trigger-nya, dan sisa malam habiskan untuk menafsirkan keheningan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.att_trigger.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Uma ligação não atendida foi o gatilho, e o resto da noite foi interpretar o silêncio.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.att_trigger.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "한 번의 부재전화가 촉발 사건이 되었고, 그는 남은 저녁 내내 그 침묵의 의미를 읽었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.att_trigger.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "一度折.phoneの一通未接電話加强了对无应的想象。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.att_trigger.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One missed call was the trigger, and the rest of the evening went into reading the silence.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ca4176138ea4086faada5ec84e0867418f7aa79a5a7269b16f0c2026fb8714f2": [
+      {
+        "forms": [
+          "Hungry",
+          "hungry"
+        ],
+        "id": "lex.sa.kids_food.hungry",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hungry",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_food.hungry.alt",
+          "sns.sa.kids_food.hungry.alt.ja",
+          "sns.sa.kids_food.hungry.alt.ko",
+          "sns.sa.kids_food.hungry.alt.pt_br",
+          "sns.sa.kids_food.hungry.alt.id",
+          "sns.sa.kids_food.hungry.alt.th",
+          "sns.sa.kids_food.hungry.alt.tr"
+        ]
+      },
+      {
+        "definition": "The feeling you get when your body wants food and needs energy.",
+        "exampleIds": [
+          "exm.sa.kids_food.hungry.1.1"
+        ],
+        "gloss": "The feeling you get when your body wants food and needs energy.",
+        "id": "sns.sa.kids_food.hungry.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_food.hungry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "食べ物を体内に入れSymbol的に Trades必要とする.empty feeling。腹が空いていることを表します。",
+        "exampleIds": [
+          "exm.sa.kids_food.hungry.1.1.ja"
+        ],
+        "gloss": "体が食物を必要とする(empty feeling)。",
+        "id": "sns.sa.kids_food.hungry.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_food.hungry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "배고픔은 음식을 먹지 않아 에너지를 얻을 수 있다고 느낄 때 생기는 감정이다. 단순히 먹고 싶은 마음만을 뜻하기도 한다.",
+        "exampleIds": [
+          "exm.sa.kids_food.hungry.1.1.ko"
+        ],
+        "gloss": "몸이 음식을 원하고 에너지를 필요로 할 때 드는 느낌이다.",
+        "id": "sns.sa.kids_food.hungry.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_food.hungry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a sensação que surge quando o corpo sente necessidade de alimento e energia.",
+        "exampleIds": [
+          "exm.sa.kids_food.hungry.1.1.pt_br"
+        ],
+        "gloss": "A sensação de precisar comer.",
+        "id": "sns.sa.kids_food.hungry.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_food.hungry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kata ini menggambarkan rasa lapar ketika tubuh membutuhkan makanan untuk energi. Dalam percakapan sehari-hari, kata ini sering digunakan dengan kata “saya” atau “kamu”.",
+        "exampleIds": [
+          "exm.sa.kids_food.hungry.1.1.id"
+        ],
+        "gloss": "Merasa lapar dan membutuhkan makanan untuk memperoleh energi.",
+        "id": "sns.sa.kids_food.hungry.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_food.hungry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความรู้สึกอดอยากที่เกิดขึ้นเมื่อร่างกายต้องการอาหารเพื่อให้มีพลังงาน ไม่ได้หมายถึงความเศร้าโศก",
+        "exampleIds": [
+          "exm.sa.kids_food.hungry.1.1.th"
+        ],
+        "gloss": "ความรู้สึกที่ร่างกายต้องการอาหารและพลังงาน",
+        "id": "sns.sa.kids_food.hungry.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_food.hungry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Aç olmak, yiyeceğe ihtiyaç duymaktır. Bu duygu, yalnızca mide aç olmak anlamına gelir.",
+        "exampleIds": [
+          "exm.sa.kids_food.hungry.1.1.tr"
+        ],
+        "gloss": "Bedenin yiyecek ve enerji istemesiyle oluşan duygu.",
+        "id": "sns.sa.kids_food.hungry.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_food.hungry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_food.hungry.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I am hungry, so I will have some bread.",
+        "translation": "Çocuk aç, biraz ekmek istiyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_food.hungry.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I am hungry, so I will have some bread.",
+        "translation": "ฉันหิว จึงจะกินขนมปังสักชิ้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_food.hungry.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I am hungry, so I will have some bread.",
+        "translation": "Saya lapar, jadi saya akan makan roti.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_food.hungry.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I am hungry, so I will have some bread.",
+        "translation": "Estou com fome, então vou comer um pouco de pão.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_food.hungry.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I am hungry, so I will have some bread.",
+        "translation": "배고파서 빵을 조금 먹으려고 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_food.hungry.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I am hungry, so I will have some bread.",
+        "translation": "おなかがへったので、パンを食べることにします。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_food.hungry.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I am hungry, so I will have some bread.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ca5aa97053ae9b38e22ff96574c02c12621d32a18635637775b5cbc36d687052": [
+      {
+        "forms": [
+          "Billing cycle",
+          "billing_cycle"
+        ],
+        "id": "lex.sa.money.billing_cycle",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Billing cycle",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.billing_cycle.alt",
+          "sns.sa.money.billing_cycle.alt.ja",
+          "sns.sa.money.billing_cycle.alt.ko",
+          "sns.sa.money.billing_cycle.alt.pt_br",
+          "sns.sa.money.billing_cycle.alt.id",
+          "sns.sa.money.billing_cycle.alt.th",
+          "sns.sa.money.billing_cycle.alt.tr"
+        ]
+      },
+      {
+        "definition": "The period between two statements. Everything bought in one cycle appears on the next statement.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1"
+        ],
+        "gloss": "The period between two statements. Everything bought in one cycle appears on the next statement.",
+        "id": "sns.sa.money.billing_cycle.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "利用明細書の発行間隔を指し、一つの請求期間中に利用した内容が次の明細書に記載される。",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.ja"
+        ],
+        "gloss": "二回の明細書の-betweenの間隔。",
+        "id": "sns.sa.money.billing_cycle.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "대부분의 구매 내역이 다음 청구서에 반영되는 정해진 기간이다. 결제일과 청구서 발행일은 서로 다를 수 있다.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.ko"
+        ],
+        "gloss": "두 번의 청구서 발행 사이에 흐르는 기간.",
+        "id": "sns.sa.money.billing_cycle.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Período durante o qual as compras são registradas para aparecer na próxima fatura. A data de encerramento do ciclo determina quais transações serão incluídas nela.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.pt_br"
+        ],
+        "gloss": "O intervalo entre duas cobranças ou faturas.",
+        "id": "sns.sa.money.billing_cycle.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Selang waktu antaramtv dua pernyataan tagihan. Semua pembelian yang dilakukan selama satu siklus akan tercantum pada pernyataan berikutnya.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.id"
+        ],
+        "gloss": "Periode antara duaHWFP tagihan.",
+        "id": "sns.sa.money.billing_cycle.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ช่วงเวลาที่ใช้เรียกเก็บเงินและออกใบแจ้งหนี้ตามรอบ รายการซื้อที่เกิดขึ้นในแต่ละรอบจะปรากฏในใบแจ้งหนี้ของรอบนั้นหรือรอบถัดไป",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.th"
+        ],
+        "gloss": "ระยะเวลาระหว่างการออกใบแจ้งหนี้สองครั้ง",
+        "id": "sns.sa.money.billing_cycle.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Harcamaların toplanıp hesap özetiyle sunulduğu süredir. Bu dönemde yapılan tüm alışverişler, bir sonraki hesap özetinde görünür.",
+        "exampleIds": [
+          "exm.sa.money.billing_cycle.1.1.tr"
+        ],
+        "gloss": "İki hesap özeti arasında geçen faturalandırma dönemidir.",
+        "id": "sns.sa.money.billing_cycle.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.billing_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "Faturalandırma dönemi 12'de kapanıyor; bu yüzden market alışverişlerim 12 tarihli hesap özetinde görünüyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "รอบการเรียกเก็บเงินปิดวันที่ ๑๒ ดังนั้นของซื้อของฉันจึงปรากฏในใบแจ้งหนี้วันที่ ๑๒",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "Siklus penagihan berakhir pada tanggal 12, sehingga belanjaan saya tercantum dalam pernyataan tanggal 12.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "O ciclo de cobrança fecha no dia 12, por isso minhas compras aparecem na fatura de fechamento daquele mês.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "청구 주기는 12일에 끝나므로 음식료품이 12일자에 issued 청구서에 나타난다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "請求サイクルは12日に終了するため、食品の purchases は12日付の明細書に記載されます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.billing_cycle.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ca6820e170c95776af7e2633a06ae670d6935ac5d4719c22a25fb602b735cc72": [
+      {
+        "forms": [
+          "Base rate"
+        ],
+        "id": "lex.sa.mind.base_rate",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Base rate",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.base_rate.en",
+          "sns.sa.mind.base_rate.vi"
+        ]
+      },
+      {
+        "definition": "The actual frequency of a condition in the population, which is usually far lower than search results suggest.",
+        "exampleIds": [],
+        "gloss": "The actual frequency of a condition in the population, which is usually far lower than search results suggest.",
+        "id": "sns.sa.mind.base_rate.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.base_rate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Tần suất thực tế của một bệnh trong dân số, thường thấp hơn hẳn so với vẻ phổ biến trên mạng.",
+        "id": "sns.sa.mind.base_rate.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.base_rate",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "ca73f61034afc26d96c85c0d2285e1f08b283b891426cef8c05eda5bf3e12ddf": [
+      {
+        "forms": [
+          "Sensor",
+          "sensor"
+        ],
+        "id": "lex.sa.kids_adventure.sensor",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Sensor",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_adventure.sensor.alt",
+          "sns.sa.kids_adventure.sensor.alt.ja",
+          "sns.sa.kids_adventure.sensor.alt.ko",
+          "sns.sa.kids_adventure.sensor.alt.pt_br",
+          "sns.sa.kids_adventure.sensor.alt.id",
+          "sns.sa.kids_adventure.sensor.alt.th",
+          "sns.sa.kids_adventure.sensor.alt.tr"
+        ]
+      },
+      {
+        "definition": "A small sense organ on a robot. It tells the robot what is around it, or how it feels.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.sensor.1.1"
+        ],
+        "gloss": "A small sense organ on a robot. It tells the robot what is around it, or how it feels.",
+        "id": "sns.sa.kids_adventure.sensor.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_adventure.sensor",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "音、光、距離など surroundings. 感知し、その情報をロボットへ伝える装置。",
+        "exampleIds": [
+          "exm.sa.kids_adventure.sensor.1.1.ja"
+        ],
+        "gloss": "ロボットが周囲や状態を確かめるための小さな装置。",
+        "id": "sns.sa.kids_adventure.sensor.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_adventure.sensor",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "로봇에 붙어 주변의 상황이나 감정 상태를 감지하고 알려 주는 장치이다.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.sensor.1.1.ko"
+        ],
+        "gloss": "로봇이 주변을 살피거나 상태를 알아내는 작은 장치이다.",
+        "id": "sns.sa.kids_adventure.sensor.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_adventure.sensor",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É um pequeno instrumento capaz de detectar condições do ambiente ou o estado do robô. Ele transmite essas informações para que o robô possa reagir.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.sensor.1.1.pt_br"
+        ],
+        "gloss": "Dispositivo de um robô que percebe o que está ao redor ou como ele está.",
+        "id": "sns.sa.kids_adventure.sensor.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_adventure.sensor",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sensor merupakan alat pendeteksi pada robot yang dapat memberi tahu tentang benda di sekitarnya atau perasaan yang dirasakan robot. Sensor bekerja seperti organ indra pada tubuh makhluk hidup.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.sensor.1.1.id"
+        ],
+        "gloss": "Alat kecil pada robot yang membantu mengenali keadaan di sekitarnya.",
+        "id": "sns.sa.kids_adventure.sensor.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_adventure.sensor",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ตัวตรวจจับของหุ่นยนต์เป็นอุปกรณ์ที่รับรู้สิ่งรอบตัวหรือสภาพของหุ่นยนต์แล้วส่งข้อมูลต่อไป มันเป็นเพียงอุปกรณ์รับข้อมูล ไม่ใช่สมองของหุ่นยนต์",
+        "exampleIds": [
+          "exm.sa.kids_adventure.sensor.1.1.th"
+        ],
+        "gloss": "ตัวตรวจจับของหุ่นยนต์เป็นอุปกรณ์เล็ก ๆ ที่รับข้อมูลรอบตัวหุ่นยนต์",
+        "id": "sns.sa.kids_adventure.sensor.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_adventure.sensor",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Robotun çevresindeki nesneleri ya da kendi durumunu algılayan ve ona bilgi veren duyu organıdır.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.sensor.1.1.tr"
+        ],
+        "gloss": "Robotun çevresini veya kendi durumunu algılamasını sağlayan küçük aygıt.",
+        "id": "sns.sa.kids_adventure.sensor.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_adventure.sensor",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_adventure.sensor.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bit's sensor flashed red when he was worried.",
+        "translation": "Bit endişelendiğinde sensörü kırmızı renkte yanıp söndü.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_adventure.sensor.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bit's sensor flashed red when he was worried.",
+        "translation": "ตัวตรวจจับของบิตกะพริบไฟสีแดงเมื่อเขากังวล",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_adventure.sensor.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bit's sensor flashed red when he was worried.",
+        "translation": "Sensor Bit berkedip merah ketika dia merasa khawatir.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_adventure.sensor.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bit's sensor flashed red when he was worried.",
+        "translation": "O sensor do Bit piscou em vermelho quando ele ficou preocupado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_adventure.sensor.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bit's sensor flashed red when he was worried.",
+        "translation": "비트의 센서는 그가 걱정할 때 빨간색으로 빛났다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_adventure.sensor.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bit's sensor flashed red when he was worried.",
+        "translation": "ビットが心配すると、センサーが赤く光った。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_adventure.sensor.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bit's sensor flashed red when he was worried.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ca7b7333032bd3997d54309f7ec80433afa74d2b8ad4cd27ff3f2ed87311aa83": [
+      {
+        "forms": [
+          "solve",
+          "solves",
+          "solved",
+          "solving"
+        ],
+        "id": "lex.sa.en.solve.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "solve",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.solve.verb",
+          "prn.sa.en.solve.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.solve.verb.1",
+          "sns.sa.en.solve-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.solve-verb",
+        "id": "prn.sa.en.solve.verb",
+        "ipa": "/sɒlv/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.solve.verb.us",
+        "ipa": "/sɑːlv/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Tìm giá trị biến làm phương trình đúng.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.solve.verb.1.1",
+          "exm.sa.en.solve-verb.more.01",
+          "exm.sa.en.solve-verb.more.02",
+          "exm.sa.en.showcase.39"
+        ],
+        "gloss": "giải",
+        "id": "sns.sa.vi.solve.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.solve.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.solve-verb",
+          "res.sa.aud.solve-verb",
+          "res.sa.lnk.solve-verb",
+          "res.sa.vid.solve-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Find the value of the variable.",
+        "exampleIds": [
+          "exm.sa.en.solve.verb.1.1",
+          "exm.sa.en.showcase.39"
+        ],
+        "gloss": "Find the value of the variable.",
+        "id": "sns.sa.en.solve-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.solve.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.solve.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Solve for x by isolating the variable.",
+        "translation": "Giải theo x bằng cách cô lập biến.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.showcase.39",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Solve 2x + 1 = 7.",
+        "translation": "Giải 2x + 1 = 7.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.solve.verb.1",
+        "id": "lnk.sa.en.glossary.050",
+        "kind": "relation",
+        "toId": "sns.sa.vi.solution.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.solve.verb.1",
+        "id": "lnk.sa.en.glossary.051",
+        "kind": "relation",
+        "toId": "sns.sa.vi.isolate.verb.1",
+        "type": "related_to"
+      }
+    ],
+    "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb": [
+      {
+        "forms": [
+          "a",
+          "an"
+        ],
+        "id": "lex.sa.en.a.article",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "a",
+        "pos": "article",
+        "pronunciationIds": [
+          "prn.sa.en.a.article",
+          "prn.sa.en.a.article.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.a.article.1",
+          "sns.sa.en.a-article.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.a-article",
+        "id": "prn.sa.en.a.article",
+        "ipa": "/ə, eɪ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.a.article.us",
+        "ipa": "/ə/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Dùng trước danh từ đếm được số ít khi chưa xác định đối tượng.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.a.article.1.1",
+          "exm.sa.en.a-article.more.01",
+          "exm.sa.en.a-article.more.02"
+        ],
+        "gloss": "một; mạo từ không xác định",
+        "id": "sns.sa.vi.a.article.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.a.article",
+        "pos": "article",
+        "resourceIds": [
+          "res.sa.img.a-article",
+          "res.sa.aud.a-article",
+          "res.sa.lnk.a-article",
+          "res.sa.vid.a-article"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The indefinite article, or the coefficient named a.",
+        "exampleIds": [
+          "exm.sa.en.a.article.1.1"
+        ],
+        "gloss": "The indefinite article, or the coefficient named a.",
+        "id": "sns.sa.en.a-article.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.a.article",
+        "pos": "article",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.a.article.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A linear equation has one unknown.",
+        "translation": "Một phương trình tuyến tính có một ẩn.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.a-article",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "a clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.vi.a.article.1",
+        "id": "lnk.sa.en.glossary.001",
+        "kind": "relation",
+        "toId": "sns.sa.vi.unknown.noun.1",
+        "type": "related_to"
+      },
+      {
+        "forms": [
+          "a"
+        ],
+        "id": "lex.sa.en.a.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "a",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.a.noun",
+          "prn.sa.en.a.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.a.noun.1",
+          "sns.sa.en.a-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.a-noun",
+        "id": "prn.sa.en.a.noun",
+        "ipa": "/eɪ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.a.noun.us",
+        "ipa": "/ə/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Tên thường dùng cho hệ số đứng trước biến trong ax + b = 0.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.a.noun.1.1",
+          "exm.sa.en.a-noun.more.01",
+          "exm.sa.en.a-noun.more.02"
+        ],
+        "gloss": "hệ số a",
+        "id": "sns.sa.vi.a.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.a.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.a-noun",
+          "res.sa.aud.a-noun",
+          "res.sa.lnk.a-noun",
+          "res.sa.vid.a-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The letter a, used as a coefficient or constant in an expression.",
+        "exampleIds": [
+          "exm.sa.en.a.noun.1.1"
+        ],
+        "gloss": "The letter a, used as a coefficient or constant in an expression.",
+        "id": "sns.sa.en.a-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.a.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.a.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "In ax + b = 0, a must be non-zero.",
+        "translation": "Trong ax + b = 0, a phải khác không.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.a.noun.1",
+        "id": "lnk.sa.en.glossary.002",
+        "kind": "relation",
+        "toId": "sns.sa.vi.equation.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.a.noun.1",
+        "id": "lnk.sa.en.glossary.003",
+        "kind": "relation",
+        "toId": "sns.sa.vi.variable.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "cad9bd43b0ae81f37b8e76c4f92b5669608f314a594a52d5bd9f2cd0fcb8750c": [
+      {
+        "forms": [
+          "Impulsivity",
+          "gem_impulsivity"
+        ],
+        "id": "lex.sa.social.gem_impulsivity",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Impulsivity",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gem_impulsivity.alt",
+          "sns.sa.social.gem_impulsivity.alt.ja",
+          "sns.sa.social.gem_impulsivity.alt.ko",
+          "sns.sa.social.gem_impulsivity.alt.pt_br",
+          "sns.sa.social.gem_impulsivity.alt.id",
+          "sns.sa.social.gem_impulsivity.alt.th",
+          "sns.sa.social.gem_impulsivity.alt.tr"
+        ]
+      },
+      {
+        "definition": "The leaning towards acting before you have looked at what the act will do.",
+        "exampleIds": [
+          "exm.sa.social.gem_impulsivity.1.1"
+        ],
+        "gloss": "The leaning towards acting before you have looked at what the act will do.",
+        "id": "sns.sa.social.gem_impulsivity.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gem_impulsivity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "刺激や感情に導かれて、結果を考え込む前に行動してしまう傾向がある。",
+        "exampleIds": [
+          "exm.sa.social.gem_impulsivity.1.1.ja"
+        ],
+        "gloss": "行動の結果をReflectionする前に衝動的に行動する傾向。",
+        "id": "sns.sa.social.gem_impulsivity.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gem_impulsivity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "생각한 결과보다 먼저 행동하고 싶은 충동을 금하기 어려운 성향이다. 충동적인 행동이 항상 잘못된 것은 아니지만, 결과까지 미리 따지기 어렵게 만든다.",
+        "exampleIds": [
+          "exm.sa.social.gem_impulsivity.1.1.ko"
+        ],
+        "gloss": "결과를 따지기 전에 충동적으로 행동하려는 성향.",
+        "id": "sns.sa.social.gem_impulsivity.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gem_impulsivity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A tendência a tomar decisões ou responder sem considerar previamente os efeitos do próprio comportamento.",
+        "exampleIds": [
+          "exm.sa.social.gem_impulsivity.1.1.pt_br"
+        ],
+        "gloss": "Agir antes de pensar nas consequências.",
+        "id": "sns.sa.social.gem_impulsivity.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gem_impulsivity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kecenderungan untuk bertindak sebelum melihat apa yang akan akibat dari tindakan itu. Orang yang berimpulsif bergerak lebih dulu dan berpikir kemudian, dan biayanya biasanya dibayar setelah kejadian.",
+        "exampleIds": [
+          "exm.sa.social.gem_impulsivity.1.1.id"
+        ],
+        "gloss": "Kecenderungan untuk bertindak sebelum melihat apa yang akan akibat dari tindakan itu.",
+        "id": "sns.sa.social.gem_impulsivity.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gem_impulsivity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แนวโน้มที่กระทำหรือตัดสินใจอย่างรวดเร็วก่อนคิดถึงผลกระทบ ซึ่งอาจทำให้เกิดความเสียหายจากการตอบสนองในจังหวะที่ไม่เหมาะสม",
+        "exampleIds": [
+          "exm.sa.social.gem_impulsivity.1.1.th"
+        ],
+        "gloss": "แนวโน้มที่ลงมือทำก่อนพิจารณาผลของการกระทำ",
+        "id": "sns.sa.social.gem_impulsivity.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gem_impulsivity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Düşünmeden, yapılacak eylemin sonuçlarını değerlendirmeden davranma eğilimi. Acele kararların neden olduğu hatalara yol açabilir.",
+        "exampleIds": [
+          "exm.sa.social.gem_impulsivity.1.1.tr"
+        ],
+        "gloss": "Eylemin sonuçlarını düşünmeden harekete geçme eğilimi.",
+        "id": "sns.sa.social.gem_impulsivity.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gem_impulsivity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gem_impulsivity.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Mesajı sabırsızlıkla göndermesi, dürtüsellik yüzünden işini kaybettirdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gem_impulsivity.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ข้อความถูกส่งออกไปเพราะความหุนหันพลันแล่น และความหุนหันพลันแล่นนั้นทำให้เขาตกงาน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gem_impulsivity.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pesan itu terkirim karena tidak sabar, dan impulsivitas itu berujung pada kehilangan pekerjaannya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gem_impulsivity.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A mensagem foi enviada por impulsividade e quase custou o emprego a ele.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gem_impulsivity.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "메시지를 보내고 나서야 그 결과가 무엇인지 알았다는 사실은 그의 충동성을 보여 준다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gem_impulsivity.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "焦って送ったメッセージの衝動性のために、彼は仕事を失った。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gem_impulsivity.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The message went out in impatience, and the impulsivity cost him the job.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "caf9f906b16a91cb0160c50abdac8bd6db9a283fa9751f9801ef991554b46a8a": [
+      {
+        "forms": [
+          "Documentation",
+          "gd_documentation"
+        ],
+        "id": "lex.sa.mind.gd_documentation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Documentation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.gd_documentation.alt",
+          "sns.sa.mind.gd_documentation.alt.ja",
+          "sns.sa.mind.gd_documentation.alt.ko",
+          "sns.sa.mind.gd_documentation.alt.pt_br",
+          "sns.sa.mind.gd_documentation.alt.id",
+          "sns.sa.mind.gd_documentation.alt.th",
+          "sns.sa.mind.gd_documentation.alt.tr"
+        ]
+      },
+      {
+        "definition": "The written record that keeps a shared account alive when memory is attacked.",
+        "exampleIds": [
+          "exm.sa.mind.gd_documentation.1.1"
+        ],
+        "gloss": "The written record that keeps a shared account alive when memory is attacked.",
+        "id": "sns.sa.mind.gd_documentation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.gd_documentation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "出来事や，共有した事実・Processesまさに記憶などを残すための文章・資料である。引き継ぎや検証に使える記録を指す。",
+        "exampleIds": [
+          "exm.sa.mind.gd_documentation.1.1.ja"
+        ],
+        "gloss": "記憶が撹乱されても共有した説明を保つための書面記録。",
+        "id": "sns.sa.mind.gd_documentation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.gd_documentation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "공동으로 확인된 사실을 글로 남겨, 기억이 공격받거나 달라져도 나중에 다시 확인할 수 있게 하는 기록이다.",
+        "exampleIds": [
+          "exm.sa.mind.gd_documentation.1.1.ko"
+        ],
+        "gloss": "기억이 흔들릴 때 공유된 사실을 보존해 두는 글 기록이다.",
+        "id": "sns.sa.mind.gd_documentation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.gd_documentation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Conjunto de informações escritas que conserva uma versão compartilhada dos fatos e permite consultá-la quando a memória é atacada ou contestada.",
+        "exampleIds": [
+          "exm.sa.mind.gd_documentation.1.1.pt_br"
+        ],
+        "gloss": "Registro escrito que preserva uma versão compartilhada dos fatos.",
+        "id": "sns.sa.mind.gd_documentation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.gd_documentation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dokumentasi adalah rekaman tertulis mengenai peristiwa,dates, dan pesan yang dapat diperiksa kembali. Dalam konteks ini, fungsinya adalah mempertahankan kesaksian bersama agar tidak bergantung pada ingatan satu orang.",
+        "exampleIds": [
+          "exm.sa.mind.gd_documentation.1.1.id"
+        ],
+        "gloss": "Dokumentasi adalah catatan tertulis yang menjaga kesaksian bersama tetap hidup ketika ingatan orang diserang.",
+        "id": "sns.sa.mind.gd_documentation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.gd_documentation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เอกสารที่บันทึกรายละเอียดและหลักฐานเพื่อรักษาเรื่องราวที่หลายฝ่ายเห็นตรงกัน โดยเฉพาะเมื่อความทรงจำของใครถูกโจมตี",
+        "exampleIds": [
+          "exm.sa.mind.gd_documentation.1.1.th"
+        ],
+        "gloss": "เอกสารที่รักษาข้อเท็จจริงร่วมไว้เมื่อความทรงจำถูกทำให้สงสัย",
+        "id": "sns.sa.mind.gd_documentation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.gd_documentation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yaşananları, tarihleri ve mesajları belgeleyen yazılı kayıt. Bellek üzerinde kuşku uyandırıldığında gerçeği doğrulamak için başvurulur.",
+        "exampleIds": [
+          "exm.sa.mind.gd_documentation.1.1.tr"
+        ],
+        "gloss": "Ortak bir anlatının belleğe saldırıldığında bile yaşamasını sağlayan yazılı kayıt.",
+        "id": "sns.sa.mind.gd_documentation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.gd_documentation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.gd_documentation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Belgelendirme, bir devir notu, bir tarih ve bir mesajdı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.gd_documentation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เอกสารประกอบเป็นบันทึกวันที่ ข้อความ และรายละเอียดที่ทุกฝ่ายตรวจสอบได้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.gd_documentation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dokumentasinya berupa catatan serah terima, tanggal, dan pesan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.gd_documentation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A documentação era uma nota de passagem, com uma data e uma mensagem.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.gd_documentation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 문서는 인수인계 메모였고 날짜와 메시지가 들어 있었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.gd_documentation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "文書は引き継ぎメモで、日付とメッセージが書かれていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.gd_documentation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The documentation was a handover note, a date and a message.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "cafe5b55eec652a41cb5dc36777c559033ac063bdfd62911af1a058d53dec503": [
+      {
+        "forms": [
+          "Rear washer",
+          "rear_washer"
+        ],
+        "id": "lex.sa.en.rear.washer",
+        "kind": "lexeme",
+        "lemma": "Rear washer",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.rear.washer.alt"
+        ]
+      },
+      {
+        "definition": "Washer fluid is being sprayed on the rear window. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "Washer fluid is being sprayed on the rear window.",
+        "id": "sns.sa.en.rear.washer.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.rear.washer",
+        "pos": "noun",
+        "revision": 1
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

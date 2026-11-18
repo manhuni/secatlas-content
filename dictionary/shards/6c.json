@@ -1,0 +1,804 @@
+{
+  "records": {
+    "6c294547b8f6b0a8717c1b981a847bbfc2c82495b5132ba141fcc41246a5015f": [
+      {
+        "forms": [
+          "Parameters",
+          "aiw_parameters"
+        ],
+        "id": "lex.sa.technology.aiw_parameters",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Parameters",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.aiw_parameters.alt",
+          "sns.sa.technology.aiw_parameters.alt.ja",
+          "sns.sa.technology.aiw_parameters.alt.ko",
+          "sns.sa.technology.aiw_parameters.alt.pt_br",
+          "sns.sa.technology.aiw_parameters.alt.id",
+          "sns.sa.technology.aiw_parameters.alt.th",
+          "sns.sa.technology.aiw_parameters.alt.tr"
+        ]
+      },
+      {
+        "definition": "The numbers inside a model that hold what it learned. Each one is a weight that raises or lowers the chance of a continuation.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_parameters.1.1"
+        ],
+        "gloss": "The numbers inside a model that hold what it learned. Each one is a weight that raises or lowers the chance of a continuation.",
+        "id": "sns.sa.technology.aiw_parameters.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.aiw_parameters",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "モデルが学習した情報を数値として保持する要素。各パラメータは、続く文章の可能性!!!!!!!! règlesする重みとして働く。",
+        "exampleIds": [
+          "exm.sa.technology.aiw_parameters.1.1.ja"
+        ],
+        "gloss": "モデル内部で学習内容を保持する数値群。",
+        "id": "sns.sa.technology.aiw_parameters.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.aiw_parameters",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "각 매개변수는 가중치 역할을 하며, 다음 말을 이어 갈 확률을 높이거나 낮춥니다. 일반 사용자가 그 값을 직접 읽어 이해하기는 어렵습니다.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_parameters.1.1.ko"
+        ],
+        "gloss": "인공지능 모델 안에서 학습된 정보를 저장하는 숫자들입니다.",
+        "id": "sns.sa.technology.aiw_parameters.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.aiw_parameters",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "São valores que ajudam o modelo a relacionar elementos do texto e a escolher suas continuações. Em geral, não correspondem diretamente a frases ou fatos que o usuário possa ler.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_parameters.1.1.pt_br"
+        ],
+        "gloss": "Parâmetros são os números internos que armazenaram o que o modelo aprendeu.",
+        "id": "sns.sa.technology.aiw_parameters.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.aiw_parameters",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Setiap parameter merupakan bobot yang meningkatkan atau menurunkan kemungkinan suatu kelanjutan muncul. Parameter bukan bagian yang dapat dibaca atau dipahami secara langsung oleh manusia.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_parameters.1.1.id"
+        ],
+        "gloss": "Parameter adalah angka-angka di dalam model yang menyimpan pengetahuan yang dipelajari.",
+        "id": "sns.sa.technology.aiw_parameters.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.aiw_parameters",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "พารามิเตอร์คือตัวเลขภายในโมเดลที่เก็บข้อมูลจากสิ่งที่โมเดลเรียนรู้ แต่ละตัวทำหน้าที่เป็นน้ำหนักที่เพิ่มหรือลดโอกาสของการต่อข้อความแต่ละแบบ ไม่ใช่ประโยคที่อ่านเข้าใจได้โดยตรง",
+        "exampleIds": [
+          "exm.sa.technology.aiw_parameters.1.1.th"
+        ],
+        "gloss": "ตัวเลขภายในโมเดลที่เก็บสิ่งที่โมเดลเรียนรู้",
+        "id": "sns.sa.technology.aiw_parameters.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.aiw_parameters",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Her biri, modelin bir sonraki devamını üretme olasılığını artırabilen veya azaltabilen sayılardır. Modelin eğitim sırasında öğrendiği bilgiler bu parametrelerde temsil edilir.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_parameters.1.1.tr"
+        ],
+        "gloss": "Modelin öğrendiklerini saklayan sayısal ağırlıklardır.",
+        "id": "sns.sa.technology.aiw_parameters.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.aiw_parameters",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.aiw_parameters.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Modelin milyarlarca parametresi var, ancak bunların hiçbiri doğrudan okunabilen bir cümle değildir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.aiw_parameters.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "โมเดลนี้มีพารามิเตอร์หลายพันล้านตัว แต่ไม่ใช่จำนวนที่อ่านออกเป็นประโยคได้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.aiw_parameters.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Model itu memiliki miliaran parameter, tetapi tidak satu pun merupakan kalimat yang dapat dibaca manusia.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.aiw_parameters.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O modelo tem bilhões de parâmetros, mas nenhum deles corresponde diretamente a uma frase legível.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.aiw_parameters.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "이 모델에는 수십억 개의 매개변수가 있지만 그중 하나를 문장으로 읽어 내기는 어렵습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.aiw_parameters.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "このモデルには数十億個のパラメータがある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.aiw_parameters.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The model has billions of parameters, and not one of them is a sentence you can read.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6cc29d46cdc848d38301080fb4bd2d3aa506aa11d3bb137ac98ef642735d2bd4": [
+      {
+        "forms": [
+          "love",
+          "loves",
+          "loved",
+          "loving"
+        ],
+        "id": "lex.sa.en.love.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "love",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.love.verb",
+          "prn.sa.en.love.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.love.verb.1",
+          "sns.sa.en.love-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.love-verb",
+        "id": "prn.sa.en.love.verb",
+        "ipa": "/lʌv/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.love.verb.us",
+        "ipa": "/lʌv/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Rất thích điều gì đó.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.love.verb.1.1",
+          "exm.sa.en.love-verb.more.01",
+          "exm.sa.en.love-verb.more.02"
+        ],
+        "gloss": "yêu thích",
+        "id": "sns.sa.vi.love.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.love.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.love-verb",
+          "res.sa.aud.love-verb",
+          "res.sa.lnk.love-verb",
+          "res.sa.vid.love-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Here, a test verb inside a quoted sentence.",
+        "exampleIds": [
+          "exm.sa.en.love.verb.1.1"
+        ],
+        "gloss": "Here, a test verb inside a quoted sentence.",
+        "id": "sns.sa.en.love-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.love.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.love.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "I love a clean, checked solution.",
+        "translation": "Tôi thích một nghiệm sạch đã được thử lại.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.love.verb.1",
+        "id": "lnk.sa.en.glossary.081",
+        "kind": "relation",
+        "toId": "sns.sa.vi.really.adverb.1",
+        "type": "related_to"
+      }
+    ],
+    "6cde3c3d97abac477b077d57e7f7abf52ff0800e7c1eaec50dbdbca3ebaecfdc": [
+      {
+        "forms": [
+          "Relevance",
+          "kpar_relevance"
+        ],
+        "id": "lex.sa.mind.kpar_relevance",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Relevance",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.kpar_relevance.alt",
+          "sns.sa.mind.kpar_relevance.alt.ja",
+          "sns.sa.mind.kpar_relevance.alt.ko",
+          "sns.sa.mind.kpar_relevance.alt.pt_br",
+          "sns.sa.mind.kpar_relevance.alt.id",
+          "sns.sa.mind.kpar_relevance.alt.th",
+          "sns.sa.mind.kpar_relevance.alt.tr"
+        ]
+      },
+      {
+        "definition": "The way a fact bears on the question being asked.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_relevance.1.1"
+        ],
+        "gloss": "The way a fact bears on the question being asked.",
+        "id": "sns.sa.mind.kpar_relevance.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.kpar_relevance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "事実が_now_.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_relevance.1.1.ja"
+        ],
+        "gloss": "事実が_paths_.",
+        "id": "sns.sa.mind.kpar_relevance.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.kpar_relevance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 사실이 현재 다루는 질문에 얼마나 직접적인 관련을 갖는지를 가리킨다. 모든 사실이 질문과 똑같은 관계를 가지는 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_relevance.1.1.ko"
+        ],
+        "gloss": "사실이 질문에 얼마나 관계되는지를 나타내는 정도.",
+        "id": "sns.sa.mind.kpar_relevance.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.kpar_relevance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A relação entre um fato e uma pergunta ou questão. Um fato é relevante quando ajuda a respondê-la.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_relevance.1.1.pt_br"
+        ],
+        "gloss": "A maneira como um fato se relaciona com a pergunta feita.",
+        "id": "sns.sa.mind.kpar_relevance.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.kpar_relevance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Cara sebuah fakta berkaitan dengan pertanyaan yang sedang ditanyakan. Sebuah fakta bisa benar tetapi tidak relevan, kalau tidak menyentuh apa yang sedang ditanyakan.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_relevance.1.1.id"
+        ],
+        "gloss": "Cara sebuah fakta berkaitan dengan pertanyaan yang sedang ditanyakan.",
+        "id": "sns.sa.mind.kpar_relevance.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.kpar_relevance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสัมพันธ์ของข้อเท็จจริงกับคำถามที่กำลังถาม ซึ่งบ่งชี้ว่าข้อมูลนั้นช่วยตอบคำถามได้หรือไม่",
+        "exampleIds": [
+          "exm.sa.mind.kpar_relevance.1.1.th"
+        ],
+        "gloss": "ความเกี่ยวข้องของข้อเท็จจริงกับคำถาม",
+        "id": "sns.sa.mind.kpar_relevance.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.kpar_relevance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir olgunun sorulan soruyu ne ölçüde ilgilendirdiği. Bir bilginin soruya uygunluğunu belirtir.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_relevance.1.1.tr"
+        ],
+        "gloss": "Bir olgunun sorulan soruyla ne ölçüde ilgili olduğu.",
+        "id": "sns.sa.mind.kpar_relevance.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.kpar_relevance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.kpar_relevance.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hangi soruyu sorduğunuzu bildiğinizde günlüğün soruyla ilgisi açıkça anlaşılır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.kpar_relevance.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เมื่อรู้ว่ากำลังถามคำถามอะไร ความเกี่ยวข้องของบันทึกก็จะชัดเจนขึ้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.kpar_relevance.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Relevansi log itu jelas begitu Anda tahu pertanyaan mana yang sedang ditanyakan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.kpar_relevance.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A relevância do registro fica clara quando se sabe qual pergunta está sendo feita.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.kpar_relevance.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "어떤 문제를 묻는지 알고 나면 기록의 관련성이 분명해진다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.kpar_relevance.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ログの_now_は明確である。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.kpar_relevance.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The relevance of the log is clear once you know which question you are asking.",
+        "translation": "Mức độ liên quan của bản ghi rõ ràng khi bạn biết mình đang đặt câu hỏi gì.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6ce834139509cc20a5b1b0e0e8007f46fb14ef72532e87c4f33894d150e997c0": [
+      {
+        "forms": [
+          "Parents",
+          "parents"
+        ],
+        "id": "lex.sa.kids_daily.parents",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Parents",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_daily.parents.alt",
+          "sns.sa.kids_daily.parents.alt.ja",
+          "sns.sa.kids_daily.parents.alt.ko",
+          "sns.sa.kids_daily.parents.alt.pt_br",
+          "sns.sa.kids_daily.parents.alt.id",
+          "sns.sa.kids_daily.parents.alt.th",
+          "sns.sa.kids_daily.parents.alt.tr"
+        ]
+      },
+      {
+        "definition": "The word for your mum and your dad together.",
+        "exampleIds": [
+          "exm.sa.kids_daily.parents.1.1"
+        ],
+        "gloss": "The word for your mum and your dad together.",
+        "id": "sns.sa.kids_daily.parents.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_daily.parents",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "父と母をひとまとめにした呼び方である。父または母だけを指す場合は「父」「母」という。",
+        "exampleIds": [
+          "exm.sa.kids_daily.parents.1.1.ja"
+        ],
+        "gloss": "Together Together 父母。",
+        "id": "sns.sa.kids_daily.parents.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_daily.parents",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "한 사람의 아버지와 어머니를 함께 가리키는 말이다. 부모님이라고 부르는 데도 쓰인다.",
+        "exampleIds": [
+          "exm.sa.kids_daily.parents.1.1.ko"
+        ],
+        "gloss": "아버지와 어머니를 함께 가리키는 말이다.",
+        "id": "sns.sa.kids_daily.parents.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_daily.parents",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pai e mãe de alguém, considerados em conjunto.",
+        "exampleIds": [
+          "exm.sa.kids_daily.parents.1.1.pt_br"
+        ],
+        "gloss": "Pais de uma pessoa, considerados em conjunto.",
+        "id": "sns.sa.kids_daily.parents.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_daily.parents",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Orang tua adalah ibu dan ayah seseorang. Kata ini dipakai untuk menyebut keduanya secara bersamaan.",
+        "exampleIds": [
+          "exm.sa.kids_daily.parents.1.1.id"
+        ],
+        "gloss": "Ibu dan ayah secara bersama-sama.",
+        "id": "sns.sa.kids_daily.parents.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_daily.parents",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คำที่ใช้เรียกพ่อแม่ของบุคคลทั้งสองคนด้วยกัน ไม่ได้หมายถึงเพียงคนเดียว",
+        "exampleIds": [
+          "exm.sa.kids_daily.parents.1.1.th"
+        ],
+        "gloss": "คำเรียกรวมของพ่อแม่ของเรา",
+        "id": "sns.sa.kids_daily.parents.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_daily.parents",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin annesi ve babası birlikte. Bu sözcük çoğul olduğundan en az birinin öldüğünü ya da ayrıldığını düşündürebilir.",
+        "exampleIds": [
+          "exm.sa.kids_daily.parents.1.1.tr"
+        ],
+        "gloss": "Anne ve baba için birlikte kullanılan isim.",
+        "id": "sns.sa.kids_daily.parents.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_daily.parents",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_daily.parents.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My parents work at the weekend too.",
+        "translation": "Ebeveynlerim hafta sonu da çalışıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_daily.parents.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My parents work at the weekend too.",
+        "translation": "พ่อแม่ของฉันทำงานในวันหยุดสุดสัปดาห์ด้วย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_daily.parents.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My parents work at the weekend too.",
+        "translation": "Orang tua saya bekerja pada hari akhir pekan juga.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_daily.parents.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My parents work at the weekend too.",
+        "translation": "Meus pais trabalham também aos fins de semana.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_daily.parents.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My parents work at the weekend too.",
+        "translation": "부모님은 주말에도 일하신다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_daily.parents.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My parents work at the weekend too.",
+        "translation": "私の父母は週末も働いています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_daily.parents.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My parents work at the weekend too.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6cf2c255b068bb6914982a6a181967e77776fc174ed4adcef0111c8a17414fed": [
+      {
+        "forms": [
+          "Defensive",
+          "war_defensive"
+        ],
+        "id": "lex.sa.mind.war_defensive",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Defensive",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_defensive.alt",
+          "sns.sa.mind.war_defensive.alt.ja",
+          "sns.sa.mind.war_defensive.alt.ko",
+          "sns.sa.mind.war_defensive.alt.pt_br",
+          "sns.sa.mind.war_defensive.alt.id",
+          "sns.sa.mind.war_defensive.alt.th",
+          "sns.sa.mind.war_defensive.alt.tr"
+        ]
+      },
+      {
+        "definition": "The side that receives the attack and holds ground; the opposite of the offensive.",
+        "exampleIds": [
+          "exm.sa.mind.war_defensive.1.1"
+        ],
+        "gloss": "The side that receives the attack and holds ground; the opposite of the offensive.",
+        "id": "sns.sa.mind.war_defensive.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_defensive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "相手から攻撃を受け、陣地を維持する側。攻めを行う側に対比される。",
+        "exampleIds": [
+          "exm.sa.mind.war_defensive.1.1.ja"
+        ],
+        "gloss": "攻撃を受けて陣地を守る側。",
+        "id": "sns.sa.mind.war_defensive.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_defensive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대의 공격을 받아 반드시 유지해야 할 땅과 자원을 지킴으로써 버티는 쪽이다. ‘공격glen’Formation의 반대인 수비 또는 방어 체제를 뜻한다.",
+        "exampleIds": [
+          "exm.sa.mind.war_defensive.1.1.ko"
+        ],
+        "gloss": "공격을 받고 지세를 지킨 쪽.",
+        "id": "sns.sa.mind.war_defensive.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_defensive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a posição ou a ação de quem se defende, em contraposição à ofensiva; também pode designar o conjunto das forças defensivas.",
+        "exampleIds": [
+          "exm.sa.mind.war_defensive.1.1.pt_br"
+        ],
+        "gloss": "Lado que recebe o ataque e mantém sua posição.",
+        "id": "sns.sa.mind.war_defensive.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_defensive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sisi defensif adalah pihak yang menerima serangan dan berusaha mempertahankan wilayah atau kedudukannya. Kebalikannya adalah sikap menyerang.",
+        "exampleIds": [
+          "exm.sa.mind.war_defensive.1.1.id"
+        ],
+        "gloss": "Sisi yang menerima serangan dan mempertahankan kedudukan.",
+        "id": "sns.sa.mind.war_defensive.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_defensive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ฝ่ายที่รับการโจมตีและพยายามยืนหยัดหรือรักษาพื้นที่ไว้ แตกต่างจากฝ่ายที่เป็นผู้โจมตี",
+        "exampleIds": [
+          "exm.sa.mind.war_defensive.1.1.th"
+        ],
+        "gloss": "ฝ่ายที่รับการโจมตีและยืนหยัดในพื้นที่",
+        "id": "sns.sa.mind.war_defensive.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_defensive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Savunma, saldırıyı karşılayan tarafın veya saldırıya karşı yürütülen eylemlerin tümüdür. Saldırıda bulunan tarafın karşıtıdır; savunmada amaç düşmanı ileri sürmek değil, kendi konumunu korumaktır.",
+        "exampleIds": [
+          "exm.sa.mind.war_defensive.1.1.tr"
+        ],
+        "gloss": "Saldırıyı karşılayan ve kendi arazisinde tutmaya çalışan taraf ya da yön.",
+        "id": "sns.sa.mind.war_defensive.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_defensive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_defensive.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Savunma planı, düşmana ne kadar arazi bırakıldığına göre değerlendirilir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_defensive.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ฝ่ายตั้งรับต้องพิจารณาว่าควรยอมเสียพื้นที่มากน้อยเพียงใด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_defensive.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Rencana defensif dinilai dari wilayah yang willingness dilepaskan kepada musuh.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_defensive.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A defensiva foi avaliada pelo terreno que precisou ceder.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_defensive.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "방어 측의 계획은 어느 정도의 땅을 양보했는지 따로 평가한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_defensive.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "防御側の計画は、どの陣地を優先して守るかで評価される。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_defensive.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A defensive plan is judged by the ground it gives up.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

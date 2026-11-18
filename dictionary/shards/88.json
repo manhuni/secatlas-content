@@ -1,0 +1,916 @@
+{
+  "records": {
+    "881d5fb60090f59aabba4f287d7596317ca7091d00c2180b6cbc8ab018b9febd": [
+      {
+        "forms": [
+          "column",
+          "columns"
+        ],
+        "id": "lex.sa.en.column.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "column",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.column.noun.1",
+          "sns.sa.en.column-noun.alt"
+        ]
+      },
+      {
+        "definition": "Một hàng dọc; một cột dữ liệu trong bảng.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "cột",
+        "id": "sns.sa.vi.column.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.column.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A vertical line of entries in a table.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "A vertical line; a column of data in a table.",
+        "id": "sns.sa.en.column-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.column.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "886c0d9c7c8fe2e234d7c38e0256851e6b7950d314e8b26284cd51e23ac0db72": [
+      {
+        "forms": [
+          "price of choice",
+          "dm_price_of_choice"
+        ],
+        "id": "lex.sa.social.dm_price_of_choice",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "price of choice",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.dm_price_of_choice.alt",
+          "sns.sa.social.dm_price_of_choice.alt.ja",
+          "sns.sa.social.dm_price_of_choice.alt.ko",
+          "sns.sa.social.dm_price_of_choice.alt.pt_br",
+          "sns.sa.social.dm_price_of_choice.alt.id",
+          "sns.sa.social.dm_price_of_choice.alt.th",
+          "sns.sa.social.dm_price_of_choice.alt.tr"
+        ]
+      },
+      {
+        "definition": "The effort a person pays to choose among the options available.",
+        "exampleIds": [
+          "exm.sa.social.dm_price_of_choice.1.1"
+        ],
+        "gloss": "The effort a person pays to choose among the options available.",
+        "id": "sns.sa.social.dm_price_of_choice.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.dm_price_of_choice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "希望するものを一つ選ぶためにCompares下のけた労力や失う時間の総量。ここでは金額だけを指すものではない。",
+        "exampleIds": [
+          "exm.sa.social.dm_price_of_choice.1.1.ja"
+        ],
+        "gloss": "選択肢から一つを選ぶために支払う労力、時間などの代价。",
+        "id": "sns.sa.social.dm_price_of_choice.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.dm_price_of_choice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "가능한 선택지 가운데 하나를 결정하는 데 투입되는 시간, 에너지 또는 기회비용이다. 선택지가 많을수록 반드시 커지는 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.social.dm_price_of_choice.1.1.ko"
+        ],
+        "gloss": "여러 선택지 중 하나를 고르는 데 드는 노력.",
+        "id": "sns.sa.social.dm_price_of_choice.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.dm_price_of_choice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Esforço, tempo ou custo envolvido na escolha entre várias opções possíveis. Em economia e sociologia, refere-se ao conjunto de oportunidades que se perde ao escolher uma opção em vez de outras, ou ao esforço da decisão em si.",
+        "exampleIds": [
+          "exm.sa.social.dm_price_of_choice.1.1.pt_br"
+        ],
+        "gloss": "O esforço que se faz para escolher entre as opções disponíveis.",
+        "id": "sns.sa.social.dm_price_of_choice.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.dm_price_of_choice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Harga pilihan mencakup waktu, tenaga, dan perhatian yang dibutuhkan untuk menentukan pilihan. Biaya ini tidak selalu berupa uang dan sering baru terlihat setelah pilihan dibuat.",
+        "exampleIds": [
+          "exm.sa.social.dm_price_of_choice.1.1.id"
+        ],
+        "gloss": "Harga pilihan adalah usaha yang dikeluarkan seseorang untuk memilih di antara berbagai pilihan.",
+        "id": "sns.sa.social.dm_price_of_choice.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.dm_price_of_choice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงต้นทุนทั้งเวลา ความพยายาม และโอกาสที่สูญเสียในการพิจารณาทางเลือกต่าง ๆ ต้นทุนนี้ไม่จำเป็นต้องเป็นเงินเสมอไป",
+        "exampleIds": [
+          "exm.sa.social.dm_price_of_choice.1.1.th"
+        ],
+        "gloss": "ความพยายามและเวลาที่ต้องจ่ายเพื่อเลือกจากทางเลือกที่มี",
+        "id": "sns.sa.social.dm_price_of_choice.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.dm_price_of_choice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sunulan seçenekler arasında birini seçme kararının gerektirdiği zihinsel ve zamansal çabadır; para maliyeti değildir.",
+        "exampleIds": [
+          "exm.sa.social.dm_price_of_choice.1.1.tr"
+        ],
+        "gloss": "Seçenekler arasından karar vermek için harcanan emek ve zaman.",
+        "id": "sns.sa.social.dm_price_of_choice.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.dm_price_of_choice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.dm_price_of_choice.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Seçimin bedeli, tanışabileceği kimseyle buluşmak yerine bütün bir akşamı seçenekleri okumaktı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.dm_price_of_choice.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ต้นทุนของการเลือกคือค่ำหนึ่งที่ใช้อ่านหนังสือแทนการได้พบใคร",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.dm_price_of_choice.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Harga pilihan itu seorang malam untuk membaca, bukan untuk bertemu siapa pun.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.dm_price_of_choice.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O preço da escolha foi uma noite inteira lendo em vez de encontrar alguém.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.dm_price_of_choice.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "선택의 대가는 누구도 만나지 않고 저녁 내내 책을 읽는 데 쓰였다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.dm_price_of_choice.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "選択の代償は、誰にも会わずに比較資料を読む evening 一晩だった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.dm_price_of_choice.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The price of choice was an evening spent reading instead of meeting anybody.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "887270d0cbc560af35f1326d55e9dbdc35ea2301c2cd26633fb6d4932deee268": [
+      {
+        "forms": [
+          "render",
+          "renders"
+        ],
+        "id": "lex.sa.en.render.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "render",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.render.verb.1",
+          "sns.sa.en.render-verb.alt"
+        ]
+      },
+      {
+        "definition": "Vẽ ra màn hình từ dữ liệu.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "hiển thị",
+        "id": "sns.sa.vi.render.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.render.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To produce a picture on screen.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "To draw on the screen from data.",
+        "id": "sns.sa.en.render-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.render.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "8880894de4fc1864c60ed6af5dc8afb16fd41c113688bc2620950259515e610e": [
+      {
+        "forms": [
+          "Logistics",
+          "war_logistics"
+        ],
+        "id": "lex.sa.mind.war_logistics",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Logistics",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_logistics.alt",
+          "sns.sa.mind.war_logistics.alt.ja",
+          "sns.sa.mind.war_logistics.alt.ko",
+          "sns.sa.mind.war_logistics.alt.pt_br",
+          "sns.sa.mind.war_logistics.alt.id",
+          "sns.sa.mind.war_logistics.alt.th",
+          "sns.sa.mind.war_logistics.alt.tr"
+        ]
+      },
+      {
+        "definition": "The work of moving and supplying the fighting: food, fuel, ammunition, vehicles and spares.",
+        "exampleIds": [
+          "exm.sa.mind.war_logistics.1.1"
+        ],
+        "gloss": "The work of moving and supplying the fighting: food, fuel, ammunition, vehicles and spares.",
+        "id": "sns.sa.mind.war_logistics.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_logistics",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "食料、燃料、弾薬、車両、部品などを必要な場所へ輸送・供給する兵站業務。戦場での直接戦闘とは別の后方全体の任务是。",
+        "exampleIds": [
+          "exm.sa.mind.war_logistics.1.1.ja"
+        ],
+        "gloss": "軍隊所需的物資を輸送し、補給して戦闘を支える後方業務。",
+        "id": "sns.sa.mind.war_logistics.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_logistics",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "전투 병력에게 음식, 연료, 탄약, 차량과 예비 부품을 운반하고 공급하는 일이다. 전투 자체와 구별해 물자 지원 문제로 쓰인다.",
+        "exampleIds": [
+          "exm.sa.mind.war_logistics.1.1.ko"
+        ],
+        "gloss": "전투에 필요한 물자를 운반하고 공급하는 일.",
+        "id": "sns.sa.mind.war_logistics.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_logistics",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Logística é a organização e a execução do transporte e do fornecimento de alimentos, combustível, munição, veículos, peças de reposição e outros recursos necessários. O termo não se limita ao transporte, mas inclui todo o apoio sustainment das operações.",
+        "exampleIds": [
+          "exm.sa.mind.war_logistics.1.1.pt_br"
+        ],
+        "gloss": "O conjunto de atividades para movimentar e abastecer as forças em combate.",
+        "id": "sns.sa.mind.war_logistics.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_logistics",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kegiatan pengangkutan dan penyediaan kebutuhan pasukan, seperti makanan, bahan bakar, amunisi, kendaraan, dan suku cadang. Logistik menentukan apakah pasukan dapat terus menjalankan pertempuran.",
+        "exampleIds": [
+          "exm.sa.mind.war_logistics.1.1.id"
+        ],
+        "gloss": "Pekerjaan memindahkan dan memasok pasukan yang sedang bertempur.",
+        "id": "sns.sa.mind.war_logistics.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_logistics",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "งานด้านการจัดหา ขนส่ง และจัดการอุปกรณ์ที่กองทัพต้องใช้ เช่น อาหาร เชื้อเพลิง อาวุธ ยานพาหนะ และอะไหล่สำรอง",
+        "exampleIds": [
+          "exm.sa.mind.war_logistics.1.1.th"
+        ],
+        "gloss": "งานขนส่งและจัดหาอาหาร เชื้อเพลิง อาวุธ ยานพาหนะ และอะไหล่สำรองให้กองทัพ",
+        "id": "sns.sa.mind.war_logistics.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_logistics",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Lojistik, savaş güçlerinin gerekli yiyecek, yakıt, cephane, araç ve yedek parçalarının zamanında taşınmasını ve sağlanmasını kapsar.",
+        "exampleIds": [
+          "exm.sa.mind.war_logistics.1.1.tr"
+        ],
+        "gloss": "Savaş güçlerinin yiyecek, yakıt, cephane ve araçlarla beslenip desteklenmesi işi.",
+        "id": "sns.sa.mind.war_logistics.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_logistics",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_logistics.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Rapor, sorunun savaşın kendisi değil lojistik olduğunu belirtiyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_logistics.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "รายงานระบุว่าปัญหาอยู่ที่การขนส่งและจัดหาเสบียง ไม่ใช่ที่การสู้รบ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_logistics.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Laporan itu menyatakan masalahnya adalah logistik, bukan pertempuran.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_logistics.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O relatório afirmou que o problema era a logística, não o combate.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_logistics.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "보고서는 문제가 전투가 아니라 물자 운반과 공급에 있다고 말했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_logistics.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "報告書によれば、問題は戦闘ではなく兵站業務にあった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_logistics.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The report says the problem was logistics, not the fighting.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "889393fb69a5b305188405f66dd58ca1fefad6cef46cfbf85236146e633f2a66": [
+      {
+        "forms": [
+          "figure"
+        ],
+        "id": "lex.sa.en.figure.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "figure",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.figure.noun.1",
+          "sns.sa.en.figure-noun.alt"
+        ]
+      },
+      {
+        "definition": "Hình minh họa; giá trị số.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.10"
+        ],
+        "gloss": "hình; con số",
+        "id": "sns.sa.vi.figure.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.figure.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "An illustration, or a numerical value.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.10"
+        ],
+        "gloss": "An illustration; a numerical value.",
+        "id": "sns.sa.en.figure-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.figure.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.10",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Use this when the title names one figure.",
+        "translation": "Dùng khối này khi tiêu đề chỉ đến một hình.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "88b2ce471edf99a423dc79506a272a0942bd6c32d0a12aaf9a770f0d30900c51": [
+      {
+        "forms": [
+          "Specialist",
+          "spec_specialist"
+        ],
+        "id": "lex.sa.mind.spec_specialist",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Specialist",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.spec_specialist.alt",
+          "sns.sa.mind.spec_specialist.alt.ja",
+          "sns.sa.mind.spec_specialist.alt.ko",
+          "sns.sa.mind.spec_specialist.alt.pt_br",
+          "sns.sa.mind.spec_specialist.alt.id",
+          "sns.sa.mind.spec_specialist.alt.th",
+          "sns.sa.mind.spec_specialist.alt.tr"
+        ]
+      },
+      {
+        "definition": "A person whose work is in one field and who is trusted to judge work in that field.",
+        "exampleIds": [
+          "exm.sa.mind.spec_specialist.1.1"
+        ],
+        "gloss": "A person whose work is in one field and who is trusted to judge work in that field.",
+        "id": "sns.sa.mind.spec_specialist.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.spec_specialist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一つの分野を仕事とし、その分野での判断を信頼される人。",
+        "exampleIds": [
+          "exm.sa.mind.spec_specialist.1.1.ja"
+        ],
+        "gloss": "一つの分野agad? agad? 仕事し、その分野の仕事を信頼Dial? 評価される人。",
+        "id": "sns.sa.mind.spec_specialist.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.spec_specialist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "특정 한 분야에 전문 지식을 가지고 그 분야의 일을 평가하고 판단하는 사람입니다. 일반적으로 여러 분야를 다루는 사람과 구별됩니다.",
+        "exampleIds": [
+          "exm.sa.mind.spec_specialist.1.1.ko"
+        ],
+        "gloss": "한 분야를 담당하며 그 분야의 일을 신뢰할 만하게 판단하는 사람.",
+        "id": "sns.sa.mind.spec_specialist.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.spec_specialist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uma pessoa cujo trabalho se concentra em uma área específica e que é considerada autorizada para avaliar ou resolver questões nessa área.",
+        "exampleIds": [
+          "exm.sa.mind.spec_specialist.1.1.pt_br"
+        ],
+        "gloss": "Uma pessoa que atua em uma área e tem autoridade para avaliar trabalhos nessa área.",
+        "id": "sns.sa.mind.spec_specialist.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.spec_specialist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Orang yang bekerja khusus dalam suatu bidang dan dipercaya menilai pekerjaan di bidang tersebut.",
+        "exampleIds": [
+          "exm.sa.mind.spec_specialist.1.1.id"
+        ],
+        "gloss": "Orang yang ahli di suatu bidang dan dipercaya menilai pekerjaan di bidang itu.",
+        "id": "sns.sa.mind.spec_specialist.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.spec_specialist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ผู้เชี่ยวชาญในสาขาเดียวที่ได้รับความเชื่อถือในการประเมินงานนั้น มักเป็นผู้ตัดสินว่างานถูกต้องหรือไม่",
+        "exampleIds": [
+          "exm.sa.mind.spec_specialist.1.1.th"
+        ],
+        "gloss": "ผู้เชี่ยวชาญในสาขาเดียวที่ได้รับความเชื่อถือในการประเมินงานนั้น",
+        "id": "sns.sa.mind.spec_specialist.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.spec_specialist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çalışmalarını belirli bir alana odaklayan ve o alandaki işleri değerlendirme konusunda uzmanlığı güvenilir kabul edilen kişi.",
+        "exampleIds": [
+          "exm.sa.mind.spec_specialist.1.1.tr"
+        ],
+        "gloss": "Tek bir alanda çalışan ve o alandaki işleri değerlendirmesi güvenilir kişi.",
+        "id": "sns.sa.mind.spec_specialist.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.spec_specialist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.spec_specialist.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pompa konusundaki uzmandır; bu yüzden raporu on dakikada okudu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.spec_specialist.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอเป็นผู้เชี่ยวชาญเรื่องปั๊ม จึงอ่านรายงานเสร็จในสิบนาที",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.spec_specialist.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dia adalah.Continue",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.spec_specialist.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ela é a especialista na bomba, por isso conseguiu ler o relatório em dez minutos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.spec_specialist.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 펌프 전문 담당이므로 보고서를 십 분 만에 읽었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.spec_specialist.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女はポンプの専門家だから、報告書を10分で読んだ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.spec_specialist.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She is the specialist for the pump, so she read the report in ten minutes.",
+        "translation": "Cô ấy là chuyên gia về máy bơm, nên cô ấy đọc xong báo cáo trong mười phút.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "88b3e13a98900e3dfa4b36074ae14aededf166e6f21f2ba668ba5fbec88922a2": [
+      {
+        "forms": [
+          "ph"
+        ],
+        "id": "lex.sa.en.ph.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "ph",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.ph.noun.1",
+          "sns.sa.en.ph-noun.alt"
+        ]
+      },
+      {
+        "definition": "Đại lượng đo mức độ chua hay kiềm của dung dịch theo thang lô-ga-rít.",
+        "domain": [
+          "chemistry"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.34"
+        ],
+        "gloss": "pH",
+        "id": "sns.sa.vi.ph.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.ph.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The logarithmic scale of the acidity of a solution.",
+        "domain": [
+          "chemistry"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.34"
+        ],
+        "gloss": "A logarithmic measure of how acidic or alkaline a solution is.",
+        "id": "sns.sa.en.ph-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.ph.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.34",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "pH is logarithmic.",
+        "translation": "pH là một đại lượng lô-ga-rít.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "88bf2cff94d556f60f16467ca384e82a32e961fdf21216d90224864e7ca9bdd5": [
+      {
+        "forms": [
+          "Brambles",
+          "brambles"
+        ],
+        "id": "lex.sa.kids_stories.brambles",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Brambles",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_stories.brambles.alt",
+          "sns.sa.kids_stories.brambles.alt.ja",
+          "sns.sa.kids_stories.brambles.alt.ko",
+          "sns.sa.kids_stories.brambles.alt.pt_br",
+          "sns.sa.kids_stories.brambles.alt.id",
+          "sns.sa.kids_stories.brambles.alt.th",
+          "sns.sa.kids_stories.brambles.alt.tr"
+        ]
+      },
+      {
+        "definition": "Thorny branches that grow together and hold on tightly to whatever touches them.",
+        "exampleIds": [
+          "exm.sa.kids_stories.brambles.1.1"
+        ],
+        "gloss": "Thorny branches that grow together and hold on tightly to whatever touches them.",
+        "id": "sns.sa.kids_stories.brambles.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_stories.brambles",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "MEA、とげのある枝が密集して生えている場所。枝は touched anything，しっかり絡みつきます。複数形として使う名词。",
+        "exampleIds": [
+          "exm.sa.kids_stories.brambles.1.1.ja"
+        ],
+        "gloss": "触れたものにしっかり絡みつく、とげのある枝。",
+        "id": "sns.sa.kids_stories.brambles.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_stories.brambles",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "가시 Lots가 있고 여러 갈래가 뒤엉켜 있는 덩굴로, 닿는 것을 꽉 붙잡습니다.",
+        "exampleIds": [
+          "exm.sa.kids_stories.brambles.1.1.ko"
+        ],
+        "gloss": "가시가 많고 서로 엉겨 붙어 스치는 것을 붙잡는 가지입니다.",
+        "id": "sns.sa.kids_stories.brambles.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_stories.brambles",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Galhos entrelaçados e cobertos de espinhos, que podem prender e arranhar quem passa por perto.",
+        "exampleIds": [
+          "exm.sa.kids_stories.brambles.1.1.pt_br"
+        ],
+        "gloss": "Ramas cheias de espinhos que crescem juntas e se prendem ao que as toca.",
+        "id": "sns.sa.kids_stories.brambles.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_stories.brambles",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ranting dan duri yang tumbuh saling bercampur serta kuat berpegangan pada benda atau tubuh yang menyentuhnya. Bisa melukai kaki atau menyulitkan perjalanan di hutan.",
+        "exampleIds": [
+          "exm.sa.kids_stories.brambles.1.1.id"
+        ],
+        "gloss": "Ranting berduri yang tumbuh bersama dan kuat memegang apa pun yang menyentuhnya.",
+        "id": "sns.sa.kids_stories.brambles.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_stories.brambles",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กิ่งไม้หลายกิ่งที่มีหนามและงอกเจื้อยกัน สามารถเกี่ยวหรือจับสิ่งที่สัมผัสไว้แน่น ไม่ได้หมายถึงไฟไหม้",
+        "exampleIds": [
+          "exm.sa.kids_stories.brambles.1.1.th"
+        ],
+        "gloss": "พงไฟ",
+        "id": "sns.sa.kids_stories.brambles.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_stories.brambles",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dikenleri yüzünden dokunan şeyi yakalayıp sıkıca tutan kalabalık dallar. Ormanda yürürken yolu tıkayabilir.",
+        "exampleIds": [
+          "exm.sa.kids_stories.brambles.1.1.tr"
+        ],
+        "gloss": "Birbirine dolanmış, dikenli ve sıkıca tutan dallar.",
+        "id": "sns.sa.kids_stories.brambles.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_stories.brambles",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_stories.brambles.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Rusty's leg was caught in the brambles.",
+        "translation": "Çocuğun bacağı dikenli dallara takıldı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_stories.brambles.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Rusty's leg was caught in the brambles.",
+        "translation": "ขาของรัสตี้ถูกพงไฟเกี่ยว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_stories.brambles.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Rusty's leg was caught in the brambles.",
+        "translation": "Kaki Rusty terjerat belukar berduri.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_stories.brambles.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Rusty's leg was caught in the brambles.",
+        "translation": "A perna do Rusty ficou presa nos espinhos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_stories.brambles.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Rusty's leg was caught in the brambles.",
+        "translation": "러스타의 다리가 가시 덩굴에 걸렸습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_stories.brambles.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Rusty's leg was caught in the brambles.",
+        "translation": "ラスティの足がとげのある枝に引っかかりました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_stories.brambles.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Rusty's leg was caught in the brambles.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

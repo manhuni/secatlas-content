@@ -1,0 +1,91 @@
+{
+  "language": "vi",
+  "lessonId": "article_ai_programmer",
+  "objectives": [
+    "Mô tả được AI tự động hoá thật sự phần nào của việc viết code.",
+    "Giải thích sự dịch chuyển từ viết code sang định nghĩa vấn đề.",
+    "Phân biệt tự động hoá cú pháp với tự động hoá phán đoán.",
+    "Xác định các kỹ năng tăng giá trị khi code được tự động hoá.",
+    "Lý giải 'kỹ sư' nghĩa là gì khi máy viết code."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Mọi làn sóng tự động hoá lập trình đều xóa một lớp gõ phím và lộ ra một lớp tư duy sâu hơn bên dưới. Trình biên dịch xóa code máy; framework xóa đoạn lặp; điện toán đám mây xóa việc quản trị máy chủ. Mỗi lần, dự đoán đều giống nhau — lập trình chết rồ i — và mỗi lần, công việc dịch lên một tầng trừu tượng.\n\nSinh code bằng AI là cú nhảy lớn nhất như thế. Hàm thông thường, bài kiểm thử, tác vụ chuyển dữ liệu và code nối ghép giờ đến trong vài giây. Đo bằng ký tự đã gõ, phần lớn những gì lập trình viên làm năm 2020 có thể tự động hoá. Đo bằng thứ làm công việc đó có nghĩa, gần như chẳng có gì.\n\nLõi bền của nghề chưa bao giờ là cú pháp. Đó là việc chuyển một tình huống con người lằng nhằ — một luật kinh doanh, một nhu cầu người dùng, một ràng buộc vật lý — thành phát biểu chính xác mà máy thực thi được, cùng phán đoán biết kết quả có đúng không. Cú pháp chỉ là lớp cuối, thấy rõ nhất và ít quan trọng nhất.",
+      "examples": [
+        "AI viết hàm trong bốn giây; việc quyết định hàm đó thật sự nên làm gì tốn của nhóm hai buổ i họp."
+      ],
+      "heading": "Việc gõ phím chưa bao giờ là công việc"
+    },
+    {
+      "body": "Khi sinh code rẻ đi, kỹ năng khan hiếm trở thành đặc tả: nói rõ cần xây gì, cho ai, dưới ràng buộc nào, và 'đúng' nghĩa là gì. Lượt nhắc mơ hồ sinh ra code hợp lý cho một vấn đề sai một cách hoàn hảo. Đặc tả chính xác biến cùng cỗ máy đó thành người xây đáng tin.\n\nĐiều này khó hơn vẻ ngoài. Hầu hết vấn đề thật đến dưới dạng cảm giác — 'trang thanh toán khó hiểu quá', 'báo cáo lâu quá' — và công việc đầu tiên của kỹ sư là chuyển chúng thành cấu trúc: dữ liệu là gì, các bước là gì, điều gì có thể sai, thành công đo bằng gì. Hoạt động này, đôi khi gọi là phân tích vấn đề, là nơi các dự án thắng hay thua, và nó diễn ra hoàn toàn bên ngoài đoạn code.\n\nLập trình viên của tương la i gần giống người kiến trúc sư kiêm chủ thầu hơn: đặc tả kết cấu, kiểm tra vật liệu, gánh trách nhiệm về tòa nhà. Công cụ thay đổi tỷ lệ công việc, không thay đổi thực tế của trách nhiệm.",
+      "examples": [
+        "Hai đội dùng cùng trợ lý AI; đội viết trước một trang đặc tả phát hành nhanh gấp ba."
+      ],
+      "heading": "Từ viết code sang định nghĩa vấn đề"
+    },
+    {
+      "body": "Một số phần của công việc phần mềm kháng tự động hoá vì lý do cấu trúc. **Bối cảnh** là một: hệ thống sống bên trong một công ty, một bộ luật, một lịch sử quyết định, và máy chỉ thấy những mảnh được đưa cho nó. **Hậu quả** là hai: chọn giữa tính năng nhanh hơn và thiết kế an toàn hơn là quyết định giá trị, mà giá trị không thể biên dịch. **Lòng tin** là ba: người dùng trách và ghi công con người, không phải mô hình.\n\nPhán đoán kỹ thuật là tên gọi của sự kết hợp: nắm bối cảnh, cân hậu quả, và đứng sau kết quả. Nó càng giá trị khi sinh code càng rẻ, vì mỗi đoạn code rẻ làm tăng số quyết định mỗi ngày. Khi tạo ra một lựa chọn không tốn gì, việc chọn giữa các lựa chọn chính là toàn bộ công việc.\n\nĐây là lý do ranh giới tự động hoá cứ dịch mã i mà không bao giờ đến: mỗi năng lực mới nuốt những việc vốn đã thường lệ, và lộ ra rõ hơn trước phán đoán vốn từ lâu mới là việc thật.",
+      "examples": [
+        "Giá trị của kỹ sư kỳ cựu không nằm ở cô ấy code nhanh hơn, mà ở chỗ cô đã ngăn ba tính năng hợp lý nhưng sẽ làm sản phẩm tệ đi."
+      ],
+      "heading": "Thứ không giao được cho máy"
+    },
+    {
+      "body": "Những thuật ngữ này mô tả cái đang bị tự động hoá và cái không.",
+      "heading": "Từ vựng của vai trò đang dịch chuyển",
+      "terms": [
+        {
+          "example": "Với lập trình đôi với AI, anh ấy soạn bài kiểm thử trong vài giây và dành thời gian cho những câu hỏi thiết kế khó.",
+          "gloss": "Trợ lý AI tích hợp vào quy trình phát triển, viết, hoàn thành và giải thích code theo yêu cầu.",
+          "term": "Lập trình đôi với AI",
+          "termId": "ai_pair_programmer"
+        },
+        {
+          "example": "Sinh code biến đặc tả của cô ấy thành hai trăm dòng code dịch vụ chạy được.",
+          "gloss": "Việc tự động tạo mã chương trình từ mô tả ngôn ngữ tự nhiên hoặc ví dụ mẫu.",
+          "term": "Sinh code",
+          "termId": "code_generation"
+        },
+        {
+          "example": "Phân tích vấn đề biến 'cải thiện onboarding' thành sáu màn hình cụ thể với mục tiêu đo được.",
+          "gloss": "Chia một vấn đề lớn, mơ hồ thành những phần nhỏ, chính xác, giải được với điều kiện thành công rõ ràng.",
+          "term": "Phân tích vấn đề",
+          "termId": "problem_decomposition"
+        },
+        {
+          "example": "Tư duy hệ thống là nhận ra lớp cache, vốn để tăng tốc, cũng làm chậm thông báo lỗi.",
+          "gloss": "Suy luận về cách các phần của hệ thống ảnh hưởng lẫn nhau, kể cả những tác động xuất hiện xa về thời gian hay cấu trúc.",
+          "term": "Tư duy hệ thống",
+          "termId": "systems_thinking"
+        },
+        {
+          "example": "Phán đoán kỹ thuật nói nên từ chối giải pháp thanh lịch mà không ai trong đội bảo trì nổi.",
+          "gloss": "Năng lực đưa ra quyết định kỹ thuật tốt dưới bất định, cân nhắc những đánh đổi mà không quy tắc nào quyết được.",
+          "term": "Phán đoán kỹ thuật",
+          "termId": "engineering_judgment"
+        },
+        {
+          "example": "Phần lớn chi phí phần mềm là bảo trì, vì thế code không ai hiểu là một khoản nợ.",
+          "gloss": "Công việc liên tục giữ phần mềm sống: sửa, thích nghi, và giải thích nó qua nhiều năm điều kiện thay đổi.",
+          "term": "Bảo trì",
+          "termId": "maintenance"
+        }
+      ]
+    },
+    {
+      "body": "Hỏi một lập trình viên kỳ cựu cả ngày họ làm gì và câu trả lời thành thật giờ gồm: duyệt code do máy viết, quyết định cái gì nên tồn tại, và giải thích hệ thống cho con người. Công ty tuyển theo tốc độ gõ phím đang tuyển đúng lớp vừa trở nên miễn phí.",
+      "heading": "Bài kiểm tra phỏng vấn đã đổ i rồ i"
+    },
+    {
+      "body": "Với người mới vào nghề, con đường đã dịch nhưng không biến mất. Học đọc code trước khi viết — duyệt, gỡ lỗi, giải thích các hệ thống có sẵn, vì kiểm chứng giờ là phần lớn công việc. Học sâu một lĩnh vực; máy biết cú pháp nhưng không biết kho hàng của khách hàng, quy trình của phòng khám, thói quen của thị trường bạn. Và luyện đặc tả: với mọi tính năng, viết một đoạn ngắn về vấn đề, ràng buộc, và cách kiểm tra thành công.\n\nVới kỹ sư dà y dạn, phần thưởng dồn vào hai thứ máy khuếch đại chứ không thay thế: **gu** — cảm giác về cái đáng xây — và **lòng tin** — danh tiếng đứng sau quyết định. Một cỗ máy tạo ra nghìn lựa chọn. Một nghề là kỷ luật của việc chọn, và của việc chịu trách nhiệm cho lựa chọn đó.\n\nLập trình viên không biến mất. Lập trình viên đang trở thành điều mà từ này vốn luôn ngầm chứa: không phải người gõ phím, mà là người chịu trách nhiệm về hệ thống.",
+      "examples": [
+        "Kỹ sư được giá trị nhất đội viết ít code nhất — và những ghi chú thiết kế một đoạn của cô ngăn nhiều lần viết lại nhất."
+      ],
+      "heading": "Giữ giá trị khi code miễn phí"
+    }
+  ],
+  "summary": "Cỗ máy viết code chạy được trong vài giây, vậy lập trình viên còn lại gì? Bài viết nhìn vào sự dịch chuyển vai trò: từ gõ code sang định nghĩa vấn đề, từ thuộc cú pháp sang phán xét hệ thống, và vì sao ranh giới giữa tự động hoá và năng lực kỹ thuật đang dịch chuyển chứ không biến mất.",
+  "title": "Khi AI biết viết code: Lập trình viên còn giá trị gì?"
+}

@@ -1,0 +1,935 @@
+{
+  "records": {
+    "370c37acbe37fe3cd7b6a1c0c4b3f579b25c5a35cc9d6e0a4143f458f7c87ddd": [
+      {
+        "forms": [
+          "Training data",
+          "training_data"
+        ],
+        "id": "lex.sa.technology.training_data",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Training data",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.training_data.alt",
+          "sns.sa.technology.training_data.alt.ja",
+          "sns.sa.technology.training_data.alt.ko",
+          "sns.sa.technology.training_data.alt.pt_br",
+          "sns.sa.technology.training_data.alt.id",
+          "sns.sa.technology.training_data.alt.th",
+          "sns.sa.technology.training_data.alt.tr"
+        ]
+      },
+      {
+        "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
+        "exampleIds": [
+          "exm.sa.technology.training_data.1.1"
+        ],
+        "gloss": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
+        "id": "sns.sa.technology.training_data.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.training_data",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "学習データの範囲と質がモデルの得意・不得足を左右し、不足した内容を架空に補って生成する原因にもなる。",
+        "exampleIds": [
+          "exm.sa.technology.training_data.1.1.ja"
+        ],
+        "gloss": "モデルが学習に用いた資料。",
+        "id": "sns.sa.technology.training_data.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.training_data",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "모델이 학습하는 데 사용된 데이터이다. 자료가 어디까지 포괄되고 얼마나 좋은지에 따라 모델의 성능과 정확한回答 능력이 달라진다.",
+        "exampleIds": [
+          "exm.sa.technology.training_data.1.1.ko"
+        ],
+        "gloss": "모델이 학습하는 데 사용된 자료.",
+        "id": "sns.sa.technology.training_data.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.training_data",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A abrangência e a qualidade dos dados determinam os assuntos que o modelo domina e os pontos em que ele pode inventar informações. Dados incompletos também geram deficiências.",
+        "exampleIds": [
+          "exm.sa.technology.training_data.1.1.pt_br"
+        ],
+        "gloss": "Conjunto de informações usado para ensinar um modelo.",
+        "id": "sns.sa.technology.training_data.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.training_data",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Data pelatihan mencakup materi yang dipelajari model. Cakupan dan kualitasnya menentukan bidang yang dikuasai model serta bagian yang mungkin dikarang.",
+        "exampleIds": [
+          "exm.sa.technology.training_data.1.1.id"
+        ],
+        "gloss": "Data yang digunakan model untuk mempelajari pola.",
+        "id": "sns.sa.technology.training_data.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.training_data",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ข้อมูลตัวอย่างที่โมเดลใช้เรียนรู้รูปแบบและความสัมพันธ์ระหว่างข้อมูล ความครอบคลุมและคุณภาพของข้อมูลส่งผลต่อจุดแข็งและการสร้างข้อมูลที่ไม่มีความจริงของโมเดล",
+        "exampleIds": [
+          "exm.sa.technology.training_data.1.1.th"
+        ],
+        "gloss": "ข้อมูลที่ใช้ฝึกโมเดลให้เรียนรู้รูปแบบต่าง ๆ",
+        "id": "sns.sa.technology.training_data.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.training_data",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir modelin öğrenmek için kullandığı veri. Verinin kapsamı ve kalitesi, modelin hangi konularda güçlü olduğunu ve nerede bilgi uydurduğunu belirler.",
+        "exampleIds": [
+          "exm.sa.technology.training_data.1.1.tr"
+        ],
+        "gloss": "Bir modelin öğrenmek için kullandığı veri.",
+        "id": "sns.sa.technology.training_data.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.training_data",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.training_data.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The model's weakness on local rules comes from what the training data never covered.",
+        "translation": "Modelin yerel kurallar konusundaki zayıflığı, eğitim verisinin hiç ele almadığı konulardan kaynaklanıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.training_data.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The model's weakness on local rules comes from what the training data never covered.",
+        "translation": "จุดอ่อนของโมเดลเรื่องกฎท้องถิ่นเกิดจากสิ่งที่ข้อมูลการฝึกไม่ครอบคลุม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.training_data.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The model's weakness on local rules comes from what the training data never covered.",
+        "translation": "Kelemahan model terhadap aturan setempat berasal dari data pelatihan yang tidak pernah memuatnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.training_data.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The model's weakness on local rules comes from what the training data never covered.",
+        "translation": "A fraqueza do modelo diante das regras locais ocorre porque os dados de treinamento não cobriram esse tema.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.training_data.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The model's weakness on local rules comes from what the training data never covered.",
+        "translation": "모델이 지역 규칙에 약한 것은 학습 데이터에 그 내용이 포함되지 않았기 때문입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.training_data.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The model's weakness on local rules comes from what the training data never covered.",
+        "translation": "このモデルが地域の規則に弱いのは、学習データに相关内容 がなかったためです。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.training_data.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The model's weakness on local rules comes from what the training data never covered.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "373cb2c6d4fe2778441d4f0266505b699fa518d002e5793b87f9b48836de3f62": [
+      {
+        "forms": [
+          "put"
+        ],
+        "id": "lex.sa.en.put.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "put",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.put.verb.1",
+          "sns.sa.en.put-verb.alt"
+        ]
+      },
+      {
+        "definition": "Đưa một vật vào một chỗ.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "đặt",
+        "id": "sns.sa.vi.put.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.put.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To move something into a place.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "To place something somewhere.",
+        "id": "sns.sa.en.put-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.put.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "3774d0091ec78941fb5c49f42e33c77aed65b69db3115cc5060e35c79d935654": [
+      {
+        "forms": [
+          "Connection",
+          "kpar_connection"
+        ],
+        "id": "lex.sa.mind.kpar_connection",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Connection",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.kpar_connection.alt",
+          "sns.sa.mind.kpar_connection.alt.ja",
+          "sns.sa.mind.kpar_connection.alt.ko",
+          "sns.sa.mind.kpar_connection.alt.pt_br",
+          "sns.sa.mind.kpar_connection.alt.id",
+          "sns.sa.mind.kpar_connection.alt.th",
+          "sns.sa.mind.kpar_connection.alt.tr"
+        ]
+      },
+      {
+        "definition": "A link between two facts, so that one explains, limits or changes the other.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1"
+        ],
+        "gloss": "A link between two facts, so that one explains, limits or changes the other.",
+        "id": "sns.sa.mind.kpar_connection.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一つの事実が別の事実を説明したり、限定したり、変えたりする関係。 mereな同時性ではなく、意味上のつながりを表す。",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.ja"
+        ],
+        "gloss": "二つの事実の間にある関係や結びつき。",
+        "id": "sns.sa.mind.kpar_connection.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "하나의 사실이 다른 사실을 설명하거나 제한하며, 또는 다른 사실에 영향을 주는 관계를 가리킨다.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.ko"
+        ],
+        "gloss": "두 사실 사이를 잇는 관계.",
+        "id": "sns.sa.mind.kpar_connection.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Relação que faz com que um fato ajude a explicar, limite ou mude o sentido de outro fato.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.pt_br"
+        ],
+        "gloss": "Uma ligação entre dois fatos, pela qual um explica, limita ou altera o outro.",
+        "id": "sns.sa.mind.kpar_connection.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kaitan antara dua fakta, sehingga yang satu menjelaskan, membatasi, atau mengubah yang lain. Hubungan ini bisa terlihat jelas atau hanya Samar.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.id"
+        ],
+        "gloss": "Kaitan antara dua fakta, sehingga yang satu menjelaskan, membatasi, atau mengubah yang lain.",
+        "id": "sns.sa.mind.kpar_connection.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความเชื่อมโยงที่ทำให้ข้อเท็จจริงเรื่องหนึ่งอธิบาย จำกัด หรือเปลี่ยนแปลงข้อเท็จจริงอีกเรื่องหนึ่ง",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.th"
+        ],
+        "gloss": "ความเชื่อมโยงระหว่างข้อเท็จจริงสองเรื่อง",
+        "id": "sns.sa.mind.kpar_connection.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir olgunun diğerini açıklamasına, sınırlamasına veya etkilemesine yol açan ilişkidir. Yalnızca rastlantısal bir birliktelik değildir.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.tr"
+        ],
+        "gloss": "İki olgu arasında, birinin diğerini açıklamasını, sınırlamasını veya değiştirmesini sağlayan bağ.",
+        "id": "sns.sa.mind.kpar_connection.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pompa yükü ile conta ömrü arasında bir bağlantı vardır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ภาระของปั๊มมีความเชื่อมโยงกับอายุการใช้งานของซีล",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ada kaitan antara beban pompa dan umur seal.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Há uma conexão entre a carga na bomba e a vida útil da vedação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "펌프에 걸린 하중과 봉인의 수명 사이에는 관계가 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ポンプの負荷とシール Dealerの寿命には関係がある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There is a connection between the load on the pump and the life of the seal.",
+        "translation": "Có một kết nối giữa tải trọng trên bơm và tuổi thọ của gioăng.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "377c8b1719a81962a4fdf98605414591314d9d74d8cc711a41448cd65b76a6da": [
+      {
+        "forms": [
+          "Professional face",
+          "cs_professional_face"
+        ],
+        "id": "lex.sa.mind.cs_professional_face",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Professional face",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_professional_face.alt",
+          "sns.sa.mind.cs_professional_face.alt.ja",
+          "sns.sa.mind.cs_professional_face.alt.ko",
+          "sns.sa.mind.cs_professional_face.alt.pt_br",
+          "sns.sa.mind.cs_professional_face.alt.id",
+          "sns.sa.mind.cs_professional_face.alt.th",
+          "sns.sa.mind.cs_professional_face.alt.tr"
+        ]
+      },
+      {
+        "definition": "The public standing a person carries at work: the regard of colleagues, clients and the team.",
+        "exampleIds": [
+          "exm.sa.mind.cs_professional_face.1.1"
+        ],
+        "gloss": "The public standing a person carries at work: the regard of colleagues, clients and the team.",
+        "id": "sns.sa.mind.cs_professional_face.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_professional_face",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある人が職場で持ち、同僚・顧客・チームから与えられている公的な評価や立場。",
+        "exampleIds": [
+          "exm.sa.mind.cs_professional_face.1.1.ja"
+        ],
+        "gloss": "職場で公认されている立場や、同僚や顧客からの評価。",
+        "id": "sns.sa.mind.cs_professional_face.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_professional_face",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "직장에서 동료, 고객, 팀이 한 사람에게 품는 존중과 신뢰의 합. 사람들이 보기 바깥에 있는 사회적 평가라는 점이 중요하다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_professional_face.1.1.ko"
+        ],
+        "gloss": "직장에서 동료와 고객, 팀에게 보이는 한 사람의 평판.",
+        "id": "sns.sa.mind.cs_professional_face.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_professional_face",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Posição pública de uma pessoa no trabalho, formada pelaconsideração de colegas, clientes e integrantes da equipe. Uma avaliação pode afetá-la por algum tempo.",
+        "exampleIds": [
+          "exm.sa.mind.cs_professional_face.1.1.pt_br"
+        ],
+        "gloss": "Reputação que uma pessoa mantém no ambiente de trabalho.",
+        "id": "sns.sa.mind.cs_professional_face.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_professional_face",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Citra dan kedudukan yang Guthibak_ORIGIN di tempat kerja, terutama penilaian rekan kerja, klien, dan anggota tim terhadap diri seseorang.",
+        "exampleIds": [
+          "exm.sa.mind.cs_professional_face.1.1.id"
+        ],
+        "gloss": "Kedudukan publik yang seseorang miliki di tempat kerja.",
+        "id": "sns.sa.mind.cs_professional_face.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_professional_face",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ภาพและสถานะของบุคคลในสายตาของคนที่เกี่ยวข้องกับงาน ซึ่งอาจเสียหายหรือฟื้นขึ้นได้หลังเหตุการณ์ต่าง ๆ",
+        "exampleIds": [
+          "exm.sa.mind.cs_professional_face.1.1.th"
+        ],
+        "gloss": "สถานะทางวิชาชีพในสายตาของคนร่วมงาน ลูกค้า และทีม",
+        "id": "sns.sa.mind.cs_professional_face.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_professional_face",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin çalışma ortamında taşıdığı kamusal mesleki saygınlık. Meslektaşlar, müşteriler ve ekip üyelerinin o kişiye verdiği değeri kapsar.",
+        "exampleIds": [
+          "exm.sa.mind.cs_professional_face.1.1.tr"
+        ],
+        "gloss": "Bir kişinin iş ortamında çevresinin ve meslektaşlarının gözündeki itibarı.",
+        "id": "sns.sa.mind.cs_professional_face.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_professional_face",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_professional_face.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Değerlendirmeden sonra bir ay boyunca mesleki itibarı parçalanmış hâldeydi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_professional_face.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "สถานะทางวิชาชีพของเขาผุกรุ่งไปหนึ่งเดือนหลังการประเมินผลงาน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_professional_face.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Wajah profesionalnya hancur selama sebulan setelah penilaian kinerja.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_professional_face.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A imagem profissional dele ficou abalada durante um mês após a avaliação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_professional_face.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "검토가 끝난 뒤 한 달 동안 그의 직장 평판은 완전히 무너져 있었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_professional_face.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "評価の後、彼の仕事场上での評判は丸一か月間崩れたままだった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_professional_face.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His professional face was in pieces for a month after the review.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "37845100b18d728e90a1cad263b156f620a8db941127ff0aafdf29671be6dbb5": [
+      {
+        "forms": [
+          "Gender role",
+          "gre_gender_role"
+        ],
+        "id": "lex.sa.social.gre_gender_role",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Gender role",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gre_gender_role.alt",
+          "sns.sa.social.gre_gender_role.alt.ja",
+          "sns.sa.social.gre_gender_role.alt.ko",
+          "sns.sa.social.gre_gender_role.alt.pt_br",
+          "sns.sa.social.gre_gender_role.alt.id",
+          "sns.sa.social.gre_gender_role.alt.th",
+          "sns.sa.social.gre_gender_role.alt.tr"
+        ]
+      },
+      {
+        "definition": "A rule about what a category of people is expected to do.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_role.1.1"
+        ],
+        "gloss": "A rule about what a category of people is expected to do.",
+        "id": "sns.sa.social.gre_gender_role.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gre_gender_role",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある性別の人に「こうあるべき」という期待が向けられた社会的な規則。往往 written down ない不成文の規約として functioning.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_role.1.1.ja"
+        ],
+        "gloss": "ある種類の人に期待される役割についての社会的な規則。",
+        "id": "sns.sa.social.gre_gender_role.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gre_gender_role",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "남성이나 여성 같은 성별 범주에 어떤 행동을 기대하는지를 정하는 사회적 규칙이다. 반드시 공식 문서에 적혀 있는 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_role.1.1.ko"
+        ],
+        "gloss": "특정 성별의 사람들에게 기대되는 역할에 관한 규칙.",
+        "id": "sns.sa.social.gre_gender_role.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gre_gender_role",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Conjunto de Autop? responsabilidades e comportamentos esperados de pessoas classificadas em um gênero. Muitas vezes existe sem ser escrita oficialmente.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_role.1.1.pt_br"
+        ],
+        "gloss": "Expectativa social sobre o comportamento de pessoas de determinado gênero.",
+        "id": "sns.sa.social.gre_gender_role.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gre_gender_role",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Aturan tidak tertulis tentang perilaku yang diharapkan dari anggota suatu kategori gender. Peran ini merupakan ekspektasi sosial, bukan ketentuan resmi.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_role.1.1.id"
+        ],
+        "gloss": "Norma sosial tentang apa yang diharapkan dari sekelompok orang berdasarkan gender.",
+        "id": "sns.sa.social.gre_gender_role.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gre_gender_role",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความคาดหมายทางสังคมที่ผูกกับเพศ ซึ่งกำหนดว่าคนในกลุ่มนั้นควรมีบทบาทอย่างไร เช่น รับผิดชอบการเงินหรือการดูแล กฎพวกนี้มักไม่ได้เขียนไว้อย่างเป็นทางการ แต่ถูกสอนและทำซ้ำจนกลายเป็นความคาดหมาย",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_role.1.1.th"
+        ],
+        "gloss": "กฎที่กำหนดว่ากลุ่มคนแต่ละประเภทควรทำอะไร",
+        "id": "sns.sa.social.gre_gender_role.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gre_gender_role",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kadınlar, erkekler veya başka bir toplumsal kategoriye verilen davranış beklentisi. Genellikle yazılı olmayan bu kurallar, kişilerin davranışlarını etkiler.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_role.1.1.tr"
+        ],
+        "gloss": "Belirli bir kişi grubundan ne beklendiğini belirleyen toplumsal kural.",
+        "id": "sns.sa.social.gre_gender_role.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gre_gender_role",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gre_gender_role.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Cinsiyet rolü, erkeğin ödemesini söylüyordu; bu kural hiçbir yerde yazılı değildi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_role.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "บทบาททางเพศบอกว่าผู้ชายเป็นคนจ่ายเงิน และกฎนั้นไม่เคยถูกเขียนลงไว้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_role.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dalam peran gender itu, laki-laki diharapkan membayar, meskipun aturan ini tidak pernah ditulis.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_role.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O papel de gênero esperava que ele cuidasse das decisões financeiras da casa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_role.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 성별 역할은 남자가 비용을 내라고 했지만, 그런 규칙이 문서에 적힌 적은 없었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_role.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "性別の役割は、男主が払うと言うもので、その規則は documenting も were never written down.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_role.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The gender role said the man pays, and the rule was never written down.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "3793c55b569648d345d6e57809720287d78044bf362d6c960e04d9240b7d2871": [
+      {
+        "forms": [
+          "Room key",
+          "room_key"
+        ],
+        "id": "lex.sa.travel.room_key",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Room key",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.room_key.alt",
+          "sns.sa.travel.room_key.alt.ja",
+          "sns.sa.travel.room_key.alt.ko",
+          "sns.sa.travel.room_key.alt.pt_br",
+          "sns.sa.travel.room_key.alt.id",
+          "sns.sa.travel.room_key.alt.th",
+          "sns.sa.travel.room_key.alt.tr"
+        ]
+      },
+      {
+        "definition": "The card or fob that opens your door. In many hotels it also works as your room number, your lift pass and your breakfast voucher.",
+        "exampleIds": [
+          "exm.sa.travel.room_key.1.1"
+        ],
+        "gloss": "The card or fob that opens your door. In many hotels it also works as your room number, your lift pass and your breakfast voucher.",
+        "id": "sns.sa.travel.room_key.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.room_key",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ホテルの客室への出入りに使うカードや小型端末。多くのホテルでは、客室番号やエレベーターの利用権、朝食券としても使える。",
+        "exampleIds": [
+          "exm.sa.travel.room_key.1.1.ja"
+        ],
+        "gloss": "客室のドアを開けるためのカードや小型端末。",
+        "id": "sns.sa.travel.room_key.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.room_key",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "관광 호텔에서 투숙객의 방 문을 여는 카드 또는 키 태그를 가리킵니다. 많은 호텔에서는 방 번호, 엘리베이터 이용권, 조식 이용권으로도 사용할 수 있습니다.",
+        "exampleIds": [
+          "exm.sa.travel.room_key.1.1.ko"
+        ],
+        "gloss": "호텔 방 문을 여는 카드나 키 태그이다.",
+        "id": "sns.sa.travel.room_key.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.room_key",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Em muitos hotéis, o cartão de chave também identifica o quarto, permite usar o elevador e serve como comprovante para serviços como o café da manhã.",
+        "exampleIds": [
+          "exm.sa.travel.room_key.1.1.pt_br"
+        ],
+        "gloss": "Cartão ou chave que abre a porta do quarto.",
+        "id": "sns.sa.travel.room_key.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.room_key",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kartu atau gawai hotel yang dapat membuka pintu kamar dan sering juga berfungsi sebagai nomor kamar, tiket elevator, serta voucher sarapan.",
+        "exampleIds": [
+          "exm.sa.travel.room_key.1.1.id"
+        ],
+        "gloss": "Kartu atau gawai yang digunakan untuk membuka pintu kamar.",
+        "id": "sns.sa.travel.room_key.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.room_key",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "โรงแรมหลายแห่งใช้กุญแจห้องเป็นบัตรหรืออุปกรณ์อิเล็กทรอนิกส์ที่เปิดประตูได้ และอาจใช้เป็นหมายเลขห้อง บัตรเข้าลิฟต์ หรือคูปองอาหารเช้าได้ด้วย",
+        "exampleIds": [
+          "exm.sa.travel.room_key.1.1.th"
+        ],
+        "gloss": "บัตรหรืออุปกรณ์ที่ใช้เปิดประตูห้องพัก",
+        "id": "sns.sa.travel.room_key.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.room_key",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Odanın kapısını açan kart ya da anahtardır. Birçok otelde oda numarası, asansör erişimi ve kahvaltı hakkı olarak da kullanılır.",
+        "exampleIds": [
+          "exm.sa.travel.room_key.1.1.tr"
+        ],
+        "gloss": "Odanın kapısını açan kart veya anahtar.",
+        "id": "sns.sa.travel.room_key.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.room_key",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.room_key.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could I have a second key card for my colleague?",
+        "translation": "Çalışma arkadaşım için ikinci bir oda anahtarı alabilir miyim?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.room_key.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could I have a second key card for my colleague?",
+        "translation": "ขอกุญแจห้องพักอีกใบสำหรับเพื่อนร่วมงานได้ไหม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.room_key.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could I have a second key card for my colleague?",
+        "translation": "Bisa saya mendapat kartu kunci kedua untuk rekan kerja saya?",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.room_key.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could I have a second key card for my colleague?",
+        "translation": "Você pode me dar um segundo cartão de chave para o meu colega?",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.room_key.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could I have a second key card for my colleague?",
+        "translation": "동료용으로 방 열쇠 카드를 하나 더 받을 수 있나요?",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.room_key.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could I have a second key card for my colleague?",
+        "translation": "同僚にもう一枚、客室の鍵をいただけますか。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.room_key.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could I have a second key card for my colleague?",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

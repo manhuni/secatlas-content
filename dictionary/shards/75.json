@@ -1,0 +1,836 @@
+{
+  "records": {
+    "7517017f1ed26c3a0eeeeff8cd8415a0f90f4f8ece83f639a625e62f399c9ac1": [
+      {
+        "forms": [
+          "constant",
+          "constants"
+        ],
+        "id": "lex.sa.en.constants.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "constants",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.constants.noun",
+          "prn.sa.en.constants.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.constants.noun.1",
+          "sns.sa.en.constants-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.constants-noun",
+        "id": "prn.sa.en.constants.noun",
+        "ipa": "/ˈkɒnstənts/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.constants.noun.us",
+        "ipa": "/ˈkɑːn.stənts/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Giá trị không đổi trong biểu thức, đối lập với biến.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.constants.noun.1.1",
+          "exm.sa.en.constants-noun.more.01",
+          "exm.sa.en.constants-noun.more.02"
+        ],
+        "gloss": "hằng số",
+        "id": "sns.sa.vi.constants.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.constants.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.constants-noun",
+          "res.sa.aud.constants-noun",
+          "res.sa.lnk.constants-noun",
+          "res.sa.vid.constants-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Numbers that stay fixed while x changes.",
+        "exampleIds": [
+          "exm.sa.en.constants.noun.1.1"
+        ],
+        "gloss": "Numbers that stay fixed while x changes.",
+        "id": "sns.sa.en.constants-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.constants.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.constants.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "In 2x + 5 = 0, 2 and 5 are constants.",
+        "translation": "Trong 2x + 5 = 0, 2 và 5 là hằng số.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.constants.noun.1",
+        "id": "lnk.sa.en.glossary.012",
+        "kind": "relation",
+        "toId": "sns.sa.vi.variable.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "752f502ee3ac574467c34d2881aabe52eac51a2491d707bf11b09d2b9f0d4546": [
+      {
+        "forms": [
+          "picture",
+          "pictures"
+        ],
+        "id": "lex.sa.en.picture.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "picture",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.picture.noun.1",
+          "sns.sa.en.picture-noun.alt"
+        ]
+      },
+      {
+        "definition": "Ảnh chụp hoặc hình vẽ.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "hình ảnh",
+        "id": "sns.sa.vi.picture.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.picture.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A visible representation of something.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "A photograph or drawing.",
+        "id": "sns.sa.en.picture-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.picture.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "75519932722f6e16485ab6e3ca4630fcfdf6b9250a65fd8aa254ead29ad06447": [
+      {
+        "forms": [
+          "substitute",
+          "substitutes",
+          "substituted",
+          "substituting"
+        ],
+        "id": "lex.sa.en.substitute.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "substitute",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.substitute.verb",
+          "prn.sa.en.substitute.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.substitute.verb.1",
+          "sns.sa.en.substitute-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.substitute-verb",
+        "id": "prn.sa.en.substitute.verb",
+        "ipa": "/ˈsʌbstɪtjuːt/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.substitute.verb.us",
+        "ipa": "/ˈsʌb.stə.tuːt/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Thay một giá trị vào chỗ biến để tính hoặc kiểm tra.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.substitute.verb.1.1",
+          "exm.sa.en.substitute-verb.more.01",
+          "exm.sa.en.substitute-verb.more.02"
+        ],
+        "gloss": "thế",
+        "id": "sns.sa.vi.substitute.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.substitute.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.substitute-verb",
+          "res.sa.aud.substitute-verb",
+          "res.sa.lnk.substitute-verb",
+          "res.sa.vid.substitute-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Replace the variable with the proposed solution.",
+        "exampleIds": [
+          "exm.sa.en.substitute.verb.1.1"
+        ],
+        "gloss": "Replace the variable with the proposed solution.",
+        "id": "sns.sa.en.substitute-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.substitute.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.substitute.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Substitute x = 4 into 2x + 3.",
+        "translation": "Thế x = 4 vào 2x + 3.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.substitute.verb.1",
+        "id": "lnk.sa.en.glossary.074",
+        "kind": "relation",
+        "toId": "sns.sa.vi.check.verb.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.substitute.verb.1",
+        "id": "lnk.sa.en.glossary.075",
+        "kind": "relation",
+        "toId": "sns.sa.vi.solution.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "75857a45899985be4c4d941e90b6b396d6c92a4c7437aaf0bf102089fe21379d": [
+      {
+        "forms": [
+          "from"
+        ],
+        "id": "lex.sa.en.from.preposition",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "from",
+        "pos": "preposition",
+        "senseIds": [
+          "sns.sa.vi.from.preposition.1",
+          "sns.sa.en.from-preposition.alt"
+        ]
+      },
+      {
+        "definition": "Bắt đầu từ một điểm hoặc một nguồn.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "từ",
+        "id": "sns.sa.vi.from.preposition.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.from.preposition",
+        "pos": "preposition",
+        "revision": 1
+      },
+      {
+        "definition": "Beginning at a place or source.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "Starting from; out of.",
+        "id": "sns.sa.en.from-preposition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.from.preposition",
+        "pos": "preposition",
+        "revision": 1
+      }
+    ],
+    "75a4295af72f271a8f71f77c05e01073e63122fd812d7168b3e7463599fef69b": [
+      {
+        "forms": [
+          "Adaptive front lighting",
+          "adaptive_headlights"
+        ],
+        "id": "lex.sa.en.adaptive.headlights",
+        "kind": "lexeme",
+        "lemma": "Adaptive front lighting",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.adaptive.headlights.alt"
+        ]
+      },
+      {
+        "definition": "The headlamps follow the steering and the speed to light the road ahead. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The headlamps follow the steering and the speed to light the road ahead.",
+        "id": "sns.sa.en.adaptive.headlights.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.adaptive.headlights",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "75c8282e159dc55f564811261eab35f8997134c29bda78bbacc82b83e1977a54": [
+      {
+        "forms": [
+          "Taste buds",
+          "taste_buds"
+        ],
+        "id": "lex.sa.kids_science.taste_buds",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Taste buds",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.taste_buds.alt",
+          "sns.sa.kids_science.taste_buds.alt.ja",
+          "sns.sa.kids_science.taste_buds.alt.ko",
+          "sns.sa.kids_science.taste_buds.alt.pt_br",
+          "sns.sa.kids_science.taste_buds.alt.id",
+          "sns.sa.kids_science.taste_buds.alt.th",
+          "sns.sa.kids_science.taste_buds.alt.tr"
+        ]
+      },
+      {
+        "definition": "The tiny bumps on your tongue that pick out sweet, salty, sour and bitter.",
+        "exampleIds": [
+          "exm.sa.kids_science.taste_buds.1.1"
+        ],
+        "gloss": "The tiny bumps on your tongue that pick out sweet, salty, sour and bitter.",
+        "id": "sns.sa.kids_science.taste_buds.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.taste_buds",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "舌の表面にある小さな器官で、甘味・酸味・塩味・苦味などを感じ取る。",
+        "exampleIds": [
+          "exm.sa.kids_science.taste_buds.1.1.ja"
+        ],
+        "gloss": "舌にある、甘味や酸味などを感じる小さな器官。",
+        "id": "sns.sa.kids_science.taste_buds.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.taste_buds",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "혀의 작은 돌기로, 음식에 섞인 물질의 맛을 감지한다.",
+        "exampleIds": [
+          "exm.sa.kids_science.taste_buds.1.1.ko"
+        ],
+        "gloss": "혀에 있어 단맛, 짠맛, 신맛, 쓴맛을 느끼게 하는 작은 돌기이다.",
+        "id": "sns.sa.kids_science.taste_buds.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.taste_buds",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estruturas da língua que contêm células capazes de detectar sabores como doce, azedo, salgado e amargo.",
+        "exampleIds": [
+          "exm.sa.kids_science.taste_buds.1.1.pt_br"
+        ],
+        "gloss": "Pequenas estruturas da língua que percebem os sabores.",
+        "id": "sns.sa.kids_science.taste_buds.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.taste_buds",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kuncup kecil pada lidah yang mendeteksi四种 rasa utama, yaitu manis, asin, asam, dan pahit.",
+        "exampleIds": [
+          "exm.sa.kids_science.taste_buds.1.1.id"
+        ],
+        "gloss": "Kuncup kecil di lidah yang membedakan rasa manis, asin, asam, dan pahit.",
+        "id": "sns.sa.kids_science.taste_buds.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.taste_buds",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ตุ๊มเล็ก ๆ บนลิ้นที่ทำหน้าที่รับรส ช่วยให้เรารู้ว่าอาหารที่กินมีรสหวาน เค็ม เปรี้ยว หรือขม",
+        "exampleIds": [
+          "exm.sa.kids_science.taste_buds.1.1.th"
+        ],
+        "gloss": "ปุ่มเล็ก ๆ บนลิ้นที่ช่วยรับรส",
+        "id": "sns.sa.kids_science.taste_buds.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.taste_buds",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dilin üzerinde bulunan ve temel tatları algılayan küçük yapılardır.",
+        "exampleIds": [
+          "exm.sa.kids_science.taste_buds.1.1.tr"
+        ],
+        "gloss": "Dilin üzerinde tatlı, tuzlu, ekşi ve acı tatları algılayan küçük yapılar.",
+        "id": "sns.sa.kids_science.taste_buds.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.taste_buds",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.taste_buds.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Taste buds tell you that the mango is sweet.",
+        "translation": "Tat tomurcukları mango'nun tatlı olduğunu söyler.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.taste_buds.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Taste buds tell you that the mango is sweet.",
+        "translation": "ตุ๊มรับรสบอกเราว่ามะม่วงมีรสหวาน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.taste_buds.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Taste buds tell you that the mango is sweet.",
+        "translation": "Kuncup pengecap memberi tahu bahwa mangga itu manis.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.taste_buds.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Taste buds tell you that the mango is sweet.",
+        "translation": "As papilas gustativas avisam que a manga é doce.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.taste_buds.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Taste buds tell you that the mango is sweet.",
+        "translation": "미각 돌기 망고가 달다는 것을 알려 준다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.taste_buds.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Taste buds tell you that the mango is sweet.",
+        "translation": "味蕾はマンゴーが甘いことを教えてくれます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.taste_buds.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Taste buds tell you that the mango is sweet.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "75eb93fd0de5cc3546585e9604f9ecacd9a1c3a4dd81ba6447a5a711d13a76a2": [
+      {
+        "forms": [
+          "Insomnia",
+          "insomnia"
+        ],
+        "id": "lex.sa.health.insomnia",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Insomnia",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.insomnia.alt",
+          "sns.sa.health.insomnia.alt.ja",
+          "sns.sa.health.insomnia.alt.ko",
+          "sns.sa.health.insomnia.alt.pt_br",
+          "sns.sa.health.insomnia.alt.id",
+          "sns.sa.health.insomnia.alt.th",
+          "sns.sa.health.insomnia.alt.tr"
+        ]
+      },
+      {
+        "definition": "Difficulty falling asleep, staying asleep or waking too early, together with daytime impairment. The daytime effect is part of the definition.",
+        "exampleIds": [
+          "exm.sa.health.insomnia.1.1"
+        ],
+        "gloss": "Difficulty falling asleep, staying asleep or waking too early, together with daytime impairment. The daytime effect is part of the definition.",
+        "id": "sns.sa.health.insomnia.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.insomnia",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "入睡.",
+        "exampleIds": [
+          "exm.sa.health.insomnia.1.1.ja"
+        ],
+        "gloss": "寝つけにくい、睡眠が保てないなどして、日中の生活にも支障が出る症状。",
+        "id": "sns.sa.health.insomnia.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.insomnia",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "잠들기 어렵거나 수면 중 깨거나 너무 일찍 깨어나며, 그 결과 낮 동안 정상적으로 일하거나 기능하기 어려운 상태다. 단순히 잠을 적게 잔다는 것만으로는 충분하지 않다.",
+        "exampleIds": [
+          "exm.sa.health.insomnia.1.1.ko"
+        ],
+        "gloss": "잠들거나 계속 잠들어 있거나 너무 일찍 깨는 sleep 문제가 주된 원인이 되는 상태이다.",
+        "id": "sns.sa.health.insomnia.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.insomnia",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Perturbação caracterizada por dificuldade para adormecer, manter o sono ou acordar cedo demais, acompanhada de impactos negatively sobre o funcionamento durante o dia.",
+        "exampleIds": [
+          "exm.sa.health.insomnia.1.1.pt_br"
+        ],
+        "gloss": "Dificuldade de dormir ou permanecer dormindo, com prejuízo durante o dia.",
+        "id": "sns.sa.health.insomnia.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.insomnia",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kesulitan untuk tertidur, tetap tidur, atau bangun terlalu awal disertai dampak negatif pada kemampuan seseorang selama siang hari. difficulties tidur saja belum tentu disebut insomnia jika tidak mengganggu aktivitas sehari-hari.",
+        "exampleIds": [
+          "exm.sa.health.insomnia.1.1.id"
+        ],
+        "gloss": "Gangguan tidur yang disertai gangguan fungsi pada siang hari.",
+        "id": "sns.sa.health.insomnia.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.insomnia",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "อาการที่มีปัญหาในการเข้านอน รักษานอน หรือตื่นเร็วเกินไป ร่วมกับผลกระทบต่อการทำกิจกรรมในเวลากลางวัน ซึ่งถือเป็นส่วนสำคัญของโรคนี้",
+        "exampleIds": [
+          "exm.sa.health.insomnia.1.1.th"
+        ],
+        "gloss": "ความผิดปกติที่นอนไม่หลับหรือหลับไม่นิ่ง จนกระทบการทำงานในเวลากลางวัน",
+        "id": "sns.sa.health.insomnia.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.insomnia",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yalnızca kötü uyku anlamına gelmez; uyku sorununun gün içinde çalışma, öğrenme veya konsantrasyonu bozacak biçimde etkili olması da uykusuzluğun bir parçasıdır.",
+        "exampleIds": [
+          "exm.sa.health.insomnia.1.1.tr"
+        ],
+        "gloss": "Uykuya dalmakta, uykuda kalmakta veya çok erken uyanmakta zorlanmayla birlikte gündüz işlevselliğinin bozulması.",
+        "id": "sns.sa.health.insomnia.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.insomnia",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.insomnia.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+        "translation": "Sadece kötü uyumak değil; ertesi gün düzgün çalışamamak da uykusuzluğun belirtilerindendir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.insomnia.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+        "translation": "ปัญหาของฉันไม่ใช่แค่นอนไม่หลับ แต่ยังทำให้ฉันทำงานได้ไม่ปกติในวันรุ่งขึ้น นั่นจึงทำให้เป็นโรคนอนไม่หลับ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.insomnia.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+        "translation": "Saya bukan hanya tidur buruk, tetapi juga tidak dapat bekerja dengan baik pada keesokan harinya; itu membuat saya mengalami insomnia.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.insomnia.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+        "translation": "Não é apenas que eu durmo mal; é que não consigo trabalhar corretamente no dia seguinte. Isso characterize a insônia.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.insomnia.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+        "translation": "잠을 잘 못 잔다는 것뿐 아니라 다음 날 일을 제대로 할 수 없다는 점이 불면증의 문제이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.insomnia.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+        "translation": "眠れないだけでなく、翌日にしっかり仕事できない这也是不眠症.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.insomnia.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "75ef2e329bdb50d26a4ce73c2aaa567364e4ac5b5f79f7cf6d64b4cd547a863c": [
+      {
+        "forms": [
+          "Nest",
+          "nest"
+        ],
+        "id": "lex.sa.kids_stories.nest",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Nest",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_stories.nest.alt",
+          "sns.sa.kids_stories.nest.alt.ja",
+          "sns.sa.kids_stories.nest.alt.ko",
+          "sns.sa.kids_stories.nest.alt.pt_br",
+          "sns.sa.kids_stories.nest.alt.id",
+          "sns.sa.kids_stories.nest.alt.th",
+          "sns.sa.kids_stories.nest.alt.tr"
+        ]
+      },
+      {
+        "definition": "The little home a bird builds out of twigs and grass. It is warm and it holds the eggs.",
+        "exampleIds": [
+          "exm.sa.kids_stories.nest.1.1"
+        ],
+        "gloss": "The little home a bird builds out of twigs and grass. It is warm and it holds the eggs.",
+        "id": "sns.sa.kids_stories.nest.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_stories.nest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "鳥が小枝、草などをorias sometorno电器做成る小さな住まい。卵入れて暖を保つために使われる。",
+        "exampleIds": [
+          "exm.sa.kids_stories.nest.1.1.ja"
+        ],
+        "gloss": "鳥が小枝や草でつくる、卵を収める小さな巣。",
+        "id": "sns.sa.kids_stories.nest.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_stories.nest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "새가 나뭇가지와 풀 등으로 만드는 둥지다. 알을 올 수 있도록 따뜻하고 안전하게 지킬 수 있다.",
+        "exampleIds": [
+          "exm.sa.kids_stories.nest.1.1.ko"
+        ],
+        "gloss": "새가 나뭇가지와 풀을 엮어 만드는 작은 집.",
+        "id": "sns.sa.kids_stories.nest.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_stories.nest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Abrigo construído por um pássaro para descansar e chocar seus ovos. É feito com materiais como gravetos, folhas e capim.",
+        "exampleIds": [
+          "exm.sa.kids_stories.nest.1.1.pt_br"
+        ],
+        "gloss": "Pequeno domicílio que um pássaro constrói com gravetos e capim.",
+        "id": "sns.sa.kids_stories.nest.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_stories.nest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sarang adalah tempat burung bertelur danraising anak.",
+        "exampleIds": [
+          "exm.sa.kids_stories.nest.1.1.id"
+        ],
+        "gloss": "Rumah kecil yang dibuat burung dari ranting dan rumput.",
+        "id": "sns.sa.kids_stories.nest.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_stories.nest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เป็นที่อยู่ของนกที่มักสร้างจากกิ่งไม้ หญ้า หรือวัสดุอื่น และใช้เป็นที่วางไข่และเลี้ยงลูก",
+        "exampleIds": [
+          "exm.sa.kids_stories.nest.1.1.th"
+        ],
+        "gloss": "บ้านเล็ก ๆ ที่นกสร้างจากกิ่งไม้และหญ้าเพื่อวางไข่",
+        "id": "sns.sa.kids_stories.nest.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_stories.nest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kuşların yaptığı, yumurtalarını barındıran sıcak yuva. Yuvalar genellikle dallar, otlar ve yapraklarla örülür.",
+        "exampleIds": [
+          "exm.sa.kids_stories.nest.1.1.tr"
+        ],
+        "gloss": "Kuşların çubuk ve otlardan yaptığı küçük ev.",
+        "id": "sns.sa.kids_stories.nest.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_stories.nest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_stories.nest.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren's nest was in the apple tree.",
+        "translation": "Kırlangıcın yuvası elma ağacınındaydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_stories.nest.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren's nest was in the apple tree.",
+        "translation": "รังของนกกระเรียนอยู่บนต้นแอปเปิล",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_stories.nest.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren's nest was in the apple tree.",
+        "translation": "Sarang siul安装在 pohon apel.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_stories.nest.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren's nest was in the apple tree.",
+        "translation": "O ninho do tentilhão estava na macieira.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_stories.nest.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren's nest was in the apple tree.",
+        "translation": "갈매기의 둥지는 사과나무에 있었어요.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_stories.nest.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren's nest was in the apple tree.",
+        "translation": "小鳥の巣がりんごの木にありました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_stories.nest.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren's nest was in the apple tree.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

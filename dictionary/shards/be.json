@@ -1,0 +1,1165 @@
+{
+  "records": {
+    "be005bc3e835702287fd1efd58c625a2b1f542ce7625ddb72772314550f677d5": [
+      {
+        "forms": [
+          "Generative AI",
+          "generative_ai"
+        ],
+        "id": "lex.sa.technology.generative_ai",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Generative AI",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.generative_ai.alt",
+          "sns.sa.technology.generative_ai.alt.ja",
+          "sns.sa.technology.generative_ai.alt.ko",
+          "sns.sa.technology.generative_ai.alt.pt_br",
+          "sns.sa.technology.generative_ai.alt.id",
+          "sns.sa.technology.generative_ai.alt.th",
+          "sns.sa.technology.generative_ai.alt.tr"
+        ]
+      },
+      {
+        "definition": "AI that produces new content such as text, images, audio or code, rather than only sorting or labelling.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1"
+        ],
+        "gloss": "AI that produces new content such as text, images, audio or code, rather than only sorting or labelling.",
+        "id": "sns.sa.technology.generative_ai.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "学習した内容に基づいて、新しい文章や画像、音声、コードを生成する人工知能。 mere data classification not. 単にデータに順位|labelingsを付ける処理と区別される。",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.ja"
+        ],
+        "gloss": "文章や画像、音声、コードを新しく作り出す人工知能。",
+        "id": "sns.sa.technology.generative_ai.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기존 데이터를 분류하거나 표시하는 데 그치지 않고 새로운 콘텐츠를 생성하는 인공지능이다. 글쓰기, 그림 그리기, 음원 제작과 코드 작성 등에 활용된다.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.ko"
+        ],
+        "gloss": "새로운 글, 이미지, 음원 또는 코드를 만들어 내는 인공지능이다.",
+        "id": "sns.sa.technology.generative_ai.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tecnologia que produz novos conteúdos, como texto, imagem, áudio ou código, em vez de apenas classificar ou rotular informações. É usada para criar textos, resolver problemas, gerar imagens e executar outras tarefas.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.pt_br"
+        ],
+        "gloss": "Inteligência artificial que cria novos textos, imagens, áudios ou códigos.",
+        "id": "sns.sa.technology.generative_ai.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "AI yang membuat konten baru, bukan hanya mengelompokkan atau melabeli data. Istilah ini digunakan untuk teknologi yang dapat menulis, menggambar, synthesize suara, atau menyusun kode.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.id"
+        ],
+        "gloss": "AI yang menghasilkan konten baru, seperti teks, gambar, audio, atau kode.",
+        "id": "sns.sa.technology.generative_ai.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ระบบที่สร้างผลลัพธ์ใหม่ ไม่ใช่เพียงจัดกลุ่มหรือติดป้ายข้อมูลที่มีอยู่แล้ว โดยทั่วไปใช้สร้างข้อความ ภาพ เสียง และโค้ด",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.th"
+        ],
+        "gloss": "ปัญญาประดิษฐ์ที่สร้างเนื้อหาใหม่ เช่น ข้อความ ภาพ เสียง หรือโค้ด",
+        "id": "sns.sa.technology.generative_ai.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yalnızca verileri sınıflandırmakla kalmayı metin, görsel, ses ve kod gibi yeni içerikler üreten yapay zekâ. İçerik üretimi yapan sistemler bu kapsamdadır.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.tr"
+        ],
+        "gloss": "Metin, görsel, ses veya kod gibi yeni içerikler üreten yapay zekâ.",
+        "id": "sns.sa.technology.generative_ai.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "E-postanın taslağını hazırlamak, bu hafta işin en kolay bölümüydü.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "เครื่องมือปัญญาประดิษฐ์เชิงสร้างสรรค์ช่วยร่างอีเมลให้ฉันภายในไม่กี่วินาที",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "Fitur AI generatif itu membantu saya menyusun draf surel dalam beberapa menit.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "A inteligência artificial generativa redactou o e-mail em poucos segundos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "생성형 인공지능이 이메일 초안을 작성해 주는 덕분에 업무가 훨씬 빨라졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "生成AIを使えば、メールの下書きをすぐに書いてもらえます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "be13961a0ab037c4fd82b1ecc42dcc7c2759f4c96143ff9cb5f8a36ac329745b": [
+      {
+        "forms": [
+          "Flutter",
+          "flutter"
+        ],
+        "id": "lex.sa.kids_stories.flutter",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Flutter",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_stories.flutter.alt",
+          "sns.sa.kids_stories.flutter.alt.ja",
+          "sns.sa.kids_stories.flutter.alt.ko",
+          "sns.sa.kids_stories.flutter.alt.pt_br",
+          "sns.sa.kids_stories.flutter.alt.id",
+          "sns.sa.kids_stories.flutter.alt.th",
+          "sns.sa.kids_stories.flutter.alt.tr"
+        ]
+      },
+      {
+        "definition": "To move your wings quickly but not very far. A fluttering bird stays in the same place.",
+        "exampleIds": [
+          "exm.sa.kids_stories.flutter.1.1"
+        ],
+        "gloss": "To move your wings quickly but not very far. A fluttering bird stays in the same place.",
+        "id": "sns.sa.kids_stories.flutter.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_stories.flutter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "鳥などが羽を速く動かしても大きく進まずに留まる動きを指す。",
+        "exampleIds": [
+          "exm.sa.kids_stories.flutter.1.1.ja"
+        ],
+        "gloss": "羽を速く小さく動かすこと。",
+        "id": "sns.sa.kids_stories.flutter.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_stories.flutter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "날개를 빠르고 짧게 움직이는 것으로, 이 동작을 반복하는 새는 한곳에 머무르는 것처럼 보일 수 있다.",
+        "exampleIds": [
+          "exm.sa.kids_stories.flutter.1.1.ko"
+        ],
+        "gloss": "날개를 빠르게 너덜거리게 움직이는 것이다.",
+        "id": "sns.sa.kids_stories.flutter.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_stories.flutter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Agitação rápida e contínua das asas, especialmente a de um pássaro que permanece quase no mesmo lugar. Como substantivo, designa o próprio movimento ou suas vibrações.",
+        "exampleIds": [
+          "exm.sa.kids_stories.flutter.1.1.pt_br"
+        ],
+        "gloss": "Flutter é o movimento rápido e leve das asas, sem grande deslocamento.",
+        "id": "sns.sa.kids_stories.flutter.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_stories.flutter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gerakan mengibaskan sayap dengan cepat namun hanya untuk waktu yang singkat. Burung yangolk لذلك dapat tetap berada di tempat yang sama.",
+        "exampleIds": [
+          "exm.sa.kids_stories.flutter.1.1.id"
+        ],
+        "gloss": "Gerakan sayap yang cepat tetapi tidak jauh.",
+        "id": "sns.sa.kids_stories.flutter.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_stories.flutter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การเคลื่อนไหวของปีกอย่างรวดเร็วและสั่นสะเทือน โดยมักไม่เปลี่ยนตำแหน่งมากนัก เช่น เมื่อนกบินอยู่กับที่เดิม",
+        "exampleIds": [
+          "exm.sa.kids_stories.flutter.1.1.th"
+        ],
+        "gloss": "การกระพือปีกอย่างรวดเร็วแต่ไม่ไกล",
+        "id": "sns.sa.kids_stories.flutter.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_stories.flutter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kanatları hızla, kısa mesafeler içinde sallamak. Böyle sallanan bir kuş yerinde kalır veya yavaşça ilerler.",
+        "exampleIds": [
+          "exm.sa.kids_stories.flutter.1.1.tr"
+        ],
+        "gloss": "Kanatlarını hızla, ama çok uzağa gitmeden sallamak.",
+        "id": "sns.sa.kids_stories.flutter.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_stories.flutter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_stories.flutter.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren fluttered on the branch until her wings ached.",
+        "translation": "Pip'in kanatları ağrıyana kadar dala konmadan sallandı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_stories.flutter.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren fluttered on the branch until her wings ached.",
+        "translation": "นกกระพือปีกอยู่บนกิ่งจนปีกเกือบเจ็บแสบ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_stories.flutter.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren fluttered on the branch until her wings ached.",
+        "translation": "Gerakan sayap burung itu terus berlanjut hingga sayapnya terasa lelah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_stories.flutter.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren fluttered on the branch until her wings ached.",
+        "translation": "O flutter das asas do beija-flor era rápido e delicado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_stories.flutter.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren fluttered on the branch until her wings ached.",
+        "translation": "작은 새가 나뭇가지 위에서 날개를 빠르게 흔들다가 다리가 아파했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_stories.flutter.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren fluttered on the branch until her wings ached.",
+        "translation": "小鳥は枝の上で羽ばたき，直到には翼が痛んだ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_stories.flutter.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Wren fluttered on the branch until her wings ached.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "be3b6ccd25ac7a326d23d1f472306a76d7c42d6d18f1d8fbf8b7aa8c03300d7a": [
+      {
+        "forms": [
+          "generational pressure",
+          "bc_generational_pressure"
+        ],
+        "id": "lex.sa.social.bc_generational_pressure",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "generational pressure",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.bc_generational_pressure.alt",
+          "sns.sa.social.bc_generational_pressure.alt.ja",
+          "sns.sa.social.bc_generational_pressure.alt.ko",
+          "sns.sa.social.bc_generational_pressure.alt.id",
+          "sns.sa.social.bc_generational_pressure.alt.th",
+          "sns.sa.social.bc_generational_pressure.alt.tr",
+          "sns.sa.social.bc_generational_pressure.alt.pt_br"
+        ]
+      },
+      {
+        "definition": "An expectation that one generation passes to the next about when life should happen.",
+        "exampleIds": [
+          "exm.sa.social.bc_generational_pressure.1.1"
+        ],
+        "gloss": "An expectation that one generation passes to the next about when life should happen.",
+        "id": "sns.sa.social.bc_generational_pressure.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.bc_generational_pressure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある世代が次の世代に、「この年龄essimistic此时までにすべきだ」という lifesの順序や時期をisséeとして伝えるもの。",
+        "exampleIds": [
+          "exm.sa.social.bc_generational_pressure.1.1.ja"
+        ],
+        "gloss": "世代が受け継ぐ、人生Timingに関する期待や圧力。",
+        "id": "sns.sa.social.bc_generational_pressure.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.bc_generational_pressure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "결혼이나 출산처럼 인생의 주요 일이 언제 일어나야 한다고 보는 기대를 가리킨다. 반드시 명령처럼 표현되는 것은 아니며 관찰이나 조언처럼 들릴 때가 많다.",
+        "exampleIds": [
+          "exm.sa.social.bc_generational_pressure.1.1.ko"
+        ],
+        "gloss": "한 세대에서 다음 세대로 넘어오는 인생 시기에 대한 기대.",
+        "id": "sns.sa.social.bc_generational_pressure.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.bc_generational_pressure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tekanan antargenerasi adalah ekspektasi keluarga atau masyarakat tentang kapanEVENT?",
+        "exampleIds": [
+          "exm.sa.social.bc_generational_pressure.1.1.id"
+        ],
+        "gloss": "Harapan yang diteruskan dari satu generasi ke generasi berikutnya tentang waktu yang tepat dalam hidup.",
+        "id": "sns.sa.social.bc_generational_pressure.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.bc_generational_pressure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แรงกดดันทางสังคมที่รุ่นก่อนส่งต่อกันมา เช่น ความคาดหมายว่าควรสมรสหรือมีบุตรเมื่อใด ความคาดหมายนี้อาจฟังดูเป็นคำแนะนำธรรมดา แต่จริง ๆ แล้วมีอิทธิพลต่อการตัดสินใจ",
+        "exampleIds": [
+          "exm.sa.social.bc_generational_pressure.1.1.th"
+        ],
+        "gloss": "ความคาดหมายของรุ่นที่ส่งต่อกันมาเกี่ยวกับเวลาที่ควรเกิดเหตุการณ์ต่าง ๆ ในชีวิต",
+        "id": "sns.sa.social.bc_generational_pressure.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.bc_generational_pressure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kuşak baskısı, aile veya toplumun bir kuşaktan sonrakine aktardığı zamanlamayı beklentisidir. Bu beklenti çoğu zaman açık bir emirden çok, “doğru zaman” olduğuna ilişkin bir gözlem gibi ortaya çıkar.",
+        "exampleIds": [
+          "exm.sa.social.bc_generational_pressure.1.1.tr"
+        ],
+        "gloss": "Bir kuşaktan sonrakine, hayatın ne zaman yaşanması gerektiğine dair aktarılan beklenti.",
+        "id": "sns.sa.social.bc_generational_pressure.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.bc_generational_pressure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uma expectativa que uma geração transmite à seguinte sobre quando a vida deveria acontecer, como casar ou ter filhos. Costuma aparecer como comentário ou cobrança implícita, raramente como ordem.",
+        "exampleIds": [
+          "exm.sa.social.bc_generational_pressure.1.1.pt_br"
+        ],
+        "gloss": "Uma expectativa que uma geração transmite à seguinte sobre quando a vida deveria acontecer.",
+        "id": "sns.sa.social.bc_generational_pressure.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.bc_generational_pressure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.bc_generational_pressure.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A pressão geracional raramente soa como uma ordem; soa como uma observação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.bc_generational_pressure.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kuşak baskısı çoğu zaman emir gibi değil, bir gözlem gibi hissedilir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.bc_generational_pressure.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอรู้สึกถึงแรงกดดันของรุ่นที่คาดว่าควรแต่งงานก่อนอายุสามสิบ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.bc_generational_pressure.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tekanan antargenerasi jarang terdengar seperti perintah; lebih sering terdengar seperti pengamatan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.bc_generational_pressure.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "결혼과 출산 시기에 대한 세대 압력은 가족의 말처럼 들리기도 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.bc_generational_pressure.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "世代間の圧力は、命令というよりも「そろそろこの年齢だ」という観察として現れることが多い。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.bc_generational_pressure.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Generational pressure rarely sounds like a command; it sounds like an observation.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "be5ea68a25480339fcead9d96eb34155d8636af417b1855da21c8f6f64c52552": [
+      {
+        "forms": [
+          "Earth wire (ground wire)",
+          "wh_earth_wire"
+        ],
+        "id": "lex.sa.daily_skills.wh_earth_wire",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Earth wire (ground wire)",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.wh_earth_wire.alt",
+          "sns.sa.daily_skills.wh_earth_wire.alt.ja",
+          "sns.sa.daily_skills.wh_earth_wire.alt.ko",
+          "sns.sa.daily_skills.wh_earth_wire.alt.pt_br",
+          "sns.sa.daily_skills.wh_earth_wire.alt.id",
+          "sns.sa.daily_skills.wh_earth_wire.alt.th",
+          "sns.sa.daily_skills.wh_earth_wire.alt.tr"
+        ]
+      },
+      {
+        "definition": "The green-and-yellow conductor that ties the metal case of an appliance to the earth bar in the board.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_earth_wire.1.1"
+        ],
+        "gloss": "The green-and-yellow conductor that ties the metal case of an appliance to the earth bar in the board.",
+        "id": "sns.sa.daily_skills.wh_earth_wire.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.wh_earth_wire",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "電気機器の金属筐体などを、分電盤のアース端子またはアース棒につなぐ黄緑色の導体。感電を防ぐために設ける。",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_earth_wire.1.1.ja"
+        ],
+        "gloss": "機器の金属筐体とアース端子をつなぐ黄緑色の導体。",
+        "id": "sns.sa.daily_skills.wh_earth_wire.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.wh_earth_wire",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "가전 기기의 금속 외함을 배전반의 접지 단자에 연결하는 녹색·노란색 도체이다. 누전이나 고장 시 전류를 접지 쪽으로 흘려 감전 위험을 줄인다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_earth_wire.1.1.ko"
+        ],
+        "gloss": "가전 기기의 금속 외함을 배전반의 접지 단자에 연결하는 녹색·노란색 전선.",
+        "id": "sns.sa.daily_skills.wh_earth_wire.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.wh_earth_wire",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Condutor de aterramento, normalmente verde e amarelo, que conecta a carcaça metálica de um aparelho à barra de terra do quadro elétrico.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_earth_wire.1.1.pt_br"
+        ],
+        "gloss": "Condutor verde e amarelo que conecta a carcaça metálica do aparelho à barra de terra do quadro.",
+        "id": "sns.sa.daily_skills.wh_earth_wire.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.wh_earth_wire",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Konduktor hijau-kuning yang menghubungkan selubung logam appliances dengan bilah tanah pada papan listrik untuk membantu mencegah sengatan listrik.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_earth_wire.1.1.id"
+        ],
+        "gloss": "Konduktor hijau-kuning yang menghubungkan selubung logam appliances dengan bilah tanah.",
+        "id": "sns.sa.daily_skills.wh_earth_wire.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.wh_earth_wire",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ตัวนำไฟฟ้าสีเขียวและเหลืองที่เชื่อมเปลือกโลหะของเครื่องใช้ไฟกับแท่งสายดินบนแผงไฟฟ้า เพื่อป้องกันไฟฟ้าช็อต",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_earth_wire.1.1.th"
+        ],
+        "gloss": "สายสีเขียวและเหลืองที่ต่อเปลือกโลหะของเครื่องใช้ไฟกับแท่งสายดิน",
+        "id": "sns.sa.daily_skills.wh_earth_wire.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.wh_earth_wire",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir cihazın metal kısmını elektrik panosundaki toprak barına bağlayan, elektrik kaçağına karşı koruma sağlayan iletken.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_earth_wire.1.1.tr"
+        ],
+        "gloss": "Cihazın metal gövdesini toprak barına bağlayan sarı-yeşil iletken.",
+        "id": "sns.sa.daily_skills.wh_earth_wire.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.wh_earth_wire",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_earth_wire.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Son renovasyonda matkap toprak kablosunu kesti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_earth_wire.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "สายดินถูกสว่านเจาะเข้าไปในระหว่างการปรับปรุงครั้งล่าสุด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_earth_wire.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kabel tanah terpotong oleh bor saat renovasi terakhir.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_earth_wire.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O fio terra foi cortado por uma broca durante a última reforma.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_earth_wire.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "지난 인테리어 공사 중 드릴이 접지선을 끊었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_earth_wire.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "前回の改修でドリルが earth wireを切断してしまった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_earth_wire.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The earth wire was cut by a drill during the last renovation.",
+        "translation": "Dây tiếp đất đã bị mũi khoan cắt đứt trong lần sửa chữa gần đây nhất.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "be623853c8caad2e3bca1207899471bd4552d135183f1c28150eb2272e7c4d39": [
+      {
+        "forms": [
+          "current",
+          "currents"
+        ],
+        "id": "lex.sa.en.current.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "current",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.current.noun.us",
+          "prn.sa.en.current.noun.gb"
+        ],
+        "senseIds": [
+          "sns.sa.en.current.noun.elec",
+          "sns.sa.en.current.noun.now"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.audio.equals",
+        "id": "prn.sa.en.current.noun.us",
+        "ipa": "/ˈkʌrənt/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.current.noun.gb",
+        "ipa": "/ˈkʌrənt/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Dòng hạt mang điện qua mạch; đơn vị SI là ampere.",
+        "domain": [
+          "electrical"
+        ],
+        "exampleIds": [
+          "exm.sa.en.current.noun.elec.01",
+          "exm.sa.en.current.noun.elec.02",
+          "exm.sa.en.current-noun.more.01",
+          "exm.sa.en.current-noun.more.02"
+        ],
+        "gloss": "dòng điện",
+        "id": "sns.sa.en.current.noun.elec",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.current.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.diagram.graph",
+          "res.sa.link.voltage.wiki",
+          "res.sa.img.current-noun",
+          "res.sa.aud.current-noun",
+          "res.sa.lnk.current-noun",
+          "res.sa.vid.current-noun"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "Điều đang đúng ở thời điểm nói.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.current.noun.now.01",
+          "exm.sa.en.current-noun.more.01",
+          "exm.sa.en.current-noun.more.02"
+        ],
+        "gloss": "hiện trạng; giá trị hiện tại",
+        "id": "sns.sa.en.current.noun.now",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.current.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.current-noun",
+          "res.sa.aud.current-noun",
+          "res.sa.lnk.current-noun",
+          "res.sa.vid.current-noun"
+        ],
+        "revision": 5
+      },
+      {
+        "id": "exm.sa.en.current.noun.now.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The current value of x is 3.",
+        "translation": "Giá trị hiện tại của x là 3.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.current.noun.elec.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The current through the resistor is 2 A.",
+        "translation": "Dòng điện qua điện trở là 2 A.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.current.noun.elec.02",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Direct current does not reverse direction.",
+        "translation": "Dòng một chiều không đổi chiều.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.diagram.graph",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://196130c3fc107cfda2dbec1f99fb698e687b75c451ad656983c0d54774226396",
+            "mime": "image/png"
+          }
+        ],
+        "title": "Coordinate graph",
+        "type": "image"
+      },
+      {
+        "id": "res.sa.link.voltage.wiki",
+        "kind": "resource",
+        "offlinePolicy": "never",
+        "sources": [
+          {
+            "kind": "remote",
+            "locator": "https://en.wikipedia.org/wiki/Voltage",
+            "mime": "text/html"
+          }
+        ],
+        "title": "Wikipedia · Voltage",
+        "type": "link"
+      },
+      {
+        "fromId": "sns.sa.en.current.noun.elec",
+        "id": "lnk.sa.en.current.to.voltage",
+        "kind": "relation",
+        "toId": "sns.sa.en.voltage.noun.elec",
+        "type": "related_to"
+      },
+      {
+        "id": "res.sa.audio.equals",
+        "kind": "resource",
+        "offlinePolicy": "required",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://7a2a982b92f9ce5ded4f193977294a990425e32f7f6f6864cc1726e8f4f544a6",
+            "mime": "audio/wav"
+          }
+        ],
+        "title": "equals en-US",
+        "type": "audio"
+      }
+    ],
+    "be6b5f065c769edd8a1bba3b7e2fe09786d1e77e15f0ebc37c531a6a51ce471d": [
+      {
+        "forms": [
+          "Hazard warning lights",
+          "hazard_warning"
+        ],
+        "id": "lex.sa.en.hazard.warning",
+        "kind": "lexeme",
+        "lemma": "Hazard warning lights",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.hazard.warning.alt"
+        ]
+      },
+      {
+        "definition": "All four indicators blink together. The car is stationary or unusual. Severity level 1 — Information / Status. Action: Nothing to do while the lights are on. Switch them off once the car moves again..",
+        "gloss": "All four indicators blink together. The car is stationary or unusual.",
+        "id": "sns.sa.en.hazard.warning.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.hazard.warning",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "be8dff00b0d468b29d804886729be5b430163ad625b1b621d943c2f80005281a": [
+      {
+        "forms": [
+          "need",
+          "needs"
+        ],
+        "id": "lex.sa.en.need.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "need",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.need.verb.1",
+          "sns.sa.en.need-verb.alt"
+        ]
+      },
+      {
+        "definition": "Đòi hỏi để có được.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "cần",
+        "id": "sns.sa.vi.need.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.need.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To have to have something.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "To require something.",
+        "id": "sns.sa.en.need-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.need.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "bec1687971e36be51a298f172aa898ab48a465012ae40e6292825c432d7d82b8": [
+      {
+        "forms": [
+          "each"
+        ],
+        "id": "lex.sa.en.each.determiner",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "each",
+        "pos": "determiner",
+        "senseIds": [
+          "sns.sa.vi.each.determiner.1",
+          "sns.sa.en.each-determiner.alt"
+        ]
+      },
+      {
+        "definition": "Xét riêng từng thành phần trong một nhóm.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "mỗi",
+        "id": "sns.sa.vi.each.determiner.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.each.determiner",
+        "pos": "determiner",
+        "revision": 1
+      },
+      {
+        "definition": "Taken one by one within a group.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "Every member of a group considered separately.",
+        "id": "sns.sa.en.each-determiner.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.each.determiner",
+        "pos": "determiner",
+        "revision": 1
+      }
+    ],
+    "beec71e07873fa11a1115bb4bcbfa2f17df4ae7cb108c0fa8b7e90840395e18a": [
+      {
+        "forms": [
+          "Wild animal",
+          "wild_animal"
+        ],
+        "id": "lex.sa.kids_daily.wild_animal",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Wild animal",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_daily.wild_animal.alt",
+          "sns.sa.kids_daily.wild_animal.alt.ja",
+          "sns.sa.kids_daily.wild_animal.alt.ko",
+          "sns.sa.kids_daily.wild_animal.alt.pt_br",
+          "sns.sa.kids_daily.wild_animal.alt.id",
+          "sns.sa.kids_daily.wild_animal.alt.th",
+          "sns.sa.kids_daily.wild_animal.alt.tr"
+        ]
+      },
+      {
+        "definition": "An animal that lives on its own in nature, not with people.",
+        "exampleIds": [
+          "exm.sa.kids_daily.wild_animal.1.1"
+        ],
+        "gloss": "An animal that lives on its own in nature, not with people.",
+        "id": "sns.sa.kids_daily.wild_animal.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_daily.wild_animal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "人に飼われずに、自然環境の中で生きる動物。動物園や牧場でも見られるが、飼い動物とは区別する。",
+        "exampleIds": [
+          "exm.sa.kids_daily.wild_animal.1.1.ja"
+        ],
+        "gloss": "自然の中で Lives? 生きる野生動物。",
+        "id": "sns.sa.kids_daily.wild_animal.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_daily.wild_animal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사육이나 사람의 관리 없이 야생에서 살아가는 동물을 말한다. 포유류, 조류, 파충류, 양서류 등이 여기에 속한다.",
+        "exampleIds": [
+          "exm.sa.kids_daily.wild_animal.1.1.ko"
+        ],
+        "gloss": "사람이 돌보지 않고 자연에서 혼자 사는 동물.",
+        "id": "sns.sa.kids_daily.wild_animal.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_daily.wild_animal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Animal que não foi domesticado e vive em seu próprio habitat. Pode ser perigoso, por isso devemos manter distância.",
+        "exampleIds": [
+          "exm.sa.kids_daily.wild_animal.1.1.pt_br"
+        ],
+        "gloss": "Animal que vive livre na natureza, longe dos seres humanos.",
+        "id": "sns.sa.kids_daily.wild_animal.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_daily.wild_animal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hewan yang hidup bebas di alam dan tidak dipelihara atau dijaga oleh manusia. Hewan seperti ini biasanya harus approached dengan hati-hati.",
+        "exampleIds": [
+          "exm.sa.kids_daily.wild_animal.1.1.id"
+        ],
+        "gloss": "Hewan yang hidup sendiri di alam, bukan bersama manusia.",
+        "id": "sns.sa.kids_daily.wild_animal.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_daily.wild_animal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สัตว์ที่ดำรงชีวิตในธรรมชาติและไม่ได้อยู่กับมนุษย์ เช่น เสือ หมูป่า หรือกระเมียร",
+        "exampleIds": [
+          "exm.sa.kids_daily.wild_animal.1.1.th"
+        ],
+        "gloss": "สัตว์ที่อาศัยอยู่ตามธรรมชาติโดยไม่อยู่กับมนุษย์",
+        "id": "sns.sa.kids_daily.wild_animal.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_daily.wild_animal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Evcil olmayan ve doğal ortamında kendi başına yaşayan hayvan. Kaplan ve geyik gibi yabani hayvanlardan uzak durulmalıdır.",
+        "exampleIds": [
+          "exm.sa.kids_daily.wild_animal.1.1.tr"
+        ],
+        "gloss": "Doğada, insanlardan bağımsız yaşayan hayvan.",
+        "id": "sns.sa.kids_daily.wild_animal.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_daily.wild_animal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_daily.wild_animal.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A tiger is a wild animal. We must keep far away from it.",
+        "translation": "Kaplan bir yabani hayvandır; ondan uzak durmalıyız.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_daily.wild_animal.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A tiger is a wild animal. We must keep far away from it.",
+        "translation": "เสือเป็นสัตว์ป่า เราต้องอยู่ห่างจากมัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_daily.wild_animal.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A tiger is a wild animal. We must keep far away from it.",
+        "translation": "Harimau adalah—hewan liar yang harus kita mendekatinya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_daily.wild_animal.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A tiger is a wild animal. We must keep far away from it.",
+        "translation": "Um tigre é um animal selvagem. Devemos manter distância dele.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_daily.wild_animal.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A tiger is a wild animal. We must keep far away from it.",
+        "translation": "호랑이는 야생동물이므로 가까이 가지 않아야 합니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_daily.wild_animal.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A tiger is a wild animal. We must keep far away from it.",
+        "translation": "トラは野生動物なので、遠くから見ている。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_daily.wild_animal.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A tiger is a wild animal. We must keep far away from it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

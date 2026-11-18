@@ -1,0 +1,253 @@
+{
+  "records": {
+    "bf2e3336166e4435c8992c9d085eba50e26f3b91e0da55c9357563cb8be22336": [
+      {
+        "forms": [
+          "Airflow direction",
+          "airflow_direction"
+        ],
+        "id": "lex.sa.en.airflow.direction",
+        "kind": "lexeme",
+        "lemma": "Airflow direction",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.airflow.direction.alt"
+        ]
+      },
+      {
+        "definition": "The ventilation is sending the air to the face, the feet, or both. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The ventilation is sending the air to the face, the feet, or both.",
+        "id": "sns.sa.en.airflow.direction.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.airflow.direction",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "bfc5a6b45b6a16128fbf94195a8b6895883b709e9ab0bf0bc5dc5a14fa18cf2f": [
+      {
+        "forms": [
+          "observation",
+          "observations"
+        ],
+        "id": "lex.sa.en.observation.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "observation",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.observation.noun.1",
+          "sns.sa.en.observation-noun.alt"
+        ]
+      },
+      {
+        "definition": "Giá trị thu được khi quan sát một hiện tượng.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "số đo",
+        "id": "sns.sa.vi.observation.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.observation.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A recorded value from watching a phenomenon.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "A value recorded while a phenomenon is watched.",
+        "id": "sns.sa.en.observation-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.observation.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "bfd5a8ed7357ec4de9597c2858902db1a0e3050438fcb5f2b37c1de0e4496b49": [
+      {
+        "forms": [
+          "Atmosphere",
+          "atmosphere"
+        ],
+        "id": "lex.sa.kids_science.atmosphere",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Atmosphere",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.atmosphere.alt",
+          "sns.sa.kids_science.atmosphere.alt.ja",
+          "sns.sa.kids_science.atmosphere.alt.ko",
+          "sns.sa.kids_science.atmosphere.alt.pt_br",
+          "sns.sa.kids_science.atmosphere.alt.id",
+          "sns.sa.kids_science.atmosphere.alt.th",
+          "sns.sa.kids_science.atmosphere.alt.tr"
+        ]
+      },
+      {
+        "definition": "The layer of air around Earth. It is thin, but it scatters the light and keeps us warm.",
+        "exampleIds": [
+          "exm.sa.kids_science.atmosphere.1.1"
+        ],
+        "gloss": "The layer of air around Earth. It is thin, but it scatters the light and keeps us warm.",
+        "id": "sns.sa.kids_science.atmosphere.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.atmosphere",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "地球の周囲を囲む空気の層。太陽の光を散乱させ，熱が宇宙へ逃げるのを抑えて温度を保つ。",
+        "exampleIds": [
+          "exm.sa.kids_science.atmosphere.1.1.ja"
+        ],
+        "gloss": "地球を包む空気の層。薄いが，光を散乱させ，私たちを暖かく保つ。",
+        "id": "sns.sa.kids_science.atmosphere.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.atmosphere",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "지구 표면과 우주 사이에 존재하는 공기의 층으로, 지구를 보호하고 기온을 유지하는 역할도 한다. 높이에 따라 공기의 밀도와 성분이 달라진다.",
+        "exampleIds": [
+          "exm.sa.kids_science.atmosphere.1.1.ko"
+        ],
+        "gloss": "지구 표면을 둘러싸고 있는 공기의 층.",
+        "id": "sns.sa.kids_science.atmosphere.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.atmosphere",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Camada de ar que circunda a Terra e outros planetas; além de permitir a respiração, protege a superfície e influencia o clima e a luz do Sol.",
+        "exampleIds": [
+          "exm.sa.kids_science.atmosphere.1.1.pt_br"
+        ],
+        "gloss": "Camada de gases que envolve um planeta.",
+        "id": "sns.sa.kids_science.atmosphere.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.atmosphere",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Lapisan gas yang mengelilingi Bumi dan menyimpan kehidupan. Lapisan ini menghamburkan cahaya, membantu menjaga panas permukaan Bumi, dan membuat udara untuk bernapas tersedia.",
+        "exampleIds": [
+          "exm.sa.kids_science.atmosphere.1.1.id"
+        ],
+        "gloss": "Lapisan udara yang melingkari Bumi.",
+        "id": "sns.sa.kids_science.atmosphere.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.atmosphere",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ชั้นของแก๊สและอนุภาคที่ห่อรอบดาวเคราะห์โลก แม้บางเบาก็ช่วยกระจายแสงและเก็บความร้อนไว้ให้โลก",
+        "exampleIds": [
+          "exm.sa.kids_science.atmosphere.1.1.th"
+        ],
+        "gloss": "ชั้นอากาศที่ห่อรอบดาวเคราะห์โลก",
+        "id": "sns.sa.kids_science.atmosphere.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.atmosphere",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dünya ile uzay arasında bulunan ve gezegeni çevreleyen gaz tabakasıdır. Işığı saçar, Dünya'yı ısıtmaya ve koruyucu bir örtü oluşturmaya yardımcı olur.",
+        "exampleIds": [
+          "exm.sa.kids_science.atmosphere.1.1.tr"
+        ],
+        "gloss": "Dünya'nın çevresini saran hava tabakası.",
+        "id": "sns.sa.kids_science.atmosphere.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.atmosphere",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.atmosphere.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The atmosphere is the air around us, going up higher and higher.",
+        "translation": "Atmosfer, bize gökyüzünün mavi görünmesini sağlayan ışığı saçar.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.atmosphere.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The atmosphere is the air around us, going up higher and higher.",
+        "translation": "ชั้นอากาศห่อรอบโลกและทำให้เรารู้สึกว่าอากาศอบอุ่น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.atmosphere.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The atmosphere is the air around us, going up higher and higher.",
+        "translation": "Atmosfer adalah lapisan udara di sekitar kita yang membentang jauh ke atas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.atmosphere.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The atmosphere is the air around us, going up higher and higher.",
+        "translation": "A atmosfera terrestre se estende por milhares de quilômetros acima da superfície.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.atmosphere.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The atmosphere is the air around us, going up higher and higher.",
+        "translation": "대기는 우리 주변의 공기층으로, 위로 갈수록 높아진다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.atmosphere.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The atmosphere is the air around us, going up higher and higher.",
+        "translation": "大気とは，.ft場所から上へ高さとともに広がる空気のことである。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.atmosphere.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The atmosphere is the air around us, going up higher and higher.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

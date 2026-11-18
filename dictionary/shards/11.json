@@ -1,0 +1,638 @@
+{
+  "records": {
+    "1137b15c7797aa84ec24e8dca5cb966dd016624374a09cb2ecaa9ac3229f5ccc": [
+      {
+        "forms": [
+          "many"
+        ],
+        "id": "lex.sa.en.many.determiner",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "many",
+        "pos": "determiner",
+        "senseIds": [
+          "sns.sa.vi.many.determiner.1",
+          "sns.sa.en.many-determiner.alt"
+        ]
+      },
+      {
+        "definition": "Số lượng lớn.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.63"
+        ],
+        "gloss": "nhiều",
+        "id": "sns.sa.vi.many.determiner.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.many.determiner",
+        "pos": "determiner",
+        "revision": 1
+      },
+      {
+        "definition": "A great number of things.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.63"
+        ],
+        "gloss": "A large number of.",
+        "id": "sns.sa.en.many-determiner.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.many.determiner",
+        "pos": "determiner",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.63",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Many files are a gallery.",
+        "translation": "Nhiều tệp tạo thành một thư viện ảnh.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "113f96565462853b170b4ab18dca6efab0b28e651a5520dcc133d2c81bf78117": [
+      {
+        "forms": [
+          "Sleep onset latency",
+          "sleep_onset_latency"
+        ],
+        "id": "lex.sa.health.sleep_onset_latency",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Sleep onset latency",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.sleep_onset_latency.alt",
+          "sns.sa.health.sleep_onset_latency.alt.ja",
+          "sns.sa.health.sleep_onset_latency.alt.ko",
+          "sns.sa.health.sleep_onset_latency.alt.pt_br",
+          "sns.sa.health.sleep_onset_latency.alt.id",
+          "sns.sa.health.sleep_onset_latency.alt.th",
+          "sns.sa.health.sleep_onset_latency.alt.tr"
+        ]
+      },
+      {
+        "definition": "The time between getting into bed and falling asleep. Under about twenty minutes is normal.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1"
+        ],
+        "gloss": "The time between getting into bed and falling asleep. Under about twenty minutes is normal.",
+        "id": "sns.sa.health.sleep_onset_latency.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "横になった時刻から実際に眠り始めるまでの時間を指す。一般には約二十分以内が目安で、それ以上の場合は不眠の原因になり得る。",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.ja"
+        ],
+        "gloss": "ベッドに入ってから眠りに落ちるまでの時間。",
+        "id": "sns.sa.health.sleep_onset_latency.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "침대에 들어간 순간부터 실제로 잠드는 때까지 걸리는 시간이다. 보통 20분 안팎이면 정상 범위로 본다.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.ko"
+        ],
+        "gloss": "침대에 든 뒤 잠들기까지 걸리는 시간.",
+        "id": "sns.sa.health.sleep_onset_latency.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o intervalo entre deitar-se e começar a dormir. Em geral, até cerca de vinte minutos é considerado normal.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.pt_br"
+        ],
+        "gloss": "Tempo que uma pessoa leva para adormecer depois de se deitar.",
+        "id": "sns.sa.health.sleep_onset_latency.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Latensi tidur adalah selisih waktu antara masuk ke tempat tidur dan memulai tidur. Kurang dari sekitar dua puluh menit umumnya masih dianggap normal, meskipun batasnya berbeda-beda bagi setiap orang.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.id"
+        ],
+        "gloss": "Waktu sejak masuk ke tempat tidur hingga akhirnya tertidur.",
+        "id": "sns.sa.health.sleep_onset_latency.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ระยะเวลาระหว่างการเข้านอนกับการเริ่มหลับจริง โดยทั่วไปไม่ควรนานเกินประมาณยี่สิบนาที",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.th"
+        ],
+        "gloss": "เวลาที่ใช้ตั้งแต่เข้านอนจนหลับจริง",
+        "id": "sns.sa.health.sleep_onset_latency.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kişinin yatağa girdiği an ile uykuya düştüğü an arasında geçen süredir; yaklaşık yirmi dakikadan kısa olması normal kabul edilir.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.tr"
+        ],
+        "gloss": "Yatağa girdikten sonra uykuya dalma süresidir.",
+        "id": "sns.sa.health.sleep_onset_latency.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "Çoğu gece uykuya dalma gecikmem yaklaşık kırk dakika sürüyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "ระยะเวลาก่อนเข้าสู่การนอนหลับของฉันอยู่ที่ประมาณสี่สิบนาทีเกือบทุกคืน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "Latensi tidur saya sekitar empat puluh menit pada hampir setiap malam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "Minha latência de sono é de aproximadamente quarenta minutos na maioria das noites.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "대부분의 밤에 잠드는 데까지 약 40분이 걸립니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "最近，入眠潜時が四十分ほどあるので、受診を考えています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "115dc3606fbf8691fb69f2aefec86f2ecd302362a0502b3a9648bf2c4dc8290f": [
+      {
+        "forms": [
+          "fast",
+          "faster"
+        ],
+        "id": "lex.sa.en.fast.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "fast",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.fast.adjective.1",
+          "sns.sa.en.fast-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Với tốc độ lớn; nhanh hơn.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "nhanh",
+        "id": "sns.sa.vi.fast.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.fast.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Moving or done with great speed.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "At a high speed; quicker.",
+        "id": "sns.sa.en.fast-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.fast.adjective",
+        "pos": "adjective",
+        "revision": 1
+      }
+    ],
+    "11d44dc85b9821c678845e9cd100a59c6878336e86f64f9c291d98c0f1629730": [
+      {
+        "forms": [
+          "A lie",
+          "lie"
+        ],
+        "id": "lex.sa.kids_stories.lie",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "A lie",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_stories.lie.alt",
+          "sns.sa.kids_stories.lie.alt.ja",
+          "sns.sa.kids_stories.lie.alt.ko",
+          "sns.sa.kids_stories.lie.alt.pt_br",
+          "sns.sa.kids_stories.lie.alt.id",
+          "sns.sa.kids_stories.lie.alt.th",
+          "sns.sa.kids_stories.lie.alt.tr"
+        ]
+      },
+      {
+        "definition": "Saying something you know is not true, on purpose, to make things easier for yourself.",
+        "exampleIds": [
+          "exm.sa.kids_stories.lie.1.1"
+        ],
+        "gloss": "Saying something you know is not true, on purpose, to make things easier for yourself.",
+        "id": "sns.sa.kids_stories.lie.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_stories.lie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "真実ではないと分かっていて、都合がよくなるように故意に言うことば。悪prisingExpected simpleの事実と異なる説明も嘘になる。",
+        "exampleIds": [
+          "exm.sa.kids_stories.lie.1.1.ja"
+        ],
+        "gloss": "自分では真実でないと分かっていることを、故意に言うこと。",
+        "id": "sns.sa.kids_stories.lie.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_stories.lie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자신이 참이 아니라고 아는 사실을 일부러 말하는 행위이다. 단순한 실수나 잘못된 기억과는 다르다.",
+        "exampleIds": [
+          "exm.sa.kids_stories.lie.1.1.ko"
+        ],
+        "gloss": "자신이 알고 있는 거짓을 일부러 말하는 것이다.",
+        "id": "sns.sa.kids_stories.lie.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_stories.lie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Informação que alguém sabe ser falsa e conta intencionalmente, geralmente para obter vantagem ou evitar problemas.",
+        "exampleIds": [
+          "exm.sa.kids_stories.lie.1.1.pt_br"
+        ],
+        "gloss": "Afirmação falsa dita de propósito.",
+        "id": "sns.sa.kids_stories.lie.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_stories.lie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pernyataan yang sengaja disampaikan padahal pelakunya mengetahui bahwayataan itu tidak benar, biasanya untuk menguntungkan dirinya sendiri.",
+        "exampleIds": [
+          "exm.sa.kids_stories.lie.1.1.id"
+        ],
+        "gloss": "Ucapan yang disengaja dan diketahui tidak benar.",
+        "id": "sns.sa.kids_stories.lie.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_stories.lie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การพูดสิ่งที่ตนรู้ว่าไม่จริงโดยตั้งใจ เพื่อให้ตัวเองได้ประโยชน์หรือหลีกเลี่ยงความยากลำบาก ต่างจากการพูดผิดโดยไม่ตั้งใจ",
+        "exampleIds": [
+          "exm.sa.kids_stories.lie.1.1.th"
+        ],
+        "gloss": "คำโกหกที่พูดออกมาโดยตั้งใจ",
+        "id": "sns.sa.kids_stories.lie.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_stories.lie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yalan; bir kişinin doğru olmadığını bildiği hâlde kendini haklı çıkarmak veya durumu kolaylaştırmak için bilerek söylediği söz.",
+        "exampleIds": [
+          "exm.sa.kids_stories.lie.1.1.tr"
+        ],
+        "gloss": "Doğru olmadığını bildiği hâlde bilerek söylenen söz.",
+        "id": "sns.sa.kids_stories.lie.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_stories.lie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_stories.lie.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He could have said the wind broke the bowl, but that would be a lie.",
+        "translation": "Rüzgârın kâseyi kırdığını söyleyebilirdi, ama bu bir yalan olurdu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_stories.lie.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He could have said the wind broke the bowl, but that would be a lie.",
+        "translation": "เขาอาจพูดว่าลมทำชามแตก แต่นั่นเป็นคำโกหกเพราะเขารู้ว่าไม่ใช่ลม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_stories.lie.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He could have said the wind broke the bowl, but that would be a lie.",
+        "translation": "Dia bisa berkata angin memecahkan mangkuk itu, tetapi itu akan menjadi kebohongan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_stories.lie.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He could have said the wind broke the bowl, but that would be a lie.",
+        "translation": "Ele poderia ter dito que o vento quebrou a tigela, mas isso seria uma mentira.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_stories.lie.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He could have said the wind broke the bowl, but that would be a lie.",
+        "translation": "바람이 그릇을 깨뜨렸다고 말할 수도 있지만, 그것은 거짓말일 것이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_stories.lie.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He could have said the wind broke the bowl, but that would be a lie.",
+        "translation": "風で皿が割れたと言うこともできたが、それでは嘘になる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_stories.lie.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He could have said the wind broke the bowl, but that would be a lie.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "11dd02e56a3539b21162e4ca9a5c4db82aea90e956645b1e74bf1af0d149fcfd": [
+      {
+        "forms": [
+          "Recovery vehicle",
+          "recovery_vehicle"
+        ],
+        "id": "lex.sa.daily_skills.recovery_vehicle",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Recovery vehicle",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.recovery_vehicle.alt",
+          "sns.sa.daily_skills.recovery_vehicle.alt.ja",
+          "sns.sa.daily_skills.recovery_vehicle.alt.ko",
+          "sns.sa.daily_skills.recovery_vehicle.alt.pt_br",
+          "sns.sa.daily_skills.recovery_vehicle.alt.id",
+          "sns.sa.daily_skills.recovery_vehicle.alt.th",
+          "sns.sa.daily_skills.recovery_vehicle.alt.tr"
+        ]
+      },
+      {
+        "definition": "The van or truck sent to collect the car. Some can lift a car and some can only tow it on a wheel.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1"
+        ],
+        "gloss": "The van or truck sent to collect the car. Some can lift a car and some can only tow it on a wheel.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "故障した車 Prairie 回収するための車両で、車を持ち上げるタイプと、輪 onto 引いて搬送するタイプがある。",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.ja"
+        ],
+        "gloss": "故障した車を回収するバンやトラック。",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자동차를 들어 올리거나 바퀴째로 견인하는 트럭이나 승용차를 말한다. 어떤 차량은 들어 올리고, 어떤 차량은 견인만 할 수 있다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.ko"
+        ],
+        "gloss": "고장 난 자동차를 수거하거나 견인해 주는 차량.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É um veículo usado para recolher carros parados na via. Alguns içam o carro, enquanto outros o rebocam, levantando apenas uma das rodas.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.pt_br"
+        ],
+        "gloss": "Veículo enviado para buscar um carro após uma pane ou acidente.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Biasanya berupa mobil van atau truk; sebagian dapat mengangkat mobil, sedangkan sebagian hanya menariknya menggunakan pengait.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.id"
+        ],
+        "gloss": "Kendaraan yang datang menjemput mobil yang rusak.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "รถตู้หรือรถบรรทุกที่มาให้ความช่วยเหลือรถเสียทาง บางคันสามารถยกรถขึ้นได้ ขณะที่บางคันสามารถเพียงลากรถให้ไปต่อทาง",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.th"
+        ],
+        "gloss": "รถกู้ภัยที่มาให้ความช่วยเหลือรถเสียทาง",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Arıza yapan aracı almak için gönderilen van veya kamyon. Bazıları aracı kaldırabilir, bazıları yalnızca tekerleğinden çekebilir.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.tr"
+        ],
+        "gloss": "Arıza yapan bir aracı almak için gönderilen van veya kamyon.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "Kurtarma aracı arabayı kaldıracağı için bagajı boşaltmam gerekmiyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "รถกู้ภัยจะยกรถขึ้นได้ ผมจึงไม่ต้องถอดสิ่งของออกจากที่เก็บ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "Kendaraan penolong akan mengangkat mobil itu, jadi saya tidak perlu mengosongkan bagasi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "O veículo de reboque vai içar o carro, então não preciso esvaziar o porta-malas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "구조 차량이 자동차를 들어 올려 주므로 트렁크의 짐을 모두 꺼낼 필요가 없습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "回収車両は車を積み上げられるので、後部座席の荷物を抜く必要はありません。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

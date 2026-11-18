@@ -1,0 +1,115 @@
+{
+  "dependencies": [
+    "1462d43d88020cded6398afd8c2a22727e430a208916a334e70183c2d40bc9bc"
+  ],
+  "item": {
+    "addedAt": "2026-11-16T08:00:00Z",
+    "cover": "asset://1462d43d88020cded6398afd8c2a22727e430a208916a334e70183c2d40bc9bc",
+    "durationMin": 20,
+    "fieldId": "mind",
+    "id": "article_cyberchondria",
+    "media": {
+      "audio": [],
+      "cover": "asset://1462d43d88020cded6398afd8c2a22727e430a208916a334e70183c2d40bc9bc",
+      "gallery": [],
+      "images": [],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Define cyberchondria and health anxiety.",
+      "Explain why symptom searches tend to return scary results.",
+      "Describe the nocebo effect and how information creates symptoms.",
+      "Distinguish reliable medical sources from content farms.",
+      "Use a safe routine for looking up health information."
+    ],
+    "sections": [
+      {
+        "body": "Cyberchondria is the compulsive searching of symptoms online, driven by anxiety, which then increases the anxiety it was meant to calm. The name joins \"cyber\" with \"hypochondria\", and the pattern is similar: a harmless sensation — a headache, a racing heart, a tired afternoon — is interpreted as evidence of serious illness.\n\nThe internet did not invent health anxiety, but it industrialized it. A worried person at two in the morning once had to wait for morning to see a doctor. Now the consultation never closes, and it always has an answer. The problem is that the answer is assembled by a search engine whose ranking favors engagement, not accuracy.\n\nHealth anxiety is the engine of the loop. It makes the search feel urgent and the scary result feel true, and each search trains the brain that sensations must be investigated immediately.",
+        "examples": [
+          "A mild headache searched at midnight leads through three pages to a rare brain condition — and the headache, now paired with fear, feels worse."
+        ],
+        "heading": "The clinic that never closes",
+        "type": "definition"
+      },
+      {
+        "body": "Symptom searches have a structural bias toward catastrophe, and it is simple arithmetic. A headache is described online by millions of people, and almost all of them have something boring: dehydration, poor sleep, eye strain. But boring pages get few clicks and few links, so they rank low. The pages that rank high are the dramatic ones — the forums, the fundraising stories, the rare diseases.\n\nThe brain adds a second distortion. Rare but vivid examples are easy to remember, so after an hour of searching, the rare disease feels common. Psychologists call this the availability heuristic: the easier an example comes to mind, the more frequent it seems.\n\nA third force is new. AI assistants, asked about symptoms, tend to list possibilities rather than probabilities. A list that includes serious illness \"to be safe\" feeds anxiety even when the honest answer is \"this is almost certainly nothing, and a doctor can confirm it in five minutes\".",
+        "examples": [
+          "Search 'tired all the time' and the first page names eight diseases; the commonest cause, poor sleep, appears as item nine."
+        ],
+        "heading": "Why the search always says the worst",
+        "type": "prose"
+      },
+      {
+        "body": "Everyone knows the placebo effect: believing a treatment works helps it work. The nocebo effect is its dark twin. Believing that a pill causes side effects makes those side effects more likely. Believing that a symptom means illness makes the symptom feel stronger.\n\nInformation can act as a nocebo. Read a long list of side effects and you may start to feel them. Read that your twitching eyelid can signal a neurological disease and the twitch becomes impossible to ignore. The information did not create the illness — it created the attention that amplifies the sensation.\n\nThis is why reassurance by search never works. Each search delivers a short burst of relief followed by a new doubt, and the body keeps score of the fear. The symptom-information-fear loop tightens until the only exit is a real examination by a real doctor.",
+        "examples": [
+          "After reading about the flu's symptoms, she became sure she had each one, in order, by the end of the article."
+        ],
+        "heading": "The nocebo effect: when reading makes you sick",
+        "type": "prose"
+      },
+      {
+        "body": "These terms name the moving parts of the symptom-search loop.",
+        "heading": "The vocabulary of online health anxiety",
+        "terms": [
+          {
+            "example": "His cyberchondria meant three hours of symptom searching after every mild stomach ache.",
+            "gloss": "The compulsive online searching of symptoms, driven by anxiety, which increases the anxiety it was meant to relieve.",
+            "term": "Cyberchondria",
+            "termId": "cyberchondria"
+          },
+          {
+            "example": "Her health anxiety had her checking her pulse every hour and asking doctors for tests she did not need.",
+            "gloss": "Persistent worry about having or developing a serious illness, maintained by checking and reassurance-seeking.",
+            "term": "Health anxiety",
+            "termId": "health_anxiety"
+          },
+          {
+            "example": "The nocebo effect is why some patients feel dizzy after taking a sugar pill they were told causes dizziness.",
+            "gloss": "The worsening of symptoms or the appearance of side effects because a person expects them.",
+            "term": "Nocebo effect",
+            "termId": "nocebo_effect"
+          },
+          {
+            "example": "His self-diagnosis of a rare condition collapsed after one visit to a general practitioner.",
+            "gloss": "Concluding what illness one has without a medical examination, usually from online information.",
+            "term": "Self-diagnosis",
+            "termId": "self_diagnosis"
+          },
+          {
+            "example": "A national health service page written by doctors is a reliable source; a page selling a miracle cure is not.",
+            "gloss": "A medical source written or reviewed by qualified professionals, updated, and not selling the fear it describes.",
+            "term": "Reliable source",
+            "termId": "reliable_source"
+          },
+          {
+            "example": "The base rate of the disease is one in a million, but online it feels like one in ten.",
+            "gloss": "The actual frequency of a condition in the population, which is usually far lower than search results suggest.",
+            "term": "Base rate",
+            "termId": "base_rate"
+          }
+        ],
+        "type": "terminology"
+      },
+      {
+        "body": "A useful rule: if you have searched the same symptom more than twice, the search is no longer gathering information — it is feeding anxiety. At that point the most medically informed action is to stop searching and book an examination, or consciously decide to wait a week and watch.",
+        "calloutKind": "warning",
+        "heading": "When searching becomes the problem",
+        "type": "callout"
+      },
+      {
+        "body": "Medical information online is genuinely valuable — when it arrives in the right order. The safe routine looks like this. **Symptoms first go to a doctor, not a search engine**, if they are new, severe or persistent. **Search for understanding after a diagnosis, not before**: once a doctor says 'this is a common infection', reading about it is safe and useful. **Prefer sources that cite evidence over sources that sell certainty**: national health services, major hospitals and reviewed journals beat forums and miracle pages.\n\nAnd set limits in advance, because limits set during anxiety do not exist. Decide that one search session lasts ten minutes and ends with a note to self, not a new search. Anxiety hates a closed door, which is exactly why the door needs to close.",
+        "examples": [
+          "After her diagnosis, she read three well-reviewed articles about the condition and understood her treatment better than most patients."
+        ],
+        "heading": "A safe way to use medical information",
+        "type": "prose"
+      }
+    ],
+    "summary": "A headache searched online becomes a brain tumor within three clicks. This article explains cyberchondria: how self-diagnosis fuels health anxiety, why scary results rise to the top of search pages, how the nocebo effect turns information into symptoms, and how to use medical information without being used by it.",
+    "systemId": "mind_behavior",
+    "title": "Cyberchondria: When Every Symptom Becomes a Disease"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

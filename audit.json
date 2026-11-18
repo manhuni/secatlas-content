@@ -1,0 +1,847 @@
+{
+  "conflicts": [
+    {
+      "id": "panel_serving_size",
+      "issue": "duplicate-term-id",
+      "keptId": "serving_size",
+      "kind": "terms",
+      "pack": "knw.health.nutrition"
+    },
+    {
+      "id": "please",
+      "ignored": {
+        "fieldId": "kids_feelings",
+        "id": "please",
+        "lessonIds": [
+          "article_please_and_thank_you"
+        ],
+        "term": "Please"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_daily",
+        "id": "please",
+        "lessonIds": [
+          "article_asking_for_food"
+        ],
+        "term": "Please"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.feelings.thanks"
+    },
+    {
+      "id": "seed",
+      "ignored": {
+        "fieldId": "kids_food",
+        "id": "seed",
+        "lessonIds": [
+          "article_kids_food_fruits"
+        ],
+        "term": "Seed"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_adventure",
+        "id": "seed",
+        "lessonIds": [
+          "article_magical_castle"
+        ],
+        "term": "Seed"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.food.fruits"
+    },
+    {
+      "id": "share",
+      "ignored": {
+        "fieldId": "kids_stories",
+        "id": "share",
+        "lessonIds": [
+          "article_bear_sharing"
+        ],
+        "term": "Share"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_feelings",
+        "id": "share",
+        "lessonIds": [
+          "article_sharing_and_turns"
+        ],
+        "term": "Share"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.stories.bear"
+    },
+    {
+      "id": "nest",
+      "ignored": {
+        "fieldId": "kids_stories",
+        "id": "nest",
+        "lessonIds": [
+          "article_little_bird_fly"
+        ],
+        "term": "Nest"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_animals",
+        "id": "nest",
+        "lessonIds": [
+          "article_kids_animals_nests"
+        ],
+        "term": "Nest"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.stories.bird"
+    },
+    {
+      "id": "collar",
+      "ignored": {
+        "fieldId": "kids_stories",
+        "id": "collar",
+        "lessonIds": [
+          "article_lost_puppy"
+        ],
+        "term": "Collar"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_animals",
+        "id": "collar",
+        "lessonIds": [
+          "article_pets"
+        ],
+        "term": "Collar"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.stories.puppy"
+    },
+    {
+      "id": "variable",
+      "issue": "definition-in-pack-ignored",
+      "kind": "terms",
+      "pack": "knw.article.showcase"
+    },
+    {
+      "id": "acceleration",
+      "issue": "definition-in-pack-ignored",
+      "kind": "terms",
+      "pack": "knw.article.showcase"
+    },
+    {
+      "id": "mole",
+      "issue": "definition-in-pack-ignored",
+      "kind": "terms",
+      "pack": "knw.article.showcase"
+    },
+    {
+      "id": "equilibrium",
+      "issue": "definition-in-pack-ignored",
+      "kind": "terms",
+      "pack": "knw.article.showcase"
+    },
+    {
+      "id": "ohm",
+      "issue": "definition-in-pack-ignored",
+      "kind": "terms",
+      "pack": "knw.article.showcase"
+    },
+    {
+      "id": "variable",
+      "issue": "definition-in-pack-ignored",
+      "kind": "terms",
+      "pack": "knw.solving.linear"
+    },
+    {
+      "id": "linear_equation",
+      "issue": "definition-in-pack-ignored",
+      "kind": "terms",
+      "pack": "knw.solving.linear"
+    },
+    {
+      "id": "slope",
+      "issue": "definition-in-pack-ignored",
+      "kind": "terms",
+      "pack": "knw.solving.linear"
+    },
+    {
+      "id": "small_talk",
+      "ignored": {
+        "fieldId": "culture",
+        "id": "small_talk",
+        "lessonIds": [
+          "article_culture_shock"
+        ],
+        "term": "Small talk"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "social",
+        "id": "small_talk",
+        "lessonIds": [
+          "article_small_talk"
+        ],
+        "term": "Small talk"
+      },
+      "kind": "terms",
+      "pack": "knw.culture.shock"
+    },
+    {
+      "id": "herbivore",
+      "ignored": {
+        "fieldId": "kids_adventure",
+        "id": "herbivore",
+        "lessonIds": [
+          "article_dinosaur_land"
+        ],
+        "term": "Herbivore"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_animals",
+        "id": "herbivore",
+        "lessonIds": [
+          "article_kids_animals_savanna"
+        ],
+        "term": "Herbivore"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.adventure.dinos"
+    },
+    {
+      "id": "carnivore",
+      "ignored": {
+        "fieldId": "kids_adventure",
+        "id": "carnivore",
+        "lessonIds": [
+          "article_dinosaur_land"
+        ],
+        "term": "Carnivore"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_animals",
+        "id": "carnivore",
+        "lessonIds": [
+          "article_kids_animals_savanna"
+        ],
+        "term": "Carnivore"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.adventure.dinos"
+    },
+    {
+      "id": "orbit",
+      "ignored": {
+        "fieldId": "kids_adventure",
+        "id": "orbit",
+        "lessonIds": [
+          "article_trip_to_the_moon"
+        ],
+        "term": "Orbit"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_science",
+        "id": "orbit",
+        "lessonIds": [
+          "article_sun_moon_stars"
+        ],
+        "term": "Orbit"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.adventure.moon"
+    },
+    {
+      "id": "habitat",
+      "ignored": {
+        "fieldId": "kids_animals",
+        "id": "habitat",
+        "lessonIds": [
+          "article_kids_animals_ocean"
+        ],
+        "term": "Habitat"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_daily",
+        "id": "habitat",
+        "lessonIds": [
+          "article_favourite_animals"
+        ],
+        "term": "Habitat"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.animals.ocean"
+    },
+    {
+      "id": "friend",
+      "ignored": {
+        "fieldId": "kids_feelings",
+        "id": "friend",
+        "lessonIds": [
+          "article_good_friend"
+        ],
+        "term": "Friend"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_stories",
+        "id": "friend",
+        "lessonIds": [
+          "article_bear_sharing"
+        ],
+        "term": "Friend"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.feelings.friend"
+    },
+    {
+      "id": "try",
+      "ignored": {
+        "fieldId": "kids_food",
+        "id": "try",
+        "lessonIds": [
+          "article_kids_food_favourite_foods"
+        ],
+        "term": "Try"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_feelings",
+        "id": "try",
+        "lessonIds": [
+          "article_making_mistakes"
+        ],
+        "term": "Try"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.food.favourites"
+    },
+    {
+      "id": "kind",
+      "ignored": {
+        "fieldId": "kids_food",
+        "id": "kind",
+        "lessonIds": [
+          "article_kids_food_favourite_foods"
+        ],
+        "term": "Kind"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_feelings",
+        "id": "kind",
+        "lessonIds": [
+          "article_being_kind"
+        ],
+        "term": "Kind"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.food.favourites"
+    },
+    {
+      "id": "bedtime",
+      "ignored": {
+        "fieldId": "kids_home",
+        "id": "bedtime",
+        "lessonIds": [
+          "article_day"
+        ],
+        "term": "Bedtime"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_daily",
+        "id": "bedtime",
+        "lessonIds": [
+          "article_getting_ready_for_bedtime"
+        ],
+        "term": "Bedtime"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.home.day"
+    },
+    {
+      "id": "rem_sleep",
+      "ignored": {
+        "fieldId": "kids_science",
+        "id": "rem_sleep",
+        "lessonIds": [
+          "article_science_sleepneed"
+        ],
+        "term": "REM sleep"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "health",
+        "id": "rem_sleep",
+        "lessonIds": [
+          "article_sleep"
+        ],
+        "term": "REM sleep"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.science.sleepneed"
+    },
+    {
+      "id": "seed",
+      "ignored": {
+        "fieldId": "kids_stories",
+        "id": "seed",
+        "lessonIds": [
+          "article_tiny_seed"
+        ],
+        "term": "Seed"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_adventure",
+        "id": "seed",
+        "lessonIds": [
+          "article_magical_castle"
+        ],
+        "term": "Seed"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.stories.seed"
+    },
+    {
+      "id": "root",
+      "ignored": {
+        "fieldId": "kids_stories",
+        "id": "root",
+        "lessonIds": [
+          "article_tiny_seed"
+        ],
+        "term": "Root"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_food",
+        "id": "root",
+        "lessonIds": [
+          "article_kids_food_vegetables"
+        ],
+        "term": "Root"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.stories.seed"
+    },
+    {
+      "id": "sunlight",
+      "ignored": {
+        "fieldId": "kids_stories",
+        "id": "sunlight",
+        "lessonIds": [
+          "article_tiny_seed"
+        ],
+        "term": "Sunlight"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_science",
+        "id": "sunlight",
+        "lessonIds": [
+          "article_science_sky"
+        ],
+        "term": "Sunlight"
+      },
+      "kind": "terms",
+      "pack": "knw.kids.stories.seed"
+    },
+    {
+      "id": "attention_span",
+      "ignored": {
+        "fieldId": "mind",
+        "id": "attention_span",
+        "lessonIds": [
+          "article_attention_death"
+        ],
+        "term": "Attention span"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "technology",
+        "id": "attention_span",
+        "lessonIds": [
+          "article_brainrot"
+        ],
+        "term": "Attention span"
+      },
+      "kind": "terms",
+      "pack": "knw.mind.attention_death"
+    },
+    {
+      "id": "notification_fatigue",
+      "ignored": {
+        "fieldId": "mind",
+        "id": "notification_fatigue",
+        "lessonIds": [
+          "article_attention_death"
+        ],
+        "term": "Notification fatigue"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "technology",
+        "id": "notification_fatigue",
+        "lessonIds": [
+          "article_brainrot"
+        ],
+        "term": "Notification fatigue"
+      },
+      "kind": "terms",
+      "pack": "knw.mind.attention_death"
+    },
+    {
+      "id": "doomscrolling",
+      "ignored": {
+        "fieldId": "mind",
+        "id": "doomscrolling",
+        "lessonIds": [
+          "article_info_overload"
+        ],
+        "term": "Doomscrolling"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "technology",
+        "id": "doomscrolling",
+        "lessonIds": [
+          "article_brainrot"
+        ],
+        "term": "Doomscrolling"
+      },
+      "kind": "terms",
+      "pack": "knw.mind.info_overload"
+    },
+    {
+      "id": "psy_isolation",
+      "issue": "duplicate-term-id",
+      "keptId": "isolation",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_consent",
+      "issue": "duplicate-term-id",
+      "keptId": "consent",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_boundary",
+      "issue": "duplicate-term-id",
+      "keptId": "boundary",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "war_friction",
+      "issue": "duplicate-term-id",
+      "keptId": "friction",
+      "kind": "terms",
+      "pack": "knw.mind.war_theory"
+    },
+    {
+      "id": "mon_credit",
+      "issue": "duplicate-term-id",
+      "keptId": "credit",
+      "kind": "terms",
+      "pack": "knw.money.what_money_is"
+    },
+    {
+      "id": "aiw_inference",
+      "issue": "duplicate-term-id",
+      "keptId": "inference",
+      "kind": "terms",
+      "pack": "knw.tech.howaiworks"
+    },
+    {
+      "id": "training_data",
+      "issue": "duplicate-term-id",
+      "keptId": "aiw_training_data",
+      "kind": "terms",
+      "pack": "knw.tech.revolution"
+    },
+    {
+      "id": "hallucination",
+      "issue": "duplicate-term-id",
+      "keptId": "aiw_hallucination",
+      "kind": "terms",
+      "pack": "knw.tech.revolution"
+    },
+    {
+      "id": "inference",
+      "ignored": {
+        "fieldId": "technology",
+        "id": "inference",
+        "lessonIds": [
+          "article_ai_revolution"
+        ],
+        "term": "Inference"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "mind",
+        "id": "inference",
+        "lessonIds": [
+          "article_local_ai"
+        ],
+        "term": "Inference"
+      },
+      "kind": "terms",
+      "pack": "knw.tech.revolution"
+    },
+    {
+      "id": "prompt",
+      "issue": "duplicate-term-id",
+      "keptId": "aiw_prompt",
+      "kind": "terms",
+      "pack": "knw.tech.revolution"
+    },
+    {
+      "id": "token",
+      "issue": "duplicate-term-id",
+      "keptId": "aiw_token",
+      "kind": "terms",
+      "pack": "knw.tech.tokens"
+    },
+    {
+      "id": "context_window",
+      "issue": "duplicate-term-id",
+      "keptId": "aiw_context_window",
+      "kind": "terms",
+      "pack": "knw.tech.tokens"
+    },
+    {
+      "id": "prompt",
+      "issue": "duplicate-term-id",
+      "keptId": "aiw_prompt",
+      "kind": "terms",
+      "pack": "knw.tech.tokens"
+    },
+    {
+      "id": "si_energy",
+      "issue": "duplicate-term-id",
+      "keptId": "energy",
+      "kind": "terms",
+      "pack": "knw.tech.units"
+    },
+    {
+      "id": "allergy",
+      "ignored": {
+        "fieldId": "travel",
+        "id": "allergy",
+        "lessonIds": [
+          "article_ordering_food"
+        ],
+        "term": "Allergy"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "kids_daily",
+        "id": "allergy",
+        "lessonIds": [
+          "article_asking_for_food"
+        ],
+        "term": "Allergy"
+      },
+      "kind": "terms",
+      "pack": "knw.travel.ordering"
+    },
+    {
+      "id": "escalation",
+      "issue": "duplicate-term-id",
+      "keptId": "war_escalation",
+      "kind": "terms",
+      "pack": "knw.work.emails"
+    },
+    {
+      "id": "dpn_scarcity",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_scarcity",
+      "kind": "terms",
+      "pack": "knw.work.dark_psychology_negotiation"
+    },
+    {
+      "id": "dpn_urgency",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_urgency",
+      "kind": "terms",
+      "pack": "knw.work.dark_psychology_negotiation"
+    },
+    {
+      "id": "dpn_social_proof",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_social_proof",
+      "kind": "terms",
+      "pack": "knw.work.dark_psychology_negotiation"
+    },
+    {
+      "id": "dpn_foot_in_the_door",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_foot_in_the_door",
+      "kind": "terms",
+      "pack": "knw.work.dark_psychology_negotiation"
+    },
+    {
+      "id": "dpn_sunk_cost",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_sunk_cost",
+      "kind": "terms",
+      "pack": "knw.work.dark_psychology_negotiation"
+    },
+    {
+      "id": "gem_accountability",
+      "issue": "duplicate-term-id",
+      "keptId": "dual_accountability",
+      "kind": "terms",
+      "pack": "knw.social.gender_emotional_maturity"
+    },
+    {
+      "id": "att_attachment",
+      "issue": "duplicate-term-id",
+      "keptId": "attachment",
+      "kind": "terms",
+      "pack": "knw.social.attachment_styles"
+    },
+    {
+      "id": "cs_audience",
+      "issue": "duplicate-term-id",
+      "keptId": "dual_audience",
+      "kind": "terms",
+      "pack": "knw.mind.competence_shaming"
+    },
+    {
+      "id": "mia_manipulation",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_manipulation",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation_in_arguments"
+    },
+    {
+      "id": "mia_sunk_cost",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_sunk_cost",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation_in_arguments"
+    },
+    {
+      "id": "mia_framing",
+      "issue": "duplicate-term-id",
+      "keptId": "dpn_framing",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation_in_arguments"
+    },
+    {
+      "id": "gd_gaslighting",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_gaslighting",
+      "kind": "terms",
+      "pack": "knw.mind.gaslighting_darvo"
+    },
+    {
+      "id": "gd_deflection",
+      "issue": "duplicate-term-id",
+      "keptId": "cs_deflection",
+      "kind": "terms",
+      "pack": "knw.mind.gaslighting_darvo"
+    },
+    {
+      "id": "pd_authority",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_authority",
+      "kind": "terms",
+      "pack": "knw.mind.power_dynamics"
+    },
+    {
+      "id": "pd_reciprocity",
+      "issue": "duplicate-term-id",
+      "keptId": "dpn_reciprocity",
+      "kind": "terms",
+      "pack": "knw.mind.power_dynamics"
+    },
+    {
+      "id": "pd_persuasion",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_persuasion",
+      "kind": "terms",
+      "pack": "knw.mind.power_dynamics"
+    },
+    {
+      "id": "pd_coercion",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_coercion",
+      "kind": "terms",
+      "pack": "knw.mind.power_dynamics"
+    },
+    {
+      "id": "pd_accountability",
+      "issue": "duplicate-term-id",
+      "keptId": "dual_accountability",
+      "kind": "terms",
+      "pack": "knw.mind.power_dynamics"
+    },
+    {
+      "id": "gre_stereotype",
+      "issue": "duplicate-term-id",
+      "keptId": "gem_stereotype",
+      "kind": "terms",
+      "pack": "knw.social.gender_roles_expectations"
+    },
+    {
+      "id": "gre_emotional_labour",
+      "issue": "duplicate-term-id",
+      "keptId": "gem_emotional_labour",
+      "kind": "terms",
+      "pack": "knw.social.gender_roles_expectations"
+    },
+    {
+      "id": "lsc_loneliness",
+      "issue": "duplicate-term-id",
+      "keptId": "loneliness",
+      "kind": "terms",
+      "pack": "knw.social.loneliness_selectivity"
+    },
+    {
+      "id": "lsc_isolation",
+      "issue": "duplicate-term-id",
+      "keptId": "isolation",
+      "kind": "terms",
+      "pack": "knw.social.loneliness_selectivity"
+    },
+    {
+      "id": "lsc_solitude",
+      "issue": "duplicate-term-id",
+      "keptId": "solitude",
+      "kind": "terms",
+      "pack": "knw.social.loneliness_selectivity"
+    },
+    {
+      "id": "lsc_standard",
+      "issue": "duplicate-term-id",
+      "keptId": "si_standard",
+      "kind": "terms",
+      "pack": "knw.social.loneliness_selectivity"
+    },
+    {
+      "id": "lsc_connection",
+      "issue": "duplicate-term-id",
+      "keptId": "kpar_connection",
+      "kind": "terms",
+      "pack": "knw.social.loneliness_selectivity"
+    },
+    {
+      "id": "mt_readiness",
+      "issue": "duplicate-term-id",
+      "keptId": "msa_readiness",
+      "kind": "terms",
+      "pack": "knw.social.marriage_timing"
+    }
+  ],
+  "replacements": [],
+  "schemaVersion": 1
+}

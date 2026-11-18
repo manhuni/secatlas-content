@@ -1,0 +1,206 @@
+{
+  "dependencies": [
+    "060b5404ff272cb2e7e0bfe386677f2d16b39c1a9d28af823bd58880fea7b25a",
+    "991ab4c28fee369b1066d19568e2fdd4eb5de30c46a4db438bd1fa250687cf98",
+    "9f1655cf87dd1f92172e1fa4e5da18921c142813fc6665d52a54d98294413534",
+    "ae0d988d881f7b0977c569af33b47cef0125dfc6a94f07bd5a5d0bdb5b7ed158",
+    "be2e22a815a867de88a774a272afff704b630fa75c95fe986f188e5d8a822dcd",
+    "d36b5b63d01cddff495f8ffa18a272bb00a3c923caba64f879a4047f0d94522f"
+  ],
+  "item": {
+    "addedAt": "2026-11-14T00:00:00Z",
+    "cover": "asset://991ab4c28fee369b1066d19568e2fdd4eb5de30c46a4db438bd1fa250687cf98",
+    "durationMin": 24,
+    "fieldId": "money",
+    "id": "article_bills_statements",
+    "media": {
+      "audio": [],
+      "cover": "asset://991ab4c28fee369b1066d19568e2fdd4eb5de30c46a4db438bd1fa250687cf98",
+      "gallery": [
+        {
+          "caption": "Date, description, money out, money in, and the running balance.",
+          "kind": "image",
+          "source": "asset://d36b5b63d01cddff495f8ffa18a272bb00a3c923caba64f879a4047f0d94522f",
+          "title": "The columns of a bank statement"
+        },
+        {
+          "caption": "What each document is for and what it proves.",
+          "kind": "image",
+          "source": "asset://ae0d988d881f7b0977c569af33b47cef0125dfc6a94f07bd5a5d0bdb5b7ed158",
+          "title": "Bill, receipt, statement"
+        },
+        {
+          "caption": "Balance, transactions, fees, then anything unfamiliar.",
+          "kind": "image",
+          "source": "asset://be2e22a815a867de88a774a272afff704b630fa75c95fe986f188e5d8a822dcd",
+          "title": "Checking a statement in order"
+        }
+      ],
+      "images": [
+        "asset://9f1655cf87dd1f92172e1fa4e5da18921c142813fc6665d52a54d98294413534",
+        "asset://060b5404ff272cb2e7e0bfe386677f2d16b39c1a9d28af823bd58880fea7b25a"
+      ],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Tell a bill, a receipt and a bank statement apart and know what each one proves.",
+      "Read a bank statement line by line and understand every column.",
+      "Explain what a debit, a credit and a balance mean on a statement.",
+      "Recognise the charges that appear quietly on a statement and what triggers them.",
+      "Check a utility bill against your own meter reading and find an estimate.",
+      "Check an invoice for the details that make it valid, including tax.",
+      "Dispute an unfamiliar charge with the right first sentence."
+    ],
+    "sections": [
+      {
+        "body": "Money comes to you on paper, and the paper is not interchangeable. Three documents get confused with one another constantly, and each one has a different job.\n\nA **bill** is a request for payment. It tells a company or a person how much they are owed, and by when. A phone bill, a rent statement from a landlord, an electricity bill from a utility, a hospital invoice: each one says what is owed, the period it covers, and how to pay. A bill is an instruction, and it becomes real only when the money moves.\n\nA **receipt** is proof that something happened. It says what you bought, when, how much it cost and how you paid. A receipt is what you show when a return is questioned, what an employer asks for when they reimburse an expense, and what you keep when a warranty runs out. A receipt is evidence, and it does not ask for anything.\n\nA **bank statement** is the record your bank holds. It lists everything that moved through your account in a period, in date order, with the running balance, and it is the document that proves what you actually paid and received. A statement is a record of transactions, and it is the one you check when money is missing.\n\nThe practical difference shows up when something goes wrong. If a company sends you a bill you already paid, the receipt and the statement are what prove you paid. If your bank charges you something you do not recognise, only the statement shows it. And if a landlord says you owe three months, the statement is where the payments appear.\n\nOne more document completes the set, and it is not a bill: an **invoice**. An invoice is a bill for goods or services already supplied, and in most systems it is the document that carries the tax treatment and the details needed to claim a payment or a deduction.",
+        "examples": [
+          "This is a bill, so it is asking for payment.",
+          "I keep the receipt, because it is the proof that I paid.",
+          "The statement is the bank's own record of what moved through the account."
+        ],
+        "heading": "Three documents, three different jobs",
+        "type": "definition"
+      },
+      {
+        "body": "A bank statement has the same parts in the same order every month, and once you know the parts you can read any bank's statement.\n\nAt the top is the **header**: the account holder's name, the account number, usually partly masked, the period the statement covers, and the currency if the account holds more than one. Check the period first. A statement covering the wrong month is more common than people expect, and it explains every confusion that follows.\n\nThen comes the **summary box**, with the opening balance, the closing balance, the total money in and the total money out. These four numbers are a check on your own arithmetic: money in minus money out should equal the movement between the two balances.\n\nThen the **transaction list**, in date order, usually with a running balance in the last column. Every line has a date, a description, and an amount. The description is written by the payee's bank, not by the shop, so it often reads like a code: \"POS SUPERMARKET REF 4471\" tells you a supermarket, and nothing about what you bought.\n\nBelow the list come the **fees and interest**, often in a separate section. This is where the charges for the account live: a monthly fee, an overdraft interest line, a fee for using a card abroad.\n\nAnd at the end, sometimes, a **summary of your limits and rates**: your overdraft limit, your credit limit, the interest rate applied. Those numbers change over time, and this is the place where you find the current rate rather than the one you remember.\n\nRead the header and the summary box before the transaction list. The list is where the time goes, and it is much easier to interpret once you know where you started and where you ended.",
+        "examples": [
+          "The statement covers 1 to 31 March, so this charge belongs to March.",
+          "Money in 2400 $ and money out 1980 $ leaves a balance 420 $ higher, which matches the summary."
+        ],
+        "heading": "The anatomy of a bank statement",
+        "type": "prose"
+      },
+      {
+        "body": "These are the words you will meet on every statement, and what each one means in practice.\n\n**Opening balance** is what you had in the account at the start of the period. **Closing balance** is what you had at the end. **Available balance** is what you can actually spend now, which is the closing balance minus anything held, plus or minus any overdraft.\n\nA **debit** is money out of the account. A **credit** is money into it. Banks print these words or use a sign: a minus sign is money out, a plus sign is money in. The label \"credit\" on a statement does not mean a loan.\n\nA **direct debit** is a payment you authorise a company to take from your account, usually on a date, and which it can take without asking again. A **standing order** is a fixed amount you authorise to be paid on a schedule, whether or not the bill is the same. A **card payment** is a purchase made with a debit or credit card, and it usually appears a day or two after the purchase.\n\nAn **overdraft** is an agreed amount the bank lets you go below zero, and it usually costs money. A **pending transaction** is a payment made with a card that has not yet appeared on the account, and the balance shown in your banking app may already include it while the statement does not.\n\nA **reference** is the code that lets you match a line on the statement to a receipt or a bill. A **direct debit** with no merchant name is usually a company that has sold on the payment, and the reference is the only way to identify it.",
+        "heading": "The words on a statement",
+        "terms": [
+          {
+            "example": "The opening balance was 500 $, so the first transaction was charged against that.",
+            "gloss": "The amount in the account at the start of the statement period. Every figure that follows is measured from it.",
+            "term": "Opening balance",
+            "termId": "opening_balance"
+          },
+          {
+            "example": "The closing balance is 420 $, which is 80 $ more than the opening balance.",
+            "gloss": "The amount in the account at the end of the statement period, after every transaction in it.",
+            "term": "Closing balance",
+            "termId": "closing_balance"
+          },
+          {
+            "example": "The debit for the supermarket is 64 $, so that is the debit column, not the credit column.",
+            "gloss": "Money leaving the account. On a statement it is usually shown with a minus sign or in a column headed money out.",
+            "term": "Debit",
+            "termId": "debit"
+          },
+          {
+            "example": "The credit of 1200 $ on the 15th is my salary.",
+            "gloss": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
+            "term": "Credit",
+            "termId": "credit"
+          },
+          {
+            "example": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+            "gloss": "A payment a company is authorised to take from your account on a date, without asking you again each time.",
+            "term": "Direct debit",
+            "termId": "direct_debit"
+          },
+          {
+            "example": "I have a standing order to my landlord for the rent, and a direct debit for the utilities.",
+            "gloss": "A fixed amount you authorise to be paid on a schedule, whether or not the underlying bill is the same each month.",
+            "term": "Standing order",
+            "termId": "standing_order"
+          }
+        ],
+        "type": "terminology"
+      },
+      {
+        "body": "Money in and money out is simple. The balance is where people get lost, because a statement can show more than one balance and they are not the same.\n\nThe **closing balance** is the truth at the end of the period: opening balance, plus everything in, minus everything out. The **available balance** is what you may spend right now, and it can be lower, because the bank may already know about card payments that have not yet reached the statement, or because part of the balance is held for a pending direct debit.\n\nThat gap explains a common worry. You check your balance in the app, it is lower than the statement says, and you assume a charge went wrong. Usually nothing has gone wrong: a card payment from yesterday is already counted in the app and will appear on the statement in two days.\n\nThe other thing to understand is the **running balance** in the transaction list. It shows what your balance was after each line, and it should never jump without a reason. If the running balance and the summary box disagree, the statement has an error, and it is worth asking about.\n\nThen there is the question of **timing**. A bill can be deducted on a date before the money arrives, which is why a statement can show a negative balance in the middle of a month that ends comfortably positive. Some people move the scheduled payment to a day after their salary lands, which removes a class of problems entirely.\n\nAnd when you do the arithmetic, remember that some lines are duplicated on purpose. A direct debit that was unpaid is often shown twice: once as a charge and once as a returned payment, and the pair looks like two separate bills when it is one problem.",
+        "examples": [
+          "The closing balance is 420 $, and the available balance is lower because a card payment is pending.",
+          "The bill was taken two days before my salary arrived, so the balance went negative for a moment.",
+          "This charge and the refund below it are the same direct debit that was returned."
+        ],
+        "heading": "Debit, credit, and what the balance actually tells you",
+        "type": "prose"
+      },
+      {
+        "body": "**Overdraft interest** is charged when you go below zero, and it is often applied without any warning at the moment it happens. Some banks charge a fee for each item that goes through while overdrawn, on top of a daily or annual rate. Ask for a buffer: most banks will agree a small overdraft limit that costs nothing if you stay inside it.\n\n**A returned direct debit** costs you twice. The company takes the payment, the bank refuses it, and you are charged for both the return and the payment. The bill still arrives, and it is now late.\n\n**A card payment abroad** often carries a fee on top of the exchange rate. Some cards charge a percentage, some a fixed amount, and many add both. The exchange rate itself already includes a margin, so a card with a foreign transaction fee is usually worse than a good one without.\n\n**An ATM withdrawal** may cost a fee at the machine, at the bank that owns it, or both, and the machine rarely tells you which. Using your own bank's machines avoids most of it.\n\n**A late fee** on a credit card often comes with a penalty interest rate, and the penalty rate can apply to the whole balance. One late payment can therefore cost several times the fee itself.\n\n**A dormant account fee** and a **periodic statement fee** are small, annual and easy to miss, because they never appear in a month when nothing else happens.",
+        "calloutKind": "warning",
+        "heading": "The charges that appear quietly on a statement",
+        "type": "callout"
+      },
+      {
+        "body": "A utility bill is built from three parts, and understanding them is how you check the number instead of paying it blindly.\n\nThe **meter reading** is the number on your meter, or the reading the company took for you. Between the last reading and this one is the **consumption**, usually shown in units: kilowatt hours for electricity, cubic metres for water. Multiply the unit rate by the consumption and you get the variable part of the bill, and this is the check worth doing.\n\nThe **tariff** is what you pay per unit. It may be flat, or it may change by time of day, in which case a good tariff or a smart meter can change your bill by a lot. Fixed charges sit on top: a standing charge for the connection, a fuel or network charge, and often a levy added by law.\n\nThen there is the **estimate**. Companies estimate usage when they cannot read the meter, and an estimate appears on the bill without a meter reading to check it against. If you find an estimated bill, the first action is the same as always: send in a photograph of your meter showing the current reading, and ask for a corrected bill.\n\nTwo habits make this easy. Photograph your meter on the day you receive the bill, and keep it with the bill. And compare each bill with the same month last year, because a total that jumps needs an explanation: a colder month, a new appliance, a rate change or an estimate.\n\nFinally, note the **payment date and the method**. A bill paid by direct debit on the due date usually costs nothing extra, while paying late may cost a reconnection charge that is far larger than the money you owed.",
+        "examples": [
+          "This bill is an estimate, so I am sending a photo of the meter reading.",
+          "I used 240 units at 0.15 a unit, so the variable part should be 36 $.",
+          "Last December was colder, so the higher bill is not a mistake."
+        ],
+        "heading": "Reading a utility bill: the meter, the tariff and the estimate",
+        "type": "prose"
+      },
+      {
+        "body": "An invoice and a receipt look similar and are used for opposite purposes, so it is worth knowing what belongs on each.\n\nAn **invoice** is a request for payment for something already supplied. It should carry a number, the date, the names and addresses of both parties, a description of what was supplied, the payment terms, and the amount due with the date it is due. Most systems also require a tax line: the tax rate, the taxable amount, the tax charged and the total, often with the tax registration number of the supplier.\n\nA **receipt** proves the payment side. It should show who paid, what for, when, how much, and the method: card, cash, transfer, or a reference. A card receipt may also carry the merchant's name and a transaction number that lets you match it to your statement.\n\nCheck both against the statement. If the amount on the receipt does not appear on the statement, the payment may still be pending. If it appears with a different amount, the difference is usually a tip, a service charge or a foreign transaction fee, and it is easier to accept when you can see where it came from.\n\nTwo details catch people out. A receipt without a VAT or tax number cannot be used for a tax claim, and many small shops cannot give one. And a receipt without the payment method is weak evidence: it proves a sale happened, but not that you paid for it. When a receipt matters, ask for it before you leave.\n\nKeep receipts for anything you might need to explain later: a warranty, a return, an expense claim or a tax return. Photograph them the same day, and file them by month and by category.",
+        "examples": [
+          "The receipt has no tax number, so I cannot use it for a tax claim.",
+          "The amount on the statement is 2 $ more than the receipt, which is the service charge.",
+          "I photographed every receipt on the day of the purchase and filed them by category."
+        ],
+        "heading": "Reading an invoice and a receipt",
+        "type": "prose"
+      },
+      {
+        "body": "Reconciling means proving that your own records and the bank's records agree. Ten minutes a month prevents the small errors that become impossible later.\n\nStart from the number you already trust, which is the closing balance on the previous statement. Add your own income and subtract your own spending, and check that you arrive at the closing balance on this statement. If you do, your records are complete. If you do not, the difference is somewhere in the transaction list, and that is exactly where to look.\n\nThen work through the list once, in order, and mark each line as one of three things: recognised and recorded, recognised but not recorded, or not recognised at all. The second group tells you where your own system failed. The third group is the one to act on.\n\nFinally, look at the fees section and the balances, and check them against the terms you hold. Then file the statement with the receipts for the month, and note any recurring charge you want to reconsider.",
+        "examples": [
+          "My records are 35 $ short, and the 35 $ is the subscription I forgot to record.",
+          "There is one line I do not recognise, so I will call the bank about it."
+        ],
+        "heading": "Reconciling your statement month by month",
+        "steps": [
+          "Take the closing balance from the previous statement as your starting point.",
+          "Add your own income and subtract your own spending for the month.",
+          "Compare your figure with the closing balance on the statement.",
+          "Mark each transaction as recorded, unrecorded or unrecognised.",
+          "Read the fees section and check each fee against your agreement.",
+          "File the statement with the month's receipts and note any charge you want to query."
+        ],
+        "type": "steps"
+      },
+      {
+        "body": "Most banks will investigate a disputed transaction, but the speed and the outcome depend on how quickly you report it and what you say in the first sentence.\n\nCall the number on the back of your card, not a number in a text message. Tell the adviser the date, the amount and the merchant name from the statement, and say plainly that you do not recognise the transaction. Ask what happens next and how long it will take, and note the reference number.\n\nThere are two different situations and they are not treated the same. A transaction you made but do not remember is a **query**: the bank checks the merchant records and usually explains the charge. A transaction you never made is a **fraud claim**, and the bank will normally freeze the card, replace it and credit the money while they investigate.\n\nIf a card is lost or stolen, block it in the app immediately, before you call anyone. Speed protects your position and limits your liability.\n\nKeep the reference number and a copy of everything you send. If the first answer does not satisfy you, ask for a complaint procedure in writing, and then complain in writing. A written complaint with dates, amounts and reference numbers is far harder for a bank to ignore than a phone call that was not recorded.",
+        "calloutKind": "note",
+        "heading": "How to dispute a charge you do not recognise",
+        "type": "callout"
+      },
+      {
+        "body": "Records matter twice: once when you are asked a question, and once when nobody has asked for years and then somebody does.\n\nThe rule of thumb is simple: keep what proves where the money went. For a business that means invoices for income, receipts for expenses, and bank statements for both. For a household it means the same three things in a simpler form, plus proof of any larger purchase.\n\nOrganise records by **period and category**. A folder per year, a spreadsheet with a row per transaction, or a simple monthly list with the date, the amount, the counterparty and the category all work. The category matters because it is what lets you answer a question like \"show me your vehicle costs\" in a minute.\n\nUse **receipts and bank statements together**. A receipt proves what was bought; a statement proves it was paid. Either alone has a weakness, because receipts fade, are lost, and are sometimes not issued, while statements show the payment but not what it was for.\n\n**Retention periods** vary by country and by the type of record. Keep records for at least as long as the tax office allows you to be audited, and check the rule rather than guessing. When in doubt, keep them longer; storage is cheap and a discarded record cannot be produced.\n\nTwo practical habits make everything easier. Photograph documents the day you receive them, and store them with the month they belong to. And once a year, spend an hour checking that the total of your records matches your statement totals. A system that has never been checked is a system you cannot rely on.",
+        "examples": [
+          "I file every receipt by month and by category, so I can total any category in a minute.",
+          "The receipt proves what it was, and the statement proves it was paid."
+        ],
+        "heading": "Keeping records the tax office will accept",
+        "type": "prose"
+      },
+      {
+        "body": "These are the sentences that get a straight answer from a bank, a utility or a landlord. Each one names a date, an amount or a number, so nothing depends on the other person understanding what you mean.\n\nUse them when you query a charge, when you need a document, and when you are asking for something to be put in writing. If you are reporting a transaction you never made, say so in the first sentence rather than leaving it implied.",
+        "examples": [
+          "There is a charge of 45 $ on 3 March that I do not recognise. How do I dispute it?",
+          "This bill is an estimate. I am sending a photo of the meter reading dated today.",
+          "Could you send me a copy of the statement for February as a PDF?",
+          "My records and the statement differ by 35 $, and I cannot find the difference.",
+          "Could you confirm the reference number and the date the refund will reach my account?",
+          "I dispute this charge as fraudulent, and I would like a replacement card."
+        ],
+        "heading": "Sentences you can use about a statement",
+        "type": "examples"
+      }
+    ],
+    "summary": "Money arrives as documents, and each one means something different. After reading this you can tell a bill from a receipt from a statement, read a statement line by line, check a utility bill against your own usage, dispute a charge you do not recognise, and keep records a tax office will accept.",
+    "systemId": "bills_and_statements",
+    "title": "Reading Bills, Receipts, and Bank Statements"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,880 @@
+{
+  "records": {
+    "e61a3d78c65133c7260c43e719d97c46e16bd50c64ee7800536cf14c6407a617": [
+      {
+        "forms": [
+          "check",
+          "checks",
+          "checked",
+          "checking"
+        ],
+        "id": "lex.sa.en.check.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "check",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.check.verb",
+          "prn.sa.en.check.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.check.verb.1",
+          "sns.sa.vi.check.verb.2",
+          "sns.sa.en.check-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.check-verb",
+        "id": "prn.sa.en.check.verb",
+        "ipa": "/tʃek/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.check.verb.us",
+        "ipa": "/tʃek/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Thay nghiệm vào phương trình gốc để xác nhận.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.check.verb.1.1",
+          "exm.sa.en.check-verb.more.01",
+          "exm.sa.en.check-verb.more.02",
+          "exm.sa.en.showcase.42"
+        ],
+        "gloss": "kiểm tra; thử lại",
+        "id": "sns.sa.vi.check.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.check.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.check-verb",
+          "res.sa.aud.check-verb",
+          "res.sa.lnk.check-verb",
+          "res.sa.vid.check-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Xem xét để bảo đảm đúng.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.check.verb.2.1",
+          "exm.sa.en.check-verb.more.01",
+          "exm.sa.en.check-verb.more.02"
+        ],
+        "gloss": "kiểm tra (chung)",
+        "id": "sns.sa.vi.check.verb.2",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.check.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.check-verb",
+          "res.sa.aud.check-verb",
+          "res.sa.lnk.check-verb",
+          "res.sa.vid.check-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Substitute the solution back into the original equation.",
+        "exampleIds": [
+          "exm.sa.en.check.verb.1.1",
+          "exm.sa.en.check.verb.2.1",
+          "exm.sa.en.showcase.42"
+        ],
+        "gloss": "Substitute the solution back into the original equation.",
+        "id": "sns.sa.en.check-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.check.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.check.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Check by substituting x back into the original equation.",
+        "translation": "Thử lại bằng cách thế x vào phương trình ban đầu.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.check.verb.2.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Check your work before you finish.",
+        "translation": "Kiểm tra bài trước khi xong.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.showcase.42",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Check: 2(3) + 1 = 7.",
+        "translation": "Kiểm tra: 2(3) + 1 = 7.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.check.verb.1",
+        "id": "lnk.sa.en.glossary.042",
+        "kind": "relation",
+        "toId": "sns.sa.vi.substitute.verb.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.check.verb.1",
+        "id": "lnk.sa.en.glossary.043",
+        "kind": "relation",
+        "toId": "sns.sa.vi.original.adjective.1",
+        "type": "related_to"
+      }
+    ],
+    "e64262ac3a0ca5d4d0319bf3752d534a64d7526504288aaf5f4b18d0ae9e44de": [
+      {
+        "forms": [
+          "Tolerance of frustration",
+          "gem_frustration_tolerance"
+        ],
+        "id": "lex.sa.social.gem_frustration_tolerance",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Tolerance of frustration",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gem_frustration_tolerance.alt",
+          "sns.sa.social.gem_frustration_tolerance.alt.ja",
+          "sns.sa.social.gem_frustration_tolerance.alt.ko",
+          "sns.sa.social.gem_frustration_tolerance.alt.pt_br",
+          "sns.sa.social.gem_frustration_tolerance.alt.id",
+          "sns.sa.social.gem_frustration_tolerance.alt.th",
+          "sns.sa.social.gem_frustration_tolerance.alt.tr"
+        ]
+      },
+      {
+        "definition": "The capacity to stay with a delay, a refusal or a mistake without making the other person pay for it.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1"
+        ],
+        "gloss": "The capacity to stay with a delay, a refusal or a mistake without making the other person pay for it.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "待ち時間、要求の拒絶、過ちなどがあっても、苛立ちを他人にぶつけることなくFixtureする能力。",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.ja"
+        ],
+        "gloss": "遅延や拒絶、間違いに直面しても他人にIRECTを向けずに耐える能力。",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기다림이나 거절, 실수로 불쾌해져도 그 결과를 주변 사람에게 감정적으로 전하지 않는 능력이다. 참는 것만 아니라 상황을 계속 다루면서 분노를 조절하는 힘을 뜻한다.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.ko"
+        ],
+        "gloss": "지연이나 거절, 실수에도 분노를 다른 사람에게 옮기지 않는 인내력.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A capacidade de suportar frustrações sem reagir de forma agressiva, impaciente ou excessivamente rancorosa.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.pt_br"
+        ],
+        "gloss": "lidar com atrasos, recusas ou erros sem fazer o outro pagar por isso.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kesampuan untuk tetap tenang menghadapi penundaan, penolakan, atau kesalahan tanpa membuat orang lain menanggung akibatnya. Istilah ini sering digunakan dalam konteks kerja tim dan parenting.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.id"
+        ],
+        "gloss": "Kesampuan bertahan menghadapi penundaan, penolakan, atau kesalahan tanpa menyalahkan orang lain.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสามารถในการรับมือกับความล่าช้า คำปฏิเสธ หรือความผิดพลาดโดยไม่ถ่ายภาระหรือผลกระทบไปให้ผู้อื่น",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.th"
+        ],
+        "gloss": "ความอดทนต่อความล่าช้า คำปฏิเสธ หรือความผิดพลาด",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gecikme, ret veya hata karşısında tepkisini kontrol altında tutma ve sıkıntısını başkasına yüklememe kapasitesi.",
+        "exampleIds": [
+          "exm.sa.social.gem_frustration_tolerance.1.1.tr"
+        ],
+        "gloss": "Gecikme, ret ya da hatayla karşılaşınca sabırlı kalabilme kapasitesi.",
+        "id": "sns.sa.social.gem_frustration_tolerance.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gem_frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hayal kırıklığına tolerans, iyi bir ekip liderinin cuma günü sakin bir yanıtla kazandığı bir yetenektir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความอดทนต่อความหงุดหงิดทำให้ผู้นำทีมตอบอย่างสงบได้ในวันศุกร์ที่งานยุ่ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pemimpin tim yang baik menunjukkan toleransi frustrasi dengan menjawab tenang ketika Decisions keputusan tertunda.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A tolerância à frustração de uma boa liderança se vê na resposta calma diante de um atraso na sexta-feira.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "금요일에 받은 불만을 팀원에게 퍼붓지 않고 차분히 정리한 것은 좌절을 견디는 인내력 덕분이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "金曜の静かな答えは、よいチームリーダーにはフラストレーション耐性があること.robotics",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gem_frustration_tolerance.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Tolerance of frustration is what a good team leader buys with a calm answer on a Friday.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e64b18ce19fe8e5ba4c317a99bb9dc1a2be2e7624b161d7230a99610ebd80ee3": [
+      {
+        "forms": [
+          "deferred marriage",
+          "mt_deferred_marriage"
+        ],
+        "id": "lex.sa.social.mt_deferred_marriage",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "deferred marriage",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.mt_deferred_marriage.alt",
+          "sns.sa.social.mt_deferred_marriage.alt.ja",
+          "sns.sa.social.mt_deferred_marriage.alt.ko",
+          "sns.sa.social.mt_deferred_marriage.alt.pt_br",
+          "sns.sa.social.mt_deferred_marriage.alt.id",
+          "sns.sa.social.mt_deferred_marriage.alt.th",
+          "sns.sa.social.mt_deferred_marriage.alt.tr"
+        ]
+      },
+      {
+        "definition": "The state of a group in which marriage is entered later than it used to be.",
+        "exampleIds": [
+          "exm.sa.social.mt_deferred_marriage.1.1"
+        ],
+        "gloss": "The state of a group in which marriage is entered later than it used to be.",
+        "id": "sns.sa.social.mt_deferred_marriage.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.mt_deferred_marriage",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "~~~~~~~~~~~~~~~~~~~~~~。~~~~~~~~~~~~~~~~~~~~~~~~~~~~。",
+        "exampleIds": [
+          "exm.sa.social.mt_deferred_marriage.1.1.ja"
+        ],
+        "gloss": "~~~~~~~~~~~~~~~~~~~~~~~~。",
+        "id": "sns.sa.social.mt_deferred_marriage.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.mt_deferred_marriage",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 집단에서 결혼을 예전보다 늦게 하는 상태를 뜻한다. 개인의 선택이라기보다 사회 전체의 변화로 쓰인다.",
+        "exampleIds": [
+          "exm.sa.social.mt_deferred_marriage.1.1.ko"
+        ],
+        "gloss": "결혼을 이전보다 늦게 하는 상태.",
+        "id": "sns.sa.social.mt_deferred_marriage.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.mt_deferred_marriage",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Casamento diferido é um padrão social no qual as pessoas se casam em uma idade posterior à que predominava anteriormente. Não se refere apenas a um adiamento individual.",
+        "exampleIds": [
+          "exm.sa.social.mt_deferred_marriage.1.1.pt_br"
+        ],
+        "gloss": "O casamento realizado mais tarde do que era comum em determinado grupo.",
+        "id": "sns.sa.social.mt_deferred_marriage.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.mt_deferred_marriage",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Penundaan perkawinan menggambarkan perubahan dalam waktu perkawinan suatu kelompok, bukan sekadar penundaan pada satu pasangan. Kata ini biasanya dipakai untuk discussing kecenderungan yang berlaku luas dalam masyarakat.",
+        "exampleIds": [
+          "exm.sa.social.mt_deferred_marriage.1.1.id"
+        ],
+        "gloss": "Penundaan perkawinan adalah kecenderungan kelompok untuk menikah lebih lambat daripada sebelumnya.",
+        "id": "sns.sa.social.mt_deferred_marriage.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.mt_deferred_marriage",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "รูปแบบการเลื่อนเวลาแต่งงานของคนในกลุ่มหนึ่งไปสู่ภายหลัง เมื่อเทียบกับรุ่นหรือช่วงเวลาก่อนหน้า",
+        "exampleIds": [
+          "exm.sa.social.mt_deferred_marriage.1.1.th"
+        ],
+        "gloss": "สถานการณ์ที่การแต่งงานของกลุ่มหนึ่งเกิดขึ้นช้ากว่าที่เคยเป็นไป",
+        "id": "sns.sa.social.mt_deferred_marriage.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.mt_deferred_marriage",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gecikmeli evlilik, bir toplum ya da toplumsal grupta evliliğin geçmişe göre daha geç kurulmasıdır; tek bir kişinin evliliğini ertelemesinden farklıdır.",
+        "exampleIds": [
+          "exm.sa.social.mt_deferred_marriage.1.1.tr"
+        ],
+        "gloss": "Eskiye göre evliliğin daha geç kurulduğu grup düzeyindeki durum.",
+        "id": "sns.sa.social.mt_deferred_marriage.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.mt_deferred_marriage",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.mt_deferred_marriage.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Gecikmeli evlilik, grup genelinde evliliğin daha geç bir tarihe kaymasına verilen addır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.mt_deferred_marriage.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คำว่า “การแต่งงานที่เลื่อนออกไป” หมายถึงการเปลี่ยนแปลงระดับกลุ่มไปสู่เวลาที่ช้าลง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.mt_deferred_marriage.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Penundaan perkawinan menggambarkan pergeseran seluruh kelompok menuju waktu pernikahan yang lebih akhir.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.mt_deferred_marriage.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O casamento diferido é o nome dado a esse deslocamento coletivo para uma fase mais tardia.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.mt_deferred_marriage.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "결혼 연령이 높아지면서 결혼 지연 현상이 나타나고 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.mt_deferred_marriage.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "~~~~~~~~~~~~~~~~~~~~~~；~~~~~~~~~~~~~~~~~~~~~~。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.mt_deferred_marriage.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Deferred marriage is the name for a group-wide move to a later date.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e6a71ceb672ce85e1ed6a71674e4e9653d9481677337b906020527f05b8a7350": [
+      {
+        "forms": [
+          "Hazard warning lights",
+          "hazard_warning"
+        ],
+        "id": "lex.sa.en.hazard.warning",
+        "kind": "lexeme",
+        "lemma": "Hazard warning lights",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.hazard.warning.alt"
+        ]
+      },
+      {
+        "definition": "All four indicators blink together. The car is stationary or unusual. Severity level 1 — Information / Status. Action: Nothing to do while the lights are on. Switch them off once the car moves again..",
+        "gloss": "All four indicators blink together. The car is stationary or unusual.",
+        "id": "sns.sa.en.hazard.warning.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.hazard.warning",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "e6a895c4d4e20238816c5350bc77dcec6a7a65d5cbe0f9a043bef0bd4acd48c5": [
+      {
+        "forms": [
+          "Fee",
+          "mon_fee"
+        ],
+        "id": "lex.sa.money.mon_fee",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Fee",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_fee.alt",
+          "sns.sa.money.mon_fee.alt.ja",
+          "sns.sa.money.mon_fee.alt.ko",
+          "sns.sa.money.mon_fee.alt.pt_br",
+          "sns.sa.money.mon_fee.alt.id",
+          "sns.sa.money.mon_fee.alt.th",
+          "sns.sa.money.mon_fee.alt.tr"
+        ]
+      },
+      {
+        "definition": "A fixed charge for a service, such as a card payment or a bank transfer.",
+        "exampleIds": [
+          "exm.sa.money.mon_fee.1.1"
+        ],
+        "gloss": "A fixed charge for a service, such as a card payment or a bank transfer.",
+        "id": "sns.sa.money.mon_fee.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "利用に対して一定額だけ取る料金。カード決済や銀行振込のように、取扱金額NEXT无关に同じ額がかかるものが多い。",
+        "exampleIds": [
+          "exm.sa.money.mon_fee.1.1.ja"
+        ],
+        "gloss": "あるサービスに対して定obediallyかかる固定の料金。",
+        "id": "sns.sa.money.mon_fee.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.mon_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "카드 결제나 은행 송금 같은 서비스에 대해 정해져 있는 요금이다. 금액이나 횟수에 따라 달라지는 별도의 비용과 구별한다.",
+        "exampleIds": [
+          "exm.sa.money.mon_fee.1.1.ko"
+        ],
+        "gloss": "카드 결제나 은행 송금 같은 서비스에 대해 정해져 있는 요금.",
+        "id": "sns.sa.money.mon_fee.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.mon_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Valor fixo cobrado pela prestação de um serviço, como o uso de um cartão ou a transferência bancária.",
+        "exampleIds": [
+          "exm.sa.money.mon_fee.1.1.pt_br"
+        ],
+        "gloss": "Cobrança fixa por um serviço prestado.",
+        "id": "sns.sa.money.mon_fee.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.mon_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Biaya adalah charges tetap untuk jasa tertentu, seperti pembayaran dengan kartu atau transfer bank. Jumlah biaya biasanya tidak bergantung pada nilai transaksi.",
+        "exampleIds": [
+          "exm.sa.money.mon_fee.1.1.id"
+        ],
+        "gloss": "Biaya adalahcharges tetap untuk jasa tertentu, seperti pembayaran dengan kartu atau transfer bank.",
+        "id": "sns.sa.money.mon_fee.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.mon_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ค่าธรรมเนียมจำนวนคงที่ที่เรียกเก็บสำหรับบริการหนึ่ง เช่น การชำระเงินด้วยบัตรหรือการโอนเงินผ่านธนาคาร โดยไม่คิดตามมูลค่าที่โอน",
+        "exampleIds": [
+          "exm.sa.money.mon_fee.1.1.th"
+        ],
+        "gloss": "ค่าใช้จ่ายกำหนดสำหรับการรับบริการ",
+        "id": "sns.sa.money.mon_fee.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.mon_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kartla ödeme, banka transferi veya benzeri bir hizmet için alınan sabit ücret; işlemin tutarından bağımsız olabilir.",
+        "exampleIds": [
+          "exm.sa.money.mon_fee.1.1.tr"
+        ],
+        "gloss": "Bir hizmet için ödenen sabit bedel.",
+        "id": "sns.sa.money.mon_fee.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.mon_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_fee.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Banka, her transför için 2 dolar transfer ücreti alır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.mon_fee.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ค่าธรรมเนียมการโอนเงินเป็นจำนวน 2 ดอลลาร์ทุกครั้ง ไม่ว่าจะโอนเงินจำนวนเท่าใด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.mon_fee.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Biaya transfer bank adalah 2 dolar setiap kali transfer, berapa pun jumlah yang dikirim.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.mon_fee.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A taxa bancária da transferência é de dois reais, independentemente do valor transferido.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.mon_fee.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "이 은행은 송금할 때마다 금액과 관계없이 이 달러씩 수수료를 부과한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.mon_fee.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "振込の銀行手数料は、transfer 額にVM 関係なく、毎回2ドル。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.mon_fee.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bank fee for the transfer is 2 $ every time, whatever the amount transferred.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e6e0fe091aa85b91054522de52bec219db0c19f83badde83f3cb45a858af5143": [
+      {
+        "forms": [
+          "Hyperfidelity",
+          "lsc_hyperfidelity"
+        ],
+        "id": "lex.sa.social.lsc_hyperfidelity",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hyperfidelity",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lsc_hyperfidelity.alt",
+          "sns.sa.social.lsc_hyperfidelity.alt.ja",
+          "sns.sa.social.lsc_hyperfidelity.alt.ko",
+          "sns.sa.social.lsc_hyperfidelity.alt.pt_br",
+          "sns.sa.social.lsc_hyperfidelity.alt.id",
+          "sns.sa.social.lsc_hyperfidelity.alt.th",
+          "sns.sa.social.lsc_hyperfidelity.alt.tr"
+        ]
+      },
+      {
+        "definition": "The belief that a partner must match a complete specification exactly, with no deviation allowed.",
+        "exampleIds": [
+          "exm.sa.social.lsc_hyperfidelity.1.1"
+        ],
+        "gloss": "The belief that a partner must match a complete specification exactly, with no deviation allowed.",
+        "id": "sns.sa.social.lsc_hyperfidelity.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lsc_hyperfidelity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "相手に certain complete specifications exactly...",
+        "exampleIds": [
+          "exm.sa.social.lsc_hyperfidelity.1.1.ja"
+        ],
+        "gloss": "対象に完全な仕様との一致をitionally 求める姿勢。",
+        "id": "sns.sa.social.lsc_hyperfidelity.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lsc_hyperfidelity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "이쪽이 정한 세부 조건을 상대가 빠짐없이 정확하게 맞추지 못하면 관계를 인정하지 않으려는 태도를 말한다. 정도가 높은 충실함과 달리 어떤 편차도 허용하지 않는 점이 특징이다.",
+        "exampleIds": [
+          "exm.sa.social.lsc_hyperfidelity.1.1.ko"
+        ],
+        "gloss": "상대가 정해진 모든 조건을 조금의 차이도 없이 충족해야 한다는 지나친 기대.",
+        "id": "sns.sa.social.lsc_hyperfidelity.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lsc_hyperfidelity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Crença interna de que a outra pessoa precisa preencher exatamente uma lista de qualidades, sem qualquer diferença admitida. É uma expectativa da própria cabeça, não uma exigência feita ao outro.",
+        "exampleIds": [
+          "exm.sa.social.lsc_hyperfidelity.1.1.pt_br"
+        ],
+        "gloss": "A crença de que o parceiro deve corresponder a uma especificação completa, sem nenhum desvio.",
+        "id": "sns.sa.social.lsc_hyperfidelity.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lsc_hyperfidelity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hiperfidelitas adalah kepercayaan bahwa pasangan harus memenuhi seluruh spesifikasi dengan tepat dan tanpa toleransi apa pun. Ini merupakan harapan terhadap kesesuaian yang mutlak, bukan sekadar tuntutan tinggi.",
+        "exampleIds": [
+          "exm.sa.social.lsc_hyperfidelity.1.1.id"
+        ],
+        "gloss": "Kepercayaan bahwa pasangan harus cocok dengan spesifikasi lengkap tanpa penyimpangan.",
+        "id": "sns.sa.social.lsc_hyperfidelity.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lsc_hyperfidelity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความเชื่อว่าคู่ต้องตรงกับข้อกำหนดทั้งหมดอย่างสมบูรณ์แบบ โดยไม่ยอมให้มีความต่างใด ๆ",
+        "exampleIds": [
+          "exm.sa.social.lsc_hyperfidelity.1.1.th"
+        ],
+        "gloss": "ความยึดติดว่าคู่ต้องตรงตามข้อกำหนดทุกประการ",
+        "id": "sns.sa.social.lsc_hyperfidelity.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lsc_hyperfidelity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir ilişkide karşının yalnızca tam ve kusursuz biçimde uyması gerektiğini düşünme. Bu inanç, hiçbir sapmanın kabul edilmemesi yüzünden aramayı erken sonlandırabilir.",
+        "exampleIds": [
+          "exm.sa.social.lsc_hyperfidelity.1.1.tr"
+        ],
+        "gloss": "Bir eşin veya müşterinin bütün ölçütlere sapmasız uyması gerektiğine inanma.",
+        "id": "sns.sa.social.lsc_hyperfidelity.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lsc_hyperfidelity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lsc_hyperfidelity.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Mükemmel uyum beklentisi, aramanın gerçekten başlamadan önce bitmesinin nedenidir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lsc_hyperfidelity.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความยึดติดว่าคู่ต้องตรงทุกประการทำให้การค้นหาหยุดลงก่อนที่จะเริ่มอย่างแท้จริง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lsc_hyperfidelity.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hiperfidelitas menjadi alasan pencarian ini berhenti sebelum benar-benar dimulai.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lsc_hyperfidelity.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A hiperfidelidade é o motivo de a busca parar antes mesmo de ter começado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lsc_hyperfidelity.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "상대가 정해진 조건을 조금이라도 벗어나면 받아들이지 않으려는 과도한 동일성 요구 때문에 관계는 시작부터 막혔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lsc_hyperfidelity.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "検索が本当に始まる前に止まるのは、ハイパーフィデリティが理由だからである。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lsc_hyperfidelity.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Hyperfidelity is why the search stops before it has really begun.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

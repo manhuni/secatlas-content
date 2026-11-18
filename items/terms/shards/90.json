@@ -1,0 +1,64 @@
+{
+  "items": {
+    "lts_divorced": {
+      "definition": "Describing a person whose marriage has ended legally.",
+      "dictionaryId": "lex.sa.social.lts_divorced",
+      "example": "He is divorced, and the children spend the week with him.",
+      "fieldId": "social",
+      "id": "lts_divorced",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Divorced"
+    },
+    "mon_real": {
+      "definition": "True to fact; not a simulation.",
+      "dictionaryId": "lex.sa.en.real.adjective",
+      "example": "With prices rising, the real value of the 2 000 $ falls while the ticket still says 2 000 $.",
+      "fieldId": "money",
+      "id": "mon_real",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "real"
+    },
+    "set_menu": {
+      "definition": "A starter, a main course and a dessert sold together at a single price. Often the cheapest and most predictable choice.",
+      "dictionaryId": "lex.sa.travel.set_menu",
+      "example": "I will take the set menu, please.",
+      "fieldId": "travel",
+      "id": "set_menu",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Set menu"
+    },
+    "sign_off": {
+      "definition": "The closing line of an email, such as \"Kind regards\", followed by your name.",
+      "dictionaryId": "lex.sa.work.sign_off",
+      "example": "Use a plain sign-off: Kind regards, then your name and title.",
+      "fieldId": "work",
+      "id": "sign_off",
+      "lessonIds": [
+        "article_professional_emails",
+        "article_workplace_expressions"
+      ],
+      "packs": [
+        "knw.work.emails",
+        "knw.work.expressions"
+      ],
+      "term": "Sign-off"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

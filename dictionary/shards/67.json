@@ -1,0 +1,1914 @@
+{
+  "records": {
+    "67129e8dc2e409257d5905045ed2924e6c8bc20eef05c8a200cecaab6df022fb": [
+      {
+        "forms": [
+          "Net pay",
+          "net_pay"
+        ],
+        "id": "lex.sa.money.net_pay",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Net pay",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.net_pay.alt",
+          "sns.sa.money.net_pay.alt.ja",
+          "sns.sa.money.net_pay.alt.ko",
+          "sns.sa.money.net_pay.alt.pt_br",
+          "sns.sa.money.net_pay.alt.id",
+          "sns.sa.money.net_pay.alt.th",
+          "sns.sa.money.net_pay.alt.tr"
+        ]
+      },
+      {
+        "definition": "The amount left after all deductions, and the amount that reaches your bank account.",
+        "exampleIds": [
+          "exm.sa.money.net_pay.1.1"
+        ],
+        "gloss": "The amount left after all deductions, and the amount that reaches your bank account.",
+        "id": "sns.sa.money.net_pay.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.net_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "税金や保険料などをすべて差し引いた後、実際に受け取る金額です。銀行口座に振り込まれる額就是这个。",
+        "exampleIds": [
+          "exm.sa.money.net_pay.1.1.ja"
+        ],
+        "gloss": "控除後の給与 手取り額。",
+        "id": "sns.sa.money.net_pay.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.net_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "총급여에서 세금, 보험 등 모든 공제 항목을 빼고 실제 은행 계좌에 입금되는 금액이다.",
+        "exampleIds": [
+          "exm.sa.money.net_pay.1.1.ko"
+        ],
+        "gloss": "세금과 보험 등의 공제를 모두 마치고 받는 급여.",
+        "id": "sns.sa.money.net_pay.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.net_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Remuneração líquida, calculada após descontos de impostos, INSS e outros encargos. É o valor efetivamente recebido pelo empregado.",
+        "exampleIds": [
+          "exm.sa.money.net_pay.1.1.pt_br"
+        ],
+        "gloss": "Salário que sobra depois de todos os descontos e que é creditado na conta.",
+        "id": "sns.sa.money.net_pay.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.net_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gaji bersih yang benar-benar diterima setelah dipotong pajak, asuransi, dan potongan lainnya. Jumlah inilah yang biasanya masuk ke rekening bank.",
+        "exampleIds": [
+          "exm.sa.money.net_pay.1.1.id"
+        ],
+        "gloss": "Jumlah gaji yang diterima setelah semua potongan.",
+        "id": "sns.sa.money.net_pay.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.net_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "จำนวนเงินเดือนที่ได้รับหลังหักภาษี ประกัน และรายการอื่น ๆ ออกแล้ว โดยทั่วไปเป็นจำนวนเงินที่โอนเข้าบัญชีธนาคาร",
+        "exampleIds": [
+          "exm.sa.money.net_pay.1.1.th"
+        ],
+        "gloss": "เงินที่เหลือหลังหักรายการทั้งหมดและเข้าบัญชีธนาคาร",
+        "id": "sns.sa.money.net_pay.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.net_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Brüt ödemeden vergi, sigorta ve diğer kesintiler düşüldükten sonra kalan miktardır. Bu tutar çalışanın banka hesabına yatırılır.",
+        "exampleIds": [
+          "exm.sa.money.net_pay.1.1.tr"
+        ],
+        "gloss": "Tüm kesintiler çıkarıldıktan sonra kalan ve banka hesabına geçen ödeme tutarıdır.",
+        "id": "sns.sa.money.net_pay.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.net_pay",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.net_pay.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The difference between my gross and my net is mostly tax and insurance.",
+        "translation": "Brüt ücretimle net maaşım arasındaki farkın çoğunu vergi ve sigorta oluşturuyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.net_pay.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The difference between my gross and my net is mostly tax and insurance.",
+        "translation": "เงินเดือนสุทธิของฉันต่ำกว่าเงินเดือนรวมประมาณภาษีและค่าประกัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.net_pay.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The difference between my gross and my net is mostly tax and insurance.",
+        "translation": "Perbedaan antara gaji bruto dan gaji bersih saya sebagian besar berasal dari pajak dan asuransi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.net_pay.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The difference between my gross and my net is mostly tax and insurance.",
+        "translation": "A diferença entre meu salário bruto e meu salário líquido é principalmente o imposto e o INSS.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.net_pay.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The difference between my gross and my net is mostly tax and insurance.",
+        "translation": "총급여와 실수령액의 차이는 주로 세금과 보험료입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.net_pay.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The difference between my gross and my net is mostly tax and insurance.",
+        "translation": "私の総給と手取り額との差は、主に税金と保険料です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.net_pay.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The difference between my gross and my net is mostly tax and insurance.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "672a78319a7ff709e01c2ee0d0ffc5d760224f3900af08928302a1928b36ddd3": [
+      {
+        "forms": [
+          "multiply",
+          "multiplies"
+        ],
+        "id": "lex.sa.en.multiply.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "multiply",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.multiply.verb.1",
+          "sns.sa.en.multiply-verb.alt"
+        ]
+      },
+      {
+        "definition": "Tính tích của hai đại lượng.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "nhân",
+        "id": "sns.sa.vi.multiply.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.multiply.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To compute the product of two numbers.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "To compute the product of two quantities.",
+        "id": "sns.sa.en.multiply-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.multiply.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "674a7c8629596efb22bb75de32e70d0ea28a8287d69c45406d69f79f278bc944": [
+      {
+        "forms": [
+          "Street food",
+          "street_food"
+        ],
+        "id": "lex.sa.travel.street_food",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Street food",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.street_food.alt",
+          "sns.sa.travel.street_food.alt.ja",
+          "sns.sa.travel.street_food.alt.ko",
+          "sns.sa.travel.street_food.alt.pt_br",
+          "sns.sa.travel.street_food.alt.id",
+          "sns.sa.travel.street_food.alt.th",
+          "sns.sa.travel.street_food.alt.tr"
+        ]
+      },
+      {
+        "definition": "Food bought from a stall or a small kitchen at the roadside. It is usually cheap, quick and freshly cooked, but the hygiene is worth watching.",
+        "exampleIds": [
+          "exm.sa.travel.street_food.1.1"
+        ],
+        "gloss": "Food bought from a stall or a small kitchen at the roadside. It is usually cheap, quick and freshly cooked, but the hygiene is worth watching.",
+        "id": "sns.sa.travel.street_food.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.street_food",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "道端の屋台や小さな厨房から買った料理です。ふつうは安くて速く、新しく調理されていますが、衛生状態には注意が必要です。",
+        "exampleIds": [
+          "exm.sa.travel.street_food.1.1.ja"
+        ],
+        "gloss": "道沿いの屋台や小さな厨房出售られる料理。",
+        "id": "sns.sa.travel.street_food.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.street_food",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "보통 값이 싸고 빨리 나오며 갓 만든 음식이지만, 위생 상태는 직접 확인하는 것이 좋다.",
+        "exampleIds": [
+          "exm.sa.travel.street_food.1.1.ko"
+        ],
+        "gloss": "길변 노점이나 작은 가게에서 사 먹는 길거리 음식이다.",
+        "id": "sns.sa.travel.street_food.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.street_food",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Alimento preparado e vendido por vendedores em barracas ou pequenas cozinhas, geralmente em locais de grande circulação. Costuma ser barato, rápido e preparado na hora, mas as condições de higiene devem ser observadas.",
+        "exampleIds": [
+          "exm.sa.travel.street_food.1.1.pt_br"
+        ],
+        "gloss": "Comida vendida em uma barraca ou cozinha pequena ao lado da rua.",
+        "id": "sns.sa.travel.street_food.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.street_food",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Makanan pinggir jalan umumnya murah, cepatataire dan dimasak secara segar. Condition hygiene dari tempatbruck dan cuisine perlu diperhatikan karena kondisi dapat berbeda.",
+        "exampleIds": [
+          "exm.sa.travel.street_food.1.1.id"
+        ],
+        "gloss": "Makanan pinggir jalan adalah makanan yang dijual di kios atau dapur kecil di tepi jalan.",
+        "id": "sns.sa.travel.street_food.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.street_food",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "มักราคาถูก ทำได้เร็ว และสดใหม่ แต่ควรพิจารณาความสะอาดของสถานที่จำหน่าย",
+        "exampleIds": [
+          "exm.sa.travel.street_food.1.1.th"
+        ],
+        "gloss": "อาหารที่ซื้อจากแผงร้านหรือครัวเล็กติดถนน",
+        "id": "sns.sa.travel.street_food.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.street_food",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yol kenarındaki bir tezgâhtan veya küçük bir mutfaktan alınan, genellikle ucuz, hızlı ve taze pişirilen yemek. Hijyen koşulları dikkatle değerlendirilmelidir.",
+        "exampleIds": [
+          "exm.sa.travel.street_food.1.1.tr"
+        ],
+        "gloss": "Yol kenarındaki tezgâh veya küçük bir mutfaktan alınan yemek.",
+        "id": "sns.sa.travel.street_food.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.street_food",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.street_food.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us get something from a street stall near the station instead of waiting for a table.",
+        "translation": "Masada bekleyeceğine istasyonun yakınındaki bir tezgâhtan sokak yemeği alalım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.street_food.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us get something from a street stall near the station instead of waiting for a table.",
+        "translation": "ไปกินอาหารริมทางที่แผงร้านใกล้สถานีแทนการรอที่นั่ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.street_food.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us get something from a street stall near the station instead of waiting for a table.",
+        "translation": "Mari kita membeli makanan dari kios pinggir jalan di dekat stasiun daripada menunggu meja.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.street_food.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us get something from a street stall near the station instead of waiting for a table.",
+        "translation": "Em vez de esperar por uma mesa, vamos comprar comida de rua em uma barraca perto da estação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.street_food.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us get something from a street stall near the station instead of waiting for a table.",
+        "translation": "역 근처 노점에서 길거리 음식을 사 먹고 식당 자리는 기다리지 않자.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.street_food.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us get something from a street stall near the station instead of waiting for a table.",
+        "translation": "待ち席を待たず、駅近くの屋台で何か購入しましょう。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.street_food.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Let us get something from a street stall near the station instead of waiting for a table.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "675f0c95136cc2c161ffca48ae0936a5907cd38273f79ff2fca76ccf095b5b59": [
+      {
+        "forms": [
+          "Deterrence failure",
+          "war_deterrence_failure"
+        ],
+        "id": "lex.sa.mind.war_deterrence_failure",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Deterrence failure",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_deterrence_failure.alt",
+          "sns.sa.mind.war_deterrence_failure.alt.ja",
+          "sns.sa.mind.war_deterrence_failure.alt.ko",
+          "sns.sa.mind.war_deterrence_failure.alt.pt_br",
+          "sns.sa.mind.war_deterrence_failure.alt.id",
+          "sns.sa.mind.war_deterrence_failure.alt.th",
+          "sns.sa.mind.war_deterrence_failure.alt.tr"
+        ]
+      },
+      {
+        "definition": "The case where the opponent acts anyway: the threat was not believed, or it was believed and the cost was accepted.",
+        "exampleIds": [
+          "exm.sa.mind.war_deterrence_failure.1.1"
+        ],
+        "gloss": "The case where the opponent acts anyway: the threat was not believed, or it was believed and the cost was accepted.",
+        "id": "sns.sa.mind.war_deterrence_failure.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_deterrence_failure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "抑止を意図した相手がblicking拘泥せずclesiasticalにSubscriberする状態。脅威が信じられなかった場合と、信じられたが代償を受け入れた場合がある。",
+        "exampleIds": [
+          "exm.sa.mind.war_deterrence_failure.1.1.ja"
+        ],
+        "gloss": "抑止の脅威が効かず、相手が行動 nevertheless proceed 場合。",
+        "id": "sns.sa.mind.war_deterrence_failure.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_deterrence_failure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대가 위협을 믿지 않았거나, 위협을 믿었지만 그 비용을 감수하고서라도 행동을 결단한 경우를 뜻한다.",
+        "exampleIds": [
+          "exm.sa.mind.war_deterrence_failure.1.1.ko"
+        ],
+        "gloss": "위협에도 불구하고 상대가 행동한 경우.",
+        "id": "sns.sa.mind.war_deterrence_failure.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_deterrence_failure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a falha de uma estratégia de deterrência: o adversário não acreditou na ameaça ou a aceitou como um custo menor que o benefício de agir.",
+        "exampleIds": [
+          "exm.sa.mind.war_deterrence_failure.1.1.pt_br"
+        ],
+        "gloss": "Situação em que o adversário age apesar da ameaça.",
+        "id": "sns.sa.mind.war_deterrence_failure.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_deterrence_failure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kegagalan p deterrensi, ketika lawan tetap bertindak meskipun ancaman tidak dipercaya atau sudah dipercaya tetapi risikonya tetap diterima.",
+        "exampleIds": [
+          "exm.sa.mind.war_deterrence_failure.1.1.id"
+        ],
+        "gloss": "Kegagalan p deterrensi, ketika lawan tetap bertindak meskipun ancaman yang dibuat.",
+        "id": "sns.sa.mind.war_deterrence_failure.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_deterrence_failure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กรณีที่คู่สู้ยังลงมือแม้มีการกดดัน โดยอาจเพราะไม่เชื่อคำขู่ หรือเชื่อแต่ยอมรับต้นทุนที่เกี่ยวข้อง",
+        "exampleIds": [
+          "exm.sa.mind.war_deterrence_failure.1.1.th"
+        ],
+        "gloss": "กรณีที่คู่สู้ลงมือแม้ถูกกดดัน",
+        "id": "sns.sa.mind.war_deterrence_failure.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_deterrence_failure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Caydırmanın başarısız olması, karşı tarafın tehdi inanmadığı ya da inansa bile kabul ettiği maliyete rağmen eyleme girişmesi durumunda ortaya çıkar.",
+        "exampleIds": [
+          "exm.sa.mind.war_deterrence_failure.1.1.tr"
+        ],
+        "gloss": "Tehdide rağmen karşı tarafın eylemini yine de gerçekleştirmesi durumu.",
+        "id": "sns.sa.mind.war_deterrence_failure.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_deterrence_failure",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_deterrence_failure.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Caydırmanın başarısız olması, karşı tarafın tehditten sonra da saldırıya geçmesi demektir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_deterrence_failure.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เมื่อคู่สู้ลงมือต่อแม้ถูกขู่ นั่นแสดงว่าการกดดันล้มเหลว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_deterrence_failure.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kegagalan p deterrensi membuat lawan melakukan tindakan yang dicegah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_deterrence_failure.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Houve uma falha de deterrência porque a ação aconteceu mesmo assim.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_deterrence_failure.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "위협이 통하지 않아 결국 행동을 진행했다면 이는 억지 실패이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_deterrence_failure.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "抑止の失敗とは、 Pioneeringな行動がそれでも実行されたことを意味する。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_deterrence_failure.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Deterrence failure means the action went ahead anyway.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6761aac743194af324f7aea30fa1a7d91281b9438662e9dc4dfab6682a856bc8": [
+      {
+        "forms": [
+          "Stir-fry",
+          "stir_fry"
+        ],
+        "id": "lex.sa.kids_food.stir_fry",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Stir-fry",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_food.stir_fry.alt",
+          "sns.sa.kids_food.stir_fry.alt.ja",
+          "sns.sa.kids_food.stir_fry.alt.ko",
+          "sns.sa.kids_food.stir_fry.alt.pt_br",
+          "sns.sa.kids_food.stir_fry.alt.id",
+          "sns.sa.kids_food.stir_fry.alt.th",
+          "sns.sa.kids_food.stir_fry.alt.tr"
+        ]
+      },
+      {
+        "definition": "To cook small pieces of food quickly in a little oil over a hot fire.",
+        "exampleIds": [
+          "exm.sa.kids_food.stir_fry.1.1"
+        ],
+        "gloss": "To cook small pieces of food quickly in a little oil over a hot fire.",
+        "id": "sns.sa.kids_food.stir_fry.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_food.stir_fry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "小さく切った食材を、少量の油と強い火ですばやく炒める料理。野菜や肉などを炒めたもの。",
+        "exampleIds": [
+          "exm.sa.kids_food.stir_fry.1.1.ja"
+        ],
+        "gloss": "少量の油と強い火で、材料をすばやく炒める料理。",
+        "id": "sns.sa.kids_food.stir_fry.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_food.stir_fry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "작게 썬 음식을 뜨거운 불에 적은 기름으로 빠르게 볶는 요리 방법이다.",
+        "exampleIds": [
+          "exm.sa.kids_food.stir_fry.1.1.ko"
+        ],
+        "gloss": "작은 조각의 음식을 볶는 요리.",
+        "id": "sns.sa.kids_food.stir_fry.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_food.stir_fry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Método de cozinhar rapidamente pequenos pedaços de alimento em pouco óleo, sob fogo forte.",
+        "exampleIds": [
+          "exm.sa.kids_food.stir_fry.1.1.pt_br"
+        ],
+        "gloss": "Preparo de pequenos pedaços de alimento cozidos rapidamente no óleo, sob fogo forte.",
+        "id": "sns.sa.kids_food.stir_fry.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_food.stir_fry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Masakan yang dibuat dengan memotong bahan menjadi bagian kecil lalu masaknya dengan cepat menggunakan sedikit minyak dan api besar.",
+        "exampleIds": [
+          "exm.sa.kids_food.stir_fry.1.1.id"
+        ],
+        "gloss": "Makanan yang dimasak cepat dengan sedikit minyak di atas api besar.",
+        "id": "sns.sa.kids_food.stir_fry.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_food.stir_fry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "วิธีทำอาหารโดยผัดชิ้นอาหารเล็ก ๆ ให้สุกอย่างรวดเร็วในน้ำมันน้อยบนไฟแรง",
+        "exampleIds": [
+          "exm.sa.kids_food.stir_fry.1.1.th"
+        ],
+        "gloss": "การผัดอาหารชิ้นเล็กอย่างรวดเร็วในน้ำมันน้อยบนไฟแรง",
+        "id": "sns.sa.kids_food.stir_fry.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_food.stir_fry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Küçük parçalar hâlindeki yiyeceğin az miktarda yağda, sıcak ateş üzerinde hızla pişirilmesiyle hazırlanan yemek.",
+        "exampleIds": [
+          "exm.sa.kids_food.stir_fry.1.1.tr"
+        ],
+        "gloss": "Az miktarda yağda sıcak ateşte hızla pişirilen yiyecek.",
+        "id": "sns.sa.kids_food.stir_fry.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_food.stir_fry",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_food.stir_fry.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We stir-fry the morning glory for five minutes.",
+        "translation": "Sabah gülini beş dakika sote ederek pişiriyoruz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_food.stir_fry.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We stir-fry the morning glory for five minutes.",
+        "translation": "เราผัดผักกะยางเขียวห้านาที",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_food.stir_fry.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We stir-fry the morning glory for five minutes.",
+        "translation": "Saya menumis kangkung selama lima menit.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_food.stir_fry.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We stir-fry the morning glory for five minutes.",
+        "translation": "O legume pode ser preparado como refogado durante cinco minutos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_food.stir_fry.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We stir-fry the morning glory for five minutes.",
+        "translation": "오늘 저녁에는 채소 볶음을 하기로 했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_food.stir_fry.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We stir-fry the morning glory for five minutes.",
+        "translation": "朝顔は五分間で炒め物にします。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_food.stir_fry.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We stir-fry the morning glory for five minutes.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476": [
+      {
+        "forms": [
+          "Context window",
+          "context_window"
+        ],
+        "id": "lex.sa.technology.context_window",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Context window",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.context_window.alt",
+          "sns.sa.technology.context_window.alt.ja",
+          "sns.sa.technology.context_window.alt.ko",
+          "sns.sa.technology.context_window.alt.pt_br",
+          "sns.sa.technology.context_window.alt.id",
+          "sns.sa.technology.context_window.alt.th",
+          "sns.sa.technology.context_window.alt.tr"
+        ]
+      },
+      {
+        "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+        "exampleIds": [
+          "exm.sa.technology.context_window.1.1"
+        ],
+        "gloss": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+        "id": "sns.sa.technology.context_window.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "質問、会話履歴、参考資料、指示など、必要な入力すべてを合わせて、一度に処理できるトークンの上限。",
+        "exampleIds": [
+          "exm.sa.technology.context_window.1.1.ja"
+        ],
+        "gloss": "モデルが一度に保持できるトークンの最大数。",
+        "id": "sns.sa.technology.context_window.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "질문, 이전 대화, 문서와 지시를 모두 합쳐서 모델이 동시에 담을 수 있는 토큰 수의 한도이다.",
+        "exampleIds": [
+          "exm.sa.technology.context_window.1.1.ko"
+        ],
+        "gloss": "모델이 한 번에 함께 처리할 수 있는 토큰 수의 최댓값.",
+        "id": "sns.sa.technology.context_window.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Limite de tokens que um modelo de linguagem mantém em um único pedido, somando a pergunta, o histórico da conversa, os documentos e as instruções. Se o total passar do limite, é preciso cortar o material enviado.",
+        "exampleIds": [
+          "exm.sa.technology.context_window.1.1.pt_br"
+        ],
+        "gloss": "O número máximo de tokens que um modelo consegue processar de uma só vez.",
+        "id": "sns.sa.technology.context_window.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Batas total token yang dapat ditahan model dalam satu waktu, mencakup pertanyaan, riwayat percakapan, dokumen, dan instruksi. Batas ini berlaku untuk keseluruhan isi, bukan hanya pertanyaan pengguna.",
+        "exampleIds": [
+          "exm.sa.technology.context_window.1.1.id"
+        ],
+        "gloss": "Jumlah maksimum token yang dapat diproses model sekaligus.",
+        "id": "sns.sa.technology.context_window.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ขีดจำกัดของจำนวนโทเคนที่โมเดลสามารถรับไว้ในครั้งเดียว โดยนับคำถาม ประวัติสนทนา เอกสาร และคำสั่งทั้งหมดรวมกัน",
+        "exampleIds": [
+          "exm.sa.technology.context_window.1.1.th"
+        ],
+        "gloss": "จำนวนโทเคนสูงสุดที่โมเดลเก็บไว้พร้อมกันได้",
+        "id": "sns.sa.technology.context_window.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Soru, geçmiş, belgeler ve talimatların toplamı dâhil olmak üzere bir dil modelinin aynı anda işleyebileceği en fazla jeton sayısıdır.",
+        "exampleIds": [
+          "exm.sa.technology.context_window.1.1.tr"
+        ],
+        "gloss": "Bağlam penceresi, bir modelin aynı anda işleyebileceği en fazla jeton sayısıdır.",
+        "id": "sns.sa.technology.context_window.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.context_window.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "With an 8,000 token window, a 9,000 token request has to be cut.",
+        "translation": "Sekiz bin jetonluk bir bağlam penceresiyle dokuz bin jetonluk istek kısaltılmalıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.context_window.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "With an 8,000 token window, a 9,000 token request has to be cut.",
+        "translation": "เมื่อหน้าต่างบริบทมีขนาด 8,000 โทเคน คำขอที่ยาว 9,000 โทเคนจึงต้องถูกตัดให้สั้นลง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.context_window.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "With an 8,000 token window, a 9,000 token request has to be cut.",
+        "translation": "Dengan jendela konteks sebesar 8.000 token, permintaan sebesar 9.000 token harus dipotong.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.context_window.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "With an 8,000 token window, a 9,000 token request has to be cut.",
+        "translation": "Com uma janela de contexto de 8 mil tokens, um pedido de 9 mil tem de ser cortado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.context_window.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "With an 8,000 token window, a 9,000 token request has to be cut.",
+        "translation": "문맥 범위가 8,000토큰이면 9,000토큰짜리 요청은 줄여야 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.context_window.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "With an 8,000 token window, a 9,000 token request has to be cut.",
+        "translation": "文脈窓が8,000トークンなら、9,000トークンの要求は一部を削る必要があります。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.context_window.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "With an 8,000 token window, a 9,000 token request has to be cut.",
+        "translation": "",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Context window",
+          "aiw_context_window"
+        ],
+        "id": "lex.sa.technology.aiw_context_window",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Context window",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.aiw_context_window.alt",
+          "sns.sa.technology.aiw_context_window.alt.ja",
+          "sns.sa.technology.aiw_context_window.alt.ko",
+          "sns.sa.technology.aiw_context_window.alt.pt_br",
+          "sns.sa.technology.aiw_context_window.alt.id",
+          "sns.sa.technology.aiw_context_window.alt.th",
+          "sns.sa.technology.aiw_context_window.alt.tr"
+        ]
+      },
+      {
+        "definition": "The amount of text the model can use at one time: your message, the conversation so far, and any attached document.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_context_window.1.1"
+        ],
+        "gloss": "The amount of text the model can use at one time: your message, the conversation so far, and any attached document.",
+        "id": "sns.sa.technology.aiw_context_window.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.aiw_context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ユーザーのメッセージ、これまでの会話、添付文書などを、モデルが一度に参照できるテキスト量。容量が上限に達すると、古い情報は利用できなくなる。",
+        "exampleIds": [
+          "exm.sa.technology.aiw_context_window.1.1.ja"
+        ],
+        "gloss": "モデルが一度に利用できる文章量のこと。",
+        "id": "sns.sa.technology.aiw_context_window.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.aiw_context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사용자의 메시지, 지금까지의 대화, 첨부 문서를 모두 합친 분량입니다. 한도를 넘으면 오래된 내용이 모델이 참조하는 범위에서 빠집니다.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_context_window.1.1.ko"
+        ],
+        "gloss": "인공지능 모델이 한 번에 활용할 수 있는 전체 글의 분량입니다.",
+        "id": "sns.sa.technology.aiw_context_window.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.aiw_context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o limite de texto que um modelo usa ao mesmo tempo, incluindo a mensagem atual, o histórico da conversa e os documentos anexados. Quando esse limite é excedido, as informações mais antigas podem ficar inacessíveis ao modelo.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_context_window.1.1.pt_br"
+        ],
+        "gloss": "Janela de contexto é a quantidade de texto que o modelo pode considerar de uma só vez.",
+        "id": "sns.sa.technology.aiw_context_window.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.aiw_context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Jendela konteks mencakup pesan Anda, percakapan sebelumnya, dan dokumen yang dilampirkan. Jika sudah penuh, teks awal mungkin tidak lagi dapat diakses model.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_context_window.1.1.id"
+        ],
+        "gloss": "Jendela konteks adalah jumlah teks yang dapat diakses model sekaligus.",
+        "id": "sns.sa.technology.aiw_context_window.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.aiw_context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "จำนวนข้อความที่โมเดลใช้พร้อมกันได้ในแต่ละครั้ง รวมถึงข้อความของผู้ใช้ บทสนทนาก่อนหน้า และเอกสารแนบ เมื่อเต็มแล้วข้อมูลเก่าจะถูกตัดออกจากการประมวลผล",
+        "exampleIds": [
+          "exm.sa.technology.aiw_context_window.1.1.th"
+        ],
+        "gloss": "จำนวนข้อความที่โมเดลใช้พร้อมกันได้ในแต่ละครั้ง",
+        "id": "sns.sa.technology.aiw_context_window.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.aiw_context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kullanıcının mesajını, o ana kadarki konuşmayı ve ekli belgeleri kapsayan, modelin aynı anda işleyebildiği metin sınırıdır. Bu sınır dolduğunda başlangıçtaki içerikler modelin görüş alanından çıkar.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_context_window.1.1.tr"
+        ],
+        "gloss": "Modelin aynı anda kullanabileceği metin miktarıdır.",
+        "id": "sns.sa.technology.aiw_context_window.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.aiw_context_window",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.aiw_context_window.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bağlam penceresi dolduğunda belgenin ilk sayfası artık modelin önünde değildir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.aiw_context_window.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เมื่อหน้าต่างบริบทเต็ม หน้าแรกของเอกสารจะไม่อยู่ในสิ่งที่โมเดลอ่านอีกต่อไป",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.aiw_context_window.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ketika jendela konteks penuh, halaman pertama dokumen tidak lagi berada dalam informasi yang dapat diakses model.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.aiw_context_window.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Quando a janela de contexto se enche, o início do documento deixa de estar visível para o modelo.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.aiw_context_window.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "문맥 창이 가득 차면 문서의 첫 페이지는 더 이상 모델의 참조 범위에 들어가지 않습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.aiw_context_window.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "コンテキスト窓が一杯になると、文書の最初のページはモデルの参照範囲から外れる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.aiw_context_window.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "When the context window is full, the first page of the document is no longer in front of the model.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6778fffcbd09c5613e4009bf3c379dbd850fd25774b3aeee96ba735fbde45974": [
+      {
+        "forms": [
+          "Groupthink"
+        ],
+        "id": "lex.sa.mind.groupthink",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Groupthink",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.groupthink.en",
+          "sns.sa.mind.groupthink.vi"
+        ]
+      },
+      {
+        "definition": "The tendency of a cohesive group to converge on one view and suppress doubt in order to preserve harmony.",
+        "exampleIds": [],
+        "gloss": "The tendency of a cohesive group to converge on one view and suppress doubt in order to preserve harmony.",
+        "id": "sns.sa.mind.groupthink.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.groupthink",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Xu hướng của một nhóm gắn kết hội tụ về một quan điểm và đè nén nghi ngờ để giữ hoà khí.",
+        "id": "sns.sa.mind.groupthink.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.groupthink",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "67905ad3cc2dd52b1f5f6a6d2814de0396618b29b4238b9af5207aeb69936e6d": [
+      {
+        "forms": [
+          "clip",
+          "clips"
+        ],
+        "id": "lex.sa.en.clip.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "clip",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.clip.noun.1",
+          "sns.sa.en.clip-noun.alt"
+        ]
+      },
+      {
+        "definition": "Một đoạn video ngắn nằm trong gói nội dung.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.05"
+        ],
+        "gloss": "đoạn video",
+        "id": "sns.sa.vi.clip.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.clip.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A short video file in a pack.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.05"
+        ],
+        "gloss": "A short video file in a content pack.",
+        "id": "sns.sa.en.clip-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.clip.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.05",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The clip is stored in the zip, not in the APK.",
+        "translation": "Đoạn video nằm trong gói zip, không nằm trong APK.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "67b65d99dbba4df0c1e12cacf2303b0604e2197c37ed8520ec93f8bb453371c1": [
+      {
+        "forms": [
+          "Air tank",
+          "air_tank"
+        ],
+        "id": "lex.sa.kids_adventure.air_tank",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Air tank",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_adventure.air_tank.alt",
+          "sns.sa.kids_adventure.air_tank.alt.ja",
+          "sns.sa.kids_adventure.air_tank.alt.ko",
+          "sns.sa.kids_adventure.air_tank.alt.pt_br",
+          "sns.sa.kids_adventure.air_tank.alt.id",
+          "sns.sa.kids_adventure.air_tank.alt.th",
+          "sns.sa.kids_adventure.air_tank.alt.tr"
+        ]
+      },
+      {
+        "definition": "A bottle of compressed air that a diver carries on their back and breathes from.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1"
+        ],
+        "gloss": "A bottle of compressed air that a diver carries on their back and breathes from.",
+        "id": "sns.sa.kids_adventure.air_tank.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "潜水士が背中に背負って持ち，rego人工呼吸.bestする圧縮空気-filled容器。",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.ja"
+        ],
+        "gloss": "潜水士が背に背負い，呼吸に使う圧縮空気の瓶。",
+        "id": "sns.sa.kids_adventure.air_tank.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "잠수부가 등에 지니고 다니며 호흡에 사용하는 압축 공기 저장 용기다. 잠수 전에 공기량과 안전 상태를 확인해야 한다.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.ko"
+        ],
+        "gloss": "잠수부가 숨을 쉬며 압축된 공기를 공급받는 용기.",
+        "id": "sns.sa.kids_adventure.air_tank.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recipiente de ar comprimido usado durante o mergulho, 보통 preso às costas e conectado ao equipamento de respiração.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.pt_br"
+        ],
+        "gloss": "Cilindro de ar comprimido que um mergulhador carrega para respirar.",
+        "id": "sns.sa.kids_adventure.air_tank.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tabung berisi udara bertekanan yang biasanya dibawa di punggung oleh penyamam dan menjadi sumber oksigen saat bernapas. UDarnya harus diperiksa sebelum menyelam.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.id"
+        ],
+        "gloss": "Tabung udara bertekanan yang dipakaionaut untuk bernapas di bawah air.",
+        "id": "sns.sa.kids_adventure.air_tank.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ภาชนะบรรจุอากาศอัดสำหรับนักดำน้ำ โดยทั่วไปติดตั้งพร้อมอุปกรณ์จ่ายอากาศและท่อหายใจ",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.th"
+        ],
+        "gloss": "ถังอากาศอัดที่นักดำน้ำพกไว้บนหลังและใช้หายใจ",
+        "id": "sns.sa.kids_adventure.air_tank.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalış sırasında nefes almak için kullanılan, sıkıştırılmış hava içeren tüptür. Dalışçı bunu sırtında taşır ve hortumundan soluk verir.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.tr"
+        ],
+        "gloss": "Dalışçının sırtında taşıdığı, sıkıştırılmış hava içeren tüp.",
+        "id": "sns.sa.kids_adventure.air_tank.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "Denize girmeden önce dalış tüpündeki havanın basıncını kontrol etti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "ลุงของเธอตรวจถังอากาศอัดก่อนเธอกระโดดลงน้ำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "Paman 检查 tangki udaranya sebelum dia masuk ke dalam air.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "O tio dela verificou o tanque de ar antes de ela entrar na água.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "그 숙모는 그녀가 물에 들어가기 전에 공기탱크를 확인했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "彼女が潜る前に，叔父が空気タンクを確認した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "67bd5998128148d33fc5d3811952f0b4cdbd92dc1ec60369b9f13624a2105129": [
+      {
+        "forms": [
+          "Reassurance-seeking",
+          "att_reassurance_seeking"
+        ],
+        "id": "lex.sa.social.att_reassurance_seeking",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Reassurance-seeking",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.att_reassurance_seeking.alt",
+          "sns.sa.social.att_reassurance_seeking.alt.ja",
+          "sns.sa.social.att_reassurance_seeking.alt.ko",
+          "sns.sa.social.att_reassurance_seeking.alt.pt_br",
+          "sns.sa.social.att_reassurance_seeking.alt.id",
+          "sns.sa.social.att_reassurance_seeking.alt.th",
+          "sns.sa.social.att_reassurance_seeking.alt.tr"
+        ]
+      },
+      {
+        "definition": "Asking a partner repeatedly to confirm that the relationship is still there.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1"
+        ],
+        "gloss": "Asking a partner repeatedly to confirm that the relationship is still there.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Asking a partner repeatedly to confirm that the relationship is still there.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.ja"
+        ],
+        "gloss": "関係がまだ続くことを、相手へ繰り返し確かめ的行为。",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대가 떠난 것이 아닌지, 관계가 여전히 있는지를 같은 질문으로 반복해서 확인하는 행위이다. 확인을 받아도 확신이 잠시 지나면 다시 질문할 수 있다.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.ko"
+        ],
+        "gloss": "관계가 여전히 유지되고 있는지 상대에게 반복해서 확인하는 행위.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Substantivo que designa a insistência em buscar garantias do parceiro, repetindo perguntas até obter a resposta desejada. Cuidado: não é o mesmo que pedir consolo ou desculpas uma única vez.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.pt_br"
+        ],
+        "gloss": "Pedir repetidamente ao parceiro que confirme que o relacionamento ainda existe.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kata ini dipakai untuk kebiasaan mengulang pertanyaan yang sama sampai mendapat jawaban yang menenangkan. Hati-hati: yang dihitung bukan sekali bertanya, melainkan mengulang pertanyaan itu berulang-ulang.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.id"
+        ],
+        "gloss": "Bertanya berulang kali kepada pasangan untuk memastikan bahwa hubungan itu masih ada.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การถามคู่รักซ้ำ ๆ เพื่อให้แน่ใจว่าความสัมพันธ์ยังดำเนินอยู่ มักเกิดขึ้นเมื่อบุคคลรู้สึกไม่มั่นคง",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.th"
+        ],
+        "gloss": "การขอคำยืนยันจากคู่รักซ้ำ ๆ ว่าความสัมพันธ์ยังอยู่",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir eşten ilişkinin devam ettiğini, kendisini sevildiğini ya da tehlikede olmadığını tekrar tekrar doğrulamasını istemektir. Aynı kaygının farklı biçimlerde sorulması da bu davranışa girer.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.tr"
+        ],
+        "gloss": "Bir eşten ilişkinin hâlâ sürdüğünü defalarca doğrulamasını istemek.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Güvence arama, aynı soruyu yanıt değişene kadar sormaktır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การแสวงหาคำยืนยันคือการถามคำถามเดิมซ้ำจนกว่าคำตอบจะเปลี่ยนไป",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Reassurance-seeking berarti bertanya hal yang sama sampai jawabannya berubah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A busca por reasseguração é repetir a mesma pergunta até que a resposta mude.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "확인 구하기는 대답이 달라질 때까지 같은 질문을 반복하는 데서 끝나지 않았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Reassurance-seeking is asking the same question until the answer changes.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Reassurance-seeking is asking the same question until the answer changes.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "67dfef0417c836fa35fb237c049e9ffdce9a3bce4148b41c561cce204a56f9e2": [
+      {
+        "forms": [
+          "Real income",
+          "real_income"
+        ],
+        "id": "lex.sa.money.real_income",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Real income",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.real_income.alt",
+          "sns.sa.money.real_income.alt.ja",
+          "sns.sa.money.real_income.alt.ko",
+          "sns.sa.money.real_income.alt.pt_br",
+          "sns.sa.money.real_income.alt.id",
+          "sns.sa.money.real_income.alt.th",
+          "sns.sa.money.real_income.alt.tr"
+        ]
+      },
+      {
+        "definition": "Income adjusted for inflation, which is the figure that says how much you can actually buy.",
+        "exampleIds": [
+          "exm.sa.money.real_income.1.1"
+        ],
+        "gloss": "Income adjusted for inflation, which is the figure that says how much you can actually buy.",
+        "id": "sns.sa.money.real_income.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.real_income",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "通货膨胀の影響を差し引いて表した収入で、実際の購買力を示す金額。名目上の給eeより低くなる場合がある。",
+        "exampleIds": [
+          "exm.sa.money.real_income.1.1.ja"
+        ],
+        "gloss": "物価上昇-adjust後の実 purchasing力 Marcoった収入。",
+        "id": "sns.sa.money.real_income.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.real_income",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "인플레이션 영향을 제외했을 때의 소득으로, 그 돈으로 실제로 얼마를 살 수 있는지를 나타낸다.",
+        "exampleIds": [
+          "exm.sa.money.real_income.1.1.ko"
+        ],
+        "gloss": "물가 상승분을 반영한 실제 purchasing power.",
+        "id": "sns.sa.money.real_income.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.real_income",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Valor da renda após descontar o efeito da inflação, indicando quanto se pode realmente comprar com ela.",
+        "exampleIds": [
+          "exm.sa.money.real_income.1.1.pt_br"
+        ],
+        "gloss": "Renda ajustada para considerar a inflação.",
+        "id": "sns.sa.money.real_income.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.real_income",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pendapatan yang nilainya memperhitungkan perubahan tingkat inflate, sehingga menunjukkan daya beli yang sebenarnya. Angka ini lebih tepat untuk menilai kemampuan konsumsi.",
+        "exampleIds": [
+          "exm.sa.money.real_income.1.1.id"
+        ],
+        "gloss": "Pendapatan yang sudah disesuaikan dengan tingkat inflasi.",
+        "id": "sns.sa.money.real_income.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.real_income",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "รายได้ที่ปรับค่าให้สอดคล้องกับระดับราคาปัจจุบัน จึงสะท้อนกำลังซื้อที่แท้จริงมากกว่าจำนวนเงินที่ได้รับเพียงด้านตัวเลข",
+        "exampleIds": [
+          "exm.sa.money.real_income.1.1.th"
+        ],
+        "gloss": "รายได้ที่ปรับตามเงินเฟ้อแล้ว",
+        "id": "sns.sa.money.real_income.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.real_income",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Fiyat artışlarındaki etkisi giderilerek hesaplanan gelir. Gerçek gelirin düşmesi, ücretin nominal olarak artsa bile satın alma gücünün azalabileceğini gösterir.",
+        "exampleIds": [
+          "exm.sa.money.real_income.1.1.tr"
+        ],
+        "gloss": "Enflasyona göre düzeltilmiş ve gerçek satın alma gücünü gösteren gelir.",
+        "id": "sns.sa.money.real_income.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.real_income",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.real_income.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Real income fell two per cent because prices rose faster than my pay.",
+        "translation": "Fiyatlar ücretimden daha hızlı arttığı için gerçek gelirim yüzde 2 azaldı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.real_income.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Real income fell two per cent because prices rose faster than my pay.",
+        "translation": "รายได้จริงลดลงร้อยละสอง เพราะราคาสินค้าเพิ่มขึ้นเร็วกว่าเงินเดือน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.real_income.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Real income fell two per cent because prices rose faster than my pay.",
+        "translation": "Pendapatan riil turun dua persen karena harga naik lebih cepat daripada gaji.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.real_income.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Real income fell two per cent because prices rose faster than my pay.",
+        "translation": "Minha renda real caiu dois por cento porque os preços aumentaram mais do que meu salário.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.real_income.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Real income fell two per cent because prices rose faster than my pay.",
+        "translation": "물가가 급여보다 빠르게 올라 실질 소득이 2% 떨어졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.real_income.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Real income fell two per cent because prices rose faster than my pay.",
+        "translation": "物価が給料的上riseしたため、実質所得は二％下がった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.real_income.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Real income fell two per cent because prices rose faster than my pay.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "67f711e800796d61251f3532c3a1d3416bc68452d2b4d8fff6d8ac26eeb49a1d": [
+      {
+        "forms": [
+          "Scared",
+          "scared"
+        ],
+        "id": "lex.sa.kids_feelings.scared",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Scared",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_feelings.scared.alt",
+          "sns.sa.kids_feelings.scared.alt.ja",
+          "sns.sa.kids_feelings.scared.alt.ko",
+          "sns.sa.kids_feelings.scared.alt.pt_br",
+          "sns.sa.kids_feelings.scared.alt.id",
+          "sns.sa.kids_feelings.scared.alt.th",
+          "sns.sa.kids_feelings.scared.alt.tr"
+        ]
+      },
+      {
+        "definition": "An afraid feeling. Your heart beats fast and you want to run or hide.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.scared.1.1"
+        ],
+        "gloss": "An afraid feeling. Your heart beats fast and you want to run or hide.",
+        "id": "sns.sa.kids_feelings.scared.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_feelings.scared",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "何かが怖いときに生じる感情で、心臓が速く鳴り、逃げるか隠れたりしたくなる。",
+        "exampleIds": [
+          "exm.sa.kids_feelings.scared.1.1.ja"
+        ],
+        "gloss": "こわい気持ち。",
+        "id": "sns.sa.kids_feelings.scared.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_feelings.scared",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "두려움이라고 하는 감정으로, 심장이 빠르게 뛰고 도망치거나 숨고 싶을 때 나타나기 쉽다.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.scared.1.1.ko"
+        ],
+        "gloss": "무서워하며 마음이 불안한 감정이다.",
+        "id": "sns.sa.kids_feelings.scared.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_feelings.scared",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a sensação de estar com medo, souvent acompanhada pelo desejo de correr ou se esconder.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.scared.1.1.pt_br"
+        ],
+        "gloss": "Sentimento de medo que faz o coração bater mais rápido.",
+        "id": "sns.sa.kids_feelings.scared.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_feelings.scared",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ketakutan adalah perasaan takut terhadap sesuatu yang dianggap berbahaya. Orang yang takut sering merasa jantungnya berdebar dan ingin segera pergi atau bersembunyi.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.scared.1.1.id"
+        ],
+        "gloss": "Perasaan takut yang membuat jantung berdebar dan ingin berlari atau bersembunyi.",
+        "id": "sns.sa.kids_feelings.scared.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_feelings.scared",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความกลัวเป็นอารมณ์ที่เกิดขึ้นเมื่อรู้สึกอันตราย โดยมักทำให้หัวใจเต้นเร็วและต้องการหนีหรือหลบ ในที่นี้ใช้เป็นคำนามบอกความรู้สึก",
+        "exampleIds": [
+          "exm.sa.kids_feelings.scared.1.1.th"
+        ],
+        "gloss": "ความกลัวคือความรู้สึกกลัวที่ทำให้หัวใจเต้นเร็วและอยากวิ่งหรือซ่อนตัว",
+        "id": "sns.sa.kids_feelings.scared.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_feelings.scared",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kendini güvende hissetmeyen ve tehlike bekleyen kişinin duyduğu korkudur.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.scared.1.1.tr"
+        ],
+        "gloss": "Kalbin hızla atmasına ve kaçmak ya da saklanmak istemeye yol açan korku duygusu.",
+        "id": "sns.sa.kids_feelings.scared.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_feelings.scared",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_feelings.scared.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I feel scared in the dark, so I hold my blanket.",
+        "translation": "Karanlıkta korku duyuyorum, bu yüzden battaniyemi tutuyorum.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_feelings.scared.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I feel scared in the dark, so I hold my blanket.",
+        "translation": "ฉันรู้สึกกลัวในที่มืด จึงกำผ้าห่มไว้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_feelings.scared.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I feel scared in the dark, so I hold my blanket.",
+        "translation": "Saya merasa takut di tempat gelap, jadi saya memeluk selimut.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_feelings.scared.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I feel scared in the dark, so I hold my blanket.",
+        "translation": "Senti medo no escuro e agarrei meu cobertor.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_feelings.scared.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I feel scared in the dark, so I hold my blanket.",
+        "translation": "어둠 속에서는 조금 무서워서 담요를 꼭 잡는다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_feelings.scared.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I feel scared in the dark, so I hold my blanket.",
+        "translation": "暗くて静かだから、こわい気持ちになった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_feelings.scared.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I feel scared in the dark, so I hold my blanket.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

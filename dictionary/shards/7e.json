@@ -1,0 +1,450 @@
+{
+  "records": {
+    "7e2372f4115c43bac7248772d891df3dbc830a85aa27eeed933688f61c44226c": [
+      {
+        "forms": [
+          "neutral"
+        ],
+        "id": "lex.sa.en.neutral.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "neutral",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.neutral.adjective.1",
+          "sns.sa.en.neutral-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Bình thường, không màu sắc; dùng cho thẻ ghi chú.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [],
+        "gloss": "trung tính",
+        "id": "sns.sa.vi.neutral.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.neutral.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Without strong colour or emphasis.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [],
+        "gloss": "Plain and calm in tone; used for a note card.",
+        "id": "sns.sa.en.neutral-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.neutral.adjective",
+        "pos": "adjective",
+        "revision": 1
+      }
+    ],
+    "7e2a344fa5db9dca7dfb148ed9735d34dcd84c57dde4fadfe1e5125d43bc4fc2": [
+      {
+        "forms": [
+          "charge",
+          "charges"
+        ],
+        "id": "lex.sa.en.charge.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "charge",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.charge.noun.gb",
+          "prn.sa.en.charge.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.charge.noun.elec",
+          "sns.sa.en.charge-noun.alt"
+        ]
+      },
+      {
+        "definition": "Lượng điện; đơn vị SI là coulomb.",
+        "domain": [
+          "electrical"
+        ],
+        "exampleIds": [
+          "exm.sa.en.charge.noun.01",
+          "exm.sa.en.charge-noun.more.01",
+          "exm.sa.en.charge-noun.more.02"
+        ],
+        "gloss": "điện tích",
+        "id": "sns.sa.en.charge.noun.elec",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.charge.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.charge-noun",
+          "res.sa.aud.charge-noun",
+          "res.sa.lnk.charge-noun",
+          "res.sa.vid.charge-noun"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "The quantity of electricity held by an object; the amount to pay.",
+        "exampleIds": [
+          "exm.sa.en.charge.noun.01"
+        ],
+        "gloss": "The quantity of electricity held by an object; the amount to pay.",
+        "id": "sns.sa.en.charge-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.charge.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.charge.noun.gb",
+        "ipa": "/tʃɑːdʒ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.charge.noun.us",
+        "ipa": "/tʃɑrdʒ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.charge.noun.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The charge on the plate is positive.",
+        "translation": "Điện tích trên bản cực là dương.",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "charge",
+          "charges",
+          "charged",
+          "charging"
+        ],
+        "id": "lex.sa.en.charge.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "charge",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.charge.verb.gb",
+          "prn.sa.en.charge.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.charge.verb.elec",
+          "sns.sa.en.charge-verb.alt"
+        ]
+      },
+      {
+        "definition": "Đưa điện tích vào pin hoặc tụ.",
+        "domain": [
+          "electrical"
+        ],
+        "exampleIds": [
+          "exm.sa.en.charge.verb.01",
+          "exm.sa.en.charge-verb.more.01",
+          "exm.sa.en.charge-verb.more.02"
+        ],
+        "gloss": "sạc",
+        "id": "sns.sa.en.charge.verb.elec",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.charge.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.charge-verb",
+          "res.sa.aud.charge-verb",
+          "res.sa.lnk.charge-verb",
+          "res.sa.vid.charge-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To put electrical energy into a battery.",
+        "exampleIds": [
+          "exm.sa.en.charge.verb.01"
+        ],
+        "gloss": "To put electrical energy into a battery.",
+        "id": "sns.sa.en.charge-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.charge.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.charge.verb.gb",
+        "ipa": "/tʃɑːdʒ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.charge.verb.us",
+        "ipa": "/tʃɑrdʒ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.charge.verb.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Charge the battery before the test.",
+        "translation": "Sạc ắc quy trước khi thử.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7e4b6b05a4f08fbd7d2a3dd70b719dff5a71601f3600016e1572611c0071df31": [
+      {
+        "forms": [
+          "Lane keeping assist",
+          "lane_keep"
+        ],
+        "id": "lex.sa.en.lane.keep",
+        "kind": "lexeme",
+        "lemma": "Lane keeping assist",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.lane.keep.alt"
+        ]
+      },
+      {
+        "definition": "The steering is corrected by the system to stay in the lane. Severity level 1 — Information / Status. Action: Nothing to do, but keep your hands on the wheel..",
+        "gloss": "The steering is corrected by the system to stay in the lane.",
+        "id": "sns.sa.en.lane.keep.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.lane.keep",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "7eafded350343593dede7edb8ea4931090f24f9c0484e57171f73d3c32ca77a0": [
+      {
+        "forms": [
+          "Frustration tolerance"
+        ],
+        "id": "lex.sa.mind.frustration_tolerance",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Frustration tolerance",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.frustration_tolerance.en",
+          "sns.sa.mind.frustration_tolerance.vi"
+        ]
+      },
+      {
+        "definition": "The ability to stay with a difficult task through the uncomfortable period before progress appears.",
+        "exampleIds": [],
+        "gloss": "The ability to stay with a difficult task through the uncomfortable period before progress appears.",
+        "id": "sns.sa.mind.frustration_tolerance.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.frustration_tolerance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Khả năng bám theo một nhiệm vụ khó qua giai đoạn khó chịu trước khi tiến triển xuất hiện.",
+        "id": "sns.sa.mind.frustration_tolerance.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.frustration_tolerance",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "7eded0d3e1a317af625aa8fbf34af6b113af9d0234199b6aa92de2e4d6b1cfca": [
+      {
+        "forms": [
+          "Token",
+          "aiw_token"
+        ],
+        "id": "lex.sa.technology.aiw_token",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Token",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.aiw_token.alt",
+          "sns.sa.technology.aiw_token.alt.ja",
+          "sns.sa.technology.aiw_token.alt.ko",
+          "sns.sa.technology.aiw_token.alt.pt_br",
+          "sns.sa.technology.aiw_token.alt.id",
+          "sns.sa.technology.aiw_token.alt.th",
+          "sns.sa.technology.aiw_token.alt.tr"
+        ]
+      },
+      {
+        "definition": "A piece of text that the model reads and writes as one unit. Usually a word, part of a word, or a common symbol.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_token.1.1"
+        ],
+        "gloss": "A piece of text that the model reads and writes as one unit. Usually a word, part of a word, or a common symbol.",
+        "id": "sns.sa.technology.aiw_token.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.aiw_token",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "モデルが文章を処理する一つの単位。通常は、単語、単語の一部、またはよく使われる記号である。",
+        "exampleIds": [
+          "exm.sa.technology.aiw_token.1.1.ja"
+        ],
+        "gloss": "モデルが読み書きする文章の最小単位。",
+        "id": "sns.sa.technology.aiw_token.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.aiw_token",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "보통 단어 하나, 단어의 일부, 또는 자주 쓰이는 기호에 해당합니다. 사람이 세는 글자 수나 단어 수와 반드시 일치하지는 않습니다.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_token.1.1.ko"
+        ],
+        "gloss": "인공지능 모델이 읽고 쓸 때 하나의 단위로 취급하는 글의 조각입니다.",
+        "id": "sns.sa.technology.aiw_token.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.aiw_token",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Em geral, é uma palavra, parte de uma palavra ou um símbolo frequente. A mesma palavra pode ser dividida em mais de um token.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_token.1.1.pt_br"
+        ],
+        "gloss": "Token é uma unidade de texto que o modelo lê e escreve.",
+        "id": "sns.sa.technology.aiw_token.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.aiw_token",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Token biasanya berupa kata, bagian dari kata, atau simbol yang umum. Model memproses teks sebagai rangkaian token, bukan sebagai rangkaian karakter.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_token.1.1.id"
+        ],
+        "gloss": "Token adalah satuan teks yang dibaca dan ditulis model.",
+        "id": "sns.sa.technology.aiw_token.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.aiw_token",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "โทเคนคือหน่วยข้อความที่โมเดลใช้ประมวลผล มักเป็นคำ ส่วนของคำ หรือสัญลักษณ์ที่พบบ่อย แต่ไม่จำเป็นต้องตรงกับคำหรืออักขระหนึ่งหน่วยเสมอไป",
+        "exampleIds": [
+          "exm.sa.technology.aiw_token.1.1.th"
+        ],
+        "gloss": "หน่วยข้อความที่โมเดลอ่านและเขียนเป็นชิ้นเดียว",
+        "id": "sns.sa.technology.aiw_token.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.aiw_token",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Genellikle bir sözcük, sözcüğün bir bölümü veya yaygın bir simgedir. Model, metni bu birimler hâlinde işler; her sözcük mutlaka tek bir belirtece karşılık gelmez.",
+        "exampleIds": [
+          "exm.sa.technology.aiw_token.1.1.tr"
+        ],
+        "gloss": "Modelin tek birim olarak okuyup yazdığı metin parçasıdır.",
+        "id": "sns.sa.technology.aiw_token.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.aiw_token",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.aiw_token.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "\"Pompa\" sözcüğü tek bir belirteç olabilir, olağan dışı bir parça numarası ise üç belirteç olabilir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.aiw_token.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คำว่า “ปั๊ม” อาจเป็นหนึ่งโทเคน ส่วนหมายเลขชิ้นส่วนที่พบไม่บ่อยอาจต้องใช้สามโทเคน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.aiw_token.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kata \"pompa\" dapat menjadi satu token, sedangkan nomor seri yang tidak lazim mungkin terdiri atas tiga token.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.aiw_token.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A palavra \"pump\" pode formar um único token, enquanto um número de peça incomum pode ocupar três.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.aiw_token.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "‘펌프processor라는 단어는 한 토큰일 수도 있고, 드문 부호 하나가 여러 토큰일 수도 있습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.aiw_token.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "「这是个」は1トークンになるが、aleeな製品番号は3トークンになることがある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.aiw_token.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The word \"pump\" may be one token, and an unusual part number may be three.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

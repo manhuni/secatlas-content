@@ -1,0 +1,52 @@
+{
+  "items": {
+    "si_energy": {
+      "conflict": true,
+      "definition": "The capacity to do work or cause change.",
+      "dictionaryId": "lex.sa.en.energy.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_energy",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "energy"
+    },
+    "small_talk": {
+      "conflict": true,
+      "definition": "Short, friendly conversation with someone you do not know well. Its purpose is contact, not important information.",
+      "dictionaryId": "lex.sa.social.small_talk",
+      "example": "We had some small talk about the rain and ended up talking for an hour.",
+      "fieldId": "social",
+      "id": "small_talk",
+      "lessonIds": [
+        "article_culture_shock",
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.culture.shock",
+        "knw.social.smalltalk"
+      ],
+      "term": "Small talk"
+    },
+    "total_compensation": {
+      "definition": "Everything you receive from a job: salary, bonus, allowances and benefits, not only the monthly pay.",
+      "dictionaryId": "lex.sa.work.total_compensation",
+      "example": "My total compensation is $1,650, including the transport allowance.",
+      "fieldId": "work",
+      "id": "total_compensation",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Total compensation"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,568 @@
+{
+  "items": [
+    {
+      "definition": "The part of the value ranges of two groups that lies on top of each other.",
+      "dictionaryId": "lex.sa.social.gem_overlap",
+      "example": "The overlap between the two groups is wide, so the average says very little about one person.",
+      "fieldId": "social",
+      "id": "gem_overlap",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Overlap"
+    },
+    {
+      "definition": "The process of choosing a partner, from the first interest to the decision.",
+      "dictionaryId": "lex.sa.social.msa_mate_selection",
+      "example": "Mate selection was slow for her and quick for her brother.",
+      "fieldId": "social",
+      "id": "msa_mate_selection",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "mate selection"
+    },
+    {
+      "definition": "The pull towards somebody, felt before any thought about the future.",
+      "dictionaryId": "lex.sa.social.msa_attraction",
+      "example": "The attraction was immediate, and that was not the same as choosing.",
+      "fieldId": "social",
+      "id": "msa_attraction",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "attraction"
+    },
+    {
+      "definition": "What a person says they want, before any particular person comes along.",
+      "dictionaryId": "lex.sa.social.msa_preference",
+      "example": "My preference was somebody older; the person I chose was younger.",
+      "fieldId": "social",
+      "id": "msa_preference",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "preference"
+    },
+    {
+      "definition": "A quality whose absence ends the possibility, as opposed to one that only lowers the score.",
+      "dictionaryId": "lex.sa.social.msa_deal_breaker",
+      "example": "Dishonesty was the deal-breaker, and the rest were preferences.",
+      "fieldId": "social",
+      "id": "msa_deal_breaker",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "deal-breaker"
+    },
+    {
+      "definition": "The difference in age between two partners, and the direction of that difference.",
+      "dictionaryId": "lex.sa.social.msa_age_gap",
+      "example": "The age gap was four years, and she was the older one.",
+      "fieldId": "social",
+      "id": "msa_age_gap",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "age gap"
+    },
+    {
+      "definition": "The range of ages a person thinks of as suitable when choosing a partner.",
+      "dictionaryId": "lex.sa.social.msa_age_preference",
+      "example": "Her age preference was wide, and the people she chose were not.",
+      "fieldId": "social",
+      "id": "msa_age_preference",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "age preference"
+    },
+    {
+      "definition": "A span with a lower and an upper bound, used here for the ages a person will consider.",
+      "dictionaryId": "lex.sa.social.msa_age_range",
+      "example": "Write your age range as two numbers, not as a feeling.",
+      "fieldId": "social",
+      "id": "msa_age_range",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "age range"
+    },
+    {
+      "definition": "The pattern in which partners tend to be similar to each other on age, schooling, place or work.",
+      "dictionaryId": "lex.sa.social.msa_assortative_mating",
+      "example": "Assortative mating was visible in the town: the teachers married teachers.",
+      "fieldId": "social",
+      "id": "msa_assortative_mating",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "assortative mating"
+    },
+    {
+      "definition": "How close two people are in space and time, and how often they meet.",
+      "dictionaryId": "lex.sa.social.msa_proximity",
+      "example": "Proximity did the work: they shared a shift and a bus stop.",
+      "fieldId": "social",
+      "id": "msa_proximity",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "proximity"
+    },
+    {
+      "definition": "What you give up in order to get something else you want more.",
+      "dictionaryId": "lex.sa.social.msa_trade_off",
+      "example": "The trade-off was time: more choice now, or a settled life sooner.",
+      "fieldId": "social",
+      "id": "msa_trade_off",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "trade-off"
+    },
+    {
+      "definition": "The period of getting to know somebody before a decision is made.",
+      "dictionaryId": "lex.sa.social.msa_courtship",
+      "example": "The courtship lasted a year, and most of it was conversation.",
+      "fieldId": "social",
+      "id": "msa_courtship",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "courtship"
+    },
+    {
+      "definition": "How well two people fit together in ordinary daily life.",
+      "dictionaryId": "lex.sa.social.msa_compatibility",
+      "example": "Compatibility showed up in the small things: the pace, the money, the quiet.",
+      "fieldId": "social",
+      "id": "msa_compatibility",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "compatibility"
+    },
+    {
+      "definition": "The people who are actually available to you to choose from at a given time.",
+      "dictionaryId": "lex.sa.social.msa_choice_set",
+      "example": "Your choice set is the people you actually meet, not everybody you like the idea of.",
+      "fieldId": "social",
+      "id": "msa_choice_set",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "choice set"
+    },
+    {
+      "definition": "The state of being ready for a relationship, in time, money and emotional terms.",
+      "dictionaryId": "lex.sa.social.msa_readiness",
+      "example": "Readiness was not there yet, and she said so plainly.",
+      "fieldId": "social",
+      "id": "msa_readiness",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "readiness"
+    },
+    {
+      "conflict": true,
+      "definition": "A file sent together with the email. It should be named clearly and referred to in the body.",
+      "dictionaryId": "lex.sa.work.attachment",
+      "example": "Please find the attachment, called Quotation-March-2026.pdf.",
+      "fieldId": "social",
+      "id": "att_attachment",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Attachment"
+    },
+    {
+      "definition": "The set of assumptions a person carries about how other people answer when they reach out.",
+      "dictionaryId": "lex.sa.social.att_working_model",
+      "example": "My working model says that people get busy and come back, so I wait.",
+      "fieldId": "social",
+      "id": "att_working_model",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Working model"
+    },
+    {
+      "definition": "The person or relationship a person can move away from and still feel steady in.",
+      "dictionaryId": "lex.sa.social.att_secure_base",
+      "example": "His sister was his secure base long before he had a partner of his own.",
+      "fieldId": "social",
+      "id": "att_secure_base",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Secure base"
+    },
+    {
+      "definition": "The event that makes a person read a partner as less available than the person assumed.",
+      "dictionaryId": "lex.sa.social.att_trigger",
+      "example": "One missed call was the trigger, and the rest of the evening went into reading the silence.",
+      "fieldId": "social",
+      "id": "att_trigger",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Trigger"
+    },
+    {
+      "definition": "Describing a person who takes the partner's availability for granted and stays steady when it wobbles.",
+      "dictionaryId": "lex.sa.social.att_secure",
+      "example": "She is secure with him, so she says she is upset instead of guessing.",
+      "fieldId": "social",
+      "id": "att_secure",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Secure"
+    },
+    {
+      "definition": "Describing a person who reads any drop in a partner's availability as a sign that the bond is at risk.",
+      "dictionaryId": "lex.sa.social.att_anxious",
+      "example": "When he was busy, his anxious side read the quiet as a message about him.",
+      "fieldId": "social",
+      "id": "att_anxious",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Anxious"
+    },
+    {
+      "definition": "Describing a person who leans away when closeness increases, to protect independence.",
+      "dictionaryId": "lex.sa.social.att_avoidant",
+      "example": "His avoidant side called for less contact at the moment he needed it most.",
+      "fieldId": "social",
+      "id": "att_avoidant",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Avoidant"
+    },
+    {
+      "definition": "Describing a person who wants closeness and is afraid of it at the same time.",
+      "dictionaryId": "lex.sa.social.att_fearful",
+      "example": "Fearful-avoidant behaviour often looks like pulling back right after reaching out.",
+      "fieldId": "social",
+      "id": "att_fearful",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Fearful-avoidant"
+    },
+    {
+      "definition": "The rising of the alarm when a partner seems unavailable, which sharpens attention and speeds the urge to act.",
+      "dictionaryId": "lex.sa.social.att_hyperactivation",
+      "example": "Hyperactivation turned three unanswered messages into an hour of checking the phone.",
+      "fieldId": "social",
+      "id": "att_hyperactivation",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Hyperactivation"
+    },
+    {
+      "definition": "The lowering of the alarm when closeness increases, which turns attention away from the bond and towards the task in front of it.",
+      "dictionaryId": "lex.sa.social.att_deactivation",
+      "example": "Deactivation looked like a tidy desk and a long shift at the office.",
+      "fieldId": "social",
+      "id": "att_deactivation",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Deactivation"
+    },
+    {
+      "definition": "Asking a partner repeatedly to confirm that the relationship is still there.",
+      "dictionaryId": "lex.sa.social.att_reassurance_seeking",
+      "example": "Reassurance-seeking is asking the same question until the answer changes.",
+      "fieldId": "social",
+      "id": "att_reassurance_seeking",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Reassurance-seeking"
+    },
+    {
+      "definition": "The behaviour a person uses to get a partner's attention back when they feel the bond is slipping.",
+      "dictionaryId": "lex.sa.social.att_protest_behaviour",
+      "example": "Her protest behaviour was sending the message twice and then three times.",
+      "fieldId": "social",
+      "id": "att_protest_behaviour",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Protest behaviour"
+    },
+    {
+      "definition": "Pulling back from a partner and reducing contact when closeness or conflict increases.",
+      "dictionaryId": "lex.sa.social.att_withdrawal",
+      "example": "Withdrawal is answering with less, not more, when the other person asks for more.",
+      "fieldId": "social",
+      "id": "att_withdrawal",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Withdrawal"
+    },
+    {
+      "definition": "The capacity to feel safe in a relationship, learned later in life rather than carried in from earlier life.",
+      "dictionaryId": "lex.sa.social.att_earned_security",
+      "example": "Her earned security came from a relationship that stayed, after years of ones that did not.",
+      "fieldId": "social",
+      "id": "att_earned_security",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Earned security"
+    },
+    {
+      "definition": "One only; not multiple.",
+      "dictionaryId": "lex.sa.en.single.adjective",
+      "example": "A single file is a gallery of one.",
+      "fieldId": "social",
+      "id": "lts_single",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "single"
+    },
+    {
+      "definition": "The situation of being without a romantic partner, seen as a general condition rather than one person's story.",
+      "dictionaryId": "lex.sa.social.lts_singleness",
+      "example": "Long-term singleness has its own vocabulary, and its own pressures.",
+      "fieldId": "social",
+      "id": "lts_singleness",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Singleness"
+    },
+    {
+      "definition": "Describing a person who has no romantic partner, without saying whether that is a choice.",
+      "dictionaryId": "lex.sa.social.lts_unpartnered",
+      "example": "He said he was unpartnered, and he said it without any apology in his voice.",
+      "fieldId": "social",
+      "id": "lts_unpartnered",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Unpartnered"
+    },
+    {
+      "definition": "The repeated sense that a status such as being single is a condition to be explained, corrected or ended.",
+      "dictionaryId": "lex.sa.social.lts_social_pressure",
+      "example": "The social pressure arrives in small questions, not in one cruel remark.",
+      "fieldId": "social",
+      "id": "lts_social_pressure",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Social pressure"
+    },
+    {
+      "definition": "A mark of disgrace that a group attaches to a status, so that the status itself becomes hard to show.",
+      "dictionaryId": "lex.sa.social.lts_stigma",
+      "example": "In some offices there is a stigma against a long single life, and in others there is none.",
+      "fieldId": "social",
+      "id": "lts_stigma",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Stigma"
+    },
+    {
+      "definition": "A settled sense that a situation is acceptable, without the need for it to be improved first.",
+      "dictionaryId": "lex.sa.social.lts_contentment",
+      "example": "Her contentment with the arrangement was visible in the way she answered people.",
+      "fieldId": "social",
+      "id": "lts_contentment",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Contentment"
+    },
+    {
+      "definition": "Describing a person who has a romantic relationship, whether or not they live with the other person.",
+      "dictionaryId": "lex.sa.social.lts_partnered",
+      "example": "She is partnered, and her partner works in another city.",
+      "fieldId": "social",
+      "id": "lts_partnered",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Partnered"
+    },
+    {
+      "definition": "To live with a partner in the same home without being married to that person.",
+      "dictionaryId": "lex.sa.social.lts_cohabit",
+      "example": "They have cohabited for three years and still keep two homes.",
+      "fieldId": "social",
+      "id": "lts_cohabit",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Cohabit"
+    },
+    {
+      "definition": "Describing a person whose marriage has ended legally.",
+      "dictionaryId": "lex.sa.social.lts_divorced",
+      "example": "He is divorced, and the children spend the week with him.",
+      "fieldId": "social",
+      "id": "lts_divorced",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Divorced"
+    },
+    {
+      "definition": "Describing a person whose spouse has died.",
+      "dictionaryId": "lex.sa.social.lts_widowed",
+      "example": "She is widowed, and she still keeps the shared photographs on the wall.",
+      "fieldId": "social",
+      "id": "lts_widowed",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Widowed"
+    },
+    {
+      "definition": "Describing an ending in which the two people settle the practical matters and stay on speaking terms.",
+      "dictionaryId": "lex.sa.social.lts_amicable",
+      "example": "The separation was amicable, so the flat was sold without a lawyer's fight.",
+      "fieldId": "social",
+      "id": "lts_amicable",
+      "lessonIds": [
+        "article_long_term_singleness"
+      ],
+      "packs": [
+        "knw.social.long_term_singleness"
+      ],
+      "term": "Amicable"
+    }
+  ],
+  "nextCursor": "80",
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,137 @@
+{
+  "language": "vi",
+  "lessonId": "article_bills_statements",
+  "objectives": [
+    "Phân biệt hoá đơn, hoá đơn bán lẻ và bảng sao kê, và biết mỗi loại chứng minh điều gì.",
+    "Đọc bảng sao kê ngân hàng theo từng dòng và hiểu mọi cột.",
+    "Giải thích nghĩa của nợ, có và số dư trên bảng sao kê.",
+    "Nhận ra các khoản phí xuất hiện lặng lẽ và điều gì kích hoạt chúng.",
+    "Đối chiếu hoá đơn điện nước với chỉ số đồng hồ của bạn và phát hiện bản ước tính.",
+    "Kiểm tra hoá đơn bán hàng cho các chi tiết làm cho nó có hiệu lực, gồm cả thuế.",
+    "Khiếu nại một khoản chi không nhận ra bằng câu mở đầu đúng."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Tiền đến với bạn dưới dạng giấy, và các loại giấy ấy không thể thay thế cho nhau. Ba tài liệu này thường bị lẫn vào nhau, và mỗi tài liệu có một việc riêng.\n\nMột **hoá đơn** là yêu cầu thanh toán. Nó nói với một công ty hoặc một cá nhân rằng họ được nợ bao nhiêu, và trước bao giờ. Hoá đơn điện thoại, giấy báo tiền thuê nhà của chủ nhà, hoá đơn điện từ công ty điện lực, hoá đơn viện phí: mỗi loại nói rõ số tiền nợ, kỳ tính và cách thanh toán. Hoá đơn là một chỉ dẫn, và nó chỉ trở thành hiện thực khi tiền được chuyển.\n\nMột **hoá đơn bán lẻ** (biên nhận) là bằng chứng cho một việc đã xảy ra. Nó nói bạn đã mua gì, khi nào, giá bao nhiêu và trả bằng cách nào. Đây là thứ bạn đưa ra khi có người hỏi về việc đổi trả, thứ người sử dụng lao động yêu cầu khi hoàn chi phí, và thứ bạn giữ khi thời hạn bảo hành hết. Biên nhận là bằng chứng, và nó không đòi hỏi điều gì.\n\nMột **bảng sao kê ngân hàng** là bản ghi mà ngân hàng lưu giữ. Nó liệt kê mọi khoản đi qua tài khoản của bạn trong một kỳ, theo thứ tự ngày, kèm số dư lũy kế, và đây là tài liệu chứng minh bạn đã thực sự trả và nhận những gì. Bảng sao kê là bản ghi giao dịch, và nó là thứ bạn kiểm tra khi tiền bị thiếu.\n\nSự khác biệt thực tế thể hiện rõ khi có chuyện xảy ra. Nếu một công ty gửi hoá đơn cho cái bạn đã trả rồi, biên nhận và bảng sao kê là thứ chứng minh bạn đã trả. Nếu ngân hàng thu một khoản bạn không nhận ra, chỉ có bảng sao kê mới hiện ra. Và nếu chủ nhà nói bạn nợ ba tháng, các khoản trả của bạn xuất hiện ngay trên bảng sao kê.\n\nCòn một loại tài liệu nữa hoàn thiện bộ này, và nó không phải hoá đơn: đó là **hoá đơn bán hàng** (invoice). Đây là yêu cầu thanh toán cho hàng hóa hoặc dịch vụ đã cung cấp, và trong hầu hết các hệ thống nó là tài liệu mang thông tin thuế và các chi tiết cần thiết để yêu cầu thanh toán hoặc kê khai chi phí.",
+      "examples": [
+        "Đây là hoá đơn, nghĩa là nó đang yêu cầu thanh toán.",
+        "Tôi giữ biên nhận, vì đó là bằng chứng tôi đã trả tiền.",
+        "Bảng sao kê là bản ghi của chính ngân hàng về những gì đã đi qua tài khoản."
+      ],
+      "heading": "Ba loại giấy tờ, ba việc khác nhau"
+    },
+    {
+      "body": "Một bảng sao kê ngân hàng có cùng các phần theo cùng thứ tự mỗi tháng, và một khi biết các phần ấy thì bạn đọc được bảng sao kê của bất kỳ ngân hàng nào.\n\nTrên cùng là **phần đầu**: tên chủ tài khoản, số tài khoản, thường được che một phần, kỳ mà bảng sao kê phủ, và loại tiền tệ nếu tài khoản có nhiều loại. Hãy kiểm tra kỳ trước. Bảng sao kê sai kỳ xảy ra thường xuyên hơn người ta nghĩ, và nó giải thích mọi hiểu lầm đi kèm.\n\nTiếp theo là **ô tóm tắt**, gồm số dư đầu kỳ, số dư cuối kỳ, tổng tiền vào và tổng tiền ra. Bốn con số này là phép kiểm tra lại phép tính của chính bạn: tiền vào trừ tiền ra phải bằng đúng mức thay đổi giữa hai số dư.\n\nRồi đến **danh sách giao dịch**, theo thứ tự ngày, thường kèm số dư lũy kế ở cột cuối. Mỗi dòng có ngày, mô tả và số tiền. Mô tả do ngân hàng của người nhận viết, không phải cửa hàng, nên nó thường đọc như một mã: \"POS SUPERMARKET REF 4471\" cho bạn biết đó là siêu thị, chứ không nói gì về bạn đã mua gì.\n\nBên dưới danh sách là **phí và lãi**, thường tách riêng. Đây là nơi các khoản phí của tài khoản nằm: phí hằng tháng, dòng lãi tài khoản quá hạn, phí dùng thẻ ở nước ngoài.\n\nVà ở cuối, đôi khi có **tóm tắt hạn mức và lãi suất**: hạn mức quá tầm, hạn mức tín dụng, và mức lãi suất đang áp dụng. Những con số này thay đổi theo thời gian, và đây là chỗ để tìm mức lãi suất hiện tại thay vì mức bạn nhớ.\n\nHãy đọc phần đầu và ô tóm tắt trước khi đọc danh sách giao dịch. Danh sách là nơi thời gian trôi qua, và nó dễ hiểu hơn nhiều khi bạn đã biết mình bắt đầu ở đâu và kết thúc ở đâu.",
+      "examples": [
+        "Bảng sao kê phủ từ ngày 1 đến 31 tháng 3, nên khoản chi này thuộc tháng 3.",
+        "Tiền vào 2400 $ và tiền ra 1980 $ để lại số dư cao hơn 420 $, khớp với ô tóm tắt."
+      ],
+      "heading": "Cấu trúc của một bảng sao kê ngân hàng"
+    },
+    {
+      "body": "Đây là những từ bạn sẽ gặp trên mọi bảng sao kê, và mỗi từ có ý nghĩa thực tế thế nào.\n\n**Số dư đầu kỳ** là số tiền có trong tài khoản khi bắt đầu kỳ. **Số dư cuối kỳ** là số tiền có trong tài khoản khi kết thúc kỳ. **Số dư khả dụng** là số tiền bạn được tiêu ngay lúc này, tức số dư cuối kỳ trừ các khoản đang bị giữ, cộng hoặc trừ phần vượt hạn.\n\nMột **khoản nợ** là tiền đi ra khỏi tài khoản. Một **khoản có** là tiền đi vào. Ngân hàng in các từ này hoặc dùng dấu: dấu trừ là tiền ra, dấu cộng là tiền vào. Chữ \"credit\" trên bảng sao kê không có nghĩa là một khoản vay.\n\n**Trích nợ** (direct debit) là khoản chi mà công ty được bạn cho phép rút từ tài khoản, thường vào một ngày cố định, và họ có thể rút mà không hỏi lại. **Chuyển khoản định kỳ** (standing order) là một số tiền cố định bạn cho phép trả theo lịch, dù hoá đơn gốc có bằng nhau hay không. **Giao dịch thẻ** là một khoản mua bằng thẻ, và thường xuất hiện một hoặc hai ngày sau khi bạn mua.\n\n**Hạn mức quá tầm** (overdraft) là số tiền ngân hàng cho phép bạn âm, và thường có phí. **Giao dịch đang chờ** là khoản chi bằng thẻ chưa xuất hiện trên tài khoản, và số dư trong ứng dụng ngân hàng có thể đã tính khoản đó trong khi bảng sao kê thì chưa.\n\n**Số tham chiếu** là mã giúp bạn khớp một dòng trên bảng sao kê với một biên nhận hoặc một hoá đơn. Một khoản trích nợ không có tên nhà cung cấp thường là công ty đã bán hàng qua bên thứ ba, và số tham chiếu là cách duy nhất để nhận ra nó.",
+      "heading": "Từ ngữ trên bảng sao kê",
+      "terms": [
+        {
+          "example": "Số dư đầu kỳ là 500 $, nên giao dịch đầu tiên được tính trên số đó.",
+          "gloss": "Số tiền trong tài khoản khi bắt đầu kỳ bảng sao kê. Mọi con số sau đó đều tính từ đó."
+        },
+        {
+          "example": "Số dư cuối kỳ là 420 $, cao hơn số dư đầu kỳ 80 $.",
+          "gloss": "Số tiền trong tài khoản khi kết thúc kỳ bảng sao kê, sau khi đã tính mọi giao dịch trong đó."
+        },
+        {
+          "example": "Khoản nợ cho siêu thị là 64 $, nên đó là cột tiền ra chứ không phải cột tiền vào.",
+          "gloss": "Tiền rời khỏi tài khoản. Trên bảng sao kê thường ghi bằng dấu trừ hoặc ở cột tiền ra."
+        },
+        {
+          "example": "Khoản có 1200 $ vào ngày 15 là lương của tôi.",
+          "gloss": "Tiền đi vào tài khoản, chẳng hạn lương hoặc khoản hoàn. Trên bảng sao kê thường ghi bằng dấu cộng."
+        },
+        {
+          "example": "Hoá đơn điện là trích nợ, nên nó rời tài khoản của tôi vào ngày 10 hằng tháng.",
+          "gloss": "Khoản chi mà công ty được phép rút từ tài khoản của bạn vào một ngày, không cần hỏi lại mỗi lần."
+        },
+        {
+          "example": "Tôi có chuyển khoản định kỳ trả tiền thuê và trích nợ trả tiền điện nước.",
+          "gloss": "Một số tiền cố định bạn cho phép trả theo lịch, dù hoá đơn gốc có bằng nhau hay không mỗi tháng."
+        }
+      ]
+    },
+    {
+      "body": "Tiền vào và tiền ra thì đơn giản. Chỗ người ta lúng túng là số dư, vì một bảng sao kê có thể hiện nhiều số dư và chúng không giống nhau.\n\n**Số dư cuối kỳ** là sự thật tại thời điểm kết thúc kỳ: số dư đầu kỳ, cộng tất cả tiền vào, trừ tất cả tiền ra. **Số dư khả dụng** là số tiền bạn được tiêu ngay lúc này, và nó có thể thấp hơn, vì ngân hàng có thể đã biết về các giao dịch thẻ chưa lên tới bảng sao kê, hoặc vì một phần số dư đang bị giữ cho một khoản trích nợ chờ xử lý.\n\nKhoảng cách đó giải thích một nỗi lo rất phổ biến. Bạn xem số dư trong ứng dụng, thấy thấp hơn số trên bảng sao kê, và tưởng có khoản chi bị sai. Thường thì không có gì sai: một giao dịch thẻ từ hôm qua đã được tính trong ứng dụng và sẽ xuất hiện trên bảng sao kê sau hai ngày.\n\nĐiều nữa cần hiểu là **số dư lũy kế** trong danh sách giao dịch. Nó cho biết số dư của bạn sau từng dòng, và nó không bao giờ nhảy có lý do. Nếu số dư lũy kế và ô tóm tắt không khớp, bảng sao kê có lỗi, và đáng hỏi lại.\n\nRồi đến vấn đề **thời điểm**. Một hoá đơn có thể bị trừ vào ngày trước khi tiền lương về, và đó là lý do một bảng sao kê có thể cho thấy số dư âm giữa tháng rồi lại dương vào cuối tháng. Có người chuyển ngày trả định kỳ sang sau ngày lương về, và cách đó xoá hẳn một loại rắc rối.\n\nKhi làm phép tính, hãy nhớ rằng một số dòng bị lặp lại có chủ đích. Một khoản trích nợ bị trả lỗi thường xuất hiện hai lần: một lần là khoản chi, một lần là khoản bị trả lại, và đôi trông như hai hoá đơn riêng trong khi thực ra chỉ là một vấn đề.",
+      "examples": [
+        "Số dư cuối kỳ là 420 $, còn số dư khả dụng thấp hơn vì một giao dịch thẻ đang chờ.",
+        "Hoá đơn bị trừ hai ngày trước khi lương về, nên số dư âm trong một khoảnh khắc.",
+        "Khoản chi này và khoản hoàn bên dưới là cùng một lần trích nợ bị trả lỗi."
+      ],
+      "heading": "Tiền vào, tiền ra, và số dư thực sự nói lên gì"
+    },
+    {
+      "body": "**Lãi quá hạn** bị tính khi bạn âm số dư, và thường được áp dụng ngay lúc đó mà không có báo trước. Có ngân hàng thu phí cho từng giao dịch khi bạn âm số dư, cộng thêm một mức lãi theo ngày hoặc theo năm. Hãy xin một mức đệm: hầu hết ngân hàng đồng ý một hạn mức quá hạn nhỏ mà không mất phí nếu bạn không vượt quá.\n\n**Trích nợ bị trả lỗi** tốn bạn hai lần. Công ty lấy tiền, ngân hàng từ chối, và bạn bị thu phí cho cả lần trả lỗi lẫn khoản chi. Hoá đơn vẫn đến, và giờ nó đã quá hạn.\n\n**Giao dịch thẻ ở nước ngoài** thường kèm một khoản phí ngoài tỷ giá. Có thẻ thu theo tỷ lệ phần trăm, có thẻ thu một khoản cố định, và nhiều thẻ thu cả hai. Bản thân tỷ giá đã có sẵn biên lợi nhuận, nên một thẻ có phí giao dịch nước ngoài thường tệ hơn một thẻ tốt không có phí.\n\n**Rút tiền tại ATM** có thể bị thu phí ở máy, ở ngân hàng sở hữu máy, hoặc cả hai, và máy hiếm khi nói rõ là bên nào. Dùng máy của chính ngân hàng bạn sẽ tránh phần lớn số phí này.\n\n**Phí trễ hạn** trên thẻ tín dụng thường đi kèm một mức lãi suất phạt, và mức phạt có thể áp cho toàn bộ số dư. Một lần trả trễ vì thế có thể tốn gấp nhiều lần khoản phí.\n\n**Phí tài khoản không hoạt động** và **phí bảng sao kê định kỳ** nhỏ, hằng năm và dễ bỏ sót, vì chúng không bao giờ xuất hiện trong tháng mà không có gì khác.",
+      "heading": "Những khoản phí xuất hiện lặng lẽ"
+    },
+    {
+      "body": "Một hoá đơn tiện ích được dựng từ ba phần, và hiểu chúng là cách để bạn kiểm tra con số thay vì mù mắt trả.\n\n**Chỉ số đồng hồ** là con số trên đồng hồ của bạn, hoặc là chỉ số công ty lấy giúp bạn. Giữa lần đọc trước và lần này là **lượng tiêu thụ**, thường tính bằng đơn vị: kilowatt giờ cho điện, mét khối cho nước. Nhân đơn giá với lượng tiêu thụ là ra phần biến động của hoá đơn, và đây chính là phép kiểm tra đáng làm.\n\n**Bảng giá** là mức bạn trả cho mỗi đơn vị. Nó có thể là một mức cố định, hoặc đổi theo khung giờ, và trong trường hợp đó một bảng giá tốt hoặc một đồng hồ thông minh có thể làm hoá đơn của bạn thay đổi rất nhiều. Các khoản cố định nằm phía trên: phí đấu nối, phí nhiên liệu hoặc phí mạng lưới, và thường là một khoản phụ thu theo quy định.\n\nRồi đến **bản ước tính**. Công ty ước tính mức dùng khi không đọc được đồng hồ, và một bản ước tính xuất hiện trên hoá đơn mà không có chỉ số đồng hồ để đối chiếu. Nếu thấy hoá đơn ước tính, việc đầu tiên cũng luôn là như mọi khi: gửi ảnh chụp đồng hồ hiện tại và yêu cầu hoá đơn đính chính.\n\nHai thói quen giúp việc này trở nên dễ dàng. Chụp ảnh đồng hồ vào ngày bạn nhận hoá đơn, và cất ảnh cùng hoá đơn. Và so mỗi hoá đơn với cùng tháng của năm trước, vì một tổng tiền tăng vọt cần một lời giải thích: tháng lạnh hơn, một thiết bị mới, một lần tăng giá hay một bản ước tính.\n\nCuối cùng, hãy ghi lại **ngày thanh toán và phương thức thanh toán**. Hoá đơn trả bằng trích nợ đúng hạn thường không mất thêm gì, còn trả muộn có thể mất một khoản phí cắt nối lớn hơn nhiều so với số tiền bạn nợ.",
+      "examples": [
+        "Hoá đơn này là bản ước tính, nên tôi sẽ gửi ảnh chụp chỉ số đồng hồ.",
+        "Tôi dùng 240 đơn vị giá 0.15 một đơn vị, nên phần biến động phải là 36 $.",
+        "Tháng mười hai năm ngoái lạnh hơn, nên hoá đơn cao hơn không phải vì sai."
+      ],
+      "heading": "Đọc hoá đơn điện nước: đồng hồ, bảng giá và bản ước tính"
+    },
+    {
+      "body": "Hoá đơn bán hàng và biên nhận trông giống nhau và dùng cho hai mục đích trái ngược, nên đáng biết mỗi loại cần có những gì.\n\nMột **hoá đơn bán hàng** là yêu cầu thanh toán cho hàng hoặc dịch vụ đã cung cấp. Nó nên có số hoá đơn, ngày, tên và địa chỉ của cả hai bên, mô tả hàng hóa dịch vụ, điều khoản thanh toán, và số tiền phải trả kèm hạn đến hạn. Hầu hết các hệ thống còn yêu cầu dòng thuế: thuế suất, số tiền chịu thuế, số thuế thu và tổng cộng, thường kèm mã số thuế của nhà cung cấp.\n\nMột **biên nhận** chứng minh phía thanh toán. Nó nên ghi ai đã trả, trả cho cái gì, khi nào, bao nhiêu, và bằng phương thức nào: thẻ, tiền mặt, chuyển khoản, hay một mã tham chiếu. Biên nhận thẻ còn có thể ghi tên nhà cung cấp và một mã giao dịch giúp bạn khớp với bảng sao kê.\n\nHãy đối chiếu cả hai với bảng sao kê. Nếu số tiền trên biên nhận chưa xuất hiện trên bảng sao kê, khoản thanh toán có thể đang chờ. Nếu nó xuất hiện với số tiền khác, chênh lệch thường là tiền boa, phí phục vụ hoặc phí giao dịch nước ngoài, và dễ chấp nhận hơn khi bạn nhìn thấy nó đến từ đâu.\n\nCó hai chi tiết làm người ta bất ngờ. Biên nhận không có mã số thuế thì không dùng được cho kê khai thuế, và nhiều cửa hàng nhỏ không cấp được. Và biên nhận không ghi phương thức thanh toán thì là bằng chứng yếu: nó chứng minh một giao dịch đã diễn ra, chứ không chứng minh bạn đã trả. Khi biên nhận có giá trị, hãy xin nó trước khi rời cửa hàng.\n\nGiữ lại biên nhận cho mọi khoản bạn có thể cần giải thích sau này: bảo hành, đổi trả, hoàn chi phí công tác hoặc kê khai thuế. Chụp ảnh chúng trong ngày và lưu theo tháng và theo hạng mục.",
+      "examples": [
+        "Biên nhận không có mã số thuế, nên tôi không dùng được cho kê khai thuế.",
+        "Số tiền trên bảng sao kê nhiều hơn biên nhận 2 $, đó là phí phục vụ.",
+        "Tôi chụp ảnh mọi biên nhận ngay trong ngày và lưu theo hạng mục."
+      ],
+      "heading": "Đọc hoá đơn bán hàng và biên nhận"
+    },
+    {
+      "body": "Đối chiếu là chứng minh rằng sổ sách của bạn và sổ sách của ngân hàng khớp nhau. Mười phút mỗi tháng ngăn được những lỗi nhỏ sau này trở nên không thể sửa.\n\nHãy bắt đầu từ con số bạn đã tin, đó là số dư cuối kỳ trên bảng sao kê tháng trước. Cộng thu nhập của bạn và trừ chi phí của bạn, rồi kiểm tra xem bạn có ra đúng số dư cuối kỳ trên bảng sao kê này không. Nếu ra, sổ sách của bạn đầy đủ. Nếu không ra, phần chênh lệch nằm đâu đó trong danh sách giao dịch, và đó chính là nơi cần nhìm.\n\nRồi đi qua danh sách một lần, theo thứ tự, và đánh dấu mỗi dòng thuộc một trong ba loại: đã biết và đã ghi sổ; đã biết nhưng chưa ghi sổ; hoặc không biết. Nhóm thứ hai cho bạn biết hệ thống của bạn thất bát ở đâu. Nhóm thứ ba là nhóm cần hành động.\n\nCuối cùng, đọc phần phí và phần số dư, và đối chiếu với điều khoản bạn đang giữ. Sau đó lưu bảng sao kê cùng với biên nhận của tháng, và ghi lại mọi khoản thu định kỳ bạn muốn xem lại.",
+      "examples": [
+        "Sổ sách của tôi thiếu 35 $, và 35 $ đó là gói đăng ký tôi quên ghi sổ.",
+        "Có một dòng tôi không nhận ra, nên tôi sẽ gọi ngân hàng hỏi."
+      ],
+      "heading": "Đối chiếu bảng sao kê hằng tháng",
+      "steps": [
+        "Lấy số dư cuối kỳ của bảng sao kê tháng trước làm điểm xuất phát.",
+        "Cộng thu nhập và trừ chi phí của bạn trong tháng.",
+        "So con số của bạn với số dư cuối kỳ trên bảng sao kê.",
+        "Đánh dấu từng giao dịch: đã ghi, chưa ghi, hoặc không nhận ra.",
+        "Đọc phần phí và kiểm tra từng khoản phí với hợp đồng của bạn.",
+        "Lưu bảng sao kê cùng biên nhận của tháng và ghi lại khoản chi bạn muốn hỏi."
+      ]
+    },
+    {
+      "body": "Hầu hết ngân hàng sẽ điều tra một giao dịch bị khiếu nại, nhưng tốc độ và kết quả phụ thuộc vào việc bạn báo nhanh như thế nào và bạn nói gì trong câu đầu tiên.\n\nHãy gọi số ở mặt sau thẻ, không phải số trong một tin nhắn. Nói với nhân viên ngày, số tiền và tên người bán theo bảng sao kê, và nói thẳng là bạn không nhận ra giao dịch đó. Hỏi bước tiếp theo là gì và mất bao lâu, rồi ghi lại số hồ sơ.\n\nCó hai tình huống khác nhau và chúng không được xử lý giống nhau. Giao dịch bạn đã thực hiện nhưng không nhớ là một **tra cứu**: ngân hàng kiểm tra hồ sơ của người bán và thường giải thích khoản chi. Giao dịch bạn chưa từng thực hiện là một **khiếu nại gian lận**, và ngân hàng thường sẽ khoá thẻ, cấp thẻ mới và hoàn tiền trong lúc điều tra.\n\nNếu thẻ bị mất hoặc bị đánh cắp, hãy khoá nó trong ứng dụng ngay lập tức, trước khi gọi cho ai. Tốc độ bảo vệ vị thế của bạn và giới hạn trách nhiệm của bạn.\n\nHãy giữ số hồ sơ và bản sao mọi thứ bạn gửi đi. Nếu câu trả lời đầu tiên không làm bạn hài lòng, hãy yêu cầu quy trình khiếu nại bằng văn bản, rồi khiếu nại bằng văn bản. Một lời khiếu nại có ngày tháng, số tiền và số hồ sơ khó bị ngân hàng bỏ qua hơn nhiều so với một cuộc gọi điện không được ghi âm.",
+      "heading": "Cách khiếu nại một khoản chi bạn không nhận ra"
+    },
+    {
+      "body": "Chứng từ quan trọng hai lần: một lần khi có người hỏi bạn một câu, và một lần khi nhiều năm sau không ai hỏi gì mà bỗng có người hỏi.\n\nNguyên tắc chung rất đơn giản: giữ lại những gì chứng minh tiền đã đi đâu. Với doanh nghiệp, đó là hoá đơn bán hàng cho doanh thu, biên nhận cho chi phí, và bảng sao kê cho cả hai. Với hộ gia đình, đó là ba thứ ấy ở dạng đơn giản hơn, cộng thêm bằng chứng cho mọi khoản mua lớn.\n\nHãy sắp xếp chứng từ theo **kỳ và hạng mục**. Một thư mục cho mỗi năm, một bảng tính với mỗi giao dịch một dòng, hoặc đơn giản là một danh sách hằng tháng gồm ngày, số tiền, đối tác và hạng mục: cả ba đều được. Hạng mục quan trọng, vì đó là thứ cho phép bạn trả lời một câu như \"cho tôi xem chi phí xe cộ của bạn\" trong vòng một phút.\n\nHãy dùng **biên nhận và bảng sao kê cùng nhau**. Biên nhận chứng minh đã mua gì; bảng sao kê chứng minh đã trả. Mỗi thứ một mình đều có điểm yếu, vì biên nhận phai màu, thất lạc, và đôi khi không được phát, còn bảng sao kê cho thấy khoản chi nhưng không cho biết nó dùng để làm gì.\n\n**Thời hạn lưu giữ** khác nhau theo từng nước và từng loại chứng từ. Hãy giữ chứng từ ít nhất là khoảng thời gian mà cơ quan thuế cho phép kiểm tra bạn, và hãy tra quy định thay vì đoán. Khi không chắc, hãy giữ lâu hơn; lưu trữ thì rẻ, mà chứng từ đã bỏ thì không thể trình ra.\n\nHai thói quen thực tế giúp mọi thứ dễ hơn. Chụp ảnh tài liệu vào ngày bạn nhận, và lưu theo tháng tương ứng. Và mỗi năm dành một giờ kiểm tra rằng tổng số trong sổ sách của bạn khớp với tổng trên bảng sao kê. Một hệ thống chưa từng được kiểm tra là một hệ thống bạn không thể tin.",
+      "examples": [
+        "Tôi lưu mọi biên nhận theo tháng và theo hạng mục, nên tôi cộng bất kỳ hạng mục nào cũng chỉ mất một phút.",
+        "Biên nhận chứng minh nó là gì, còn bảng sao kê chứng minh nó đã được trả."
+      ],
+      "heading": "Lưu chứng từ mà cơ quan thuế chấp nhận"
+    },
+    {
+      "body": "Đây là những câu khiến ngân hàng, công ty điện lực hoặc chủ nhà trả lời thẳng. Mỗi câu đều nêu một ngày, một số tiền hoặc một con số, nên không điều gì phụ thuộc vào việc người khác hiểu ý bạn.\n\nHãy dùng chúng khi cần tra cứu một khoản chi, khi cần một tài liệu, và khi bạn muốn mọi thứ được ghi bằng văn bản. Nếu bạn đang báo cáo một giao dịch mình chưa từng thực hiện, hãy nói thẳng điều đó trong câu đầu tiên thay vì để người khác tự suy.\n\nHãy nhớ lưu số hồ sơ và giữ lại bản sao mọi thứ bạn gửi đi, kể cả khi nghe rằng vấn đề đã được xử lý.",
+      "examples": [
+        "Có một khoản 45 $ ngày 3 tháng 3 mà tôi không nhận ra. Tôi khiếu nại bằng cách nào?",
+        "Hoá đơn này là bản ước tính. Tôi gửi ảnh chụp chỉ số đồng hồ chụp hôm nay.",
+        "Ngân hàng có thể gửi cho tôi bản sao kê tháng 2 dưới dạng PDF không?",
+        "Sổ sách của tôi và bảng sao kê chênh nhau 35 $, và tôi không tìm ra chỗ khác biệt.",
+        "Ngân hàng có thể xác nhận số hồ sơ và ngày khoản hoàn về tài khoản của tôi không?",
+        "Tôi khiếu nại khoản này là gian lận, và tôi muốn được cấp thẻ thay thế."
+      ],
+      "heading": "Những câu bạn có thể dùng về bảng sao kê"
+    }
+  ],
+  "summary": "Tiền đến với bạn qua giấy tờ, và mỗi loại giấy mang một ý nghĩa khác nhau. Đọc xong bài này, bạn phân biệt được hoá đơn, hoá đơn bán lẻ và bảng sao kê, đọc được từng dòng bảng sao kê, đối chiếu hoá đơn tiện ích với mức dùng thực tế của mình, khiếu nại được một khoản chi lạ, và lưu chứng từ mà cơ quan thuế chấp nhận.",
+  "title": "Đọc hoá đơn, hoá đơn bán lẻ và bảng sao kê ngân hàng"
+}

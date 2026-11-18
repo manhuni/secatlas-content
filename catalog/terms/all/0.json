@@ -1,0 +1,571 @@
+{
+  "items": [
+    {
+      "definition": "A form of English used by a particular group in a particular place, with its own vocabulary, grammar and pronunciation.",
+      "dictionaryId": "lex.sa.culture.english_variety",
+      "example": "Singapore English is a variety of English, not a broken version of it.",
+      "fieldId": "culture",
+      "id": "english_variety",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Variety of English"
+    },
+    {
+      "definition": "The way the sounds of a language are pronounced by a speaker, independent of which words they use.",
+      "dictionaryId": "lex.sa.culture.accent",
+      "example": "He has a strong Glasgow accent but standard vocabulary.",
+      "fieldId": "culture",
+      "id": "accent",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Accent"
+    },
+    {
+      "definition": "Whether a speaker pronounces the r sound at the end of a word. American English is rhotic; British English is not.",
+      "dictionaryId": "lex.sa.culture.rhoticity",
+      "example": "The difference between *car* and *cah* is rhoticity.",
+      "fieldId": "culture",
+      "id": "rhoticity",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Rhoticity"
+    },
+    {
+      "definition": "The level of formality a speaker chooses for a situation, from casual to formal.",
+      "dictionaryId": "lex.sa.culture.register",
+      "example": "Switching register, he changed *Could you pass the salt* to *Pass the salt*.",
+      "fieldId": "culture",
+      "id": "register",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Register"
+    },
+    {
+      "definition": "Moving between two languages, or two varieties of one language, inside a single conversation.",
+      "dictionaryId": "lex.sa.culture.code_switching",
+      "example": "Code-switching between English and Tamil is normal in Chennai offices.",
+      "fieldId": "culture",
+      "id": "code_switching",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Code-switching"
+    },
+    {
+      "definition": "A shared language used between people whose first languages differ. English is the most common one in international business.",
+      "dictionaryId": "lex.sa.culture.lingua_franca",
+      "example": "English works as the lingua franca, so nobody has to learn three languages for one meeting.",
+      "fieldId": "culture",
+      "id": "lingua_franca",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Lingua franca"
+    },
+    {
+      "definition": "The individual version of a language: one speaker's own habits of words and grammar.",
+      "dictionaryId": "lex.sa.culture.idiolect",
+      "example": "Every email you write becomes part of your idiolect.",
+      "fieldId": "culture",
+      "id": "idiolect",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Idiolect"
+    },
+    {
+      "definition": "An unplanned stop in which the car cannot be driven safely. It is the stop, not the specific fault that caused it.",
+      "dictionaryId": "lex.sa.daily_skills.breakdown",
+      "example": "I have had a breakdown on the motorway, and I need a recovery vehicle.",
+      "fieldId": "daily_skills",
+      "id": "breakdown",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Breakdown"
+    },
+    {
+      "definition": "The service that comes to help a broken-down car. It comes through insurance, a manufacturer package or a separate membership.",
+      "dictionaryId": "lex.sa.daily_skills.roadside_assistance",
+      "example": "Do you know whether my roadside assistance covers a call-out in this area?",
+      "fieldId": "daily_skills",
+      "id": "roadside_assistance",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Roadside assistance"
+    },
+    {
+      "definition": "The van or truck sent to collect the car. Some can lift a car and some can only tow it on a wheel.",
+      "dictionaryId": "lex.sa.daily_skills.recovery_vehicle",
+      "example": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+      "fieldId": "daily_skills",
+      "id": "recovery_vehicle",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Recovery vehicle"
+    },
+    {
+      "definition": "All four indicators blink together. The car is stationary or unusual. Severity level 1 — Information / Status. Action: Nothing to do while the lights are on. Switch them off once the car moves again..",
+      "dictionaryId": "lex.sa.en.hazard.warning",
+      "example": "",
+      "fieldId": "daily_skills",
+      "id": "hazard_lights",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Hazard warning lights"
+    },
+    {
+      "definition": "The red reflective triangle placed on the road behind a stopped vehicle so drivers see it in time.",
+      "dictionaryId": "lex.sa.daily_skills.warning_triangle",
+      "example": "Put the warning triangle out about 100 metres behind the car.",
+      "fieldId": "daily_skills",
+      "id": "warning_triangle",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Warning triangle"
+    },
+    {
+      "definition": "Starting a car with a flat battery by connecting it to the battery of another car with cables.",
+      "dictionaryId": "lex.sa.daily_skills.jump_start",
+      "example": "Could you send someone to jump start the car? The battery is flat.",
+      "fieldId": "daily_skills",
+      "id": "jump_start",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Jump start"
+    },
+    {
+      "definition": "A unit of energy in food. One gram of fat holds about 9 kcal, a gram of carbohydrate or protein about 4.",
+      "dictionaryId": "lex.sa.daily_skills.kilocalorie",
+      "example": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
+      "fieldId": "daily_skills",
+      "id": "kilocalorie",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Kilocalorie (kcal)"
+    },
+    {
+      "definition": "The date after which the food is still safe to eat but has gone down in quality. A quality date, not a safety date.",
+      "dictionaryId": "lex.sa.daily_skills.best_before",
+      "example": "The best-before date has passed, so the biscuits are only stale, not bad.",
+      "fieldId": "daily_skills",
+      "id": "best_before",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Best-before date"
+    },
+    {
+      "definition": "The date after which the food may no longer be safe to eat. It is a safety date and it is not negotiable.",
+      "dictionaryId": "lex.sa.daily_skills.use_by",
+      "example": "The use-by date was yesterday, so I threw the chicken away.",
+      "fieldId": "daily_skills",
+      "id": "use_by",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Use-by date"
+    },
+    {
+      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
+      "dictionaryId": "lex.sa.daily_skills.serving_size",
+      "example": "One serving is 30 g, which is much less than the bowl I had.",
+      "fieldId": "daily_skills",
+      "id": "serving_size",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Serving size"
+    },
+    {
+      "definition": "A substance in food that can cause a serious allergic reaction in some people. There are fourteen that have to be declared.",
+      "dictionaryId": "lex.sa.daily_skills.allergen",
+      "example": "The allergen box says it contains peanuts and soya.",
+      "fieldId": "daily_skills",
+      "id": "allergen",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Allergen"
+    },
+    {
+      "definition": "The unbroken path a chilled product follows from the factory to your fridge. If the chain breaks, the use-by date stops meaning anything.",
+      "dictionaryId": "lex.sa.daily_skills.cold_chain",
+      "example": "The cold chain was broken, so the date on the pack means nothing.",
+      "fieldId": "daily_skills",
+      "id": "cold_chain",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Cold chain"
+    },
+    {
+      "definition": "To put something that has thawed back into the freezer. For meat and fish this is a safety question, not a quality one.",
+      "dictionaryId": "lex.sa.daily_skills.refreeze",
+      "example": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+      "fieldId": "daily_skills",
+      "id": "refreeze",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Refreeze"
+    },
+    {
+      "conflict": true,
+      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
+      "dictionaryId": "lex.sa.daily_skills.serving_size",
+      "example": "One serving is 30 g, which is much less than the bowl I had.",
+      "fieldId": "health",
+      "id": "panel_serving_size",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Serving size"
+    },
+    {
+      "definition": "A daily guide for an average adult, used as the yardstick the percentages on a panel are measured against.",
+      "dictionaryId": "lex.sa.health.daily_value",
+      "example": "One portion gives me 40 % of the daily value for salt.",
+      "fieldId": "health",
+      "id": "daily_value",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Daily value"
+    },
+    {
+      "definition": "The average daily amount of energy or a nutrient for an adult. A guide, not a target.",
+      "dictionaryId": "lex.sa.health.reference_intake",
+      "example": "The reference intake for energy is about 2000 kilocalories a day.",
+      "fieldId": "health",
+      "id": "reference_intake",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Reference intake"
+    },
+    {
+      "definition": "One of the three nutrients the body needs in quantity: carbohydrate, fat and protein.",
+      "dictionaryId": "lex.sa.health.macronutrient",
+      "example": "The main macronutrient in this product is fat, not carbohydrate.",
+      "fieldId": "health",
+      "id": "macronutrient",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Macronutrient"
+    },
+    {
+      "definition": "The saturated fats, which are the part of the fat that matters most for blood cholesterol.",
+      "dictionaryId": "lex.sa.health.saturated_fat",
+      "example": "It has 11 g of saturates, which is over half the daily reference.",
+      "fieldId": "health",
+      "id": "saturated_fat",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Saturates"
+    },
+    {
+      "definition": "Sugar the manufacturer added, as distinct from sugar that came with the fruit or the milk.",
+      "dictionaryId": "lex.sa.health.added_sugar",
+      "example": "Total sugars are 20 g, and added sugars are 15 g of that.",
+      "fieldId": "health",
+      "id": "added_sugar",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Added sugar"
+    },
+    {
+      "definition": "The element that makes salt salty. A label quoting salt is quoting sodium plus the chloride with it.",
+      "dictionaryId": "lex.sa.health.sodium",
+      "example": "This has 0.5 g of sodium per 100 g, which is low.",
+      "fieldId": "health",
+      "id": "sodium",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Sodium"
+    },
+    {
+      "definition": "The roughly 24-hour cycle that sets your sleep, hormones, body temperature and appetite. Light is its strongest input.",
+      "dictionaryId": "lex.sa.health.circadian_rhythm",
+      "example": "My circadian rhythm has shifted, because I have been going to bed at two every night.",
+      "fieldId": "health",
+      "id": "circadian_rhythm",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Circadian rhythm"
+    },
+    {
+      "definition": "The time between getting into bed and falling asleep. Under about twenty minutes is normal.",
+      "dictionaryId": "lex.sa.health.sleep_onset_latency",
+      "example": "My sleep onset latency is about forty minutes, most nights.",
+      "fieldId": "health",
+      "id": "sleep_onset_latency",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Sleep onset latency"
+    },
+    {
+      "definition": "The share of your time in bed that you were actually asleep. A long night can still be an inefficient one.",
+      "dictionaryId": "lex.sa.health.sleep_efficiency",
+      "example": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
+      "fieldId": "health",
+      "id": "sleep_efficiency",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Sleep efficiency"
+    },
+    {
+      "conflict": true,
+      "definition": "The dreaming stage of sleep, when memory is consolidated and emotional reactions are regulated.",
+      "dictionaryId": "lex.sa.health.rem_sleep",
+      "example": "Alcohol takes away REM sleep, so I wake up tired even after a long night.",
+      "fieldId": "health",
+      "id": "rem_sleep",
+      "lessonIds": [
+        "article_science_sleepneed",
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep",
+        "knw.kids.science.sleepneed"
+      ],
+      "term": "REM sleep"
+    },
+    {
+      "definition": "The accumulated gap between the sleep you have had and the sleep you need. It can be partly repaid, but slowly.",
+      "dictionaryId": "lex.sa.health.sleep_debt",
+      "example": "I have been building up sleep debt for three weeks of early starts.",
+      "fieldId": "health",
+      "id": "sleep_debt",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Sleep debt"
+    },
+    {
+      "definition": "Difficulty falling asleep, staying asleep or waking too early, together with daytime impairment. The daytime effect is part of the definition.",
+      "dictionaryId": "lex.sa.health.insomnia",
+      "example": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+      "fieldId": "health",
+      "id": "insomnia",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Insomnia"
+    },
+    {
+      "definition": "Repeated pauses in breathing during sleep, usually with snoring and gasping. You usually cannot notice it yourself.",
+      "dictionaryId": "lex.sa.health.sleep_apnoea",
+      "example": "My partner says I stop breathing in my sleep, so I will ask about sleep apnoea.",
+      "fieldId": "health",
+      "id": "sleep_apnoea",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Sleep apnoea"
+    },
+    {
+      "definition": "A machine with two wheels that you push with your feet. A good bicycle makes your legs feel like they have a strong friend.",
+      "dictionaryId": "lex.sa.kids_adventure.bicycle",
+      "example": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
+      "fieldId": "kids_adventure",
+      "id": "bicycle",
+      "lessonIds": [
+        "article_flying_bicycle"
+      ],
+      "packs": [
+        "knw.kids.adventure.bicycle"
+      ],
+      "term": "Bicycle"
+    },
+    {
+      "definition": "The flat part of a bicycle that your foot stands on. When you push the pedals, the wheels turn.",
+      "dictionaryId": "lex.sa.kids_adventure.pedal",
+      "example": "The pedals were stiff, so he pushed them three times.",
+      "fieldId": "kids_adventure",
+      "id": "pedal",
+      "lessonIds": [
+        "article_flying_bicycle"
+      ],
+      "packs": [
+        "knw.kids.adventure.bicycle"
+      ],
+      "term": "Pedal"
+    },
+    {
+      "definition": "The flat part that helps a bird to lift into the air. On this bicycle, the wings are only paper, but they still lift.",
+      "dictionaryId": "lex.sa.kids_adventure.wing",
+      "example": "The newspaper wings lifted when he rang the bell.",
+      "fieldId": "kids_adventure",
+      "id": "wing",
+      "lessonIds": [
+        "article_flying_bicycle"
+      ],
+      "packs": [
+        "knw.kids.adventure.bicycle"
+      ],
+      "term": "Wing"
+    },
+    {
+      "definition": "The small metal thing on a bicycle that makes a sound when you press it. Nam's bell is old and a bit tired.",
+      "dictionaryId": "lex.sa.kids_adventure.bell",
+      "example": "He pressed the bell three times before the wings moved.",
+      "fieldId": "kids_adventure",
+      "id": "bell",
+      "lessonIds": [
+        "article_flying_bicycle"
+      ],
+      "packs": [
+        "knw.kids.adventure.bicycle"
+      ],
+      "term": "Bell"
+    },
+    {
+      "definition": "The flat top of a building. In the old quarter, the rooftops are close enough to almost touch.",
+      "dictionaryId": "lex.sa.kids_adventure.rooftop",
+      "example": "They landed on the roof garden above the old house.",
+      "fieldId": "kids_adventure",
+      "id": "rooftop",
+      "lessonIds": [
+        "article_flying_bicycle"
+      ],
+      "packs": [
+        "knw.kids.adventure.bicycle"
+      ],
+      "term": "Rooftop"
+    },
+    {
+      "definition": "A big old building with thick walls, made to keep people safe. Castles usually have towers and gates.",
+      "dictionaryId": "lex.sa.kids_adventure.castle",
+      "example": "From her window, Hà could see the castle on the hill.",
+      "fieldId": "kids_adventure",
+      "id": "castle",
+      "lessonIds": [
+        "article_magical_castle"
+      ],
+      "packs": [
+        "knw.kids.adventure.castle"
+      ],
+      "term": "Castle"
+    }
+  ],
+  "nextCursor": "40",
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

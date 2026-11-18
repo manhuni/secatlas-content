@@ -1,0 +1,82 @@
+{
+  "items": {
+    "cupboard": {
+      "definition": "A tall box with doors. Dry food and clean dishes are kept inside it.",
+      "dictionaryId": "lex.sa.kids_home.cupboard",
+      "example": "The clean cups are in the cupboard.",
+      "fieldId": "kids_home",
+      "id": "cupboard",
+      "lessonIds": [
+        "article_kitchen"
+      ],
+      "packs": [
+        "knw.kids.home.kitchen"
+      ],
+      "term": "Cupboard"
+    },
+    "fruit": {
+      "definition": "A part of a plant that holds seeds and is good to eat, like a mango or a pear.",
+      "dictionaryId": "lex.sa.kids_food.fruit",
+      "example": "A mango and a pear are both fruit.",
+      "fieldId": "kids_food",
+      "id": "fruit",
+      "lessonIds": [
+        "article_kids_food_fruits"
+      ],
+      "packs": [
+        "knw.kids.food.fruits"
+      ],
+      "term": "Fruit"
+    },
+    "inference": {
+      "conflict": true,
+      "definition": "Running a trained model to produce one answer. Cheap and fast compared with training, and it is what happens when you press send.",
+      "dictionaryId": "lex.sa.technology.inference",
+      "example": "Training cost a fortune; inference is what you pay for every time you use it.",
+      "fieldId": "mind",
+      "id": "inference",
+      "lessonIds": [
+        "article_ai_revolution",
+        "article_local_ai"
+      ],
+      "packs": [
+        "knw.mind.local_ai",
+        "knw.tech.revolution"
+      ],
+      "term": "Inference"
+    },
+    "sunlight": {
+      "conflict": true,
+      "definition": "The light that comes from the Sun. It looks white, but it holds all the colours of the rainbow.",
+      "dictionaryId": "lex.sa.kids_science.sunlight",
+      "example": "Sunlight is white until rain or mist splits it into colours.",
+      "fieldId": "kids_science",
+      "id": "sunlight",
+      "lessonIds": [
+        "article_science_sky",
+        "article_tiny_seed"
+      ],
+      "packs": [
+        "knw.kids.science.sky",
+        "knw.kids.stories.seed"
+      ],
+      "term": "Sunlight"
+    },
+    "vendor_lock_in": {
+      "definition": "The condition in which switching suppliers is so costly that dependence continues regardless of price or quality.",
+      "dictionaryId": "lex.sa.mind.vendor_lock_in",
+      "example": "",
+      "fieldId": "mind",
+      "id": "vendor_lock_in",
+      "lessonIds": [
+        "article_local_ai"
+      ],
+      "packs": [
+        "knw.mind.local_ai"
+      ],
+      "term": "Vendor lock-in"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

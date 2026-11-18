@@ -1,0 +1,79 @@
+{
+  "language": "tr",
+  "lessonId": "article_app_future",
+  "objectives": [
+    "Yapay zeka ajanlarının yazılımın kullanım şeklini nasıl değiştirdiğini açıklayın.",
+    "Niyete dayalı etkileşim ile komut dayalı etkileşimi açıklayın.",
+    "Kullanıcılar adına hareket eden ajanlar uygulama arayüzlerine ne olduğunu açıklayın.",
+    "İnsanlar ile yazılım arasındaki değişen ilişki üzerine düşünün.",
+    "İnsanların hâlâ kendi başlarına yapmak istedikleri şeyleri belirleyin."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Smartphone çağı, dünyanın hizmetlerini uygulamalara, uygulamaları da kontrol ekranlarına organize etti. Her istek için bir procedure vardı: uygulamayı aç, özelliği bul, formu doldur, onayla. İnsanlar bu procedures öğrendi; software onları bekledi.\n\nAI agents bu arrangement'i tersine çevirir. Kullanıcı niyetini ifade eder — 'beni eve götüren ve yirmi doların altında olan bir train bul' — ve agent, birkaç uygulama boyunca hareket ederek ekranları okur, formları doldurur, ayrıntıları onaylar. Kullanıcının software ile ilişkisi manual olmaktan çıkar.\n\nBu, küçük bir interaction değişikliği değildir; kimin kimi operate ettiğinin değişimidir. Computing başladığından bu yana ilk kez, software'in default kullanıcısı başka bir piece of software olabilir. İnsan fingers için designed olan screen, agents'in okuduğu ve insanların occasionally kontrol ettiği bir side channel olur.",
+      "examples": [
+        "She 'dentist randevumu next month'a yeniden planla' dedi; agent booking app'i açtı, calendar'ı buldu ve returned üç options ile döndü."
+      ],
+      "heading": "Düğmelerden niyetlere"
+    },
+    {
+      "body": "Uygulama ekonomisi dikkat yakalama üzerine kuruldu: her şirket, reklamların, verilerin ve sadakatin yaşadığı yer olduğu için hizmetini kendi interface'i içine kapattı. Agents bu duvarları görmez. Onlar hizmetler arasında user'ın behalf'ine geçer; bu da her kapalı bahçeyi bir koridora dönüştürür.\n\nBu, birkaç iş modelini aynı anda kırar. Bağımlılık yaratmak üzere tasarlanmış Interfaces, onlara bakan kimse olmadığında önemsiz hâle gelir. Notifications, bir agent onları ekranlardan geçirdiğinde gücünü kaybeder. Lock-in, geçiş maliyetlerini bir insanın yeni bir app'i yeniden öğrenmesi değil de software ödediğinde zayıflar.\n\nYanıt zaten görünür durumda: services, agents için machine interfaces — APIs ve structured access — sunarken, human-facing design sessizce önemini yitiriyor. Uzun vadede kazanan şirketler, Interfaces'leri insan gözüne en çekici olanlar değil; services'leri agents tarafından en kolay ve sadık kullanılabilir olanlar olabilir. Software, machines tarafından seçilmek için rekabet ediyor.",
+      "examples": [
+        "Yemek teslim app'i, siparişlerinin yarısının artık assistants üzerinden geldiğini fark etti ve parlak bannes yerine temiz machine access'in etrafında yeniden tasarlandı."
+      ],
+      "heading": "Her şirket neden bir duvar ördü ve ne kırılıyor"
+    },
+    {
+      "body": "Delegation'ın bir sınırı vardır ve yazılımla birlikte bu sınır, tercih ve sorumluluk üzerinden işler. Agents seçenekleri karşılaştırabilir, ancak aralarında seçim yapmak sıklıkla hiçbir modelin barındıramadığı değerleri içerir: En ucuz uçuş, yorgun bir çocukla birlikte dört saatlik layover'a değer mi? En uygun doctor, güvendiğim kişi mi? Bunun gibi Preferences, optimizasyonla değil, yaşayarak oluşur.\n\nSorumluluk daha zor bir sınır koyar. Bir agent yanlış uçuşu book ederse, yanlış message gönderirse veya yanlış stock satın alırsa, sonuçların sorumluluğu, Delegation'ı yapan insana aittir. Meaningful control'ü elde tutmak, anlamlı visibility'yi elde tutmak anlamına gelir: agent'ın ne yaptığını bilmek, interrupt edebilmek ve gerçekten önemli olan konularda final approval'ı saklamak.\n\nOrtaya çıkan en sağlıklı model, iş bölümüdür: agents procedure'ı, insanlar tercih ve sorumluluğu ele alır. app çağı, insanların machines işletmesini sağladı; agent çağı ise machines'in software işletmesini sağlıyor — insanlar da geriye kalan, insana özgü işleri yapıyor.",
+      "examples": [
+        "Agent, üç booking apps'i ele alıyor; seçimi belirleyen tek soruyu ise o ele alıyor: Bu trip, family için işe yarar mı?"
+      ],
+      "heading": "İnsanın neyi elinde tuttuğu"
+    },
+    {
+      "body": "Bu terimler, insan tarafından işletilen software'den agent tarafından işletilen software'e geçişi tanımlar.",
+      "heading": "Hizmet veren software sözlüğü",
+      "terms": [
+        {
+          "example": "Agentic app, kendisine söylenmeyi beklemedi; geciken uçuşu fark etti ve bağlantıyı yeniden ayarladı.",
+          "gloss": "Her komutu beklemek yerine, belirli bir ölçüde autonomy ile hedeflere doğru hareket edecek şekilde tasarlanmış software."
+        },
+        {
+          "example": "Adaptive interface, travel günü önce departure board'ı, her Monday ise meeting notlarını gösterdi.",
+          "gloss": "Sabit menüler göstermek yerine, bağlama, intent'e ve geçmişe göre değişen kullanıcı interface'i."
+        },
+        {
+          "example": "Intent'i, 'Friday için iki kişilik sessiz bir table'ydı; komutlar üç app ve bir phone call içeriyordu.",
+          "gloss": "Kullanıcının gerçekleştirmek istediği şeyi, onu gerçekleştiren komutların aksine ifade eden statement."
+        },
+        {
+          "example": "Task automation, coffee içerken invoice'u email'den accounting'e ve ardından payment confirmation'a taşıdı.",
+          "gloss": "Her adımın insan tarafından işletilmesi gerekmeden, software tarafından çok adımlı procedures'in gerçekleştirilmesi."
+        },
+        {
+          "example": "Assistant, bakiyeyi kontrol etmek için bank's API'sini kullandı; screen yoktu, password typing yoktu.",
+          "gloss": "Application programming interface: software'in başka bir service'i kullanması için, insanlardan çok makineler için tasarlanmış structured bir yol."
+        },
+        {
+          "example": "Ambient computing'de ev ısıtmayı ayarlar, agent programı schedule'u düzenler ve kimse app açmaz.",
+          "gloss": "Dikkat gerektirmeden background'da hareket edecek şekilde environment'a işlenmiş computing."
+        }
+      ]
+    },
+    {
+      "body": "Onlarca yıl boyunca, humans operatörler olduğu için software işini ekranda gösterdi. agents operasyonu devraldıkça, interface tamamlanan işin bir summary'sine küçülüyor — çalıştırılacak bir machine değil, kontrol edilecek bir receipt. Designing for trust, artık Designing for engagement'den daha önemli hâle geliyor.",
+      "heading": "Ekran bir makbuza dönüşüyor"
+    },
+    {
+      "body": "Uygulama çağının gerektirdiği beceriler — yöntemleri ezberlemek, menüler arasında gezinmek, çok sayıda oturumu yönetmek — değersizleşiyor. Ajan çağının ödüllendirdiği beceriler farklıdır: hedefleri açıkça belirtmek, emeği kendimiz ile yazılım arasında akıllıca paylaşmak, sonuçları denetlemek ve denetimleri ne zaman geri almamız gerektiğini bilmek.\n\nAyrıca bir kültürel uyum söz konusudur. Eyleme geçen yazılım, nasıl tasarlandığı ve yönetildiğine bağlı olarak kontrollü hissettirebilir ya da rahatlama sağlayabilir. Sonraki on yılı şekillendirecek talep basitçe ifade edilebilir ama gerçekleştirmesi güçtür: kaputun altında güçlü, yüzeyde ise dürüst olan; yorgun bir insanın bir bakışta denetleyebileceği dilde ne yaptığını gösteren ajanlar.\n\nİnsanlar ile yazılım arasındaki ilişki, belki her zaman olması gereken şeye dönüşüyor: insanlar niyet ve yargıyı getirir; yazılım bellek ve hız getirir; emeğin paylaşımı ise açıkça görüşülür. Uygulama bize arayüze hizmet etmeyi öğretti. Ajan ise bunun tersini vaat ediyor — bu sözü tutmak ise yıllar sürecek bir çalışma olacak.",
+      "examples": [
+        "Her akşam ajanın özetini iki dakika boyunca denetler — günü yönetmek için değil, ona sahip olmak için."
+      ],
+      "heading": "Eyleme geçen yazılımla yaşamayı öğrenmek"
+    }
+  ],
+  "summary": "On beş yıldır yazılım ekranlardan ibaretti: buraya dokun, oraya kaydır, her uygulamanın menülerini öğren. Bu makale, hâlihazırda süren dönüşümü inceliyor: bizim adımıza uygulamaları çalıştıran yapay zekâ ajanları, niyete uyum sağlayan arayüzler ve her görevin bir insanın düğmelere basmasını gerektirdiği dönemin sona ermesi.",
+  "title": "Mobil Uygulamaların Geleceği: Yapay Zeka Yazılımı Bizim İçin Kullandığında"
+}

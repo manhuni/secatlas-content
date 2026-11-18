@@ -1,0 +1,1036 @@
+{
+  "records": {
+    "1e0584a25d9f43bf5cbd0aec01eb1af2220ed085b4e7f1837b0d89958cae353a": [
+      {
+        "forms": [
+          "header"
+        ],
+        "id": "lex.sa.en.header.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "header",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.header.noun.1",
+          "sns.sa.en.header-noun.alt"
+        ]
+      },
+      {
+        "definition": "Hàng tiêu đề của một bảng dữ liệu.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "hàng tiêu đề",
+        "id": "sns.sa.vi.header.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.header.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The row that names the columns of a table.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "The title row of a data table.",
+        "id": "sns.sa.en.header-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.header.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667": [
+      {
+        "forms": [
+          "Try",
+          "try"
+        ],
+        "id": "lex.sa.kids_food.try",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Try",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_food.try.alt",
+          "sns.sa.kids_food.try.alt.ja",
+          "sns.sa.kids_food.try.alt.ko",
+          "sns.sa.kids_food.try.alt.pt_br",
+          "sns.sa.kids_food.try.alt.id",
+          "sns.sa.kids_food.try.alt.th",
+          "sns.sa.kids_food.try.alt.tr"
+        ]
+      },
+      {
+        "definition": "To taste a food for the first time. One small bite is enough for today.",
+        "exampleIds": [
+          "exm.sa.kids_food.try.1.1"
+        ],
+        "gloss": "To taste a food for the first time. One small bite is enough for today.",
+        "id": "sns.sa.kids_food.try.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_food.try",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "な unfamiliar 食物を初めて口に入れて味を確かめること。一口試す行為。",
+        "exampleIds": [
+          "exm.sa.kids_food.try.1.1.ja"
+        ],
+        "gloss": "食物を初めて味見すること。今日は一口だけでよい。",
+        "id": "sns.sa.kids_food.try.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_food.try",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 음식을 먹어 보기 전에 한 번 맛보는 것을 말하며, 처음에는 조금만 먹어도 된다.",
+        "exampleIds": [
+          "exm.sa.kids_food.try.1.1.ko"
+        ],
+        "gloss": "음식을 처음 맛보는 것.",
+        "id": "sns.sa.kids_food.try.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_food.try",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dar uma pequena mordida em um alimento para conhecer seu sabor. Uma única mordida já basta para experimentar a comida.",
+        "exampleIds": [
+          "exm.sa.kids_food.try.1.1.pt_br"
+        ],
+        "gloss": "Provar um alimento pela primeira vez.",
+        "id": "sns.sa.kids_food.try.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_food.try",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kata ini menyebut tindakan mencicipi makanan yang belum pernah dimakan sebelumnya. Untuk mencobanya, cukup mengambil satu gigitan kecil.",
+        "exampleIds": [
+          "exm.sa.kids_food.try.1.1.id"
+        ],
+        "gloss": "Percobaan mencicipi makanan untuk pertama kali.",
+        "id": "sns.sa.kids_food.try.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_food.try",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การลองชิมอาหารที่ยังไม่เคยกินมาก่อน โดยครั้งแรกอาจกินเพียงคำเล็ก ๆ น้อย ๆ",
+        "exampleIds": [
+          "exm.sa.kids_food.try.1.1.th"
+        ],
+        "gloss": "การลองชิมอาหารที่ยังไม่เคยกินมาก่อน",
+        "id": "sns.sa.kids_food.try.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_food.try",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Daha önce yemediğin bir yiyeceği küçük bir parça yiyerek tatma. İlk denemede küçük bir ısırık yeterlidir.",
+        "exampleIds": [
+          "exm.sa.kids_food.try.1.1.tr"
+        ],
+        "gloss": "Bir yiyeceği ilk kez tatma eylemi.",
+        "id": "sns.sa.kids_food.try.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_food.try",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_food.try.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will try one bite of the soup.",
+        "translation": "Çorbadan bir kaşık yiyip deneyeceğim.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_food.try.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will try one bite of the soup.",
+        "translation": "ฉันจะลองชิมซุปหนึ่งคำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_food.try.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will try one bite of the soup.",
+        "translation": "Percobaan saya pada sup itu hanya satu gigitan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_food.try.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will try one bite of the soup.",
+        "translation": "Vou provar uma mordida da sopa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_food.try.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will try one bite of the soup.",
+        "translation": "我只 오늘은 수프를 한 입만 맛보겠습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_food.try.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will try one bite of the soup.",
+        "translation": "今日はスープを一口だけ try する。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_food.try.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will try one bite of the soup.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "1e579ae99f9298f80d7059a4a8fb0ca5fb7f4fef0bdf9cba499da3d099779ff6": [
+      {
+        "forms": [
+          "Subordination",
+          "cs_subordination"
+        ],
+        "id": "lex.sa.mind.cs_subordination",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Subordination",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_subordination.alt",
+          "sns.sa.mind.cs_subordination.alt.ja",
+          "sns.sa.mind.cs_subordination.alt.ko",
+          "sns.sa.mind.cs_subordination.alt.pt_br",
+          "sns.sa.mind.cs_subordination.alt.id",
+          "sns.sa.mind.cs_subordination.alt.th",
+          "sns.sa.mind.cs_subordination.alt.tr"
+        ]
+      },
+      {
+        "definition": "The arrangement in which one person is placed below another and kept there.",
+        "exampleIds": [
+          "exm.sa.mind.cs_subordination.1.1"
+        ],
+        "gloss": "The arrangement in which one person is placed below another and kept there.",
+        "id": "sns.sa.mind.cs_subordination.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_subordination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある人を権限や地位の低い側に置き，这样的関係を維持すること・関係。",
+        "exampleIds": [
+          "exm.sa.mind.cs_subordination.1.1.ja"
+        ],
+        "gloss": "ある人を他人の下に置き、上下関係を保つ状態。",
+        "id": "sns.sa.mind.cs_subordination.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_subordination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "한쪽이 다른 쪽 밑에 놓여 순응하고 복종하는 위계적 배치. 강제뿐 아니라 스스로 아래에 머물러 가는 경우도 포함한다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_subordination.1.1.ko"
+        ],
+        "gloss": "한 사람이 다른 사람 아래에 놓이고 그대로 머무르는 관계.",
+        "id": "sns.sa.mind.cs_subordination.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_subordination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É uma organização desigual na qual uma pessoa ocupa uma posição inferior à de outra e fica sujeita à sua autoridade ou controle.",
+        "exampleIds": [
+          "exm.sa.mind.cs_subordination.1.1.pt_br"
+        ],
+        "gloss": "Relação em que uma pessoa fica abaixo e sob a autoridade de outra.",
+        "id": "sns.sa.mind.cs_subordination.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_subordination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Susunan ketika satu orang ditempatkan pada tingkat yang lebih rendah daripada orang lain dan posisi itu dipertahankan. Istilah ini menunjuk hubungan hierarkis, bukan sekadar sikap menghormati.",
+        "exampleIds": [
+          "exm.sa.mind.cs_subordination.1.1.id"
+        ],
+        "gloss": "Penempatan satu orang di bawah dan tetap berada di bawah orang lain.",
+        "id": "sns.sa.mind.cs_subordination.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_subordination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงการจัดลำดับให้บุคคลหนึ่งมีตำแหน่งต่ำกว่าอีกบุคคลหนึ่งและคงไว้เช่นนั้น ไม่ใช่เพียงการพูดคนหนึ่งตามคนหลัง",
+        "exampleIds": [
+          "exm.sa.mind.cs_subordination.1.1.th"
+        ],
+        "gloss": "การจัดให้บุคคลหนึ่งอยู่ใต้อีกบุคคลหนึ่ง",
+        "id": "sns.sa.mind.cs_subordination.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_subordination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin veya grubun başka bir kişinin ya da grubun altında tutulmasını düzenleyen ilişki. Burada üsttekinin, astın konuşma ve davranışları üzerinde belirleyici etkisi vardır.",
+        "exampleIds": [
+          "exm.sa.mind.cs_subordination.1.1.tr"
+        ],
+        "gloss": "Hiyerarşide birini başkasının altında tutma düzeni.",
+        "id": "sns.sa.mind.cs_subordination.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_subordination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_subordination.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Toplantıda öğretilen şey hiyerarşik astlıktı: kim ikinci konuşursa önce düzeltilirdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_subordination.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การอยู่เบื้องล่างทำให้ผู้พูดคนหลังต้องยอมรับคำตัดสินของผู้พูดคนแรก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_subordination.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Subordinasi itu terlihat jelas dalam rapat: siapa pun yang bicara kedua kali langsung dikoreksi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_subordination.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A subordinação ficou evidente na reunião, pois todos esperavam a permissão do chefe para falar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_subordination.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 회의에서는 두 번째로 말한 사람이 먼저 교정되었으므로 종속 관계가 그대로 드러났다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_subordination.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "会議では発言の順番が遅い人が先に訂正され、从属関係が示された。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_subordination.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The subordination was taught in the meeting: whoever spoke second was corrected first.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "1e7b5b4ffd8807bad081b34cbd9358104d04532d7088a5a6447e04c6e6bef9ca": [
+      {
+        "forms": [
+          "Service charge",
+          "service_charge"
+        ],
+        "id": "lex.sa.travel.service_charge",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Service charge",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.service_charge.alt",
+          "sns.sa.travel.service_charge.alt.ja",
+          "sns.sa.travel.service_charge.alt.ko",
+          "sns.sa.travel.service_charge.alt.pt_br",
+          "sns.sa.travel.service_charge.alt.id",
+          "sns.sa.travel.service_charge.alt.th",
+          "sns.sa.travel.service_charge.alt.tr"
+        ]
+      },
+      {
+        "definition": "A percentage added to the bill for service, usually 10 % or 15 %. When it is included, tipping again is not expected.",
+        "exampleIds": [
+          "exm.sa.travel.service_charge.1.1"
+        ],
+        "gloss": "A percentage added to the bill for service, usually 10 % or 15 %. When it is included, tipping again is not expected.",
+        "id": "sns.sa.travel.service_charge.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.service_charge",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "サービス料として請求書の基本料金に加算される料金で、ebb10％または15％が多い。已经に含まれている場合は、チップを別途渡neys必要はありません。",
+        "exampleIds": [
+          "exm.sa.travel.service_charge.1.1.ja"
+        ],
+        "gloss": "請求書に、服务提供対価として加算される割合の料金。",
+        "id": "sns.sa.travel.service_charge.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.service_charge",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "식사나 이용 금액에 服务 비용을 더하기 위해 Usually 10% 또는 15%를 붙이는 금액입니다. 이미 청구서에 포함되어 있다면 별도로 팁을 줄 필요는 없습니다.",
+        "exampleIds": [
+          "exm.sa.travel.service_charge.1.1.ko"
+        ],
+        "gloss": "요청에 대한 서비스 비용을 나타내기 위해 청구서에 더하는 금액이다.",
+        "id": "sns.sa.travel.service_charge.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.service_charge",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A taxa de serviço costuma ser de 10% ou 15% e já aparece discriminada na conta. Quando incluída, geralmente não se espera pagar outra gorjeta, embora a decisão final seja do cliente.",
+        "exampleIds": [
+          "exm.sa.travel.service_charge.1.1.pt_br"
+        ],
+        "gloss": "Percentual adicionado à conta pelo serviço prestado.",
+        "id": "sns.sa.travel.service_charge.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.service_charge",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Persentase yang ditambahkan ke tagihan untuk jasa yang diberikan. Jika biaya layanan sudah tercantum, pemberian tip tambahan biasanya tidak diperlukan.",
+        "exampleIds": [
+          "exm.sa.travel.service_charge.1.1.id"
+        ],
+        "gloss": "Biaya tambahan pada tagihan untuk jasa, biasanya sebesar 10% atau 15%.",
+        "id": "sns.sa.travel.service_charge.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.service_charge",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ค่าบริการมักเป็นร้อยละ 10 หรือ 15 ที่คิดเพิ่มจากค่าใช้จ่าย หากรวมอยู่ในบิลแล้ว โดยทั่วไปไม่ต้องให้ค่าทิปเพิ่ม",
+        "exampleIds": [
+          "exm.sa.travel.service_charge.1.1.th"
+        ],
+        "gloss": "ค่าบริการที่เพิ่มเข้ามาในบิลค่าใช้จ่าย",
+        "id": "sns.sa.travel.service_charge.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.service_charge",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Genellikle yüzde 10 veya 15 olarak hesaba eklenen servis ücretidir. Hesapta zaten yer alıyorsa ayrıca bahşiş vermek gerekmez.",
+        "exampleIds": [
+          "exm.sa.travel.service_charge.1.1.tr"
+        ],
+        "gloss": "Hesaba servis karşılığı olarak eklenen yüzde.",
+        "id": "sns.sa.travel.service_charge.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.service_charge",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.service_charge.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The service charge is already on the bill, so we will just round it up.",
+        "translation": "Servis ücreti hesapta zaten var, bu yüzden ayrıca bahşiş vermeyeceğiz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.service_charge.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The service charge is already on the bill, so we will just round it up.",
+        "translation": "ในบิลมีค่าบริการอยู่แล้ว เราจึงไม่ต้องให้ค่าทิปซ้ำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.service_charge.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The service charge is already on the bill, so we will just round it up.",
+        "translation": "Biaya layanan sudah tercantum dalam tagihan, jadi kami cukup membulatkan pembayarannya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.service_charge.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The service charge is already on the bill, so we will just round it up.",
+        "translation": "A taxa de serviço já está na conta, então vamos apenas arredondar o valor.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.service_charge.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The service charge is already on the bill, so we will just round it up.",
+        "translation": "서비스료가 이미 청구서에 포함되어 있으니 금액만 올림하면 되겠습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.service_charge.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The service charge is already on the bill, so we will just round it up.",
+        "translation": "サービス料はすでに請求書に含まれているので、端数を切り上げるだけで構いません。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.service_charge.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The service charge is already on the bill, so we will just round it up.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "1e8abffb973c275e041eddbe542c020d1e4f4098509018ed4e27f7879d97cbe0": [
+      {
+        "forms": [
+          "Feeling",
+          "feeling"
+        ],
+        "id": "lex.sa.kids_feelings.feeling",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Feeling",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_feelings.feeling.alt",
+          "sns.sa.kids_feelings.feeling.alt.ja",
+          "sns.sa.kids_feelings.feeling.alt.pt_br",
+          "sns.sa.kids_feelings.feeling.alt.id",
+          "sns.sa.kids_feelings.feeling.alt.th",
+          "sns.sa.kids_feelings.feeling.alt.tr",
+          "sns.sa.kids_feelings.feeling.alt.ko"
+        ]
+      },
+      {
+        "definition": "Something that happens inside you. It shows on your face and tells you what you need.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.feeling.1.1"
+        ],
+        "gloss": "Something that happens inside you. It shows on your face and tells you what you need.",
+        "id": "sns.sa.kids_feelings.feeling.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_feelings.feeling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Registrar 心の中で生じる感情や気分の状態をいい、表情や行動にも現れる。",
+        "exampleIds": [
+          "exm.sa.kids_feelings.feeling.1.1.ja"
+        ],
+        "gloss": "人の心の中で起きる SHALL. 感情や気分の状態。",
+        "id": "sns.sa.kids_feelings.feeling.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_feelings.feeling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sentimento é uma emoção ou estado interior, como felicidade, tristeza ou medo.Ele pode ser percebido no corpo e no jeito de agir.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.feeling.1.1.pt_br"
+        ],
+        "gloss": "Estado emocional ou sensação que acontece dentro de uma pessoa.",
+        "id": "sns.sa.kids_feelings.feeling.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_feelings.feeling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Perasaan yang muncul di dalam diri, seperti senang, sedih, marah, atau takut, dan biasanya terlihat dari ekspresi wajah.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.feeling.1.1.id"
+        ],
+        "gloss": "Keadaan yang dirasakan di dalam diri.",
+        "id": "sns.sa.kids_feelings.feeling.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_feelings.feeling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ประสบการณ์ภายในที่บอกถึงอารมณ์หรือสภาพของเรา เช่น ความสุข ความเศร้า หรือความหิว และมักส่งผลให้แสดงออกทางสีหน้า",
+        "exampleIds": [
+          "exm.sa.kids_feelings.feeling.1.1.th"
+        ],
+        "gloss": "ความรู้สึกคือสิ่งที่เกิดขึ้นภายในจิตใจและร่างกายของเรา",
+        "id": "sns.sa.kids_feelings.feeling.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_feelings.feeling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Mutluluk, üzüntü veya korku gibi insanın iç durumunu ve ihtiyaçlarını belirten duyguyu anlatır.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.feeling.1.1.tr"
+        ],
+        "gloss": "İçinde yaşadığın ve yüzünden anlaşılabilen duygusal durumdur.",
+        "id": "sns.sa.kids_feelings.feeling.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_feelings.feeling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "내면에서 일어나는 감정이나 기분으로, 표정에도 나타나며 지금 어떤 상태인지 알려 준다.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.feeling.1.1.ko"
+        ],
+        "gloss": "마음深处에서 일어나는 감정이나 기분.",
+        "id": "sns.sa.kids_feelings.feeling.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_feelings.feeling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_feelings.feeling.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My feeling today is happy.",
+        "translation": "오늘 내 기분은 행복해.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_feelings.feeling.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My feeling today is happy.",
+        "translation": "Bugün hissettirdiğim duygu mutluluk.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_feelings.feeling.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My feeling today is happy.",
+        "translation": "ความรู้สึกของฉันวันนี้คือมีความสุข",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_feelings.feeling.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My feeling today is happy.",
+        "translation": "Perasaan saya hari ini adalah senang.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_feelings.feeling.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My feeling today is happy.",
+        "translation": "Hoje, meu sentimento é de felicidade.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_feelings.feeling.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My feeling today is happy.",
+        "translation": "今日の私の気持ちは Joyce 幸せだ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_feelings.feeling.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My feeling today is happy.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "1ea418c686d2fac7962e9493ab78dff1f83a067ba31057423fc589bd96321de7": [
+      {
+        "forms": [
+          "Diving mask",
+          "diving_mask"
+        ],
+        "id": "lex.sa.kids_adventure.diving_mask",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Diving mask",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_adventure.diving_mask.alt",
+          "sns.sa.kids_adventure.diving_mask.alt.ja",
+          "sns.sa.kids_adventure.diving_mask.alt.ko",
+          "sns.sa.kids_adventure.diving_mask.alt.pt_br",
+          "sns.sa.kids_adventure.diving_mask.alt.id",
+          "sns.sa.kids_adventure.diving_mask.alt.th",
+          "sns.sa.kids_adventure.diving_mask.alt.tr"
+        ]
+      },
+      {
+        "definition": "A cover for your eyes with glass in it. It lets you see under the water clearly.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.diving_mask.1.1"
+        ],
+        "gloss": "A cover for your eyes with glass in it. It lets you see under the water clearly.",
+        "id": "sns.sa.kids_adventure.diving_mask.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_adventure.diving_mask",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "顔または目的一部分を覆い、水中で物をはっきり見分けることを可能にする装置。",
+        "exampleIds": [
+          "exm.sa.kids_adventure.diving_mask.1.1.ja"
+        ],
+        "gloss": "目の部分 glass が embedded された、水中用のマスク。",
+        "id": "sns.sa.kids_adventure.diving_mask.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_adventure.diving_mask",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "유리 부분으로 눈을 덮어 물속에서 주변을 선명하게 볼 수 있게 하는 잠수용 장비입니다.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.diving_mask.1.1.ko"
+        ],
+        "gloss": "물속에서 눈을 보호하고 선명하게 볼 수 있게 하는 마스크.",
+        "id": "sns.sa.kids_adventure.diving_mask.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_adventure.diving_mask",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Peça ajustada ao rosto, com uma lente transparente que protege os olhos e ajuda a ver com clareza durante o mergulho.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.diving_mask.1.1.pt_br"
+        ],
+        "gloss": "Máscara que protege os olhos e permite enxergar debaixo d’água.",
+        "id": "sns.sa.kids_adventure.diving_mask.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_adventure.diving_mask",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Masker selam melindungi mata dan membantu pengguna melihat benda di bawah air dengan lebih jelas.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.diving_mask.1.1.id"
+        ],
+        "gloss": "Alat pelindung mata dari kaca untuk melihat dengan jelas di bawah air.",
+        "id": "sns.sa.kids_adventure.diving_mask.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_adventure.diving_mask",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "อุปกรณ์คลุมรอบตาพร้อมกระจกใส ที่ใช้สำหรับดำน้ำเพื่อปกป้องตาและให้มองเห็นสิ่งต่าง ๆ ใต้น้ำได้ชัดเจน",
+        "exampleIds": [
+          "exm.sa.kids_adventure.diving_mask.1.1.th"
+        ],
+        "gloss": "หน้ากากแวดน้ำที่ปกป้องตาและช่วยให้มองเห็นใต้น้ำได้ชัดเจน",
+        "id": "sns.sa.kids_adventure.diving_mask.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_adventure.diving_mask",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gözleri ve burnu kaplayan, su altında net görmeyi sağlayan dalış maskesi.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.diving_mask.1.1.tr"
+        ],
+        "gloss": "Su altında net görmeyi sağlayan camlı maske.",
+        "id": "sns.sa.kids_adventure.diving_mask.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_adventure.diving_mask",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_adventure.diving_mask.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She pulled the diving mask down over her nose.",
+        "translation": "Dalış maskesini burnunun üzerine indirdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_adventure.diving_mask.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She pulled the diving mask down over her nose.",
+        "translation": "เธอดึงหน้ากากแวดน้ำลงมาครอบจมูก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_adventure.diving_mask.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She pulled the diving mask down over her nose.",
+        "translation": "Dia menarik masker selam hingga menutupi hidungnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_adventure.diving_mask.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She pulled the diving mask down over her nose.",
+        "translation": "Ela abaixou a máscara de mergulho sobre o nariz.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_adventure.diving_mask.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She pulled the diving mask down over her nose.",
+        "translation": "그녀는 잠수 마스크를 얼굴에 밀어 당겨 눈을 덮었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_adventure.diving_mask.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She pulled the diving mask down over her nose.",
+        "translation": "彼女は mask を鼻まで down して pulled。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_adventure.diving_mask.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She pulled the diving mask down over her nose.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "1ea50a8caf6085042452db60307ec62662e096120714ddac4fbc471c9456b411": [
+      {
+        "forms": [
+          "symbol",
+          "symbols"
+        ],
+        "id": "lex.sa.en.symbol.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "symbol",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.symbol.noun.1",
+          "sns.sa.en.symbol-noun.alt"
+        ]
+      },
+      {
+        "definition": "Ký tự hoặc hình nhỏ đại diện cho một đại lượng hay một khái niệm.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.37"
+        ],
+        "gloss": "ký hiệu",
+        "id": "sns.sa.vi.symbol.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.symbol.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A written sign that stands for a quantity or an idea.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.37"
+        ],
+        "gloss": "A sign that stands for a quantity or an idea.",
+        "id": "sns.sa.en.symbol-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.symbol.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.37",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Read the symbol, then the English name.",
+        "translation": "Đọc ký hiệu trước, rồi đến tên tiếng Anh.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "1eb79602411ef02cf6fe117897015fff89f80face4eccd50425c45149b148408": [
+      {
+        "forms": [
+          "this"
+        ],
+        "id": "lex.sa.en.this.pronoun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "this",
+        "pos": "pronoun",
+        "senseIds": [
+          "sns.sa.vi.this.pronoun.1",
+          "sns.sa.en.this-pronoun.alt"
+        ]
+      },
+      {
+        "definition": "Đại từ chỉ một vật đang nói đến.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "cái này",
+        "id": "sns.sa.vi.this.pronoun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.this.pronoun",
+        "pos": "pronoun",
+        "revision": 1
+      },
+      {
+        "definition": "A demonstrative pronoun for the thing nearby.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "The pronoun for the thing being talked about.",
+        "id": "sns.sa.en.this-pronoun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.this.pronoun",
+        "pos": "pronoun",
+        "revision": 1
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

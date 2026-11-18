@@ -1,0 +1,576 @@
+{
+  "items": [
+    {
+      "definition": "Income adjusted for inflation, which is the figure that says how much you can actually buy.",
+      "dictionaryId": "lex.sa.money.real_income",
+      "example": "Real income fell two per cent because prices rose faster than my pay.",
+      "fieldId": "money",
+      "id": "real_income",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Real income"
+    },
+    {
+      "definition": "The interest rate minus the inflation rate. It is the return a saver actually keeps in purchasing power.",
+      "dictionaryId": "lex.sa.money.real_interest_rate",
+      "example": "A 4 % deposit with 6 % inflation gives a real interest rate of minus 2 %.",
+      "fieldId": "money",
+      "id": "real_interest_rate",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Real interest rate"
+    },
+    {
+      "definition": "Total pay for the period before any money is deducted for tax, insurance or other agreed deductions.",
+      "dictionaryId": "lex.sa.money.gross_pay",
+      "example": "My gross pay is 40 $ a month, before anything is taken off.",
+      "fieldId": "money",
+      "id": "gross_pay",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Gross pay"
+    },
+    {
+      "definition": "The amount left after all deductions, and the amount that reaches your bank account.",
+      "dictionaryId": "lex.sa.money.net_pay",
+      "example": "The difference between my gross and my net is mostly tax and insurance.",
+      "fieldId": "money",
+      "id": "net_pay",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Net pay"
+    },
+    {
+      "definition": "Any amount taken off gross pay before payment, whether required by law or agreed with you.",
+      "dictionaryId": "lex.sa.money.deduction",
+      "example": "The canteen charge is a deduction, so it comes out before my net pay.",
+      "fieldId": "money",
+      "id": "deduction",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Deduction"
+    },
+    {
+      "definition": "Income tax taken out of your pay in advance by the employer. It is not your final tax bill.",
+      "dictionaryId": "lex.sa.money.tax_withholding",
+      "example": "The tax withheld this month was higher because my bonus was large.",
+      "fieldId": "money",
+      "id": "tax_withholding",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Tax withheld"
+    },
+    {
+      "definition": "The compulsory payment into the social insurance system that covers sickness, maternity, accidents and retirement.",
+      "dictionaryId": "lex.sa.money.social_insurance",
+      "example": "My social insurance contribution is a percentage of my gross pay.",
+      "fieldId": "money",
+      "id": "social_insurance",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Social insurance contribution"
+    },
+    {
+      "definition": "Money you paid for work that the company owes you back. It almost always needs a receipt and a deadline.",
+      "dictionaryId": "lex.sa.money.expense_claim",
+      "example": "I submitted the taxi receipts as an expense claim on Friday.",
+      "fieldId": "money",
+      "id": "expense_claim",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Expense claim"
+    },
+    {
+      "definition": "A line you draw around your time, energy, body or values, and say out loud so other people can respect it.",
+      "dictionaryId": "lex.sa.social.boundary",
+      "example": "Her boundary was simple: no phone calls after ten.",
+      "fieldId": "social",
+      "id": "boundary",
+      "lessonIds": [
+        "article_boundaries"
+      ],
+      "packs": [
+        "knw.social.boundaries"
+      ],
+      "term": "Boundary"
+    },
+    {
+      "definition": "The point at which you stop giving: the time, the amount or the effort. A limit is the measurable side of a boundary.",
+      "dictionaryId": "lex.sa.social.limit",
+      "example": "My limit is two favours a week, and I stick to it.",
+      "fieldId": "social",
+      "id": "limit",
+      "lessonIds": [
+        "article_boundaries"
+      ],
+      "packs": [
+        "knw.social.boundaries"
+      ],
+      "term": "Limit"
+    },
+    {
+      "definition": "Something a person asks of you. A request deserves an answer; it does not deserve obedience.",
+      "dictionaryId": "lex.sa.social.request",
+      "example": "The request was reasonable, and the answer was still no.",
+      "fieldId": "social",
+      "id": "request",
+      "lessonIds": [
+        "article_boundaries"
+      ],
+      "packs": [
+        "knw.social.boundaries"
+      ],
+      "term": "Request"
+    },
+    {
+      "definition": "To have to have something.",
+      "dictionaryId": "lex.sa.en.need.verb",
+      "example": "",
+      "fieldId": "social",
+      "id": "need",
+      "lessonIds": [
+        "article_boundaries"
+      ],
+      "packs": [
+        "knw.social.boundaries"
+      ],
+      "term": "need"
+    },
+    {
+      "definition": "The act of saying no to something. It is a decision about an offer, not a verdict on a person.",
+      "dictionaryId": "lex.sa.social.decline",
+      "example": "She declined the invitation politely and without drama.",
+      "fieldId": "social",
+      "id": "decline",
+      "lessonIds": [
+        "article_boundaries"
+      ],
+      "packs": [
+        "knw.social.boundaries"
+      ],
+      "term": "Decline"
+    },
+    {
+      "definition": "The result you decide to bring about when a boundary is crossed. It is chosen by you, and it should be small and repeatable.",
+      "dictionaryId": "lex.sa.social.consequence",
+      "example": "Her consequence was simple: she stopped answering messages late at night.",
+      "fieldId": "social",
+      "id": "consequence",
+      "lessonIds": [
+        "article_boundaries"
+      ],
+      "packs": [
+        "knw.social.boundaries"
+      ],
+      "term": "Consequence"
+    },
+    {
+      "definition": "An intense feeling of attraction for someone you have not yet got close to.",
+      "dictionaryId": "lex.sa.social.crush",
+      "example": "I have a crush on someone from my office, but we have only ever said hello.",
+      "fieldId": "social",
+      "id": "crush",
+      "lessonIds": [
+        "article_dating_expressions"
+      ],
+      "packs": [
+        "knw.social.dating"
+      ],
+      "term": "Crush"
+    },
+    {
+      "definition": "A planned meeting with someone you are getting to know. It implies time set aside for each other.",
+      "dictionaryId": "lex.sa.social.date",
+      "example": "Is Friday a date, or just a coffee between friends?",
+      "fieldId": "social",
+      "id": "date",
+      "lessonIds": [
+        "article_dating_expressions"
+      ],
+      "packs": [
+        "knw.social.dating"
+      ],
+      "term": "Date"
+    },
+    {
+      "definition": "A relationship that has no agreed label. Nobody has said what it is, and nobody has asked.",
+      "dictionaryId": "lex.sa.social.situationship",
+      "example": "We have been seeing each other for months and calling it a situationship.",
+      "fieldId": "social",
+      "id": "situationship",
+      "lessonIds": [
+        "article_dating_expressions"
+      ],
+      "packs": [
+        "knw.social.dating"
+      ],
+      "term": "Situationship"
+    },
+    {
+      "definition": "Stopping all contact without explanation, so the other person is left waiting and guessing.",
+      "dictionaryId": "lex.sa.social.ghosting",
+      "example": "He replied for three weeks and then ghosted me completely.",
+      "fieldId": "social",
+      "id": "ghosting",
+      "lessonIds": [
+        "article_dating_expressions"
+      ],
+      "packs": [
+        "knw.social.dating"
+      ],
+      "term": "Ghosting"
+    },
+    {
+      "definition": "Sending occasional messages to keep someone interested while never making any real plan.",
+      "dictionaryId": "lex.sa.social.breadcrumbing",
+      "example": "He messages me every few days but has never once suggested meeting.",
+      "fieldId": "social",
+      "id": "breadcrumbing",
+      "lessonIds": [
+        "article_dating_expressions"
+      ],
+      "packs": [
+        "knw.social.dating"
+      ],
+      "term": "Breadcrumbing"
+    },
+    {
+      "definition": "Someone you were in a relationship with and are no longer in one.",
+      "dictionaryId": "lex.sa.social.ex",
+      "example": "My ex and I still share a group of friends, so we keep it simple.",
+      "fieldId": "social",
+      "id": "ex",
+      "lessonIds": [
+        "article_dating_expressions"
+      ],
+      "packs": [
+        "knw.social.dating"
+      ],
+      "term": "Ex"
+    },
+    {
+      "definition": "When one person's behaviour and words point in different directions, usually because they are unsure or unwilling to say where things stand.",
+      "dictionaryId": "lex.sa.social.mixed_signals",
+      "example": "He texts every day but has cancelled three plans — those are mixed signals.",
+      "fieldId": "social",
+      "id": "mixed_signals",
+      "lessonIds": [
+        "article_dating_expressions"
+      ],
+      "packs": [
+        "knw.social.dating"
+      ],
+      "term": "Mixed signals"
+    },
+    {
+      "definition": "Everyone agreeing freely to something, every time. A clear no is a complete answer that needs no follow-up.",
+      "dictionaryId": "lex.sa.social.consent",
+      "example": "Consent has to be clear on both sides, and a no is always a complete answer.",
+      "fieldId": "social",
+      "id": "consent",
+      "lessonIds": [
+        "article_dating_expressions"
+      ],
+      "packs": [
+        "knw.social.dating"
+      ],
+      "term": "Consent"
+    },
+    {
+      "definition": "A situation where two people hold different views and are still talking. The other person is not automatically an enemy.",
+      "dictionaryId": "lex.sa.social.disagreement",
+      "example": "It was a disagreement about the schedule, not a fight.",
+      "fieldId": "social",
+      "id": "disagreement",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Disagreement"
+    },
+    {
+      "definition": "A disagreement that improves the decision being made and leaves the working relationship intact.",
+      "dictionaryId": "lex.sa.social.constructive_disagreement",
+      "example": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+      "fieldId": "social",
+      "id": "constructive_disagreement",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Constructive disagreement"
+    },
+    {
+      "definition": "Soft words that mark your opinion as your opinion, such as 'maybe' or 'I could be wrong'. Useful in small doses.",
+      "dictionaryId": "lex.sa.social.hedging_language",
+      "example": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+      "fieldId": "social",
+      "id": "hedging_language",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Hedging language"
+    },
+    {
+      "definition": "Giving the other side's position its strongest and most honest form before you argue against it.",
+      "dictionaryId": "lex.sa.social.steelman",
+      "example": "Before you answer, steelman the other view in one sentence and see if it still convinces you.",
+      "fieldId": "social",
+      "id": "steelman",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Steelman"
+    },
+    {
+      "definition": "The part of a position that both people accept. Every polite disagreement starts by naming it.",
+      "dictionaryId": "lex.sa.social.common_ground",
+      "example": "Find the common ground first — both of you want this project to succeed.",
+      "fieldId": "social",
+      "id": "common_ground",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Common ground"
+    },
+    {
+      "definition": "Listening to understand the other person's point, including checking your understanding, instead of waiting for your turn to speak.",
+      "dictionaryId": "lex.sa.social.active_listening",
+      "example": "Active listening means repeating their concern back before you answer it.",
+      "fieldId": "social",
+      "id": "active_listening",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Active listening"
+    },
+    {
+      "conflict": true,
+      "definition": "Short, friendly conversation with someone you do not know well. Its purpose is contact, not important information.",
+      "dictionaryId": "lex.sa.social.small_talk",
+      "example": "We had some small talk about the rain and ended up talking for an hour.",
+      "fieldId": "social",
+      "id": "small_talk",
+      "lessonIds": [
+        "article_culture_shock",
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.culture.shock",
+        "knw.social.smalltalk"
+      ],
+      "term": "Small talk"
+    },
+    {
+      "definition": "The first thing you say to start a conversation. It should be easy for the other person to answer.",
+      "dictionaryId": "lex.sa.social.opener",
+      "example": "My usual opener at a party is a question about what brought them there.",
+      "fieldId": "social",
+      "id": "opener",
+      "lessonIds": [
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.social.smalltalk"
+      ],
+      "term": "Opener"
+    },
+    {
+      "definition": "A question that cannot be answered with one word and that gives the other person room to talk.",
+      "dictionaryId": "lex.sa.social.open_question",
+      "example": "What made you take that job?",
+      "fieldId": "social",
+      "id": "open_question",
+      "lessonIds": [
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.social.smalltalk"
+      ],
+      "term": "Open question"
+    },
+    {
+      "definition": "A question built on what the other person just said, which shows you were listening.",
+      "dictionaryId": "lex.sa.social.follow_up_question",
+      "example": "You said you moved last year — what was it like at first?",
+      "fieldId": "social",
+      "id": "follow_up_question",
+      "lessonIds": [
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.social.smalltalk"
+      ],
+      "term": "Follow-up question"
+    },
+    {
+      "definition": "A short sound or remark that shows you are following without taking the turn, such as 'mm' or 'really'.",
+      "dictionaryId": "lex.sa.social.back_channel",
+      "example": "You say 'really?' and then let them keep going.",
+      "fieldId": "social",
+      "id": "back_channel",
+      "lessonIds": [
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.social.smalltalk"
+      ],
+      "term": "Back-channel"
+    },
+    {
+      "definition": "A prepared sentence that ends a conversation politely while leaving the door open for another meeting.",
+      "dictionaryId": "lex.sa.social.exit_line",
+      "example": "It was really nice meeting you — see you around.",
+      "fieldId": "social",
+      "id": "exit_line",
+      "lessonIds": [
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.social.smalltalk"
+      ],
+      "term": "Exit line"
+    },
+    {
+      "definition": "A comfortable relationship between people, built when each can predict how the other will behave.",
+      "dictionaryId": "lex.sa.social.rapport",
+      "example": "We had no topic in common, but we talked for twenty minutes and had instant rapport.",
+      "fieldId": "social",
+      "id": "rapport",
+      "lessonIds": [
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.social.smalltalk"
+      ],
+      "term": "Rapport"
+    },
+    {
+      "conflict": true,
+      "definition": "The length of time you can hold focus on one task. It depends on the task and on your state, not on a fixed personal rating.",
+      "dictionaryId": "lex.sa.technology.attention_span",
+      "example": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+      "fieldId": "technology",
+      "id": "attention_span",
+      "lessonIds": [
+        "article_attention_death",
+        "article_brainrot"
+      ],
+      "packs": [
+        "knw.mind.attention_death",
+        "knw.tech.brainrot"
+      ],
+      "term": "Attention span"
+    },
+    {
+      "definition": "The part of the previous task still in your head after you stop it, which lowers the quality of the next task.",
+      "dictionaryId": "lex.sa.technology.attention_residue",
+      "example": "I checked messages between every paragraph, so both pieces of work suffered.",
+      "fieldId": "technology",
+      "id": "attention_residue",
+      "lessonIds": [
+        "article_brainrot"
+      ],
+      "packs": [
+        "knw.tech.brainrot"
+      ],
+      "term": "Attention residue"
+    },
+    {
+      "definition": "A reward schedule where the outcome is unpredictable. Unpredictable rewards keep a behaviour going far longer than predictable ones.",
+      "dictionaryId": "lex.sa.technology.variable_reward",
+      "example": "You keep opening the app because you never know which post will be interesting.",
+      "fieldId": "technology",
+      "id": "variable_reward",
+      "lessonIds": [
+        "article_brainrot"
+      ],
+      "packs": [
+        "knw.tech.brainrot"
+      ],
+      "term": "Variable reward"
+    },
+    {
+      "definition": "A brain chemical linked to reward and motivation. People say it loosely; the useful idea is that wanting and liking are different things.",
+      "dictionaryId": "lex.sa.technology.dopamine",
+      "example": "The video was not even good, but the pull to check again was strong.",
+      "fieldId": "technology",
+      "id": "dopamine",
+      "lessonIds": [
+        "article_brainrot"
+      ],
+      "packs": [
+        "knw.tech.brainrot"
+      ],
+      "term": "Dopamine"
+    },
+    {
+      "conflict": true,
+      "definition": "Reading bad news repeatedly on purpose, because the subject holds your attention. A specific habit, not a synonym for scrolling.",
+      "dictionaryId": "lex.sa.technology.doomscrolling",
+      "example": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+      "fieldId": "technology",
+      "id": "doomscrolling",
+      "lessonIds": [
+        "article_brainrot",
+        "article_info_overload"
+      ],
+      "packs": [
+        "knw.mind.info_overload",
+        "knw.tech.brainrot"
+      ],
+      "term": "Doomscrolling"
+    }
+  ],
+  "nextCursor": "240",
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

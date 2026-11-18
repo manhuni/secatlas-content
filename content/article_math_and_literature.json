@@ -1,0 +1,287 @@
+{
+  "dependencies": [
+    "8165f264af913dba70bf94d73f3593b1081c7de94fd516287893a748b7671081",
+    "d62c7d4688e5b0cccd5fd3b65a792c8ab67df6f1c424f5035a9d28b5ddbd4d5d",
+    "f0e6a403b49d8514d9cad0d1fe1000e58b8d730fb61d2fd36a16f58a9882b026",
+    "f576476fc0f57ccbcdf87aef5ba8c14ca16c25fa60004ed0c898d5bf17d05750"
+  ],
+  "item": {
+    "addedAt": "2026-11-17",
+    "cover": "asset://8165f264af913dba70bf94d73f3593b1081c7de94fd516287893a748b7671081",
+    "durationMin": 16,
+    "fieldId": "mind",
+    "id": "article_math_and_literature",
+    "media": {
+      "audio": [],
+      "cover": "asset://8165f264af913dba70bf94d73f3593b1081c7de94fd516287893a748b7671081",
+      "gallery": [
+        {
+          "caption": "Two columns: the machine of mathematics and the machine of literature.",
+          "kind": "image",
+          "source": "asset://d62c7d4688e5b0cccd5fd3b65a792c8ab67df6f1c424f5035a9d28b5ddbd4d5d",
+          "title": "Two ways of reasoning"
+        },
+        {
+          "caption": "A proof can be checked step by step; a story is checked against what people do.",
+          "kind": "image",
+          "source": "asset://f576476fc0f57ccbcdf87aef5ba8c14ca16c25fa60004ed0c898d5bf17d05750",
+          "title": "A proof and a story"
+        },
+        {
+          "caption": "The number decides, the story explains why the number matters.",
+          "kind": "image",
+          "source": "asset://f0e6a403b49d8514d9cad0d1fe1000e58b8d730fb61d2fd36a16f58a9882b026",
+          "title": "Moving from one mode to the other"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Describe the two ways of thinking and the promise each one makes about its conclusion.",
+      "Explain the machine of mathematics: axioms, definitions, deduction and the proof.",
+      "Explain the machine of literature: model, plausibility, perspective and ambiguity.",
+      "Separate an error of deduction from an error of premise.",
+      "Use the two modes side by side to choose the right check for a question.",
+      "Move between the two modes with six steps, from a certain fact to a decision a person can act on.",
+      "Write one sentence in the register of the analyst and one in the register of the writer."
+    ],
+    "relatedTopicIds": [
+      "math_linear_eq",
+      "article_illusion_knowledge"
+    ],
+    "sections": [
+      {
+        "body": "Two ways of thinking sit behind most of the work people do. **Mathematics** reasons from fixed meanings and reaches a conclusion that must be certain: if the words mean what they say and the steps are correct, the conclusion cannot be false. **Literature** reasons from models of people and reaches a conclusion that must feel true: the story has to be right about how people behave and about the world it describes.\n\nIn mathematics you begin by fixing words. A **definition** says exactly what a word means, so that two people who read it use the word the same way. You also accept a small number of statements without proof; these are called **axioms**. From the definitions and the axioms you move by **logical deduction**: you apply the rules of logic and reach what follows. Nothing is added from outside. Every later statement rests only on the ones before it.\n\nIn literature you begin with people. The writer holds a **model** of how a person, a group or a place behaves, and the story is built on that model. The model is never written down as a rule and never given as a list. It shows in the choices: what a character notices, what a character refuses to do, what a character says when the room goes quiet.\n\nThe difference is in what the reader is asked to do. A reader of mathematics checks the steps. A reader of literature believes the behaviour, or does not. The first asks *must this be true?* The second asks *could this be true of a person?* Both questions are hard, and both are answered in the open.",
+        "examples": [
+          "Mathematics gives a conclusion that must be certain; literature gives one that must feel true.",
+          "Let us fix the meaning of the word first, so that we use it the same way.",
+          "The story is built on a model of how these people behave."
+        ],
+        "heading": "Two ways of thinking, and what each one promises",
+        "terms": [
+          {
+            "example": "The definition of a tolerance is written at the top of the drawing, and every measurement follows it.",
+            "gloss": "A statement that fixes the exact meaning of a word, so that everybody uses it the same way.",
+            "pos": "noun",
+            "term": "Definition",
+            "termId": "mathlit_definition"
+          },
+          {
+            "example": "The axioms are the starting points of the proof, and everything after them is derived.",
+            "gloss": "A statement that a system takes as true and never proves for itself.",
+            "pos": "noun",
+            "term": "Axiom",
+            "termId": "mathlit_axiom"
+          },
+          {
+            "example": "By logical deduction, the conclusion follows from the premises, and nothing else is needed.",
+            "gloss": "The step that carries you from what is already accepted to what follows from it.",
+            "pos": "noun",
+            "term": "Logical deduction",
+            "termId": "mathlit_deduction"
+          },
+          {
+            "example": "The writer has a model of how a nervous engineer behaves, and every scene is built on it.",
+            "gloss": "A working idea of how something behaves, kept by the writer and never written as a rule.",
+            "pos": "noun",
+            "term": "Model",
+            "termId": "mathlit_model"
+          }
+        ],
+        "type": "definition"
+      },
+      {
+        "body": "The machine has three parts and it runs on nothing else. An **axiom** is a statement the system takes as true and never proves. A **definition** fixes the meaning of a word. **Logical deduction** is the rule that carries you from what is already accepted to what follows from it. When the three are in place, the reasoning is mechanical: each line follows from the lines above it.\n\nA **proof** is the written record of that run, and its strength is that it does not need the author. Any reader who follows the steps reaches the same conclusion. This is what makes a proof checkable: not trust, but inspection. You read one line and ask *does this follow from what is above?* If it does, you go on. If it does not, you have found the error, and the error is local — the lines before it still stand.\n\nA **premise** is a statement the proof starts from. Here is the part that surprises people: a proof from a false premise is still a valid proof. If the premise is false, the fault is not in the deduction. The fault is in the premise, and the proof has shown something narrower than you wanted: *if the premises are true, then the conclusion is true*. The machine did its job. The input was wrong.\n\nOne more property is worth knowing: **consistency**. A set of axioms is consistent when they do not contradict one another, so that no false statement can be forced out of them. Mathematics does not choose your axioms for you and does not tell you which ones are true. It tells you what follows from the ones you chose, and whether they can all be true at the same time.",
+        "examples": [
+          "Every line of the proof follows from the line above it.",
+          "The deduction is valid; the premise is the part that is wrong.",
+          "State the premises, so the argument can be checked there and not only here."
+        ],
+        "heading": "The machine of mathematics: axioms, definitions and deduction",
+        "terms": [
+          {
+            "example": "The proof is short, and any reader can check it line by line.",
+            "gloss": "The written record of a reasoning, in which every line follows from the lines above it.",
+            "pos": "noun",
+            "term": "Proof",
+            "termId": "mathlit_proof"
+          },
+          {
+            "example": "The premise is wrong, so the conclusion is right only in the proof.",
+            "gloss": "A statement that an argument starts from and takes as given.",
+            "pos": "noun",
+            "term": "Premise",
+            "termId": "mathlit_premise"
+          },
+          {
+            "example": "The two rules cannot both be true, so the set of rules is not consistent.",
+            "gloss": "The property of a set of axioms that do not contradict one another.",
+            "pos": "noun",
+            "term": "Consistency",
+            "termId": "mathlit_consistency"
+          }
+        ],
+        "type": "prose"
+      },
+      {
+        "body": "The machine of literature has no axioms and no proof. It has a **model**: the writer's working idea of how people behave. The model is never written down as a rule. It is visible in the choices the writer makes, and a reader can infer it from what happens on the page.\n\nA story is judged by **plausibility**. Nobody can show that a character would have said what she said, and nobody needs to. The reader checks the story against what she already knows about how people behave, and the check happens in the reader's own head. A story rings true when the reader recognises the behaviour, not when the writer has proved anything.\n\nThe third part is the **perspective**: whose eyes the story is seen through. A story told by one person leaves out whatever that person cannot see, and the gaps are not mistakes; they are the shape of the telling. A writer can also use **ambiguity** on purpose. A scene can hold two meanings at once, so the reader must decide which one the character acted on. Ambiguity that the writer controls is a tool. Vagueness that nobody controls is a defect.\n\nHere is a short scene that is plausible and wrong. A report says that an engineer walked into the control room, saw the red light, and switched off the pump. Every part of that is plausible: engineers walk into control rooms, a red light means a fault, and switching off the pump is what the procedure asks for. It is wrong in the way that matters, because the procedure asks the engineer to phone the duty engineer first, and the person in the story did not. Nothing strange happened: an ordinary person made an ordinary decision without a rule they had never seen. This is what an **analogy** can do for you, because the story of the engineer is like any handover that assumes the reader already knows the rules. A story is not yet true because it is plausible; it is true when its details match the world it claims to describe.",
+        "examples": [
+          "A story is judged by plausibility, not by demonstration.",
+          "The gaps in what she sees are the perspective, not a mistake.",
+          "The scene is plausible, and it is still wrong about the rule."
+        ],
+        "heading": "The machine of literature: model, plausibility and point of view",
+        "terms": [
+          {
+            "example": "The story has plausibility, and the details of the rule are still missing.",
+            "gloss": "The quality of a situation that could happen, even when it did not.",
+            "pos": "noun",
+            "term": "Plausibility",
+            "termId": "mathlit_plausibility"
+          },
+          {
+            "example": "From the perspective of the night engineer, the quiet building is the whole story.",
+            "gloss": "The point of view a story is told from, which decides what the reader can and cannot see.",
+            "pos": "noun",
+            "term": "Perspective",
+            "termId": "mathlit_perspective"
+          },
+          {
+            "example": "The ambiguity in the last line is deliberate, and the reader has to settle it.",
+            "gloss": "A place in a text where two meanings are held at once and the reader must choose one.",
+            "pos": "noun",
+            "term": "Ambiguity",
+            "termId": "mathlit_ambiguity"
+          },
+          {
+            "example": "The analogy is clear: the pipe is like a road, and the loss is the distance.",
+            "gloss": "A comparison that carries a case the reader knows into a case they do not know yet.",
+            "pos": "noun",
+            "term": "Analogy",
+            "termId": "mind_analogy"
+          }
+        ],
+        "type": "prose"
+      },
+      {
+        "body": "Put side by side, the two modes answer different questions about the same piece of work. Mathematics is for facts that must hold whatever anybody thinks. Literature is for people and what they will do.\n\nOne asymmetry is worth naming. Mathematics can be checked by a stranger who has never met the problem: the steps are there, and the checking does not depend on shared experience. Literature cannot. A reader has to bring the same world the story describes, and if they do not have it, the story is simply opaque. That is why the words of a story carry more weight than the words of a proof.\n\nThe fastest way to use the two columns is to ask the question first and choose the check afterwards. A question about size, load, cost or time is answered in the register of mathematics. A question about what people will do is answered in the register of literature.",
+        "examples": [
+          "That is a question of fact, so it is settled in the register of mathematics.",
+          "That is a question of action, so the story has to carry it.",
+          "The error is in the premise, not in the deduction."
+        ],
+        "heading": "The two ways side by side",
+        "table": {
+          "headers": [
+            "Question",
+            "Mathematics",
+            "Literature"
+          ],
+          "rows": [
+            [
+              "What does it answer?",
+              "It answers whether a conclusion must be true.",
+              "It answers whether a situation is true to people."
+            ],
+            [
+              "What counts as an error?",
+              "A step that does not follow from the steps above it.",
+              "A behaviour that nobody in that world would show."
+            ],
+            [
+              "What does it produce?",
+              "A result that holds for every case the rules cover.",
+              "A picture of a person that a reader recognises."
+            ],
+            [
+              "How is it checked?",
+              "Line by line, by any reader who follows the steps.",
+              "Against what the reader already knows about how people behave."
+            ],
+            [
+              "Where does it fail?",
+              "When a premise is false or the model of the system is wrong.",
+              "When the model of the people is wrong and nobody checks the story."
+            ],
+            [
+              "What is its use at work?",
+              "To settle a question of fact: a size, a load, a cost, a time.",
+              "To settle a question of action: what a team does next, and why."
+            ]
+          ]
+        },
+        "type": "table"
+      },
+      {
+        "body": "Moving between the two modes is a procedure, and the order of the steps is what keeps it honest. The steps below work on any piece of work: a report, a specification, an investigation, a handover note.\n\nThe first three steps belong to mathematics. You state what you are sure of, you name the model you will use, and you write down the assumption the model hides. The fourth and fifth steps are the calculation and its check. The last step belongs to literature: you say what the result means for a person.\n\nThe order matters in one place. The hidden assumption is written down *before* the calculation, not after it. A person who knows the assumption before the number arrives can judge the number. A person who hears it afterwards is defending a conclusion he has already accepted.",
+        "examples": [
+          "State the fact first, and say where it came from.",
+          "The assumption the model hides is written down before the calculation.",
+          "Now tell me what this means for the person who has to act on it."
+        ],
+        "heading": "How to move from one mode to the other",
+        "steps": [
+          "State the fact you are sure of, and write down where it came from.",
+          "Name the model you are using: the rule, the formula, or the picture of how people behave.",
+          "Write down the assumption the model hides, the one you would drop if somebody asked you why.",
+          "Do the calculation with the model, and keep the unit on every number.",
+          "Check the calculation: work it a second way, and compare the result with the size you expected.",
+          "State what the result means for a person, in one sentence they can act on."
+        ],
+        "type": "steps"
+      },
+      {
+        "body": "**The number decides; the story makes people act.** A team that has only the number has an answer and no movement. A team that has only the story has movement and no answer. The work needs both, and each one does the job the other cannot.\n\nWriting a specification is mathematics. The words are defined, the steps are in order, and a reader who follows them gets the same machine you got. Explaining why the specification matters is literature. The reader has to see their own work inside it, or the specification stays on the shelf.\n\n**Put the number first when the question is a fact. Put the story first when the question is a decision.** A price, a lead time, a tolerance: lead with the figure. A new shift, a new tool, a new procedure: lead with the reason, because the reader has to want it before the detail matters.",
+        "calloutKind": "tip",
+        "examples": [
+          "The number decides; the story makes people act.",
+          "The specification is the mathematics; the reason for it is the literature.",
+          "Here is the figure first, and then why it matters to the night shift."
+        ],
+        "heading": "What each mode is for in a team",
+        "type": "callout"
+      },
+      {
+        "body": "The register of a sentence tells the listener what kind of answer they are going to get. The first four sentences below are in the register of the analyst: they are read by people who will check the steps. The next four are in the register of the writer: they are read by people who have to decide whether to act.\n\nDo not mix the two inside one sentence. A sentence that begins with a calculation and ends with an opinion gives the reader nothing to check and nothing to feel. If a message needs both, it needs two sentences: the figure first, the reason second.",
+        "examples": [
+          "Under these premises, the conclusion follows necessarily.",
+          "Every step follows from the step above it, so the result holds for every case the rules cover.",
+          "The premises are assumptions, and here they are the ones we are using.",
+          "Give me the inputs, and I will show the calculation.",
+          "The reason this matters is what the night shift does at two in the morning.",
+          "She kept her promise, and nobody in the room said a word about it.",
+          "On the drawing the change is small; in the week of the person who has to make it, it is large.",
+          "What happens next depends on who reads this and what they think it means for their own work."
+        ],
+        "heading": "Sentences you can use in each register",
+        "type": "examples"
+      },
+      {
+        "body": "The two modes are not rivals. They answer different questions about the same piece of work, and the work is done when both answers are in front of the people who must act on them. Here is a small worked example. A workshop on one floor needs a new water line for one machine. There are two possible routes: a short new pipe through the building, or the long way round through the old pipe. The drawing gives the length of each route. The calculation decides which route can carry the flow the machine needs. The story decides what happens on the night shift, when nobody from the day team is there.\n\nThe calculation is plain. On the drawing, the short route is 25 metres of pipe and the long route is 40. The longer the pipe, the more pressure it uses on the way, so the calculation compares the loss on each route with the flow the machine needs. The answer is not a matter of opinion: on this drawing the short route carries the required flow and the long route does not. The figures here are the figures of this drawing, not measurements of a real building.\n\nThe story settles the rest. The maintenance worker who has the night shift says that the long route is closed when the workshop is empty, because the pressure in that branch falls at night and the pump stops. The calculation did not know this, and the calculation did not need to know it: the long route had already failed the check. But the story carries the part the number cannot, that the work will be done at night, on a route that is locked, with a person whose knowledge is not written on the drawing.\n\nThe last move is **interpretation**. The reader takes the result and gives it a meaning in their own work: the technician who has to cut the pipe, the planner who has to buy it, the manager who has to explain the cost. Mathematics can check that a result is right and cannot check that it is understood. Literature can make it understood and cannot make it right. Work that needs both needs a number people can check and a story they can act on.",
+        "examples": [
+          "The calculation decides the route; the story decides the night shift.",
+          "The figures are the ones on our drawing, and our drawing has its own.",
+          "Say what the result means for the person who has to act on it."
+        ],
+        "heading": "When the two work together: a number and a story",
+        "terms": [
+          {
+            "example": "The interpretation is the last step: the number is correct, and now it has to mean something on the night shift.",
+            "gloss": "The meaning a reader gives a result in their own work once they have understood it.",
+            "pos": "noun",
+            "term": "Interpretation",
+            "termId": "mathlit_interpretation"
+          }
+        ],
+        "type": "prose"
+      }
+    ],
+    "summary": "Mathematics and literature are two machines for reaching a conclusion, and each one makes a different promise. After reading this you can describe how a proof is built and checked, explain how a story is judged, tell an error of deduction from an error of premise, and move between the two modes with six steps, from a certain fact to a sentence a person can act on.",
+    "systemId": "math_and_literature",
+    "title": "Mathematics and Literature: Two Ways of Thinking"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

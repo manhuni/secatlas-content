@@ -1,0 +1,78 @@
+{
+  "items": {
+    "elec_earthing": {
+      "definition": "The whole arrangement that connects the metal parts of an installation to the earth, so that a fault current has a safe way back.",
+      "dictionaryId": "lex.sa.daily_skills.elec_earthing",
+      "example": "The earthing of the pump was checked when the board was replaced.",
+      "fieldId": "daily_skills",
+      "id": "elec_earthing",
+      "lessonIds": [
+        "article_pump_electrical_safety",
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety",
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Earthing"
+    },
+    "machine_learning": {
+      "definition": "The method of letting a system find patterns in data instead of following instructions a person wrote for every case.",
+      "dictionaryId": "lex.sa.technology.machine_learning",
+      "example": "Spam filtering was one of the first everyday uses of machine learning.",
+      "fieldId": "technology",
+      "id": "machine_learning",
+      "lessonIds": [
+        "article_ai_revolution"
+      ],
+      "packs": [
+        "knw.tech.revolution"
+      ],
+      "term": "Machine learning"
+    },
+    "may_i": {
+      "definition": "A careful, grown-up way to ask for something. People listen more when you use it.",
+      "dictionaryId": "lex.sa.kids_feelings.may_i",
+      "example": "May I sit here, please?",
+      "fieldId": "kids_feelings",
+      "id": "may_i",
+      "lessonIds": [
+        "article_please_and_thank_you"
+      ],
+      "packs": [
+        "knw.kids.feelings.thanks"
+      ],
+      "term": "May I"
+    },
+    "systems_thinking": {
+      "definition": "Reasoning about how the parts of a system affect each other, including effects that appear far away in time or structure.",
+      "dictionaryId": "lex.sa.mind.systems_thinking",
+      "example": "",
+      "fieldId": "mind",
+      "id": "systems_thinking",
+      "lessonIds": [
+        "article_ai_programmer"
+      ],
+      "packs": [
+        "knw.mind.ai_programmer"
+      ],
+      "term": "Systems thinking"
+    },
+    "try_first": {
+      "definition": "To make a small attempt before you ask for help.",
+      "dictionaryId": "lex.sa.kids_feelings.try_first",
+      "example": "I tried first, and then I asked.",
+      "fieldId": "kids_feelings",
+      "id": "try_first",
+      "lessonIds": [
+        "article_asking_for_help"
+      ],
+      "packs": [
+        "knw.kids.feelings.help"
+      ],
+      "term": "Try first"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

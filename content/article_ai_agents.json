@@ -1,0 +1,115 @@
+{
+  "dependencies": [
+    "23df3aa7095319cbe0cec911e66e42de3806dba9c015941c19f486a5b219fd46"
+  ],
+  "item": {
+    "addedAt": "2026-11-16T08:00:00Z",
+    "cover": "asset://23df3aa7095319cbe0cec911e66e42de3806dba9c015941c19f486a5b219fd46",
+    "durationMin": 21,
+    "fieldId": "mind",
+    "id": "article_ai_agents",
+    "media": {
+      "audio": [],
+      "cover": "asset://23df3aa7095319cbe0cec911e66e42de3806dba9c015941c19f486a5b219fd46",
+      "gallery": [],
+      "images": [],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Define an AI agent and a multi-agent system.",
+      "Explain what multi-agent automation changes about productivity.",
+      "Describe where quality control fails in agent pipelines.",
+      "Reason about responsibility for agent-produced work.",
+      "Describe the new skill of supervising machine labor."
+    ],
+    "sections": [
+      {
+        "body": "An AI agent is a system that does not just answer but acts: it plans steps, uses tools, writes files, calls other services, and continues until a goal is reached or it is stopped. A single prompt becomes a project. A multi-agent system goes further: several specialized agents cooperate — one researches, one drafts, one critiques, one verifies — while a human sets the goal and accepts the result.\n\nThe productivity jump is real. Tasks that took a week of human effort — market research, code migrations, long reports — can complete in hours. One person with a stable of agents can attempt projects that once required a small team, and solo founders can ship at the pace of departments.\n\nBut the same structure that produces speed produces a new problem: the human sees the goal and the result, and nothing in between. The work happens inside a pipeline the human did not watch and could not fully watch if they tried.",
+        "examples": [
+          "She gave the team of agents a research question at breakfast; by lunch there was a forty-page report with citations — and she had not read a single source."
+        ],
+        "heading": "From tool to colleague",
+        "type": "definition"
+      },
+      {
+        "body": "In a human team, quality control rides on shared context: the reviewer knows what the researcher was told, what the deadline forced them to skip, and how they usually work. Agent pipelines lack this context by default. Each agent trusts the previous agent's output the way a tired employee trusts a confident email.\n\nFailure modes follow. **Error propagation**: a mistake in step one is polished, not caught, by steps two through five. **Plausible citation**: agents invent references that look exactly like real ones, and no agent in the chain checks them against reality. **Goal drift**: after many steps, the output optimizes for what was measurable — word count, passing tests — rather than what was wanted. And **silent omission**: the pipeline produces no warning about what it did not do.\n\nVerification therefore cannot be another agent of the same kind. Checks that matter must reach reality: opening the cited sources, running the code on real data, showing the draft to a human expert. The pipeline automates production; it does not automate accountability.",
+        "examples": [
+          "The report was fluent, structured and convincing; every third citation pointed to a study that does not exist."
+        ],
+        "heading": "Where quality control breaks",
+        "type": "prose"
+      },
+      {
+        "body": "Delegation to humans has a settled ethic: the manager owns the outcome. Delegation to agents inherits it. If your name, your company or your decision rides on an agent's output, the output is yours — the fact that a machine produced it changes the labor, not the accountability.\n\nThis has practical teeth. Publishing agent-written claims without checking them is misinformation with extra steps. Shipping agent-written code without reading it is negligence with a license. Letting agents act on your behalf — sending messages, making purchases — means their mistakes are your transactions.\n\nThe workable rule is a scale of supervision matched to stakes. Low stakes, reversible actions can run on sampling checks: audit one in ten outputs. High stakes, irreversible actions — money, health, reputation, other people's data — require human gates: a person reads, verifies and approves before anything leaves. The cost of the gate is the price of the speed.",
+        "examples": [
+          "The agent sent two hundred personalized emails before anyone noticed it had invented a discount the company never approved."
+        ],
+        "heading": "Responsibility in a pipeline you did not run",
+        "type": "prose"
+      },
+      {
+        "body": "These terms describe the new structure of work.",
+        "heading": "The vocabulary of machine teams",
+        "terms": [
+          {
+            "example": "The AI agent read the error logs, edited the config file and restarted the service without being told each step.",
+            "gloss": "An AI system that plans and acts toward a goal, using tools and intermediate steps rather than answering in one shot.",
+            "term": "AI agent",
+            "termId": "ai_agent"
+          },
+          {
+            "example": "In the multi-agent system, one agent gathers sources, one writes, one critiques and one formats the final report.",
+            "gloss": "A setup in which several specialized AI agents divide a task among themselves and pass work along.",
+            "term": "Multi-agent system",
+            "termId": "multi_agent_system"
+          },
+          {
+            "example": "Her orchestration skill showed in how she split the research task so no agent waited on another.",
+            "gloss": "The coordination of multiple agents: deciding their roles, order, tools and stopping conditions.",
+            "term": "Orchestration",
+            "termId": "orchestration"
+          },
+          {
+            "example": "Human in the loop means the agent drafts the reply, but only she can press send.",
+            "gloss": "A design in which a person reviews and approves an agent's work before it takes effect.",
+            "term": "Human in the loop",
+            "termId": "human_in_the_loop"
+          },
+          {
+            "example": "Their quality control caught the invented statistic before the article went to the client.",
+            "gloss": "The process of checking that output meets its requirements before it is used or shipped.",
+            "term": "Quality control",
+            "termId": "quality_control"
+          },
+          {
+            "example": "Delegation to agents works like delegation to juniors: clear goals, clear limits, and the senior owns the result.",
+            "gloss": "Assigning a task and the authority to complete it; with agents, the responsibility still stays with the delegator.",
+            "term": "Delegation",
+            "termId": "delegation"
+          }
+        ],
+        "type": "terminology"
+      },
+      {
+        "body": "Agents make production nearly free, which moves the bottleneck to judgment: deciding what is worth making, and checking what was made. Workflows that forget this ship garbage at unprecedented speed. The scarce resource in an agent age is not output — it is attention spent on the right checks.",
+        "calloutKind": "warning",
+        "heading": "Speed is not the bottleneck",
+        "type": "callout"
+      },
+      {
+        "body": "Supervising agents is a learnable craft with recognizable skills. **Specification** matters more than ever: agents do exactly what is written, including the flaws in what is written. **Sampling** replaces exhaustive review: check the outputs where errors are cheapest to catch and most expensive to ship. **Provenance discipline** keeps a record of what each agent did, so that when something is wrong, the fix lands on the step that caused it. And **stopping rules** define when the pipeline must halt and ask a human.\n\nThe people who master this craft will be unreasonably productive, because they combine machine throughput with human judgment. The people who skip it will be busy and embarrassed, discovering their mistakes in public, one shipped artifact at a time.\n\nThere is also a quieter shift. When one person can direct many minds, the definition of a senior professional changes: less about what you can personally produce, more about what you can direct, verify and stand behind. The org chart of the future may list one human and a hundred agents — and the human's job is the oldest one in management: judgment about work done by others.",
+        "examples": [
+          "His two-agent research pipeline drafts in an hour what took days; his real work is the afternoon spent checking what deserves to exist at all."
+        ],
+        "heading": "The new craft: supervising minds you did not hire",
+        "type": "prose"
+      }
+    ],
+    "summary": "One person can now direct a team of AI agents that research, write, code and check each other's work. This article examines multi-agent automation: what it does to productivity, where quality control breaks, who is responsible for the output, and what it means to 'manage' work you did not do.",
+    "systemId": "mind_ai",
+    "title": "The Age of AI Agents: One Human, Many Minds"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

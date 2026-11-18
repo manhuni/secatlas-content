@@ -1,0 +1,91 @@
+{
+  "language": "vi",
+  "lessonId": "article_ai_agents",
+  "objectives": [
+    "Định nghĩa AI agent và hệ thống đa tác nhân.",
+    "Giải thích tự động hoá đa tác nhân thay đổi năng suất thế nào.",
+    "Mô tả nơi kiểm soát chất lượng sụp đổ trong chuỗi agent.",
+    "Lý luận về trách nhiệm với sản phẩm do agent tạo ra.",
+    "Mô tả kỹ năng mới: giám sát lao động máy."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "AI agent là hệ thống không chỉ trả lời mà hành động: nó lập kế hoạch các bước, dùng công cụ, viết tệp, gọi dịch vụ khác, và tiếp tục tới khi đạt mục tiêu hoặc bị dừng lại. Một lượt nhắc trở thành một dự án. Hệ thống đa tác nhân đi xa hơn: nhiều agent chuyên hoá hợp tác — một agent nghiên cứu, một viết, một phê bình, một kiểm chứng — trong khi con người đặt mục tiêu và nhận kết quả.\n\nCú nhảy năng suất là thật. Những việc tốn một tuần của con người — nghiên cứu thị trường, chuyển đổ i codebase, báo cáo dài — có thể hoàn thành trong vài giờ. Một người với chuồng agent có thể mở những dự án từng cần cả một đội nhỏ, và nhà sáng lập đơn lẻ có thể phát hành với tốc độ của cả phòng ban.\n\nNhưng cùng cấu trúc tạo ra tốc độ cũng tạo ra một vấn đề mới: con người thấy mục tiêu và kết quả, còn mọi thứ ở giữa thì không. Công việc diễn ra bên trong một đường ống mà người đó không xem và có muốn xem cũng không xem hết được.",
+      "examples": [
+        "Cô ấy giao cho đội agent một câu hỏi nghiên cứu lúc ăn sáng; đến bữa trưa đã có báo cáo bốn mươi trang kèm trích dẫn — và cô chưa đọc một nguồn nào."
+      ],
+      "heading": "Từ công cụ thành đồng nghiệp"
+    },
+    {
+      "body": "Trong đội người, kiểm soát chất lượng dựa vào bối cảnh chung: người duyệt biết người nghiên cứu được giao gì, deadline đã bắt họ bỏ qua gì, và họ thường làm việc ra sao. Chuỗi agent mặc định thiếu bối cảnh đó. Mỗi agent tin đầu ra của agent trước như một nhân viên mệt tin một email tự tin.\n\nCác kiểu hỏng theo sau. **Lan truyền lỗi**: sai ở bước một được đánh bóng chứ không bị bắt ở bước hai tới năm. **Trích dẫn hợp lý**: agent bịa nguồn trông y hệt nguồn thật, và không agent nào trong chuỗi đối chiếu chúng với thực tế. **Trôi mục tiêu**: sau nhiều bước, sản phẩm tối ưu cho thứ đo được — số từ, test đạt — thay vì thứ mong muốn. Và **bỏ sót im lặng**: đường ống không cảnh báo về những gì nó đã không làm.\n\nVì thế việc kiểm chứng không thể là một agent cùng loại. Những kiểm tra quan trọng phải chạm tới thực tế: mở nguồn được trích dẫn, chạy code trên dữ liệu thật, đưa bản nháp cho chuyên gia người thật. Đường ống tự động hoá sản xuất; nó không tự động hoá được trách nhiệm giải trình.",
+      "examples": [
+        "Báo cáo trôi chảy, có cấu trúc và thuyết phục; cứ ba trích dẫn lại có một trỏ tới nghiên cứu không tồn tại."
+      ],
+      "heading": "Kiểm soát chất lượng vỡ ở đâu"
+    },
+    {
+      "body": "Ủy quyền cho con người có một đạo lý đã ổn định: người quản lý sở hữu kết quả. Ủy quyền cho agent thừa kế điều đó. Nếu tên bạn, công ty bạn hay quyết định của bạn nằm trong sản phẩm của agent, sản phẩm đó là của bạn — việc máy móc tạo ra nó thay đổ i lao động, không thay đổ i trách nhiệm.\n\nĐiều này có sức nặng thực tế. Xuất bản tuyên bố do agent viết mà không kiểm là tin giả có thêm bước phụ. Phát hành code do agent viết mà không đọc là bất cẩn có giấy phép. Để agent hành động thay mình — gửi tin nhắn, mua hàng — nghĩa là sai lầm của chúng là giao dịch của bạn.\n\nQuy tắc dùng được là thang giám sát khớp với mức độ rủi ro. Việc rủi ro thấp, đảo ngược được có thể chạy bằng kiểm tra mẫu: soát một trên mười đầu ra. Việc rủi ro cao, không đảo ngược được — tiền, sức khỏe, danh tiếng, dữ liệu người khác — cần cổng con người: một người đọc, kiểm chứng và phê duyệt trước khi bất cứ thứ gì rời khỏi nhà. Chi phí của cánh cửa đó chính là giá của tốc độ.",
+      "examples": [
+        "Agent gửi hai trăm email cá nhân hoá trước khi ai nhận ra nó đã bịa một mức giảm giá công ty chưa từng duyệt."
+      ],
+      "heading": "Trách nhiệm trong đường ống mình không chạy"
+    },
+    {
+      "body": "Những thuật ngữ này mô tả cấu trúc mới của công việc.",
+      "heading": "Từ vựng của đội ngũ máy",
+      "terms": [
+        {
+          "example": "AI agent đọc log lỗi, sửa tệp cấu hình và khởi động lại dịch vụ mà không được rao từng bước.",
+          "gloss": "Hệ thống AI lập kế hoạch và hành động hướng tới mục tiêu, dùng công cụ và các bước trung gian thay vì trả lời một lần.",
+          "term": "AI agent",
+          "termId": "ai_agent"
+        },
+        {
+          "example": "Trong hệ thống đa tác nhân, một agent thu thập nguồn, một viết, một phê bình và một định dạng báo cáo cuối.",
+          "gloss": "Thiết lập mà nhiều agent chuyên hoá chia nhau một nhiệm vụ và chuyển tiếp công việc.",
+          "term": "Hệ thống đa tác nhân",
+          "termId": "multi_agent_system"
+        },
+        {
+          "example": "Kỹ năng điều phối của cô ấy thể hiện ở cách chia nhỏ nhiệm vụ nghiên cứu để không agent nào chờ agent nào.",
+          "gloss": "Sự phối hợp nhiều agent: quyết định vai trò, thứ tự, công cụ và điều kiện dừng của chúng.",
+          "term": "Điều phối",
+          "termId": "orchestration"
+        },
+        {
+          "example": "Con người trong vòng lặp nghĩa là agent soạn câu trả lời, nhưng chỉ cô ấy được bấm gửi.",
+          "gloss": "Thiết kế mà con người duyệt và phê chuẩn công việc của agent trước khi nó có hiệu lực.",
+          "term": "Con người trong vòng lặp",
+          "termId": "human_in_the_loop"
+        },
+        {
+          "example": "Kiểm soát chất lượng của họ bắt được con số bịa trước khi bài tới khách hàng.",
+          "gloss": "Quy trình kiểm tra đầu ra đáp ứng yêu cầu trước khi dùng hoặc phát hành.",
+          "term": "Kiểm soát chất lượng",
+          "termId": "quality_control"
+        },
+        {
+          "example": "Ủy quyền cho agent giống ủy quyền cho người trẻ: mục tiêu rõ, giới hạn rõ, và người đàn anh sở hữu kết quả.",
+          "gloss": "Giao một nhiệm vụ kèm quyền hoàn thành nó; với agent, trách nhiệm vẫn ở lại với người ủy quyền.",
+          "term": "Ủy quyền",
+          "termId": "delegation"
+        }
+      ]
+    },
+    {
+      "body": "Agent khiến sản xuất gần như miễn phí, và điều đó chuyển nút thắt sang phán đoán: quyết định cái gì đáng làm, và kiểm tra cái đã làm. Quy trình quên điều này sẽ giao rác với tốc độ chưa từng có. Tài nguyên khan hiếm trong kỷ nguyên agent không phải đầu ra — đó là sự chú ý dành cho đúng bước kiểm tra.",
+      "heading": "Tốc độ không phải nút thắt"
+    },
+    {
+      "body": "Giám sát agent là một nghề học được với những kỹ năng nhận dạng được. **Đặc tả** quan trọng hơn bao giờ hết: agent làm chính xác điều được viết, kể cả lỗi trong điều được viết. **Lấy mẫu** thay cho duyệt toàn bộ: kiểm các đầu ra nơi lỗi rẻ nhất để bắt và đắt nhất nếu phát hành. **Kỷ luật nguồn gốc** giữ bản ghi từng agent đã làm gì, để khi sai, sửa đúng bước gây ra. Và **quy tắc dừng** xác định khi nào đường ống phải dừng và hỏi con người.\n\nNgười làm chủ nghề này sẽ có năng suất phi lý, vì họ kết hợp thông lượng máy với phán đoán con người. Người bỏ qua nó sẽ bận rộn và xấu hổ, phát hiện sai lầm của mình trước công chúng, từng sản phẩm một.\n\nCòn một sự dịch chuyển lặng hơn. Khi một người có thể điều hành nhiều tâm trí, định nghĩa chuyên gia kỳ cựu thay đổ i: ít hơn ở khả năng tự mình tạo ra, nhiều hơn ở khả năng điều hướng, kiểm chứng và đứng sau. Sơ đồ tổ chức của tương la i có thể ghi một con người và một trăm agent — và công việc của con người là công việc lâu đời nhất trong quản trị: phán đoán về công việc do người khác làm.",
+      "examples": [
+        "Đường ống nghiên cứu hai agent của anh ấy soạn trong một giờ thứ từng mất nhiều ngày; việc thật của anh là buổ i chiều kiểm tra cái gì xứng đáng tồn tại."
+      ],
+      "heading": "Nghề mới: giám sát những tâm trí mình không tuyển"
+    }
+  ],
+  "summary": "Một người giờ có thể điều hành đội agent AI nghiên cứu, viết, code và kiểm tra lẫn nhau. Bài viết xem tự động hoá đa tác nhân thay đổi năng suất ra sao, kiểm soát chất lượng vỡ ở đâu, ai chịu trách nhiệm về sản phẩm đầu ra, và 'quản lý' những việc mình không làm nghĩa là gì.",
+  "title": "Kỷ nguyên AI agent: Một con người, cả một đội trí tuệ"
+}

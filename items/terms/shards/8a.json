@@ -1,0 +1,81 @@
+{
+  "items": {
+    "circle": {
+      "definition": "A round shape with no corners. A wheel and a coin are circles.",
+      "dictionaryId": "lex.sa.kids_home.circle",
+      "example": "The clock is a circle.",
+      "fieldId": "kids_home",
+      "id": "circle",
+      "lessonIds": [
+        "article_shapes"
+      ],
+      "packs": [
+        "knw.kids.home.shapes"
+      ],
+      "term": "Circle"
+    },
+    "collar": {
+      "conflict": true,
+      "definition": "The band that goes around a dog's neck. It can hold a small tag with the dog's name.",
+      "dictionaryId": "lex.sa.kids_stories.collar",
+      "example": "Mum put Pip's name on his new collar.",
+      "fieldId": "kids_animals",
+      "id": "collar",
+      "lessonIds": [
+        "article_lost_puppy",
+        "article_pets"
+      ],
+      "packs": [
+        "knw.kids.animals.pets",
+        "knw.kids.stories.puppy"
+      ],
+      "term": "Collar"
+    },
+    "den": {
+      "definition": "The home of a bear. It is a cave with a door, and it is warm inside.",
+      "dictionaryId": "lex.sa.kids_stories.den",
+      "example": "Bo's den had a wooden door.",
+      "fieldId": "kids_stories",
+      "id": "den",
+      "lessonIds": [
+        "article_bear_sharing",
+        "article_lost_puppy"
+      ],
+      "packs": [
+        "knw.kids.stories.bear",
+        "knw.kids.stories.puppy"
+      ],
+      "term": "Den"
+    },
+    "gem_assertiveness": {
+      "definition": "Stating your need, your limit or your disagreement without wrapping it in blame.",
+      "dictionaryId": "lex.sa.social.gem_assertiveness",
+      "example": "Assertiveness is saying the report is late and then saying what you need instead.",
+      "fieldId": "social",
+      "id": "gem_assertiveness",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Assertiveness"
+    },
+    "migration": {
+      "definition": "A long journey that animals make every year to follow the rain and the new grass.",
+      "dictionaryId": "lex.sa.kids_animals.migration",
+      "example": "The wildebeest migration crosses the whole savanna.",
+      "fieldId": "kids_animals",
+      "id": "migration",
+      "lessonIds": [
+        "article_kids_animals_savanna"
+      ],
+      "packs": [
+        "knw.kids.animals.savanna"
+      ],
+      "term": "Migration"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,115 @@
+{
+  "dependencies": [
+    "ba3a8f903723f53a08ca876a50e6a982bf30a3a2123768716e7d60672266412b"
+  ],
+  "item": {
+    "addedAt": "2026-11-16T08:00:00Z",
+    "cover": "asset://ba3a8f903723f53a08ca876a50e6a982bf30a3a2123768716e7d60672266412b",
+    "durationMin": 21,
+    "fieldId": "mind",
+    "id": "article_ai_programmer",
+    "media": {
+      "audio": [],
+      "cover": "asset://ba3a8f903723f53a08ca876a50e6a982bf30a3a2123768716e7d60672266412b",
+      "gallery": [],
+      "images": [],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Describe what AI code generation actually automates.",
+      "Explain the shift from writing code to defining problems.",
+      "Distinguish automation of syntax from automation of judgment.",
+      "Identify the skills that grow in value as coding is automated.",
+      "Reason about what 'engineer' means when machines write code."
+    ],
+    "sections": [
+      {
+        "body": "Every wave of programming automation has eliminated a layer of typing and revealed a deeper layer of thinking underneath. Compilers eliminated machine code; frameworks eliminated boilerplate; cloud services eliminated server administration. Each time, the prediction was the same — programming is dead — and each time the job moved up one level of abstraction.\n\nAI code generation is the largest such jump. Routine functions, tests, migrations and glue code now arrive in seconds. Measured by characters typed, most of what programmers did in 2020 is automatable. Measured by what made the work matter, almost nothing is.\n\nThe persistent core of the job was never syntax. It is the translation of a messy human situation — a business rule, a user need, a physical constraint — into a precise statement a machine can execute, and the judgment to know whether the result is right. Syntax was the last, most visible and least important layer.",
+        "examples": [
+          "The AI wrote the function in four seconds; deciding what the function should actually do took the team two meetings."
+        ],
+        "heading": "The typing was never the job",
+        "type": "definition"
+      },
+      {
+        "body": "As generation gets cheap, the scarce skill becomes specification: saying clearly what should be built, for whom, under which constraints, and what 'correct' means. A vague prompt yields plausible code that solves the wrong problem beautifully. A precise specification turns the same machine into a reliable builder.\n\nThis is harder than it sounds. Most real problems arrive as feelings — 'the checkout feels confusing', 'reports take too long' — and the engineer's first job is to convert them into structure: what is the data, what are the steps, what can go wrong, what does success measure. This activity, sometimes called problem decomposition, is where projects are won or lost, and it happens entirely outside the code.\n\nThe programmer of the near future looks less like a typist and more like an architect who also owns the construction: specifying structures, verifying materials, accepting responsibility for the building. The tools change the ratio of work, not the reality of responsibility.",
+        "examples": [
+          "Two teams used the same AI assistant; the one that wrote a one-page specification first shipped three times faster."
+        ],
+        "heading": "From writing code to defining problems",
+        "type": "prose"
+      },
+      {
+        "body": "Some parts of software work resist automation for structural reasons. **Context** is one: a system lives inside a company, a law, a history of decisions, and machines see only the fragments they are shown. **Consequences** are another: choosing between a faster feature and a safer design is a values decision, and values do not compile. **Trust** is a third: users blame and credit people, not models.\n\nEngineering judgment is the name for the combination: holding context, weighing consequences, and standing behind the result. It grows more valuable as generation becomes cheaper, because every piece of cheap code raises the number of decisions per day. When producing an option costs nothing, choosing between options is the whole job.\n\nThis is why the boundary of automation keeps moving and never arrives: each new capability absorbs the tasks that were already routine and exposes, more clearly than before, the judgment that was always the actual work.",
+        "examples": [
+          "The senior engineer's value was not that she coded faster, but that she stopped three plausible features that would have hurt the product."
+        ],
+        "heading": "What the machine cannot be assigned",
+        "type": "prose"
+      },
+      {
+        "body": "These terms describe what is being automated and what is not.",
+        "heading": "The vocabulary of the shifting role",
+        "terms": [
+          {
+            "example": "With the AI pair programmer, he drafts tests in seconds and spends his time on the hard design questions.",
+            "gloss": "An AI assistant integrated into the development process that writes, completes and explains code on request.",
+            "term": "AI pair programmer",
+            "termId": "ai_pair_programmer"
+          },
+          {
+            "example": "Code generation turned her specification into two hundred lines of working service code.",
+            "gloss": "The automatic production of program code from a natural-language description or an example.",
+            "term": "Code generation",
+            "termId": "code_generation"
+          },
+          {
+            "example": "Problem decomposition turned 'make onboarding better' into six concrete screens with measurable goals.",
+            "gloss": "Breaking a large, vague problem into small, precise, solvable parts with clear success conditions.",
+            "term": "Problem decomposition",
+            "termId": "problem_decomposition"
+          },
+          {
+            "example": "Systems thinking is noticing that the caching layer, meant to speed things up, also delays error messages.",
+            "gloss": "Reasoning about how the parts of a system affect each other, including effects that appear far away in time or structure.",
+            "term": "Systems thinking",
+            "termId": "systems_thinking"
+          },
+          {
+            "example": "Engineering judgment said to reject the elegant solution that nobody on the team could maintain.",
+            "gloss": "The capacity to make good technical decisions under uncertainty, weighing trade-offs that no rule can settle.",
+            "term": "Engineering judgment",
+            "termId": "engineering_judgment"
+          },
+          {
+            "example": "Most of the cost of software is maintenance, which is why code nobody understands is a liability.",
+            "gloss": "The ongoing work of keeping software alive: fixing, adapting, and explaining it across years of changing conditions.",
+            "term": "Maintenance",
+            "termId": "maintenance"
+          }
+        ],
+        "type": "terminology"
+      },
+      {
+        "body": "Ask a senior developer what they do all day and the honest answer now includes: reviewing machine-written code, deciding what should exist, and explaining systems to humans. Companies that hire for typing speed are hiring for the layer that just became free.",
+        "calloutKind": "note",
+        "heading": "The interview test already changed",
+        "type": "callout"
+      },
+      {
+        "body": "For people entering the field, the path has shifted but not vanished. Learn to read code before writing it — review, debug, and explain existing systems, because verification is now the bulk of the work. Learn one domain deeply; machines know syntax, but they do not know your user's warehouse, your clinic's rules, your market's habits. And practice specification: write, for every feature, a short statement of the problem, the constraints, and the test of success.\n\nFor experienced engineers, the premium moves to the two things machines amplify rather than replace: **taste** — the sense of what is worth building — and **trust** — a track record of standing behind decisions. A machine can produce a thousand options. A profession is the discipline of choosing, and of being answerable for the choice.\n\nThe programmer is not disappearing. The programmer is becoming what the word always secretly contained: not the person who types, but the person who is responsible for the system.",
+        "examples": [
+          "The most valued engineer on the team writes the least code — and her one-paragraph design notes prevent the most rewrites."
+        ],
+        "heading": "Staying valuable when code is free",
+        "type": "prose"
+      }
+    ],
+    "summary": "The machine writes working code in seconds, so what remains of the programmer? This article looks at how the role is shifting: from typing code to defining problems, from knowing syntax to judging systems, and why the boundary between automation and engineering skill is moving rather than disappearing.",
+    "systemId": "mind_ai",
+    "title": "When AI Writes Code: What Is a Programmer Worth?"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

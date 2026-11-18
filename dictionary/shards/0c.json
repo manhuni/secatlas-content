@@ -1,0 +1,1273 @@
+{
+  "records": {
+    "0c24734d7bf5954f08e5bfe4820b0b2f63da8d658df37c9d50080485e034b721": [
+      {
+        "forms": [
+          "together"
+        ],
+        "id": "lex.sa.en.together.adverb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "together",
+        "pos": "adverb",
+        "senseIds": [
+          "sns.sa.vi.together.adverb.1",
+          "sns.sa.en.together-adverb.alt"
+        ]
+      },
+      {
+        "definition": "Trong cùng một lúc hoặc cùng một chỗ.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.61"
+        ],
+        "gloss": "cùng nhau",
+        "id": "sns.sa.vi.together.adverb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.together.adverb",
+        "pos": "adverb",
+        "revision": 1
+      },
+      {
+        "definition": "At the same time or in the same place.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.61"
+        ],
+        "gloss": "In the same place or at the same time.",
+        "id": "sns.sa.en.together-adverb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.together.adverb",
+        "pos": "adverb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.61",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A section may list gallery, images, audio, video, links, math, and plots together.",
+        "translation": "Một mục có thể liệt kê cùng lúc thư viện ảnh, hình ảnh, âm thanh, video, liên kết, công thức và biểu đồ.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "0c302e71b698564a9b5c85ce38c84d386b7499d1b7f271a83cb8679ff5cee8ad": [
+      {
+        "forms": [
+          "Digital hygiene"
+        ],
+        "id": "lex.sa.mind.digital_hygiene",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Digital hygiene",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.digital_hygiene.en",
+          "sns.sa.mind.digital_hygiene.vi"
+        ]
+      },
+      {
+        "definition": "The habits that keep a person's information environment healthy: limits, filters, sources and offline time.",
+        "exampleIds": [],
+        "gloss": "The habits that keep a person's information environment healthy: limits, filters, sources and offline time.",
+        "id": "sns.sa.mind.digital_hygiene.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.digital_hygiene",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Những thói quen giữ môi trường thông tin của một ngườ i lành mạnh: giớ i hạn, bộ lọc, nguồn tin và thờ i gian ngoạ i tuyến.",
+        "id": "sns.sa.mind.digital_hygiene.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.digital_hygiene",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "0c4d01e81bb3d1fd0dc4a0b4224518953794068715317ff39e0bbfc29e4ab06a": [
+      {
+        "forms": [
+          "Reasoning",
+          "intel_reasoning"
+        ],
+        "id": "lex.sa.mind.intel_reasoning",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Reasoning",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intel_reasoning.alt",
+          "sns.sa.mind.intel_reasoning.alt.ko",
+          "sns.sa.mind.intel_reasoning.alt.pt_br",
+          "sns.sa.mind.intel_reasoning.alt.id",
+          "sns.sa.mind.intel_reasoning.alt.th",
+          "sns.sa.mind.intel_reasoning.alt.tr",
+          "sns.sa.mind.intel_reasoning.alt.ja"
+        ]
+      },
+      {
+        "definition": "The work of working out a step-by-step path to an answer, and of checking that path.",
+        "exampleIds": [
+          "exm.sa.mind.intel_reasoning.1.1"
+        ],
+        "gloss": "The work of working out a step-by-step path to an answer, and of checking that path.",
+        "id": "sns.sa.mind.intel_reasoning.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intel_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "이미 알고 있는 사실에서 답에 이르는 단계별 경로를 세우고, 각 단계가 올바른지 검토하는 사고 과정이다. conclusions을 바로 믿기보다 근거와 논리적 연결을 확인한다.",
+        "exampleIds": [
+          "exm.sa.mind.intel_reasoning.1.1.ko"
+        ],
+        "gloss": "답에 이르는 단계별 경로를 세우고 그 경로를 검토하는 사고 과정이다.",
+        "id": "sns.sa.mind.intel_reasoning.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intel_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o processo mental de desenvolver uma sequência de raciocínio para chegar a uma conclusão e conferir se essa sequência é válida. Refere-se tanto ao trabalho de pensar quanto à lógica usada para justificá-lo.",
+        "exampleIds": [
+          "exm.sa.mind.intel_reasoning.1.1.pt_br"
+        ],
+        "gloss": "Processo de encontrar, passo a passo, um caminho até uma resposta e verificar sua correção.",
+        "id": "sns.sa.mind.intel_reasoning.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intel_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Proses menemukan jalur langkah demi langkah menuju suatu jawaban dan memeriksa jalur tersebut. Penalaran dapat berupa Comcast penalaran deduktif maupun induktif.",
+        "exampleIds": [
+          "exm.sa.mind.intel_reasoning.1.1.id"
+        ],
+        "gloss": "Proses menemukan jalur langkah demi langkah menuju suatu jawaban dan memeriksa jalur tersebut.",
+        "id": "sns.sa.mind.intel_reasoning.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intel_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กระบวนการหาเส้นทางสู่คำตอบทีละขั้นและตรวจสอบความถูกต้องของเส้นทางนั้น ความสามารถนี้ไม่ได้หมายถึงการจำข้อเท็จจริงเพียงอย่างเดียว",
+        "exampleIds": [
+          "exm.sa.mind.intel_reasoning.1.1.th"
+        ],
+        "gloss": "กระบวนการหาเส้นทางสู่คำตอบทีละขั้นและตรวจสอบเส้นทางนั้น",
+        "id": "sns.sa.mind.intel_reasoning.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intel_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir sonuca ulaşmak için mantıklı ve adım adım yol kurma, bu yolun doğruluğunu inceleme süreci.",
+        "exampleIds": [
+          "exm.sa.mind.intel_reasoning.1.1.tr"
+        ],
+        "gloss": "Bir yanıta giden adımları belirleme ve bu adımları denetleme çalışması.",
+        "id": "sns.sa.mind.intel_reasoning.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intel_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "答え reached? 結論?",
+        "exampleIds": [
+          "exm.sa.mind.intel_reasoning.1.1.ja"
+        ],
+        "gloss": "答えへの段階的な道筋brightness?",
+        "id": "sns.sa.mind.intel_reasoning.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intel_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intel_reasoning.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "推論によって，彼女は故障の原因を一つずつ絞り込んだ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intel_reasoning.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Akıl yürütme, hatayı adım adım izleyerek sonunda nedenini ortaya çıkarmasına yardım etti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intel_reasoning.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การใช้เหตุผลพาเธอตรวจสอบข้อผิดพลาดทีละขั้นจนพบสาเหตุ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intel_reasoning.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dengan penalaran, ia menelusuri gangguan itu langkah demi langkah sampai penyebabnya jelas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intel_reasoning.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O raciocínio dela levou-a, passo a passo, até a causa da falha.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intel_reasoning.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 추론을 통해 고장 원인을 한 단계씩 찾아냈다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intel_reasoning.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Reasoning took her through the fault one step at a time until the cause was clear.",
+        "translation": "Suy luận đưa cô ấy đi qua sự cố từng bước một cho đến khi nguyên nhân trở nên rõ ràng.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "0c9cb79b5639f08756f40111e9578e9dd3cc89ad9e8b457ed89dc343c0315d90": [
+      {
+        "forms": [
+          "Endangered",
+          "endangered"
+        ],
+        "id": "lex.sa.kids_daily.endangered",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Endangered",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_daily.endangered.alt",
+          "sns.sa.kids_daily.endangered.alt.ja",
+          "sns.sa.kids_daily.endangered.alt.pt_br",
+          "sns.sa.kids_daily.endangered.alt.id",
+          "sns.sa.kids_daily.endangered.alt.th",
+          "sns.sa.kids_daily.endangered.alt.tr",
+          "sns.sa.kids_daily.endangered.alt.ko"
+        ]
+      },
+      {
+        "definition": "An animal that is in danger of disappearing for ever, because there are so few left.",
+        "exampleIds": [
+          "exm.sa.kids_daily.endangered.1.1"
+        ],
+        "gloss": "An animal that is in danger of disappearing for ever, because there are so few left.",
+        "id": "sns.sa.kids_daily.endangered.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_daily.endangered",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "数の減少によって絶滅する恐れがある動物をいう。保護の対象となる。",
+        "exampleIds": [
+          "exm.sa.kids_daily.endangered.1.1.ja"
+        ],
+        "gloss": "数が少なくなり、絶滅の危険にある動物。",
+        "id": "sns.sa.kids_daily.endangered.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_daily.endangered",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Animal ou espécieemesmo em perigo de extinção. Em geral, restam poucos indivíduos e é necessário proteger seu habitat.",
+        "exampleIds": [
+          "exm.sa.kids_daily.endangered.1.1.pt_br"
+        ],
+        "gloss": "Animal ou espécie em perigo de desaparecer para sempre.",
+        "id": "sns.sa.kids_daily.endangered.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_daily.endangered",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sebutan bagi hewan yang jumlahnya sangat sedikit sehingga mungkin punah. Hewan ini harus dilindungi agar tidak hilang.",
+        "exampleIds": [
+          "exm.sa.kids_daily.endangered.1.1.id"
+        ],
+        "gloss": "Hewan yang terancam hilang selamanya.",
+        "id": "sns.sa.kids_daily.endangered.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_daily.endangered",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สัตว์ที่จำนวนลดลงจนเสี่ยงต่อการสูญพันธุ์ โดยทั่วไปมีสาเหตุมาจากการถูกล่า การทำลายถิ่นอาศัย หรือการเปลี่ยนแปลงสิ่งแวดล้อม",
+        "exampleIds": [
+          "exm.sa.kids_daily.endangered.1.1.th"
+        ],
+        "gloss": "สัตว์ที่เสี่ยงสูญพันธุ์คือสัตว์ที่เหลืออยู่น้อยมากและอาจหายไป",
+        "id": "sns.sa.kids_daily.endangered.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_daily.endangered",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çok az birey kaldığı için tamamen yok olma tehlikesiyle karşı karşıya olan hayvanı anlatır.",
+        "exampleIds": [
+          "exm.sa.kids_daily.endangered.1.1.tr"
+        ],
+        "gloss": "Nesli tükenme tehlikesinde olan hayvandır.",
+        "id": "sns.sa.kids_daily.endangered.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_daily.endangered",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "개체 수가 너무 적어 완전히 사라질 위험이 있는 동물이다. 보통 ‘멸종 위기에 놓인 동물’이라고 한다.",
+        "exampleIds": [
+          "exm.sa.kids_daily.endangered.1.1.ko"
+        ],
+        "gloss": "멸종될 위험이 큰 동물.",
+        "id": "sns.sa.kids_daily.endangered.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_daily.endangered",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_daily.endangered.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The giant panda is endangered. We must protect it.",
+        "translation": "거대한 판다는 멸종 위기에 놓인 동물이어서 보호해야 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_daily.endangered.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The giant panda is endangered. We must protect it.",
+        "translation": "Dev panda nesli tükenme tehlikesindedir; onu korumalıyız.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_daily.endangered.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The giant panda is endangered. We must protect it.",
+        "translation": "แพนด้ายักษ์เป็นสัตว์ที่เสี่ยงสูญพันธุ์ เราจึงต้องช่วยกันปกป้อง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_daily.endangered.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The giant panda is endangered. We must protect it.",
+        "translation": "Panda raksasa termasuk hewan yang terancam punah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_daily.endangered.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The giant panda is endangered. We must protect it.",
+        "translation": "O panda-gigante está em perigo de extinção e precisa ser protegido.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_daily.endangered.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The giant panda is endangered. We must protect it.",
+        "translation": "ジャイアンパンダは絶滅危種だ。保護しなければなりません。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_daily.endangered.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The giant panda is endangered. We must protect it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "0ca24121fda03b794d51c0549d5b73fdddc6e0ed848d88050ab912bd5cc75684": [
+      {
+        "forms": [
+          "Interest",
+          "mon_interest"
+        ],
+        "id": "lex.sa.money.mon_interest",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Interest",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_interest.alt",
+          "sns.sa.money.mon_interest.alt.ja",
+          "sns.sa.money.mon_interest.alt.ko",
+          "sns.sa.money.mon_interest.alt.pt_br",
+          "sns.sa.money.mon_interest.alt.id",
+          "sns.sa.money.mon_interest.alt.th",
+          "sns.sa.money.mon_interest.alt.tr"
+        ]
+      },
+      {
+        "definition": "The price of borrowing money, charged as a percentage of what you still owe.",
+        "exampleIds": [
+          "exm.sa.money.mon_interest.1.1"
+        ],
+        "gloss": "The price of borrowing money, charged as a percentage of what you still owe.",
+        "id": "sns.sa.money.mon_interest.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_interest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "-CTOR お金をTruEra対する価格。ふつうは未返済の残高に一定の割合を掛けて計算する。",
+        "exampleIds": [
+          "exm.sa.money.mon_interest.1.1.ja"
+        ],
+        "gloss": "お金を借りる対価として、借りた残額的一定の割合で支払われる料金。",
+        "id": "sns.sa.money.mon_interest.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.mon_interest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "돈을 빌릴 때 남은 빚액에 일정 비율로 내는 비용이다. 빌린 원금과 이자를 구별해야 한다.",
+        "exampleIds": [
+          "exm.sa.money.mon_interest.1.1.ko"
+        ],
+        "gloss": "빌린 돈을 갚기 위해 남은 빚에 대해 이자로 내는 비용이다.",
+        "id": "sns.sa.money.mon_interest.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.mon_interest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Valor cobrado pelo uso de dinheiro emprestado, normalmente expresso como percentual da dívida ainda em aberto.",
+        "exampleIds": [
+          "exm.sa.money.mon_interest.1.1.pt_br"
+        ],
+        "gloss": "Custo de tomar dinheiro emprestado, calculado como percentual do que ainda deve ser pago.",
+        "id": "sns.sa.money.mon_interest.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.mon_interest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bunga adalah biaya peminjaman uang yang dihitung sebagai persentase dari jumlah yang masih terutang. Besarnya bunga biasanya dinyatakan sebagai persentase per tahun.",
+        "exampleIds": [
+          "exm.sa.money.mon_interest.1.1.id"
+        ],
+        "gloss": "Bunga adalah biaya peminjaman uang yang dihitung sebagai persentase dari jumlah yang masih terutang.",
+        "id": "sns.sa.money.mon_interest.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.mon_interest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ดอกเบี้ยที่ต้องจ่ายสำหรับการยืมเงิน โดยทั่วไปคิดเป็นเปอร์เซ็นต์ต่อปีจากเงินต้นที่ยังไม่ได้ชำระ",
+        "exampleIds": [
+          "exm.sa.money.mon_interest.1.1.th"
+        ],
+        "gloss": "ต้นทุนของการยืมเงิน คิดเป็นร้อยละของยอดที่ยังเป็นหนี้",
+        "id": "sns.sa.money.mon_interest.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.mon_interest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Para ödünç alındığında ödenen ek bedel; genellikle kalan borç tutarı üzerinden yüzde olarak hesaplanır.",
+        "exampleIds": [
+          "exm.sa.money.mon_interest.1.1.tr"
+        ],
+        "gloss": "Ödünç alınan para için hâlâ borçlu olunan tutar üzerinden alınan yüzdelik bedel.",
+        "id": "sns.sa.money.mon_interest.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.mon_interest",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_interest.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "1.000 dolarlık borca yıllık yüzde 2 faiz uygulanırsa yıllık faiz 20 dolar olur.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.mon_interest.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "หนี้สิน 1,000 ดอลลาร์มีดอกเบี้ย 2% ต่อปี ดังนั้นดอกเบี้ยประจำปีคือ 20 ดอลลาร์",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.mon_interest.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dengan bunga 2% per tahun atas utang 1.000 dolar, bunga untuk setahun adalah 20 dolar.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.mon_interest.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Com dois por cento ao ano sobre uma dívida de mil reais, os juros anuais são de vinte reais.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.mon_interest.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "마지막으로 남은 빚이 천 원이라면 이자가 이십 원일 때, 일 년 동안 내야 하는 이자는 이십 원이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.mon_interest.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "1000ドルの負債に年2パーセントなら、1年間の利息は20ドル。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.mon_interest.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "At 2 % a year on a debt of 1 000 $, the interest for the year is 20 $.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "0cab1c9617404faf2b24e221e189ca5945813e14d3f766345b09ca13bbe28ffc": [
+      {
+        "forms": [
+          "video"
+        ],
+        "id": "lex.sa.en.video.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "video",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.video.noun.1",
+          "sns.sa.en.video-noun.alt"
+        ]
+      },
+      {
+        "definition": "Nội dung hình ảnh chuyển động có tiếng.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "video",
+        "id": "sns.sa.vi.video.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.video.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recorded moving pictures.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "Moving images with sound.",
+        "id": "sns.sa.en.video-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.video.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "0ccab61f677d1994d8b61db3fbcf86439625a5ca5760d247a001a59741fcecce": [
+      {
+        "forms": [
+          "travel",
+          "travelling",
+          "traveling"
+        ],
+        "id": "lex.sa.en.travel.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "travel",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.travel.verb.1",
+          "sns.sa.en.travel-verb.alt"
+        ]
+      },
+      {
+        "definition": "Chuyển động từ nơi này sang nơi khác.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "di chuyển; đi du lịch",
+        "id": "sns.sa.vi.travel.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.travel.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "Going from one place to another.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "Moving from one place to another.",
+        "id": "sns.sa.en.travel-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.travel.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "0cdd8207ce9df48dad6c2de13f729c8c7a6ea40475d78bfa5fd3d933f9e9aa41": [
+      {
+        "forms": [
+          "mate selection",
+          "msa_mate_selection"
+        ],
+        "id": "lex.sa.social.msa_mate_selection",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "mate selection",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.msa_mate_selection.alt",
+          "sns.sa.social.msa_mate_selection.alt.ko",
+          "sns.sa.social.msa_mate_selection.alt.pt_br",
+          "sns.sa.social.msa_mate_selection.alt.id",
+          "sns.sa.social.msa_mate_selection.alt.th",
+          "sns.sa.social.msa_mate_selection.alt.tr",
+          "sns.sa.social.msa_mate_selection.alt.ja"
+        ]
+      },
+      {
+        "definition": "The process of choosing a partner, from the first interest to the decision.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1"
+        ],
+        "gloss": "The process of choosing a partner, from the first interest to the decision.",
+        "id": "sns.sa.social.msa_mate_selection.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "배우자에게Interest를 느끼기 시작한 뒤 후보를 알아보고 비교하며 최종 선택에 이르기까지의 과정을 가리킨다. 사람마다 이 과정의 길이와 방식은 다르다.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.ko"
+        ],
+        "gloss": "처음 관심을 가진 상대부터 결정까지 배우자를 고르는 과정.",
+        "id": "sns.sa.social.msa_mate_selection.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Processo pelo qual uma pessoa decide quem será seu parceiro, desde o primeiro interesse até a escolha final.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.pt_br"
+        ],
+        "gloss": "O processo de escolher um parceiro, do primeiro interesse à decisão.",
+        "id": "sns.sa.social.msa_mate_selection.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Proses psikologis dan sosial yang berjalan mulai dari minat terhadap seseorang sampai pada keputusan untuk memilihnya sebagai pasangan.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.id"
+        ],
+        "gloss": "Proses memilih pasangan dari minat awal hingga keputusan.",
+        "id": "sns.sa.social.msa_mate_selection.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กระบวนการที่บุคคลหนึ่งพิจารณาและเลือกคู่ครอง ตั้งแต่เริ่มมีความสนใจจนถึงขั้นตอนการตัดสินใจ",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.th"
+        ],
+        "gloss": "กระบวนการตั้งแต่เริ่มสนใจจนตัดสินใจเลือกคู่ครอง",
+        "id": "sns.sa.social.msa_mate_selection.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin eşini seçme süreci; ilginin başlamasından ilişki kararının verilmesine kadar sürer.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.tr"
+        ],
+        "gloss": "İlk ilgiden karar verilene kadar eş seçme süreci.",
+        "id": "sns.sa.social.msa_mate_selection.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "最初に誰かにinterestを抱いたことから、配偶者として選 Gelまでの一連の過程を指す。",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.ja"
+        ],
+        "gloss": "配偶者の候補を選び、関係を結ぶまでの過程。",
+        "id": "sns.sa.social.msa_mate_selection.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女の配偶者の選択はすぐ終わったが、弟はChampionship_uting__了很久。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Eş seçme süreci onun için yavaş, kardeşi için hızlıydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอใช้เวลาเลือกคู่ครองนานกว่าพี่ชายของเธอมาก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pemilihan pasangan berlangsung lambat baginya, tetapi cepat bagi saudaranya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A escolha de parceiro foi lenta para ela e rápida para o irmão dela.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀의 배우자 선택은 느리게 진행됐지만, 그녀의 형은 빠르게 결정했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Mate selection was slow for her and quick for her brother.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "0cf2f68837a3c7cfbf702b538d5a34cbb4ae772082760d27bf5880e021189e72": [
+      {
+        "forms": [
+          "Cochlea",
+          "cochlea"
+        ],
+        "id": "lex.sa.kids_science.cochlea",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Cochlea",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.cochlea.alt",
+          "sns.sa.kids_science.cochlea.alt.ja",
+          "sns.sa.kids_science.cochlea.alt.ko",
+          "sns.sa.kids_science.cochlea.alt.pt_br",
+          "sns.sa.kids_science.cochlea.alt.id",
+          "sns.sa.kids_science.cochlea.alt.th",
+          "sns.sa.kids_science.cochlea.alt.tr"
+        ]
+      },
+      {
+        "definition": "The little spiral inside your ear that turns vibrations into nerve signals.",
+        "exampleIds": [
+          "exm.sa.kids_science.cochlea.1.1"
+        ],
+        "gloss": "The little spiral inside your ear that turns vibrations into nerve signals.",
+        "id": "sns.sa.kids_science.cochlea.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.cochlea",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "内耳にある、液体の振動を神経の信号に変える器官。日本語では「かたい」の意味でも用いられる。",
+        "exampleIds": [
+          "exm.sa.kids_science.cochlea.1.1.ja"
+        ],
+        "gloss": "耳の内側にある小さな螺旋状の器官。",
+        "id": "sns.sa.kids_science.cochlea.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.cochlea",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "내이의 나선형 기관으로, 소리의 진동을 감지해 신경 신호로 바꾼다. 청각에 중요한 부분이며, 평형 유지와는 다른 역할이다.",
+        "exampleIds": [
+          "exm.sa.kids_science.cochlea.1.1.ko"
+        ],
+        "gloss": "귀 안에서 소리의 진동을 신경 신호로 바꾸는 나선 모양 기관.",
+        "id": "sns.sa.kids_science.cochlea.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.cochlea",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estrutura em forma de espiral do ouvido interno que converte vibrações sonoras em impulsos nervosos. Faz parte do aparelho responsible pela audição e pelo equilíbrio.",
+        "exampleIds": [
+          "exm.sa.kids_science.cochlea.1.1.pt_br"
+        ],
+        "gloss": "Órgão em forma de espiral situado no interior do ouvido.",
+        "id": "sns.sa.kids_science.cochlea.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.cochlea",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Struktur kecil berbentuk spiral di dalam telinga dalam yang mengubah=getaran menjadi sinyal saraf.",
+        "exampleIds": [
+          "exm.sa.kids_science.cochlea.1.1.id"
+        ],
+        "gloss": "Bagian berbentuk spiral di dalam telinga yang mengubah getaran menjadi sinyal saraf.",
+        "id": "sns.sa.kids_science.cochlea.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.cochlea",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ส่วนของหูชั้นในที่เป็นรูปเกลียวและเปลี่ยนการสั่นของแดมโพรงเป็นสัญญาณประสาทที่สมองรับรู้",
+        "exampleIds": [
+          "exm.sa.kids_science.cochlea.1.1.th"
+        ],
+        "gloss": "อวัยวะรูปเกลียวเล็ก ๆ ในหูที่เปลี่ยนการสั่นเป็นสัญญาณประสาท",
+        "id": "sns.sa.kids_science.cochlea.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.cochlea",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İç kulağın spiral biçimli organıdır; titreşimleri sinir sinyallerine dönüştürür.",
+        "exampleIds": [
+          "exm.sa.kids_science.cochlea.1.1.tr"
+        ],
+        "gloss": "Kulağın içinde bulunan küçük spiralli organ.",
+        "id": "sns.sa.kids_science.cochlea.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.cochlea",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.cochlea.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cochlea changes the movement of your eardrum into signals.",
+        "translation": "Koklea kulak zarındaki titreşimleri sinir sinyallerine dönüştürür.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.cochlea.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cochlea changes the movement of your eardrum into signals.",
+        "translation": "คอคเลียเปลี่ยนการเคลื่อนที่ของแดมโพรงเป็นสัญญาณ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.cochlea.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cochlea changes the movement of your eardrum into signals.",
+        "translation": "Koklea mengubah gerakan gendang telinga menjadi sinyal saraf.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.cochlea.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cochlea changes the movement of your eardrum into signals.",
+        "translation": "A cóclea converte as vibrações do tímpano em impulsos nervosos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.cochlea.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cochlea changes the movement of your eardrum into signals.",
+        "translation": "이 기관은 고막의 움직임을 신경 신호로 바꾼다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.cochlea.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cochlea changes the movement of your eardrum into signals.",
+        "translation": "蝸牛は鼓膜の動きを神経信号に変える。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.cochlea.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cochlea changes the movement of your eardrum into signals.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "0cf67fc72b3c86c7a454f6d86b43ed245a8e491d0e5288d4da8c7ff43a7bcdb0": [
+      {
+        "forms": [
+          "load",
+          "loads"
+        ],
+        "id": "lex.sa.en.load.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "load",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.load.noun.gb",
+          "prn.sa.en.load.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.load.noun.mech",
+          "sns.sa.en.load.noun.elec",
+          "sns.sa.en.load-noun.alt"
+        ]
+      },
+      {
+        "definition": "Lực hoặc khối lượng mà kết cấu phải chịu.",
+        "domain": [
+          "mechanical"
+        ],
+        "exampleIds": [
+          "exm.sa.en.load.noun.01",
+          "exm.sa.en.load-noun.more.01",
+          "exm.sa.en.load-noun.more.02"
+        ],
+        "gloss": "tải (cơ)",
+        "id": "sns.sa.en.load.noun.mech",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.load.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.load-noun",
+          "res.sa.aud.load-noun",
+          "res.sa.lnk.load-noun",
+          "res.sa.vid.load-noun"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "Phần tử tiêu thụ công suất trong mạch.",
+        "domain": [
+          "electrical"
+        ],
+        "exampleIds": [
+          "exm.sa.en.load.noun.02",
+          "exm.sa.en.load-noun.more.01",
+          "exm.sa.en.load-noun.more.02"
+        ],
+        "gloss": "tải (điện)",
+        "id": "sns.sa.en.load.noun.elec",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.load.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.load-noun",
+          "res.sa.aud.load-noun",
+          "res.sa.lnk.load-noun",
+          "res.sa.vid.load-noun"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "The amount of weight or work that is carried.",
+        "exampleIds": [
+          "exm.sa.en.load.noun.01",
+          "exm.sa.en.load.noun.02"
+        ],
+        "gloss": "The amount of weight or work that is carried.",
+        "id": "sns.sa.en.load-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.load.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.load.noun.gb",
+        "ipa": "/ləʊd/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.load.noun.us",
+        "ipa": "/loʊd/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.load.noun.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The load on the beam is 4 kN.",
+        "translation": "Tải trên dầm là 4 kN.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.load.noun.02",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Connect the load after the switch.",
+        "translation": "Nối tải sau công tắc.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.en.load.noun.elec",
+        "id": "lnk.sa.en.load.elec.to.circuit",
+        "kind": "relation",
+        "toId": "sns.sa.en.circuit.noun.elec",
+        "type": "part_of"
+      },
+      {
+        "forms": [
+          "load",
+          "loads",
+          "loaded",
+          "loading"
+        ],
+        "id": "lex.sa.en.load.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "load",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.load.verb.gb",
+          "prn.sa.en.load.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.load.verb.place",
+          "sns.sa.en.load-verb.alt"
+        ]
+      },
+      {
+        "definition": "Đặt vật lên thiết bị hoặc vào đồ gá.",
+        "exampleIds": [
+          "exm.sa.en.load.verb.01",
+          "exm.sa.en.load-verb.more.01",
+          "exm.sa.en.load-verb.more.02"
+        ],
+        "gloss": "chất; gá",
+        "id": "sns.sa.en.load.verb.place",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.load.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.load-verb",
+          "res.sa.aud.load-verb",
+          "res.sa.lnk.load-verb",
+          "res.sa.vid.load-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To put a heavy substance into a vehicle or a structure.",
+        "exampleIds": [
+          "exm.sa.en.load.verb.01"
+        ],
+        "gloss": "To put a heavy substance into a vehicle or a structure.",
+        "id": "sns.sa.en.load-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.load.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.load.verb.gb",
+        "ipa": "/ləʊd/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.load.verb.us",
+        "ipa": "/loʊd/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.load.verb.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Load the sample into the fixture.",
+        "translation": "Gá mẫu vào đồ gá.",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,946 @@
+{
+  "records": {
+    "f905b19542ed08c9a9c26543cca32e5711d207dcffb81b4cdb44ce0b989431c9": [
+      {
+        "forms": [
+          "only"
+        ],
+        "id": "lex.sa.en.only.adverb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "only",
+        "pos": "adverb",
+        "senseIds": [
+          "sns.sa.vi.only.adverb.1",
+          "sns.sa.en.only-adverb.alt"
+        ]
+      },
+      {
+        "definition": "Không gì hơn; chỉ riêng một mình.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "chỉ",
+        "id": "sns.sa.vi.only.adverb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.only.adverb",
+        "pos": "adverb",
+        "revision": 1
+      },
+      {
+        "definition": "With nothing else included.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "And nothing more; on its own.",
+        "id": "sns.sa.en.only-adverb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.only.adverb",
+        "pos": "adverb",
+        "revision": 1
+      }
+    ],
+    "f9194e73f9e9459e3450ea10a179cdf77aafa695beecd3b9344a98d111622243": [
+      {
+        "forms": [
+          "zero",
+          "zeros",
+          "zeroes"
+        ],
+        "id": "lex.sa.en.zero.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "zero",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.zero.noun",
+          "prn.sa.en.zero.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.zero.noun.1",
+          "sns.sa.en.zero-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.zero-noun",
+        "id": "prn.sa.en.zero.noun",
+        "ipa": "/ˈzɪərəʊ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.zero.noun.us",
+        "ipa": "/ˈzɪr.oʊ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Giá trị 0; điểm gốc trên trục số.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.zero.noun.1.1",
+          "exm.sa.en.zero-noun.more.01",
+          "exm.sa.en.zero-noun.more.02"
+        ],
+        "gloss": "số không",
+        "id": "sns.sa.vi.zero.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.zero.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.zero-noun",
+          "res.sa.aud.zero-noun",
+          "res.sa.lnk.zero-noun",
+          "res.sa.vid.zero-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The number 0.",
+        "exampleIds": [
+          "exm.sa.en.zero.noun.1.1"
+        ],
+        "gloss": "The number 0.",
+        "id": "sns.sa.en.zero-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.zero.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.zero.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A non-zero coefficient cannot be zero.",
+        "translation": "Hệ số khác không không thể bằng 0.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.zero.noun.1",
+        "id": "lnk.sa.en.glossary.034",
+        "kind": "relation",
+        "toId": "sns.sa.vi.non-zero.adjective.1",
+        "type": "related_to"
+      }
+    ],
+    "f965e5fbf98dd531b7c0fd4f9bdc8dd6df79f623c8345b8aa1b7cd756d317dd8": [
+      {
+        "forms": [
+          "Escalate",
+          "escalate"
+        ],
+        "id": "lex.sa.work.escalate",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Escalate",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.escalate.alt",
+          "sns.sa.work.escalate.alt.ja",
+          "sns.sa.work.escalate.alt.ko",
+          "sns.sa.work.escalate.alt.pt_br",
+          "sns.sa.work.escalate.alt.id",
+          "sns.sa.work.escalate.alt.th",
+          "sns.sa.work.escalate.alt.tr"
+        ]
+      },
+      {
+        "definition": "To take a matter to a more senior person because it has not moved.",
+        "exampleIds": [
+          "exm.sa.work.escalate.1.1"
+        ],
+        "gloss": "To take a matter to a more senior person because it has not moved.",
+        "id": "sns.sa.work.escalate.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.escalate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "案件が進展しないため、上位者に transferring 解決を求める行為をいう。通常の担当者が対応すべき段階での安易な利用は避けなければならない。",
+        "exampleIds": [
+          "exm.sa.work.escalate.1.1.ja"
+        ],
+        "gloss": "案件を上位者に回して判断を仰ぐこと。",
+        "id": "sns.sa.work.escalate.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.escalate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "해결되지 않는 일을 상위 책임자에게 넘겨 더 높은 수준에서 처리하도록 요청하는 명사형 표현이다. 상위 보고는 문제의 심각성을 인정하고 참고할 때만 한다.",
+        "exampleIds": [
+          "exm.sa.work.escalate.1.1.ko"
+        ],
+        "gloss": "진행되지 않는 일을 상위 책임자에게 넘겨 처리하는 것.",
+        "id": "sns.sa.work.escalate.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.escalate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ação de levar uma questão ou demanda a uma pessoa de hierarquia superior porque o processo não avançou. Use-a apenas quando a escalação for realmente necessária.",
+        "exampleIds": [
+          "exm.sa.work.escalate.1.1.pt_br"
+        ],
+        "gloss": "Encaminhamento de um assunto a alguém de hierarquia superior quando ele não avança.",
+        "id": "sns.sa.work.escalate.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.escalate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tindakan.raises tingkat penanganan suatu masalah denganEditors把它交给更高层级的人。",
+        "exampleIds": [
+          "exm.sa.work.escalate.1.1.id"
+        ],
+        "gloss": "Tindakan membawa suatu masalah kepada atasan karena belum ditangani.",
+        "id": "sns.sa.work.escalate.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.escalate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การส่งเรื่องให้ผู้มีอำนาจระดับสูงกว่าช่วยเร่งความคืบหน้า เพราะการติดตามตามปกติไม่ได้ผล",
+        "exampleIds": [
+          "exm.sa.work.escalate.1.1.th"
+        ],
+        "gloss": "การส่งเรื่องให้ผู้มีอำนาจระดับสูงกว่าพิจารณา เพราะเรื่องยังไม่คลี่คลาด",
+        "id": "sns.sa.work.escalate.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.escalate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İlerlemeyen bir konunun çözülmesi veya karar verilmesi için üst makama taşınması. Bu işlem yalnızca sorun gerçekten üst makam gerektirdiğinde yapılmalıdır.",
+        "exampleIds": [
+          "exm.sa.work.escalate.1.1.tr"
+        ],
+        "gloss": "İlerlemeyen bir konunun üst makama taşınması.",
+        "id": "sns.sa.work.escalate.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.escalate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.escalate.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "If we do not hear back by Friday, we will need to escalate this.",
+        "translation": "Cumaya kadar yanıt alamazsak konuyu üst makama taşımamız gerekir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.escalate.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "If we do not hear back by Friday, we will need to escalate this.",
+        "translation": "หากเรายังไม่ได้รับการตอบกลับภายในวันศุกร์ เราจำเป็นต้องส่งเรื่องนี้ให้ผู้จัดการระดับสูงพิจารณา",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.escalate.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "If we do not hear back by Friday, we will need to escalate this.",
+        "translation": "Jika kami belum menerima jawaban sampai Jumat, masalah ini perlu dieskalasi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.escalate.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "If we do not hear back by Friday, we will need to escalate this.",
+        "translation": "Se não recebermos resposta até sexta-feira, vamos ter que escalar esse caso.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.escalate.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "If we do not hear back by Friday, we will need to escalate this.",
+        "translation": "금요일까지 답이 없으면 이 문제를 상위 책임자에게 넘겨 처리해야 합니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.escalate.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "If we do not hear back by Friday, we will need to escalate this.",
+        "translation": "金曜まで返事がなければ、この件のエスカレーションが必要です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.escalate.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "If we do not hear back by Friday, we will need to escalate this.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "f982b938424cf8d1ca76b7308285d9e6bfabf5566aae6167289f9558bd443e95": [
+      {
+        "forms": [
+          "Cognitive empathy",
+          "gem_cognitive_empathy"
+        ],
+        "id": "lex.sa.social.gem_cognitive_empathy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Cognitive empathy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gem_cognitive_empathy.alt",
+          "sns.sa.social.gem_cognitive_empathy.alt.ja",
+          "sns.sa.social.gem_cognitive_empathy.alt.ko",
+          "sns.sa.social.gem_cognitive_empathy.alt.pt_br",
+          "sns.sa.social.gem_cognitive_empathy.alt.id",
+          "sns.sa.social.gem_cognitive_empathy.alt.th",
+          "sns.sa.social.gem_cognitive_empathy.alt.tr"
+        ]
+      },
+      {
+        "definition": "The thinking part of empathy: seeing the situation from the other person's side.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1"
+        ],
+        "gloss": "The thinking part of empathy: seeing the situation from the other person's side.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "感情移入そのものartbeat Foucault.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.ja"
+        ],
+        "gloss": "相手の状況RADViewsその立場から考える Empathy。",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대가 느끼는 상황과 입장을 내면의 논리로 이해하는 능력이다. 단순히 감정적으로 동정하는 것과 달리, 상대가 무엇을 느끼는지 이해하는 데 초점이 있다.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.ko"
+        ],
+        "gloss": "상대방의 입장에서 상황을 바라보는 공감의 사고적인 측면.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A parte da empatia que envolve compreender o que a outra pessoa pensa e sente ao observar a situação do ponto de vista dela.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.pt_br"
+        ],
+        "gloss": "Entender a situação pelo ponto de vista da outra pessoa.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Empati kognitif merupakan bagian berpikir dari empati yang membantu seseorang melihat masalah dari sudut pandang orang lain. Kemampuan ini tidak selalu berarti berbagi perasaan orang tersebut.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.id"
+        ],
+        "gloss": "Kemampuan memahami situasi dari sudut pandang orang lain.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ส่วนเชิงคิดของความเห็นอกเห็นใจ ซึ่งเกี่ยวกับความพยายามเข้าใจสถานการณ์จากมุมมองของอีกฝ่ายหนึ่ง ไม่ใช่การรับรู้ความรู้สึกของอีกฝ่ายโดยตรง",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.th"
+        ],
+        "gloss": "ความเข้าใจเชิงคิดที่ช่วยให้เห็นสถานการณ์จากมุมของอีกฝ่ายหนึ่ง",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Başka birinin duygularını ve bakış açısını anlamaya yönelik düşünsel yetenek. Karşıdaki kişinin gerçekten ne hissettiğini tahmin etmeyi sağlar.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.tr"
+        ],
+        "gloss": "Başkasının bakış açısını ve duygularını anlamanın düşünsel yönü.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bilişsel empati, son tarihin asıl sorun olduğunu tahmin etmesini sağladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความเข้าใจเชิงคิดช่วยให้เราเดาได้ว่าปัญหาจริงคือกำหนดส่งงาน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Empati kognitif membuatnya dapat.guess bahwa masalah sesungguhnya adalah tenggat waktu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A empatia cognitiva levou Ana a perceber que o prazo apertado, e não a falta de compromisso, era o verdadeiro problema.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "마감일이 진짜 문제였을 가능성을 알아챈 것은 인지적 공감이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "認知的共感によって、締切が本当の問題だと推測できた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Cognitive empathy is what lets you guess that the deadline was the real problem.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "f99a832b3141eb0022c9594a5ddbd5947f5a39fe2a9c95ea1ab1f27205598bbd": [
+      {
+        "forms": [
+          "Power window",
+          "power_window"
+        ],
+        "id": "lex.sa.en.power.window",
+        "kind": "lexeme",
+        "lemma": "Power window",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.power.window.alt"
+        ]
+      },
+      {
+        "definition": "The window is not fully closed, or the window switch was used. Severity level 1 — Information / Status. Action: Close the window if the car is moving..",
+        "gloss": "The window is not fully closed, or the window switch was used.",
+        "id": "sns.sa.en.power.window.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.power.window",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "f9b0078b5df596d2ea19010c001bbd009e651de2c57e8fb7e355f31eb9d3f739": [
+      {
+        "forms": [
+          "short"
+        ],
+        "id": "lex.sa.en.short.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "short",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.short.adjective.1",
+          "sns.sa.en.short-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Không dài.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "ngắn",
+        "id": "sns.sa.vi.short.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.short.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Of little length or duration.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "Not long in length or time.",
+        "id": "sns.sa.en.short-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.short.adjective",
+        "pos": "adjective",
+        "revision": 1
+      }
+    ],
+    "f9d5d2a223f1cbeea24fadd02eb0844d2789b8c8d9d7072a47e936da0b513a9c": [
+      {
+        "forms": [
+          "Fuel level",
+          "fuel_low"
+        ],
+        "id": "lex.sa.en.fuel.low",
+        "kind": "lexeme",
+        "lemma": "Fuel level",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.fuel.low.alt"
+        ]
+      },
+      {
+        "definition": "The fuel level is low. The lamp usually comes on before the tank is empty. Severity level 2 — Caution. Action: Refuel soon..",
+        "gloss": "The fuel level is low. The lamp usually comes on before the tank is empty.",
+        "id": "sns.sa.en.fuel.low.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.fuel.low",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "f9d6cd1ed5cf1ead7b54873537748e0daa8f1390cd61555b68089fca063444f3": [
+      {
+        "forms": [
+          "equal",
+          "equals",
+          "equaled",
+          "equalled",
+          "equaling"
+        ],
+        "id": "lex.sa.en.equals.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "equals",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.equals.verb",
+          "prn.sa.en.equals.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.equals.verb.1",
+          "sns.sa.en.equals-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.equals-verb",
+        "id": "prn.sa.en.equals.verb",
+        "ipa": "/ˈiːkwəlz/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.equals.verb.us",
+        "ipa": "/ˈiː.kwəlz/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Hai vế có cùng giá trị; ký hiệu =.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.equals.verb.1.1",
+          "exm.sa.en.equals-verb.more.01",
+          "exm.sa.en.equals-verb.more.02"
+        ],
+        "gloss": "bằng",
+        "id": "sns.sa.vi.equals.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.equals.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.equals-verb",
+          "res.sa.aud.equals-verb",
+          "res.sa.lnk.equals-verb",
+          "res.sa.vid.equals-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The relation written with the sign =.",
+        "exampleIds": [
+          "exm.sa.en.equals.verb.1.1"
+        ],
+        "gloss": "The relation written with the sign =.",
+        "id": "sns.sa.en.equals-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.equals.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.equals.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Two plus two equals four.",
+        "translation": "Hai cộng hai bằng bốn.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.equals.verb.1",
+        "id": "lnk.sa.en.glossary.013",
+        "kind": "relation",
+        "toId": "sns.sa.vi.equation.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.equals.verb.1",
+        "id": "lnk.sa.en.glossary.014",
+        "kind": "relation",
+        "toId": "sns.sa.vi.sign.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.equals.verb.1",
+        "id": "lnk.sa.en.glossary.015",
+        "kind": "relation",
+        "toId": "sns.sa.vi.balanced.adjective.1",
+        "type": "related_to"
+      },
+      {
+        "forms": [
+          "equal"
+        ],
+        "id": "lex.sa.en.equal.adj",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "equal",
+        "pos": "adjective",
+        "pronunciationIds": [
+          "prn.sa.en.equal.adj.gb",
+          "prn.sa.en.equal.adj.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.equal.adj.math",
+          "sns.sa.en.equal-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Có cùng giá trị.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.equal.adj.01",
+          "exm.sa.en.equal-adjective.more.01",
+          "exm.sa.en.equal-adjective.more.02"
+        ],
+        "gloss": "bằng nhau",
+        "id": "sns.sa.en.equal.adj.math",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.equal.adj",
+        "pos": "adjective",
+        "resourceIds": [
+          "res.sa.diagram.check",
+          "res.sa.audio.equals",
+          "res.sa.img.equal-adjective",
+          "res.sa.aud.equal-adjective",
+          "res.sa.lnk.equal-adjective",
+          "res.sa.vid.equal-adjective"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "The same in value, amount, or effect.",
+        "exampleIds": [
+          "exm.sa.en.equal.adj.01"
+        ],
+        "gloss": "The same in value, amount, or effect.",
+        "id": "sns.sa.en.equal-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.equal.adj",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.equal.adj.gb",
+        "ipa": "/ˈiːkwəl/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.equal.adj.us",
+        "ipa": "/ˈiːkwəl/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.equal.adj.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Both sides of the equation are equal.",
+        "translation": "Hai vế phương trình bằng nhau.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.diagram.check",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://45503c5d5a7d6a6a5d4af858da1a3078f383ef4407a0f3ad4a4151f17684e2b4",
+            "mime": "image/png"
+          }
+        ],
+        "title": "Check the solution",
+        "type": "image"
+      },
+      {
+        "id": "res.sa.audio.equals",
+        "kind": "resource",
+        "offlinePolicy": "required",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://7a2a982b92f9ce5ded4f193977294a990425e32f7f6f6864cc1726e8f4f544a6",
+            "mime": "audio/wav"
+          }
+        ],
+        "title": "equals en-US",
+        "type": "audio"
+      },
+      {
+        "id": "res.sa.vid.equal-adjective",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "equal clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.en.equal.adj.math",
+        "id": "lnk.sa.en.equal.syn.equals",
+        "kind": "relation",
+        "toId": "sns.sa.en.equal.verb.math",
+        "type": "synonym"
+      },
+      {
+        "forms": [
+          "equal",
+          "equals",
+          "equaled",
+          "equalling"
+        ],
+        "id": "lex.sa.en.equal.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "equal",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.equal.verb.gb",
+          "prn.sa.en.equal.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.equal.verb.math",
+          "sns.sa.en.equal-verb.alt"
+        ]
+      },
+      {
+        "definition": "Có cùng số với.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.equal.verb.01",
+          "exm.sa.en.equal-verb.more.01",
+          "exm.sa.en.equal-verb.more.02"
+        ],
+        "gloss": "bằng",
+        "id": "sns.sa.en.equal.verb.math",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.equal.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.audio.equals",
+          "res.sa.img.equal-verb",
+          "res.sa.aud.equal-verb",
+          "res.sa.lnk.equal-verb",
+          "res.sa.vid.equal-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To make two things the same in value or amount.",
+        "exampleIds": [
+          "exm.sa.en.equal.verb.01"
+        ],
+        "gloss": "To make two things the same in value or amount.",
+        "id": "sns.sa.en.equal-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.equal.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.equal.verb.gb",
+        "ipa": "/ˈiːkwəl/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.equal.verb.us",
+        "ipa": "/ˈiːkwəl/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.equal.verb.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Two times three equals six.",
+        "translation": "Hai nhân ba bằng sáu.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "f9dc689e6d50ad6f35cc97059375b37b8149225f4fb7a192f4ea40051da5416a": [
+      {
+        "forms": [
+          "understand",
+          "understood"
+        ],
+        "id": "lex.sa.en.understand.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "understand",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.understand.verb.1",
+          "sns.sa.en.understand-verb.alt"
+        ]
+      },
+      {
+        "definition": "Nắm được ý nghĩa của một điều.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "hiểu",
+        "id": "sns.sa.vi.understand.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.understand.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To know what something means.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "To grasp the meaning of something.",
+        "id": "sns.sa.en.understand-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.understand.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

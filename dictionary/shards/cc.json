@@ -1,0 +1,663 @@
+{
+  "records": {
+    "cc29139f433c8408d174b1a98fe78074738182c00c808d7ca0c2c4b4a5ebf596": [
+      {
+        "forms": [
+          "Electronic stability control",
+          "stability_control"
+        ],
+        "id": "lex.sa.en.stability.control",
+        "kind": "lexeme",
+        "lemma": "Electronic stability control",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.stability.control.alt"
+        ]
+      },
+      {
+        "definition": "The stability control has a fault, or it has intervened and the car lost grip. Severity level 3 — Warning. Action: Drive carefully and have the system checked..",
+        "gloss": "The stability control has a fault, or it has intervened and the car lost grip.",
+        "id": "sns.sa.en.stability.control.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.stability.control",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "ccb875164bc177cf632cbd4fb69a7a910e7ccca445ae6225d9df9ecb326a31b9": [
+      {
+        "forms": [
+          "Output tokens",
+          "output_tokens"
+        ],
+        "id": "lex.sa.technology.output_tokens",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Output tokens",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.output_tokens.alt",
+          "sns.sa.technology.output_tokens.alt.ja",
+          "sns.sa.technology.output_tokens.alt.ko",
+          "sns.sa.technology.output_tokens.alt.pt_br",
+          "sns.sa.technology.output_tokens.alt.id",
+          "sns.sa.technology.output_tokens.alt.th",
+          "sns.sa.technology.output_tokens.alt.tr"
+        ]
+      },
+      {
+        "definition": "The tokens the model generates, counted and billed on the way out. Long answers cost more than short ones.",
+        "exampleIds": [
+          "exm.sa.technology.output_tokens.1.1"
+        ],
+        "gloss": "The tokens the model generates, counted and billed on the way out. Long answers cost more than short ones.",
+        "id": "sns.sa.technology.output_tokens.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.output_tokens",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "生成された出力を分割した単位で、出力時に数えられ、料金にも反映される。回答が長いほど数が多くなる。",
+        "exampleIds": [
+          "exm.sa.technology.output_tokens.1.1.ja"
+        ],
+        "gloss": "モデルが回答として生成するトークン。",
+        "id": "sns.sa.technology.output_tokens.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.output_tokens",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "모델이 답을 생성하면서 만들어 낸 토큰의 총수이다. 입력 토큰과 별도로 계산되며, 출력이 길수록 일반적으로 비용이 더 많이 든다.",
+        "exampleIds": [
+          "exm.sa.technology.output_tokens.1.1.ko"
+        ],
+        "gloss": "모델이 생성하여 내보내는 토큰의 수로, 출력 과정에 따라 계산되고 과금된다.",
+        "id": "sns.sa.technology.output_tokens.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.output_tokens",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Unidades de texto produzidas por um modelo de linguagem e cobradas quando a resposta é gerada. Respostas mais longas normalmente exigem mais tokens de saída.",
+        "exampleIds": [
+          "exm.sa.technology.output_tokens.1.1.pt_br"
+        ],
+        "gloss": "São os tokens gerados pelo modelo e contabilizados na saída.",
+        "id": "sns.sa.technology.output_tokens.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.output_tokens",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Unit teks yang dihasilkan model, yang kemudian dihitung dan dibebankan biaya. Jawaban yang lebih panjang umumnya membutuhkan lebih banyak token dan biaya.",
+        "exampleIds": [
+          "exm.sa.technology.output_tokens.1.1.id"
+        ],
+        "gloss": "Token keluaran yang dihasilkan oleh model.",
+        "id": "sns.sa.technology.output_tokens.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.output_tokens",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หน่วยข้อความที่โมเดลสร้างออกมาและนำมานับเพื่อคิดค่าใช้จ่าย คำตอบที่ยาวกว่าจะใช้โทเคนมากกว่าและมีค่าใช้จ่ายสูงกว่า",
+        "exampleIds": [
+          "exm.sa.technology.output_tokens.1.1.th"
+        ],
+        "gloss": "โทเคนผลลัพธ์ที่โมเดลสร้าง ซึ่งมีการนับและคิดค่าใช้จ่ายตามจำนวน",
+        "id": "sns.sa.technology.output_tokens.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.output_tokens",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir dil modelinin yanıt üretirken oluşturduğu jeton sayısı. Uzun yanıtlar daha çok jeton ürettiğinden genellikle daha pahalıdır.",
+        "exampleIds": [
+          "exm.sa.technology.output_tokens.1.1.tr"
+        ],
+        "gloss": "Bir modelin ürettiği ve çıktı maliyeti üzerinden sayılan jetonlar.",
+        "id": "sns.sa.technology.output_tokens.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.output_tokens",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.output_tokens.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Asking for 2,000 words doubles the output cost of asking for 200.",
+        "translation": "2.000 kelime istemek, 200 kelime istemenin çıktı maliyetini iki katına çıkarır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.output_tokens.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Asking for 2,000 words doubles the output cost of asking for 200.",
+        "translation": "การขอคำตอบยาว 2,000 คำทำให้มีโทเคนผลลัพธ์สองเท่าของการขอคำตอบ 200 คำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.output_tokens.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Asking for 2,000 words doubles the output cost of asking for 200.",
+        "translation": "Meminta 2.000 kata menghasilkan biaya keluaran dua kali lipat dibandingkan meminta 200 kata.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.output_tokens.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Asking for 2,000 words doubles the output cost of asking for 200.",
+        "translation": "Pedir 2 mil palavras dobra o custo de saída em relação a pedir 200.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.output_tokens.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Asking for 2,000 words doubles the output cost of asking for 200.",
+        "translation": "2,000개의 출력 토큰을 요청하면 200개를 요청했을 때보다 출력 비용이 두 배로 오른다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.output_tokens.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Asking for 2,000 words doubles the output cost of asking for 200.",
+        "translation": "2000語を求める場合，200語を求める場合の2倍の出力費用がかかります。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.output_tokens.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Asking for 2,000 words doubles the output cost of asking for 200.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ccc0e8da6b80e08e80d75a89afe11e8f2d5cd0f29a10f782104ca5f2648e8903": [
+      {
+        "forms": [
+          "written"
+        ],
+        "id": "lex.sa.en.written.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "written",
+        "pos": "adjective",
+        "pronunciationIds": [
+          "prn.sa.en.written.adjective",
+          "prn.sa.en.written.adjective.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.written.adjective.1",
+          "sns.sa.en.written-adjective.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.written-adjective",
+        "id": "prn.sa.en.written.adjective",
+        "ipa": "/ˈrɪtn/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.written.adjective.us",
+        "ipa": "/ˈrɪt.ən/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Được ghi lại bằng chữ hoặc ký hiệu.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.written.adjective.1.1",
+          "exm.sa.en.written-adjective.more.01",
+          "exm.sa.en.written-adjective.more.02"
+        ],
+        "gloss": "được viết",
+        "id": "sns.sa.vi.written.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.written.adjective",
+        "pos": "adjective",
+        "resourceIds": [
+          "res.sa.img.written-adjective",
+          "res.sa.aud.written-adjective",
+          "res.sa.lnk.written-adjective",
+          "res.sa.vid.written-adjective"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Put into a standard symbolic form.",
+        "exampleIds": [
+          "exm.sa.en.written.adjective.1.1"
+        ],
+        "gloss": "Put into a standard symbolic form.",
+        "id": "sns.sa.en.written-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.written.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.written.adjective.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A linear equation can be written as ax + b = 0.",
+        "translation": "Phương trình tuyến tính có thể viết ax + b = 0.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.written-adjective",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "written clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.vi.written.adjective.1",
+        "id": "lnk.sa.en.glossary.053",
+        "kind": "relation",
+        "toId": "sns.sa.vi.notation.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "ccec6396f5cde7619eb40b38897f6588e85cbf45bf6b885bffb53a322f5a42ac": [
+      {
+        "forms": [
+          "Role conflict",
+          "gre_role_conflict"
+        ],
+        "id": "lex.sa.social.gre_role_conflict",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Role conflict",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gre_role_conflict.alt",
+          "sns.sa.social.gre_role_conflict.alt.ja",
+          "sns.sa.social.gre_role_conflict.alt.ko",
+          "sns.sa.social.gre_role_conflict.alt.pt_br",
+          "sns.sa.social.gre_role_conflict.alt.id",
+          "sns.sa.social.gre_role_conflict.alt.th",
+          "sns.sa.social.gre_role_conflict.alt.tr"
+        ]
+      },
+      {
+        "definition": "The strain that appears when one person is expected to be two things at once and the two pull in different directions.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_conflict.1.1"
+        ],
+        "gloss": "The strain that appears when one person is expected to be two things at once and the two pull in different directions.",
+        "id": "sns.sa.social.gre_role_conflict.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gre_role_conflict",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一人が二つの役割を同時に期待され、その二つが互いに異なる方向を引く場合に生じる負担や緊張。努力不足とは区別される。",
+        "exampleIds": [
+          "exm.sa.social.gre_role_conflict.1.1.ja"
+        ],
+        "gloss": "二つの役割を同時に求められるときに生じる緊張。",
+        "id": "sns.sa.social.gre_role_conflict.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gre_role_conflict",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "한 사람에게 둘 이상의 역할을 동시에 기대할 때 발생하는 갈등을 말한다. 둘 중 하나를 선택하면 다른 기대를 어기게 되는 경우가 많다.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_conflict.1.1.ko"
+        ],
+        "gloss": "한 사람에게 요구되는 두 역할이 서로 다른 방향으로 당기는 긴장.",
+        "id": "sns.sa.social.gre_role_conflict.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gre_role_conflict",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Situação em que as responsabilidades de um papel entram em conflito com as de outro. O problema está nas expectativas incompatíveis, e não necessariamente na capacidade ou no esforço da pessoa.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_conflict.1.1.pt_br"
+        ],
+        "gloss": "Tensão entre exigências de papéis diferentes esperados para a mesma pessoa.",
+        "id": "sns.sa.social.gre_role_conflict.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gre_role_conflict",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tekanan yang muncul ketika seseorang diharapkan menjalankan dua peran sekaligus, sedangkan tuntutan kedua peran itu saling bertentangan. Ketegangan ini tidak selalu menunjukkan kegagalan.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_conflict.1.1.id"
+        ],
+        "gloss": "Ketegangan ketika satu orang harus menjalankan dua peran dengan tuntutan yang bertentangan.",
+        "id": "sns.sa.social.gre_role_conflict.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gre_role_conflict",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แรงตึงเครียดที่เกิดจากการมีบทบาทขัดกัน เช่น เมื่อคนหนึ่งต้องทำหน้าที่ของสองตำแหน่งที่ต้องการงานและเวลาคนละแบบ คำนี้ไม่ได้หมายถึงความล้มเหลวของบุคคล แต่เป็นปัญหาจากการจัดงาน",
+        "exampleIds": [
+          "exm.sa.social.gre_role_conflict.1.1.th"
+        ],
+        "gloss": "ความตึงเครียดที่เกิดเมื่อคนหนึ่งถูกคาดหวังให้เป็นสองอย่างพร้อมกันและทั้งสองอย่างดึงไปคนละทาง",
+        "id": "sns.sa.social.gre_role_conflict.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gre_role_conflict",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Aynı kişiden aynı anda beklenen iki görevin farklı yönlere çekmesi sonucu ortaya çıkan uyumsuzluk ve stres. Kişinin çabasının yetersizliğinden değil, rollerin çatışmasından kaynaklanır.",
+        "exampleIds": [
+          "exm.sa.social.gre_role_conflict.1.1.tr"
+        ],
+        "gloss": "Bir kişinin birbiriyle çelişen iki rol beklentisi arasında yaşadığı gerilim.",
+        "id": "sns.sa.social.gre_role_conflict.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gre_role_conflict",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gre_role_conflict.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Rol çatışması bir çaba eksikliği değildi; aynı haftaya iki iş verilmişti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gre_role_conflict.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความขัดกันของบทบาทไม่ใช่ความล้มเหลวในการพยายาม แต่เกิดจากการมอบงานสองงานให้คนเดียวในสัปดาห์เดียว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gre_role_conflict.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Konflik peran itu bukan kegagalan; dua pekerjaan yang berat ditugaskan dalam minggu yang sama.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gre_role_conflict.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ElaLiving um conflito de papéis por ter de cuidar da família e trabalhar em dois turnos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gre_role_conflict.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 역할 충돌은 노력 부족이 아니라 한 주에 두 일을 떠안은 데서 비롯되었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gre_role_conflict.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "役割の衝突は努力の不足ではなかった。二つの仕事が同じ一週に与えられていただけだ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gre_role_conflict.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The role conflict was not a failure of effort; two jobs had been given to one week.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ccfb43a24aee8de7e1d03b8d0ff023976eb2ce4e7bcb0fd55dcc3f204c449f79": [
+      {
+        "forms": [
+          "Reverse victim and offender",
+          "gd_reverse"
+        ],
+        "id": "lex.sa.mind.gd_reverse",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Reverse victim and offender",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.gd_reverse.alt",
+          "sns.sa.mind.gd_reverse.alt.ja",
+          "sns.sa.mind.gd_reverse.alt.ko",
+          "sns.sa.mind.gd_reverse.alt.pt_br",
+          "sns.sa.mind.gd_reverse.alt.id",
+          "sns.sa.mind.gd_reverse.alt.th",
+          "sns.sa.mind.gd_reverse.alt.tr"
+        ]
+      },
+      {
+        "definition": "The move that puts the two sides in the wrong places, crediting the harm to the person who suffered it.",
+        "exampleIds": [
+          "exm.sa.mind.gd_reverse.1.1"
+        ],
+        "gloss": "The move that puts the two sides in the wrong places, crediting the harm to the person who suffered it.",
+        "id": "sns.sa.mind.gd_reverse.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.gd_reverse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "加害者だった人物を被害者に見立て、被害を受けた人物に害boxing Plains加えたりの役割を帰すことを指す。責任の所在を逆転させる手法である。",
+        "exampleIds": [
+          "exm.sa.mind.gd_reverse.1.1.ja"
+        ],
+        "gloss": "加害者と被害者の立場を入れ替える操作。",
+        "id": "sns.sa.mind.gd_reverse.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.gd_reverse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "원래 가해자가 저지은 행위를 피해자의 잘못인 것처럼 뒤집어, 피해자를 가해자처럼 보이게 만드는 수법이다.",
+        "exampleIds": [
+          "exm.sa.mind.gd_reverse.1.1.ko"
+        ],
+        "gloss": "가해자와 피해자의 역할을 뒤바꾸어, 발생한 피해를 피해자에게 돌리는 수법이다.",
+        "id": "sns.sa.mind.gd_reverse.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.gd_reverse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Manobra que inverte as posições de vítima e agressor, fazendo com que o dano seja atribuído à pessoa que o sofreu.",
+        "exampleIds": [
+          "exm.sa.mind.gd_reverse.1.1.pt_br"
+        ],
+        "gloss": "Troca de papéis que atribui o dano a quem sofreu a ofensa.",
+        "id": "sns.sa.mind.gd_reverse.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.gd_reverse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gerakan yang menukar tempat kedua pihak, sehingga kesalahan dianggap sebagai kesalahan orang yang mengalaminya. Dengan begitu pihak yang merugikan terlihat sebagai pihak yang dirugikan.",
+        "exampleIds": [
+          "exm.sa.mind.gd_reverse.1.1.id"
+        ],
+        "gloss": "Gerakan yang menukar tempat kedua pihak, sehingga kesalahan dianggap sebagai kesalahan orang yang mengalaminya.",
+        "id": "sns.sa.mind.gd_reverse.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.gd_reverse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การจัดวางให้ผู้ที่ได้รับความเสียหายดูเหมือนเป็นผู้ก่อความเสียหาย และย้ายความผิดให้ไปตกอยู่กับผู้ที่เสียหาย",
+        "exampleIds": [
+          "exm.sa.mind.gd_reverse.1.1.th"
+        ],
+        "gloss": "การสลับตำแหน่งผู้เสียหายกับผู้ก่อความเสียหาย",
+        "id": "sns.sa.mind.gd_reverse.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.gd_reverse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Fail ile mağdurun rollerini tersine çeviren girişim. Bu girişimde zarar veren kişi zarardan kurtulurken, zararı yaşayan kişi suçluymuş gibi gösterilir.",
+        "exampleIds": [
+          "exm.sa.mind.gd_reverse.1.1.tr"
+        ],
+        "gloss": "İki tarafın yerlerini değiştirerek zararı onu yaşayan kişiye yüklemek.",
+        "id": "sns.sa.mind.gd_reverse.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.gd_reverse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.gd_reverse.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu yer değiştirme, zararı çıkaran kişiyi zararı çeken kişinin yerine koydu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.gd_reverse.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การสลับบทนี้ทำให้ผู้ที่ก่อความเสียหายยืนอยู่ในตำแหน่งของผู้เสียหาย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.gd_reverse.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pertukaran itu menempatkan orang yang menyebabkan kerugian pada tempat orang yang mengalaminya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.gd_reverse.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A inversão colocou a pessoa que causou o dano no lugar de quem sofreu a ofensa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.gd_reverse.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 가해자·피해자 뒤바꾸기 때문에 피해를 입은 사람이 가해자의 자리를 차지했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.gd_reverse.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その逆転によって、被害を受けた人物に加害の責任が帰された。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.gd_reverse.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The reversal put the person who caused the harm in the place of the person who suffered it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

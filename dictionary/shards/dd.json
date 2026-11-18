@@ -1,0 +1,1218 @@
+{
+  "records": {
+    "dd063e9351c1ddd3c615c178c242fa4b55fdaae6588856bc4abe84fcbc504ea2": [
+      {
+        "forms": [
+          "Engine coolant temperature",
+          "coolant_temperature"
+        ],
+        "id": "lex.sa.en.coolant.temperature",
+        "kind": "lexeme",
+        "lemma": "Engine coolant temperature",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.coolant.temperature.alt"
+        ]
+      },
+      {
+        "definition": "The engine is overheating. Running it hot can warp the head and damage the engine. Severity level 4 — Critical / Immediate action. Action: Stop in a safe place, let the engine cool, and check the coolant level. Do not open a hot cooling system..",
+        "gloss": "The engine is overheating. Running it hot can warp the head and damage the engine.",
+        "id": "sns.sa.en.coolant.temperature.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.coolant.temperature",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "dd1b3c312cf7d816130354452e9629ce39355b0c534129dd26a08cd9a4502ede": [
+      {
+        "forms": [
+          "claim",
+          "claims"
+        ],
+        "id": "lex.sa.en.claim.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "claim",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.claim.noun",
+          "prn.sa.en.claim.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.claim.noun.1",
+          "sns.sa.en.claim-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.claim-noun",
+        "id": "prn.sa.en.claim.noun",
+        "ipa": "/kleɪm/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.claim.noun.us",
+        "ipa": "/kleɪm/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Điều được nói là đúng, cần kiểm chứng.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.claim.noun.1.1",
+          "exm.sa.en.claim-noun.more.01",
+          "exm.sa.en.claim-noun.more.02"
+        ],
+        "gloss": "khẳng định",
+        "id": "sns.sa.vi.claim.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.claim.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.claim-noun",
+          "res.sa.aud.claim-noun",
+          "res.sa.lnk.claim-noun",
+          "res.sa.vid.claim-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "A sentence that is true or false. Each algebra line is a claim.",
+        "exampleIds": [
+          "exm.sa.en.claim.noun.1.1"
+        ],
+        "gloss": "A sentence that is true or false. Each algebra line is a claim.",
+        "id": "sns.sa.en.claim-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.claim.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.claim.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The claim that x = 4 is true if both sides match.",
+        "translation": "Khẳng định x = 4 đúng nếu hai vế khớp.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.claim.noun.1",
+        "id": "lnk.sa.en.glossary.064",
+        "kind": "relation",
+        "toId": "sns.sa.vi.check.verb.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.claim.noun.1",
+        "id": "lnk.sa.en.glossary.065",
+        "kind": "relation",
+        "toId": "sns.sa.vi.false.adjective.1",
+        "type": "related_to"
+      },
+      {
+        "forms": [
+          "claim",
+          "claims",
+          "claimed",
+          "claiming"
+        ],
+        "id": "lex.sa.en.claim.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "claim",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.claim.verb",
+          "prn.sa.en.claim.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.claim.verb.1",
+          "sns.sa.en.claim-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.claim-verb",
+        "id": "prn.sa.en.claim.verb",
+        "ipa": "/kleɪm/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.claim.verb.us",
+        "ipa": "/kleɪm/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Nói rằng điều gì đó đúng.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.claim.verb.1.1",
+          "exm.sa.en.claim-verb.more.01",
+          "exm.sa.en.claim-verb.more.02"
+        ],
+        "gloss": "khẳng định (động từ)",
+        "id": "sns.sa.vi.claim.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.claim.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.claim-verb",
+          "res.sa.aud.claim-verb",
+          "res.sa.lnk.claim-verb",
+          "res.sa.vid.claim-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "To state that something is true.",
+        "exampleIds": [
+          "exm.sa.en.claim.verb.1.1"
+        ],
+        "gloss": "To state that something is true.",
+        "id": "sns.sa.en.claim-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.claim.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.claim.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "They claim the solution is unique.",
+        "translation": "Họ khẳng định nghiệm là duy nhất.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "dd1b94e8ea10e5089b2cbae1a4281918b4760757b2adb75c49db8b91b77ca46a": [
+      {
+        "forms": [
+          "Spatial reasoning",
+          "intel_spatial_reasoning"
+        ],
+        "id": "lex.sa.mind.intel_spatial_reasoning",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Spatial reasoning",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intel_spatial_reasoning.alt",
+          "sns.sa.mind.intel_spatial_reasoning.alt.ko",
+          "sns.sa.mind.intel_spatial_reasoning.alt.pt_br",
+          "sns.sa.mind.intel_spatial_reasoning.alt.id",
+          "sns.sa.mind.intel_spatial_reasoning.alt.th",
+          "sns.sa.mind.intel_spatial_reasoning.alt.tr",
+          "sns.sa.mind.intel_spatial_reasoning.alt.ja"
+        ]
+      },
+      {
+        "definition": "The ability to handle shapes, positions and how parts fit together.",
+        "exampleIds": [
+          "exm.sa.mind.intel_spatial_reasoning.1.1"
+        ],
+        "gloss": "The ability to handle shapes, positions and how parts fit together.",
+        "id": "sns.sa.mind.intel_spatial_reasoning.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intel_spatial_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "도형과 공간상의 위치를 이해하고, 여러 부분이 서로 어떻게 맞물리는지 판단하는 능력이다. 그림이나 실제 물체를 다루는 문제에서 중요하다.",
+        "exampleIds": [
+          "exm.sa.mind.intel_spatial_reasoning.1.1.ko"
+        ],
+        "gloss": "형태, 위치, 부분들이 어떻게 맞물리는지를 다루는 능력이다.",
+        "id": "sns.sa.mind.intel_spatial_reasoning.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intel_spatial_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Capacidade de compreender a disposição de objetos, suas formas e relações espaciais. É usada, por exemplo, para interpretar desenhos técnicos ou resolver problemas de montagem.",
+        "exampleIds": [
+          "exm.sa.mind.intel_spatial_reasoning.1.1.pt_br"
+        ],
+        "gloss": "Capacidade de lidar com formas, posições e a maneira como as partes se encaixam.",
+        "id": "sns.sa.mind.intel_spatial_reasoning.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intel_spatial_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kemampuan menangani bentuk, posisi, dan hubungan antarkomponen. Kemampuan ini membantu memahami denah, merakit objek, dan membayangkan perubahan ruang.",
+        "exampleIds": [
+          "exm.sa.mind.intel_spatial_reasoning.1.1.id"
+        ],
+        "gloss": "Kemampuan menangani bentuk, posisi, dan hubungan antarkomponen.",
+        "id": "sns.sa.mind.intel_spatial_reasoning.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intel_spatial_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสามารถในการจัดการรูปร่าง ตำแหน่ง และความสัมพันธ์ของส่วนต่าง ๆ ใช้เมื่อต้องอธิบายภาพ ตีความแผนผัง หรือมองว่าชิ้นส่วนประกอบกันอย่างไร",
+        "exampleIds": [
+          "exm.sa.mind.intel_spatial_reasoning.1.1.th"
+        ],
+        "gloss": "ความสามารถในการจัดการรูปร่าง ตำแหน่ง และความสัมพันธ์ของส่วนต่าง ๆ",
+        "id": "sns.sa.mind.intel_spatial_reasoning.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intel_spatial_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Şekilleri ve nesnelerin konumlarını anlama, parçaların bir arada nasıl durduğunu ve birbirine nasıl uyduğunu düşünme yeteneği.",
+        "exampleIds": [
+          "exm.sa.mind.intel_spatial_reasoning.1.1.tr"
+        ],
+        "gloss": "Şekilleri, konumları ve parçaların birbirine uyumunu kavrama yeteneği.",
+        "id": "sns.sa.mind.intel_spatial_reasoning.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intel_spatial_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "図形や空間の位置，方向，構成物の配置を扱う能力。物体を回転させたり，図から全体の構造を想像したりするときに使われる。",
+        "exampleIds": [
+          "exm.sa.mind.intel_spatial_reasoning.1.1.ja"
+        ],
+        "gloss": "形，位置，部分がどう組み合わさっているかを扱う能力。",
+        "id": "sns.sa.mind.intel_spatial_reasoning.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intel_spatial_reasoning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intel_spatial_reasoning.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "空間処理能力によって，彼は配管図から漏れの位置を特定できた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intel_spatial_reasoning.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tesisat çiziminden sızıntı yerini bulmasını sağlayan şey mekânsal akıl yürütme oldu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intel_spatial_reasoning.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความสามารถเชิงพื้นที่ช่วยให้เขาหารอ่อนจากแผนผังระบบท่อ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intel_spatial_reasoning.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Penalaran spasial memungkinkan dia menemukan kebocoran dari gambar sistem pipa.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intel_spatial_reasoning.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O raciocínio espacial foi o que lhe permitiu encontrar o vazamento a partir do desenho da tubulação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intel_spatial_reasoning.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "배관 도면에서 누수 지점을 찾는 데 공간적 추론 능력이 도움이 되었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intel_spatial_reasoning.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Spatial reasoning is what let him find the leak from a drawing of the pipework.",
+        "translation": "Tư duy không gian giúp anh tìm ra chỗ rò rỉ từ bản vẽ đường ống.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "dd37c2d7274f7ea982cb83390c36918fee9ce8889073c44b68cdc00bdb8c3e04": [
+      {
+        "forms": [
+          "apk"
+        ],
+        "id": "lex.sa.en.apk.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "apk",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.apk.noun.1",
+          "sns.sa.en.apk-noun.alt"
+        ]
+      },
+      {
+        "definition": "Tệp cài đặt của một ứng dụng Android.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "APK",
+        "id": "sns.sa.vi.apk.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.apk.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The package file that installs an Android app.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "The installation file of an Android app.",
+        "id": "sns.sa.en.apk-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.apk.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "dd523503463fecf34a95c42a566eaadb29c512d773afd9f566522242336c7fba": [
+      {
+        "forms": [
+          "charge",
+          "charges",
+          "charged",
+          "charging"
+        ],
+        "id": "lex.sa.en.charge.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "charge",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.charge.verb.gb",
+          "prn.sa.en.charge.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.charge.verb.elec",
+          "sns.sa.en.charge-verb.alt"
+        ]
+      },
+      {
+        "definition": "Đưa điện tích vào pin hoặc tụ.",
+        "domain": [
+          "electrical"
+        ],
+        "exampleIds": [
+          "exm.sa.en.charge.verb.01",
+          "exm.sa.en.charge-verb.more.01",
+          "exm.sa.en.charge-verb.more.02"
+        ],
+        "gloss": "sạc",
+        "id": "sns.sa.en.charge.verb.elec",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.charge.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.charge-verb",
+          "res.sa.aud.charge-verb",
+          "res.sa.lnk.charge-verb",
+          "res.sa.vid.charge-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To put electrical energy into a battery.",
+        "exampleIds": [
+          "exm.sa.en.charge.verb.01"
+        ],
+        "gloss": "To put electrical energy into a battery.",
+        "id": "sns.sa.en.charge-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.charge.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.charge.verb.gb",
+        "ipa": "/tʃɑːdʒ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.charge.verb.us",
+        "ipa": "/tʃɑrdʒ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.charge.verb.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Charge the battery before the test.",
+        "translation": "Sạc ắc quy trước khi thử.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "dd71a72d9fe3cbd213c15afe0343fcc16418612785e78f9ccaa7e4ea2d849bfd": [
+      {
+        "forms": [
+          "grounding",
+          "er_grounding"
+        ],
+        "id": "lex.sa.social.er_grounding",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "grounding",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.er_grounding.alt",
+          "sns.sa.social.er_grounding.alt.ja",
+          "sns.sa.social.er_grounding.alt.ko",
+          "sns.sa.social.er_grounding.alt.pt_br",
+          "sns.sa.social.er_grounding.alt.id",
+          "sns.sa.social.er_grounding.alt.th",
+          "sns.sa.social.er_grounding.alt.tr"
+        ]
+      },
+      {
+        "definition": "A deliberate act of bringing the body back to a calm state before you act on a strong feeling.",
+        "exampleIds": [
+          "exm.sa.social.er_grounding.1.1"
+        ],
+        "gloss": "A deliberate act of bringing the body back to a calm state before you act on a strong feeling.",
+        "id": "sns.sa.social.er_grounding.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.er_grounding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "強い感情を助学 before 行動する前に、意識を呼吸や身体的感觉に戻して平静な状態 deliberately 取り戻す行為。稳定的で专心な状態を作るために用いる。",
+        "exampleIds": [
+          "exm.sa.social.er_grounding.1.1.ja"
+        ],
+        "gloss": "強い感情に.eclipse before 平静な状態へ戻ること。",
+        "id": "sns.sa.social.er_grounding.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.er_grounding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "안정감 회복이란 강한 감정으로 인한 신체적 각성을 낮추고 현재의 환경에 다시 주목하는 의도적인 과정이다. 감정을 없애는 것이 아니라, 행동을 선택할 수 있는 평온한 상태를 만드는 데 목적이 있다.",
+        "exampleIds": [
+          "exm.sa.social.er_grounding.1.1.ko"
+        ],
+        "gloss": "강한 감정을 다루기 전에 몸을 차분한 상태로 돌려놓는 의도적 행동.",
+        "id": "sns.sa.social.er_grounding.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.er_grounding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Prática consciente usada para criar uma pausa, reduzir a intensidade emocional e recuperar o controle do corpo antes de responder ou tomar uma decisão.",
+        "exampleIds": [
+          "exm.sa.social.er_grounding.1.1.pt_br"
+        ],
+        "gloss": "Uma ação deliberada para acalmar o corpo antes de agir diante de um sentimento forte.",
+        "id": "sns.sa.social.er_grounding.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.er_grounding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Penenang tubuh adalah.upconscious usaha mengurangi ACTIVITY fisik dan brings DARED kembali ke keadaan seimbang. Tindakan ini memberikan ruang untuk memilih respons yang tidak sepenuhnya didorong oleh emosi sesaat.",
+        "exampleIds": [
+          "exm.sa.social.er_grounding.1.1.id"
+        ],
+        "gloss": "Tindakan sadar untuk menenangkan tubuh sebelum bertindak berdasarkan emosi yang kuat.",
+        "id": "sns.sa.social.er_grounding.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.er_grounding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การชะลอและปรับตัวอย่างตั้งใจเพื่อคลายความตื่นเต้นหรือความเครียด ก่อนคิดหรือลงมือทำสิ่งที่รู้สึกแรง",
+        "exampleIds": [
+          "exm.sa.social.er_grounding.1.1.th"
+        ],
+        "gloss": "การดึงร่างกายกลับมาอยู่ในสภาวะสงบก่อนลงมือทำสิ่งที่รู้สึกแรง",
+        "id": "sns.sa.social.er_grounding.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.er_grounding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Duygusal tepkiyi bastırmadan önce bedeni ve dikkati bilinçli biçimde sakin bir duruma getirmektir. Sadece sorunu düşünmekten vazgeçmek anlamına gelmez.",
+        "exampleIds": [
+          "exm.sa.social.er_grounding.1.1.tr"
+        ],
+        "gloss": "Güçlü bir duygu karşısında bedeni bilinçli biçimde sakinleştirme.",
+        "id": "sns.sa.social.er_grounding.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.er_grounding",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.er_grounding.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sakinleşme, ona cevap vermeden önce ihtiyaç duyduğu duraklamayı sağladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.er_grounding.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การปรับตัวให้สงบช่วยให้เธอมีเวลาหยุดคิดก่อนตอบเขา",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.er_grounding.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Penenang tubuh memberinya jeda yang dibutuhkan sebelum menjawabnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.er_grounding.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O aterramento lhe deu a pausa de que precisava antes de responder a ele.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.er_grounding.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "안정감 회복을 통해 그녀는 그에게 대답하기 전에 잠시 멈출 수 있었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.er_grounding.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "グラウンディングによって、彼女は返答する前に必要な間を取れた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.er_grounding.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Grounding gave her the pause she needed before she answered him.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "dd8ff21bb4466737cd09e1c82816cc2d817e9d565711c25d2b039d3c576d0909": [
+      {
+        "forms": [
+          "Expiry date",
+          "expiry_date"
+        ],
+        "id": "lex.sa.health.expiry_date",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Expiry date",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.expiry_date.alt",
+          "sns.sa.health.expiry_date.alt.ja",
+          "sns.sa.health.expiry_date.alt.ko",
+          "sns.sa.health.expiry_date.alt.pt_br",
+          "sns.sa.health.expiry_date.alt.id",
+          "sns.sa.health.expiry_date.alt.th",
+          "sns.sa.health.expiry_date.alt.tr"
+        ]
+      },
+      {
+        "definition": "The last date on which the maker guarantees the medicine keeps its strength and its safety.",
+        "exampleIds": [
+          "exm.sa.health.expiry_date.1.1"
+        ],
+        "gloss": "The last date on which the maker guarantees the medicine keeps its strength and its safety.",
+        "id": "sns.sa.health.expiry_date.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.expiry_date",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "製造元が、薬の効果と安全性が保たれると保証している最後の日です。",
+        "exampleIds": [
+          "exm.sa.health.expiry_date.1.1.ja"
+        ],
+        "gloss": "製造者が薬の有効性と安全性を保証する最終日。",
+        "id": "sns.sa.health.expiry_date.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.expiry_date",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "제조사가 의약품이 예정된 효력과 안전성을 유지한다고 보장하는 마지막 날짜이다. 반드시 먹을 수 있는 날짜를 뜻하지는 않으며, 날짜가 지난 약은 사용하지 않는 것이 좋다.",
+        "exampleIds": [
+          "exm.sa.health.expiry_date.1.1.ko"
+        ],
+        "gloss": "제조사가 약의 효력과 안전성을 보장하는 마지막 날짜.",
+        "id": "sns.sa.health.expiry_date.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.expiry_date",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Data indicada no medicamento a partir da qual ele não deve mais ser usado. Verificar essa data é importante para garantir a segurança do tratamento.",
+        "exampleIds": [
+          "exm.sa.health.expiry_date.1.1.pt_br"
+        ],
+        "gloss": "Último dia em que o fabricante garante que o medicamento mantém sua eficácia e segurança.",
+        "id": "sns.sa.health.expiry_date.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.expiry_date",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tanggal yang menunjukkan batas waktu producer menjaminFarmasi menyatakan obat masih memiliki kekuatan dan keamanannya. Tanggal ini tidak selalu berarti obat langsung rusak setelahnya.",
+        "exampleIds": [
+          "exm.sa.health.expiry_date.1.1.id"
+        ],
+        "gloss": "Tanggal terakhir ketika obat dijamin masih berkhasiat dan aman.",
+        "id": "sns.sa.health.expiry_date.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.expiry_date",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "วันที่ระบุไว้บนภาชนะยาเพื่อแสดงว่าเป็นวันสุดท้ายที่ผู้ผลิตรับประกันว่ายามีความแรงและปลอดภัย",
+        "exampleIds": [
+          "exm.sa.health.expiry_date.1.1.th"
+        ],
+        "gloss": "วันสุดท้ายที่ยายังคงมีความแรงและปลอดภัยตามการรับประกันของผู้ผลิต",
+        "id": "sns.sa.health.expiry_date.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.expiry_date",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir ilacın etkinliğini ve güvenliğini üretici tarafından garanti edilen son kullanma tarihi; bu tarihten sonra kullanılmaması gerekir.",
+        "exampleIds": [
+          "exm.sa.health.expiry_date.1.1.tr"
+        ],
+        "gloss": "İlacın güvenli ve etkili olacağını üreticinin garanti ettiği son tarih.",
+        "id": "sns.sa.health.expiry_date.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.expiry_date",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.expiry_date.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The expiry date is on the strip, so I checked the one on the box too.",
+        "translation": "Son kullanma tarihi şerit üzerinde yazıyordu, bu yüzden kutu üzerindekini de kontrol ettim.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.expiry_date.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The expiry date is on the strip, so I checked the one on the box too.",
+        "translation": "วันสิ้นอายุของยาอยู่บนแถบ ฉันจึงตรวจที่กล่องยาด้วย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.expiry_date.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The expiry date is on the strip, so I checked the one on the box too.",
+        "translation": "Tanggal kedaluwarsa tertera pada strip obat, jadi saya juga memeriksa yang di kotak.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.expiry_date.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The expiry date is on the strip, so I checked the one on the box too.",
+        "translation": "A data de validade está na cartela, por isso também conferi a que estava na caixa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.expiry_date.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The expiry date is on the strip, so I checked the one on the box too.",
+        "translation": "유효기간은 약판에 적혀 있어서 상자에도 적힌 날짜를 확인했습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.expiry_date.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The expiry date is on the strip, so I checked the one on the box too.",
+        "translation": "使用期限は薬rist strip に記載されていたので、箱の記載も確認しました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.expiry_date.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The expiry date is on the strip, so I checked the one on the box too.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "dda4a02c57a2c20bad4277590ab32c7844ab1610a6c4f591d6f89cce9a68689e": [
+      {
+        "forms": [
+          "Veterinary doctor (vet)",
+          "vet"
+        ],
+        "id": "lex.sa.kids_animals.vet",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Veterinary doctor (vet)",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_animals.vet.alt",
+          "sns.sa.kids_animals.vet.alt.ja",
+          "sns.sa.kids_animals.vet.alt.ko",
+          "sns.sa.kids_animals.vet.alt.pt_br",
+          "sns.sa.kids_animals.vet.alt.id",
+          "sns.sa.kids_animals.vet.alt.th",
+          "sns.sa.kids_animals.vet.alt.tr"
+        ]
+      },
+      {
+        "definition": "A person whose job is to treat sick animals and to help keep them healthy.",
+        "exampleIds": [
+          "exm.sa.kids_animals.vet.1.1"
+        ],
+        "gloss": "A person whose job is to treat sick animals and to help keep them healthy.",
+        "id": "sns.sa.kids_animals.vet.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_animals.vet",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "動物の病気やけがを治療し、健康的管理をする医者。人間を診察する医者とは違う。",
+        "exampleIds": [
+          "exm.sa.kids_animals.vet.1.1.ja"
+        ],
+        "gloss": "動物の病気を治療し、健康を守る仕事をする人。",
+        "id": "sns.sa.kids_animals.vet.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_animals.vet",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "동물 의학을 전문으로 하여 sick animals을 치료하고,ucky them을 건강하게 돌보는 일을 하는 사람이다.",
+        "exampleIds": [
+          "exm.sa.kids_animals.vet.1.1.ko"
+        ],
+        "gloss": "병들 동물을 치료하고 건강을 돌보는 사람.",
+        "id": "sns.sa.kids_animals.vet.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_animals.vet",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Médico responsável por diagnosticar e tratar doenças de animais. Também orienta seus donos sobre a prevenção de problemas de saúde.",
+        "exampleIds": [
+          "exm.sa.kids_animals.vet.1.1.pt_br"
+        ],
+        "gloss": "Profissional que trata animais doentes e ajuda a mantê-los saudáveis.",
+        "id": "sns.sa.kids_animals.vet.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_animals.vet",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dokter hewan yang memeriksa, merawat, dan mencegah penyakit pada hewan. Kata ini biasanya disingkat dengan \"vet\".",
+        "exampleIds": [
+          "exm.sa.kids_animals.vet.1.1.id"
+        ],
+        "gloss": "Orang yang tugasnya untreated hewan sakit dan menjaga kesehatannya.",
+        "id": "sns.sa.kids_animals.vet.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_animals.vet",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "บุคคลที่มีหน้าที่รักษาสัตว์ป่วยและช่วยดูแลสุขภาพของสัตว์",
+        "exampleIds": [
+          "exm.sa.kids_animals.vet.1.1.th"
+        ],
+        "gloss": "ผู้ที่รักษาสัตว์ป่วยและช่วยดูแลสุขภาพสัตว์",
+        "id": "sns.sa.kids_animals.vet.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_animals.vet",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sick hayvanları tedavi eden ve onların sağlığını korumakla görevli kişi. İnsanların doktoruna karşılık gelir.",
+        "exampleIds": [
+          "exm.sa.kids_animals.vet.1.1.tr"
+        ],
+        "gloss": "Hayvanları tedavi eden ve sağlıklarını korumalarına yardım eden kişi.",
+        "id": "sns.sa.kids_animals.vet.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_animals.vet",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_animals.vet.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The vet says the puppy needs two more injections.",
+        "translation": "Veteriner hekim, köpeğe iki enjeksiyon daha yapılması gerektiğini söylüyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_animals.vet.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The vet says the puppy needs two more injections.",
+        "translation": "สัตวแพทย์บอกว่าลูกสุนัขต้องฉีดยาอีกสองครั้ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_animals.vet.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The vet says the puppy needs two more injections.",
+        "translation": "Dokter hewan mengatakan bahwa anak anjing itu memerlukan dua suntikan lagi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_animals.vet.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The vet says the puppy needs two more injections.",
+        "translation": "O veterinário disse que o filhote precisa de mais duas injeções.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_animals.vet.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The vet says the puppy needs two more injections.",
+        "translation": "수의사는 강아지가 주사를 두 번 더 맞아야 한다고 말했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_animals.vet.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The vet says the puppy needs two more injections.",
+        "translation": "vet はこの子犬にもう二回注射が必要だと言っている。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_animals.vet.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The vet says the puppy needs two more injections.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ddb7a3150a3e0a30c05a3987f12308f0715522af4d6ce9403f0d473736c56a11": [
+      {
+        "forms": [
+          "Generalist",
+          "spec_generalist"
+        ],
+        "id": "lex.sa.mind.spec_generalist",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Generalist",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.spec_generalist.alt",
+          "sns.sa.mind.spec_generalist.alt.ja",
+          "sns.sa.mind.spec_generalist.alt.ko",
+          "sns.sa.mind.spec_generalist.alt.pt_br",
+          "sns.sa.mind.spec_generalist.alt.id",
+          "sns.sa.mind.spec_generalist.alt.th",
+          "sns.sa.mind.spec_generalist.alt.tr"
+        ]
+      },
+      {
+        "definition": "A person who works across several fields and can explain one of them to another.",
+        "exampleIds": [
+          "exm.sa.mind.spec_generalist.1.1"
+        ],
+        "gloss": "A person who works across several fields and can explain one of them to another.",
+        "id": "sns.sa.mind.spec_generalist.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.spec_generalist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "複数の分野 Soul?",
+        "exampleIds": [
+          "exm.sa.mind.spec_generalist.1.1.ja"
+        ],
+        "gloss": "複数の分野 Tracing?",
+        "id": "sns.sa.mind.spec_generalist.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.spec_generalist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "여러 분야에 걸쳐 일하며 한 분야의 내용을 다른 분야에 알기 쉽게 설명할 수 있는 사람이다. 한 분야만 깊이 다루는 전문가와 구별된다.",
+        "exampleIds": [
+          "exm.sa.mind.spec_generalist.1.1.ko"
+        ],
+        "gloss": "여러 분야를 다 다루고 한 분야를 다른 분야에 설명할 수 있는 사람.",
+        "id": "sns.sa.mind.spec_generalist.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.spec_generalist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uma pessoa que atua em várias áreas de conhecimento ou trabalho e consegue fazer a ponte entre elas. Não significa que seja especialista em todas.",
+        "exampleIds": [
+          "exm.sa.mind.spec_generalist.1.1.pt_br"
+        ],
+        "gloss": "Uma pessoa que atua em várias áreas e consegue explicar uma delas a quem trabalha em outra.",
+        "id": "sns.sa.mind.spec_generalist.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.spec_generalist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Orang yang bekerja di beberapa bidang sekaligus dan dapat menjelaskan satu bidang kepada orang lain. Istilah ini menandai orang yang menguasai beberapa bidang sekaligus, berbeda dari orang yang hanya menguasai satu bidang secara mendalam.",
+        "exampleIds": [
+          "exm.sa.mind.spec_generalist.1.1.id"
+        ],
+        "gloss": "Beberapa bidang dikerjakan sekaligus dan satu di antaranya bisa dijelaskan kepada orang lain.",
+        "id": "sns.sa.mind.spec_generalist.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.spec_generalist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ผู้ที่ทำงานหลายสาขาและอธิบายงานระหว่างสาขาได้ มักมีความรู้กว้างแต่ไม่ลึกเท่าผู้เชี่ยวชาญ",
+        "exampleIds": [
+          "exm.sa.mind.spec_generalist.1.1.th"
+        ],
+        "gloss": "ผู้ที่ทำงานหลายสาขาและอธิบายงานระหว่างสาขาได้",
+        "id": "sns.sa.mind.spec_generalist.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.spec_generalist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Birden fazla alanda çalışabilen ve bu alanlar arasında bağlantı kurabilen kişi. Her alanda uzman olmak zorunda değildir.",
+        "exampleIds": [
+          "exm.sa.mind.spec_generalist.1.1.tr"
+        ],
+        "gloss": "Birkaç alanda çalışabilen ve bir alanı başka birine açıklayabilen kişi.",
+        "id": "sns.sa.mind.spec_generalist.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.spec_generalist",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.spec_generalist.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ekipteki genel çalışan, vergi kuralını sade bir dille açıkladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.spec_generalist.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ผู้ทำงานหลายสาขาในทีมอธิบายกฎภาษีให้เป็นถ้อยคำที่เข้าใจง่าย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.spec_generalist.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Orang generalis di tim itu menerjemahkan aturan pajak ke dalam bahasa sehari-hari yang mudah dipahami.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.spec_generalist.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A generalista da equipe traduziu a regra tributária em linguagem simples.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.spec_generalist.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 팀의 종합 전문가는 세금 규칙을 쉬운 말로 옮겨 설명해 주었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.spec_generalist.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "チームの総合職は税の規則を分かりやすい言葉に翻訳した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.spec_generalist.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The generalist on the team translated the tax rule into plain words.",
+        "translation": "Người tổng hợp trong nhóm đã diễn giải quy tắc thuế bằng những lời dễ hiểu.",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

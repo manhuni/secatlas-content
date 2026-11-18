@@ -1,0 +1,79 @@
+{
+  "language": "id",
+  "lessonId": "article_vibe_coding",
+  "objectives": [
+    "Definisikan vibe coding dan jelaskan bagaimana cara ini berbeda dari pemrograman.",
+    "Jelaskan di mana utang teknis terkumpul dalam kode yang dihasilkan oleh AI.",
+    "Jelaskan mengapa kode yang berfungsi tidak sama dengan kode yang dipahami.",
+    "Kenali batasan arsitektural dalam pengembangan berbasis prompt.",
+    "Sebutkan siapa yang bertanggung jawab atas perangkat lunak yang ditulis oleh AI."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Vibe coding adalah praktik membangun software dengan mendeskripsikan apa yang Anda inginkan kepada AI dalam bahasa sehari-hari, menempelkan kode yang dihasilkan, dan menerima hasilnya ketika tampaknya bekerja. Istilah ini spreading pada 2025 ketika alat AI untuk coding menjadi cukup baik sehingga non-programmers dapat menghasilkan aplikasi nyata yang dapat dijalankan.\n\nHasilnya bukan fake. Aplikasi berjalan, demo impress, dan untuk small tools pribadi, metode ini sering merupakan path tercepat dari ide menuju software yang bekerja. Sesuatu yang nyata telah berubah: biaya untuk menghasilkan code telah collapsed, dan bersamanya pula barrier yang dahulu memaksa orang untuk memahami sebuah system sebelum mereka dapat extend.\n\nNamun, code yang berjalan belum tentu code yang dipahami. Sebuah program bukan hanya behavior-nya hari ini; tetapi juga behavior-nya saat menerima bad input, berada di bawah load, diserang, dan setahun dari sekarang ketika platform berubah. Vibe coding optimizes kondisi pertama dan discovers sisanya nanti.",
+      "examples": [
+        "App akhir pekan itu bekerja sempurna dalam demo, tetapi collapsed ketika dua ratus pengguna nyata tiba dengan data nyata."
+      ],
+      "heading": "Software menurut deskripsi"
+    },
+    {
+      "body": "Utang teknis adalah biaya jangka depan dari jalan pintas yang diambil hari ini. Kode yang dihasilkan AI memiliki rasa khusus dari utang teknis: kode yang tidak sepenuhnya dipahami oleh siapa pun — termasuk|authornya.\n\nUtang disembunyikan di tempat tertentu. **Penanganan kesalahan** dibangkitkan dengan polaUNG yang dianggap normal, sehingga kegagalan baru muncul jauh dari penyebabnya. **Penanganan data** memercayai input seperti cara contoh mempercayainya, bukan seperti perilaku dunia nyata. **Dependensi** menumpuk diam-diam: kode yang dihasilkan mengimpor paket yang tidak dipilih siapa pun, masing-masing menjadi buletin keamanan pada masa depan. Dan **arsitektur** direkayasa secara spontan satu prompt demi satu prompt, sehingga sistem menjadi istana tambahan tanpa desain yang benar-benar menopang keseluruhan struktur.\n\nTidak ada dari ini yang membuat kodenya tidak berguna. Yang membuatnya adalah **tidak bernilai**.\n\nBiaya sebenarnya dari sistem yang dibangun dengan *vibe coding* tidak terlihat pada saat rilis; biaya itu muncul sebagai rangkaian misteri kecil yang menguras waktu siapa pun yang memeliharanya—sering kali orang yang sama, yang kini membaca kode yang secara nominal miliknya, tetapi secara fungsional milik orang asing.",
+      "examples": [
+        "Perbaikan untuk satu bug menghasilkan tiga bug baru, karena tidak ada yang—baik manusia maupun mesin—mengingat mengapa kode asli itu ditulis seperti itu."
+      ],
+      "heading": "Tempat menyembunyikan utang"
+    },
+    {
+      "body": "Programming tidak pernah pada dasarnya tentang mengetik kode. Selalu tentang menyimpan sebuah system dalam pikiran: mengetahui mengapa system itu dibentuk seperti itu, apa yang akan terjadi pada kasus-kasus sudut, dan di mana system itu akan break. Menulis kode adalah salah satu cara untuk membangun model mental tersebut. AI telah memisahkan keduanya.\n\nIni menghasilkan distorsi baru. Ada orang-orang yang dapat menghasilkan software tanpa memahaminya, dan orang-orang yang memahami software serta menggunakan AI untukmenghasilkan lebih cepat. Kelompok pertama mengirim demos; kelompok kedua mengirim products. Perbedaannya bukan intelligence atau talent — melainkan apakah membaca kode penting bagi mereka.\n\nUji praktisnya sederhana: untuk setiap system yang Anda kirim, apakah Anda dapat menjelaskan, baris demi baris, apa yang dilakukan oleh bagian-bagian penting dan mengapa? Bukan dari ingatan tentang prompts — dari kode itu sendiri. Jika ya, AI telah mempercepat Anda. Jika tidak, AI telah menggantikan Anda, dan sekarang Anda menjadi passenger di products Anda sendiri.",
+      "examples": [
+        "Dia meninjau setiap function AI-generated sebelum menerimanya; codebase-nya tumbuh lebih lambat dan break jauh lebih sedikit daripada codebase colleague-nya."
+      ],
+      "heading": "Membaca kode adalah keterampilan yang sesungguhnya"
+    },
+    {
+      "body": "Istilah-istilah ini menamai kekuatan yang bekerja ketika software dihasilkan, bukan ditulis.",
+      "heading": "Kosakata software yang dibangun dengan AI",
+      "terms": [
+        {
+          "example": "Sesi vibe coding-nya menghasilkan aplikasi to-do yang berfungsi dalam satu malam — dan keesokan harinya ia tidak dapat mengubah logic pengurutannya.",
+          "gloss": "Membangun software dengan memberi prompt kepada AI dan menerima code yang dihasilkan berdasarkan apakah Seems to work, tanpa harus memahaminya."
+        },
+        {
+          "example": "Melewati validasi data yang proper menjadi technical debt yang harus dibayar ketika seorang user mengetik quotation mark untuk pertama kalinya.",
+          "gloss": "Biaya jangka depan akibat memakai shortcuts di software: pekerjaan yang harus diulang karena solusi cepat dipilih daripada solusi yang benar."
+        },
+        {
+          "example": "Software architecture yang Good membuat satu team dapat mengubah payment system tanpa menyentuh login system.",
+          "gloss": "Struktur high-level sebuah system: bagaimana bagian-bagiannya dibagi dan dihubungkan, yang diputuskan sebelum detail-detailnya ditulis."
+        },
+        {
+          "example": "Code review tersebut menemukan bahwa AI telah menggunakan random number generator untuk security token.",
+          "gloss": "Praktik meminta code dibaca dan diperiksa oleh developer lain — atau oleh author-nya sendiri dengan mata yang fresh — sebelum code itu accepted."
+        },
+        {
+          "example": "Module itu memiliki maintainability yang sempurna: developer baru dapat memperbaiki bug di dalamnya pada hari pertamanya.",
+          "gloss": "Seberapa mudah software dapat dipahami, diperbaiki, dan dikembangkan oleh human di masa depan."
+        },
+        {
+          "example": "Root cause dari crash itu adalah pemeriksaan yang missing dua layers dari lokasi error itu muncul.",
+          "gloss": "Alasan mendasar di balik keberadaan sebuah problem, berbeda dari symptom yang membuatnya terlihat."
+        }
+      ]
+    },
+    {
+      "body": "Jika AI menulis kodenya dan Anda menerbitkannya, setiap bug menjadi tanggung jawab Anda. Hukum, toko aplikasi, pengguna Anda, dan hati nurani Anda semuanya menetapkan perangkat lunak sebagai tanggung jawab orang atau perusahaan yang menerbitkannya. \"AI yang membuatnya\" bukan alasan pembelaan, karena Anda memilih alatnya, menerima hasilnya, dan mempertahankan keuntungan dari penerbitannya.",
+      "heading": "Tanggung jawab tidak beralih."
+    },
+    {
+      "body": "Cara produktif menggunakan AI dalam programming bukan dengan menghindarinya, melainkan dengan menjaga loop tetap tertutup: **prompt, read, test, own**. Generate, lalu baca apa yang telah di-generate — benar-benar baca, termasuk bagian yang tidak Anda minta. Test di luar happy path: input buruk, empty state, penggunaan berulang, pengguna kedua.\n\nGrow sistem dalam potongan-potongan kecil yang dapat dipegang manusia. Ketika blok yang di-generate melebihi bagian yang dapat Anda jelaskan, berhenti dan kurangi hingga dapat dijelaskan. Simpan catatan tertulis — bahkan notebook — tentang alasan setiap bagian utama ada.\n\nDipakai dengan cara ini, AI adalah programming assistant paling powerful yang pernah dibangun: ia menghilangkan typing, mengingat syntax untuk Anda, dan membuat draft delapan puluh persen bagian yang membosankan. Yang tidak dapat dilJxakukan adalah dua puluh persen sisanya — judgment, responsibility, dan keputusan tentang apa yang seharusnya ada. Bagian itu tetap menjadi tugas manusia, dan itulah bagian yang penting.",
+      "examples": [
+        "Ia menggunakan AI secara daily, tetapi setiap function dibaca, setiap keputusan dicatat, dan produknya tetap berguna bagi penggunanya."
+      ],
+      "heading": "Vibe coding dengan baik"
+    }
+  ],
+  "summary": "Deskripsikan aplikasi kepada AI, dapatkan kode yang berfungsi, dan luncurkan malam ini. Vibe coding memang nyata dan berhasil—sampai saat ia tidak berhasil. Artikel ini menjelaskan sebenarnya apa yang terjadi ketika perangkat lunak muncul dari prompt, di mana utang teknis bersembunyi dalam kode yang dihasilkan AI, dan mengapa orang yang tutturkan aplikasi tetap bertanggung jawab atas apa yang ia luncurkan.",
+  "title": "Vibe Coding dan Ilusi Pemahaman"
+}

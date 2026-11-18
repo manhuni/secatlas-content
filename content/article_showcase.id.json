@@ -1,0 +1,170 @@
+{
+  "language": "id",
+  "lessonId": "article_showcase",
+  "objectives": [
+    "Buka sampul, foto tetap, galeri, daftar putar audio, dan video mandiri.",
+    "Baca rumus aljabar, kalkulus, dan aljabar linear dengan grafik.",
+    "Baca rumus kinematika, Newton, energi, Ohm, dan gelombang dengan plot.",
+    "Baca rumus kimia, kesetimbangan, pH, dan grafik laju."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Ini adalah artikel bahasa Inggris singkat yang digunakan sebagai contoh tata letak. Ini bukan sebuah kursus. Setiap judul di bawah ini adalah blok nyata yang dapat digambar oleh aplikasi: prosa, satu gambar, galeri, audio, video, tautan, papan rumus, dan grafik langsung. Setiap penunjuk media dalam paket ini adalah file di bawah media/.",
+      "heading": "Apa yang dibahas dalam artikel ini"
+    },
+    {
+      "body": "Klip disimpan dalam file zip, bukan dalam APK.",
+      "heading": "Dengarkan kata kunci"
+    },
+    {
+      "body": "Sampul artikel adalah file PNG asli yang berada di media/covers/.",
+      "heading": "Gambar sampul"
+    },
+    {
+      "body": "Satu file mp4 di bawah judul. File tersebut adalah media/video/intro.mp4.",
+      "heading": "Video mandiri"
+    },
+    {
+      "body": "Satu diagram berada di bawah judul. Gunakan ini ketika judul menamai satu gambar.",
+      "heading": "Satu gambar diam"
+    },
+    {
+      "body": "Judul seperti kunjungan, kampus, atau perpustakaan terkenal membutuhkan banyak gambar. Geser galeri. Urutan dalam zip adalah urutan di layar.",
+      "heading": "Galeri gambar — pemandangan"
+    },
+    {
+      "body": "Gambar, file video lokal, dan tautan eksternal berbagi satu galeri. Audio dari artikel juga diputar dari daftar pemutaran pelajaran di bagian atas.",
+      "heading": "Galeri campuran — gambar, klip, tautan"
+    },
+    {
+      "body": "Kalimat yang direkam dari file zip. Perlakukan blok pendengaran sebagai daftar putar, bukan satu klip.",
+      "heading": "Daftar putar audio"
+    },
+    {
+      "body": "Beberapa file mp4 dalam satu galeri. Geser antara klip. Setiap file unik dalam zip.",
+      "heading": "Daftar pemutaran video"
+    },
+    {
+      "body": "Persamaan linear dengan satu variabel ditulis ax + b = 0, dengan a tidak nol. Hubungan yang sama dengan garis adalah y = ax + b.",
+      "heading": "Matematika — aljabar"
+    },
+    {
+      "body": "Sinus dan kosinus bersifat periodik. Turunan adalah kemiringan. Integral adalah luas terakumulasi.",
+      "heading": "Matematika — trigonometri dan kalkulus"
+    },
+    {
+      "body": "Matriks 2×2 mengalikan kolom. Rata-rata sampel adalah jumlah pengamatan dibagi n.",
+      "heading": "Matematika — aljabar linear dan statistik"
+    },
+    {
+      "body": "Untuk percepatan konstan, perpindahan, kecepatan, dan waktu saling terkait melalui himpunan SUVAT. Grafik x–t adalah kurva; grafik v–t adalah garis.",
+      "heading": "Fisika — kinematika"
+    },
+    {
+      "body": "Hukum kedua Newton, energi mekanik, hukum Ohm, dan gelombang berjalan ditulis di bawah ini. Grafik I–V untuk resistor adalah garis lurus yang melewati titik asal.",
+      "heading": "Fisika — gaya, energi, listrik, gelombang"
+    },
+    {
+      "body": "Tulis spesies dalam jenis huruf matematika roman. Jumlah zat, konsentrasi, dan hukum gas ideal adalah nama-nama bahasa Inggris yang biasa digunakan.",
+      "heading": "Kimia — rumus dan kuantitas"
+    },
+    {
+      "body": "pH bersifat logaritmik. Kesetimbangan dinamis memiliki konstanta K yang tetap. Laju sering menurun seiring penurunan konsentrasi.",
+      "heading": "Kimia — asam-basa, kesetimbangan, laju"
+    },
+    {
+      "body": "Baca simbol, lalu nama bahasa Inggrisnya.",
+      "heading": "Simbol yang digunakan di halaman ini"
+    },
+    {
+      "body": "Istilah dari matematika, fisika, dan kimia sebagaimana muncul dalam bahasa Inggris.",
+      "heading": "Istilah teknis",
+      "terms": [
+        {
+          "example": "",
+          "gloss": "Simbol yang nilainya tidak diketahui hingga persamaan diselesaikan."
+        },
+        {
+          "example": "",
+          "gloss": "Kemiringan sebuah garis; kenaikan dibagi dengan jarak horizontal."
+        },
+        {
+          "example": "",
+          "gloss": "Laju perubahan kecepatan."
+        },
+        {
+          "example": "",
+          "gloss": "Seberapa kuat sebuah komponen menahan arus."
+        },
+        {
+          "example": "",
+          "gloss": "Satuan SI untuk jumlah zat."
+        },
+        {
+          "example": "",
+          "gloss": "Sebuah keadaan di mana laju maju dan laju balik sama."
+        }
+      ]
+    },
+    {
+      "body": "Selesaikan 2x + 1 = 7. Kurangi 1, lalu bagi dengan 2. Solusinya adalah x = 3. Periksa: 2(3) + 1 = 7.",
+      "examples": [
+        "Kurangi 1 dari kedua sisi.",
+        "Bagi kedua sisi dengan 2.",
+        "Solusinya adalah x = 3."
+      ],
+      "heading": "Contoh terapan — pertahankan kedua sisi sama"
+    },
+    {
+      "body": "File Lottie JSON dapat diputar langsung, berulang, langsung dari paket. Sebuah indikator berkedip dan jarum pengukur yang bergerak adalah dua klip contoh. Gunakan animasi untuk lampu dashboard, pengukur, dan segala sesuatu yang harus bergerak agar dapat dipahami.",
+      "heading": "Animasi — gerakan vektor di dalam zip"
+    },
+    {
+      "body": "Daftar langkah ditampilkan sebagai prosedur bernomor. Urutan dalam JSON adalah urutan yang muncul di layar.",
+      "heading": "Prosedur — baca alat ukur dalam lima langkah",
+      "steps": [
+        "Identifikasi simbol pada wajah dial.",
+        "Baca satuan yang dicetak di bawah jarum.",
+        "Bandingkan jarum dengan rentang yang ditandai.",
+        "Catat apakah lampu peringatan menyala.",
+        "Tulis nilai dan satuan dalam laporan Anda."
+      ]
+    },
+    {
+      "body": "Bagian dapat memuat tabel data dua kolom dengan baris header berwarna.",
+      "heading": "Tabel data — simbol satuan"
+    },
+    {
+      "body": "Simbol dapat membawa lokus gambar daripada glyph Unicode. Setiap piktogram dirender sebagai kartu dengan label dan baris makna.",
+      "heading": "Simbol Piktogram — Gaya Dashboard"
+    },
+    {
+      "body": "Callout catatan berada di atas kartu dengan warna netral dan memiliki ikon informasi. Gunakan untuk komentar samping yang tidak mengganggu alur.",
+      "heading": "Callout — catatan"
+    },
+    {
+      "body": "Panggilan tips menggunakan wadah primer berwarna hijau. Gunakan untuk cara yang lebih cepat atau lebih baik untuk melakukan tugas.",
+      "heading": "Panggilan — tips"
+    },
+    {
+      "body": "Peringatan waspada menggunakan warna kuning keemasan sebagai penanda. Gunakan ketika kesalahan menyebabkan kerugian waktu atau memerlukan pengulangan.",
+      "heading": "Peringatan — waspada"
+    },
+    {
+      "body": "Peringatan bahaya menggunakan wadah kesalahan berwarna merah. Gunakan hanya ketika kesalahan dapat membahayakan seseorang atau menghancurkan peralatan.",
+      "heading": "Peringatan — Bahaya"
+    },
+    {
+      "body": "Bagian peringatan bertipe akan ditampilkan pada kartu peringatan kuning, bahkan tanpa calloutKind, untuk paragraf keselamatan bergaya standar.",
+      "heading": "Tipe bagian peringatan"
+    },
+    {
+      "body": "Di dalam file JSON paket, letakkan penanda di bawah media/ di dalam zip. Sebuah bagian dapat merangkum galeri, gambar, audio, video, tautan, matematika, dan plot bersama. Satu file adalah galeri tunggal. Banyak file adalah galeri. Plot langsung adalah titik JSON; paket PNG adalah foto diam tambahan.",
+      "heading": "Catatan penulis"
+    }
+  ],
+  "summary": "Satu artikel demo: sampul, foto tetap, galeri, klip audio unik, video unik, tautan, matematika, fisika, kimia, grafik langsung, dan rumus — setiap penanda adalah file asli dalam zip.",
+  "title": "Artikel demo dengan aset lengkap"
+}

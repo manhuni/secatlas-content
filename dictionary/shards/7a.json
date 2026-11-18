@@ -1,0 +1,916 @@
+{
+  "records": {
+    "7a01a9a6109a74f4806fcd72cada90b860843e20d201c3df88fe65f46783685f": [
+      {
+        "forms": [
+          "paternal age",
+          "bc_paternal_age"
+        ],
+        "id": "lex.sa.social.bc_paternal_age",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "paternal age",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.bc_paternal_age.alt",
+          "sns.sa.social.bc_paternal_age.alt.ja",
+          "sns.sa.social.bc_paternal_age.alt.ko",
+          "sns.sa.social.bc_paternal_age.alt.id",
+          "sns.sa.social.bc_paternal_age.alt.th",
+          "sns.sa.social.bc_paternal_age.alt.tr",
+          "sns.sa.social.bc_paternal_age.alt.pt_br"
+        ]
+      },
+      {
+        "definition": "The age of the father when his child is born, used as a medical label.",
+        "exampleIds": [
+          "exm.sa.social.bc_paternal_age.1.1"
+        ],
+        "gloss": "The age of the father when his child is born, used as a medical label.",
+        "id": "sns.sa.social.bc_paternal_age.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.bc_paternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "出産時の父親の年齢を示す、医学・統計上の項目。父親の能力や parentingの質を評価する判定ではない。",
+        "exampleIds": [
+          "exm.sa.social.bc_paternal_age.1.1.ja"
+        ],
+        "gloss": "子供が生まれたときの父親の年齢。",
+        "id": "sns.sa.social.bc_paternal_age.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.bc_paternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "의료 기록에서 아버지의 연령을 가리키는 용어이다. 어머니의 나이와 관련된 사실이나 연령별 변화 양상이 다르므로 별도로 해석해야 한다.",
+        "exampleIds": [
+          "exm.sa.social.bc_paternal_age.1.1.ko"
+        ],
+        "gloss": "아이가 태어났을 때 아버지의 나이.",
+        "id": "sns.sa.social.bc_paternal_age.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.bc_paternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Usia ayah adalah usia laki-laki pada saat anaknya lahir, yang dicantumkan sebagai informasi medis. Perubahan berkaitan dengan usia ini umumnya lebih lambat daripada perubahan pada usia ibu.",
+        "exampleIds": [
+          "exm.sa.social.bc_paternal_age.1.1.id"
+        ],
+        "gloss": "Usia ayah ketika ia melahirkan anak, yang digunakan sebagai label medis.",
+        "id": "sns.sa.social.bc_paternal_age.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.bc_paternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ข้อมูลทางการแพทย์ที่บันทึกอายุของบิดา ณ เวลาที่บุตรเกิด แม้อายุของบิดาและมารดาจะเปลี่ยนแปลงตามเวลาไม่เหมือนกัน แต่ทั้งสองค่าเป็นเพียงข้อมูลประกอบ",
+        "exampleIds": [
+          "exm.sa.social.bc_paternal_age.1.1.th"
+        ],
+        "gloss": "อายุของบิดาในวันที่บุตรเกิด",
+        "id": "sns.sa.social.bc_paternal_age.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.bc_paternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Baba yaşı, çocuğun doğduğu sırada babanın yaşını ifade eder. Anne yaşına göre üreme sistemindeki değişimler genellikle daha yavaş gerçekleşir.",
+        "exampleIds": [
+          "exm.sa.social.bc_paternal_age.1.1.tr"
+        ],
+        "gloss": "Çocuğu doğduğunda babanın yaşı; tıbbi kayıtlarda kullanılan bir etiket.",
+        "id": "sns.sa.social.bc_paternal_age.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.bc_paternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Idade do homem no momento do nascimento do filho. É uma informação médica e, assim como a idade materna, não deve ser usada como julgamento sobre o pai.",
+        "exampleIds": [
+          "exm.sa.social.bc_paternal_age.1.1.pt_br"
+        ],
+        "gloss": "Idade do pai quando seu filho nasce, usada como informação médica.",
+        "id": "sns.sa.social.bc_paternal_age.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.bc_paternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.bc_paternal_age.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A idade paterna é registrada como informação médica no prontuário.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.bc_paternal_age.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Baba yaşının taşıdığı bilgiler anne yaşından farklıdır ve değişim daha yavaştır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.bc_paternal_age.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "อายุบิดาที่บันทึกไว้ในเวชระเบียนเป็นข้อมูลทางการแพทย์ ไม่ใช่เกณฑ์ตัดสินคุณค่าของครอบครัว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.bc_paternal_age.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Usia ayah memiliki fakta yang berbeda dari usia ibu, dan perubahannya berlangsung lebih lambat.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.bc_paternal_age.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "기록에 적힌 아버지 나이는 38세였다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.bc_paternal_age.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "父性年齢には母親の年齢とは異なる情報が含まれ、変化のLebens相对的に緩やかである。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.bc_paternal_age.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Paternal age carries different facts from maternal age, and the change is slower.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7a0325f74eb853dcc574e1b6c98b58b792b57789e4612515c8e3ddf9f7a37928": [
+      {
+        "forms": [
+          "Attention residue",
+          "attention_residue"
+        ],
+        "id": "lex.sa.technology.attention_residue",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Attention residue",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.attention_residue.alt",
+          "sns.sa.technology.attention_residue.alt.ja",
+          "sns.sa.technology.attention_residue.alt.ko",
+          "sns.sa.technology.attention_residue.alt.pt_br",
+          "sns.sa.technology.attention_residue.alt.id",
+          "sns.sa.technology.attention_residue.alt.th",
+          "sns.sa.technology.attention_residue.alt.tr"
+        ]
+      },
+      {
+        "definition": "The part of the previous task still in your head after you stop it, which lowers the quality of the next task.",
+        "exampleIds": [
+          "exm.sa.technology.attention_residue.1.1"
+        ],
+        "gloss": "The part of the previous task still in your head after you stop it, which lowers the quality of the next task.",
+        "id": "sns.sa.technology.attention_residue.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.attention_residue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "注意の残留とは、一つの作業を中断した後に前の作業の内容が頭に残る状態である。次の作業に集中しにくくなる原因になる。",
+        "exampleIds": [
+          "exm.sa.technology.attention_residue.1.1.ja"
+        ],
+        "gloss": "前の作業の考えが頭に残り、次の作業の質を低下させる状態。",
+        "id": "sns.sa.technology.attention_residue.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.attention_residue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "한 과업을 중단한 뒤에도 그 과업에 관한 생각이 머릿속에 남아 다음 과업의 품질을 낮추는 상태를 뜻한다.",
+        "exampleIds": [
+          "exm.sa.technology.attention_residue.1.1.ko"
+        ],
+        "gloss": "과제를 끝낸 뒤에도 이전 과업의 내용이 머릿속에 남아 다음 과업의 집중력을 떨어뜨리는 현상이다.",
+        "id": "sns.sa.technology.attention_residue.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.attention_residue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Referência ao que ainda ocupa a mente após a interrupção de uma tarefa. Esse resíduo de atenção pode reduzir a qualidade do trabalho realizado em seguida.",
+        "exampleIds": [
+          "exm.sa.technology.attention_residue.1.1.pt_br"
+        ],
+        "gloss": "Conteúdo da tarefa anterior que permanece na cabeça depois que ela é interrompida.",
+        "id": "sns.sa.technology.attention_residue.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.attention_residue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sisa perhatian adalah bagian dari tugas sebelumnya yang masih aktif di kepala setelah tugas dihentikan, sehingga kualitas tugas berikutnya menurun.",
+        "exampleIds": [
+          "exm.sa.technology.attention_residue.1.1.id"
+        ],
+        "gloss": "Sisa perhatian dari tugas sebelumnya yang masih tertahan di kepala setelah tugas dihentikan.",
+        "id": "sns.sa.technology.attention_residue.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.attention_residue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ส่วนของงานก่อนหน้าที่ยังค้างอยู่ในความคิดและทำให้โฟกัสงานถัดไปได้น้อยลง ไม่ได้หมายถึงงานที่ยังทำไม่เสร็จเท่านั้น",
+        "exampleIds": [
+          "exm.sa.technology.attention_residue.1.1.th"
+        ],
+        "gloss": "ความหลงเหลือของความสนใจจากงานก่อนหน้าซึ่งทำให้งานถัดไปมีคุณภาพลดลง",
+        "id": "sns.sa.technology.attention_residue.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.attention_residue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Önceki görevden sonra zihinde devam eden düşünce veya iz. Bu iz, bir sonraki işe geçişi ve odaklanmayı olumsuz etkiler.",
+        "exampleIds": [
+          "exm.sa.technology.attention_residue.1.1.tr"
+        ],
+        "gloss": "Bir görevi bıraktıktan sonra aklında kalan ve sonraki görevin kalitesini düşüren kısım.",
+        "id": "sns.sa.technology.attention_residue.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.attention_residue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.attention_residue.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I checked messages between every paragraph, so both pieces of work suffered.",
+        "translation": "Her paragraftan sonra mesajları kontrol ettim; bu yüzden iki iş de zarar gördü.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.attention_residue.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I checked messages between every paragraph, so both pieces of work suffered.",
+        "translation": "ฉันเช็กข้อความระหว่างแต่ละย่อหน้า ความหลงเหลือของความสนใจจึงทำให้ทั้งสองงานแย่ลง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.attention_residue.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I checked messages between every paragraph, so both pieces of work suffered.",
+        "translation": "Saya mengecek pesan di antara setiap paragraf, sehingga kualitas kedua pekerjaan itu menurun.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.attention_residue.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I checked messages between every paragraph, so both pieces of work suffered.",
+        "translation": "Verifiquei as mensagens entre os parágrafos, e o resíduo de atenção comprometeu as duas tarefas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.attention_residue.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I checked messages between every paragraph, so both pieces of work suffered.",
+        "translation": "문단마다 메시지를 확인했더니 이전 작업의 주의가 남아 두 작업 모두 집중도가 떨어졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.attention_residue.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I checked messages between every paragraph, so both pieces of work suffered.",
+        "translation": "各段落の合間にメッセージを確認したら、注意の残留で二つの作業の品質がともに下がった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.attention_residue.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I checked messages between every paragraph, so both pieces of work suffered.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7a62bc5cc8b3659fff1a0d42c6ff3e82ae52a6fd352eeb841bbc33ea47deb451": [
+      {
+        "forms": [
+          "accumulated"
+        ],
+        "id": "lex.sa.en.accumulated.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "accumulated",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.accumulated.adjective.1",
+          "sns.sa.en.accumulated-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Đã gom nhặt dần thành một tổng.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "tích luỹ",
+        "id": "sns.sa.vi.accumulated.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.accumulated.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Gathered gradually into one amount.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "Collected little by little into a total.",
+        "id": "sns.sa.en.accumulated-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.accumulated.adjective",
+        "pos": "adjective",
+        "revision": 1
+      }
+    ],
+    "7a881238e2e0b8544f784472b86f984fd42965411da38f551e008be8c44c5b66": [
+      {
+        "forms": [
+          "Traffic sign recognition",
+          "sign_recognition"
+        ],
+        "id": "lex.sa.en.sign.recognition",
+        "kind": "lexeme",
+        "lemma": "Traffic sign recognition",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.sign.recognition.alt"
+        ]
+      },
+      {
+        "definition": "The camera reads road signs and shows them on the display. Severity level 1 — Information / Status. Action: Nothing to do. The sign on the road always wins..",
+        "gloss": "The camera reads road signs and shows them on the display.",
+        "id": "sns.sa.en.sign.recognition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.sign.recognition",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "7a917cb3b9070f9465e174736623c2a638596a0c80b8eae3cfecac5e57a25f9f": [
+      {
+        "forms": [
+          "homogamy",
+          "dm_homogamy"
+        ],
+        "id": "lex.sa.social.dm_homogamy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "homogamy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.dm_homogamy.alt",
+          "sns.sa.social.dm_homogamy.alt.ja",
+          "sns.sa.social.dm_homogamy.alt.ko",
+          "sns.sa.social.dm_homogamy.alt.pt_br",
+          "sns.sa.social.dm_homogamy.alt.id",
+          "sns.sa.social.dm_homogamy.alt.th",
+          "sns.sa.social.dm_homogamy.alt.tr"
+        ]
+      },
+      {
+        "definition": "Pairing with a person who is similar in background, position or values.",
+        "exampleIds": [
+          "exm.sa.social.dm_homogamy.1.1"
+        ],
+        "gloss": "Pairing with a person who is similar in background, position or values.",
+        "id": "sns.sa.social.dm_homogamy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.dm_homogamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "生育環境や社会的な地位、価値観などが似ている相手と結婚や交際すること。",
+        "exampleIds": [
+          "exm.sa.social.dm_homogamy.1.1.ja"
+        ],
+        "gloss": "背景や地位、価値観が似た人と組になること。",
+        "id": "sns.sa.social.dm_homogamy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.dm_homogamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "배경, 사회적 지위 또는 가치가 비슷한 사람끼리 짝을 이룬다는 뜻이다. 같은 종류의 도시나-community에서 자란 커플처럼 사교 계층이 비슷한 사람끼리 만나는 경우를 가리킨다.",
+        "exampleIds": [
+          "exm.sa.social.dm_homogamy.1.1.ko"
+        ],
+        "gloss": "배경이나 신분, 가치가 비슷한 사람끼리 짝을 이루는 일.",
+        "id": "sns.sa.social.dm_homogamy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.dm_homogamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o casamento ou o relacionamento entre pessoas com trajetórias e características semelhantes. A semelhança pode existir em origem familiar, posição social, valores ou modo de vida.",
+        "exampleIds": [
+          "exm.sa.social.dm_homogamy.1.1.pt_br"
+        ],
+        "gloss": "União entre pessoas semelhantes em origem, posição social ou valores.",
+        "id": "sns.sa.social.dm_homogamy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.dm_homogamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Berpasangan dengan orang yang memiliki kesamaan dalam latar belakang, kedudukan sosial, atau nilai hidup. Kesamaan itu dapat mencakup beberapa aspek sekaligus.",
+        "exampleIds": [
+          "exm.sa.social.dm_homogamy.1.1.id"
+        ],
+        "gloss": "Berpasangan dengan seseorang yang mirip dalam latar belakang, kedudukan, atau nilai.",
+        "id": "sns.sa.social.dm_homogamy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.dm_homogamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงการจับคู่กับบุคคลที่มีภูมิหลัง ตำแหน่งทางสังคม หรือค่านิยมใกล้เคียงกับตนเอง",
+        "exampleIds": [
+          "exm.sa.social.dm_homogamy.1.1.th"
+        ],
+        "gloss": "การเข้าคู่กับผู้ที่มีพื้นฐานหรือค่านิยมคล้ายกัน",
+        "id": "sns.sa.social.dm_homogamy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.dm_homogamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Toplumsal eşleşmelerde geçmiş, eğitim, konum, gelir ya da değerler bakımından benzerlik taşıyan iki kişinin bir araya gelmesi. Karşılığında, seçilen kişinin toplumsal olarak daha üstte olması beklenir.",
+        "exampleIds": [
+          "exm.sa.social.dm_homogamy.1.1.tr"
+        ],
+        "gloss": "Benzer geçmiş, konum ya da değerlere sahip biriyle eşleşme.",
+        "id": "sns.sa.social.dm_homogamy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.dm_homogamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.dm_homogamy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Aynı tür şehirde büyümüş ve benzer değerleri paylaşan biriyle eşleşmeye homogami denir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.dm_homogamy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การเข้าคู่กับผู้ที่คล้ายกันอธิบายคู่รักที่เติบโตในเมืองแนวเดียวกันและมีค่านิยมใกล้เคียงกัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.dm_homogamy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Homogami menggambarkan pasangan yang tumbuh di jenis kota yang sama.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.dm_homogamy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A homogamia pode ser observada no casal que cresceu em cidades de tamanho e estrutura semelhantes.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.dm_homogamy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "같은 종류의 도시에서 자란 두 사람이 함께 살게 된 것을 동질혼매라고 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.dm_homogamy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "同じ種類の都市で育った二組には、同類婚という考えが当てはまる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.dm_homogamy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Homogamy is the word for the couple who grew up in the same kind of city.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7abada36bb6eeeb30831ff3ac6314f34a3e3435f0c3b9414829664fbe6ed41b5": [
+      {
+        "forms": [
+          "Code review"
+        ],
+        "id": "lex.sa.mind.code_review",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Code review",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.code_review.en",
+          "sns.sa.mind.code_review.vi"
+        ]
+      },
+      {
+        "definition": "The practice of having code read and checked by another developer — or by its author with fresh eyes — before it is accepted.",
+        "exampleIds": [],
+        "gloss": "The practice of having code read and checked by another developer — or by its author with fresh eyes — before it is accepted.",
+        "id": "sns.sa.mind.code_review.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.code_review",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Thực hành để code được một lập trình viên khác — hoặc chính tác giả với đôi mắt mới — đọc và kiểm tra trước khi chấp nhận.",
+        "id": "sns.sa.mind.code_review.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.code_review",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "7ad78be622b62349f31908a69ee62a23d83b85b8c0bf3a8f46ccce335dea48d3": [
+      {
+        "forms": [
+          "Counter-argument",
+          "dual_counter_argument"
+        ],
+        "id": "lex.sa.mind.dual_counter_argument",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Counter-argument",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.dual_counter_argument.alt",
+          "sns.sa.mind.dual_counter_argument.alt.ja",
+          "sns.sa.mind.dual_counter_argument.alt.ko",
+          "sns.sa.mind.dual_counter_argument.alt.pt_br",
+          "sns.sa.mind.dual_counter_argument.alt.id",
+          "sns.sa.mind.dual_counter_argument.alt.th",
+          "sns.sa.mind.dual_counter_argument.alt.tr"
+        ]
+      },
+      {
+        "definition": "The argument made against a decision that is still being considered.",
+        "exampleIds": [
+          "exm.sa.mind.dual_counter_argument.1.1"
+        ],
+        "gloss": "The argument made against a decision that is still being considered.",
+        "id": "sns.sa.mind.dual_counter_argument.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.dual_counter_argument",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "まだ決まっていない decision に対して、反対側の立場から出た Reasoning。決定後に出てきた objection や、议论そのものとは区別される。",
+        "exampleIds": [
+          "exm.sa.mind.dual_counter_argument.1.1.ja"
+        ],
+        "gloss": "まだ検討中の決定に対して反对の根拠として示される論点。",
+        "id": "sns.sa.mind.dual_counter_argument.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.dual_counter_argument",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 주장이나 결정에 맞서 그 근거를 반박하는 논리이다. 단순히 반대하는 견해가 아니라, 상대 논리에 대응하는 논증으로 이해한다.",
+        "exampleIds": [
+          "exm.sa.mind.dual_counter_argument.1.1.ko"
+        ],
+        "gloss": "아직 검토 중인 결정에 반대하여 제시되는 논리.",
+        "id": "sns.sa.mind.dual_counter_argument.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.dual_counter_argument",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Um argumento que se opõe a outro ou contesta uma proposta, conclusão ou decisão. Costuma ser usado para considerar um ponto de vista antes de decidir.",
+        "exampleIds": [
+          "exm.sa.mind.dual_counter_argument.1.1.pt_br"
+        ],
+        "gloss": "O argumento apresentado contra uma decisão que ainda está em discussão.",
+        "id": "sns.sa.mind.dual_counter_argument.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.dual_counter_argument",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Argumen yang melawan keputusan yang masih sedang dipertimbangkan. Istilah ini menunjuk pada alasan yang menentang suatu keputusan, bukan alasan yang mendukungnya.",
+        "exampleIds": [
+          "exm.sa.mind.dual_counter_argument.1.1.id"
+        ],
+        "gloss": "Argumen yang melawan keputusan yang masih sedang dipertimbangkan.",
+        "id": "sns.sa.mind.dual_counter_argument.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.dual_counter_argument",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เหตุผลหรือข้อโต้แย้งที่สนับสนุนความเห็นตรงข้ามกับข้อเสนอหรือการตัดสินใจที่กำลังพิจารณาอยู่",
+        "exampleIds": [
+          "exm.sa.mind.dual_counter_argument.1.1.th"
+        ],
+        "gloss": "ข้อโต้แย้งที่คัดค้านการตัดสินใจที่ยังอยู่ระหว่างการพิจารณา",
+        "id": "sns.sa.mind.dual_counter_argument.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.dual_counter_argument",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hâlâ değerlendirme aşamasındaki bir kararı veya görüşü çürütmek için yapılan karşı sav; kararın aleyhine olan gerekçeleri ifade eder.",
+        "exampleIds": [
+          "exm.sa.mind.dual_counter_argument.1.1.tr"
+        ],
+        "gloss": "Henüz tartışılan bir karara karşı ileri sürülen sav.",
+        "id": "sns.sa.mind.dual_counter_argument.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.dual_counter_argument",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.dual_counter_argument.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Karşı sav kısaydı ama kararı değiştirdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.dual_counter_argument.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ข้อโต้แย้งนั้นสั้นมาก แต่ก็เปลี่ยนการตัดสินใจ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.dual_counter_argument.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Counter-argument itu singkat, tetapi mengubah keputusan yang sedang dibahas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.dual_counter_argument.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O contra-argumento foi breve, mas mudou a decisão.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.dual_counter_argument.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "반박 논리는 짧았지만, 그 논리가 결정을 바꿔 놓았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.dual_counter_argument.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "反対の論点は短く、それGK Changes 決定を変えた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.dual_counter_argument.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The counter-argument was short, and it changed the decision.",
+        "translation": "Lập luận phản bác rất ngắn, và nó đã thay đổi quyết định.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7af0b3e47c35820fabef69cc542392bd2d0f6e37c349851728f0c683013563ce": [
+      {
+        "forms": [
+          "variable",
+          "variables"
+        ],
+        "id": "lex.sa.en.variable.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "variable",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.variable.noun",
+          "prn.sa.en.variable.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.variable.noun.1",
+          "sns.sa.en.variable-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.variable-noun",
+        "id": "prn.sa.en.variable.noun",
+        "ipa": "/ˈveəriəbl/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.variable.noun.us",
+        "ipa": "/ˈver.i.ə.bəl/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Ký hiệu (thường là x) đại diện cho giá trị chưa biết trong phương trình.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.variable.noun.1.1",
+          "exm.sa.en.variable-noun.more.01",
+          "exm.sa.en.variable-noun.more.02"
+        ],
+        "gloss": "biến; ẩn số",
+        "id": "sns.sa.vi.variable.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.variable.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.variable-noun",
+          "res.sa.aud.variable-noun",
+          "res.sa.lnk.variable-noun",
+          "res.sa.vid.variable-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "A symbol, often x, whose value is found by solving.",
+        "exampleIds": [
+          "exm.sa.en.variable.noun.1.1"
+        ],
+        "gloss": "A symbol, often x, whose value is found by solving.",
+        "id": "sns.sa.en.variable-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.variable.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.variable.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Let x be the unknown variable.",
+        "translation": "Gọi x là biến ẩn.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.variable.noun.1",
+        "id": "lnk.sa.en.glossary.010",
+        "kind": "relation",
+        "toId": "sns.sa.vi.unknown.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.variable.noun.1",
+        "id": "lnk.sa.en.glossary.011",
+        "kind": "relation",
+        "toId": "sns.sa.vi.isolate.verb.1",
+        "type": "related_to"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

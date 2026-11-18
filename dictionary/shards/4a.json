@@ -1,0 +1,745 @@
+{
+  "records": {
+    "4a3cdfae6f291c8f544daea5b72905cf9e74c1ed427d831ad0d7ca00c73c794d": [
+      {
+        "forms": [
+          "sign",
+          "signs",
+          "signed",
+          "signing"
+        ],
+        "id": "lex.sa.en.sign.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "sign",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.sign.verb",
+          "prn.sa.en.sign.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.sign.verb.1",
+          "sns.sa.en.sign-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.sign-verb",
+        "id": "prn.sa.en.sign.verb",
+        "ipa": "/saɪn/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.sign.verb.us",
+        "ipa": "/saɪn/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Viết chữ ký để xác nhận.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.sign.verb.1.1",
+          "exm.sa.en.sign-verb.more.01",
+          "exm.sa.en.sign-verb.more.02"
+        ],
+        "gloss": "ký tên",
+        "id": "sns.sa.vi.sign.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.sign.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.sign-verb",
+          "res.sa.aud.sign-verb",
+          "res.sa.lnk.sign-verb",
+          "res.sa.vid.sign-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "To write your name on a document or an agreement.",
+        "exampleIds": [
+          "exm.sa.en.sign.verb.1.1"
+        ],
+        "gloss": "To write your name on a document or an agreement.",
+        "id": "sns.sa.en.sign-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.sign.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.sign.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Please sign the form.",
+        "translation": "Hãy ký vào mẫu.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4a70fe9aa6436e02c2dea340fbd1e352e4ef2d8ce6ca52ad25d4b95471fc8bf2": [
+      {
+        "forms": [
+          "zip"
+        ],
+        "id": "lex.sa.en.zip.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "zip",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.zip.noun.1",
+          "sns.sa.en.zip-noun.alt"
+        ]
+      },
+      {
+        "definition": "Tệp nén chứa toàn bộ nội dung của một gói.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.13"
+        ],
+        "gloss": "gói zip",
+        "id": "sns.sa.vi.zip.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.zip.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A compressed archive of files.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.13"
+        ],
+        "gloss": "A compressed archive holding the files of a pack.",
+        "id": "sns.sa.en.zip-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.zip.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.13",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Order in the zip is the order on screen.",
+        "translation": "Thứ tự trong gói zip chính là thứ tự hiển thị trên màn hình.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4a75677d24e038d6d30a5326765eee181c03ea8cf915ff892f3349b3df2bbc96": [
+      {
+        "forms": [
+          "Overestimation",
+          "intelill_overestimation"
+        ],
+        "id": "lex.sa.mind.intelill_overestimation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Overestimation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intelill_overestimation.alt",
+          "sns.sa.mind.intelill_overestimation.alt.ja",
+          "sns.sa.mind.intelill_overestimation.alt.ko",
+          "sns.sa.mind.intelill_overestimation.alt.pt_br",
+          "sns.sa.mind.intelill_overestimation.alt.id",
+          "sns.sa.mind.intelill_overestimation.alt.th",
+          "sns.sa.mind.intelill_overestimation.alt.tr"
+        ]
+      },
+      {
+        "definition": "Rating your ability above what it is.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_overestimation.1.1"
+        ],
+        "gloss": "Rating your ability above what it is.",
+        "id": "sns.sa.mind.intelill_overestimation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intelill_overestimation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自分の能力や可能性を実際より overestimateすること。",
+        "exampleIds": [
+          "exm.sa.mind.intelill_overestimation.1.1.ja"
+        ],
+        "gloss": "自分の能力を実際より高く評価すること。",
+        "id": "sns.sa.mind.intelill_overestimation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intelill_overestimation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자신의 능력이나 성공 가능성을 실제보다 높게 판단하는 경향. 적정할 때 유용할 수 있지만, 오판을 부를 수 있다.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_overestimation.1.1.ko"
+        ],
+        "gloss": "자기 능력을 실제보다 높게 평가하는 것.",
+        "id": "sns.sa.mind.intelill_overestimation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intelill_overestimation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Avaliação excessiva das próprias habilidades ou possibilidades. A pessoa superestima o próprio desempenho ou a própria capacidade.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_overestimation.1.1.pt_br"
+        ],
+        "gloss": "Avaliação da própria capacidade acima do que ela realmente é.",
+        "id": "sns.sa.mind.intelill_overestimation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intelill_overestimation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Menilai kemampuan atau hasil kerja diri lebih tinggi daripada kenyataannya. Hal ini dapat menyebabkan seseorang gagal karena terlalu percaya diri.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_overestimation.1.1.id"
+        ],
+        "gloss": "Menilai kemampuan diri lebih tinggi daripada kenyataannya.",
+        "id": "sns.sa.mind.intelill_overestimation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intelill_overestimation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การประเมินความสามารถหรือผลงานของตนเองสูงกว่าที่เป็นจริง มักเกิดเพราะไม่รู้จุดจำกัดของตนเอง",
+        "exampleIds": [
+          "exm.sa.mind.intelill_overestimation.1.1.th"
+        ],
+        "gloss": "การประเมินความสามารถของตนเองสูงเกินความจริง",
+        "id": "sns.sa.mind.intelill_overestimation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intelill_overestimation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin yeteneğini, performansını veya başarı olasılığını olduğundan yüksek görmesi. Gerçekçi olmayan bir özdeğerlendirmeyi ifade eder.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_overestimation.1.1.tr"
+        ],
+        "gloss": "Kendi yeteneğini gerçek olduğundan daha yüksek değerlendirme.",
+        "id": "sns.sa.mind.intelill_overestimation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intelill_overestimation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intelill_overestimation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kendini fazla değerlendirmesi, zaten elinde saydığı işi kaybetmesine yol açtı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intelill_overestimation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การประเมินตัวเองสูงเกินจริงของเธอทำให้เสียงานที่เธอคิดว่าได้แล้ว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intelill_overestimation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Overestimate kemampuanmu, atau kamu akan kecewa.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intelill_overestimation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A superestimação dela lhe custou o emprego que já havia conquistado apenas na imaginação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intelill_overestimation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "자기 과대평가는 그녀가 이미 마음속에서 얻었다고 생각한 일자리를 잃게 했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intelill_overestimation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "過大評価のせいで、彼女は手”中的内定尽情;",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intelill_overestimation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her overestimation cost her the job she had already won in her head.",
+        "translation": "Việc cô đánh giá quá cao đã khiến cô mất công việc mà trong đầu cô đã giành được.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4a80a02401bbebaa1cf8ebd79255c2c39b7babb633a9d08d8715edd9c2f39317": [
+      {
+        "forms": [
+          "Gender expression",
+          "gre_gender_expression"
+        ],
+        "id": "lex.sa.social.gre_gender_expression",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Gender expression",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gre_gender_expression.alt",
+          "sns.sa.social.gre_gender_expression.alt.ja",
+          "sns.sa.social.gre_gender_expression.alt.ko",
+          "sns.sa.social.gre_gender_expression.alt.pt_br",
+          "sns.sa.social.gre_gender_expression.alt.id",
+          "sns.sa.social.gre_gender_expression.alt.th",
+          "sns.sa.social.gre_gender_expression.alt.tr"
+        ]
+      },
+      {
+        "definition": "How a person presents their gender through clothes, voice, gesture and behaviour.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_expression.1.1"
+        ],
+        "gloss": "How a person presents their gender through clothes, voice, gesture and behaviour.",
+        "id": "sns.sa.social.gre_gender_expression.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gre_gender_expression",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "衣服、話し方、仕草、行動によって、その人が自分の性別をどう表しているかを指す。性別そのものではない点で、自分の性別の感覚とは別のものです。",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_expression.1.1.ja"
+        ],
+        "gloss": "衣服、話し方、仕草、行動によって、その人が自分の性別をどう表しているかを指す。",
+        "id": "sns.sa.social.gre_gender_expression.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gre_gender_expression",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "개인이 자신의 젠더를 외부에 보여 주는 방식을 뜻한다. 자신이 어떤 성별에 속한다고 느끼는 감각인 젠더 정체성과는 구별된다.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_expression.1.1.ko"
+        ],
+        "gloss": "옷차림, 목소리, 몸짓과 행동으로 자신의 성별을 드러내는 방식.",
+        "id": "sns.sa.social.gre_gender_expression.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gre_gender_expression",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Manifestação do gênero por meio de roupas, gestos, voz, attestação de comportamento e outros sinais exteriorizados. Não deve ser confundida com a identidade de gênero.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_expression.1.1.pt_br"
+        ],
+        "gloss": "Forma como uma pessoa manifesta seu gênero por meios externos.",
+        "id": "sns.sa.social.gre_gender_expression.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gre_gender_expression",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Cara seseorang menampilkan gender melalui pakaian, suara, gerak tubuh, dan perilaku. Bentuk ekspresi ini tidak selalu menunjukkan identitas gender-nya.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_expression.1.1.id"
+        ],
+        "gloss": "Cara seseorang menampilkan gender melalui pakaian, suara, gerak tubuh, dan perilaku.",
+        "id": "sns.sa.social.gre_gender_expression.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gre_gender_expression",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การสื่อออกเพศของตนผ่านรูปลักษณ์ภายนอกและพฤติกรรมต่าง ๆ เช่น การแต่งตัว การใช้น้ำเสียง กริยา หรือแบบพฤติกรรม คำนี้พูดถึงการแสดงออก ไม่ใช่อัตลักษณ์เพศของตน",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_expression.1.1.th"
+        ],
+        "gloss": "วิธีที่บุคคลแสดงออกเพศของตนผ่านเสื้อผ้า น้ำเสียง ท่าทาง และพฤติกรรม",
+        "id": "sns.sa.social.gre_gender_expression.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gre_gender_expression",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin toplumsal cinsiyetini kıyafet, ses tonu, jest ve davranışlar yoluyla nasıl gösterdiği. Kişinin cinsiyet kimliğinden farklı olarak, başkalarının onu nasıl algıladığıyla ilgilidir.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_expression.1.1.tr"
+        ],
+        "gloss": "Bir kişinin cinsiyetini giysi, ses, jest ve davranışla dışa vurma biçimi.",
+        "id": "sns.sa.social.gre_gender_expression.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gre_gender_expression",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gre_gender_expression.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Yeni bir işe başladığında cinsiyet ifadesi değişti ve çevresinde daha rahat hissetmeye başladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_expression.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การแสดงออกเพศของเขาเปลี่ยนไปเมื่อเริ่มงานใหม่ และความเหมาะสมก็ง่ายขึ้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_expression.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ekspresi gender-nya berubah setelah ia mulai bekerja di tempat baru, dan ia merasa lebih mudah berbaasa.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_expression.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A expressão de gênero dela mudou depois que começou a trabalhar em um novo lugar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_expression.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "새 직업을 시작하면서 그의 젠더 표현이 달라졌고, 그 변화는 훨씬 자연스러워졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_expression.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "新しい仕事を始めたとき、彼の性別の表し方は変わり、ほどよく合うようになった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_expression.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His gender expression changed when he started a new job, and the fit got easier.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4a91ee5f0106c2b35c11c168352f0abfbf4fc86165c62d6fb51b5232dfc692e6": [
+      {
+        "forms": [
+          "area"
+        ],
+        "id": "lex.sa.en.area.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "area",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.area.noun.1",
+          "sns.sa.en.area-noun.alt"
+        ]
+      },
+      {
+        "definition": "Diện tích bề mặt; vùng đất.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "diện tích",
+        "id": "sns.sa.vi.area.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.area.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The size of a surface or a region of land.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "The extent of a surface; a region.",
+        "id": "sns.sa.en.area-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.area.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "4ac5248b70ac338b760f7740a22fa79d3785885a293c4bd53f6ee937bc7fe8e1": [
+      {
+        "forms": [
+          "Drag",
+          "drag"
+        ],
+        "id": "lex.sa.kids_science.drag",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Drag",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.drag.alt",
+          "sns.sa.kids_science.drag.alt.ja",
+          "sns.sa.kids_science.drag.alt.ko",
+          "sns.sa.kids_science.drag.alt.pt_br",
+          "sns.sa.kids_science.drag.alt.id",
+          "sns.sa.kids_science.drag.alt.th",
+          "sns.sa.kids_science.drag.alt.tr"
+        ]
+      },
+      {
+        "definition": "The force of the air pushing back against a plane and trying to slow it down.",
+        "exampleIds": [
+          "exm.sa.kids_science.drag.1.1"
+        ],
+        "gloss": "The force of the air pushing back against a plane and trying to slow it down.",
+        "id": "sns.sa.kids_science.drag.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.drag",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "物体の運動に対する空気の抵抗。surface が smooth な object ほど small くなる。",
+        "exampleIds": [
+          "exm.sa.kids_science.drag.1.1.ja"
+        ],
+        "gloss": "空気の object の motion を妨げる force。",
+        "id": "sns.sa.kids_science.drag.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.drag",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "공기가 비행기 표면과 반대 방향으로 작용해 비행기를 늦추는 힘으로, 표면이 매끄러울수록 작아집니다.",
+        "exampleIds": [
+          "exm.sa.kids_science.drag.1.1.ko"
+        ],
+        "gloss": "공기가 비행기에 작용해 속도를 늦추는 힘.",
+        "id": "sns.sa.kids_science.drag.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.drag",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Força com que o ar atua contra um objeto em movimento, tentando desacelerá-lo. Em avião, o arrasto é menor quando a superfície é mais lisa.",
+        "exampleIds": [
+          "exm.sa.kids_science.drag.1.1.pt_br"
+        ],
+        "gloss": "Resistência do ar contra um objeto em movimento.",
+        "id": "sns.sa.kids_science.drag.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.drag",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hambatan udara terbentuk ketika udara mengalir melawan pesawat dan-Gradually memperlambat geraknya.",
+        "exampleIds": [
+          "exm.sa.kids_science.drag.1.1.id"
+        ],
+        "gloss": "Gaya udara yang menghambat gerakan pesawat.",
+        "id": "sns.sa.kids_science.drag.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.drag",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แรงที่อากาศต้านการเคลื่อนที่ของเครื่องบินหรือวัตถุ ช่วยให้เครื่องบินที่มีรูปทรงเรียบราบต้านลมได้ดีและใช้เชื้อเพลิงน้อยลง",
+        "exampleIds": [
+          "exm.sa.kids_science.drag.1.1.th"
+        ],
+        "gloss": "แรงต้านที่อากาศกระทำต่อเครื่องบินและทำให้ช้าลง",
+        "id": "sns.sa.kids_science.drag.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.drag",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hava akışının uçak gibi bir cismin hareketine karşı oluşturduğu ve onu yavaşlatan kuvvet. Pürüzsüz bir uçakta bu etki daha az olur.",
+        "exampleIds": [
+          "exm.sa.kids_science.drag.1.1.tr"
+        ],
+        "gloss": "Havanın uçağı yavaşlatmaya çalıştığı kuvvet.",
+        "id": "sns.sa.kids_science.drag.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.drag",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.drag.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A smooth plane has less drag and uses less fuel.",
+        "translation": "Pürüzsüz bir uçağın hava direnci daha az ve yakıt tüketimi daha düşüktür.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.drag.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A smooth plane has less drag and uses less fuel.",
+        "translation": "เครื่องบินที่มีผิวเรียบราบจะมีแรงต้านอากาศน้อยและใช้เชื้อเพลิงน้อยกว่า",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.drag.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A smooth plane has less drag and uses less fuel.",
+        "translation": "Pesawat yang licin memiliki hambatan udara lebih kecil sehingga memakai lebih sedikit bahan bakar.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.drag.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A smooth plane has less drag and uses less fuel.",
+        "translation": "Um avião liso oferece menos resistência ao ar e consome menos combustível.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.drag.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A smooth plane has less drag and uses less fuel.",
+        "translation": "매끄러운 비행기는 항력이 작아 연료를 적게 사용한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.drag.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A smooth plane has less drag and uses less fuel.",
+        "translation": "surface が smooth な plane は抗力が small く、fuel も少なくて済む。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.drag.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A smooth plane has less drag and uses less fuel.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4af857f32db47206334e9ed696b8265160b9a648681dfb9a3496d362f054da52": [
+      {
+        "forms": [
+          "Forward collision warning",
+          "collision_warning"
+        ],
+        "id": "lex.sa.en.collision.warning",
+        "kind": "lexeme",
+        "lemma": "Forward collision warning",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.collision.warning.alt"
+        ]
+      },
+      {
+        "definition": "The car ahead is closer than the set gap, and a collision is possible. Severity level 2 — Caution. Action: Take your foot off the accelerator and brake. Do not rely on the system to stop the car..",
+        "gloss": "The car ahead is closer than the set gap, and a collision is possible.",
+        "id": "sns.sa.en.collision.warning.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.collision.warning",
+        "pos": "noun",
+        "revision": 1
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

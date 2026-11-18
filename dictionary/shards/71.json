@@ -1,0 +1,1493 @@
+{
+  "records": {
+    "7106fc2760fbbc51fed4be749f108b374809c5d3dce9860535e7ec7d7bd23004": [
+      {
+        "forms": [
+          "Side effect",
+          "side_effect"
+        ],
+        "id": "lex.sa.health.side_effect",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Side effect",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.side_effect.alt",
+          "sns.sa.health.side_effect.alt.ja",
+          "sns.sa.health.side_effect.alt.ko",
+          "sns.sa.health.side_effect.alt.pt_br",
+          "sns.sa.health.side_effect.alt.id",
+          "sns.sa.health.side_effect.alt.th",
+          "sns.sa.health.side_effect.alt.tr"
+        ]
+      },
+      {
+        "definition": "Any effect the medicine has other than the one it is meant to produce.",
+        "exampleIds": [
+          "exm.sa.health.side_effect.1.1"
+        ],
+        "gloss": "Any effect the medicine has other than the one it is meant to produce.",
+        "id": "sns.sa.health.side_effect.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.side_effect",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "薬が治療などを目的とする効果以外の作用を指す。elai",
+        "exampleIds": [
+          "exm.sa.health.side_effect.1.1.ja"
+        ],
+        "gloss": "薬が本来Sharing intended效果とは別の効果。",
+        "id": "sns.sa.health.side_effect.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.side_effect",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "의약품을 복용했을 때 의도한 주효과 besides 나타나는 모든 효과다. 대부분은 가볍지만 때로는 심각할 수 있다.",
+        "exampleIds": [
+          "exm.sa.health.side_effect.1.1.ko"
+        ],
+        "gloss": "약사가 의도한 효과 외에 나타나는 효과.",
+        "id": "sns.sa.health.side_effect.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.side_effect",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É qualquer reação ou efeito não desejado causado por um medicamento, além da sua finalidade terapêutica.",
+        "exampleIds": [
+          "exm.sa.health.side_effect.1.1.pt_br"
+        ],
+        "gloss": "Qualquer efeito de um medicamento além daquele para o qual ele foi indicado.",
+        "id": "sns.sa.health.side_effect.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.side_effect",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Efek samping adalah setiap efek yang muncul setelah suatu obat digunakan, selain efek utama yang dikehendaki. Efek ini dapat terjadi saat obat mulai dipakai maupun setelah jangka waktu tertentu.",
+        "exampleIds": [
+          "exm.sa.health.side_effect.1.1.id"
+        ],
+        "gloss": "Efek tambahan yang muncul akibat pemakaian obat selain efek yang dimaksudkan.",
+        "id": "sns.sa.health.side_effect.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.side_effect",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ผลใด ๆ ที่เกิดขึ้นจากยานอกเหนือจากผลตามคำแนะนำ อาจเป็นผลดีหรือผลเสียก็ได้ ไม่ได้หมายถึงผลเสียเท่านั้น",
+        "exampleIds": [
+          "exm.sa.health.side_effect.1.1.th"
+        ],
+        "gloss": "ผลข้างเคียงที่ยาให้นอกเหนือจากผลที่ต้องการ",
+        "id": "sns.sa.health.side_effect.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.side_effect",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir ilacın tedavi etmek için kullanıldığı etkinin yanında başka etkiler de oluşabilir; bunlara yan etki denir.",
+        "exampleIds": [
+          "exm.sa.health.side_effect.1.1.tr"
+        ],
+        "gloss": "İlacın amaçladığı etki dışında ortaya çıkan her türlü etkidir.",
+        "id": "sns.sa.health.side_effect.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.side_effect",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.side_effect.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+        "translation": "Mide bulantısı ilacın yan etkisi olarak listelenmiştir ve genellikle ilk günlerden sonra geçer.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.side_effect.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+        "translation": "คลื่นไส้อยู่ในรายการผลข้างเคียงของยาและมักหายไปหลังใช้ยาไม่กี่วัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.side_effect.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+        "translation": "Mual Listed sebagai efek samping dan biasanya hilang setelah beberapa hari pertama.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.side_effect.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+        "translation": "A náusea está entre os efeitos colaterais e costuma passar após os primeiros dias.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.side_effect.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+        "translation": "구역은 명부에 부작용으로 나와 있으며 보통 며칠 지나면 사라진다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.side_effect.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+        "translation": "この薬は眠気を副作用として示しています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.side_effect.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "71091954789c1587bb032fbfb964bfe7257b758c690b8157213147fa11c3bef1": [
+      {
+        "forms": [
+          "Roadside assistance",
+          "roadside_assistance"
+        ],
+        "id": "lex.sa.daily_skills.roadside_assistance",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Roadside assistance",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.roadside_assistance.alt",
+          "sns.sa.daily_skills.roadside_assistance.alt.ja",
+          "sns.sa.daily_skills.roadside_assistance.alt.ko",
+          "sns.sa.daily_skills.roadside_assistance.alt.pt_br",
+          "sns.sa.daily_skills.roadside_assistance.alt.id",
+          "sns.sa.daily_skills.roadside_assistance.alt.th",
+          "sns.sa.daily_skills.roadside_assistance.alt.tr"
+        ]
+      },
+      {
+        "definition": "The service that comes to help a broken-down car. It comes through insurance, a manufacturer package or a separate membership.",
+        "exampleIds": [
+          "exm.sa.daily_skills.roadside_assistance.1.1"
+        ],
+        "gloss": "The service that comes to help a broken-down car. It comes through insurance, a manufacturer package or a separate membership.",
+        "id": "sns.sa.daily_skills.roadside_assistance.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.roadside_assistance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自動車保険、メーカーによる付帯サービス、または個人で加入するサービスとして利用できる。",
+        "exampleIds": [
+          "exm.sa.daily_skills.roadside_assistance.1.1.ja"
+        ],
+        "gloss": "故障した車の現場へ救援に来るサービス。",
+        "id": "sns.sa.daily_skills.roadside_assistance.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.roadside_assistance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "고장 난 차량에 출동해 도움을 제공하는 서비스이다. 보험, 제조사 지원 프로그램 또는 별도의 회원제 서비스로 제공된다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.roadside_assistance.1.1.ko"
+        ],
+        "gloss": "도로에서 고장 난 차량을援助하는 서비스.",
+        "id": "sns.sa.daily_skills.roadside_assistance.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.roadside_assistance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Esse serviço pode ser incluído em um seguro, em um pacote da montadora ou em uma assinatura específica. Em geral, oferece transporte, guincho ou atendimento no local da pane.",
+        "exampleIds": [
+          "exm.sa.daily_skills.roadside_assistance.1.1.pt_br"
+        ],
+        "gloss": "Serviço enviado para ajudar um carro que quebrou no caminho.",
+        "id": "sns.sa.daily_skills.roadside_assistance.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.roadside_assistance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Layanan ini biasanya disediakan melalui asuransi, paket produsen, atau keanggotaan terpisah.",
+        "exampleIds": [
+          "exm.sa.daily_skills.roadside_assistance.1.1.id"
+        ],
+        "gloss": "Layanan yang datang menolong kendaraan yang mogok di pinggir jalan.",
+        "id": "sns.sa.daily_skills.roadside_assistance.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.roadside_assistance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "บริการที่มาช่วยเหลือรถเสียทาง อาจรวมอยู่ในประกัน แพ็กเกจจากผู้ผลิตรถ หรือการเป็นสมาชิกของบริการแยกต่างหาก ควรตรวจสอบว่าครอบคลุมพื้นที่ที่ต้องการหรือไม่",
+        "exampleIds": [
+          "exm.sa.daily_skills.roadside_assistance.1.1.th"
+        ],
+        "gloss": "บริการช่วยเหลือรถชนกลางทาง",
+        "id": "sns.sa.daily_skills.roadside_assistance.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.roadside_assistance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Arıza yapan bir aracı yoldan alıp yardımcı olan hizmet. Sigorta, üretici paketi veya ayrı bir üyelik aracılığıyla sağlanabilir.",
+        "exampleIds": [
+          "exm.sa.daily_skills.roadside_assistance.1.1.tr"
+        ],
+        "gloss": "Arıza yapan bir araca yardıma giden hizmet.",
+        "id": "sns.sa.daily_skills.roadside_assistance.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.roadside_assistance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.roadside_assistance.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Do you know whether my roadside assistance covers a call-out in this area?",
+        "translation": "Yol yardımının bu bölgeye yapılan çağrıları karşılayıp karşılamadığını biliyor musunuz?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.roadside_assistance.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Do you know whether my roadside assistance covers a call-out in this area?",
+        "translation": "คุณรู้ไหมว่าบริการช่วยเหลือรถชนกลางทางของผมครอบคลุมการเรียกรถในย่านนี้หรือไม่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.roadside_assistance.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Do you know whether my roadside assistance covers a call-out in this area?",
+        "translation": "Apakah bantuan pinggir jalan saya mencakup pemanggilan di daerah ini?",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.roadside_assistance.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Do you know whether my roadside assistance covers a call-out in this area?",
+        "translation": "Você sabe se minha assistência veicular cobre um atendimento nesta região?",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.roadside_assistance.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Do you know whether my roadside assistance covers a call-out in this area?",
+        "translation": "제 도로 비상 지원 서비스가 이 지역에서의 출동 비용까지 보장하는지 아십니까?",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.roadside_assistance.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Do you know whether my roadside assistance covers a call-out in this area?",
+        "translation": "この地域でも故障車の出動 Asking を受けられますか。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.roadside_assistance.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Do you know whether my roadside assistance covers a call-out in this area?",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "712190db94301594ca0c27329fa9b93bb169abba158b1271ea989c092df25e96": [
+      {
+        "forms": [
+          "Pattern",
+          "kpar_pattern"
+        ],
+        "id": "lex.sa.mind.kpar_pattern",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Pattern",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.kpar_pattern.alt",
+          "sns.sa.mind.kpar_pattern.alt.ja",
+          "sns.sa.mind.kpar_pattern.alt.ko",
+          "sns.sa.mind.kpar_pattern.alt.pt_br",
+          "sns.sa.mind.kpar_pattern.alt.id",
+          "sns.sa.mind.kpar_pattern.alt.th",
+          "sns.sa.mind.kpar_pattern.alt.tr"
+        ]
+      },
+      {
+        "definition": "A shape that several facts share, which is easier to see than the facts themselves.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_pattern.1.1"
+        ],
+        "gloss": "A shape that several facts share, which is easier to see than the facts themselves.",
+        "id": "sns.sa.mind.kpar_pattern.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.kpar_pattern",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "複数の事実に共通する形や傾向で、それ自体を観察するほうが個々の事実より把握しやすい。",
+        "exampleIds": [
+          "exm.sa.mind.kpar_pattern.1.1.ja"
+        ],
+        "gloss": "複数の事実に共通する形や傾向。",
+        "id": "sns.sa.mind.kpar_pattern.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.kpar_pattern",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "여러 사실이 공유하는 형태나 양상으로, 각각의 사실을 따로 보는보다 쉽게 알아챌 수 있다.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_pattern.1.1.ko"
+        ],
+        "gloss": "여러 사실에 공통으로 나타나는 형태.",
+        "id": "sns.sa.mind.kpar_pattern.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.kpar_pattern",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Um formato ou regularidade que vários fatos compartilham. É usado para identificar similarities que podem passar despercebidas.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_pattern.1.1.pt_br"
+        ],
+        "gloss": "Um formato que vários fatos compartilham e que é mais fácil perceber do que os próprios fatos.",
+        "id": "sns.sa.mind.kpar_pattern.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.kpar_pattern",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bentuk yang sama dimiliki beberapa fakta, sehingga lebih mudah dilihat daripada fakta-fakta itu sendiri. Kata ini dipakai ketika beberapa kejadian atau laporan menunjukkan kesamaan yang tidak plainly terlihat satu per satu.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_pattern.1.1.id"
+        ],
+        "gloss": "Bentuk yang sama dimiliki beberapa fakta, sehingga lebih mudah dilihat daripada fakta-fakta itu sendiri.",
+        "id": "sns.sa.mind.kpar_pattern.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.kpar_pattern",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "รูปแบบหรือลักษณะร่วมที่ปรากฏในข้อเท็จจริงหลายรายการ ซึ่งมองเห็นได้ง่ายกว่าการพิจารณาข้อเท็จจริงแต่ละรายการ",
+        "exampleIds": [
+          "exm.sa.mind.kpar_pattern.1.1.th"
+        ],
+        "gloss": "รูปแบบร่วมที่พบในข้อเท็จจริงหลายรายการ",
+        "id": "sns.sa.mind.kpar_pattern.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.kpar_pattern",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bazı olguların ortaklaşa taşıdığı ve olguların kendisinden daha kolay görülen biçim. Arızalarda benzerlik gösteren düzenli örüntüyü ifade eder.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_pattern.1.1.tr"
+        ],
+        "gloss": "Bazı olguların ortaklaşa taşıdığı, olguların kendisinden daha kolay görülen biçim.",
+        "id": "sns.sa.mind.kpar_pattern.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.kpar_pattern",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.kpar_pattern.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Üç arızada da aynı örüntü var: conta, parça arızalanmadan önce sızdırmaya başlıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.kpar_pattern.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ข้อผิดพลาดทั้งสามรายการมีรูปแบบเดียวกัน คือซีลเริ่มรั่วก่อนชิ้นส่วนจะเสียหาย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.kpar_pattern.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pola yang sama terdapat pada ketiga kerusukan: seal mulai bocor sebelum bagiannya gagal.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.kpar_pattern.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O mesmo padrão aparece nas três falhas: a vedação começa a vazar antes de a peça falhar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.kpar_pattern.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "세 고장 모두 같은 양상이 나타난다. 고무패킹이 부품의 고장보다 먼저 새어 나기 때문이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.kpar_pattern.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "三つの不具合には同じパターンがあり、いずれも部品が故障する前にシールから漏れ始める。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.kpar_pattern.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The same pattern is in all three faults: the seal starts to leak before the part fails.",
+        "translation": "Cùng một mẫu hình xuất hiện trong cả ba sự cố: gioăng bắt đầu rò rỉ trước khi bộ phận hỏng.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "712754ad949caa525cb38f9e3544b05ac652db788c4556655944e4660598318e": [
+      {
+        "forms": [
+          "Lunch box",
+          "lunch_box"
+        ],
+        "id": "lex.sa.kids_home.lunch_box",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Lunch box",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_home.lunch_box.alt",
+          "sns.sa.kids_home.lunch_box.alt.ja",
+          "sns.sa.kids_home.lunch_box.alt.ko",
+          "sns.sa.kids_home.lunch_box.alt.pt_br",
+          "sns.sa.kids_home.lunch_box.alt.id",
+          "sns.sa.kids_home.lunch_box.alt.th",
+          "sns.sa.kids_home.lunch_box.alt.tr"
+        ]
+      },
+      {
+        "definition": "A box that carries the food you eat at the school break.",
+        "exampleIds": [
+          "exm.sa.kids_home.lunch_box.1.1"
+        ],
+        "gloss": "A box that carries the food you eat at the school break.",
+        "id": "sns.sa.kids_home.lunch_box.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_home.lunch_box",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "学校サイトの休みに持参した昼食詰める箱。riceや肉などの food，盖vig.",
+        "exampleIds": [],
+        "gloss": "学校サイトの休みに食べる lunchescribeを入れる箱。",
+        "id": "sns.sa.kids_home.lunch_box.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_home.lunch_box",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "학교의 급식 시간에 먹을 밥과 간식을 넣어 가지고 다니는 상자다. 음식을 담는 용기라는 뜻으로, 음식을 먹는 장소 자체를 가리키지는 않는다.",
+        "exampleIds": [
+          "exm.sa.kids_home.lunch_box.1.1.ko"
+        ],
+        "gloss": "학교에서 쉬는 시간에 먹을 음식을 담는 상자.",
+        "id": "sns.sa.kids_home.lunch_box.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_home.lunch_box",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recipiente que uma criança leva para a escola para comer durante o recreio. No Brasil, esse recipiente é chamado com frequência de lancheira.",
+        "exampleIds": [
+          "exm.sa.kids_home.lunch_box.1.1.pt_br"
+        ],
+        "gloss": "Caixa ou recipiente usado para levar a comida do recreio.",
+        "id": "sns.sa.kids_home.lunch_box.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_home.lunch_box",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kotak makan siang adalah wadah yang digunakan untuk membawa makanan, terutama saat masih bersekolah. Kotak ini biasanya dibuat kedap udara agar makanan tetap aman sampai jam istirahat.",
+        "exampleIds": [
+          "exm.sa.kids_home.lunch_box.1.1.id"
+        ],
+        "gloss": "Kotak yang membawa makanan untuk dimakan saat istirahat sekolah.",
+        "id": "sns.sa.kids_home.lunch_box.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_home.lunch_box",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กล่องที่ใช้เก็บอาหารสำหรับกลับไปกินในช่วงพักกลางวัน",
+        "exampleIds": [
+          "exm.sa.kids_home.lunch_box.1.1.th"
+        ],
+        "gloss": "กล่องบรรจุอาหารที่ใช้กินในช่วงพักกลางวันที่โรงเรียน",
+        "id": "sns.sa.kids_home.lunch_box.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_home.lunch_box",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Okulda öğle arasında yiyeceğini taşımak için kullanılan kutu.",
+        "exampleIds": [
+          "exm.sa.kids_home.lunch_box.1.1.tr"
+        ],
+        "gloss": "Okul arasında yenecek yiyeceği taşıyan kutu.",
+        "id": "sns.sa.kids_home.lunch_box.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_home.lunch_box",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_home.lunch_box.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My lunch box has rice and chicken in it.",
+        "translation": "Yemek kutumda pilav ve tavuk var.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_home.lunch_box.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My lunch box has rice and chicken in it.",
+        "translation": "กล่องอาหารกลางวันของฉันมีข้าวและไก่อยู่ข้างใน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_home.lunch_box.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My lunch box has rice and chicken in it.",
+        "translation": "Kotak makan siang saya berisi nasi dan ayam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_home.lunch_box.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My lunch box has rice and chicken in it.",
+        "translation": "Minha lancheira tem arroz e frango.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_home.lunch_box.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My lunch box has rice and chicken in it.",
+        "translation": "내 급식통에는 밥과 닭고기가 들어 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_home.lunch_box.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My lunch box has rice and chicken in it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "715ac4157cce078da8502e12a48884b3c44a796e8e857ffe478f3b9e791d996d": [
+      {
+        "forms": [
+          "Offsiting",
+          "offsiting"
+        ],
+        "id": "lex.sa.culture.offsiting",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Offsiting",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.culture.offsiting.alt",
+          "sns.sa.culture.offsiting.alt.ja",
+          "sns.sa.culture.offsiting.alt.ko",
+          "sns.sa.culture.offsiting.alt.pt_br",
+          "sns.sa.culture.offsiting.alt.id",
+          "sns.sa.culture.offsiting.alt.th",
+          "sns.sa.culture.offsiting.alt.tr"
+        ]
+      },
+      {
+        "definition": "Working from a shared space other than your own home, which many employers offer or pay for.",
+        "exampleIds": [
+          "exm.sa.culture.offsiting.1.1"
+        ],
+        "gloss": "Working from a shared space other than your own home, which many employers offer or pay for.",
+        "id": "sns.sa.culture.offsiting.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.culture.offsiting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自宅ではなく、コワーキングスペースなどの共有場所で働く勤務形態です。許多雇主は、これを許可し、费用を補助することもあります。",
+        "exampleIds": [
+          "exm.sa.culture.offsiting.1.1.ja"
+        ],
+        "gloss": "自宅以外の共有スペースで勤務すること。",
+        "id": "sns.sa.culture.offsiting.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.culture.offsiting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "재택이 아니라 공동오피스나 공유 업무 공간에서 일하는 방식이며, employers가 공간 이용료를 지원하는 경우도 많다.",
+        "exampleIds": [
+          "exm.sa.culture.offsiting.1.1.ko"
+        ],
+        "gloss": "자기 집이 아닌 공유 업무 공간에서 근무하는 것.",
+        "id": "sns.sa.culture.offsiting.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.culture.offsiting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Modalidade de trabalho em que o empregado utiliza um espaço compartilhado, como umacoworking, em vez de trabalhar em casa. Muitos empregadores oferecem ou reembolsam parte do custo.",
+        "exampleIds": [
+          "exm.sa.culture.offsiting.1.1.pt_br"
+        ],
+        "gloss": "Trabalho em um espaço compartilhado fora de casa, muitas vezes com apoio financeiro do empregador.",
+        "id": "sns.sa.culture.offsiting.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.culture.offsiting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bekerja di ruang kerja yang dipakai bersama oleh banyak orang, seperti ruang kerja bersama. Banyak perusahaan menawarkan atau membayar biaya tempat kerja seperti ini.",
+        "exampleIds": [
+          "exm.sa.culture.offsiting.1.1.id"
+        ],
+        "gloss": "Bekerja dari ruang kerja bersama, bukan dari rumah.",
+        "id": "sns.sa.culture.offsiting.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.culture.offsiting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การทำงานจากพื้นที่ใช้ร่วมกัน เช่น สำนักงานเช่า หรือพื้นที่ทำงานร่วม โดยหลายองค์กรเสนอหรือจ่ายค่าใช้จ่ายส่วนนี้ให้",
+        "exampleIds": [
+          "exm.sa.culture.offsiting.1.1.th"
+        ],
+        "gloss": "การทำงานที่พื้นที่ใช้ร่วมกันซึ่งไม่ใช่บ้านของตน",
+        "id": "sns.sa.culture.offsiting.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.culture.offsiting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çalışanın kendi evi dışında ortak bir çalışma alanı kullanarak çalışmasıdır. Birçok işveren bu alanı sağlar veya masrafını karşılar.",
+        "exampleIds": [
+          "exm.sa.culture.offsiting.1.1.tr"
+        ],
+        "gloss": "Ev dışında paylaşılan bir çalışma alanından çalışma uygulamasıdır.",
+        "id": "sns.sa.culture.offsiting.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.culture.offsiting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.culture.offsiting.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My company gave me an offsiting budget of two hundred dollars a month.",
+        "translation": "Şirketim bana ayda iki yüz dolarlık ortak çalışma alanı bütçesi verdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.culture.offsiting.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My company gave me an offsiting budget of two hundred dollars a month.",
+        "translation": "บริษัทของฉันจ่ายค่าใช้จ่ายสำหรับการทำงานที่พื้นที่ใช้ร่วมกันเดือนละ 200 ดอลลาร์",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.culture.offsiting.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My company gave me an offsiting budget of two hundred dollars a month.",
+        "translation": "Perusahaan saya memberi saya anggaran untuk bekerja di ruang kerja bersama sebesar dua ratus dolar per bulan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.culture.offsiting.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My company gave me an offsiting budget of two hundred dollars a month.",
+        "translation": "Minha empresa me concedeu um benefício de R$ 200 por mês para trabalhar em um espaço compartilhado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.culture.offsiting.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My company gave me an offsiting budget of two hundred dollars a month.",
+        "translation": "제 회사는 외부 근무 공간에 월 200달러의 예산을 지원합니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.culture.offsiting.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My company gave me an offsiting budget of two hundred dollars a month.",
+        "translation": "Journalling meiner Firma gab mir einen monatlichen Zuschuss für die Arbeit in einem geteilten Arbeitsbereich von zweihundert Dollar.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.culture.offsiting.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My company gave me an offsiting budget of two hundred dollars a month.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "716ecabb45ac6a88a049398fde2d3d5225c6dd3121ae9bbc5af457eb4baf056a": [
+      {
+        "forms": [
+          "Wait",
+          "wait"
+        ],
+        "id": "lex.sa.kids_feelings.wait",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Wait",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_feelings.wait.alt",
+          "sns.sa.kids_feelings.wait.alt.ja",
+          "sns.sa.kids_feelings.wait.alt.ko",
+          "sns.sa.kids_feelings.wait.alt.pt_br",
+          "sns.sa.kids_feelings.wait.alt.id",
+          "sns.sa.kids_feelings.wait.alt.th",
+          "sns.sa.kids_feelings.wait.alt.tr"
+        ]
+      },
+      {
+        "definition": "To stay calm and do something else until your turn comes.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.wait.1.1"
+        ],
+        "gloss": "To stay calm and do something else until your turn comes.",
+        "id": "sns.sa.kids_feelings.wait.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_feelings.wait",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自分の順番が来るまで、怒ったり慌てたりせず、静かに待つこと。",
+        "exampleIds": [
+          "exm.sa.kids_feelings.wait.1.1.ja"
+        ],
+        "gloss": "自分の順番が来るまで、落ち着いて別のことをすること。",
+        "id": "sns.sa.kids_feelings.wait.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_feelings.wait",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "내 차례가 되거나 어떤 일이 끝날 때까지 조용히 기다리는 것을 말한다.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.wait.1.1.ko"
+        ],
+        "gloss": "자신의 차례가 올 때까지 차분히 기다리는 것.",
+        "id": "sns.sa.kids_feelings.wait.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_feelings.wait",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Permanecer no mesmo lugar, com calma, até o momento apropriado. Pode-se esperar fazendo outra atividade enquanto se aguarda.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.wait.1.1.pt_br"
+        ],
+        "gloss": "Ficar em espera até chegar a sua vez.",
+        "id": "sns.sa.kids_feelings.wait.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_feelings.wait",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tetap menunggu sambil melakukan kegiatan lain sampai waktunya mendapat giliran. Menunggu tidak selalu berarti tidak melakukan apa pun.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.wait.1.1.id"
+        ],
+        "gloss": "Bertunggu dengan tenang sampai giliran datang.",
+        "id": "sns.sa.kids_feelings.wait.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_feelings.wait",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การอยู่อย่างใจเย็นและทำสิ่งอื่นระหว่างรอ มักใช้เมื่อคนอื่นยังไม่ถึงคิว",
+        "exampleIds": [
+          "exm.sa.kids_feelings.wait.1.1.th"
+        ],
+        "gloss": "การรออย่างใจเย็นจนกว่าจะถึงตาของตน",
+        "id": "sns.sa.kids_feelings.wait.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_feelings.wait",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kendine sıra gelene kadar sabretme ve başka bir şeyle uğraşma. Acele etmeden beklemek anlamına gelir.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.wait.1.1.tr"
+        ],
+        "gloss": "Sıran gelene kadar sabırlı olup başka bir şeyle meşgul olma eylemi.",
+        "id": "sns.sa.kids_feelings.wait.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_feelings.wait",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_feelings.wait.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I wait until my friend finishes the puzzle.",
+        "translation": "Arkadaşım bulmacayı bitirene kadar bekliyorum.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_feelings.wait.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I wait until my friend finishes the puzzle.",
+        "translation": "ฉันรอจนกว่าเพื่อนจะต่อกรุชนีเสร็จ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_feelings.wait.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I wait until my friend finishes the puzzle.",
+        "translation": "Saya menunggu sampai teman saya selesai teased",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_feelings.wait.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I wait until my friend finishes the puzzle.",
+        "translation": "Espero até meu amigo terminar o quebra-cabeça.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_feelings.wait.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I wait until my friend finishes the puzzle.",
+        "translation": "친구가 퍼즐을 끝낼 때까지 기다렸다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_feelings.wait.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I wait until my friend finishes the puzzle.",
+        "translation": "友達が puzzle を終えるまで wait する。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_feelings.wait.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I wait until my friend finishes the puzzle.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7175517a370b5cd2e664e3fd29c4ea9db5ce17058eb9772fe090a5485e49dad6": [
+      {
+        "forms": [
+          "or"
+        ],
+        "id": "lex.sa.en.or.conjunction",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "or",
+        "pos": "conjunction",
+        "senseIds": [
+          "sns.sa.vi.or.conjunction.1",
+          "sns.sa.en.or-conjunction.alt"
+        ]
+      },
+      {
+        "definition": "Đưa ra một lựa chọn khác.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "hoặc",
+        "id": "sns.sa.vi.or.conjunction.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.or.conjunction",
+        "pos": "conjunction",
+        "revision": 1
+      },
+      {
+        "definition": "A word introducing a choice.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "Introduces an alternative.",
+        "id": "sns.sa.en.or-conjunction.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.or.conjunction",
+        "pos": "conjunction",
+        "revision": 1
+      }
+    ],
+    "7175b4c61c689ff28aa302c36972c4b1419422dd21361c442c847d4afd6dbe8f": [
+      {
+        "forms": [
+          "Technical debt"
+        ],
+        "id": "lex.sa.mind.technical_debt",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Technical debt",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.technical_debt.en",
+          "sns.sa.mind.technical_debt.vi"
+        ]
+      },
+      {
+        "definition": "The future cost of shortcuts in software: work that must be redone because quick solutions were chosen over correct ones.",
+        "exampleIds": [],
+        "gloss": "The future cost of shortcuts in software: work that must be redone because quick solutions were chosen over correct ones.",
+        "id": "sns.sa.mind.technical_debt.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.technical_debt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Chi phí tương lai của lối tắt trong phần mềm: những việc phải làm lại vì đã chọn giải pháp nhanh thay vì đúng.",
+        "id": "sns.sa.mind.technical_debt.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.technical_debt",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "718ddb246ff47da1fecc0629d37c05a28e518c29c37a4809171fbb9f55caa958": [
+      {
+        "forms": [
+          "Nomad visa",
+          "nomad_visa"
+        ],
+        "id": "lex.sa.culture.nomad_visa",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Nomad visa",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.culture.nomad_visa.alt",
+          "sns.sa.culture.nomad_visa.alt.ja",
+          "sns.sa.culture.nomad_visa.alt.ko",
+          "sns.sa.culture.nomad_visa.alt.pt_br",
+          "sns.sa.culture.nomad_visa.alt.id",
+          "sns.sa.culture.nomad_visa.alt.th",
+          "sns.sa.culture.nomad_visa.alt.tr"
+        ]
+      },
+      {
+        "definition": "A residence permit for people who work remotely for foreign employers or clients without a local work permit.",
+        "exampleIds": [
+          "exm.sa.culture.nomad_visa.1.1"
+        ],
+        "gloss": "A residence permit for people who work remotely for foreign employers or clients without a local work permit.",
+        "id": "sns.sa.culture.nomad_visa.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.culture.nomad_visa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "外国の雇主や取引先にリモート勤務し。现地の労働許可なしで働く人向けの在留許可です。収入や契約書の证明が求められる場合があります。",
+        "exampleIds": [
+          "exm.sa.culture.nomad_visa.1.1.ja"
+        ],
+        "gloss": "遠隔勤務者向けの滞在許可。",
+        "id": "sns.sa.culture.nomad_visa.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.culture.nomad_visa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "외국 고용주나 고객을远程로 상대하면서 현지 근무 허가 없이 살 수 있도록 허용하는 비자다.",
+        "exampleIds": [
+          "exm.sa.culture.nomad_visa.1.1.ko"
+        ],
+        "gloss": "외국 회사를 위해 원격 근무하는 사람을 위한 체류 허가.",
+        "id": "sns.sa.culture.nomad_visa.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.culture.nomad_visa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Autorização para pessoas que trabalham remotamente para empresas ou clientes fora do país, sem precisar de uma autorização local de trabalho. Também pode exigir comprovação de renda.",
+        "exampleIds": [
+          "exm.sa.culture.nomad_visa.1.1.pt_br"
+        ],
+        "gloss": "Permissão de residência para nômades digitais que trabalham remotamente para empregadores ou clientes estrangeiros.",
+        "id": "sns.sa.culture.nomad_visa.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.culture.nomad_visa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Izin tinggal yang diberikan kepada orang yang bekerja jarak jauh dari majikan atau klien di luar negeri tanpa izin kerja setempat. Pemohon biasanya harus membuktikan penghasilan yang memenuhi syarat.",
+        "exampleIds": [
+          "exm.sa.culture.nomad_visa.1.1.id"
+        ],
+        "gloss": "Izin tinggal untuk pekerja jarak jauh bagi perusahaan atau klien asing.",
+        "id": "sns.sa.culture.nomad_visa.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.culture.nomad_visa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ใบอนุญาตพักอาศัยสำหรับผู้ทำงานระยะไกลให้นายจ้างหรือลูกค้าต่างประเทศ โดยไม่ต้องมีใบอนุญาตทำงานในประเทศนั้น",
+        "exampleIds": [
+          "exm.sa.culture.nomad_visa.1.1.th"
+        ],
+        "gloss": "วีซ่าอนุญาตให้พักอาศัยสำหรับผู้ทำงานระยะไกลให้บริษัทหรือลูกค้าต่างประเทศ",
+        "id": "sns.sa.culture.nomad_visa.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.culture.nomad_visa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yabancı bir işverene ya da müşteriye uzaktan çalışan kişilerin edinebildiği oturma iznidir. Kişinin ülkeye fiziksel olarak yerleşik çalışması gerekmez.",
+        "exampleIds": [
+          "exm.sa.culture.nomad_visa.1.1.tr"
+        ],
+        "gloss": "Yerel çalışma izni olmadan yabancı işveren veya müşteriler için uzaktan çalışanlara verilen oturma iznidir.",
+        "id": "sns.sa.culture.nomad_visa.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.culture.nomad_visa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.culture.nomad_visa.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The nomad visa requires proof of income above a monthly threshold.",
+        "translation": "Uzaktan çalışma vizesi için aylık belirli bir gelir düzeyini gösterdiğimi kanıtlamam gerekiyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.culture.nomad_visa.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The nomad visa requires proof of income above a monthly threshold.",
+        "translation": "วีซ่านักเดินทางดิจิทัลต้องมีหลักฐานรายได้เกินยอดขั้นต่ำรายเดือน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.culture.nomad_visa.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The nomad visa requires proof of income above a monthly threshold.",
+        "translation": "Visa nomaden memerlukan bukti penghasilan di atas ambang bulanan tertentu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.culture.nomad_visa.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The nomad visa requires proof of income above a monthly threshold.",
+        "translation": "O visto de nômade exige a comprovação de uma renda acima de um limite mensal.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.culture.nomad_visa.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The nomad visa requires proof of income above a monthly threshold.",
+        "translation": "노마드 비자를 받으려면 월 수입이 일정 금액 이상이라는 증명이 필요합니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.culture.nomad_visa.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The nomad visa requires proof of income above a monthly threshold.",
+        "translation": "ノマドビザには、月収が一定の基準額を超える証明が必要です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.culture.nomad_visa.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The nomad visa requires proof of income above a monthly threshold.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "71a7d80f2bccdfffe54403b3bad6e1cc4af6ec9620ddd330e8c1b21c253a9a2a": [
+      {
+        "forms": [
+          "Behavioural question",
+          "behavioural_question"
+        ],
+        "id": "lex.sa.work.behavioural_question",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Behavioural question",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.behavioural_question.alt",
+          "sns.sa.work.behavioural_question.alt.ja",
+          "sns.sa.work.behavioural_question.alt.ko",
+          "sns.sa.work.behavioural_question.alt.pt_br",
+          "sns.sa.work.behavioural_question.alt.id",
+          "sns.sa.work.behavioural_question.alt.th",
+          "sns.sa.work.behavioural_question.alt.tr"
+        ]
+      },
+      {
+        "definition": "An interview question about something you actually did in the past, usually answered with a specific example.",
+        "exampleIds": [
+          "exm.sa.work.behavioural_question.1.1"
+        ],
+        "gloss": "An interview question about something you actually did in the past, usually answered with a specific example.",
+        "id": "sns.sa.work.behavioural_question.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.behavioural_question",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "候補者が過去にどう行動したかを具体的な例に基づいて尋ねる面接の質問で、一般的な方針を尋ねるものとは異なる。",
+        "exampleIds": [
+          "exm.sa.work.behavioural_question.1.1.ja"
+        ],
+        "gloss": "実際の経験を尋ねる面接の質問。",
+        "id": "sns.sa.work.behavioural_question.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.behavioural_question",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대의 신념이나 일반적인 원칙이 아니라 과거의 구체적인 경험을 묻는 유형의 면접 질문이다. 상황에 맞는 실제 사례를 들여 답해야 한다.",
+        "exampleIds": [
+          "exm.sa.work.behavioural_question.1.1.ko"
+        ],
+        "gloss": "과거에 실제로 한 행동의 예를 묻는 면접 질문.",
+        "id": "sns.sa.work.behavioural_question.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.behavioural_question",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pergunta que solicita a descrição de uma situação vivida e de uma condutaadotada, normalmente como exemplo. Em geral, espera-se uma resposta concreta, não uma teoria geral.",
+        "exampleIds": [
+          "exm.sa.work.behavioural_question.1.1.pt_br"
+        ],
+        "gloss": "Pergunta de entrevista sobre uma ação ou experiência real.",
+        "id": "sns.sa.work.behavioural_question.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.behavioural_question",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pertanyaan yang meminta contoh nyata tentang tindakan atau pengalaman masa lalu, bukan sekadar pendapat atau prinsip umum.",
+        "exampleIds": [
+          "exm.sa.work.behavioural_question.1.1.id"
+        ],
+        "gloss": "Pertanyaan wawancara tentang pengalaman nyata pada masa lalu.",
+        "id": "sns.sa.work.behavioural_question.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.behavioural_question",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คำถามที่ขอให้ผู้สมัครเล่าเรื่องเหตุการณ์หรือการกระทำที่เกิดขึ้นจริงในอดีต มักต้องตอบด้วยตัวอย่างเฉพาะเจาะจง ไม่ใช่คำตอบเชิงหลักการ",
+        "exampleIds": [
+          "exm.sa.work.behavioural_question.1.1.th"
+        ],
+        "gloss": "คำถามสัมภาษณ์ที่ถามเรื่องการกระทำจริงในอดีต",
+        "id": "sns.sa.work.behavioural_question.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.behavioural_question",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Adayın geçmişte bir durumla nasıl baş ettiğini, ne yaptığını ve ne öğrendiğini soran mülakat sorusudur. Genel ilkelerden çok belirli bir deneyim örneği ister.",
+        "exampleIds": [
+          "exm.sa.work.behavioural_question.1.1.tr"
+        ],
+        "gloss": "Geçmişte gerçekten ne yapıldığını soran ve somut bir örnek isteyen mülakat sorusudur.",
+        "id": "sns.sa.work.behavioural_question.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.behavioural_question",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.behavioural_question.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was a behavioural question, so she should give a real story, not a general principle.",
+        "translation": "Bu davranışsal bir soruydu; aday genel bir ilke yerine gerçek bir olay anlatmalıydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.behavioural_question.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was a behavioural question, so she should give a real story, not a general principle.",
+        "translation": "นี่เป็นคำถามเชิงพฤติกรรม เธอจึงควรเล่าเรื่องจริงที่เคยเกิดขึ้น ไม่ใช่การอธิบายหลักการทั่วไป",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.behavioural_question.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was a behavioural question, so she should give a real story, not a general principle.",
+        "translation": "Itu adalah pertanyaan perilaku, jadi seharusnya ia menceritakan pengalaman nyata, bukan只用 prinsip umum.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.behavioural_question.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was a behavioural question, so she should give a real story, not a general principle.",
+        "translation": "Como era uma pergunta comportamental, ela deveria contar uma situação real, e não apenas expor um princípio.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.behavioural_question.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was a behavioural question, so she should give a real story, not a general principle.",
+        "translation": "행동 면접 질문이니까 일반적인 원리보다 she'd가 실제로 했던 이야기를 말해야 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.behavioural_question.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was a behavioural question, so she should give a real story, not a general principle.",
+        "translation": "これは実際の経験を尋ねる質問なので、考えではなく具体的に話してください。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.behavioural_question.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was a behavioural question, so she should give a real story, not a general principle.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,854 @@
+{
+  "records": {
+    "3d3daab58688b52774519d4a96c39ba66bebdb3ed56067559709f33bfffc1f0c": [
+      {
+        "forms": [
+          "Can I?",
+          "can_i"
+        ],
+        "id": "lex.sa.kids_daily.can_i",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Can I?",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_daily.can_i.alt",
+          "sns.sa.kids_daily.can_i.alt.ja",
+          "sns.sa.kids_daily.can_i.alt.ko",
+          "sns.sa.kids_daily.can_i.alt.pt_br",
+          "sns.sa.kids_daily.can_i.alt.id",
+          "sns.sa.kids_daily.can_i.alt.th",
+          "sns.sa.kids_daily.can_i.alt.tr"
+        ]
+      },
+      {
+        "definition": "A question asking if you are allowed to have something. The person can answer yes or no.",
+        "exampleIds": [
+          "exm.sa.kids_daily.can_i.1.1"
+        ],
+        "gloss": "A question asking if you are allowed to have something. The person can answer yes or no.",
+        "id": "sns.sa.kids_daily.can_i.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_daily.can_i",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "相手が True.",
+        "exampleIds": [
+          "exm.sa.kids_daily.can_i.1.1.ja"
+        ],
+        "gloss": "「〜てもいいですか」と許可を求める問い。",
+        "id": "sns.sa.kids_daily.can_i.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_daily.can_i",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자신에게 허락되었는지 묻는 질문 문장. 학교나 집에서 부모나 선생님에게 물을 때 쓴다.",
+        "exampleIds": [
+          "exm.sa.kids_daily.can_i.1.1.ko"
+        ],
+        "gloss": "무언가를 가져도 되는지 묻는 말. 상대는 예 아니오로 대답한다.",
+        "id": "sns.sa.kids_daily.can_i.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_daily.can_i",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Expressão interrogativa que pergunta se a pessoa tem autorização para fazer algo. A resposta pode ser sim ou não.",
+        "exampleIds": [
+          "exm.sa.kids_daily.can_i.1.1.pt_br"
+        ],
+        "gloss": "Posso?: pergunta usada para pedir permissão.",
+        "id": "sns.sa.kids_daily.can_i.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_daily.can_i",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kalimat berbentuk pertanyaan yang dipakai untuk meminta izin, misalnya meminta makanan atauMAIN kegiatan. Orang yang ditanya dapat menjawab ya atau tidak.",
+        "exampleIds": [
+          "exm.sa.kids_daily.can_i.1.1.id"
+        ],
+        "gloss": "Pertanyaan yang meminta izin untuk melakukan atau memiliki sesuatu.",
+        "id": "sns.sa.kids_daily.can_i.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_daily.can_i",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คำถามที่ถามว่าตนได้รับอนุญาตให้ได้สิ่งที่ต้องการหรือไม่ ผู้ถามสามารถตอบว่าได้หรือไม่ได้",
+        "exampleIds": [
+          "exm.sa.kids_daily.can_i.1.1.th"
+        ],
+        "gloss": "คำถามที่ขออนุญาต",
+        "id": "sns.sa.kids_daily.can_i.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_daily.can_i",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir şeyi yapma veya alma izni olup olmadığını soran sorudur; yanıtı evet ya da hayır olabilir.",
+        "exampleIds": [
+          "exm.sa.kids_daily.can_i.1.1.tr"
+        ],
+        "gloss": "Bir şeyi isteyip istemediğine dair izin soran soru.",
+        "id": "sns.sa.kids_daily.can_i.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_daily.can_i",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_daily.can_i.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a piece of bread?",
+        "translation": "Bir parça ekmek alabilir miyim?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_daily.can_i.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a piece of bread?",
+        "translation": "ฉันขอชิ้นหนึ่งของขนมปังได้ไหม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_daily.can_i.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a piece of bread?",
+        "translation": "Bolehkah saya mendapat sepotong roti?",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_daily.can_i.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a piece of bread?",
+        "translation": "Posso comer um pedaço de pão?",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_daily.can_i.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a piece of bread?",
+        "translation": "빵 한 조각을 먹어도 될까요?",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_daily.can_i.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a piece of bread?",
+        "translation": "パンを一つもらってもいいですか？",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_daily.can_i.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can I have a piece of bread?",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "3d7aff078497ffa41256a67e144e1f2cac99adf1091853bece4c7f27b40c4648": [
+      {
+        "forms": [
+          "Cognitive atrophy"
+        ],
+        "id": "lex.sa.mind.cognitive_atrophy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Cognitive atrophy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cognitive_atrophy.en",
+          "sns.sa.mind.cognitive_atrophy.vi"
+        ]
+      },
+      {
+        "definition": "The weakening of mental abilities through long disuse, similar to the shrinking of an unexercised muscle.",
+        "exampleIds": [],
+        "gloss": "The weakening of mental abilities through long disuse, similar to the shrinking of an unexercised muscle.",
+        "id": "sns.sa.mind.cognitive_atrophy.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cognitive_atrophy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Sự suy yếu của năng lực tâm trí qua thời gian dài không dùng đến, giống cơ bắp không tập sẽ teo.",
+        "id": "sns.sa.mind.cognitive_atrophy.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.cognitive_atrophy",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "3d7db37d08f9140fd09f12b9621cd0954b6d56a9d2f357fb2c7f5d62636d2fd1": [
+      {
+        "forms": [
+          "file",
+          "files"
+        ],
+        "id": "lex.sa.en.file.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "file",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.file.noun.1",
+          "sns.sa.en.file-noun.alt"
+        ]
+      },
+      {
+        "definition": "Một mục dữ liệu lưu trong máy, ví dụ ảnh, video hay âm thanh.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "tệp",
+        "id": "sns.sa.vi.file.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.file.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A named item of data stored on a device.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "A stored item of data such as an image, video or sound.",
+        "id": "sns.sa.en.file-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.file.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "3d96a458120e68868ccca6bad66be3fc8df4627a6b7372d69b98d3ba7688774d": [
+      {
+        "forms": [
+          "record",
+          "recorded"
+        ],
+        "id": "lex.sa.en.record.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "record",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.record.verb.1",
+          "sns.sa.en.record-verb.alt"
+        ]
+      },
+      {
+        "definition": "Thu âm trước hoặc ghi lại dữ liệu.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.16"
+        ],
+        "gloss": "ghi âm; ghi lại",
+        "id": "sns.sa.vi.record.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.record.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To capture and store sound or data.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.16"
+        ],
+        "gloss": "To capture sound or data in advance.",
+        "id": "sns.sa.en.record-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.record.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.16",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Recorded sentences from the zip.",
+        "translation": "Các câu đã thu âm trong gói zip.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "3da0da5418a5f0ffc1d3470f43ba6a382d6390b3f800e5cd58f9312e96809db8": [
+      {
+        "forms": [
+          "Hedging",
+          "cs_hedging"
+        ],
+        "id": "lex.sa.mind.cs_hedging",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hedging",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_hedging.alt",
+          "sns.sa.mind.cs_hedging.alt.ja",
+          "sns.sa.mind.cs_hedging.alt.ko",
+          "sns.sa.mind.cs_hedging.alt.pt_br",
+          "sns.sa.mind.cs_hedging.alt.id",
+          "sns.sa.mind.cs_hedging.alt.th",
+          "sns.sa.mind.cs_hedging.alt.tr"
+        ]
+      },
+      {
+        "definition": "Saying that something may be wrong without ever saying what is right, so that the doubt stays open.",
+        "exampleIds": [
+          "exm.sa.mind.cs_hedging.1.1"
+        ],
+        "gloss": "Saying that something may be wrong without ever saying what is right, so that the doubt stays open.",
+        "id": "sns.sa.mind.cs_hedging.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_hedging",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "何かが間違っている可能性を示すだけで、何が正しいかを示さない発言。不確実な状態を保ったままにする。",
+        "exampleIds": [
+          "exm.sa.mind.cs_hedging.1.1.ja"
+        ],
+        "gloss": "正しいと断言せず、未確定の可能性だけを示すこと。",
+        "id": "sns.sa.mind.cs_hedging.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_hedging",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 문제가 있을 수 있다고만 말하고 확실한 답은 내주지 않아 의심을 남기는 방식. 명확한 답을 회피할 때 쓰인다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_hedging.1.1.ko"
+        ],
+        "gloss": "무엇이 옳은지는 말하지 않고 의심을 남기는 모호한 발언.",
+        "id": "sns.sa.mind.cs_hedging.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_hedging",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estratégia de señalar que algo pode estar errado sem afirmar o que está certo. Em vez de esclarecer a questão, mantém a dúvida aberta e evita assumir uma posição.",
+        "exampleIds": [
+          "exm.sa.mind.cs_hedging.1.1.pt_br"
+        ],
+        "gloss": "Incerteza deliberada que mantém uma dúvida aberta sem apresentar uma conclusão.",
+        "id": "sns.sa.mind.cs_hedging.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_hedging",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Cara berbicara yang mengatakan sesuatu mungkin salah tanpa pernah menyatakan apa yang sebenarnya benar, sehingga ketidakpastian tetap menggantung. Cara ini menghindari komitmen terhadap jawaban yang dapat diperiksa.",
+        "exampleIds": [
+          "exm.sa.mind.cs_hedging.1.1.id"
+        ],
+        "gloss": "Pernyataan yang hanya memungkinkan kemungkinan kesalahan tanpa memberikan jawaban yang pasti.",
+        "id": "sns.sa.mind.cs_hedging.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_hedging",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การหว่านวายหรือแสดงความไม่แน่ใจโดยไม่ยืนยันสิ่งที่ถูกต้อง ทำให้ข้อสงสัยค้างอยู่และไม่มีข้อสรุปชัดเจน",
+        "exampleIds": [
+          "exm.sa.mind.cs_hedging.1.1.th"
+        ],
+        "gloss": "การพูดว่าสิ่งหนึ่งอาจผิดโดยไม่บอกว่าอะไรถูก",
+        "id": "sns.sa.mind.cs_hedging.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_hedging",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kesin bir yargı vermekten kaçınarak bir konunun hatalı olabileceğini belirtmek. Böylece kuşku açık bırakılır ve kararsızlık sürdürülür.",
+        "exampleIds": [
+          "exm.sa.mind.cs_hedging.1.1.tr"
+        ],
+        "gloss": "Bir şeyin yanlış olabileceğini söyleyip doğrusunu belirtmeyerek kuşkuyu sürdürmek.",
+        "id": "sns.sa.mind.cs_hedging.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_hedging",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_hedging.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu çekimserlik haftalarca sürdü: hep kuşku, hiçbir kez doğrulanmış bir sayı yoktu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_hedging.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การหว่านวายยืดเยื้อหลายสัปดาห์ มีแต่ความไม่แน่ใจทีหลังทีหลัง และไม่มีตัวเลขใดได้รับการยืนยัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_hedging.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pernyataan yang ambigu itu berlangsung berminggu-minggu: keraguan demi keraguan, tetapi tidak satu angka pun yang terkonfirmasi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_hedging.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A incerteza deliberada durou semanas: dúvida após dúvida, e nunca um número confirmado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_hedging.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "몇 주 동안 모호한 발언만 이어졌고, 확인된 수치는 하나도 나오지 않았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_hedging.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その曖昧化は数週間続き、疑念を抱えたまま、確かな数字は一度も示されなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_hedging.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hedging ran for weeks: doubt after doubt, and never one confirmed number.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "3dc260b2472062d9c57bd930b02f23831d917b8f3e3234b6d63964a53c31d3aa": [
+      {
+        "forms": [
+          "Campaign",
+          "war_campaign"
+        ],
+        "id": "lex.sa.mind.war_campaign",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Campaign",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_campaign.alt",
+          "sns.sa.mind.war_campaign.alt.ja",
+          "sns.sa.mind.war_campaign.alt.ko",
+          "sns.sa.mind.war_campaign.alt.pt_br",
+          "sns.sa.mind.war_campaign.alt.id",
+          "sns.sa.mind.war_campaign.alt.th",
+          "sns.sa.mind.war_campaign.alt.tr"
+        ]
+      },
+      {
+        "definition": "A series of connected actions with one objective, from the first move to the decision that closes it.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1"
+        ],
+        "gloss": "A series of connected actions with one objective, from the first move to the decision that closes it.",
+        "id": "sns.sa.mind.war_campaign.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一つの目的 shelfolarが連続した一連の軍事行動。初動から最終的な決着までを含む。",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.ja"
+        ],
+        "gloss": "一つの目的-shelfolar toda la secuencia de acciones que begins with the first move y termina con la decisión que la cierra.",
+        "id": "sns.sa.mind.war_campaign.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "첫 번째 행동부터 승부를 결정하는 단계까지, 하나의 목표를 위해 서로 연결된 일련의 군사 행동이다.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.ko"
+        ],
+        "gloss": "하나의 목표를 향해 이어지는 일련의 군사 행동.",
+        "id": "sns.sa.mind.war_campaign.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É uma sequência de operações_coordenadas para alcançar um objetivo, desde a primeira ação até a decisão que encerra o conflito.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.pt_br"
+        ],
+        "gloss": "Série de ações ligadas a um mesmo objetivo.",
+        "id": "sns.sa.mind.war_campaign.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rangkaian tindakan yang saling terkait dan berorientasi pada satu tujuan, mulai dari langkah pertama hingga keputusan penutup. Dalam konteks perang, kampanye adalah rangkaian operasi yang-disposable.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.id"
+        ],
+        "gloss": "Rangkaian tindakan yang saling terkait untuk mencapai satu tujuan.",
+        "id": "sns.sa.mind.war_campaign.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การรวมการกระทำที่เชื่อมโยงกันเพื่อบรรลุเป้าหมายเดียว ตั้งแต่การเริ่มต้นจนถึงผลที่ปิดวงการดำเนินการนั้น",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.th"
+        ],
+        "gloss": "การดำเนินการหลายขั้นเพื่อบรรลุเป้าหมายเดียว",
+        "id": "sns.sa.mind.war_campaign.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sefer, belirli bir sonuç elde etmek amacıyla başlatılan, birbirine bağlı askerî eylemlerden oluşan süreli çalışmadır. İlk harekâttan sonucun belirlendiği aşamaya kadar bütün adımları kapsar.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.tr"
+        ],
+        "gloss": "Tek bir amaç doğrultusunda yürütülen ve birbirine bağlı eylemler dizisi.",
+        "id": "sns.sa.mind.war_campaign.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Altı hafta süren sefer, nehirde sona erdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "แคมเปญทางทหารครั้งนี้ใช้เวลาหกสัปดาห์และจบลงที่แม่น้ำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kampanye itu berlangsung selama enam minggu dan berakhir di sungai.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A campanha durou seis semanas e terminou às margens do rio.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 전역은 6주 동안 이어졌으며 강변에서 끝났다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その作戦は六週間続き、川で決着をみた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The campaign lasted six weeks and ended at the river.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "3dd9de32368a65ba18dd0e75bcdcf4539ab03c0ac3f2e3ca09beb6742306ef1e": [
+      {
+        "forms": [
+          "venting",
+          "er_venting"
+        ],
+        "id": "lex.sa.social.er_venting",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "venting",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.er_venting.alt",
+          "sns.sa.social.er_venting.alt.ja",
+          "sns.sa.social.er_venting.alt.ko",
+          "sns.sa.social.er_venting.alt.pt_br",
+          "sns.sa.social.er_venting.alt.id",
+          "sns.sa.social.er_venting.alt.th",
+          "sns.sa.social.er_venting.alt.tr"
+        ]
+      },
+      {
+        "definition": "Putting a feeling into words as a way of getting the body back down.",
+        "exampleIds": [
+          "exm.sa.social.er_venting.1.1"
+        ],
+        "gloss": "Putting a feeling into words as a way of getting the body back down.",
+        "id": "sns.sa.social.er_venting.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.er_venting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "強い感情を言葉や声に出して発散させ、身体の高ぶりを下げることをいう。相手への連絡や問題の解決とは別物で、聞かれているとは限らない。",
+        "exampleIds": [
+          "exm.sa.social.er_venting.1.1.ja"
+        ],
+        "gloss": "感情を言葉や声にして表し、身心を落ち着かせること。",
+        "id": "sns.sa.social.er_venting.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.er_venting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "감정을 말로 꺼내면서 몸에 쌓인 긴장과 흥분을 가라앉히는 것이다. 대화를 통해 해결하거나 상대에게 전달하려는 목적이 반드시 필요한 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.social.er_venting.1.1.ko"
+        ],
+        "gloss": "감정을 말로 표현해 몸의 긴장을 가라앉히는 것.",
+        "id": "sns.sa.social.er_venting.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.er_venting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A prática de colocar um sentimento em palavras para reduzir a tensão e a ativação do corpo. Um desabafo pode ser intenso e não pressupõe que a outra pessoa compreenda ou resolva o problema.",
+        "exampleIds": [
+          "exm.sa.social.er_venting.1.1.pt_br"
+        ],
+        "gloss": "Expressar um sentimento em palavras como forma de acalmar o corpo.",
+        "id": "sns.sa.social.er_venting.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.er_venting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tindakan mengeluarkan perasaan dalam bentuk kata-kata agar tubuh kembali tenang. Ekspresi ini dapat menjadi alat untuk mereda diri, meskipun masalah utamanya belum tentu selesai.",
+        "exampleIds": [
+          "exm.sa.social.er_venting.1.1.id"
+        ],
+        "gloss": "Ekspresi emosi melalui Talk untuk menenangkan diri.",
+        "id": "sns.sa.social.er_venting.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.er_venting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การพูดความรู้สึกออกมาเพื่อให้ร่างกายและอารมณ์คลายลง โดยไม่จำเป็นต้องเปิดเผยความรู้สึกนั้นต่ออีกฝ่าย",
+        "exampleIds": [
+          "exm.sa.social.er_venting.1.1.th"
+        ],
+        "gloss": "การระบายความรู้สึกด้วยการพูด",
+        "id": "sns.sa.social.er_venting.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.er_venting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yoğun bir duyguyu konuşarak veya yazarak boşaltmak; böylece bedensel uyarılmayı azaltmak. Duyguyu paylaşmakla duyguyu bastırmak aynı şey değildir.",
+        "exampleIds": [
+          "exm.sa.social.er_venting.1.1.tr"
+        ],
+        "gloss": "Duyguyu söze dökerek bedeninin yeniden sakinleşmesini sağlamak.",
+        "id": "sns.sa.social.er_venting.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.er_venting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.er_venting.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Duygusunu boşaltması sakinleşmesine yardım etti; karşıdaki kişi buna hiç duymamıştı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.er_venting.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การระบายอารมณ์ช่วยให้เธอสงบลง โดยอีกฝ่ายไม่ได้ยินสิ่งที่เธอพูด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.er_venting.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ekspresi emosinya membantu ia tenang, dan orang lain tidak mendengar satu kata pun darinya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.er_venting.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O desabafo a ajudou a se acalmar, e a outra pessoa não ouviu nem uma palavra disso.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.er_venting.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "감정을 말로 꺼낸 뒤 그녀는 안정되었고, 상대는 그 내용을 전혀 듣지 못했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.er_venting.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "発散は彼女を落ち着かせたが、相手はそこに何も聞き取っていなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.er_venting.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The venting helped her settle, and the other person had heard none of it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

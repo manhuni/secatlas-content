@@ -1,0 +1,79 @@
+{
+  "language": "tr",
+  "lessonId": "article_illusion_knowledge",
+  "objectives": [
+    "Bilgi yanılsamasının ne olduğunu ve nereden geldiğini açıkla.",
+    "Dunning–Kruger etkisini açıklayın ve kendinizde fark edin.",
+    "Arama motorlarının ve yapay zekanın illüzyonu nasıl güçlendirdiğini göster.",
+    "Doğrulama yanlılığını ve neden kanıt gibi hissettirdiğini açıklayın.",
+    "Pratik testler, bilgiyi gerçek anlayıştan ayırır."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Bilgi yanılsaması, bir konu hakkında ne kadar bildiğini sandığın ile gerçekte ne kadar bildiğin arasındaki farktır. Bu yanılsama belirli bir ortamda büyür: yanıtların her zaman bir arama uzağında olduğu ortamda. Bilgi ucuz olduğunda, beyin \"Bunu biliyorum\" ile \"Bunun nerede olduğunu biliyorum\" arasındaki farkı takip etmeyi bırakır.\n\nnPsychologists etkiyi basit bir hileyle gösterdi. İnsanlara soruları yanıtlarken internette arama yapma olanağı verdiler, ardından aynı soruları internetsiz sordular. Arama yapmış insanlar kendi bilgilerini, hiç arama yapmamış oldukları konular hakkında bile sürekli daha yüksek olarak değerlendirdi. Yanıtlara erişim, bilme hissini kendisi şişirdi.\n\nAI assistants bunu daha da ileri götürür. Yalnızca yanıtlara erişim sağlamazlar; akıcı ve kendinden emin yanıtlar sağlarlar. Akıcılık uzmanlık olarak okunur; akıcı bir yanlış yanıt ise en tehlikeli türdür.",
+      "examples": [
+        "Bir AI assistant'a enflasyonu açıklamasını istedikten sonra enflasyonu anladığını hissederiz; ama açıklamayı kendiniz yazmayı deneyin, his çöker."
+      ],
+      "heading": "En kolay yanıt, doğru hissettirendir"
+    },
+    {
+      "body": "Dunning–Kruger etkisi, acı verici bir örüntüyü tanımlar: Bir konu hakkında ne kadar az bilgiye sahipse, kişi yetkinliğini o kadar fazla abartma eğilimindedir. Acemiler bir alanın yüzeyini görmüştür — biçimini yeterince kavrayacak kadar, ama eksiklerini ne kadar çok olduklarını gösterecek derinliği henüz hiç görmemiştir.\n\nBu durumu iki mekanizma besler. First, cevapları değerlendirmek için gereken beceri, aynı zamanda o cevapları üretmek için gereken beceridir. Kötü bir argümanı fark edemeyen bir kişi, inandığı kötü argümanların sayısını da sayamaz. Second, öğrenmenin başlangıcı gerçekten ödül vericidir: Hiçbir şey bilmekten bir şey bilmeye geçersiniz ve eğim dik görünür. Haritanın yürüdüğünüz kısımdan çok daha büyük olduğunu yalnızca daha sonra keşfedersiniz.\n\nModern bilgi ortamı bu eğriyi besler. Bir hafta boyunca video izlemek ya da bir yapay zekâya yirmi soru sormak, bir acemiye kendini orta düzey uzman gibi hissettirebilir. Gerçek uzmanlar ise bu arada kendilerinden şüphelenmek için yeterince uç durumlar görmüştür. Odadaki en yüksek sesli kişi nadiren en doğru olanıdır.",
+      "examples": [
+        "Beslenme hakkında beş video izleyen bir kişi, bir diyetisyenle kendinden emin bir şekilde tartışır — ama kontrollü bir çalışmanın ne olduğunu söyleyemez."
+      ],
+      "heading": "Dunning–Kruger etkisi ve acemi aceleciği"
+    },
+    {
+      "body": "Doğrulama yanlılığı, zaten inandığınız şeyi destekleyen bilgiyi arama, hatırlama ve güvenme, kalanı ise küçümseme eğilimidir. İçeriden bakıldığında yanlılık gibi hissettirmez. Dünyanın sürekli size hak verdiği gibi gelir.\n\nArama motorları bunu sessizce güçlendirir. Sonuçları, insanların tıkladığı şeylere göre sıralarlar; insanlar da zaten kendileriyle hemfikir oldukları şeylere tıklar. Bir iddiayı soru olarak yazın, motor size onu destekleyen kanıtları döndürür. Karşıt iddiayı yazın, size onu destekleyen kanıtları da döndürür. Bu araç, laboratuvar önlüğü giyen bir aynadır.\n\nYapay zekâ asistanları ikinci bir katman ekler: anlaşmaya açık olmak üzere eğitilirler. Yönlendirici sorular sorun ve genellikle verdiğiniz çerçeveyi izlerler. Yapay zekâ ile yürütülen bir oturum, sizi daha emin ama daha doğru olmayan bir hâle bırakabilir — bu eminlik, makine akıcılığından ödünç alınmıştır; incelediğiniz kanıtlardan değil.",
+      "examples": [
+        "Searching 'why is coffee good for you' ve 'why is coffee bad for you' ifadesi, her ikisinde de yüzlerce kendinden emin makale döndürür."
+      ],
+      "heading": "Doğrulama yanlılığı: hiçbir zaman arama olmayan arama"
+    },
+    {
+      "body": "Bu terimler yanılsamanın işleyen parçalarını adlandırır. Bunları öğrenin ve makinenin kendi zihninizde nasıl çalıştığını izleyebilirsiniz.",
+      "heading": "Bilme sözlüğü",
+      "terms": [
+        {
+          "example": "Tesisat konusunda bilme yanılsaması içindeydi; 'düzeltmiş' olduğu boru banyoyu su bastığında anladı.",
+          "gloss": "Kolayca yanıta erişmekten gerçek anlamadan çok, bir konuyu anladığınız yanlış hissi."
+        },
+        {
+          "example": "Dunning–Kruger etkisi, en yeni çalışanın sistemin hiçbir zaman başarısız olmayacağı konusunda en çok emin kişi olmasını açıklar.",
+          "gloss": "Bir alanda az beceriye sahip insanların kendi yeteneklerini abartma eğilimi; çünkü yanıtları değerlendirmek için gereken beceri, onları vermek için gereken beceriyle aynıdır."
+        },
+        {
+          "example": "Confirmation biasi nedeniyle arabanın övgüsünü yapan üç değerlendirmeyi okur, motor sorunu bildiren otuz değerlendirmeyi görmezden gelir.",
+          "gloss": "Mevcut inançları destekleyen bilgiyi arama, hatırlama ve güvenme; kalan kısmı ise küçümseme eğilimi."
+        },
+        {
+          "example": "Google etkisi, toplantıda kimsenin tarihi hatırlayamamasının nedenidir; ama herkes tarihin hangi sitede bulunacağını bilir.",
+          "gloss": "Çevrimiçinde kolayca bulunan bilgiyi unutma, ancak onu nasıl bulacağını hatırlama eğilimi."
+        },
+        {
+          "example": "Intellectual humility, 'bunun yanlış olduğunu' söylemek ve bunu herkesin önünde yenilgi gibi hissetmemektir.",
+          "gloss": "Kendi inançlarınızı doğru ölçüde güvenle savunma alışkanlığı: kanıt güçlüyse inanç güçlü, kanıt zayıfsa inanç zayıf olur."
+        },
+        {
+          "example": "Information literacy, çarpıcı başlığın bir çalışmaya mı yoksa başka bir başlığa mı bağlandığını kontrol etmektir.",
+          "gloss": "Bilgiyi bulma, değerlendirme ve kullanma becerisi: birincil kaynağı görüşten, kanıtı da anekdotan ayırt etmek."
+        }
+      ]
+    },
+    {
+      "body": "Yanılsama bilgi illüzyonunun en hızlı panzehiri retrieval'dır. Bir şey öğrendikten sonra her şeyi kapatın ve bunu kendi words'lerinizle yüksek sesle, tercihen gerçek bir kişiye ya da blank page'e anlatın. Bilmediğiniz gaps'ler hemen ortaya çıkar. Açıklama üretemiyorsanız, bu bilgi hiçbir zaman size ait değildi.",
+      "heading": "Explain-it-back testi"
+    },
+    {
+      "body": "Bu, araçların düşman olduğu anlamına gelmez. Search engines ve yapay zekâ, bir yanıtı ödünç almakla kendisine sahip olmak arasındaki farkı bilen insanlar için olağanüstü amplifiers — yani güçlendiricilerdir. Bu ayrımı keskin tutan practices eski moda ve ucuzdur.\n\n**Kendinize güvenmeden önce kendinizi test edin.** Okuduktan sonra sekmeyi kapatın ve anahtar fikri memory'den yazın. **En güçlü counter-argument'ı arayın**, en zayıfını değil: fikrinizi yalnızca straw men'e karşı test ederseniz asla fail olmaz. **Claim'in nereden geldiğini sorun**: bir study mı, bir eyewitness mı, yoksa reposts zinciri mi? **Sesli biçimde Update yapın**: fikrinizi değiştirdiğinizde bunu söyleyin ya da yazın; böylece fikrinizi değiştirmek, bir yenilgi değil, normal bir event olur.\n\nBilme duygusu, modern dünyanın ücretsiz olarak sunduğu bir pleasure'dır. Real knowledge hâlâ eski fiyatı öder: attention, effort ve kısa vadede yanılmaya istekli olmak; böylece uzun vadede doğru olabilmek.",
+      "examples": [
+        "Bir sonraki argument'ınızdan önce, diğer tarafın case'inin en iyi versiyonunu yazarak ten minutes geçirin. Win ya da lose, başladığınızdan daha fazlasını bileceksiniz."
+      ],
+      "heading": "Bilgi duygusundan gerçek bilgiye"
+    }
+  ],
+  "summary": "Cevabı bulmak ne kadar kolaysa, insanlar o kadar çok baştan beri bildiklerine inanır. Bu makale bilgi yanılsamasını açıklıyor: arama motorları ve yapay zekâ Dunning–Kruger etkisini nasıl besliyor, doğrulama yanılgısı neden doğruymuş gibi hissettirir ve bilgiye sahip olmak ile anlayışa sahip olmak arasındaki fark nasıl anlaşılır.",
+  "title": "Bilgi Yanılsaması: Kolay Yanıtlar Neden Gerçek Hisseder?"
+}

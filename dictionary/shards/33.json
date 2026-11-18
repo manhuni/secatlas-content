@@ -1,0 +1,979 @@
+{
+  "records": {
+    "3310bab197cf91c476ce043c9e4d910c88b9160c2fc0bf2cb4cece548874b73b": [
+      {
+        "forms": [
+          "Added sugar",
+          "added_sugar"
+        ],
+        "id": "lex.sa.health.added_sugar",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Added sugar",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.added_sugar.alt",
+          "sns.sa.health.added_sugar.alt.ja",
+          "sns.sa.health.added_sugar.alt.ko",
+          "sns.sa.health.added_sugar.alt.pt_br",
+          "sns.sa.health.added_sugar.alt.id",
+          "sns.sa.health.added_sugar.alt.th",
+          "sns.sa.health.added_sugar.alt.tr"
+        ]
+      },
+      {
+        "definition": "Sugar the manufacturer added, as distinct from sugar that came with the fruit or the milk.",
+        "exampleIds": [
+          "exm.sa.health.added_sugar.1.1"
+        ],
+        "gloss": "Sugar the manufacturer added, as distinct from sugar that came with the fruit or the milk.",
+        "id": "sns.sa.health.added_sugar.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.added_sugar",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "食品メーカーが加工中に加えた糖類のこと。果物や牛乳に元々含まれている糖とは区別される。",
+        "exampleIds": [
+          "exm.sa.health.added_sugar.1.1.ja"
+        ],
+        "gloss": "製造工程で加えられた糖類。",
+        "id": "sns.sa.health.added_sugar.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.added_sugar",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "과일이나 우유에 원래 들어 있는 당과 구별되는, 제조사가 음식에 추가한 설탕입니다.",
+        "exampleIds": [
+          "exm.sa.health.added_sugar.1.1.ko"
+        ],
+        "gloss": "제조 과정에서 별도로 첨가한 당.",
+        "id": "sns.sa.health.added_sugar.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.added_sugar",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o açúcar adicionado durante o preparo ou a industrialização, diferente do açúcar presente naturalmente em alimentos como frutas e leite.",
+        "exampleIds": [
+          "exm.sa.health.added_sugar.1.1.pt_br"
+        ],
+        "gloss": "Açúcar acrescentado pelo fabricante ao alimento.",
+        "id": "sns.sa.health.added_sugar.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.added_sugar",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gula yang sengaja ditambahkan ke makanan atau minuman selama produksi, berbeda dari gula yang secara alami terdapat dalam buah atau susu.",
+        "exampleIds": [
+          "exm.sa.health.added_sugar.1.1.id"
+        ],
+        "gloss": "Gula yang ditambahkan oleh produsen.",
+        "id": "sns.sa.health.added_sugar.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.added_sugar",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "น้ำตาลที่เติมเติมระหว่างการผลิตหรือการเตรียมอาหาร ไม่รวมน้ำตาลที่มีอยู่ตามธรรมชาติในผลไม้ นม และอาหารอื่น",
+        "exampleIds": [
+          "exm.sa.health.added_sugar.1.1.th"
+        ],
+        "gloss": "น้ำตาลที่ผู้ผลิตเติมลงในอาหาร",
+        "id": "sns.sa.health.added_sugar.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.added_sugar",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Meyve veya sütte doğal olarak bulunan şekerden ayırt edilir.",
+        "exampleIds": [
+          "exm.sa.health.added_sugar.1.1.tr"
+        ],
+        "gloss": "Üretici tarafından yiyeceğe eklenen şeker.",
+        "id": "sns.sa.health.added_sugar.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.added_sugar",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.added_sugar.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Total sugars are 20 g, and added sugars are 15 g of that.",
+        "translation": "Toplam şeker 20 gram, eklenen şeker ise bunun 15 gramıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.added_sugar.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Total sugars are 20 g, and added sugars are 15 g of that.",
+        "translation": "น้ำตาลรวมมี 20 กรัม และในจำนวนนี้เป็นน้ำตาลที่เติมเติม 15 กรัม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.added_sugar.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Total sugars are 20 g, and added sugars are 15 g of that.",
+        "translation": "Jumlah gula total adalah 20 gram, dan 15 gram di antaranya merupakan gula tambahan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.added_sugar.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Total sugars are 20 g, and added sugars are 15 g of that.",
+        "translation": "O produto contém 20 g de açúcares totais, dos quais 15 g são açúcares adicionados.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.added_sugar.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Total sugars are 20 g, and added sugars are 15 g of that.",
+        "translation": "총 당류는 20 g이고 그중 추가 당은 15 g입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.added_sugar.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Total sugars are 20 g, and added sugars are 15 g of that.",
+        "translation": "糖類は全部で20グラム、そのうち添加糖は15グラムです。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.added_sugar.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Total sugars are 20 g, and added sugars are 15 g of that.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "3310c0a405f5abb8b2f6519a83b1beecdd94bdd221487b7786eddc8fb6357055": [
+      {
+        "forms": [
+          "One-time code",
+          "one_time_code"
+        ],
+        "id": "lex.sa.technology.one_time_code",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "One-time code",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.one_time_code.alt",
+          "sns.sa.technology.one_time_code.alt.ja",
+          "sns.sa.technology.one_time_code.alt.ko",
+          "sns.sa.technology.one_time_code.alt.pt_br",
+          "sns.sa.technology.one_time_code.alt.id",
+          "sns.sa.technology.one_time_code.alt.th",
+          "sns.sa.technology.one_time_code.alt.tr"
+        ]
+      },
+      {
+        "definition": "The short number a bank sends to confirm a login or a payment. Anyone who holds it can complete the action.",
+        "exampleIds": [
+          "exm.sa.technology.one_time_code.1.1"
+        ],
+        "gloss": "The short number a bank sends to confirm a login or a payment. Anyone who holds it can complete the action.",
+        "id": "sns.sa.technology.one_time_code.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.one_time_code",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "银行がログインや支払いの確認のために送る短時間の数値です。 |-risk 知っている人は、本人確認を完了させることができます。",
+        "exampleIds": [
+          "exm.sa.technology.one_time_code.1.1.ja"
+        ],
+        "gloss": "ログインや支払を確認するための使い捨ての数字。",
+        "id": "sns.sa.technology.one_time_code.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.one_time_code",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "은행이나 금융기관이 로그인이나 결제 승인을 확인할 때 보내는 임시 인증번호로, 그 번호를 가진 사람은 해당 작업을 승인할 수 있다.",
+        "exampleIds": [
+          "exm.sa.technology.one_time_code.1.1.ko"
+        ],
+        "gloss": "로그인이나 결제를 확인하기 위해 은행이 보내는 짧은 번호.",
+        "id": "sns.sa.technology.one_time_code.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.one_time_code",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Código numérico de uso único, válido por pouco tempo. Quem o tiver poderá concluir a operação, por isso ele não deve ser compartilhado.",
+        "exampleIds": [
+          "exm.sa.technology.one_time_code.1.1.pt_br"
+        ],
+        "gloss": "Código temporário enviado por um banco para confirmar um acesso ou pagamento.",
+        "id": "sns.sa.technology.one_time_code.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.one_time_code",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Angka atau teks sementara yang dikirim bank untuk memverifikasi percobaan masuk atau pembayaran. Siapa pun yang memperoleh kodenya dapat menyelesaikan tindakan tersebut.",
+        "exampleIds": [
+          "exm.sa.technology.one_time_code.1.1.id"
+        ],
+        "gloss": "Kode singkat untuk mengonfirmasi masuk atau pembayaran.",
+        "id": "sns.sa.technology.one_time_code.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.one_time_code",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "รหัสสั้นที่ธนาคารส่งมาเพื่อยืนยันการเข้าสู่ระบบหรือการทำธุรกรรม ผู้ที่มีรหัสนี้สามารถดำเนินการได้ทันที จึงไม่ควรเปิดเผยแก่ผู้อื่น",
+        "exampleIds": [
+          "exm.sa.technology.one_time_code.1.1.th"
+        ],
+        "gloss": "ตัวเลขยืนยันครั้งเดียวที่ธนาคารส่งมา",
+        "id": "sns.sa.technology.one_time_code.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.one_time_code",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Banka tarafından gönderilen ve yalnızca bir kez kullanılabilen doğrulama kodudur. Kodu elinde bulunan kişi ilgili oturumu açabilir veya ödemeyi onaylayabilir.",
+        "exampleIds": [
+          "exm.sa.technology.one_time_code.1.1.tr"
+        ],
+        "gloss": "Bir oturumu veya ödemeyi doğrulamak için bankanın gönderdiği kısa süreli koddur.",
+        "id": "sns.sa.technology.one_time_code.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.one_time_code",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.one_time_code.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I gave them the one-time code, and that was the moment the account was theirs.",
+        "translation": "Onlara tek kullanımlık doğrulama kodunu verdim ve o anda hesaplarını ele geçirdiler.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.one_time_code.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I gave them the one-time code, and that was the moment the account was theirs.",
+        "translation": "ฉันให้รหัสยืนยันครั้งเดียวไป จากนั้นบัญชีก็ถูกโอนไปเป็นของพวกเขา",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.one_time_code.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I gave them the one-time code, and that was the moment the account was theirs.",
+        "translation": "Saya memberikan kode sekali pakai kepada mereka, dan saat itu juga rekening saya berpindah tangan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.one_time_code.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I gave them the one-time code, and that was the moment the account was theirs.",
+        "translation": "Entreguei o código de uso único, e foi naquele momento que os|作者 assembleram conta.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.one_time_code.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I gave them the one-time code, and that was the moment the account was theirs.",
+        "translation": "제가 일회용 인증번호를 알려준 순간 그들은 계좌를 탈취할 수 있었습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.one_time_code.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I gave them the one-time code, and that was the moment the account was theirs.",
+        "translation": "Sha‘unid I gave them the one-time code, and that was the moment the account was theirs.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.one_time_code.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I gave them the one-time code, and that was the moment the account was theirs.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "3313981b0454cc8b83c3a81298718c9f471026e8c4463d586149521cf8e416f6": [
+      {
+        "forms": [
+          "Security screening",
+          "security_screening"
+        ],
+        "id": "lex.sa.travel.security_screening",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Security screening",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.security_screening.alt",
+          "sns.sa.travel.security_screening.alt.ja",
+          "sns.sa.travel.security_screening.alt.ko",
+          "sns.sa.travel.security_screening.alt.pt_br",
+          "sns.sa.travel.security_screening.alt.id",
+          "sns.sa.travel.security_screening.alt.th",
+          "sns.sa.travel.security_screening.alt.tr"
+        ]
+      },
+      {
+        "definition": "The checkpoint where bags and people are checked before entering the secure part of the airport.",
+        "exampleIds": [
+          "exm.sa.travel.security_screening.1.1"
+        ],
+        "gloss": "The checkpoint where bags and people are checked before entering the secure part of the airport.",
+        "id": "sns.sa.travel.security_screening.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.security_screening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "空港の制御区域へ入る前の検査Fiscal point であり、荷物と人が確認される。",
+        "exampleIds": [
+          "exm.sa.travel.security_screening.1.1.ja"
+        ],
+        "gloss": "空港の/security 区域に入る前に荷物と人が検査される場所。",
+        "id": "sns.sa.travel.security_screening.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.security_screening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "공항 보안 구역에 들어가기 전에 승객과 짐을 검사하는 보안 관문이다.",
+        "exampleIds": [
+          "exm.sa.travel.security_screening.1.1.ko"
+        ],
+        "gloss": "공항의 보안 구역에 들어가기 전 사람과 짐을 검사하는 곳.",
+        "id": "sns.sa.travel.security_screening.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.security_screening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o procedimento realizado em um ponto de controle, geralmente após a apresentação do documento de embarque. Abrange a inspeção de passageiros e malas.",
+        "exampleIds": [
+          "exm.sa.travel.security_screening.1.1.pt_br"
+        ],
+        "gloss": "Verificação de pessoas e bagagens antes da entrada em uma área restrita do aeroporto.",
+        "id": "sns.sa.travel.security_screening.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.security_screening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Di pemeriksaan keamanan, petugas memeriksa orang dantas sebelum penumpang boleh memasuki bagian Revisial yang dikendalikan ketat.",
+        "exampleIds": [
+          "exm.sa.travel.security_screening.1.1.id"
+        ],
+        "gloss": "Tempat pemeriksaan orang dan barang sebelum memasuki bagian aman bandara.",
+        "id": "sns.sa.travel.security_screening.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.security_screening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "จุดตรวจสอบกระเป๋าและผู้โดยสารก่อนเข้าสู่พื้นที่ควบคุมของสนามบิน โดยทั่วไปจะตรวจทั้งสัมภาระถือและกระเป๋าเดินทาง",
+        "exampleIds": [
+          "exm.sa.travel.security_screening.1.1.th"
+        ],
+        "gloss": "จุดตรวจความปลอดภัยก่อนเข้าสู่ส่วนควบคุมของสนามบิน",
+        "id": "sns.sa.travel.security_screening.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.security_screening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Havalimanının güvenli bölümüne girmeden önce insanların ve eşyaların kontrol edildiği nokta.",
+        "exampleIds": [
+          "exm.sa.travel.security_screening.1.1.tr"
+        ],
+        "gloss": "Havalimanının güvenli bölümüne girmeden önce insanların ve eşyaların kontrol edildiği nokta.",
+        "id": "sns.sa.travel.security_screening.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.security_screening",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.security_screening.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Security screening starts at the end of this corridor.",
+        "translation": "Güvenlik kontrolü bu koridorun sonunda başlıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.security_screening.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Security screening starts at the end of this corridor.",
+        "translation": "การตรวจความปลอดภัยเริ่มต้นที่ปลายทางเดินทางนี้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.security_screening.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Security screening starts at the end of this corridor.",
+        "translation": "Pemeriksaan keamanan dimulai di ujung koridor ini.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.security_screening.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Security screening starts at the end of this corridor.",
+        "translation": "A inspeção de segurança começa no fim deste corredor.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.security_screening.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Security screening starts at the end of this corridor.",
+        "translation": "이 복도 끝에서 보안 검사가 시작됩니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.security_screening.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Security screening starts at the end of this corridor.",
+        "translation": "この廊下の先から保安検査が始まります。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.security_screening.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Security screening starts at the end of this corridor.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925": [
+      {
+        "forms": [
+          "read"
+        ],
+        "id": "lex.sa.en.read.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "read",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.read.verb.1",
+          "sns.sa.en.read-verb.alt"
+        ]
+      },
+      {
+        "definition": "Nhìn và hiểu chữ viết.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "đọc",
+        "id": "sns.sa.vi.read.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.read.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To take in the meaning of written words.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "To look at and understand written text.",
+        "id": "sns.sa.en.read-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.read.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "33590806be8e18090d09242c6e0d0bee9fda5a88892afe6192f24c0e931aec73": [
+      {
+        "forms": [
+          "Involuntary singleness",
+          "lts_involuntary_singleness"
+        ],
+        "id": "lex.sa.social.lts_involuntary_singleness",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Involuntary singleness",
+        "pos": "phrase",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_involuntary_singleness.alt",
+          "sns.sa.social.lts_involuntary_singleness.alt.ja",
+          "sns.sa.social.lts_involuntary_singleness.alt.ko",
+          "sns.sa.social.lts_involuntary_singleness.alt.pt_br",
+          "sns.sa.social.lts_involuntary_singleness.alt.id",
+          "sns.sa.social.lts_involuntary_singleness.alt.th",
+          "sns.sa.social.lts_involuntary_singleness.alt.tr"
+        ]
+      },
+      {
+        "definition": "Being single because the wish for a partner has not been met, rather than by choice.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1"
+        ],
+        "gloss": "Being single because the wish for a partner has not been met, rather than by choice.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "恋人や配偶者を得た不是因为得到了。",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.ja"
+        ],
+        "gloss": "望んだJv得不到ために一人になる状態。",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "본인이 원한 연인이 생기지 않아서 혼인 상태가 된 경우를 뜻한다. 스스로 혼자를 선택한 경우와 구별된다.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.ko"
+        ],
+        "gloss": "혼자가 되기보다 원하는 연인이 없어서 혼자가 된 상태를 뜻한다.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Expressão usada para descrever a ausência de um parceiro amoroso que não corresponde ao desejo da pessoa, e não resulta de uma escolha.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.pt_br"
+        ],
+        "gloss": "Condição de estar solteiro sem ter escolhido essa situação.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Istilah ini membandingkan keadaan lajang yang tidak dikehendaki dengan keadaan lajang yang dipilih sendiri. Keinginan untuk memiliki pasangan belum tercapai, meskipun orang tersebut tidak memilihnya.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.id"
+        ],
+        "gloss": "Keadaan tidak memiliki pasangan asmara karena keinginan untuk berpasangan belum terpenuhi, bukan karena memilih demikian.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "สภาวะการไม่มีคู่รักเพราะยังไม่ได้พบคนที่ต้องการ แทนที่จะเป็นการเลือกจะอยู่คนเดียว",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.th"
+        ],
+        "gloss": "การเป็นโสดโดยไม่ได้เลือก",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Kişinin romantik ilişki kurma isteğine rağmen bunun gerçekleşmemesi sonucu ortaya çıkan bekârlık. Durumun kendi seçimi olup olmadığını belirtir.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.tr"
+        ],
+        "gloss": "Romantik ilişki kurma isteği karşılanmadığı için bekâr kalma durumu.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bunu gönüllü olmayan bekârlık olarak adlandırıyor ve özür dilemeyi bıraktı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอเรียกสภาวะของตัวเองว่าการเป็นโสดโดยไม่ได้เลือก และเธอเลิกขอโทษใคร ๆ แล้ว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ia menyebutnya lajang tidak sukarela dan sudah berhenti meminta maaf atas keadaan itu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ela chama isso de solteirice involuntária e parou de pedir desculpas por isso.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 원하지 않은 독신 상태라고 말하며, 이제 그 상태에 대해 사과하지 않는다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女はこれを非自発的な独身と呼び、もう詫び也不再している。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She calls it involuntary singleness, and she has stopped apologising for it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "336074805fc853987abe6f7fe3ad97a6a6f3077a16391fec744f671a015fbd7e": [
+      {
+        "forms": [
+          "time"
+        ],
+        "id": "lex.sa.en.time.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "time",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.time.noun.1",
+          "sns.sa.en.time-noun.alt"
+        ]
+      },
+      {
+        "definition": "Khoảng thời gian; số lần một việc diễn ra.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "thời gian",
+        "id": "sns.sa.vi.time.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.time.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The continued passage of duration; an occasion.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "Duration; an occasion when something happens.",
+        "id": "sns.sa.en.time-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.time.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "33f369489247bfa87da38588aa6d88787223b1dcff962e113f8af1ef2c9c7a06": [
+      {
+        "forms": [
+          "Inflation rate",
+          "inflation_rate"
+        ],
+        "id": "lex.sa.money.inflation_rate",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Inflation rate",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.inflation_rate.alt",
+          "sns.sa.money.inflation_rate.alt.ja",
+          "sns.sa.money.inflation_rate.alt.ko",
+          "sns.sa.money.inflation_rate.alt.pt_br",
+          "sns.sa.money.inflation_rate.alt.id",
+          "sns.sa.money.inflation_rate.alt.th",
+          "sns.sa.money.inflation_rate.alt.tr"
+        ]
+      },
+      {
+        "definition": "The percentage change in the general level of prices over a period of time, usually a year.",
+        "exampleIds": [
+          "exm.sa.money.inflation_rate.1.1"
+        ],
+        "gloss": "The percentage change in the general level of prices over a period of time, usually a year.",
+        "id": "sns.sa.money.inflation_rate.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.inflation_rate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一定期間に一般Prices.",
+        "exampleIds": [
+          "exm.sa.money.inflation_rate.1.1.ja"
+        ],
+        "gloss": "一定期間における一般的な物価水準の上昇率。",
+        "id": "sns.sa.money.inflation_rate.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.inflation_rate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "특정 기간의 전반적인 물가 수준이 얼마나 변했는지 백분율로 나타낸 값이다. 보통 연간 기준으로 제시하며, 물가가 내려간 경우에는inflation rate가 상승하지 않는다.",
+        "exampleIds": [
+          "exm.sa.money.inflation_rate.1.1.ko"
+        ],
+        "gloss": "일정 기간 동안 전체 물가 수준이 상승한 비율이다.",
+        "id": "sns.sa.money.inflation_rate.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.inflation_rate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Índice que mostra quanto os preços aumentaram ou diminuíram em relação a um período anterior, geralmente anual.",
+        "exampleIds": [
+          "exm.sa.money.inflation_rate.1.1.pt_br"
+        ],
+        "gloss": "Variação percentual do nível geral dos preços em determinado período.",
+        "id": "sns.sa.money.inflation_rate.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.inflation_rate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ukuran kenaikan harga-harga secara keseluruhan, biasanya dinyatakan dalam persen per tahun. Nilainya menunjukkan perubahan tingkat harga umum, bukan perubahan harga satu atau dua barang saja.",
+        "exampleIds": [
+          "exm.sa.money.inflation_rate.1.1.id"
+        ],
+        "gloss": "Persentase perubahan tingkat harga umum dalam suatu periode.",
+        "id": "sns.sa.money.inflation_rate.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.inflation_rate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "อัตราเป็นเปอร์เซ็นต์ที่ระดับราคาสินค้าโดยรวมเปลี่ยนแปลงเมื่อเทียบกับช่วงเวลาที่กำหนด โดยทั่วไปวัดเป็นรายปี",
+        "exampleIds": [
+          "exm.sa.money.inflation_rate.1.1.th"
+        ],
+        "gloss": "อัตราการเปลี่ยนแปลงของระดับราคาสินค้าโดยรวมในช่วงเวลาหนึ่ง",
+        "id": "sns.sa.money.inflation_rate.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.inflation_rate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Genellikle yıllık olarak hesaplanan ve fiyatların ne kadar arttığını gösteren orandır. Fiyatların yükselme hızını, yükselen fiyatların miktarını değil gösterir.",
+        "exampleIds": [
+          "exm.sa.money.inflation_rate.1.1.tr"
+        ],
+        "gloss": "Belirli bir sürede genel fiyat düzeyindeki yüzdesel değişim.",
+        "id": "sns.sa.money.inflation_rate.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.inflation_rate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.inflation_rate.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+        "translation": "Yıllık enflasyon oranı yüzde 4'tü; yani fiyatlar ortalama olarak yüzde 4 arttı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.inflation_rate.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+        "translation": "อัตราเงินเฟ้อรายปีอยู่ที่ 4 เปอร์เซ็นต์ ราคาสินค้าโดยรวมจึงสูงขึ้นเฉลี่ย 4 เปอร์เซ็นต์",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.inflation_rate.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+        "translation": "Tingkat inflasi tahunan mencapai 4%, sehingga harga naik sekitar 4% secara rata-rata.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.inflation_rate.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+        "translation": "A taxa anual de inflação foi de 4%, o que significa que os preços subiram, em média, 4%.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.inflation_rate.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+        "translation": "연간 물가 상승률은 4퍼센트였으며, 평균적인 물가는 4퍼센트 올랐다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.inflation_rate.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+        "translation": "年率4％ had. example",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.inflation_rate.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

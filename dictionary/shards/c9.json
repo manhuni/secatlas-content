@@ -1,0 +1,1457 @@
+{
+  "records": {
+    "c9022680f888674e2b2274758755bfa07dea729b68d71cde5c521ed70ef261bf": [
+      {
+        "forms": [
+          "person",
+          "people"
+        ],
+        "id": "lex.sa.en.person.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "person",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.person.noun.1",
+          "sns.sa.en.person-noun.alt"
+        ]
+      },
+      {
+        "definition": "Một con người.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "người",
+        "id": "sns.sa.vi.person.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.person.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "An individual human being.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "A human being.",
+        "id": "sns.sa.en.person-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.person.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "c90e097e46db1931c2fb3c0f5fb5f1df2f2aa01e3f6d94350f662f6db17c4bcb": [
+      {
+        "forms": [
+          "math",
+          "mathematics"
+        ],
+        "id": "lex.sa.en.math.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "math",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.math.noun.1",
+          "sns.sa.en.math-noun.alt"
+        ]
+      },
+      {
+        "definition": "Môn toán; việc tính toán.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "toán học",
+        "id": "sns.sa.vi.math.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.math.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The study of numbers, quantities, space and change.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "Mathematics; the subject of numbers and quantities.",
+        "id": "sns.sa.en.math-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.math.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "c90f956b6507b68c9b755f2c503b4ee1c0c98d40d8168423c343dd081ee4cd3f": [
+      {
+        "forms": [
+          "Replacement passport",
+          "replacement_passport"
+        ],
+        "id": "lex.sa.travel.replacement_passport",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Replacement passport",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.replacement_passport.alt",
+          "sns.sa.travel.replacement_passport.alt.ja",
+          "sns.sa.travel.replacement_passport.alt.ko",
+          "sns.sa.travel.replacement_passport.alt.pt_br",
+          "sns.sa.travel.replacement_passport.alt.id",
+          "sns.sa.travel.replacement_passport.alt.th",
+          "sns.sa.travel.replacement_passport.alt.tr"
+        ]
+      },
+      {
+        "definition": "A new full passport issued after the old one is reported lost. It takes longer than an emergency document but works normally.",
+        "exampleIds": [
+          "exm.sa.travel.replacement_passport.1.1"
+        ],
+        "gloss": "A new full passport issued after the old one is reported lost. It takes longer than an emergency document but works normally.",
+        "id": "sns.sa.travel.replacement_passport.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.replacement_passport",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "旧パスポートの紛失や盗難を報告したあとに発行される新的パスポート。緊急発行の旅券より時間がかか_commentary，但 irrevocably.",
+        "exampleIds": [
+          "exm.sa.travel.replacement_passport.1.1.ja"
+        ],
+        "gloss": "旧パスポートの紛失などを報告したあとに発行される新しい通常パスポート。",
+        "id": "sns.sa.travel.replacement_passport.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.replacement_passport",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기존 여권을 분실했다고 신고한 후 새 여권으로 교체하기 위해 발급받습니다. 긴급 여행증보다 시간이 더 걸리지만 일반 여권과 똑같이 사용할 수 있습니다.",
+        "exampleIds": [
+          "exm.sa.travel.replacement_passport.1.1.ko"
+        ],
+        "gloss": "여권을 분실했다고 신고한 뒤 새로 발급받는 완전한 여권이다.",
+        "id": "sns.sa.travel.replacement_passport.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.replacement_passport",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O passaporte substitutivo é emitido quando o anterior foi perdido, roubado ou inutilizado. Sua emissão costuma demorar mais que a de um documento emergencial, mas ele funciona como um passaporte comum.",
+        "exampleIds": [
+          "exm.sa.travel.replacement_passport.1.1.pt_br"
+        ],
+        "gloss": "Novo passaporte emitido depois que o original foi declarado perdido.",
+        "id": "sns.sa.travel.replacement_passport.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.replacement_passport",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Paspor penuh baru yang diterbitkan setelah paspor lama dilaporkan hilang. Prosesnya lebih lama daripada dokumen darurat, tetapi paspor pengganti ini berlaku seperti paspor biasa.",
+        "exampleIds": [
+          "exm.sa.travel.replacement_passport.1.1.id"
+        ],
+        "gloss": "Paspor penuh baru yang diterbitkan setelah paspor lama dilaporkan hilang.",
+        "id": "sns.sa.travel.replacement_passport.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.replacement_passport",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เป็นหนังสือเดินทางทั่วไปฉบับใหม่ซึ่งใช้แทนหนังสือเดินทางที่หายได้ตามปกติ แต่ใช้เวลารอนานกว่าหนังสือเดินทางฉุกเฉิน",
+        "exampleIds": [
+          "exm.sa.travel.replacement_passport.1.1.th"
+        ],
+        "gloss": "หนังสือเดินทางฉบับใหม่ที่ออกให้หลังแจ้งว่าหนังสือเดินทางเดิมหาย",
+        "id": "sns.sa.travel.replacement_passport.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.replacement_passport",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Eski pasaport kayıp olarak bildirildikten sonra verilen yeni ve tam pasapottur. Acil belgeden daha uzun sürede hazırlanır ancak normal bir pasaport gibi kullanılır.",
+        "exampleIds": [
+          "exm.sa.travel.replacement_passport.1.1.tr"
+        ],
+        "gloss": "Kayıp olduğu bildirilen pasaport yerine düzenlenen yeni ve tam pasaport.",
+        "id": "sns.sa.travel.replacement_passport.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.replacement_passport",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.replacement_passport.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The replacement passport will be ready in five working days.",
+        "translation": "İkame pasaport beş iş günü içinde hazır olacak.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.replacement_passport.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The replacement passport will be ready in five working days.",
+        "translation": "หนังสือเดินทางฉบับทดแทนจะพร้อมใช้ภายในห้าวันทำการ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.replacement_passport.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The replacement passport will be ready in five working days.",
+        "translation": "Paspor pengganti saya akan siap dalam lima hari kerja.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.replacement_passport.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The replacement passport will be ready in five working days.",
+        "translation": "O passaporte substitutivo ficará pronto em cinco dias úteis.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.replacement_passport.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The replacement passport will be ready in five working days.",
+        "translation": "재발급 여권은 영업일 기준으로 5일 안에 준비됩니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.replacement_passport.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The replacement passport will be ready in five working days.",
+        "translation": "代替パスポートは5営業日後に完成します。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.replacement_passport.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The replacement passport will be ready in five working days.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "c9125b74e0ad8b242dd919c2d60f893fd38490479b5b264e4bde932f5225917c": [
+      {
+        "forms": [
+          "divide",
+          "divides",
+          "divided",
+          "dividing"
+        ],
+        "id": "lex.sa.en.divide.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "divide",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.divide.verb",
+          "prn.sa.en.divide.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.divide.verb.1",
+          "sns.sa.en.divide-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.divide-verb",
+        "id": "prn.sa.en.divide.verb",
+        "ipa": "/dɪˈvaɪd/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.divide.verb.us",
+        "ipa": "/dɪˈvaɪd/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Tách thành các phần bằng nhau; phép toán ngược với nhân.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.divide.verb.1.1",
+          "exm.sa.en.divide-verb.more.01",
+          "exm.sa.en.divide-verb.more.02"
+        ],
+        "gloss": "chia",
+        "id": "sns.sa.vi.divide.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.divide.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.divide-verb",
+          "res.sa.aud.divide-verb",
+          "res.sa.lnk.divide-verb",
+          "res.sa.vid.divide-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Undo multiplication by the same non-zero number on both sides.",
+        "exampleIds": [
+          "exm.sa.en.divide.verb.1.1"
+        ],
+        "gloss": "Undo multiplication by the same non-zero number on both sides.",
+        "id": "sns.sa.en.divide-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.divide.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.divide.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Divide both sides by 2 to isolate x.",
+        "translation": "Chia cả hai vế cho 2 để cô lập x.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.divide.verb.1",
+        "id": "lnk.sa.en.glossary.037",
+        "kind": "relation",
+        "toId": "sns.sa.vi.isolate.verb.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.divide.verb.1",
+        "id": "lnk.sa.en.glossary.038",
+        "kind": "relation",
+        "toId": "sns.sa.vi.sides.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "c93c38c6a55e988ac3547e106df831437e1bb70ff5994c183ad66870c9a7f5fa": [
+      {
+        "forms": [
+          "Headlamp (dipped beam)",
+          "headlamp"
+        ],
+        "id": "lex.sa.en.headlamp",
+        "kind": "lexeme",
+        "lemma": "Headlamp (dipped beam)",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.headlamp.alt"
+        ]
+      },
+      {
+        "definition": "The dipped-beam headlamp is on. Severity level 1 — Information / Status. Action: Nothing to do. The lamp is working..",
+        "gloss": "The dipped-beam headlamp is on.",
+        "id": "sns.sa.en.headlamp.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.headlamp",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "c955c6e30e2af6db8a8ccfb9baedea7b395e15b37fe0c8aa87ff5491ca43131a": [
+      {
+        "forms": [
+          "Saving face",
+          "cs_saving_face"
+        ],
+        "id": "lex.sa.mind.cs_saving_face",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Saving face",
+        "pos": "phrase",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_saving_face.alt",
+          "sns.sa.mind.cs_saving_face.alt.ja",
+          "sns.sa.mind.cs_saving_face.alt.ko",
+          "sns.sa.mind.cs_saving_face.alt.pt_br",
+          "sns.sa.mind.cs_saving_face.alt.id",
+          "sns.sa.mind.cs_saving_face.alt.th",
+          "sns.sa.mind.cs_saving_face.alt.tr"
+        ]
+      },
+      {
+        "definition": "Letting a person keep their standing, especially after a mistake or a failure.",
+        "exampleIds": [
+          "exm.sa.mind.cs_saving_face.1.1"
+        ],
+        "gloss": "Letting a person keep their standing, especially after a mistake or a failure.",
+        "id": "sns.sa.mind.cs_saving_face.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_saving_face",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "間違いや失敗を起こした人が、それによって品位や立場を失わずに済むようにすること。",
+        "exampleIds": [
+          "exm.sa.mind.cs_saving_face.1.1.ja"
+        ],
+        "gloss": "過ちや失敗の後も、その人の立場や信用が保たれるようにすること。",
+        "id": "sns.sa.mind.cs_saving_face.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_saving_face",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "실수나 실패가 드러난 뒤에도 그 사람의 사회적 위치가 무너지지 않게 해주는 것. 잘못을 덮어 주는 것과는 다르며, 때로는 공개적 책임만으로도 이루어진다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_saving_face.1.1.ko"
+        ],
+        "gloss": "실수나 실패 뒤에도 한 사람의 체면과 위치를 지켜 주는 것.",
+        "id": "sns.sa.mind.cs_saving_face.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_saving_face",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Maneira de evitar que uma pessoa perca a face ou a reputação, especialmente depois de um erro. Em geral, involves tratar a falha sem expô-la nem responsabilizar publicamente o estudante ou colega.",
+        "exampleIds": [
+          "exm.sa.mind.cs_saving_face.1.1.pt_br"
+        ],
+        "gloss": "Ação de permitir que alguém preserve sua reputação após um erro ou fracasso.",
+        "id": "sns.sa.mind.cs_saving_face.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_saving_face",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Cara membiarkan seseorang mempertahankan kedudukan dan kehormatan, terutama setelah membuat kesalahan atau mengalami kegagalan. Dalam konteks kerja, hal ini dapat dilakukan dengan tidak menyebut siapa yang bertanggung jawab atas kesalahan tersebut.",
+        "exampleIds": [
+          "exm.sa.mind.cs_saving_face.1.1.id"
+        ],
+        "gloss": "Mempertahankan kedudukan dan kehormatan seseorang, terutama setelah kesalahan.",
+        "id": "sns.sa.mind.cs_saving_face.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_saving_face",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "การดำเนินการอย่างเป็นทางเลือกเพื่อให้บุคคลไม่เสียสถานะหรือศักดิ์ศรี โดยเฉพาะหลังทำผิดพลาดหรือล้มเหลว การช่วยรักษาหน้าอาจทำให้ผู้อื่นต้องยอมรับข้อผิดพลาดด้วย",
+        "exampleIds": [
+          "exm.sa.mind.cs_saving_face.1.1.th"
+        ],
+        "gloss": "การช่วยให้บุคคลรักษาสถานะและศักดิ์ศรีไว้ได้",
+        "id": "sns.sa.mind.cs_saving_face.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_saving_face",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin yaptığı hatadan sonra toplumsal saygınlığını ve mesleki itibarını korumasına izin verme. Hatanın açıkça belirtilmesi yerine düzeltmenin kişiyi küçük düşürmeden yapılmasıdır.",
+        "exampleIds": [
+          "exm.sa.mind.cs_saving_face.1.1.tr"
+        ],
+        "gloss": "Bir kişinin, özellikle hata veya başarısızlıktan sonra itibarını korumasına izin vermek.",
+        "id": "sns.sa.mind.cs_saving_face.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_saving_face",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_saving_face.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Müdür, raporun kim tarafından yazıldığını açıklamadan düzeltilmesine izin vererek yüzünü korudu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_saving_face.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ผู้จัดการช่วยรักษาหน้าด้วยการปล่อยให้แก้รายงานโดยไม่เอ่ยชื่อผู้เขียน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_saving_face.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Manajer menjaga kehormatan dengan membiarkan laporan diperbaiki tanpa menyebut siapa yang menuliskannya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_saving_face.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O gerente preservou a imagem ao permitir que o relatório fosse corrigido sem mencionar quem o havia escrito.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_saving_face.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "관리자는 보고서를 수정하게 두면서 작성자를 밝히지 않음으로써 자신의 체면을 지켜 주었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_saving_face.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "上司は、報告書だけを正し、書いた人を名指ししないことで彼女の面子を保った。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_saving_face.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The manager saved face by letting the report be corrected without naming who had written it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "c9a3721ee4e63cc2b01eacdebbe4d94b93ef8d6a3c3e17ce24e14283c3ac9220": [
+      {
+        "forms": [
+          "Reassurance-seeking",
+          "att_reassurance_seeking"
+        ],
+        "id": "lex.sa.social.att_reassurance_seeking",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Reassurance-seeking",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.att_reassurance_seeking.alt",
+          "sns.sa.social.att_reassurance_seeking.alt.ja",
+          "sns.sa.social.att_reassurance_seeking.alt.ko",
+          "sns.sa.social.att_reassurance_seeking.alt.pt_br",
+          "sns.sa.social.att_reassurance_seeking.alt.id",
+          "sns.sa.social.att_reassurance_seeking.alt.th",
+          "sns.sa.social.att_reassurance_seeking.alt.tr"
+        ]
+      },
+      {
+        "definition": "Asking a partner repeatedly to confirm that the relationship is still there.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1"
+        ],
+        "gloss": "Asking a partner repeatedly to confirm that the relationship is still there.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Asking a partner repeatedly to confirm that the relationship is still there.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.ja"
+        ],
+        "gloss": "関係がまだ続くことを、相手へ繰り返し確かめ的行为。",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대가 떠난 것이 아닌지, 관계가 여전히 있는지를 같은 질문으로 반복해서 확인하는 행위이다. 확인을 받아도 확신이 잠시 지나면 다시 질문할 수 있다.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.ko"
+        ],
+        "gloss": "관계가 여전히 유지되고 있는지 상대에게 반복해서 확인하는 행위.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Substantivo que designa a insistência em buscar garantias do parceiro, repetindo perguntas até obter a resposta desejada. Cuidado: não é o mesmo que pedir consolo ou desculpas uma única vez.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.pt_br"
+        ],
+        "gloss": "Pedir repetidamente ao parceiro que confirme que o relacionamento ainda existe.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kata ini dipakai untuk kebiasaan mengulang pertanyaan yang sama sampai mendapat jawaban yang menenangkan. Hati-hati: yang dihitung bukan sekali bertanya, melainkan mengulang pertanyaan itu berulang-ulang.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.id"
+        ],
+        "gloss": "Bertanya berulang kali kepada pasangan untuk memastikan bahwa hubungan itu masih ada.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การถามคู่รักซ้ำ ๆ เพื่อให้แน่ใจว่าความสัมพันธ์ยังดำเนินอยู่ มักเกิดขึ้นเมื่อบุคคลรู้สึกไม่มั่นคง",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.th"
+        ],
+        "gloss": "การขอคำยืนยันจากคู่รักซ้ำ ๆ ว่าความสัมพันธ์ยังอยู่",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir eşten ilişkinin devam ettiğini, kendisini sevildiğini ya da tehlikede olmadığını tekrar tekrar doğrulamasını istemektir. Aynı kaygının farklı biçimlerde sorulması da bu davranışa girer.",
+        "exampleIds": [
+          "exm.sa.social.att_reassurance_seeking.1.1.tr"
+        ],
+        "gloss": "Bir eşten ilişkinin hâlâ sürdüğünü defalarca doğrulamasını istemek.",
+        "id": "sns.sa.social.att_reassurance_seeking.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.att_reassurance_seeking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Güvence arama, aynı soruyu yanıt değişene kadar sormaktır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การแสวงหาคำยืนยันคือการถามคำถามเดิมซ้ำจนกว่าคำตอบจะเปลี่ยนไป",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Reassurance-seeking berarti bertanya hal yang sama sampai jawabannya berubah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A busca por reasseguração é repetir a mesma pergunta até que a resposta mude.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "확인 구하기는 대답이 달라질 때까지 같은 질문을 반복하는 데서 끝나지 않았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Reassurance-seeking is asking the same question until the answer changes.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.att_reassurance_seeking.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Reassurance-seeking is asking the same question until the answer changes.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "c9c11d63c014e53a8ac2d29c5f44246d59ec82cc20ce05d2024b843ae3ad6cc6": [
+      {
+        "forms": [
+          "age range",
+          "msa_age_range"
+        ],
+        "id": "lex.sa.social.msa_age_range",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "age range",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.msa_age_range.alt",
+          "sns.sa.social.msa_age_range.alt.ko",
+          "sns.sa.social.msa_age_range.alt.pt_br",
+          "sns.sa.social.msa_age_range.alt.id",
+          "sns.sa.social.msa_age_range.alt.th",
+          "sns.sa.social.msa_age_range.alt.tr",
+          "sns.sa.social.msa_age_range.alt.ja"
+        ]
+      },
+      {
+        "definition": "A span with a lower and an upper bound, used here for the ages a person will consider.",
+        "exampleIds": [
+          "exm.sa.social.msa_age_range.1.1"
+        ],
+        "gloss": "A span with a lower and an upper bound, used here for the ages a person will consider.",
+        "id": "sns.sa.social.msa_age_range.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.msa_age_range",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "배우자 후보에게 허용하거나 고려하는 최소 나이와 최대 나이의 범위다. 이 범위 안에 있다고 해서 반드시 원하는 상대가 되지는 않는다.",
+        "exampleIds": [
+          "exm.sa.social.msa_age_range.1.1.ko"
+        ],
+        "gloss": "사람이 고려하는 나이의 최솟값과 최댓값 사이.",
+        "id": "sns.sa.social.msa_age_range.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.msa_age_range",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Intervalo entre uma idade mínima e uma máxima, usado aqui para indicar as idades que alguém aceita em um parceiro.",
+        "exampleIds": [
+          "exm.sa.social.msa_age_range.1.1.pt_br"
+        ],
+        "gloss": "Faixa com um limite inferior e um superior, usada aqui para as idades que a pessoa considera.",
+        "id": "sns.sa.social.msa_age_range.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.msa_age_range",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Interval usia yang masih dipertimbangkan seseorang saat memilih pasangan, dinyatakan dengan batas usia terendah dan tertinggi.",
+        "exampleIds": [
+          "exm.sa.social.msa_age_range.1.1.id"
+        ],
+        "gloss": "Rentang usia dengan batas bawah dan batas atas.",
+        "id": "sns.sa.social.msa_age_range.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.msa_age_range",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ช่วงอายุที่มีขอบเขตต่ำสุดและสูงสุด ซึ่งใช้บอกว่าบุคคลหนึ่งจะพิจารณาคู่ครองในช่วงวัยใด",
+        "exampleIds": [
+          "exm.sa.social.msa_age_range.1.1.th"
+        ],
+        "gloss": "ช่วงอายุขั้นต่ำถึงขั้นสูงที่ยอมรับได้",
+        "id": "sns.sa.social.msa_age_range.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.msa_age_range",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin eş seçerken değerlendirebileceği en genç ve en yaşlı kişileri belirleyen aralık.",
+        "exampleIds": [
+          "exm.sa.social.msa_age_range.1.1.tr"
+        ],
+        "gloss": "Alt ve üst sınırları bulunan, uygun görülen yaş aralığı.",
+        "id": "sns.sa.social.msa_age_range.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.msa_age_range",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "名詞。交際相手の候補とする年齢を、最低年齢と最高年齢で表す範囲。",
+        "exampleIds": [
+          "exm.sa.social.msa_age_range.1.1.ja"
+        ],
+        "gloss": "年齢の下限と上限によって示される範囲。",
+        "id": "sns.sa.social.msa_age_range.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.msa_age_range",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.msa_age_range.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "希望する年齢範囲は二十八歳から三十八歳までと入力してください。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.msa_age_range.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Uygun yaş aralığını iki sayı olarak yaz, duygu olarak değil.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.msa_age_range.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เขียนช่วงอายุที่ยอมรับได้เป็นตัวเลขสองตัว ไม่ใช่บอกเป็นความรู้สึก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.msa_age_range.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tuliskan rentang usia yang kamu pertimbangkan sebagai dua angka, bukan sebagai perasaan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.msa_age_range.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Escreva a faixa de idade como dois números, e não como uma sensação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.msa_age_range.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "고려하는 나이 범위는 최소 서른 살, 최대 마흔 살로 적었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.msa_age_range.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Write your age range as two numbers, not as a feeling.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "c9de373b5163ba4175f09eea74ab49240c575d9d1767deeb4b4ffabd203ae51c": [
+      {
+        "forms": [
+          "Play together",
+          "play_together"
+        ],
+        "id": "lex.sa.kids_daily.play_together",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Play together",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_daily.play_together.alt",
+          "sns.sa.kids_daily.play_together.alt.ja",
+          "sns.sa.kids_daily.play_together.alt.ko",
+          "sns.sa.kids_daily.play_together.alt.pt_br",
+          "sns.sa.kids_daily.play_together.alt.id",
+          "sns.sa.kids_daily.play_together.alt.th",
+          "sns.sa.kids_daily.play_together.alt.tr"
+        ]
+      },
+      {
+        "definition": "To do the same game with another child, side by side. It is the simplest friendship there is.",
+        "exampleIds": [
+          "exm.sa.kids_daily.play_together.1.1"
+        ],
+        "gloss": "To do the same game with another child, side by side. It is the simplest friendship there is.",
+        "id": "sns.sa.kids_daily.play_together.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_daily.play_together",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ほかの子どもと同じ遊びを、並んでやることです。いちばん簡単な友情です。",
+        "exampleIds": [
+          "exm.sa.kids_daily.play_together.1.1.ja"
+        ],
+        "gloss": "他の子どもと同じ遊びをvolt doingこと。",
+        "id": "sns.sa.kids_daily.play_together.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_daily.play_together",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "다른 아이와 함께 같은 게임이나 놀이를 하는 행위이다. 서로의 옆에 앉아 같은 시간을 보내는 간단한 우정의 형태이다.",
+        "exampleIds": [
+          "exm.sa.kids_daily.play_together.1.1.ko"
+        ],
+        "gloss": "다른 아이와 나란히 같은 놀이를 하는 것.",
+        "id": "sns.sa.kids_daily.play_together.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_daily.play_together",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Brincar juntos é compartilhar uma atividade lúdica com outra pessoa. A expressão também pode.usar-se de modo geral para indicar companhia e cooperação na brincadeira.",
+        "exampleIds": [
+          "exm.sa.kids_daily.play_together.1.1.pt_br"
+        ],
+        "gloss": "Fazer a mesma brincadeira com outra criança, lado a lado.",
+        "id": "sns.sa.kids_daily.play_together.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_daily.play_together",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bermain bersama merupakan kegiatan yang mempererat hubungan dan persahabatan. Kata ini menjelaskan vividly bermain bersama, bukan sendirian.",
+        "exampleIds": [
+          "exm.sa.kids_daily.play_together.1.1.id"
+        ],
+        "gloss": "Bermain bersama adalah melakukan permainan yang sama bersama orang lain.",
+        "id": "sns.sa.kids_daily.play_together.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_daily.play_together",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การเล่นด้วยกันคือการทำกิจกรรมหรือเล่นเกมร่วมกับคนอื่น มักเกิดขึ้นระหว่างการพักผ่อนหรือเวลาเล่น",
+        "exampleIds": [
+          "exm.sa.kids_daily.play_together.1.1.th"
+        ],
+        "gloss": "การเล่นเกมเดียวกันกับเด็กอื่น",
+        "id": "sns.sa.kids_daily.play_together.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_daily.play_together",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir başka çocukla birlikte, aynı oyunu oynama eylemi. Karşılıklı paylaşmayı ve bir arada vakit geçirmeyi gerektirir.",
+        "exampleIds": [
+          "exm.sa.kids_daily.play_together.1.1.tr"
+        ],
+        "gloss": "Başka bir çocukla yan yana aynı oyunu oynamak; en basit dostluk biçimidir.",
+        "id": "sns.sa.kids_daily.play_together.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_daily.play_together",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_daily.play_together.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We play together at break time every day.",
+        "translation": "Her gün tenefüste birlikte oynuyoruz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_daily.play_together.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We play together at break time every day.",
+        "translation": "เราเล่นด้วยกันทุกวันในช่วงพักเที่ยง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_daily.play_together.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We play together at break time every day.",
+        "translation": "Kami bermain bersama setiap kali istirahat.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_daily.play_together.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We play together at break time every day.",
+        "translation": "Nós brincamos juntos no recreio todos os dias.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_daily.play_together.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We play together at break time every day.",
+        "translation": "우리는 매일 쉬는 시간에 함께 놀아.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_daily.play_together.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We play together at break time every day.",
+        "translation": "每天の休み時間に一緒に遊んでいます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_daily.play_together.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We play together at break time every day.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "c9eaccf864700b306fe58e3763b530515ee5064d26c81d504a7e19eda951efd3": [
+      {
+        "forms": [
+          "Self-assessment",
+          "intelill_self_assessment"
+        ],
+        "id": "lex.sa.mind.intelill_self_assessment",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Self-assessment",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intelill_self_assessment.alt",
+          "sns.sa.mind.intelill_self_assessment.alt.ja",
+          "sns.sa.mind.intelill_self_assessment.alt.ko",
+          "sns.sa.mind.intelill_self_assessment.alt.pt_br",
+          "sns.sa.mind.intelill_self_assessment.alt.id",
+          "sns.sa.mind.intelill_self_assessment.alt.th",
+          "sns.sa.mind.intelill_self_assessment.alt.tr"
+        ]
+      },
+      {
+        "definition": "Judging your own work or your own ability.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_self_assessment.1.1"
+        ],
+        "gloss": "Judging your own work or your own ability.",
+        "id": "sns.sa.mind.intelill_self_assessment.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intelill_self_assessment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自分のrensperformanceや能力を自分で判断・評価すること。",
+        "exampleIds": [
+          "exm.sa.mind.intelill_self_assessment.1.1.ja"
+        ],
+        "gloss": "自分自身の業績や能力を評価すること。",
+        "id": "sns.sa.mind.intelill_self_assessment.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intelill_self_assessment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자신의 능력이나 작업 결과를 스스로 판단하고 평가하는 일이나 능력입니다. 객관적인 평가가 아니라 자기 자신을 판단한다는 점에 유의합니다.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_self_assessment.1.1.ko"
+        ],
+        "gloss": "자신의 능력이나 작업 결과를 스스로 평가하는 것.",
+        "id": "sns.sa.mind.intelill_self_assessment.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intelill_self_assessment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ato de julgar o próprio desempenho, trabalho ou habilidade. Pode envolver uma visão excessivamente favorável ou desfavorável de si mesmo.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_self_assessment.1.1.pt_br"
+        ],
+        "gloss": "Avaliação do próprio trabalho ou da própria capacidade.",
+        "id": "sns.sa.mind.intelill_self_assessment.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intelill_self_assessment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Penilaian atas pekerjaan sendiri atau kemampuan sendiri. Penilaian diri cenderung terlalu longgar atau terlalu ketat, sehingga perlu dibandingkan dengan penilaian orang lain.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_self_assessment.1.1.id"
+        ],
+        "gloss": "Penilaian atas pekerjaan sendiri atau kemampuan sendiri.",
+        "id": "sns.sa.mind.intelill_self_assessment.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intelill_self_assessment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การตัดสินหรือประเมินคุณค่าของงานและความสามารถของตนเอง มักมีความเอียงเพราะผู้ประเมินรู้จักตนเองมากกว่าคนอื่น",
+        "exampleIds": [
+          "exm.sa.mind.intelill_self_assessment.1.1.th"
+        ],
+        "gloss": "การประเมินงานหรือความสามารถของตนเอง",
+        "id": "sns.sa.mind.intelill_self_assessment.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intelill_self_assessment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin kendi çalışmasını, performansını veya yeteneğini değerlendirmesi. Kişinin kendi izlenimini, dış değerlendirmeden ayırmak önemlidir.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_self_assessment.1.1.tr"
+        ],
+        "gloss": "Kendi işini veya yeteneğini kendisinin değerlendirmesi.",
+        "id": "sns.sa.mind.intelill_self_assessment.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intelill_self_assessment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intelill_self_assessment.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Özdeğerlendirmesi ona hazır olduğunu söyledi; karşısındaki iş başka bir şey söylüyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intelill_self_assessment.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การประเมินตัวเองบอกเขาว่าเขาพร้อม แต่งานที่อยู่ตรงหน้าเขากลับบอกอีกอย่าง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intelill_self_assessment.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Penilaian diri memberi tahu dia sudah siap; pekerjaan yang dihadapannya berkata lain.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intelill_self_assessment.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A autoavaliação disse que ele estava pronto; a tarefa diante dele mostrou o contrário.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intelill_self_assessment.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "자신의 능력을 스스로 평가한 결과는 준비가 다 된 것으로 나타났지만, 앞의 일은 달리 보여 주었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intelill_self_assessment.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "自己評価では準備万全 seemedだった oughtだが目の前の仕事は別の结果を示した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intelill_self_assessment.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Self-assessment told him he was ready; the job in front of him said otherwise.",
+        "translation": "Tự đánh giá nói với anh rằng anh đã sẵn sàng; công việc trước mặt anh lại nói khác đi.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "c9f943332257b022c3c1131e23c9199e87bb91cf8b09cd1ea6549f98e21f2629": [
+      {
+        "forms": [
+          "Situationship",
+          "situationship"
+        ],
+        "id": "lex.sa.social.situationship",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Situationship",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.situationship.alt",
+          "sns.sa.social.situationship.alt.ja",
+          "sns.sa.social.situationship.alt.ko",
+          "sns.sa.social.situationship.alt.pt_br",
+          "sns.sa.social.situationship.alt.id",
+          "sns.sa.social.situationship.alt.th",
+          "sns.sa.social.situationship.alt.tr"
+        ]
+      },
+      {
+        "definition": "A relationship that has no agreed label. Nobody has said what it is, and nobody has asked.",
+        "exampleIds": [
+          "exm.sa.social.situationship.1.1"
+        ],
+        "gloss": "A relationship that has no agreed label. Nobody has said what it is, and nobody has asked.",
+        "id": "sns.sa.social.situationship.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.situationship",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "互いに好意を持っているが、恋人や友人などの関係を明示していない状態を指す。関係を，彼此がに関係として認めない場合に.pay。",
+        "exampleIds": [
+          "exm.sa.social.situationship.1.1.ja"
+        ],
+        "gloss": "恋人とも友人とも，正式な名称が定まっていない関係。",
+        "id": "sns.sa.social.situationship.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.situationship",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "연인인지 친구인지 등 관계의 명칭을 서로 합의하지 않은 채 나누는 교제 관계다. 반드시 성적 관계를 뜻하지는 않는다.",
+        "exampleIds": [
+          "exm.sa.social.situationship.1.1.ko"
+        ],
+        "gloss": "관계의 성격이나 이름이 정해지지 않은 교제 관계.",
+        "id": "sns.sa.social.situationship.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.situationship",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Designa um relacionamento que ninguémdefine oficialmente, geralmente porque as partes evitam falar sobre o que ele é.",
+        "exampleIds": [
+          "exm.sa.social.situationship.1.1.pt_br"
+        ],
+        "gloss": "Relacionamento amoroso sem uma definição ou rótulo combinado pelas partes.",
+        "id": "sns.sa.social.situationship.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.situationship",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Situasi adalah hubungan yang Neither pihak maupun telah，明确 membahas statusnya. Istilah ini sering dipakai ketika hubungan terus berlanjut tanpa unresponsive keputusan untuk menyebutnya secara resmi.",
+        "exampleIds": [
+          "exm.sa.social.situationship.1.1.id"
+        ],
+        "gloss": "Hubungan yang statusnya tidak disepakati oleh kedua belah pihak.",
+        "id": "sns.sa.social.situationship.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.situationship",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสัมพันธ์ระหว่างสองคนที่ยังไม่ได้ระบุว่าเป็นแบบใด และมักไม่ได้พูดถึงเรื่องนี้อย่างชัดเจน",
+        "exampleIds": [
+          "exm.sa.social.situationship.1.1.th"
+        ],
+        "gloss": "ความสัมพันธ์ที่ยังไม่มีการตกลงหรือนิยามสถานะ",
+        "id": "sns.sa.social.situationship.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.situationship",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İki kişi arasında karşılıklı duygular ve düzenli temas bulunan, ancak ne resmî bir ilişki ne de yalnızca arkadaşlık olarak tanımlanan bağdır.",
+        "exampleIds": [
+          "exm.sa.social.situationship.1.1.tr"
+        ],
+        "gloss": "Ne taraflarca ne de ortak bir tanımla belirlenmiş ilişkidir.",
+        "id": "sns.sa.social.situationship.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.situationship",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.situationship.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We have been seeing each other for months and calling it a situationship.",
+        "translation": "Aylardır birbirimizi görüyoruz ama bunu tanımsız bir ilişki olarak adlandırıyoruz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.situationship.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We have been seeing each other for months and calling it a situationship.",
+        "translation": "เราเจอกันมาหลายเดือนแล้วแต่ยังไม่เคยนิยามความสัมพันธ์ของเรา จึงเรียกมันว่าความสัมพันธ์แบบไม่มีสถานะ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.situationship.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We have been seeing each other for months and calling it a situationship.",
+        "translation": "Kami sudah berbulan-bulan bertemu dan menyebut hubungan kami sebagai situasi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.situationship.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We have been seeing each other for months and calling it a situationship.",
+        "translation": "Saímos há alguns meses e chamamos aquilo de relacionamento sem rótulo.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.situationship.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We have been seeing each other for months and calling it a situationship.",
+        "translation": "우리는 몇 달 동안 만나고 있지만 그 관계를 교제 관계라고 부릅니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.situationship.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We have been seeing each other for months and calling it a situationship.",
+        "translation": "数か月間ずっと会って一緒に過ごしていますが、この関係をSituationship（シチュエーションシップ）と呼んでいます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.situationship.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We have been seeing each other for months and calling it a situationship.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

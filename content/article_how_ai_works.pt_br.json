@@ -1,0 +1,160 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_how_ai_works",
+  "objectives": [
+    "Explique o que é um modelo de linguagem e o que ele não é.",
+    "Descreva o ciclo de treinamento, desde a coleta de texto até o ajuste dos parâmetros.",
+    "Explique o que acontece entre o envio de uma mensagem e o recebimento de uma resposta.",
+    "Use corretamente os termos da área: token, training data, parameters, inference, context window, prompt e hallucination.",
+    "Explique por que uma resposta fluida ainda pode estar errada.",
+    "Decida qual tarefa deve ser delegada a um modelo e qual tarefa deve ser mantida por você.",
+    "Verifique os números, as fontes e as lacunas antes de confiar em um resultado."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Um modelo de linguagem é um programa que foi treinado para continuar um texto. Esse é todo o seu trabalho, no nível da máquina. Não é um banco de dados de respostas. Ele não contém nenhuma lista de fatos sobre sua empresa, sua máquina ou a reunião de ontem e, quando apresenta um fato que não recebeu do seu texto, gera esse fato a partir de um padrão, e não de um registro.\n\nO que ele tem é um conjunto muito grande de números, aprendido a partir de uma quantidade muito grande de texto, que descreve quais trechos de texto costumam vir depois de quais outros trechos. Ele aprendeu que \"a bomba\" normalmente é seguida por uma palavra sobre pressão ou fluxo. Aprendeu a estrutura de um manual, de uma reclamação, de um comentário de código, de um limite de segurança escrito como um número com uma unidade. A palavra \"modelo\" significa uma coisa construída para representar outra coisa: um modelo em escala representa um navio, e um modelo meteorológico representa o clima. Um modelo de linguagem representa a própria linguagem.\n\nÉ também a partir daí que vêm seus limites. Ele não tem experiência nem autoconsciência. Não é consciente, e nada nele compreende o que diz da maneira como uma pessoa compreende. Ele nunca viu sua máquina, seu cliente ou seu site; tudo o que diz sobre o mundo vem de textos, e parte desses textos é antiga, incorreta ou foi escrita por alguém interessado na resposta. A consequência prática é simples. Você não está falando com uma máquina que sabe coisas. Está falando com uma máquina que completa textos, e todos os demais pontos deste artigo decorrem dessa única diferença.",
+      "examples": [
+        "Não é um banco de dados de respostas; é um conjunto de tendências sobre o que vem a seguir.",
+        "O modelo completou a frase porque essa continuação era provável, não porque verificou um fato.",
+        "Nada no modelo conhece nossa máquina; tudo o que ele disse sobre ela veio do texto que forneci."
+      ],
+      "heading": "O que é um modelo de linguagem e o que ele não é"
+    },
+    {
+      "body": "O treinamento acontece uma vez, antes que você veja o modelo, e é caro. Ele é executado sobre uma grande quantidade de text, coletado de livros, artigos, sites, código e transcrições. O texto bruto é primeiro dividido em tokens, os blocos que um modelo lê e escreve. O modelo não lê letras.\n\nEntão o laço começa, e é o mesmo laço milhões de vezes ao longo de bilhões de trechos de texto. O modelo recebe uma sequência de tokens com o próximo oculto. Ele prevê o token oculto. Compara sua previsão com a real e mede o erro como um único número. Em seguida, ajusta levemente todos os parâmetros, na direção que teria tornado o erro menor. E passa para a sequência seguinte.\n\nOs parâmetros são a parte aprendida da máquina: um número muito grande de pesos que guardam as tendências. O nome vem da mesma raiz de \"measure\". Cada peso indica o quanto um padrão deve aumentar ou diminuir a chance de outro.\n\nO projeto que tornou esse trabalho possível veio do artigo de 2017 \"Attention Is All You Need\", que introduziu o transformer, a disposição em camadas usada pela maioria dos modelos hoje. Sua ideia central é a attention: cada token observa os tokens ao redor e calcula quais deles importam para a previsão. O modelo que responde a você tem muitas camadas disso, com os parâmetros dentro.\n\nVale retomar um ponto. Quando você usa o modelo, nada está sendo aprendido. Os parâmetros são fixos. Toda resposta que você recebe vem do mesmo modelo treinado, executado no sentido de propagação para frente sobre o seu texto.",
+      "examples": [
+        "O treinamento é um laço: adivinhar o próximo token, medir o erro, ajustar os pesos e começar novamente.",
+        "Ninguém treina o modelo quando eu pressiono Enter. Os pesos foram fixados muito antes."
+      ],
+      "heading": "Como um modelo é treinado",
+      "steps": [
+        "Colete uma grande quantidade de texto: livros, artigos, sites, código e transcrições.",
+        "Divida o texto em tokens, os blocos que o modelo lê.",
+        "Mostre ao modelo uma sequência de tokens e oculte o próximo.",
+        "Peça ao modelo que preveja o token oculto.",
+        "Meça o tamanho do erro e ajuste levemente todos os parâmetros para torná-lo menor.",
+        "Repita sobre bilhões de trechos de texto até que os erros sejam pequenos o suficiente para serem úteis."
+      ]
+    },
+    {
+      "body": "Sua mensagem é cortada em tokens. Esses tokens são colocados na janela de contexto, o espaço que o modelo consegue ver de uma só vez, junto com a conversa até então, qualquer documento que você anexou e as instruções que o serviço recebeu. O modelo então faz uma única coisa: prevê o próximo token. Ele calcula a probabilidade de muitos tokens seguintes possíveis, escolhe um e o escreve. Depois faz o mesmo novamente com esse token acrescentado, e de novo, e de novo. A resposta é construída token a token, e cada novo token é escolhido a partir de tudo o que veio antes.\n\nEsse funcionamento de um modelo treinado sobre um texto novo é chamado de inference. É o oposto do treinamento: os parâmetros não mudam, e nada é aprendido com sua pergunta. Toda resposta que você recebe é uma execução de inference.\n\nComo cada token é escolhido a partir de uma lista de candidatos prováveis, a mesma pergunta pode receber duas respostas diferentes. A maioria dos serviços define um controle sobre o quanto de aleatoriedade é usado nessa escolha. Pouca aleatoriedade faz você receber a mesma resposta duas vezes. Muita aleatoriedade gera mais variação e mais chance de um desvio errado.\n\nO modelo também decide quando parar. Produz um marcador de fim, ou o serviço o interrompe em um limite de comprimento, ou para porque a resposta exigiu uma ferramenta que precisa ser executada primeiro.\n\nE não há memória entre conversas. Um novo chat começa do zero, a menos que o serviço cole um resumo da conversa antiga de volta no topo. Essa memória fica em um banco de dados no lado do serviço, não no modelo, e o modelo não consegue distinguir a diferença entre as duas.",
+      "examples": [
+        "A resposta foi construída token a token, e cada token dependia dos que vieram antes.",
+        "Os pesos não mudaram; o modelo estava apenas sendo executado para frente.",
+        "Faça a mesma pergunta duas vezes e você pode receber duas respostas. Ambas vieram dos mesmos parâmetros."
+      ],
+      "heading": "O que acontece quando você pressiona Enter"
+    },
+    {
+      "body": "Estas sete palavras formam o vocabulário de trabalho da área. Elas aparecem na documentação do modelo, nas páginas de preços e nas conversas de pessoas que constroem esses sistemas.\n\nQuatro delas descrevem a máquina e as duas fases em que ela atua: **token**, **dados de treinamento**, **parâmetros** e **inferência**. Duas descrevem o que você fornece ao modelo: **prompt** e **janela de contexto**. Uma nomeia a falha que mais consome tempo de trabalho: **alucinação**.\n\nVale a pena manter as duas fases bem separadas na cabeça. O treinamento é a fase longa e cara, realizada pelas pessoas que construíram o modelo, e termina antes de o modelo chegar até você. A inferência é cada resposta que você recebe, uma execução por vez.\n\nUma ressalva sobre as sete palavras. Cada uma nomeia um mecanismo, não uma promessa. \"O modelo aprendeu\" significa que ele guardou uma tendência estatística. Não significa que ele saiba.",
+      "examples": [
+        "Tokens são as unidades que o modelo lê; os parâmetros são os números que ele aprendeu a partir deles.",
+        "O treinamento aconteceu uma vez, antes de eu usá-lo. Cada resposta que recebo é inferência.",
+        "Se não estava na janela de contexto, o modelo não poderia tê-lo usado."
+      ],
+      "heading": "As palavras da área",
+      "terms": [
+        {
+          "example": "A palavra \"pump\" pode ser um token, e um número de peça incomum pode ocupar três.",
+          "gloss": "Um trecho de texto que o modelo lê e escreve como uma única unidade. Normalmente uma palavra, parte de uma palavra ou um símbolo comum."
+        },
+        {
+          "example": "Se os dados de treinamento eram principalmente páginas da web em inglês, o modelo responderá melhor em inglês.",
+          "gloss": "O texto a partir do qual um modelo aprende. A abrangência e a qualidade desse texto determinam no que o modelo é bom e o que ele nunca viu."
+        },
+        {
+          "example": "O modelo tem bilhões de parâmetros, e nenhum deles é uma frase que você possa ler.",
+          "gloss": "Os números dentro de um modelo que guardam aquilo que ele aprendeu. Cada um é um peso que aumenta ou reduz a chance de uma continuação."
+        },
+        {
+          "example": "Toda pergunta que você envia é uma execução da inferência.",
+          "gloss": "A fase em que um modelo treinado roda seus parâmetros com uma nova entrada para produzir uma resposta."
+        },
+        {
+          "example": "Quando a janela de contexto está cheia, a primeira página do documento não está mais diante do modelo.",
+          "gloss": "A quantidade de texto que o modelo pode usar de uma só vez: sua mensagem, a conversa até aquele momento e qualquer documento anexado."
+        },
+        {
+          "example": "O prompt nunca mencionou nossa tolerância, então a resposta usou a tolerância errada.",
+          "gloss": "Tudo o que você envia ao modelo: a instrução, o material e a pergunta. Isso se torna o texto a partir do qual o modelo responde."
+        },
+        {
+          "example": "A citação estava perfeita e o artigo não existe. Isso é uma alucinação.",
+          "gloss": "Uma resposta fluente e confiante que não é verdadeira. O modelo produziu uma continuação com aparência provável em vez de um fato."
+        }
+      ]
+    },
+    {
+      "body": "O modelo foi treinado para produzir texto provável, não texto verdadeiro. A verdade não está em seu objetivo. Ele é um bom estimador do próximo token, e uma boa estimativa pode estar errada.\n\nUma resposta concluída tem duas qualidades distintas: ela parece correta e está correta. O modelo controla a primeira completamente. Ele não tem como saber a segunda, porque não possui um registro do que é verdadeiro e nunca confere uma frase com a fonte.\n\nTrês causas comuns. O fato não estava no contexto fornecido ao modelo, então ele preencheu a lacuna a partir do padrão. O fato é raro, e o texto de treinamento talvez nunca o tenha contido, de modo que o modelo não tinha nada para copiar. Ou a pergunta solicitou uma fonte, e o modelo produziu o formato de uma citação: um título, um autor, um ano, todos montados com base na aparência das citações, e não em qualquer documento real.\n\nQuando uma resposta como essa chega com a mesma certeza de uma resposta correta, ela é chamada de alucinação. O nome não significa que o modelo ficou confuso. Significa que a resposta não tem nenhum fundamento. Uma alucinação pode ser um número inventado, uma citação inventada, uma política inventada, um arquivo inventado ou uma página que não existe.\n\nHá um segundo tipo de erro, e ele é mais discreto. A resposta é verdadeira, mas é verdadeira sobre outra coisa. O modelo completou um padrão familiar sobre outra empresa, outra máquina ou outra norma, e a frase estava correta enquanto o sujeito estava errado.\n\nO que decorre de tudo isso é simples. Trate toda afirmação factual como não verificada até tê-la conferido com a fonte da qual veio. Fluidez não é evidência. É uma propriedade da escrita, não da afirmação.",
+      "examples": [
+        "A frase era fluida e o número estava errado. Fluidez não é evidência.",
+        "Recebi uma referência que parece correta; o artigo não existe.",
+        "A política citada é uma política real, de outra empresa."
+      ],
+      "heading": "Por que uma resposta fluente ainda pode estar errada"
+    },
+    {
+      "body": "O mesmo mecanismo produz as duas metades desta tabela, e a diferença entre elas não é sorte. Reescrever, resumir, redigir e traduzir são tarefas que um modelo faz bem: são próximas da forma do texto de treinamento, e o resultado é avaliado por quão bem ele é lido. Contar, conhecer sua empresa e lembrar da conversa de ontem são tarefas que ele faz mal: precisam de informações que o modelo não tem ou de cálculos aritméticos que ele não consegue fazer sem uma ferramenta.\n\nLeia a lista ruim como as tarefas que continuam sob sua responsabilidade. Se você provide o documento ao modelo, ele pode resumir o documento. Se a resposta depende de um número dos seus registros, esse número é responsabilidade sua. Se a tarefa tem um estado, ou seja, em que fase está, o que foi decidido e o que ainda está aberto, você mantém esse estado, porque o modelo não guarda nada.\n\nHá uma condição na lista boa. São as tarefas em que uma resposta boa o suficiente é útil e o leitor verifica a redação em vez dos fatos. No momento em que uma resposta precisa conter um número que decide dinheiro, tempo, tolerância ou segurança, ela pertence à lista ruim, não importa como a resposta pareça.",
+      "examples": [
+        "Deixe que ele redija o e-mail e você o envia. Deixe que ele explique o procedimento e você confere o número na etapa quatro.",
+        "Se a resposta precisa de um número dos nossos registros, essa verificação continua conosco.",
+        "Eu forneço a ele o texto real, porque ele não pode inventar o texto que esqueci de colar."
+      ],
+      "heading": "O que um modelo faz bem e o que faz mal",
+      "table": {
+        "headers": [
+          "It does this well",
+          "It does this badly"
+        ],
+        "rows": [
+          [
+            "Rewriting a text in another tone or length",
+            "Arithmetic in its head, without a calculator"
+          ],
+          [
+            "Summarising a document you gave it",
+            "Counting a long list and getting the total right"
+          ],
+          [
+            "Drafting the first version of an email",
+            "Knowing anything about your company"
+          ],
+          [
+            "Translating between languages",
+            "Remembering yesterday's conversation"
+          ],
+          [
+            "Explaining a standard procedure step by step",
+            "Telling whether the number on the page is the right one"
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Três verificações, e a terceira é a que as pessoas ignoram. **Os números.** Recalcule tudo o que determina valores, tempo, tolerância ou segurança. Um modelo pode produzir um número com o formato de um número correto e nada que o sustente, e a verificação leva um minuto. **As fontes.** Abra cada referência. Se a resposta cita um artigo, uma norma ou uma página da web, abra-a e confirme que ela diz o que a resposta afirma. Uma citação com o formato correto e o documento errado por trás é a falha típica. **As lacunas.** Pergunte o que não foi fornecido ao modelo. Ele não conhece seu número de peça, seu contrato ou a reunião de ontem; portanto, qualquer resposta que dependa dessas informações é uma resposta que você mesmo terá de concluir. Um hábito resolve os três: peça que ele mostre as etapas, depois confira as etapas com uma fonte confiável, e não com a frase que ele escreveu.",
+      "examples": [
+        "Me dê a fonte desse número e eu vou conferi-lo.",
+        "Mostre as etapas e marque a parte sobre a qual você não tem certeza.",
+        "Qual parte disto você não tinha? Eu vou fornecer."
+      ],
+      "heading": "O que verificar antes de confiar na saída"
+    },
+    {
+      "body": "Estas frases explicam o comportamento que as pessoas acham confuso e são úteis com um colega, um professor ou uma linha de suporte. Use-as como estão e mude o detalhe para se adequar à sua situação.",
+      "examples": [
+        "O modelo não sabia disso. Ele completou o texto da forma como o texto normalmente continua.",
+        "A resposta é fluida e não verificada, então eu a trato como um rascunho.",
+        "Ele previu o próximo token, e o próximo token estava errado.",
+        "O treinamento acabou. O que você está vendo é inferência.",
+        "Não há memória entre conversas. A janela de contexto é toda a memória.",
+        "Me dê o texto real e eu vou trabalhar com ele em vez de trabalhar com o que lembro.",
+        "Mostre-me as etapas e diga qual parte você não tem certeza."
+      ],
+      "heading": "Frases que você pode reutilizar"
+    }
+  ],
+  "summary": "Um modelo de linguagem não consulta respostas. Ele aprende padrões a partir de uma grande quantidade de texto e, em tempo de execução, prevê o próximo token, um token por vez. Depois de ler isto, você consegue explicar como um modelo é treinado, o que a janela de contexto guarda, por que uma resposta fluida pode estar errada e o que verificar antes de confiar em um resultado no trabalho.",
+  "title": "Como a IA realmente funciona: Training, Prediction e seus limites"
+}

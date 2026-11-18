@@ -1,0 +1,961 @@
+{
+  "records": {
+    "630efef7e75abf38cc316ea00100818f51d7dcd614e7d2b9888087a3aefc85e1": [
+      {
+        "forms": [
+          "Air tank",
+          "air_tank"
+        ],
+        "id": "lex.sa.kids_adventure.air_tank",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Air tank",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_adventure.air_tank.alt",
+          "sns.sa.kids_adventure.air_tank.alt.ja",
+          "sns.sa.kids_adventure.air_tank.alt.ko",
+          "sns.sa.kids_adventure.air_tank.alt.pt_br",
+          "sns.sa.kids_adventure.air_tank.alt.id",
+          "sns.sa.kids_adventure.air_tank.alt.th",
+          "sns.sa.kids_adventure.air_tank.alt.tr"
+        ]
+      },
+      {
+        "definition": "A bottle of compressed air that a diver carries on their back and breathes from.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1"
+        ],
+        "gloss": "A bottle of compressed air that a diver carries on their back and breathes from.",
+        "id": "sns.sa.kids_adventure.air_tank.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "潜水士が背中に背負って持ち，rego人工呼吸.bestする圧縮空気-filled容器。",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.ja"
+        ],
+        "gloss": "潜水士が背に背負い，呼吸に使う圧縮空気の瓶。",
+        "id": "sns.sa.kids_adventure.air_tank.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "잠수부가 등에 지니고 다니며 호흡에 사용하는 압축 공기 저장 용기다. 잠수 전에 공기량과 안전 상태를 확인해야 한다.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.ko"
+        ],
+        "gloss": "잠수부가 숨을 쉬며 압축된 공기를 공급받는 용기.",
+        "id": "sns.sa.kids_adventure.air_tank.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recipiente de ar comprimido usado durante o mergulho, 보통 preso às costas e conectado ao equipamento de respiração.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.pt_br"
+        ],
+        "gloss": "Cilindro de ar comprimido que um mergulhador carrega para respirar.",
+        "id": "sns.sa.kids_adventure.air_tank.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tabung berisi udara bertekanan yang biasanya dibawa di punggung oleh penyamam dan menjadi sumber oksigen saat bernapas. UDarnya harus diperiksa sebelum menyelam.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.id"
+        ],
+        "gloss": "Tabung udara bertekanan yang dipakaionaut untuk bernapas di bawah air.",
+        "id": "sns.sa.kids_adventure.air_tank.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ภาชนะบรรจุอากาศอัดสำหรับนักดำน้ำ โดยทั่วไปติดตั้งพร้อมอุปกรณ์จ่ายอากาศและท่อหายใจ",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.th"
+        ],
+        "gloss": "ถังอากาศอัดที่นักดำน้ำพกไว้บนหลังและใช้หายใจ",
+        "id": "sns.sa.kids_adventure.air_tank.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalış sırasında nefes almak için kullanılan, sıkıştırılmış hava içeren tüptür. Dalışçı bunu sırtında taşır ve hortumundan soluk verir.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.air_tank.1.1.tr"
+        ],
+        "gloss": "Dalışçının sırtında taşıdığı, sıkıştırılmış hava içeren tüp.",
+        "id": "sns.sa.kids_adventure.air_tank.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_adventure.air_tank",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "Denize girmeden önce dalış tüpündeki havanın basıncını kontrol etti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "ลุงของเธอตรวจถังอากาศอัดก่อนเธอกระโดดลงน้ำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "Paman 检查 tangki udaranya sebelum dia masuk ke dalam air.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "O tio dela verificou o tanque de ar antes de ela entrar na água.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "그 숙모는 그녀가 물에 들어가기 전에 공기탱크를 확인했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "彼女が潜る前に，叔父が空気タンクを確認した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_adventure.air_tank.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her uncle checked the air tank before she jumped in.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "631b42fe601d381ab52742681f2299bc43f5d8a44d042d2360ae2cd50e801575": [
+      {
+        "forms": [
+          "bargaining power",
+          "dm_bargaining_power"
+        ],
+        "id": "lex.sa.social.dm_bargaining_power",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "bargaining power",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.dm_bargaining_power.alt",
+          "sns.sa.social.dm_bargaining_power.alt.ja",
+          "sns.sa.social.dm_bargaining_power.alt.ko",
+          "sns.sa.social.dm_bargaining_power.alt.pt_br",
+          "sns.sa.social.dm_bargaining_power.alt.id",
+          "sns.sa.social.dm_bargaining_power.alt.th",
+          "sns.sa.social.dm_bargaining_power.alt.tr"
+        ]
+      },
+      {
+        "definition": "The capacity to say no without losing the chance of the thing you want.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1"
+        ],
+        "gloss": "The capacity to say no without losing the chance of the thing you want.",
+        "id": "sns.sa.social.dm_bargaining_power.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "交渉で不利な条件を拒絶しても、求めるものを得る機会を失わない_versions?",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.ja"
+        ],
+        "gloss": "欲しいものを手にする機会を失うことなく、条件を受け入れられる力。",
+        "id": "sns.sa.social.dm_bargaining_power.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "거절하더라도 원하는 결과를 포기하지 않아도 되는 여지. 다른 선택이나 대안이 많을수록 강해지며, 대체 길이 없는 상황에서는 약해진다.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.ko"
+        ],
+        "gloss": "원하는 것을 잃지 않고 거절할 수 있는 힘.",
+        "id": "sns.sa.social.dm_bargaining_power.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Capacidade de negociar termos e recusar uma proposta sem abrir mão da possibilidade de obter o que se quer. Vem da existência de alternativas ou de um bom desempenho em uma área que aumenta sua atratividade.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.pt_br"
+        ],
+        "gloss": "Poder de negociação para recusar uma proposta sem perder o que se deseja.",
+        "id": "sns.sa.social.dm_bargaining_power.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kekuatan yang tersedia bagi seseorang saat bernegosiasi untuk menentukan syarat atau hasil. Daya tawar bergantung pada kekuatan alternatif yang dimiliki, bukan sekadar keinginan tinggi.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.id"
+        ],
+        "gloss": "Kemampuan menolak tanpa kehilangan peluang mendapatkan sesuatu yang diinginkan.",
+        "id": "sns.sa.social.dm_bargaining_power.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงความสามารถในการปฏิเสธข้อเสนอโดยยังมีโอกาสได้สิ่งที่ต้องการ ซึ่งช่วยเพิ่มความได้เปรียบในการเจรจา",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.th"
+        ],
+        "gloss": "อำนาจในการปฏิเสธหรือต่อรองข้อเสนอ",
+        "id": "sns.sa.social.dm_bargaining_power.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pazarlıkta taraflardan birinin taleplerini kabul ettirme veya kendi isteğini başkasına yaptırma gücü. Bu, salt direnç göstermekten farklı olarak başka seçenekleri olmasıyla güçlenir.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.tr"
+        ],
+        "gloss": "İstediği şeyi elde etme şansını kaybetmeden hayır diyebilme kapasitesi.",
+        "id": "sns.sa.social.dm_bargaining_power.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O hafta başka planları olduğu için pazarlık gücü daha yüksekti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "อำนาจต่อรองของเธอมาจากการมีแผนอื่นในสัปดาห์นั้น จึงปฏิเสธข้อเสนอเดิมได้โดยไม่กังวล",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Daya tawarnya berasal dari adanya rencana lain pada minggu itu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O poder de negociação da empresa aumentou após ela ter assinado outro contrato.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 주에 다른 계획이 있었기 때문에 그녀에게는 협상력이 생겼다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その週には別の選択肢もあったため、彼女には強い交渉力があった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her bargaining power came from having other plans that week.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "634768dae1474506e4bf7d341890542b09987d7e6aea5d446c02e37581a56954": [
+      {
+        "forms": [
+          "row",
+          "rows"
+        ],
+        "id": "lex.sa.en.row.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "row",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.row.noun.1",
+          "sns.sa.en.row-noun.alt"
+        ]
+      },
+      {
+        "definition": "Một hàng ngang của một bảng.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "hàng",
+        "id": "sns.sa.vi.row.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.row.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A horizontal line of a table.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "A horizontal line in a table.",
+        "id": "sns.sa.en.row-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.row.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "63479ad69a090b258277ec8fba6f99419a2ffb248981510657c944ccd1148e97": [
+      {
+        "forms": [
+          "Salt",
+          "salt"
+        ],
+        "id": "lex.sa.daily_skills.salt",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Salt",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.salt.alt",
+          "sns.sa.daily_skills.salt.alt.ja",
+          "sns.sa.daily_skills.salt.alt.ko",
+          "sns.sa.daily_skills.salt.alt.pt_br",
+          "sns.sa.daily_skills.salt.alt.id",
+          "sns.sa.daily_skills.salt.alt.th",
+          "sns.sa.daily_skills.salt.alt.tr"
+        ]
+      },
+      {
+        "definition": "Coarse salt that softens the water in a dishwasher so that detergent can work. It goes in the round cap at the bottom of the tub.",
+        "exampleIds": [
+          "exm.sa.daily_skills.salt.1.1"
+        ],
+        "gloss": "Coarse salt that softens the water in a dishwasher so that detergent can work. It goes in the round cap at the bottom of the tub.",
+        "id": "sns.sa.daily_skills.salt.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.salt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "食洗機専用で、水を軟化して洗剤の作用を助ける粗い塩。食洗機の下部にある丸いふたへ入れる。",
+        "exampleIds": [
+          "exm.sa.daily_skills.salt.1.1.ja"
+        ],
+        "gloss": "食洗機の水を軟化し、洗剤が働くようにする粗い塩。",
+        "id": "sns.sa.daily_skills.salt.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.salt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "식기세척기 안의 물을 연하게 하여 세제가 잘 작용하도록 돕는 굵은 입자의 소금입니다. 바닥의 둥근 뚜껑에 넣으며, 식탁에 놓는 소금과는 구분해야 합니다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.salt.1.1.ko"
+        ],
+        "gloss": "식기세척기 바닥의 둥근 뚜껑에 넣는 굵은 소금이다.",
+        "id": "sns.sa.daily_skills.salt.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.salt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O sal da lava-louças amolece a água e facilita o funcionamento do detergente. Deve ser colocado na tampa ou no compartimento indicado para essa finalidade.",
+        "exampleIds": [
+          "exm.sa.daily_skills.salt.1.1.pt_br"
+        ],
+        "gloss": "Sal grosso usado na lava-louças para amaciar a água.",
+        "id": "sns.sa.daily_skills.salt.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.salt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Garam kasar yang ditambahkan ke tutup bundar di bagian bawah mesin cuci piring untuk mengurangi kadar hardness air. Garam ini membantu deterjen melepaskanSPARUT dan sisa makanan.",
+        "exampleIds": [
+          "exm.sa.daily_skills.salt.1.1.id"
+        ],
+        "gloss": "Garam kasar yang melunakkan air di mesin cuci piring agar deterjen dapat bekerja.",
+        "id": "sns.sa.daily_skills.salt.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.salt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เกลือชนิดนี้ใช้ลดความแข็งของน้ำในเครื่องล้างจานเพื่อให้ผงซักผ้าทำงานได้ดี ต้องเติมในฝาปิดกลมที่ก้นถัง",
+        "exampleIds": [
+          "exm.sa.daily_skills.salt.1.1.th"
+        ],
+        "gloss": "เกลือหยาบสำหรับเครื่องล้างจานที่ช่วยให้น้ำมีความนุ่ม",
+        "id": "sns.sa.daily_skills.salt.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.salt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bulaşık makinesinde suyu yumuşatarak temizleyicinin daha etkili çalışmasını sağlayan kaba tuzdur. Makinedeki yuvarlak kapağın içine doldurulur.",
+        "exampleIds": [
+          "exm.sa.daily_skills.salt.1.1.tr"
+        ],
+        "gloss": "Bulaşık makinesinin suyunu yumuşatan kaba tuz.",
+        "id": "sns.sa.daily_skills.salt.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.salt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.salt.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The salt symbol has come on, so I am filling the salt cap.",
+        "translation": "Tuz simgesi yanıyor, bu yüzden tuz kapağını dolduruyorum.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.salt.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The salt symbol has come on, so I am filling the salt cap.",
+        "translation": "สัญลักษณ์เกลือติดไฟ จึงกำลังเติมเกลือในฝาปิดกลม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.salt.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The salt symbol has come on, so I am filling the salt cap.",
+        "translation": "Lampu penanda garam menyala, jadi saya akan mengisi tutup wadah garam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.salt.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The salt symbol has come on, so I am filling the salt cap.",
+        "translation": "O aviso de sal acendeu, então vou encher o compartimento de sal.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.salt.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The salt symbol has come on, so I am filling the salt cap.",
+        "translation": "소금 표시등이 켜졌으므로 식기세척기의 소금 칸을 채워야 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.salt.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The salt symbol has come on, so I am filling the salt cap.",
+        "translation": "塩の記号が点灯したので、塩の入れ口灰尘を补充します。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.salt.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The salt symbol has come on, so I am filling the salt cap.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "635e0dd3a421c7de30049e81a1ae2b5d33fcb49633b71b5cd606c0c1fc4b35c8": [
+      {
+        "forms": [
+          "Decisive point",
+          "war_decisive_point"
+        ],
+        "id": "lex.sa.mind.war_decisive_point",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Decisive point",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_decisive_point.alt",
+          "sns.sa.mind.war_decisive_point.alt.ja",
+          "sns.sa.mind.war_decisive_point.alt.ko",
+          "sns.sa.mind.war_decisive_point.alt.pt_br",
+          "sns.sa.mind.war_decisive_point.alt.id",
+          "sns.sa.mind.war_decisive_point.alt.th",
+          "sns.sa.mind.war_decisive_point.alt.tr"
+        ]
+      },
+      {
+        "definition": "The place or the moment where the outcome of the whole action is settled; the effort is concentrated there.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1"
+        ],
+        "gloss": "The place or the moment where the outcome of the whole action is settled; the effort is concentrated there.",
+        "id": "sns.sa.mind.war_decisive_point.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一連の行動全体の結果が決まる場所または時点。戦力は通常、この決定点に集中する。",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.ja"
+        ],
+        "gloss": "全体の勝敗が決まる場所や時機。",
+        "id": "sns.sa.mind.war_decisive_point.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "전체 전투 또는 작전의 승패가 결정되는 장소나 순간이다. 보통 전력과Effort를 그 지점에 집중한다.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.ko"
+        ],
+        "gloss": "전체 승패가 갈리는 장소나 순간.",
+        "id": "sns.sa.mind.war_decisive_point.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o ponto em que o sucesso ou o fracasso da operação se decide e para o qual os meios são concentrados.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.pt_br"
+        ],
+        "gloss": "Lugar ou momento que determina o resultado de toda a ação.",
+        "id": "sns.sa.mind.war_decisive_point.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tempat atau saat ketika hasil keseluruhan suatu tindakan ditentukan, dan usaha atau perhatian dikONSentrasikan di sana. Jangan gunakan istilah ini hanya untuk hal yang penting, tetapi yang benar-benar menentukan hasil.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.id"
+        ],
+        "gloss": "Tempat atau saat yang menentukan hasil akhir sebuah tindakan.",
+        "id": "sns.sa.mind.war_decisive_point.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สถานที่หรือช่วงเวลาที่ผลของการดำเนินการทั้งหมดจะถูกกำหนด จึงเป็นจุดที่ต้องกระจุกกำลังและความพยายามไว้",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.th"
+        ],
+        "gloss": "จุดหรือช่วงเวลาที่กำหนดผลของการดำเนินการทั้งหมด",
+        "id": "sns.sa.mind.war_decisive_point.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Belirleyici nokta, çatışmanın genel sonucunu değiştirebilecek en önemli yer ya da andır. Emek ve kaynaklar genellikle bu noktada toplanır.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.tr"
+        ],
+        "gloss": "Bütün eylemin sonucunun belirlendiği yer veya an.",
+        "id": "sns.sa.mind.war_decisive_point.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Plan, bütün çabayı köprüye, yani belirleyici noktaya yöneltiyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "สะพานเป็นจุดตัดสินของแผนปฏิบัติการทั้งหมด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Jembatan menjadi titik menentukan dalam rencana tersebut.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O ponto decisivo era a ponte, e o plano indicava essa prioridade.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "다리는 결정적 지점이었으며 작전 계획도 그곳에ilitary 힘을 집중했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "橋が決定点であり、作戦計画にもそれが記されていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The decisive point was the bridge, and the plan said so.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6390361dfdff141a9223d632accf61242133a92d83f2a71be7233bb1cdbacca2": [
+      {
+        "forms": [
+          "Parameter",
+          "parameter"
+        ],
+        "id": "lex.sa.technology.parameter",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Parameter",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.parameter.alt",
+          "sns.sa.technology.parameter.alt.ja",
+          "sns.sa.technology.parameter.alt.ko",
+          "sns.sa.technology.parameter.alt.pt_br",
+          "sns.sa.technology.parameter.alt.id",
+          "sns.sa.technology.parameter.alt.th",
+          "sns.sa.technology.parameter.alt.tr"
+        ]
+      },
+      {
+        "definition": "One adjustable number inside a model. Models are described by how many parameters they have.",
+        "exampleIds": [
+          "exm.sa.technology.parameter.1.1"
+        ],
+        "gloss": "One adjustable number inside a model. Models are described by how many parameters they have.",
+        "id": "sns.sa.technology.parameter.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.parameter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "人工智能モデルの内部で学習によって調整される数値。模型的仕様や規模を示すときに、パラメータの個数が-helpされる。",
+        "exampleIds": [
+          "exm.sa.technology.parameter.1.1.ja"
+        ],
+        "gloss": "モデル内部で調整できる数値のこと。",
+        "id": "sns.sa.technology.parameter.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.parameter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "모델의 동작을 결정하는 조정 가능한 수치로, 학습 과정에서 데이터에 맞게 바뀐다. 모델의 규모는 보통 가진 매개변수의 개수로 설명한다.",
+        "exampleIds": [
+          "exm.sa.technology.parameter.1.1.ko"
+        ],
+        "gloss": "인공지능 모델 내부에서 학습을 통해 조정되는 수치이다.",
+        "id": "sns.sa.technology.parameter.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.parameter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Valor interno de um modelo que pode ser ajustado durante o treinamento para influence sua capacidade de reconhecer padrões. Os modelos costumam ser descritos pela quantidade de parâmetros que possuem.",
+        "exampleIds": [
+          "exm.sa.technology.parameter.1.1.pt_br"
+        ],
+        "gloss": "Número ajustável que faz parte do funcionamento de um modelo.",
+        "id": "sns.sa.technology.parameter.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.parameter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Nilai internal model yang dipelajari atau ditetapkan selama proses pengembangan. Banyaknya parameter menjadi salah satu ciri yang digunakan untuk menggambarkan sebuah model.",
+        "exampleIds": [
+          "exm.sa.technology.parameter.1.1.id"
+        ],
+        "gloss": "Angka yang dapat disesuaikan di dalam model AI.",
+        "id": "sns.sa.technology.parameter.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.parameter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "จำนวนพารามิเตอร์บ่งบอกขนาดและความซับซ้อนของแบบจำลอง แต่การมีมากกว่าไม่ได้แปลว่าจะดีขึ้นเสมอ เพราะต้องมีข้อมูลและกำลังประมวลผลมากพอ",
+        "exampleIds": [
+          "exm.sa.technology.parameter.1.1.th"
+        ],
+        "gloss": "ตัวเลขที่ปรับค่าได้ภายในแบบจำลองหนึ่งตัว",
+        "id": "sns.sa.technology.parameter.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.parameter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Model içinde ayarlanabilen ve çıktıyı etkileyen bir sayısal değer. Modeller, sahip oldukları parametrelerin sayısı ve türleriyle tanıtılır.",
+        "exampleIds": [
+          "exm.sa.technology.parameter.1.1.tr"
+        ],
+        "gloss": "Bir modelin davranışını etkileyen ve eğitim sırasında ayarlanabilen sayısal değer.",
+        "id": "sns.sa.technology.parameter.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.parameter",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.parameter.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+        "translation": "Daha çok parametresi olan model daha fazla örüntüyü tutabilir, ancak daha çok veri ve hesaplama gücü de gerektirir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.parameter.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+        "translation": "แบบจำลองที่มีพารามิเตอร์มากกว่าอาจจำรูปแบบได้มากกว่า แต่ก็ต้องใช้ข้อมูลและกำลังประมวลผลมากขึ้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.parameter.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+        "translation": "Model dengan lebih banyak parameter dapat menyimpan lebih banyak pola, tetapi juga membutuhkan lebih banyak data dan daya komputasi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.parameter.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+        "translation": "Um modelo com mais parâmetros pode reconhecer mais padrões, mas também exige mais dados e processamento.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.parameter.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+        "translation": "매개변수가 더 많은 모델은 더 많은 패턴을 표현할 수 있지만 더 많은 데이터와 계산 자원도 필요하다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.parameter.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+        "translation": "パラメータが多いモデルは多くのパターンを記憶できますが、より多くのデータと計算資源も必要です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.parameter.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "63df89c734ceadd0e4f72026f1f172bdf826c996dee4a50b6671392d5839e2e3": [
+      {
+        "forms": [
+          "Air recirculation",
+          "recirculation"
+        ],
+        "id": "lex.sa.en.recirculation",
+        "kind": "lexeme",
+        "lemma": "Air recirculation",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.recirculation.alt"
+        ]
+      },
+      {
+        "definition": "The air is recirculated inside the car instead of being drawn in from outside. Severity level 1 — Information / Status. Action: Nothing to do. Recirculation keeps the road smell out, but it is not a fresh-air setting..",
+        "gloss": "The air is recirculated inside the car instead of being drawn in from outside.",
+        "id": "sns.sa.en.recirculation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.recirculation",
+        "pos": "noun",
+        "revision": 1
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,573 @@
+{
+  "items": [
+    {
+      "definition": "A formal conversation with your manager about your work and how you are doing, usually held before a pay review.",
+      "dictionaryId": "lex.sa.work.performance_review",
+      "example": "I had a strong performance review, and I want to use it in my pay case.",
+      "fieldId": "work",
+      "id": "performance_review",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Performance review"
+    },
+    {
+      "definition": "The range a role is paid within, with a minimum, a midpoint and a maximum.",
+      "dictionaryId": "lex.sa.work.pay_band",
+      "example": "My band goes from $1,400 to $1,900, and I am currently below the midpoint.",
+      "fieldId": "work",
+      "id": "pay_band",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Pay band"
+    },
+    {
+      "definition": "The middle figure of a pay band, usually the point where an employee is expected to be fully competent.",
+      "dictionaryId": "lex.sa.work.midpoint",
+      "example": "I am about $120 below the midpoint for my band.",
+      "fieldId": "work",
+      "id": "midpoint",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Midpoint"
+    },
+    {
+      "definition": "A figure used to compare your pay with the market rate for the same role.",
+      "dictionaryId": "lex.sa.work.benchmark",
+      "example": "The benchmark for this role in Hanoi is around $1,750.",
+      "fieldId": "work",
+      "id": "benchmark",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Benchmark"
+    },
+    {
+      "definition": "Everything you receive from a job: salary, bonus, allowances and benefits, not only the monthly pay.",
+      "dictionaryId": "lex.sa.work.total_compensation",
+      "example": "My total compensation is $1,650, including the transport allowance.",
+      "fieldId": "work",
+      "id": "total_compensation",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Total compensation"
+    },
+    {
+      "definition": "A payment that depends on results, usually agreed at the start of the year.",
+      "dictionaryId": "lex.sa.work.bonus",
+      "example": "I asked whether a higher bonus could work instead of a permanent increase.",
+      "fieldId": "work",
+      "id": "bonus",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Bonus"
+    },
+    {
+      "definition": "A single increase to pay that does not change your base salary.",
+      "dictionaryId": "lex.sa.work.one_off_adjustment",
+      "example": "They offered a one-off adjustment of $150 for this year.",
+      "fieldId": "work",
+      "id": "one_off_adjustment",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "One-off adjustment"
+    },
+    {
+      "definition": "An increase given to bring pay in line with the market, framed as a fix rather than a reward.",
+      "dictionaryId": "lex.sa.work.market_correction",
+      "example": "The company called it a market correction, which is still a pay rise.",
+      "fieldId": "work",
+      "id": "market_correction",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Market correction"
+    },
+    {
+      "definition": "A change of level within the same job, which usually comes with a pay band change.",
+      "dictionaryId": "lex.sa.work.regrade",
+      "example": "They suggested a regrade to senior analyst.",
+      "fieldId": "work",
+      "id": "regrade",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Regrade"
+    },
+    {
+      "definition": "A payment made to an employee when a job ends, often calculated by years of service.",
+      "dictionaryId": "lex.sa.work.severance",
+      "example": "The package included three months of salary as severance.",
+      "fieldId": "work",
+      "id": "severance",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Severance"
+    },
+    {
+      "definition": "To respond to an offer with a different figure, as in a negotiation.",
+      "dictionaryId": "lex.sa.work.counter",
+      "example": "They offered $1,650, so I countered with $1,800.",
+      "fieldId": "work",
+      "id": "counter",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Counter"
+    },
+    {
+      "definition": "The first number of a negotiation, which every later number is measured against.",
+      "dictionaryId": "lex.sa.work.dpn_anchoring",
+      "example": "The seller opened at 120,000, and every figure after that was measured against it.",
+      "fieldId": "work",
+      "id": "dpn_anchoring",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Anchoring"
+    },
+    {
+      "conflict": true,
+      "definition": "A pressure tactic that claims the supply is limited, so that waiting looks like a loss.",
+      "dictionaryId": "lex.sa.mind.psy_scarcity",
+      "example": "The scarcity was easy to check: the shelf held six, not two.",
+      "fieldId": "work",
+      "id": "dpn_scarcity",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Scarcity"
+    },
+    {
+      "conflict": true,
+      "definition": "A pressure tactic that shortens the time available for checking and deciding.",
+      "dictionaryId": "lex.sa.mind.psy_urgency",
+      "example": "The urgency was built to stop a phone call: sign tonight or the price changes.",
+      "fieldId": "work",
+      "id": "dpn_urgency",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Urgency"
+    },
+    {
+      "conflict": true,
+      "definition": "A pressure tactic that presents the decisions of other people as evidence for your own.",
+      "dictionaryId": "lex.sa.mind.psy_social_proof",
+      "example": "The offer came with social proof: nine out of ten customers chose the larger plan.",
+      "fieldId": "work",
+      "id": "dpn_social_proof",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Social proof"
+    },
+    {
+      "definition": "The pressure to return a favour that the other side has given you.",
+      "dictionaryId": "lex.sa.work.dpn_reciprocity",
+      "example": "The discount was the favour, and the renewal at the same price was the bill.",
+      "fieldId": "work",
+      "id": "dpn_reciprocity",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Reciprocity"
+    },
+    {
+      "definition": "The pull of a person you like, used to move the decision away from the terms.",
+      "dictionaryId": "lex.sa.work.dpn_liking",
+      "example": "The liking did not change the price, but it changed who got the last word.",
+      "fieldId": "work",
+      "id": "dpn_liking",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Liking"
+    },
+    {
+      "definition": "The pressure to act in line with what you have already agreed or done.",
+      "dictionaryId": "lex.sa.work.dpn_commitment_consistency",
+      "example": "He had approved the budget, so the second approval came easier.",
+      "fieldId": "work",
+      "id": "dpn_commitment_consistency",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Commitment and consistency"
+    },
+    {
+      "definition": "The weight a loss carries compared with a gain of the same size.",
+      "dictionaryId": "lex.sa.work.dpn_loss_aversion",
+      "example": "The same 20,000 hurt as a loss and helped as a saving.",
+      "fieldId": "work",
+      "id": "dpn_loss_aversion",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Loss aversion"
+    },
+    {
+      "definition": "The choice of words around a fact, which changes how the fact feels.",
+      "dictionaryId": "lex.sa.work.dpn_framing",
+      "example": "The framing changed nothing: 400 a month is the same money as 4,800 a year.",
+      "fieldId": "work",
+      "id": "dpn_framing",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Framing"
+    },
+    {
+      "conflict": true,
+      "definition": "A small, easy agreement that is used later as the reason for a much larger one.",
+      "dictionaryId": "lex.sa.mind.psy_foot_in_the_door",
+      "example": "The free trial was the foot in the door: the yearly contract came next.",
+      "fieldId": "work",
+      "id": "dpn_foot_in_the_door",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Foot in the door"
+    },
+    {
+      "definition": "A large request made first, so that the smaller request looks reasonable.",
+      "dictionaryId": "lex.sa.work.dpn_door_in_the_face",
+      "example": "The full package at 200,000 was the door in the face, and the single machine was the real order.",
+      "fieldId": "work",
+      "id": "dpn_door_in_the_face",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Door in the face"
+    },
+    {
+      "definition": "The best deal you can make if the deal in front of you does not happen.",
+      "dictionaryId": "lex.sa.work.dpn_batna",
+      "example": "Before the meeting he wrote down his BATNA: the other supplier, the price and the date.",
+      "fieldId": "work",
+      "id": "dpn_batna",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "BATNA"
+    },
+    {
+      "definition": "The price above which the deal is worse than your best alternative.",
+      "dictionaryId": "lex.sa.work.dpn_walk_away_price",
+      "example": "He set his walk-away price the week before, and he did not move it in the room.",
+      "fieldId": "work",
+      "id": "dpn_walk_away_price",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Walk-away price"
+    },
+    {
+      "conflict": true,
+      "definition": "Money, time or effort that has already been spent, and which is used as a reason to continue.",
+      "dictionaryId": "lex.sa.mind.psy_sunk_cost",
+      "example": "The sunk cost of the training was the argument for staying in the job.",
+      "fieldId": "work",
+      "id": "dpn_sunk_cost",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Sunk cost"
+    },
+    {
+      "definition": "The capacity to stay in charge of your own reactions when the other person is difficult.",
+      "dictionaryId": "lex.sa.social.gem_emotional_maturity",
+      "example": "Her emotional maturity showed in the pause before she answered, not in the answer itself.",
+      "fieldId": "social",
+      "id": "gem_emotional_maturity",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Emotional maturity"
+    },
+    {
+      "definition": "The capacity to hold a reaction and choose when to act on it.",
+      "dictionaryId": "lex.sa.social.gem_self_regulation",
+      "example": "He used self-regulation to stay in the room instead of walking out.",
+      "fieldId": "social",
+      "id": "gem_self_regulation",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Self-regulation"
+    },
+    {
+      "definition": "Reading what another person feels, and taking it seriously enough to act on it.",
+      "dictionaryId": "lex.sa.social.gem_empathy",
+      "example": "Her empathy showed in the question she asked instead of the advice she gave.",
+      "fieldId": "social",
+      "id": "gem_empathy",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Empathy"
+    },
+    {
+      "conflict": true,
+      "definition": "The answer you owe for an act, to the people affected and to the law.",
+      "dictionaryId": "lex.sa.mind.dual_accountability",
+      "example": "The mistake was hers, and the accountability was hers as well.",
+      "fieldId": "social",
+      "id": "gem_accountability",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Accountability"
+    },
+    {
+      "definition": "The capacity to stay with a delay, a refusal or a mistake without making the other person pay for it.",
+      "dictionaryId": "lex.sa.social.gem_frustration_tolerance",
+      "example": "Tolerance of frustration is what a good team leader buys with a calm answer on a Friday.",
+      "fieldId": "social",
+      "id": "gem_frustration_tolerance",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Tolerance of frustration"
+    },
+    {
+      "definition": "The leaning towards acting before you have looked at what the act will do.",
+      "dictionaryId": "lex.sa.social.gem_impulsivity",
+      "example": "The message went out in impatience, and the impulsivity cost him the job.",
+      "fieldId": "social",
+      "id": "gem_impulsivity",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Impulsivity"
+    },
+    {
+      "definition": "How strongly and how fast a person reacts to pressure; a tempo, not a character.",
+      "dictionaryId": "lex.sa.social.gem_stress_reactivity",
+      "example": "Her stress reactivity is high in meetings and low in front of a machine.",
+      "fieldId": "social",
+      "id": "gem_stress_reactivity",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Stress reactivity"
+    },
+    {
+      "definition": "The work of managing your own feelings and other people's feelings so that the situation keeps running.",
+      "dictionaryId": "lex.sa.social.gem_emotional_labour",
+      "example": "Emotional labour is the invisible work of keeping a meeting calm.",
+      "fieldId": "social",
+      "id": "gem_emotional_labour",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Emotional labour"
+    },
+    {
+      "definition": "The feeling part of empathy: catching what the other person feels.",
+      "dictionaryId": "lex.sa.social.gem_affective_empathy",
+      "example": "Affective empathy made her notice that the new engineer was frightened in the group.",
+      "fieldId": "social",
+      "id": "gem_affective_empathy",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Affective empathy"
+    },
+    {
+      "definition": "The thinking part of empathy: seeing the situation from the other person's side.",
+      "dictionaryId": "lex.sa.social.gem_cognitive_empathy",
+      "example": "Cognitive empathy is what lets you guess that the deadline was the real problem.",
+      "fieldId": "social",
+      "id": "gem_cognitive_empathy",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Cognitive empathy"
+    },
+    {
+      "definition": "Stating your need, your limit or your disagreement without wrapping it in blame.",
+      "dictionaryId": "lex.sa.social.gem_assertiveness",
+      "example": "Assertiveness is saying the report is late and then saying what you need instead.",
+      "fieldId": "social",
+      "id": "gem_assertiveness",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Assertiveness"
+    },
+    {
+      "definition": "The leaning that keeps the peace by not raising the issue at all.",
+      "dictionaryId": "lex.sa.social.gem_conflict_avoidance",
+      "example": "Conflict avoidance kept the meeting pleasant and the problem on the table.",
+      "fieldId": "social",
+      "id": "gem_conflict_avoidance",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Conflict avoidance"
+    },
+    {
+      "definition": "A belief about a group that is applied to a person without looking at that person.",
+      "dictionaryId": "lex.sa.social.gem_stereotype",
+      "example": "That sentence about men and women is a stereotype, and it settles nothing about the man in front of you.",
+      "fieldId": "social",
+      "id": "gem_stereotype",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Stereotype"
+    },
+    {
+      "definition": "The part of the value ranges of two groups that lies on top of each other.",
+      "dictionaryId": "lex.sa.social.gem_overlap",
+      "example": "The overlap between the two groups is wide, so the average says very little about one person.",
+      "fieldId": "social",
+      "id": "gem_overlap",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Overlap"
+    },
+    {
+      "definition": "The process of choosing a partner, from the first interest to the decision.",
+      "dictionaryId": "lex.sa.social.msa_mate_selection",
+      "example": "Mate selection was slow for her and quick for her brother.",
+      "fieldId": "social",
+      "id": "msa_mate_selection",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "mate selection"
+    }
+  ],
+  "nextCursor": "840",
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

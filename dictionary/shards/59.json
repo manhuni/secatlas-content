@@ -1,0 +1,628 @@
+{
+  "records": {
+    "590dca3b9272d9328ff0a7005180312ac394a6dcf6ad9fce780f0befde750380": [
+      {
+        "forms": [
+          "y-intercept",
+          "y-intercepts"
+        ],
+        "id": "lex.sa.en.y-intercept.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "y-intercept",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.y-intercept.noun",
+          "prn.sa.en.y-intercept.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.y-intercept.noun.1",
+          "sns.sa.en.y-intercept-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.y-intercept-noun",
+        "id": "prn.sa.en.y-intercept.noun",
+        "ipa": "/waɪ ˈɪntəsept/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.y-intercept.noun.us",
+        "ipa": "/ˈwaɪ ˈɪn.tɚ.sept/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Điểm đường thẳng cắt trục y; x = 0. Trong y = mx + b, b là y-intercept.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.y-intercept.noun.1.1",
+          "exm.sa.en.y-intercept-noun.more.01",
+          "exm.sa.en.y-intercept-noun.more.02"
+        ],
+        "gloss": "tung độ gốc",
+        "id": "sns.sa.vi.y-intercept.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.y-intercept.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.y-intercept-noun",
+          "res.sa.aud.y-intercept-noun",
+          "res.sa.lnk.y-intercept-noun",
+          "res.sa.vid.y-intercept-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The y-value where the line crosses x = 0.",
+        "exampleIds": [
+          "exm.sa.en.y-intercept.noun.1.1"
+        ],
+        "gloss": "The y-value where the line crosses x = 0.",
+        "id": "sns.sa.en.y-intercept-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.y-intercept.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.y-intercept.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "In y = 2x + 3, the y-intercept is 3.",
+        "translation": "Trong y = 2x + 3, tung độ gốc là 3.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.y-intercept.noun.1",
+        "id": "lnk.sa.en.glossary.030",
+        "kind": "relation",
+        "toId": "sns.sa.vi.x-intercept.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.y-intercept.noun.1",
+        "id": "lnk.sa.en.glossary.031",
+        "kind": "relation",
+        "toId": "sns.sa.vi.slope.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "5970ffee4132c757004e18c8b4cdbf71ae0c34e6ba482c24386153bb49ee8495": [
+      {
+        "forms": [
+          "Buy-in",
+          "buy_in"
+        ],
+        "id": "lex.sa.work.buy_in",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Buy-in",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.buy_in.alt",
+          "sns.sa.work.buy_in.alt.ja",
+          "sns.sa.work.buy_in.alt.ko",
+          "sns.sa.work.buy_in.alt.pt_br",
+          "sns.sa.work.buy_in.alt.id",
+          "sns.sa.work.buy_in.alt.th",
+          "sns.sa.work.buy_in.alt.tr"
+        ]
+      },
+      {
+        "definition": "Agreement and active support for a plan from the people who must carry it out.",
+        "exampleIds": [
+          "exm.sa.work.buy_in.1.1"
+        ],
+        "gloss": "Agreement and active support for a plan from the people who must carry it out.",
+        "id": "sns.sa.work.buy_in.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.buy_in",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "計画を実際に実行する EDIT要从这ic? 人都 publicly?",
+        "exampleIds": [
+          "exm.sa.work.buy_in.1.1.ja"
+        ],
+        "gloss": "計画を実行する側の了解と積極的な支持。",
+        "id": "sns.sa.work.buy_in.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.buy_in",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "실제로计划的 수행을 맡은 사람들이 계획에 동의하고 actively 지원하는 것을 뜻합니다. 상품을 사들이거나 선금을 지불하는Meaning와는 다릅니다.",
+        "exampleIds": [
+          "exm.sa.work.buy_in.1.1.ko"
+        ],
+        "gloss": "계획을 실행할 사람들이 그 계획에 동의하고积极参与하는 것.",
+        "id": "sns.sa.work.buy_in.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.buy_in",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Concordância e apoio ativo de um plano por parte de quem vai executá-lo. É um anglicismo do meio corporativo; cuidado para não confundir com a compra de ações, que tem outro sentido no mercado financeiro.",
+        "exampleIds": [
+          "exm.sa.work.buy_in.1.1.pt_br"
+        ],
+        "gloss": "Concordância e apoio ativo de um plano por parte de quem vai executá-lo.",
+        "id": "sns.sa.work.buy_in.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.buy_in",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Persetujuan sekaligus dukungan aktif dari orang-orang yang bertanggung jawab menjalankan rencana. Dukungan ini tidak harus berupa persetujuan formal.",
+        "exampleIds": [
+          "exm.sa.work.buy_in.1.1.id"
+        ],
+        "gloss": "Persetujuan dan dukungan aktif dari pihak yang harus menjalankan sebuah rencana.",
+        "id": "sns.sa.work.buy_in.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.buy_in",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความยินยอมและการสนับสนุนอย่างจริงจังต่อแผนงานจากผู้ที่ต้องนำไปปฏิบัติ ไม่ได้หมายถึงการซื้อสิทธิ์หรือส่วนหุ้น",
+        "exampleIds": [
+          "exm.sa.work.buy_in.1.1.th"
+        ],
+        "gloss": "ความเห็นชอบและการสนับสนุนอย่างจริงจังต่อแผนงานจากผู้ที่ต้องนำไปปฏิบัติ",
+        "id": "sns.sa.work.buy_in.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.buy_in",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir planı uygulamakla görevli kişilerin o planı kabul etmesi ve etkin biçimde desteklemesi. Burada parasal bir satın alma söz konusu değildir.",
+        "exampleIds": [
+          "exm.sa.work.buy_in.1.1.tr"
+        ],
+        "gloss": "Bir planı uygulayacak kişilerin planı onaylaması ve desteklemesi.",
+        "id": "sns.sa.work.buy_in.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.buy_in",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.buy_in.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I spent two weeks getting buy-in from the regional teams.",
+        "translation": "Bölgesel ekiplerden planın onayını ve desteğini almak için iki hafta geçirdim.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.buy_in.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I spent two weeks getting buy-in from the regional teams.",
+        "translation": "ฉันใช้เวลาสองสัปดาห์เพื่อสร้างความเห็นชอบและการสนับสนุนให้กับทีมในภูมิภาค",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.buy_in.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I spent two weeks getting buy-in from the regional teams.",
+        "translation": "Saya menghabiskan dua minggu untuk memperoleh dukungan dari tim regional.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.buy_in.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I spent two weeks getting buy-in from the regional teams.",
+        "translation": "Consegui o buy-in das equipes regionais em duas semanas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.buy_in.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I spent two weeks getting buy-in from the regional teams.",
+        "translation": "지역 팀으로부터 계획에 대한 동의와 지원을 얻는 데 두 주가 걸렸습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.buy_in.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I spent two weeks getting buy-in from the regional teams.",
+        "translation": "地域チームから二週間かけて支援Brick得。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.buy_in.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I spent two weeks getting buy-in from the regional teams.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "59961628022bc818c6c4b4aea837d667339bf82efc7f0580e95c740698f26116": [
+      {
+        "forms": [
+          "intercept",
+          "intercepts",
+          "intercepted",
+          "intercepting"
+        ],
+        "id": "lex.sa.en.intercept.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "intercept",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.intercept.verb",
+          "prn.sa.en.intercept.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.intercept.verb.1",
+          "sns.sa.en.intercept-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.intercept-verb",
+        "id": "prn.sa.en.intercept.verb",
+        "ipa": "/ˌɪntəˈsept/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.intercept.verb.us",
+        "ipa": "/ˈɪn.tɚ.sept/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Cắt ngang đường đi của vật hoặc tín hiệu.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.intercept.verb.1.1",
+          "exm.sa.en.intercept-verb.more.01",
+          "exm.sa.en.intercept-verb.more.02"
+        ],
+        "gloss": "chặn; cắt",
+        "id": "sns.sa.vi.intercept.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.intercept.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.intercept-verb",
+          "res.sa.aud.intercept-verb",
+          "res.sa.lnk.intercept-verb",
+          "res.sa.vid.intercept-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "To stop or catch a person or a vehicle on the way.",
+        "exampleIds": [
+          "exm.sa.en.intercept.verb.1.1"
+        ],
+        "gloss": "To stop or catch a person or a vehicle on the way.",
+        "id": "sns.sa.en.intercept-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.intercept.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.intercept.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The line intercepts the axis at (0, 2).",
+        "translation": "Đường thẳng cắt trục tại (0, 2).",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.intercept.verb.1",
+        "id": "lnk.sa.en.glossary.027",
+        "kind": "relation",
+        "toId": "sns.sa.vi.point.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "599f7703547e9c8e980f44d7d192d978b9e70386af1812b2042beeaf4ba03dfb": [
+      {
+        "forms": [
+          "term",
+          "terms"
+        ],
+        "id": "lex.sa.en.term.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "term",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.term.noun.1",
+          "sns.sa.en.term-noun.alt"
+        ]
+      },
+      {
+        "definition": "Từ dùng trong một lĩnh vực; điều kiện của một thỏa thuận.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "thuật ngữ; điều khoản",
+        "id": "sns.sa.vi.term.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.term.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A word used in a particular branch of knowledge.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "A word used in a field; one condition of an agreement.",
+        "id": "sns.sa.en.term-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.term.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "59ee9d6e5d71185ab4cf7bff7b6ab1a9646f8e0075cbae1ff539425fe60cecd8": [
+      {
+        "forms": [
+          "Quality control"
+        ],
+        "id": "lex.sa.mind.quality_control",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Quality control",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.quality_control.en",
+          "sns.sa.mind.quality_control.vi"
+        ]
+      },
+      {
+        "definition": "The process of checking that output meets its requirements before it is used or shipped.",
+        "exampleIds": [],
+        "gloss": "The process of checking that output meets its requirements before it is used or shipped.",
+        "id": "sns.sa.mind.quality_control.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.quality_control",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Quy trình kiểm tra đầu ra đáp ứng yêu cầu trước khi dùng hoặc phát hành.",
+        "id": "sns.sa.mind.quality_control.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.quality_control",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "59f25153d371782490766f3b2c04a6f989a136bebb72824f59d5b4799fe609ac": [
+      {
+        "forms": [
+          "Direct debit",
+          "direct_debit"
+        ],
+        "id": "lex.sa.money.direct_debit",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Direct debit",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.direct_debit.alt",
+          "sns.sa.money.direct_debit.alt.ja",
+          "sns.sa.money.direct_debit.alt.ko",
+          "sns.sa.money.direct_debit.alt.pt_br",
+          "sns.sa.money.direct_debit.alt.id",
+          "sns.sa.money.direct_debit.alt.th",
+          "sns.sa.money.direct_debit.alt.tr"
+        ]
+      },
+      {
+        "definition": "A payment a company is authorised to take from your account on a date, without asking you again each time.",
+        "exampleIds": [
+          "exm.sa.money.direct_debit.1.1"
+        ],
+        "gloss": "A payment a company is authorised to take from your account on a date, without asking you again each time.",
+        "id": "sns.sa.money.direct_debit.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.direct_debit",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "口座名義人の同意を得て、企業などが毎月などの指定日にpayroll no.",
+        "exampleIds": [
+          "exm.sa.money.direct_debit.1.1.ja"
+        ],
+        "gloss": "企業が許可を得て、毎回確認せずに指定日に口座から引き落とす支払い。",
+        "id": "sns.sa.money.direct_debit.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.direct_debit",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "이용자가 사전에 승인한 자동이체 방식으로, 회사나 기관이 정해진 날짜에 결제 금액을 계좌에서 직접 차감합니다.",
+        "exampleIds": [
+          "exm.sa.money.direct_debit.1.1.ko"
+        ],
+        "gloss": "매번 결제 승인을 구하지 않아도 회사가 정해진 날짜에 예금 계좌에서 돈을 빼는 방식입니다.",
+        "id": "sns.sa.money.direct_debit.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.direct_debit",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pagamento que uma empresa está autorizada a retirar da conta do cliente em uma dataCombine, sem pedir uma nova autorização a cada cobrança.",
+        "exampleIds": [
+          "exm.sa.money.direct_debit.1.1.pt_br"
+        ],
+        "gloss": "Pagamento retirado automaticamente de uma conta bancária.",
+        "id": "sns.sa.money.direct_debit.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.direct_debit",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pembayaran yang telah mendapat izin untuk diambil perusahaan dari rekening pada tanggal tertentu tanpa meminta persetujuan setiap kali. Perritten",
+        "exampleIds": [
+          "exm.sa.money.direct_debit.1.1.id"
+        ],
+        "gloss": "Pembayaran yang ditarik langsung dari rekening pada tanggal yang ditentukan.",
+        "id": "sns.sa.money.direct_debit.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.direct_debit",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การที่บริษัทหักเงินจากบัญชีของลูกค้าโดยตรงตามที่ได้รับอนุญาตไว้แล้ว โดยไม่ต้องขออนุญาตใหม่ในแต่ละครั้ง",
+        "exampleIds": [
+          "exm.sa.money.direct_debit.1.1.th"
+        ],
+        "gloss": "การหักเงินจากบัญชีตามวันและจำนวนที่ได้รับอนุญาต",
+        "id": "sns.sa.money.direct_debit.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.direct_debit",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Faturanın ödenmesi için verdiğiniz ve her ödemede ayrıca onay gerekmediğiniz otomatik banka çekimi. Talimatı iptal etmek isterseniz bankanızla iletişime geçmeniz gerekir.",
+        "exampleIds": [
+          "exm.sa.money.direct_debit.1.1.tr"
+        ],
+        "gloss": "Bir şirketin, her seferinde size sormadan belirlediği tarihte hesabınızdan çekebildiği ödeme.",
+        "id": "sns.sa.money.direct_debit.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.direct_debit",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.direct_debit.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+        "translation": "Elektrik faturası otomatik ödeme şeklinde, bu yüzden her ayın 10'unda hesabımdan çıkıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.direct_debit.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+        "translation": "ค่าไฟฟ้าถูกหักจากบัญชีโดยตรงทุกวันที่ 10 ของเดือน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.direct_debit.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+        "translation": "Tagihan listrik dibayar melalui debit langsung sehingga dipotong dari rekening saya setiap tanggal 10.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.direct_debit.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+        "translation": "A conta de luz é paga por débito direto, então o valor sai da minha conta no dia 10 de cada mês.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.direct_debit.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+        "translation": "전기요금은 자동이체라서 매달 10일에 계좌에서 빠집니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.direct_debit.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+        "translation": "電気料金口座引き落としなので、毎月10日に口座から引き落とされます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.direct_debit.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,979 @@
+{
+  "records": {
+    "7861590b7dd049d85fa45e8f87aeca15caa6eac1f868fd476f81283e7ecee742": [
+      {
+        "forms": [
+          "Notification fatigue",
+          "notification_fatigue"
+        ],
+        "id": "lex.sa.technology.notification_fatigue",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Notification fatigue",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.notification_fatigue.alt",
+          "sns.sa.technology.notification_fatigue.alt.ja",
+          "sns.sa.technology.notification_fatigue.alt.ko",
+          "sns.sa.technology.notification_fatigue.alt.pt_br",
+          "sns.sa.technology.notification_fatigue.alt.id",
+          "sns.sa.technology.notification_fatigue.alt.th",
+          "sns.sa.technology.notification_fatigue.alt.tr"
+        ]
+      },
+      {
+        "definition": "The habit of ignoring alerts on purpose, so that the one alert that mattered gets ignored too.",
+        "exampleIds": [
+          "exm.sa.technology.notification_fatigue.1.1"
+        ],
+        "gloss": "The habit of ignoring alerts on purpose, so that the one alert that mattered gets ignored too.",
+        "id": "sns.sa.technology.notification_fatigue.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.notification_fatigue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "看点过多な通知を**********************************************無視 meskipunそれによってStatisticalYyefeh重要な通知を見落とす状態。通知をすべて解除することで米粉それ包括的な解决办法でもなる。",
+        "exampleIds": [
+          "exm.sa.technology.notification_fatigue.1.1.ja"
+        ],
+        "gloss": "通知が多すぎるため、重要な通知まで無視する習慣。",
+        "id": "sns.sa.technology.notification_fatigue.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.notification_fatigue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "지속되는 알림 때문에 사용자가 일부러 알림을 무시하는 습관이 생기는 현상이다. 중요했던 알림까지 함께 놓칠 수 있다.",
+        "exampleIds": [
+          "exm.sa.technology.notification_fatigue.1.1.ko"
+        ],
+        "gloss": "알림을 너무 많이 받아 무시하게 되는 상태이다.",
+        "id": "sns.sa.technology.notification_fatigue.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.notification_fatigue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Comportamento de desligar ou ignorar notificações por excesso de alertas, o que pode fazer com que o usuário perca um aviso importante. unplanned, o usuário pode desativar apenas as notificações menos relevantes.",
+        "exampleIds": [
+          "exm.sa.technology.notification_fatigue.1.1.pt_br"
+        ],
+        "gloss": "Hábito de ignorar alertas, fazendo com que mensagens importantes também sejam descartadas.",
+        "id": "sns.sa.technology.notification_fatigue.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.notification_fatigue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hal yang terjadi ketika terlalu banyak peringatan membuat seseorang过滤 atau mengabaikannya dengan sengaja. Akibatnya, peringatan yang benar-benar penting juga menjadi tidak terlihat.",
+        "exampleIds": [
+          "exm.sa.technology.notification_fatigue.1.1.id"
+        ],
+        "gloss": "Kondisi ketika seseorang mengabaikan peringatan sehingga peringatan penting ikut terlewat.",
+        "id": "sns.sa.technology.notification_fatigue.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.notification_fatigue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เกิดจากการได้รับแจ้งเตือนบ่อยเกินไปจนเริ่มข้ามไปโดยไม่อ่าน การปิดการแจ้งเตือนทั้งหมดอาจทำให้พลาดข้อความสำคัญไปด้วย",
+        "exampleIds": [
+          "exm.sa.technology.notification_fatigue.1.1.th"
+        ],
+        "gloss": "ความเคยชินจนเริ่มเพิกเฉยต่อการแจ้งเตือน จนพลาดเตือนสำคัญไปด้วย",
+        "id": "sns.sa.technology.notification_fatigue.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.notification_fatigue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sürekli gelen bildirimlerden bunalmış olma nedeniyle uyarıları bilinçli olarak yok sayma alışkanlığı. Sonuçta gerçekten önemli olan bildirimler de gözden kaçabilir.",
+        "exampleIds": [
+          "exm.sa.technology.notification_fatigue.1.1.tr"
+        ],
+        "gloss": "Çok sayıda uyarıya tepki vermemeye alışıp önemli uyarıları da görmezden gelme hâli.",
+        "id": "sns.sa.technology.notification_fatigue.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.notification_fatigue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.notification_fatigue.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
+        "translation": "Bütün bildirimleri kapattım; artık aile mesajları dâhil hiçbir şey bana ulaşmıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.notification_fatigue.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
+        "translation": "ฉันปิดการแจ้งเตือนทั้งหมด แล้วตอนนี้แม้ข้อความจากครอบครัวก็ไม่ผ่าน ซึ่งเป็นอาการเหนื่อยล้าจากการแจ้งเตือน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.notification_fatigue.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
+        "translation": "Saya mematikan semua notifikasi, dan sekarang pesan penting dari keluarga saya juga terlewat.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.notification_fatigue.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
+        "translation": "Desliguei todas as notificações e agora nem as mensagens importantes da minha família chegam.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.notification_fatigue.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
+        "translation": "나는 모든 알림을 껐는데, 이제 가족이 보내는 메시지까지도 확인하지 못한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.notification_fatigue.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
+        "translation": "通知疲れで全ての通知を解除してしまい、家族からのメッセージも読めなくなりました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.notification_fatigue.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
+        "translation": "",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Notification fatigue"
+        ],
+        "id": "lex.sa.mind.notification_fatigue",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Notification fatigue",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.notification_fatigue.en",
+          "sns.sa.mind.notification_fatigue.vi"
+        ]
+      },
+      {
+        "definition": "The state of reduced attention and increased stress caused by continuous small interruptions.",
+        "exampleIds": [],
+        "gloss": "The state of reduced attention and increased stress caused by continuous small interruptions.",
+        "id": "sns.sa.mind.notification_fatigue.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.notification_fatigue",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Trạng thái chú ý giảm và căng thẳng tăng do những gián đoạn nhỏ liên tục.",
+        "id": "sns.sa.mind.notification_fatigue.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.notification_fatigue",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "7881eddfe386c9831f86d5865409a071362181f34e97e0d9c0a6c574dd25de3e": [
+      {
+        "forms": [
+          "Dairy",
+          "dairy"
+        ],
+        "id": "lex.sa.kids_food.dairy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Dairy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_food.dairy.alt",
+          "sns.sa.kids_food.dairy.alt.ja",
+          "sns.sa.kids_food.dairy.alt.ko",
+          "sns.sa.kids_food.dairy.alt.pt_br",
+          "sns.sa.kids_food.dairy.alt.id",
+          "sns.sa.kids_food.dairy.alt.th",
+          "sns.sa.kids_food.dairy.alt.tr"
+        ]
+      },
+      {
+        "definition": "A place where milk is cleaned, heated and packed into bottles and cartons.",
+        "exampleIds": [
+          "exm.sa.kids_food.dairy.1.1"
+        ],
+        "gloss": "A place where milk is cleaned, heated and packed into bottles and cartons.",
+        "id": "sns.sa.kids_food.dairy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_food.dairy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "牛乳を清浄して加熱し、瓶やパックに詰める工場や施設。この語は牛乳そのものでなく、牛乳を製造する場所を表す。",
+        "exampleIds": [
+          "exm.sa.kids_food.dairy.1.1.ja"
+        ],
+        "gloss": "牛乳を清浄・加熱し、瓶やパックに詰める所。",
+        "id": "sns.sa.kids_food.dairy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_food.dairy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "우유를 깨끗하게 처리하고 가열한 뒤 병이나 종이 상자에 포장하는 곳입니다.",
+        "exampleIds": [
+          "exm.sa.kids_food.dairy.1.1.ko"
+        ],
+        "gloss": "우유를 정제하고 병이나 상자에 담아 두는 곳.",
+        "id": "sns.sa.kids_food.dairy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_food.dairy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Um laticínio é um lugar onde o leite é limpo, tratado e colocado em garrafas ou caixas.",
+        "exampleIds": [
+          "exm.sa.kids_food.dairy.1.1.pt_br"
+        ],
+        "gloss": "Estabelecimento onde o leite é processado e embalado.",
+        "id": "sns.sa.kids_food.dairy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_food.dairy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tempat atau pabrik yang mengolah susu dengan membersihkannya, memanaskannya, lalu mengemasnya menjadi botol atau kemasan. Kata ini juga dapat dipakai untuk businesses yang Glad.",
+        "exampleIds": [
+          "exm.sa.kids_food.dairy.1.1.id"
+        ],
+        "gloss": "Pabrik tempat susu dibersihkan, dipanaskan, dan dikemas.",
+        "id": "sns.sa.kids_food.dairy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_food.dairy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "โรงงานหรือสถานที่ที่นมถูกทำความสะอาด เข้าความร้อน และบรรจุลงขวดหรือกล่อง",
+        "exampleIds": [
+          "exm.sa.kids_food.dairy.1.1.th"
+        ],
+        "gloss": "สถานที่ที่นมถูกทำความสะอาดและบรรจุ",
+        "id": "sns.sa.kids_food.dairy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_food.dairy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sütün temizlendiği, ısıtıldığı ve şişe ya da kutulara paketlendiği yerdir. Süt ve sütten yapılan ürünler burada hazırlanabilir.",
+        "exampleIds": [
+          "exm.sa.kids_food.dairy.1.1.tr"
+        ],
+        "gloss": "Sütün temizlenip paketlendiği işletmedir.",
+        "id": "sns.sa.kids_food.dairy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_food.dairy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_food.dairy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Our milk comes from the dairy near the town.",
+        "translation": "Sütümüz kasabaya yakın süt fabrikasından geliyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_food.dairy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Our milk comes from the dairy near the town.",
+        "translation": "นมของเรามาจากโรงงานนมใกล้เมือง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_food.dairy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Our milk comes from the dairy near the town.",
+        "translation": "Susu kami berasal dari pabrik susu di dekat kota.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_food.dairy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Our milk comes from the dairy near the town.",
+        "translation": "Nosso leite vem do laticínio perto da cidade.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_food.dairy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Our milk comes from the dairy near the town.",
+        "translation": "우리 집에서 먹는 우유는 마을 근처의 유가공장에서 포장한 제품입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_food.dairy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Our milk comes from the dairy near the town.",
+        "translation": "牛乳は町の製酪所から届いている。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_food.dairy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Our milk comes from the dairy near the town.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7884f4b7cd3fffaf6924ed60742dfa9593fbc06818a3582aa7ed51a13c2b9e3c": [
+      {
+        "forms": [
+          "I'm",
+          "I am"
+        ],
+        "id": "lex.sa.en.im.contraction",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "i'm",
+        "pos": "contraction",
+        "pronunciationIds": [
+          "prn.sa.en.im.contraction",
+          "prn.sa.en.im.contraction.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.im.contraction.1",
+          "sns.sa.en.i-m-contraction.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.i-m-contraction",
+        "id": "prn.sa.en.im.contraction",
+        "ipa": "/aɪm/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.im.contraction.us",
+        "ipa": "/aɪm/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Dạng rút gọn của I am.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.im.contraction.1.1",
+          "exm.sa.en.i-m-contraction.more.01",
+          "exm.sa.en.i-m-contraction.more.02"
+        ],
+        "gloss": "tôi là / tôi đang",
+        "id": "sns.sa.vi.im.contraction.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.im.contraction",
+        "pos": "contraction",
+        "resourceIds": [
+          "res.sa.img.i-m-contraction",
+          "res.sa.aud.i-m-contraction",
+          "res.sa.lnk.i-m-contraction",
+          "res.sa.vid.i-m-contraction"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Contraction of I am.",
+        "exampleIds": [
+          "exm.sa.en.im.contraction.1.1"
+        ],
+        "gloss": "Contraction of I am.",
+        "id": "sns.sa.en.i-m-contraction.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.im.contraction",
+        "pos": "contraction",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.im.contraction.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "I'm solving for x.",
+        "translation": "Tôi đang giải theo x.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.i-m-contraction",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "i'm clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.vi.im.contraction.1",
+        "id": "lnk.sa.en.glossary.033",
+        "kind": "relation",
+        "toId": "sns.sa.vi.i.pronoun.1",
+        "type": "related_to"
+      }
+    ],
+    "78c73f4ad535fc2356cf220584e870928ae0e84c6b93f4f310fcf684a13089ed": [
+      {
+        "forms": [
+          "Smishing",
+          "smishing"
+        ],
+        "id": "lex.sa.technology.smishing",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Smishing",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.smishing.alt",
+          "sns.sa.technology.smishing.alt.ja",
+          "sns.sa.technology.smishing.alt.ko",
+          "sns.sa.technology.smishing.alt.pt_br",
+          "sns.sa.technology.smishing.alt.id",
+          "sns.sa.technology.smishing.alt.th",
+          "sns.sa.technology.smishing.alt.tr"
+        ]
+      },
+      {
+        "definition": "Phishing carried out by text message. Short, urgent, and arriving on the phone you are holding.",
+        "exampleIds": [
+          "exm.sa.technology.smishing.1.1"
+        ],
+        "gloss": "Phishing carried out by text message. Short, urgent, and arriving on the phone you are holding.",
+        "id": "sns.sa.technology.smishing.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.smishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "携帯電話に届く短い文面でRoss urgent感和リンクを強調し、Ross personal情報を盗む手口を指す。配送や Hagenなどの通知を装うことが多い。",
+        "exampleIds": [
+          "exm.sa.technology.smishing.1.1.ja"
+        ],
+        "gloss": "SMSによるフィッシング詐欺。",
+        "id": "sns.sa.technology.smishing.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.smishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "발신자를 사칭한 짧고 급한 문자 메시지로 개인정보나 돈을 빼내려는 사기다. 배송이나 세금 문제처럼奖品를 걸어_links를 제시하는 경우가 많다.",
+        "exampleIds": [
+          "exm.sa.technology.smishing.1.1.ko"
+        ],
+        "gloss": "문자 메시지로 이루어지는 피싱 사기.",
+        "id": "sns.sa.technology.smishing.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.smishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Consiste em mensagens curtas e urgentes enviadas por SMS para enganar a pessoa e fazê-la acessar um site falso ou fornecer dados.",
+        "exampleIds": [
+          "exm.sa.technology.smishing.1.1.pt_br"
+        ],
+        "gloss": "Golpe de phishing praticado por meio de mensagens de texto.",
+        "id": "sns.sa.technology.smishing.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.smishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Smishing adalah upaya mencuri data melalui pesan teks yang biasanya singkat dan mendesak, misalnya Karmakan nama kurir atau bank. Tautan dalam pesan tersebut perlu diperiksa sebelum dibuka.",
+        "exampleIds": [
+          "exm.sa.technology.smishing.1.1.id"
+        ],
+        "gloss": "Penipuan yang dilakukan melalui pesan teks dengan mengaku sebagai pihak yang tepercaya.",
+        "id": "sns.sa.technology.smishing.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.smishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การหลอกลวงทางโทรศัพท์ที่ใช้ข้อความสั้นและเร่งด่วนเพื่อหลอกให้ผู้รับเปิดเว็บไซต์ปลอมหรือให้ข้อมูล ต้องตรวจสอบผู้ส่งและที่อยู่ของลิงก์ทุกครั้ง",
+        "exampleIds": [
+          "exm.sa.technology.smishing.1.1.th"
+        ],
+        "gloss": "การหลอกลวงโดยส่งข้อความให้ผู้รับกดลิงก์ปลอม",
+        "id": "sns.sa.technology.smishing.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.smishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sahte bağlantı veya acil talep içeren kısa metin mesajları yoluyla kişisel bilgileri ele geçirmeye çalışan bir dolandırıcılık yöntemidir.",
+        "exampleIds": [
+          "exm.sa.technology.smishing.1.1.tr"
+        ],
+        "gloss": "Kimlik avının kısa bir metin mesajıyla yapılmasıdır.",
+        "id": "sns.sa.technology.smishing.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.smishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.smishing.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The message about a parcel was smishing, and the link was not the courier's website.",
+        "translation": "Kargo hakkında gelen mesaj bir kimlik avıydı ve bağlantı kurye firmasının sitesi değildi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.smishing.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The message about a parcel was smishing, and the link was not the courier's website.",
+        "translation": "ข้อความเรื่องพัสดุเป็นการหลอกลวงผ่านข้อความ และลิงก์ที่แนบมาก็ไม่ใช่เว็บไซต์ของบริษัทขนส่ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.smishing.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The message about a parcel was smishing, and the link was not the courier's website.",
+        "translation": "Pesan tentang paket itu merupakan smishing, dan tautannya bukan situs resmi kurir.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.smishing.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The message about a parcel was smishing, and the link was not the courier's website.",
+        "translation": "A mensagem sobre uma encomenda era smishing, e o link não pertencia ao site da transportadora.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.smishing.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The message about a parcel was smishing, and the link was not the courier's website.",
+        "translation": "택배에 관한 문자는 문자 피싱이었고 그 링크는 배송업체의 웹사이트가 아니었습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.smishing.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The message about a parcel was smishing, and the link was not the courier's website.",
+        "translation": "宅配便の不在通知のような文面のSMSフィッシングだったため、リンクを開 Blacks择しませんでした。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.smishing.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The message about a parcel was smishing, and the link was not the courier's website.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "78c7407e4db351ea35d2d2e018e22f994bfca14f6ac6d1549709e2cb6c2cccdf": [
+      {
+        "forms": [
+          "Motive",
+          "dual_motive"
+        ],
+        "id": "lex.sa.mind.dual_motive",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Motive",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.dual_motive.alt",
+          "sns.sa.mind.dual_motive.alt.ja",
+          "sns.sa.mind.dual_motive.alt.ko",
+          "sns.sa.mind.dual_motive.alt.pt_br",
+          "sns.sa.mind.dual_motive.alt.id",
+          "sns.sa.mind.dual_motive.alt.th",
+          "sns.sa.mind.dual_motive.alt.tr"
+        ]
+      },
+      {
+        "definition": "The aim that is behind an act: what the act is for.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1"
+        ],
+        "gloss": "The aim that is behind an act: what the act is for.",
+        "id": "sns.sa.mind.dual_motive.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある行為の背後に的那个目的・Reasonのこと。「衝動」とは異なり、考慮された Behavior の起点として扱われる。",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.ja"
+        ],
+        "gloss": "行為の背後にある目的。その行為は何のために行われるか。",
+        "id": "sns.sa.mind.dual_motive.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 행동을 하게 된 이유나 그 행동을 지탱하는 목적이다. 바깥으로 드러난 행위와 뒤에 있는 동기를 구별해 설명한다.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.ko"
+        ],
+        "gloss": "행동 뒤에 있는 목적, 즉 그 행동을 하는 이유.",
+        "id": "sns.sa.mind.dual_motive.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O objetivo ou a razão que leva alguém a realizar uma ação. Também pode se referir ao motivo emocional ou psicológico que explica um comportamento.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.pt_br"
+        ],
+        "gloss": "A finalidade que está por trás de uma ação.",
+        "id": "sns.sa.mind.dual_motive.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Alasan atau tujuan yang melandasi suatu tindakan, yaitu apa yang ingin dicapai melalui tindakan itu. Istilah ini menekankan tujuan di balik tindakan, bukan akibat atau caraIClona.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.id"
+        ],
+        "gloss": "Tujuan yang mendasari suatu tindakan.",
+        "id": "sns.sa.mind.dual_motive.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เหตุผลหรือเป้าหมายที่ทำให้บุคคลกระทำสิ่งหนึ่ง โดยอาจต่างจากวิธีที่ใช้หรือผลที่ได้รับ",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.th"
+        ],
+        "gloss": "เป้าหมายที่อยู่เบื้องหลังการกระทำ",
+        "id": "sns.sa.mind.dual_motive.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin eylemini yönlendiren ve eylemin neden yapıldığını belirleyen amaç; gerekçeden farklı olarak eylemin arkasındaki itici güç anlamına gelir.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.tr"
+        ],
+        "gloss": "Bir eylemin arkasındaki amaç.",
+        "id": "sns.sa.mind.dual_motive.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Amacı makineyi çalışır durumda tutmaktı ve bu amaç kalan kararları belirledi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เป้าหมายคือการรักษาเครื่องจักรให้ทำงานต่อ และเป้าหมายนั้นกำหนดสิ่งอื่นทั้งหมด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tujuannya adalah menjaga mesin tetap berjalan, dan tujuan itu menentukan langkah selanjutnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O motivo era manter a máquina funcionando, e isso determinava todo o resto.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 동기는 기계가 계속 돌아가도록 유지하는 것이었고, 나머지는 그 동기에서 결정되었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "動機は機械を動かし続けることだったし、その動機が他のすべてを決めた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The motive was to keep the machine running, and the motive decided the rest.",
+        "translation": "Động cơ là giữ cho máy vận hành, và chính động cơ ấy quyết định tất cả những điều còn lại.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "78da4a596a88bc5114f071ba590793bf3b37329d761230f33129983a747f414e": [
+      {
+        "forms": [
+          "Anti-lock braking system (ABS)",
+          "abs"
+        ],
+        "id": "lex.sa.en.abs",
+        "kind": "lexeme",
+        "lemma": "Anti-lock braking system (ABS)",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.abs.alt"
+        ]
+      },
+      {
+        "definition": "The ABS has a fault. Normal braking still works, but the wheels can lock under heavy braking. Severity level 3 — Warning. Action: Have the ABS checked. Until then, brake earlier and more gently..",
+        "gloss": "The ABS has a fault. Normal braking still works, but the wheels can lock under heavy braking.",
+        "id": "sns.sa.en.abs.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.abs",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "78f267c0e62e1f6461fd9bfd2821d2a060932518397912abcb1750567695660e": [
+      {
+        "forms": [
+          "I'm",
+          "I am"
+        ],
+        "id": "lex.sa.en.im.contraction",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "i'm",
+        "pos": "contraction",
+        "pronunciationIds": [
+          "prn.sa.en.im.contraction",
+          "prn.sa.en.im.contraction.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.im.contraction.1",
+          "sns.sa.en.i-m-contraction.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.i-m-contraction",
+        "id": "prn.sa.en.im.contraction",
+        "ipa": "/aɪm/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.im.contraction.us",
+        "ipa": "/aɪm/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Dạng rút gọn của I am.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.im.contraction.1.1",
+          "exm.sa.en.i-m-contraction.more.01",
+          "exm.sa.en.i-m-contraction.more.02"
+        ],
+        "gloss": "tôi là / tôi đang",
+        "id": "sns.sa.vi.im.contraction.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.im.contraction",
+        "pos": "contraction",
+        "resourceIds": [
+          "res.sa.img.i-m-contraction",
+          "res.sa.aud.i-m-contraction",
+          "res.sa.lnk.i-m-contraction",
+          "res.sa.vid.i-m-contraction"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Contraction of I am.",
+        "exampleIds": [
+          "exm.sa.en.im.contraction.1.1"
+        ],
+        "gloss": "Contraction of I am.",
+        "id": "sns.sa.en.i-m-contraction.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.im.contraction",
+        "pos": "contraction",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.im.contraction.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "I'm solving for x.",
+        "translation": "Tôi đang giải theo x.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.i-m-contraction",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "i'm clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.vi.im.contraction.1",
+        "id": "lnk.sa.en.glossary.033",
+        "kind": "relation",
+        "toId": "sns.sa.vi.i.pronoun.1",
+        "type": "related_to"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

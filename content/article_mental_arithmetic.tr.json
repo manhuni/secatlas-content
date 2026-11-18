@@ -1,0 +1,193 @@
+{
+  "language": "tr",
+  "lessonId": "article_mental_arithmetic",
+  "objectives": [
+    "Önünüzdeki sayıya uygun bir kısayol seçin.",
+    "Bir çarpımı yuvarlayıp düzeltin ve yuvarlama miktarı kadar düzeltin.",
+    "Bir yüzdeyi onun kesri olarak okuyun ve parçalara ayırın.",
+    "Sayıyı vermeden önce yanıtın büyüklüğünü tahmin edin.",
+    "İşlemi tersine uygulayarak ve rakam toplamını sınayarak yanıtı doğrulayın.",
+    "Bu alanın terimlerini adlandırın: tahmin, yuvarlama, telafi, kalan, rakam toplamı, bölüm.",
+    "Bir sayıyı çözmek için zamana ihtiyacınız olduğunu söyleyin; tahmin yürütmek yerine."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Zihinsel aritmetik, hesaplamayı kafanızda, hesap makinesi ve kâğıt olmadan yapmaktır. Bu, bir gösteri numarası değil, uygulanabilir bir yöntemdir. Yöntem, hızdan daha önemlidir; çünkü hızlıca bulunan yanlış bir sayı, yavaşça bulunan doğru bir sayıdan daha fazla zaman kaybettirir: yanlış sayı kullanılır.\n\nBurada iki farklı beceri vardır. **Hız**, ne kadar süre aldığınızdır. **Doğruluk**, söylediğiniz sayının doğru olup olmadığıdır. Bunlar aynı beceri değildir ve bir kişi diğeri olmadan birine sahip olabilir. Bazı insanlar küçük sayıları çok hızlı çarpar ve ortada bir basamağı kaybeder. Başkaları dikkatle, daha yavaş çalışır ve her seferinde doğru sonuca ulaşır.\n\nİkinci hata, tahmini bir yanıt gibi ele almaktır. Kendinden emin gibi söylenen bir tahmin, samimi bir duraklamadan daha kötüdür; çünkü dinleyici, sayının hiç kontrol edilmediğini anlayamaz. Kontrol edilmiş bir yanıt her zaman savunulabilir: yanıtın yaklaşık büyüklüğünü, kullandığınız kısayolu veya ters kontrolü gösterebilirsiniz.\n\nBu yüzden dürüst ifade basittir: **hesaplamam için bir dakika verin**. Kimse ilk hecede bir sayı beklemiyor. Bekledikleri şey doğru bir sayıdır. Bu makaledeki her kısayolun yanında onu kontrol etme yöntemi vardır; kontrolsüz bir kısayol, yalnızca daha hızlı yanılmanın yoludur.",
+      "examples": [
+        "Zihinsel aritmetik bir yöntemdir, hız testi değildir.",
+        "Bana hesaplamam için bir dakika verin; size kontrol edebileceğim sayıyı vereceğim.",
+        "Yanlış bir sayı, yavaşça bulunan doğru bir sayıdan daha fazla zaman kaybettirir."
+      ],
+      "heading": "Hız, doğrulukla aynı şey değildir",
+      "terms": [
+        {
+          "example": "Zihinsel aritmetik bana yaklaşık sonucu verdi; kontrol bana doğru sonucu gösterdi.",
+          "gloss": "Hesaplamayı kafanızda, hesap makinesi ve kâğıt olmadan yapma."
+        }
+      ]
+    },
+    {
+      "body": "Çarpım için en yararlı kısayol **yuvarlayıp düzeltmedir**. Bir çarpanı uygun bir değere yuvarlar, kolay sürümü çarpar ve ardından sonucu yuvarladığınız miktar kadar düzeltirsiniz. Düzeltme küçüktür ve kolay bölüm gerçekten kolaydır. Uygun değerler, üzerinde düşünmeden çarpabileceğiniz değerlerdir: 10, 20, 25, 50, 100 ve bunların yarıları. Sonu 1 veya 9 ile biten bir çarpan genellikle bunlardan birinin yakınındadır; bu nedenle 19, 20 gibi ve 98, 100 gibi ele alınır.\n\nŞimdi 19 × 24 çarpımını hesaplayın. 19'u 20'ye yuvarlayıp çarpın: 20 × 24 = 480. İlk çarpanı 1 artırdığınız için sonuçtan bir kez 24 çıkarmalısınız: 480 − 24 = 456. Yanıt 456'dır. Bunu tek satırda doğrulayabilirsiniz: 19 × 24 = 456.\n\nYöntem her iki yönde de çalışır. 18 × 24 için 18'i 20'ye yuvarlayıp iki kez 24 çıkarın: 480 − 48 = 432. 21 × 24 için aşağıya, 20'ye yuvarlayıp bir kez 24 ekleyin: 480 + 24 = 504.\n\nYöntemi dürüst tutan iki kural vardır. Her iki çarpanı değil, yalnızca **bir** çarpanı yuvarlayın. Ayrıca düzeltme, yuvarlamadığınız çarpan kullanılarak yapılmalıdır: burada ilk çarpanı 1 olarak değiştirdiğiniz için 1 × 24, yani 19 değil 24 ekleyip çıkarırsınız.",
+      "examples": [
+        "19'u 20'ye yuvarlayıp bir kez 24 çıkardım, böylece 19 × 24 = 456.",
+        "Yalnızca bir çarpanı yuvarlayın ve yuvarlamadığınız çarpanla düzeltin.",
+        "Düzeltme bir kez 24'tür; bu yüzden 19'u değil 24'ü çıkarıyorum."
+      ],
+      "heading": "Yuvarlayıp düzeltme: çözülmüş bir çarpım",
+      "steps": [
+        "Yuvarlayacağınız çarpanı ve onu yuvarlayacağınız uygun değeri seçin: 19, 20'ye dönüşür.",
+        "Yaptığınız değişikliğin büyüklüğünü not edin: ilk çarpanı 1 artırdınız.",
+        "Kolay sürümü çarpın: 20 × 24 = 480.",
+        "Sonucu değişikliğin diğer çarpanla çarpımı kadar düzeltin: 480 − (1 × 24) = 456.",
+        "Yanıtı birimiyle birlikte söyleyin: 456 öğe."
+      ]
+    },
+    {
+      "body": "Listedeki her kısayol aynı biçimdedir: sayıyı daha kolay bir sayıya değiştirirsin, kolay kısmı yaparsın ve değiştirdiğini tam olarak geri koyarsın. Kolayca geri alınamayan bir kısayol bir yöntem değil, tahmindir.\n\nSatırların ikisi işin çoğunu üstlenir. **Yuvarla ve düzelt**, çarpanı kolay bir değere yakın olan her çarpımı çözer. Bir çarpımı iki basamaklı iki sayının çarpımı olarak ayırmak, onlardan birini onluklara ve birliklere ayırıp iki daha küçük çarpımı toplamaktır.\n\nYüzdeyle ilgili iki satır tek bir olguya dayanır: %10 onda birettir; bu nedenle bir sayının %10'u onu ona bölerek bulunur, %5 ise bunun yarısıdır. Bir yüzdeyi onun kesri olarak almak, bir indirimi, vergiyi veya kâr marjını hesaplamanın en hızlı yoludur.\n\nSon satır olan **iki katına çıkar ve yarıya böl**, 4 çarpanını ortadan kaldırmanın eski yöntemidir. Bir çarpanı yarıya bölüp diğerini iki katına çıkarırsan çarpım değişmez.",
+      "examples": [
+        "240 sayısının %15'i 24 artı 12 eder, yani 36'dır.",
+        "48 × 25, 24 × 50'dir ve bu da 1200'dür.",
+        "78 − 35, 65 − 22'dir ve sonuç 43'tür."
+      ],
+      "heading": "Yanlış yönetmeyen sekiz kısayol",
+      "table": {
+        "headers": [
+          "Shortcut",
+          "How it works",
+          "Worked example"
+        ],
+        "rows": [
+          [
+            "Multiply by 10 or by 100",
+            "Move the decimal point one or two places to the right.",
+            "48 × 100 = 4800"
+          ],
+          [
+            "Round and adjust",
+            "Round one factor to a friendly value, then add or subtract the change.",
+            "19 × 24 = (20 − 1) × 24 = 480 − 24 = 456"
+          ],
+          [
+            "Split a product",
+            "Break one factor into tens and units, and add the two smaller products.",
+            "23 × 17 = 230 + 161 = 391"
+          ],
+          [
+            "Work in tens",
+            "Break both factors into tens and units, multiply the four parts, and add them.",
+            "43 × 12 = 400 + 80 + 30 + 6 = 516"
+          ],
+          [
+            "Subtract with the complement to 100",
+            "Subtract from the next round number, then take away the complement: 100 − 35 = 65, and 100 − 78 = 22.",
+            "78 − 35 = (100 − 35) − 22 = 65 − 22 = 43"
+          ],
+          [
+            "A percentage as a fraction of ten",
+            "10 % is one tenth, so find the tenth and double it for 20 %.",
+            "15 % of 240 = 24 + 12 = 36"
+          ],
+          [
+            "15 % = 10 % + 5 %",
+            "Take 10 % and add half of it for the other 5 %.",
+            "15 % of 800 = 80 + 40 = 120"
+          ],
+          [
+            "Double and halve",
+            "Halve one factor and double the other; the product stays the same.",
+            "48 × 25 = 24 × 50 = 1200"
+          ]
+        ]
+      }
+    },
+    {
+      "body": "**Tahmin**, gerçek bir yanıtın mümkün olup olmadığını göstermeye yetecek kadar yakın, yaklaşık bir sayıdır. **Yuvarlama**, bir sayıyı genellikle en yakın on, yüz veya bin değerine yuvarlama biçimidir: 47, 50’ye yuvarlanır ve 42, 40’a yuvarlanır.\n\n**Düzeltme**, bir sayıyı yuvarladıktan sonra yaptığınız düzeltmedir. **Elde**, bir sütundaki rakamlar toplandığında on veya daha fazla olduğunda sonraki sütuna aktardığınız onluktur: 8 + 7’de 5 yazarsınız ve 1 elde edersiniz.\n\n**Kalan**, bir sayının diğerine bölümü tam olmadığında geriye kalan kısımdır. **Bölüm**, kalan kısım hariç bölme işleminin sonucudur: 87, 7’ye bölündüğünde bölüm 12, kalan 3 olur.\n\n**Rakam toplamı**, bir sayının tüm rakamlarının toplamıdır. Bir sayının rakam toplamı 9’un katı olduğunda o sayı tam olarak 9’un katıdır: 1296’nın rakam toplamı 1 + 2 + 9 + 6 = 18’dir ve 18, 9’un katıdır.",
+      "examples": [
+        "Tahminim yaklaşık 1,500 sayısıydı, kesin yanıt ise 1,296 oldu.",
+        "47, 50’ye yuvarlanır ve düzeltmeyi geri eklerim.",
+        "87, 7’ye bölündüğünde bölüm 12, kalan 3 olur.",
+        "1296’nın rakam toplamı 18’dir, bu nedenle 9’un katıdır."
+      ],
+      "heading": "Mesleğin terimleri",
+      "terms": [
+        {
+          "example": "Çarpma işleminden önce tahmin yapın: yaklaşık 50 ile yaklaşık 30 sayılarının çarpımı yaklaşık 1500’dir.",
+          "gloss": "Gerçek bir yanıtın mümkün olup olmadığını göstermeye yetecek kadar yakın, yaklaşık bir sayıdır."
+        },
+        {
+          "example": "47, 50’ye yuvarlanır ve 42, 40’a yuvarlanır.",
+          "gloss": "Bir sayıyı genellikle en yakın on, yüz veya bin değerine yuvarlama biçimidir."
+        },
+        {
+          "example": "19’u 20’ye yuvarladım, bu nedenle düzeltme 24 birimlik bir miktardır ve 480 − 24 = 456.",
+          "gloss": "Bir sayıyı yuvarladıktan sonra eklediğiniz veya çıkardığınız düzeltmedir."
+        },
+        {
+          "example": "8 + 7’de 5 yazarsınız ve 1’i sonraki sütuna elde edersiniz.",
+          "gloss": "Bir sütundaki rakamlar toplandığında on veya daha fazla olduğunda sonraki sütuna aktardığınız onluktur."
+        },
+        {
+          "example": "87, 7’ye bölündüğünde bölüm 12, kalan 3 olur.",
+          "gloss": "Bölme işlemi tam olarak sonuçlanmadığında geriye kalan kısımdır."
+        },
+        {
+          "example": "87 ile 7’nin bölümü 12’dir, kalan ise 3’tür.",
+          "gloss": "Kalan kısım hariç bölme işleminin sonucudur."
+        },
+        {
+          "example": "1296’nın rakam toplamı 1 + 2 + 9 + 6 = 18’dir ve 18, 9’un katıdır.",
+          "gloss": "Bir sayının tüm rakamlarının toplamıdır ve sayının 9’un katı olup olmadığını sınamak için kullanılır."
+        }
+      ]
+    },
+    {
+      "body": "Kontrolsüz bir kısayol, yanlışlığa en hızlı yoldan ulaşmanın yoludur. Dört kontrol saniyeler içinde neredeyse her hatayı yakalar: cevabın büyüklüğü, işlemi tersine yapma, rakam toplamı ve birim. İlk kontrol en hızlısıdır: **cevabın büyüklüğünü kontrol et**. Her sayıyı kolay bir değere yuvarla ve yaklaşık çarpımı hesapla: yaklaşık 50 ile yaklaşık 30’un çarpımı yaklaşık 1500’dür. Cevabın 15 veya 15000 ise, daha fazla kontrol etmeden önce yanlış olur. Bir tahmin, büyüklük hatalarını yakalar; ancak son adımdaki küçük bir hatayı asla yakalamaz.\n\n**İşlemi tersine yap.** Toplama ve çıkarma birbirini geri alır; çarpma ve bölme de öyle. 87’yi 7’ye böldüysen ve bölümün 12, kalanın 3 olduğunu bulduysan, geriye doğru çarp: 12 × 7 = 84 ve 84 + 3 = 87. Cevabın 13 olsaydı, 13 × 7 = 91 olurdu; bu sonuç çoktan fazla büyük olurdu. **9’un katları için rakam toplamını kullan.** Bir sayı, rakam toplamı 9’un katı olduğunda tam olarak 9’un katıdır. Dolayısıyla her iki çarpan da 3’ün katıysa çarpım da 9’un katı olmalıdır.\n\n**Birimi ve büyüklük mertebesini kontrol et.** 48 kasadaki 27 şişenin cevabı, kasa sayısı değil, şişe sayısıdır; kasa başına düşen şişe sayısı da değildir. Soru bir uzunluk istiyorsa ve cevabında birim yoksa işlem henüz tamamlanmamıştır.\n\nHatayı yakalayan bir örnek görüyoruz. 48 kasada 27 şişe olduğuna göre şişe sayısını bulman gerekiyor. 48 × 30 = 1440’ı hesaplıyorsun, ardından 48 × 3 = 144’ü çıkarıyorsun ve 1296’yı buluyorsun. Büyüklük kontrolü bunu doğruluyor: yaklaşık 1500, 1296’ya yakındır. Şimdi çıkarmanın kaydığını ve 1298 yazdığını düşünelim. Tersine kontrol bunu yakalar; çünkü 1298 ÷ 48, tam sayı kasa sayısı vermez. Rakam toplamı da bunu yakalar: 1298’in rakam toplamı 1 + 2 + 9 + 8 = 20’dir ve bu, 9’un katı değildir. Oysa 48 ve 27’nin ikisi de 3’ün katı olduğundan çarpımın 9’un katı olması gerekir. Doğru cevap 1296’dır ve rakam toplamı 18’dir.",
+      "examples": [
+        "Yaklaşık 50 ile yaklaşık 30’un çarpımı yaklaşık 1,500’dür; dolayısıyla 1,296 doğru büyüklüktedir.",
+        "Bölümü geriye doğru çarp ve kalanı ekle; başladığın sayıyı elde etmen gerekir.",
+        "Rakamları kontrol etmeden önce birimi kontrol ederim: cevap kasa değil, şişe sayısıdır."
+      ],
+      "heading": "Kafanda yaptığın cevabı kontrol et",
+      "steps": [
+        "Yuvarlanmış sayılardan cevabın büyüklüğünü tahmin et: yaklaşık 1,500 şişe.",
+        "İşlemi tersine yap ve başladığın sayıyı elde ettiğini kontrol et.",
+        "Çarpanlar 3’ün katı olduğunda rakam toplamını dene: 1 + 2 + 9 + 6 = 18.",
+        "Cevabı birimiyle birlikte söyle: 48 kasada 1,296 şişe.",
+        "Herhangi bir kontrol başarısız olursa, beğendiğin sayıyı değiştirmek yerine hesaplamayı yeniden yap."
+      ]
+    },
+    {
+      "body": "Zaman kazanmanın profesyonel bir yolu vardır. Bir sayıya ihtiyaç duyduğunuz hâlde henüz elinizde yoksa, ne yaptığınızı söyleyin: **\"Bunu hesaplayayım.\"** Bu, bir saniyelik bir konuşmadır ve hesaplamanın ihtiyaç duyduğu üç saniyeyi kazandırır.\n\nDiğer dürüst cümleler: **\"Bunu kontrol edip size döneceğim.\"** **\"Yaklaşık 1,300; kesin rakam 1,296.\"** **\"O rakam yanımda değil.\"** Her biri, bilmediğiniz bir şeyi varmış gibi göstermeden neyi bildiğinizi ve neyi bilmediğinizi söyler.\n\nYapılmaması gereken şu: Sessizlik uzun hissettirdiği için, kontrol etmediğiniz bir sayıyı söylemeyin. Güvenle söylenen bir sayı kontrol edilmiş kabul edilir. Yanlışsa kullanılır ve düzeltmenin onu kullanan herkesten geriye döndürülmesi gerekir.\n\nKontrol edilmiş bir yanıt, her zaman hızlı ama yanlış bir yanıttan daha iyidir. Kontrol edilmiş yanıt toplantıdan, rapordan ve vardiya devrinden sağ çıkar. Hızlı ama yanlış sayı daha sonra genellikle başka biri tarafından yakalanır ve bu kişiye, sizden kaçındığınız işin aynısı mal olur.",
+      "examples": [
+        "Bunu hesaplayayım.",
+        "Yaklaşık 1,300; kesin rakam 1,296.",
+        "Bunu kontrol edip size döneceğim.",
+        "O rakam yanımda değil, ancak 1,300'e yakın."
+      ],
+      "heading": "İş ortamında dürüst cümleler"
+    },
+    {
+      "body": "**Önce yaklaşık büyüklüğü, sonra kesin sayıyı söyleyin.** \"Yaklaşık 1.300 şişe ve tam olarak 1.296.\" Büyüklüğü söylemek bir saniye sürer ve dinleyiciye sayıyı karşılaştıracak bir dayanak verir. İkisi birbiriyle uyuşmazsa, sayıyı herhangi biri kullanmadan önce hatayı bulmuş olursunuz.\n\n**Yanıtla aynı birimde tutun.** Metre cinsinden bir büyüklükle santim cinsinden bir yanıt birbirini doğrulayamaz.\n\n**Yüksek sesle söyleyin.** Yalnızca düşündüğünüz bir sayıyı yalnızca bazen doğrularsınız.",
+      "examples": [
+        "Yaklaşık 1.300 şişe ve tam olarak 1.296.",
+        "Büyüklüğü yanıtla aynı birimde söyleyin, aksi hâlde denetim hiçbir şeyi yakalayamaz.",
+        "1.300 için kabaca bir tahminim var ve bunu sayımla karşılaştırıyorum."
+      ],
+      "heading": "Sayıdan önce büyüklüğü verin"
+    },
+    {
+      "body": "Bunlar, bir sayının ister kafanızda ister kâğıtta hesaplanmış olsun, kontrol edilmiş gibi görünmesini sağlayan cümlelerdir. Hepsi aynı örüntüyü izler: sayının büyüklüğü, kesin sayısı ve ona nasıl ulaştığınız.\n\nÖnce sayının büyüklüğünü, ardından kesin sayısını söyleyin. Nasıl bulduğunuzu kısaca söyleyin: \"19'u 20'ye yuvarlayıp 24'lük bir grup çıkardım, böylece 19 × 24 = 456\" yeterlidir. Kontrolü söylemek değerliyse, tek satırda söyleyin: \"Rakam toplamı 18, 9'un katı, bu yüzden cevap doğru olabilir.\" Hesaplamadığınız bir sayı vermektense, \"Bunu hesaplayayım\" demek her zaman daha iyidir.",
+      "examples": [
+        "Bunu hesaplayayım; bana bir saniye verin.",
+        "Bu yaklaşık 1.300'dür; kesin değer 1.296'dır.",
+        "87'yi 7'ye bölmek, 3 kalanla 12 eder.",
+        "800'ün %15'i, 80 artı 40'tır; bu da 120'dir."
+      ],
+      "heading": "Yeniden kullanabileceğiniz cümleler"
+    }
+  ],
+  "summary": "Hızlı zihinsel aritmetik, güvenilir kısayollardan oluşur ve her kısayolun bir doğrulama yöntemine ihtiyacı vardır. Bu makaleyi okuduktan sonra bir çarpımı yuvarlayıp düzeltebilir, çarpımı parçalara ayırabilir, onluklarla çalışabilir, bir yüzdeyi onun kesri olarak okuyabilir ve tamamlayıcı kullanarak çıkarma yapabilirsiniz. Ayrıca yanıtı vermeden önce tahmin edebilir ve yanıtı ters işlemle doğrulayabilirsiniz.",
+  "title": "Hızlı ve Doğrulanabilir Zihinsel Aritmetik"
+}

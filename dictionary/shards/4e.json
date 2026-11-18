@@ -1,0 +1,873 @@
+{
+  "records": {
+    "4e224d9fbe45c38f9e2f55ad8cc1fcadc71fe245888187a575d1bb9abe1f3e11": [
+      {
+        "forms": [
+          "Action item",
+          "action_item"
+        ],
+        "id": "lex.sa.work.action_item",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Action item",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.action_item.alt",
+          "sns.sa.work.action_item.alt.ja",
+          "sns.sa.work.action_item.alt.ko",
+          "sns.sa.work.action_item.alt.pt_br",
+          "sns.sa.work.action_item.alt.id",
+          "sns.sa.work.action_item.alt.th",
+          "sns.sa.work.action_item.alt.tr"
+        ]
+      },
+      {
+        "definition": "A task that a named person has agreed to do. In longer emails these are listed explicitly.",
+        "exampleIds": [
+          "exm.sa.work.action_item.1.1"
+        ],
+        "gloss": "A task that a named person has agreed to do. In longer emails these are listed explicitly.",
+        "id": "sns.sa.work.action_item.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.action_item",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "特定の担当者が約束した作業のこと。長いメールでは、実行事項として箇条書きに明記されることが多い。",
+        "exampleIds": [
+          "exm.sa.work.action_item.1.1.ja"
+        ],
+        "gloss": "担当者と合意した実行すべき作業。",
+        "id": "sns.sa.work.action_item.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.action_item",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "특정 사람이 수행하기로 약속한 일이나 과제입니다. 긴 메일에서는 이러한 항목이 빠짐없이 목록으로 제시됩니다.",
+        "exampleIds": [
+          "exm.sa.work.action_item.1.1.ko"
+        ],
+        "gloss": "담당자가 수행하기로 합의한 업무.",
+        "id": "sns.sa.work.action_item.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.action_item",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É uma tarefa que uma pessoa determinada assumiu ou aceitou executar. Em mensagens mais longas, esses itens costumam ser listados explicitamente.",
+        "exampleIds": [
+          "exm.sa.work.action_item.1.1.pt_br"
+        ],
+        "gloss": "Tarefa atribuída a uma pessoa, que concordou em realizá-la.",
+        "id": "sns.sa.work.action_item.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.action_item",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tugas yang disepakati oleh orang tertentu untuk dikerjakan. Dalam surel yang panjang, tugas seperti ini biasanya dituliskan secara eksplisit.",
+        "exampleIds": [
+          "exm.sa.work.action_item.1.1.id"
+        ],
+        "gloss": "Tugas yang telah disepakati oleh orang tertentu.",
+        "id": "sns.sa.work.action_item.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.action_item",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "งานที่มอบหมายให้บุคคลหนึ่งรับผิดชอบชัดเจน ในอีเมลขนาวยาวมักเขียนแยกเป็นรายการพร้อมชื่อผู้รับผิดชอบและกำหนดส่ง",
+        "exampleIds": [
+          "exm.sa.work.action_item.1.1.th"
+        ],
+        "gloss": "งานที่มอบหมายให้บุคคลที่ระบุชื่อรับผิดชอบและได้ตกลงว่าจะทำ",
+        "id": "sns.sa.work.action_item.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.action_item",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Daha uzun e-postalarda bu görevler genellikle açıkça listelenir.",
+        "exampleIds": [
+          "exm.sa.work.action_item.1.1.tr"
+        ],
+        "gloss": "Belirli bir kişinin yapmayı kabul ettiği görev.",
+        "id": "sns.sa.work.action_item.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.action_item",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.action_item.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There are two action items: sending the figures and confirming the date.",
+        "translation": "İki aksiyon maddesi var: rakamları göndermek ve tarihi doğrulamak.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.action_item.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There are two action items: sending the figures and confirming the date.",
+        "translation": "มีรายการงานสองรายการ คือส่งตัวเลขและยืนยันวันที่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.action_item.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There are two action items: sending the figures and confirming the date.",
+        "translation": "Ada dua butir tindakan: mengirimkan angka dan mengonfirmasi tanggal.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.action_item.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There are two action items: sending the figures and confirming the date.",
+        "translation": "Há dois itens de ação: enviar os números e confirmar a data.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.action_item.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There are two action items: sending the figures and confirming the date.",
+        "translation": "실행 항목은 두 가지로, 수치를 보내는 일과 날짜를 확인하는 일입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.action_item.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There are two action items: sending the figures and confirming the date.",
+        "translation": "実行事項は二つで、数字を送ることと日付を確認することです。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.action_item.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There are two action items: sending the figures and confirming the date.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4e642d13346e3a1863609adace17372718c67a512d3dc58d585211bcb7f9ee56": [
+      {
+        "forms": [
+          "proximity",
+          "msa_proximity"
+        ],
+        "id": "lex.sa.social.msa_proximity",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "proximity",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.msa_proximity.alt",
+          "sns.sa.social.msa_proximity.alt.ja",
+          "sns.sa.social.msa_proximity.alt.ko",
+          "sns.sa.social.msa_proximity.alt.pt_br",
+          "sns.sa.social.msa_proximity.alt.id",
+          "sns.sa.social.msa_proximity.alt.th",
+          "sns.sa.social.msa_proximity.alt.tr"
+        ]
+      },
+      {
+        "definition": "How close two people are in space and time, and how often they meet.",
+        "exampleIds": [
+          "exm.sa.social.msa_proximity.1.1"
+        ],
+        "gloss": "How close two people are in space and time, and how often they meet.",
+        "id": "sns.sa.social.msa_proximity.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.msa_proximity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "~~~~~~~~~~~~~~~~~~~~~~。~~~~~~~~~~~~~~~~~~~~~~。",
+        "exampleIds": [
+          "exm.sa.social.msa_proximity.1.1.ja"
+        ],
+        "gloss": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~。",
+        "id": "sns.sa.social.msa_proximity.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.msa_proximity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "두 사람이 공간과 시간상 얼마나 가까운지, 또 얼마나 자주 만나는지를 함께 가리킨다. 단순히 거리가 짧다는 뜻뿐 아니라 접촉의 빈도까지 포함한다.",
+        "exampleIds": [
+          "exm.sa.social.msa_proximity.1.1.ko"
+        ],
+        "gloss": "두 사람이 얼마나 가까우며 얼마나 자주 만나는지를 나타내는 정도.",
+        "id": "sns.sa.social.msa_proximity.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.msa_proximity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Proximidade é a distância espacial ou temporal entre pessoas e a frequência de seus encontros. Ela pode facilitar a convivência e o desenvolvimento de um relacionamento.",
+        "exampleIds": [
+          "exm.sa.social.msa_proximity.1.1.pt_br"
+        ],
+        "gloss": "A closeness entre duas pessoas no espaço e no tempo, bem como a frequência com que se encontram.",
+        "id": "sns.sa.social.msa_proximity.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.msa_proximity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kedekatan mencakup jarak fisik, rentang waktu, dan banyaknya pertemuan antara dua orang. Semakin dekat letak dan waktu mereka, semakin besar kemungkinan untuk sering bertemu.",
+        "exampleIds": [
+          "exm.sa.social.msa_proximity.1.1.id"
+        ],
+        "gloss": "Kedekatan adalah seberapa dekat dua orang dalam ruang dan waktu serta seberapa sering mereka bertemu.",
+        "id": "sns.sa.social.msa_proximity.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.msa_proximity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ระยะห่างและความถี่ที่บุคคลสองคนพบกัน รวมถึงจังหวะเวลาที่ทั้งสองสัมผัสกัน ซึ่งเปิดโอกาสให้เกิดความสัมพันธ์ได้",
+        "exampleIds": [
+          "exm.sa.social.msa_proximity.1.1.th"
+        ],
+        "gloss": "ความใกล้ชิดทั้งด้านระยะทาง เวลา และความถี่ที่พบกัน",
+        "id": "sns.sa.social.msa_proximity.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.msa_proximity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yakınlık, iki kişinin yer ve zaman bakımından yakınlığıyla, birbirlerini ne sıklıkta gördüğünü bir arada anlatır.",
+        "exampleIds": [
+          "exm.sa.social.msa_proximity.1.1.tr"
+        ],
+        "gloss": "İki kişinin uzamsal ve zamansal olarak ne kadar yakın olduğu ve ne sıklıkta karşılaştığı.",
+        "id": "sns.sa.social.msa_proximity.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.msa_proximity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.msa_proximity.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Yakınlık işe yaradı: aynı vardiyada çalıştılar ve aynı otobüs durağını kullandılar.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.msa_proximity.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความใกล้ชิดช่วยให้ทั้งสองทำงานกะเดียวกันและใช้จุดขึ้นรถบัสร่วมกัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.msa_proximity.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kedekatan berperan besar karena merekaPERTsm bekerja pada shift yang sama dan_place yang sama.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.msa_proximity.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A proximidade fez o trabalho: eles compartilhavam o mesmo turno e o mesmo ponto de ônibus.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.msa_proximity.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "같은 교대와 버스 정류장을 쓰게 되니 두 사람이 가까워지는 일이 많아졌습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.msa_proximity.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "~~~~~~~~~~~~~~~~~~~~；~~~~~~~~~~~~~~~~~~~~~~~~。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.msa_proximity.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Proximity did the work: they shared a shift and a bus stop.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4e64873d26b0815db0723c805aeb28ec448804f752e5aca893695548c30b0c1f": [
+      {
+        "forms": [
+          "Hedging language",
+          "hedging_language"
+        ],
+        "id": "lex.sa.social.hedging_language",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hedging language",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.hedging_language.alt",
+          "sns.sa.social.hedging_language.alt.ja",
+          "sns.sa.social.hedging_language.alt.ko",
+          "sns.sa.social.hedging_language.alt.pt_br",
+          "sns.sa.social.hedging_language.alt.id",
+          "sns.sa.social.hedging_language.alt.th",
+          "sns.sa.social.hedging_language.alt.tr"
+        ]
+      },
+      {
+        "definition": "Soft words that mark your opinion as your opinion, such as 'maybe' or 'I could be wrong'. Useful in small doses.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1"
+        ],
+        "gloss": "Soft words that mark your opinion as your opinion, such as 'maybe' or 'I could be wrong'. Useful in small doses.",
+        "id": "sns.sa.social.hedging_language.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自分の意見であることを示す「かもしれない」「間違っているかもしれない」のような柔らかい表現。控えめに使うとCivilnessocker.graphic.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.ja"
+        ],
+        "gloss": "自分の意見に曖昧さを持たせるWordsや言い回し。",
+        "id": "sns.sa.social.hedging_language.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "‘아마도’나 ‘내가 틀릴 수도 있다’처럼 강한 주장을 완화하는 표현을 쓰는 방식이다. 적당히 쓰면civil하게 들리지만 너무 많으면 핵심을 흐릴 수 있다.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.ko"
+        ],
+        "gloss": "opinions가 자신의 견해임을 나타내는 완충 표현을 쓰는 말버릇이다.",
+        "id": "sns.sa.social.hedging_language.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recursos linguísticos que apresentam uma afirmação como opinionável ou possível, como “talvez” ou “posso estar errado”. Em pequenas quantidades, deixam a conversa mais cordial; em excesso, podem enfraquecer o argumento.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.pt_br"
+        ],
+        "gloss": "Expressões que suavizam uma opinião e mostram incerteza.",
+        "id": "sns.sa.social.hedging_language.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kata-kata atau ungkapan seperti “mungkin” dan “saya mungkin keliru” yang menunjukkan bahwa pendapat bukanlah fakta yang mutlak. Penggunaannya secukupnya menjaga komunikasi tetap ramah, tetapi terlalu banyak dapat menyembunyikan maksud.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.id"
+        ],
+        "gloss": "Ungkapan yang menandakan pendapat atau sikap seseorang masih dapat berubah.",
+        "id": "sns.sa.social.hedging_language.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ถ้อยคำที่ลดความฟันธงของข้อความ เช่น “อาจเป็นไปได้” หรือ “ฉันอาจจะผิดก็ได้” ใช้เล็กน้อยเพื่อรักษามารยาท แต่หากใช้มากเกินไปก็อาจทำให้จุดยืนไม่ชัดเจน",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.th"
+        ],
+        "gloss": "ถ้อยคำอ่อนโยนที่ทำให้ความเห็นของผู้พูดดูเป็นความคิดเห็นส่วนตัว",
+        "id": "sns.sa.social.hedging_language.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "“Belki”, “yanlış olabilirim” veya “bana göre” gibi ifadelerle söylenen, düşüncenin kesinlik derecesini yumuşatan sözcüklerdir. Az miktarda kullanılırsa saygılı bir ton verir, fazla kullanılırsa görüşü belirsizleştirir.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.tr"
+        ],
+        "gloss": "Görüşün yalnızca bir görüş olduğunu yumuşak ifadelerle belirten dil.",
+        "id": "sns.sa.social.hedging_language.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "Biraz çekimser dil söyleyişi nazik tutar; fazlası ise asıl fikrini saklar.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "การใช้ถ้อยคำถนอมเล็กน้อยทำให้ประโยคสุภาพขึ้น แต่ถ้าใช้มากเกินไปก็จะทำให้ความคิดเห็นของเราไม่ชัดเจน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "Sedikit bahasa pengattenan membuat kalimat tetap sopan, tetapi terlalu banyak dapat membuat maksud tidak jelas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "Um pouco de linguagem atenuante mantém a conversa civil, mas seu excesso esconde o ponto principal.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "완충 표현을 조금 쓰면 문장이 정중해지지만 너무 많이 쓰면要点가 흐려진다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "少しの曖昧化表現は文章を穏やかにしますが、多すぎると要点がぼやけます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4e7a6bf5ed4effd9c3e027841954f5d98df9cc72791fbd7080c8a436f5fc3018": [
+      {
+        "forms": [
+          "Brush your teeth",
+          "brush_your_teeth"
+        ],
+        "id": "lex.sa.kids_daily.brush_your_teeth",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Brush your teeth",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_daily.brush_your_teeth.alt",
+          "sns.sa.kids_daily.brush_your_teeth.alt.ja",
+          "sns.sa.kids_daily.brush_your_teeth.alt.ko",
+          "sns.sa.kids_daily.brush_your_teeth.alt.pt_br",
+          "sns.sa.kids_daily.brush_your_teeth.alt.id",
+          "sns.sa.kids_daily.brush_your_teeth.alt.th",
+          "sns.sa.kids_daily.brush_your_teeth.alt.tr"
+        ]
+      },
+      {
+        "definition": "To clean your teeth with a toothbrush and toothpaste, usually for two minutes.",
+        "exampleIds": [
+          "exm.sa.kids_daily.brush_your_teeth.1.1"
+        ],
+        "gloss": "To clean your teeth with a toothbrush and toothpaste, usually for two minutes.",
+        "id": "sns.sa.kids_daily.brush_your_teeth.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_daily.brush_your_teeth",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Toothbrushing.",
+        "exampleIds": [
+          "exm.sa.kids_daily.brush_your_teeth.1.1.ja"
+        ],
+        "gloss": "Toothbrushing.",
+        "id": "sns.sa.kids_daily.brush_your_teeth.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_daily.brush_your_teeth",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "칫솔에 치약을 묻혀 양치질을 하는 습관. 잠자기 전에 하는 사람도 많다.",
+        "exampleIds": [
+          "exm.sa.kids_daily.brush_your_teeth.1.1.ko"
+        ],
+        "gloss": "칫솔과 치약으로 이를 깨끗이 닦는 것. 보통 두 분 정도 걸린다.",
+        "id": "sns.sa.kids_daily.brush_your_teeth.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_daily.brush_your_teeth",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Limpar os dentes com uma escova e pasta de dente para retirar restos de comida e proteger a saúde da boca._costuma ser feito duas vezes ao dia.",
+        "exampleIds": [
+          "exm.sa.kids_daily.brush_your_teeth.1.1.pt_br"
+        ],
+        "gloss": "Escovar os dentes: limpá-los com uma escova e pasta de dente.",
+        "id": "sns.sa.kids_daily.brush_your_teeth.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_daily.brush_your_teeth",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tindakan membersihkan permukaan gigi menggunakan sikat gigi dan pasta gigi, biasanya selama sekitar dua menit. Kebiasaan ini membantu menjaga gigi tetap sehat.",
+        "exampleIds": [
+          "exm.sa.kids_daily.brush_your_teeth.1.1.id"
+        ],
+        "gloss": "Membersihkan gigi dengan sikat gigi dan pasta gigi.",
+        "id": "sns.sa.kids_daily.brush_your_teeth.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_daily.brush_your_teeth",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การขัดฟันด้วยแปรงสีฟันและยาสีฟันเพื่อกำจัดสิ่งตกค้างและคราบ โดยทั่วไปใช้เวลาประมาณสองนาที",
+        "exampleIds": [
+          "exm.sa.kids_daily.brush_your_teeth.1.1.th"
+        ],
+        "gloss": "การทำความสะอาดฟันด้วยแปรงสีฟันและยาสีฟัน",
+        "id": "sns.sa.kids_daily.brush_your_teeth.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_daily.brush_your_teeth",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Diş fırçası ve diş macunu kullanarak dişlerdeki kiri ve plakları temizlemektir; genellikle iki dakika sürer.",
+        "exampleIds": [
+          "exm.sa.kids_daily.brush_your_teeth.1.1.tr"
+        ],
+        "gloss": "Dişlerini diş fırçası ve diş macunuyla temizlemek.",
+        "id": "sns.sa.kids_daily.brush_your_teeth.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_daily.brush_your_teeth",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_daily.brush_your_teeth.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brush my teeth before I put on my pyjamas.",
+        "translation": "Pijamalarımı giydirmeden önce dişlerimi fırçalarım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_daily.brush_your_teeth.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brush my teeth before I put on my pyjamas.",
+        "translation": "ฉันแปรงฟันก่อนสวมชุดนอน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_daily.brush_your_teeth.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brush my teeth before I put on my pyjamas.",
+        "translation": "Saya menyikat gigi sebelum memakai piyama.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_daily.brush_your_teeth.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brush my teeth before I put on my pyjamas.",
+        "translation": "Eu escovo os dentes antes de colocar meu pijama.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_daily.brush_your_teeth.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brush my teeth before I put on my pyjamas.",
+        "translation": "나는 잠옷을 입기 전에 이를 닦는다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_daily.brush_your_teeth.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brush my teeth before I put on my pyjamas.",
+        "translation": "パジャマを着る前に歯みがきをします。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_daily.brush_your_teeth.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I brush my teeth before I put on my pyjamas.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4eaae75f1df2f52bda44f6b18a400542d51c81bd7c00b0e720be5dc2c997575d": [
+      {
+        "forms": [
+          "roman"
+        ],
+        "id": "lex.sa.en.roman.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "roman",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.roman.adjective.1",
+          "sns.sa.en.roman-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Dùng chữ La Mã; theo kiểu chữ La Mã.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "La Mã; chữ La Mã",
+        "id": "sns.sa.vi.roman.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.roman.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Using the letters of the Roman alphabet.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "Written in Roman letters; of the Roman alphabet.",
+        "id": "sns.sa.en.roman-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.roman.adjective",
+        "pos": "adjective",
+        "revision": 1
+      }
+    ],
+    "4ec665092e3679b3fd5716cfce3c50b611882a539f5cebee725afeb5edb99ebd": [
+      {
+        "forms": [
+          "Daytime running lamps",
+          "daytime_running_lamps"
+        ],
+        "id": "lex.sa.en.daytime.running.lamps",
+        "kind": "lexeme",
+        "lemma": "Daytime running lamps",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.daytime.running.lamps.alt"
+        ]
+      },
+      {
+        "definition": "The daytime running lamps are on. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The daytime running lamps are on.",
+        "id": "sns.sa.en.daytime.running.lamps.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.daytime.running.lamps",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "4ef3e3cbab91de8726beaea3b1f0a61b0d4e6e3c4228ca3e8c51b1467def8dce": [
+      {
+        "forms": [
+          "love",
+          "loves",
+          "loved",
+          "loving"
+        ],
+        "id": "lex.sa.en.love.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "love",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.love.verb",
+          "prn.sa.en.love.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.love.verb.1",
+          "sns.sa.en.love-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.love-verb",
+        "id": "prn.sa.en.love.verb",
+        "ipa": "/lʌv/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.love.verb.us",
+        "ipa": "/lʌv/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Rất thích điều gì đó.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.love.verb.1.1",
+          "exm.sa.en.love-verb.more.01",
+          "exm.sa.en.love-verb.more.02"
+        ],
+        "gloss": "yêu thích",
+        "id": "sns.sa.vi.love.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.love.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.love-verb",
+          "res.sa.aud.love-verb",
+          "res.sa.lnk.love-verb",
+          "res.sa.vid.love-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Here, a test verb inside a quoted sentence.",
+        "exampleIds": [
+          "exm.sa.en.love.verb.1.1"
+        ],
+        "gloss": "Here, a test verb inside a quoted sentence.",
+        "id": "sns.sa.en.love-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.love.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.love.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "I love a clean, checked solution.",
+        "translation": "Tôi thích một nghiệm sạch đã được thử lại.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.love.verb.1",
+        "id": "lnk.sa.en.glossary.081",
+        "kind": "relation",
+        "toId": "sns.sa.vi.really.adverb.1",
+        "type": "related_to"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

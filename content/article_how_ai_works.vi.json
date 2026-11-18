@@ -1,0 +1,132 @@
+{
+  "language": "vi",
+  "lessonId": "article_how_ai_works",
+  "objectives": [
+    "Giải thích một language model là gì và không phải là gì.",
+    "Mô tả vòng lặp training, từ việc thu thập văn bản đến điều chỉnh các parameters.",
+    "Giải thích điều gì xảy ra giữa lúc gửi một message và lúc nhận được câu trả lời.",
+    "Dùng các thuật ngữ trong lĩnh vực đúng cách: token, training data, parameters, inference, context window, prompt, hallucination.",
+    "Giải thích tại sao một câu trả lời mượt mà vẫn có thể sai.",
+    "Đánh giá nên giao task nào cho một model và nên giữ lại task nào.",
+    "Kiểm tra các con số, nguồn và khoảng trống trước khi bạn tin một kết quả."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Một mô hình ngôn ngữ là một chương trình đã được huấn luyện để tiếp tục văn bản. Đó là toàn bộ công việc của nó, ở cấp độ máy. Nó không phải là cơ sở dữ liệu các câu trả lời. Nó không chứa danh sách các sự thật về công ty của bạn, máy của bạn hay cuộc họp hôm qua, và khi đưa cho bạn một sự thật mà nó không nhận được từ văn bản của bạn, nó đã tạo ra sự thật đó từ một mẫu chứ không phải từ một bản ghi.\n\nĐiều nó có là một tập hợp rất lớn các con số, được học từ một lượng văn bản rất lớn, mô tả những phần văn bản nào có xu hướng đi sau những phần văn bản khác. Nó đã học rằng “bơm” thường được theo sau bởi một từ nói về áp suất hoặc lưu lượng. Nó đã học cấu trúc của một tài liệu hướng dẫn, một lời phàn nàn, một chú thích mã, một giới hạn an toàn được viết dưới dạng số kèm đơn vị. Từ “mô hình” có nghĩa là một thứ được xây dựng để đại diện cho một thứ khác: một mô hình tỷ lệ đại diện cho một con tàu, một mô hình thời tiết đại diện cho thời tiết. Một mô hình ngôn ngữ đại diện cho chính ngôn ngữ.\n\nĐó cũng chính là nguồn của những giới hạn của nó. Nó không có trải nghiệm và không có tự nhận thức. Nó không có ý thức, và không có gì trong nó hiểu nó đang nói gì theo cách mà một con người hiểu. Nó chưa từng nhìn thấy máy của bạn, khách hàng của bạn hay cơ sở của bạn; mọi thứ nó nói về thế giới đều đến từ văn bản, và một phần văn bản đó là cũ, sai, hoặc được viết bởi ai đó có lợi ích trong câu trả lời. Hệ quả thực tế rất đơn giản. Bạn không đang nói chuyện với một cỗ máy biết những thứ. Bạn đang nói chuyện với một cỗ máy hoàn thành văn bản, và mọi điểm còn lại trong bài viết này đều bắt nguồn từ chính điểm khác biệt ấy.",
+      "examples": [
+        "Nó không phải là cơ sở dữ liệu các câu trả lời; nó là một tập hợp các xu hướng về điều sẽ xuất hiện tiếp theo.",
+        "Mô hình đã hoàn thành câu vì phần tiếp theo đó có nhiều khả năng xảy ra, chứ không phải vì nó đã kiểm tra một sự thật.",
+        "Không gì trong mô hình biết máy của chúng ta; mọi thứ nó nói về máy đó đều đến từ văn bản tôi cung cấp."
+      ],
+      "heading": "Mô hình ngôn ngữ là gì và không phải là gì"
+    },
+    {
+      "body": "Huấn luyện diễn ra một lần, trước khi bạn từng nhìn thấy mô hình, và điều này tốn kém. Nó chạy trên khối lượng văn bản rất lớn, được thu thập từ sách, bài viết, trang web, mã nguồn và bản ghi. Văn bản thô trước tiên được cắt thành token, các mảnh mà mô hình đọc và viết. Mô hình không đọc từng chữ cái.\n\nSau đó vòng lặp bắt đầu, và đó là cùng một vòng lặp hàng triệu lần trên hàng tỷ mảnh văn bản. Mô hình được cho xem một chuỗi token với token tiếp theo bị ẩn. Nó dự đoán token bị ẩn. Nó so sánh dự đoán của mình với token thực và đo sai sót, rồi ghi lại thành một con số duy nhất. Sau đó, nó điều chỉnh nhẹ mọi tham số, theo hướng khiến sai sót nhỏ hơn. Và nó chuyển sang chuỗi tiếp theo.\n\nCác tham số là phần đã được học của máy: một số lượng rất lớn trọng số lưu giữ các xu hướng. Tên gọi bắt nguồn từ cùng gốc với “đo”. Mỗi trọng số cho biết một kiểu mẫu nên làm tăng hay giảm cơ hội của kiểu mẫu khác.\n\nThiết kế đã tạo nên cơ chế này đến từ bài báo năm 2017 “Attention: tất cả những gì bạn cần”, giới thiệu transformer, cách sắp xếp các lớp được hầu hết mô hình ngày nay sử dụng. Ý tưởng cốt lõi là attention: mỗi token xem xét các token xung quanh và xác định điều nào trong số đó quan trọng đối với dự đoán. Mô hình trả lời bạn là nhiều lớp kiểu này, với các tham số nằm bên trong.\n\nCó một điểm đáng ghi nhớ. Khi bạn sử dụng mô hình, không có gì được học. Các tham số cố định. Mọi câu trả lời bạn nhận được đều là cùng một mô hình đã được huấn luyện được chạy tiến trên văn bản của bạn.",
+      "examples": [
+        "Huấn luyện là một vòng lặp: đoán token tiếp theo, đo lỗi, điều chỉnh trọng số, rồi bắt đầu lại.",
+        "Không ai huấn luyện mô hình khi tôi nhấn phím Enter. Các trọng số đã được cố định từ lâu."
+      ],
+      "heading": "Mô hình được huấn luyện như thế nào",
+      "steps": [
+        "Thu thập khối lượng văn bản rất lớn: sách, bài viết, trang web, mã nguồn và bản ghi.",
+        "Cắt văn bản thành token, các mảnh mà mô hình đọc.",
+        "Cho mô hình xem một chuỗi token và ẩn token tiếp theo.",
+        "Yêu cầu mô hình dự đoán token bị ẩn.",
+        "Đo kích thước của sai sót và điều chỉnh nhẹ mọi tham số để sai sót nhỏ hơn.",
+        "Lặp lại trên hàng tỷ mảnh văn bản cho đến khi các sai sót nhỏ đủ để hữu ích."
+      ]
+    },
+    {
+      "body": "Tin nhắn của bạn được cắt thành các mảnh văn bản nhỏ gọi là token. Những token đó được đặt vào cửa sổ ngữ cảnh, không gian mà mô hình có thể nhìn thấy cùng lúc, cùng với cuộc trò chuyện cho đến thời điểm đó, mọi tài liệu bạn đã đính kèm và các chỉ dẫn mà dịch vụ nhận được. Sau đó, mô hình chỉ làm một việc: dự đoán token tiếp theo. Nó tính xác suất của nhiều token tiếp theo có thể xảy ra, chọn một token và ghi lại. Rồi nó lại làm điều tương tự với token vừa được thêm vào, rồi lại tiếp tục, và lại tiếp tục. Câu trả lời được xây dựng từng token một, và mỗi token mới đều được chọn dựa trên tất cả những gì đã xuất hiện trước đó.\n\nViệc chạy một mô hình đã được huấn luyện trên văn bản mới được gọi là suy luận. Điều này ngược với huấn luyện: các tham số không thay đổi, và không có gì được học từ câu hỏi của bạn. Mỗi câu trả lời bạn nhận được là một lần chạy suy luận.\n\nVì mỗi token được chọn từ danh sách các ứng viên có khả năng cao, cùng một câu hỏi có thể nhận được hai câu trả lời khác nhau. Hầu hết các dịch vụ thiết lập một tham số điều khiển về mức độ ngẫu nhiên được sử dụng trong lựa chọn đó. Độ ngẫu nhiên thấp cho bạn nhận được cùng một câu trả lời trong hai lần. Độ ngẫu nhiên cao tạo ra nhiều khác biệt hơn và nhiều khả năng đi sai hướng hơn.\n\nMô hình cũng quyết định khi nào dừng. Nó tạo ra dấu kết thúc, hoặc dịch vụ dừng nó khi đạt giới hạn độ dài, hoặc nó dừng vì câu trả lời cần đến một công cụ phải được chạy trước.\n\nVà không có ký ức giữa các cuộc trò chuyện. Một cuộc trò chuyện mới bắt đầu mà không có gì, trừ khi dịch vụ dán lại tóm tắt của cuộc trò chuyện cũ ở phía trên. Ký ức đó nằm trong một cơ sở dữ liệu ở phía dịch vụ, không nằm trong mô hình, và mô hình không thể phân biệt được sự khác biệt giữa hai điều đó.",
+      "examples": [
+        "Câu trả lời được xây dựng từng token một, và mỗi token phụ thuộc vào những token trước đó.",
+        "Các trọng số không thay đổi; mô hình chỉ được chạy tiến.",
+        "Hỏi cùng một câu hỏi hai lần và bạn có thể nhận được hai câu trả lời. Cả hai đều đến từ cùng một tập tham số."
+      ],
+      "heading": "Điều gì xảy ra khi bạn nhấn phím Enter"
+    },
+    {
+      "body": "Bảy từ này là vốn từ vựng làm việc của lĩnh vực. Chúng xuất hiện trong tài liệu mô hình, trên các trang bảng giá và trong các cuộc trò chuyện của những người xây dựng các hệ thống này.\n\nBốn từ mô tả máy và hai giai đoạn mà nó vận hành: **token**, **training data**, **parameters** và **inference**. Hai từ mô tả những gì bạn đưa cho mô hình: **prompt** và **context window**. Một từ chỉ ra lỗi làm tốn nhiều thời gian làm việc nhất: **hallucination**.\n\nHai giai đoạn này đáng để tách biệt trong đầu bạn. Training là giai đoạn dài và tốn kém, do những người xây dựng mô hình thực hiện, và kết thúc trước khi mô hình đến với bạn. Inference là mỗi câu trả lời bạn nhận được, mỗi lần một lần chạy.\n\nMột lưu ý về cả bảy từ này. Mỗi từ đều chỉ một cơ chế, không phải một lời hứa. \"Mô hình đã học\" có nghĩa là nó đã lưu giữ một xu hướng thống kê. Điều đó không có nghĩa là nó biết.",
+      "examples": [
+        "Token là các đơn vị mà mô hình đọc; parameters là những con số mà mô hình đã học.",
+        "Training đã diễn ra một lần, trước khi tôi sử dụng nó. Mỗi câu trả lời tôi nhận được là inference.",
+        "Nếu điều đó không nằm trong context window, mô hình không thể sử dụng nó."
+      ],
+      "heading": "Từ ngữ của lĩnh vực",
+      "terms": [
+        {
+          "example": "Từ \"pump\" có thể là một token, còn một mã số linh kiện bất thường có thể gồm ba token.",
+          "gloss": "Một phần văn bản mà mô hình đọc và viết như một đơn vị; thường là một từ, một phần của từ hoặc một ký hiệu thông dụng."
+        },
+        {
+          "example": "Nếu training data chủ yếu là các trang web bằng tiếng Anh, mô hình sẽ trả lời bằng tiếng Anh tốt nhất.",
+          "gloss": "Văn bản mà mô hình học; phạm vi và chất lượng của nó quyết định mức độ giỏi của mô hình và những gì mô hình chưa từng thấy."
+        },
+        {
+          "example": "Mô hình có hàng tỷ parameters, và không một con số nào trong đó là một câu mà bạn có thể đọc.",
+          "gloss": "Những con số bên trong mô hình lưu giữ những gì mô hình đã học; mỗi con số là một trọng số làm tăng hoặc giảm khả năng xuất hiện của một chuỗi tiếp diễn."
+        },
+        {
+          "example": "Mỗi câu hỏi bạn gửi là một lần chạy inference.",
+          "gloss": "Giai đoạn mà một mô hình đã được huấn luyện vận hành các parameters trên đầu vào mới để tạo ra câu trả lời."
+        },
+        {
+          "example": "Khi context window đã đầy, trang đầu tiên của tài liệu không còn nằm trong phần văn bản mà mô hình tiếp nhận.",
+          "gloss": "Lượng văn bản mà mô hình có thể sử dụng cùng lúc: thông điệp của bạn, cuộc trò chuyện cho đến lúc này và mọi tài liệu đính kèm."
+        },
+        {
+          "example": "Prompt không hề nêu mức dung sai của chúng ta, nên câu trả lời đã dùng sai mức.",
+          "gloss": "Mọi thứ bạn gửi cho mô hình: chỉ dẫn, tư liệu và câu hỏi; toàn bộ nội dung này trở thành văn bản mà mô hình dựa vào để trả lời."
+        },
+        {
+          "example": "Trích dẫn hoàn hảo và bài báo đó không tồn tại. Đó là một hallucination.",
+          "gloss": "Một câu trả lời trôi chảy, tự tin nhưng không đúng; mô hình đã tạo ra một chuỗi tiếp diễn có vẻ hợp lý thay cho một sự thật."
+        }
+      ]
+    },
+    {
+      "body": "Mô hình được huấn luyện để tạo ra văn bản có khả năng, chứ không phải văn bản đúng. Sự thật không nằm trong mục tiêu. Đó là một công cụ đoán token tiếp theo giỏi, và một phỏng đoán tốt vẫn có thể sai.\n\nMột câu trả lời hoàn chỉnh có hai phẩm chất riêng biệt: nó nghe đúng, và nó đúng. Mô hình hoàn toàn kiểm soát phẩm chất thứ nhất. Nó không có cách nào biết phẩm chất thứ hai, bởi vì nó không lưu lại điều gì là đúng, và không bao giờ đối chiếu câu nào với nguồn.\n\nCó ba nguyên nhân thường gặp. Sự thật không có trong ngữ cảnh được đưa cho mô hình, nên nó lấp khoảng trống bằng cách dựa vào khuôn mẫu. Sự thật hiếm, và văn bản huấn luyện có thể chưa bao giờ chứa sự thật đó, nên mô hình không có gì để sao chép. Hoặc câu hỏi yêu cầu một nguồn, và mô hình tạo ra hình dạng của một trích dẫn: một tiêu đề, một tác giả, một năm, tất cả đều được ghép lại dựa vào cách các trích dẫn trông thay vì dựa vào một tài liệu có thật.\n\nKhi một câu trả lời như vậy xuất hiện với sự chắc chắn giống như câu trả lời đúng, người ta gọi đó là ảo giác (hallucination). Tên này không có nghĩa là mô hình bị lẫn. Nó có nghĩa là câu trả lời không có cơ sở nào đứng bên dưới. Một ảo giác có thể là một con số bịa ra, một trích dẫn bịa ra, một chính sách bịa ra, một tệp bịa ra, hoặc một trang không tồn tại.\n\nCó một dạng sai lệch thứ hai, và lặng lẽ hơn. Câu trả lời đúng, nhưng lại nói về một thứ khác. Mô hình hoàn thành một khuôn mẫu quen thuộc về một công ty khác, một thiết bị khác hoặc một tiêu chuẩn khác, và câu đó đúng trong khi đối tượng lại sai.\n\nTất cả những điều này dẫn đến một kết luận đơn giản. Hãy coi mọi tuyên bố dựa trên sự thật là chưa được xác minh cho đến khi bạn đã đối chiếu nó với nguồn mà nó đến từ. Độ trôi chảy không phải là bằng chứng. Đó là một phẩm chất của cách viết, không phải của tuyên bố.",
+      "examples": [
+        "Câu đó nghe rất trôi chảy, nhưng con số lại sai. Độ trôi chảy không phải là bằng chứng.",
+        "Nó đưa cho tôi một tài liệu tham khảo trông như đúng; bài báo đó không tồn tại.",
+        "Chính sách mà nó trích dẫn là có thật, nhưng đến từ một công ty khác."
+      ],
+      "heading": "Vì sao một câu trả lời trôi chảy vẫn có thể sai"
+    },
+    {
+      "body": "Cùng một cơ chế tạo ra cả hai nửa của bảng này, và khác biệt giữa chúng không phải do may rủi. Viết lại, tóm tắt, soạn thảo và dịch là những tác vụ mô hình làm tốt: chúng gần với cấu trúc của văn bản huấn luyện, và kết quả được đánh giá dựa vào việc nó đọc dễ thế nào. Đếm, biết thông tin về công ty của bạn và ghi nhớ cuộc trò chuyện hôm qua là những tác vụ mô hình làm kém: chúng cần thông tin mà mô hình không có, hoặc phép tính mà mô hình không thể thực hiện nếu không có công cụ.\n\nHãy xem danh sách những việc làm kém như danh sách các công việc thuộc về bạn. Nếu bạn đưa tài liệu cho mô hình, nó có thể tóm tắt tài liệu đó. Nếu câu trả lời phụ thuộc vào một con số trong hồ sơ của bạn, việc lấy con số đó là công việc của bạn. Nếu công việc có trạng thái, tức là nó đang ở đâu, điều gì đã được quyết định và điều gì vẫn còn mở, thì bạn phải giữ trạng thái đó, vì mô hình không giữ gì cả.\n\nCó một điều kiện đối với danh sách những việc làm tốt. Đó là những tác vụ mà một câu trả lời đủ dùng có ích và người đọc kiểm tra cách diễn đạt chứ không kiểm tra sự thật. Ngay khi câu trả lời phải chứa một con số quyết định tiền, thời gian, dung sai hoặc an toàn, nó thuộc danh sách những việc làm kém, dù câu trả lời trông như thế nào.",
+      "examples": [
+        "Hãy để nó soạn thảo email và bạn sẽ gửi đi. Hãy để nó giải thích quy trình và bạn sẽ kiểm tra con số ở bước thứ tư.",
+        "Nếu câu trả lời cần một con số từ hồ sơ của chúng ta, việc kiểm tra vẫn thuộc về chúng ta.",
+        "Tôi đưa cho nó văn bản thực tế, vì nó không thể bịa ra văn bản mà tôi quên dán vào."
+      ],
+      "heading": "Điều mô hình làm tốt và điều mô hình làm kém"
+    },
+    {
+      "body": "Có ba bước kiểm tra, và bước thứ ba là bước mọi người thường bỏ qua. **Các con số.** Hãy tính lại mọi thứ quyết định tiền, thời gian, dung sai hoặc an toàn. Mô hình có thể tạo ra một con số có dạng của một con số đúng nhưng không có căn cứ nào đứng sau, còn việc kiểm tra chỉ mất một phút. **Các nguồn.** Hãy mở từng nguồn tham khảo. Nếu câu trả lời trích dẫn một bài báo, một tiêu chuẩn hoặc một trang web, hãy mở nó và xác nhận rằng nó nói đúng điều câu trả lời khẳng định. Một trích dẫn có hình thức đúng nhưng đằng sau là tài liệu sai chính là lỗi thường gặp. **Khoảng trống.** Hãy hỏi xem mô hình không được cung cấp điều gì. Nó không biết mã số phần của bạn, hợp đồng của bạn hoặc cuộc họp ngày hôm qua, nên mọi câu trả lời phụ thuộc vào những thứ đó đều là câu trả lời bạn phải tự hoàn thiện. Một thói quen có thể khép lại cả ba bước kiểm tra: bảo mô hình trình bày các bước, sau đó đối chiếu các bước đó với một nguồn mà bạn tin cậy, chứ không phải với câu mà nó đã viết.",
+      "examples": [
+        "Cho tôi nguồn của con số đó và tôi sẽ kiểm tra.",
+        "Cho tôi xem các bước và đánh dấu phần bạn không chắc chắn.",
+        "Bạn thiếu phần nào trong tài liệu này? Tôi sẽ cung cấp."
+      ],
+      "heading": "Những điều cần kiểm tra trước khi tin đầu ra"
+    },
+    {
+      "body": "Những câu này giải thích hành vi mà mọi người thấy khó hiểu, và chúng hữu ích khi dùng với đồng nghiệp, giáo viên hoặc tổng đài hỗ trợ. Hãy dùng nguyên văn và thay đổi chi tiết cho phù hợp với tình huống của bạn.",
+      "examples": [
+        "Mô hình không biết điều đó. Nó đã hoàn thiện văn bản theo cách văn bản thường tiếp tục.",
+        "Câu trả lời mạch lạc nhưng chưa được kiểm chứng, nên tôi xem nó là bản nháp.",
+        "Nó dự đoán token tiếp theo, và token tiếp theo đó là sai.",
+        "Quá trình huấn luyện đã kết thúc. Thứ bạn đang xem là suy luận.",
+        "Không có trí nhớ giữa các cuộc trò chuyện. Cửa sổ ngữ cảnh chính là toàn bộ trí nhớ.",
+        "Hãy đưa tôi văn bản thật, và tôi sẽ làm việc dựa trên văn bản đó thay vì dựa trên điều tôi nhớ.",
+        "Hãy cho tôi xem các bước và cho tôi biết bạn không chắc chắn về phần nào."
+      ],
+      "heading": "Câu có thể tái sử dụng"
+    }
+  ],
+  "summary": "Mô hình ngôn ngữ không tra cứu đáp án. Nó học các mẫu từ một lượng lớn văn bản và lúc chạy, dự đoán từng token tiếp theo một. Sau khi đọc nội dung này, bạn có thể giải thích cách một model được huấn luyện, context window giữ gì, tại sao một câu trả lời mượt mà vẫn có thể sai, và cần kiểm tra điều gì trước khi bạn tin một kết quả trong công việc.",
+  "title": "Cách trí tuệ nhân tạo thực sự hoạt động: Training, Prediction và giới hạn của nó"
+}

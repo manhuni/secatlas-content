@@ -1,0 +1,65 @@
+{
+  "items": {
+    "allergy": {
+      "conflict": true,
+      "definition": "A medical reaction to a food, which can be dangerous. It must be told to the staff as an allergy, not as a dislike.",
+      "dictionaryId": "lex.sa.travel.allergy",
+      "example": "I have a shellfish allergy. Is this dish safe for me?",
+      "fieldId": "kids_daily",
+      "id": "allergy",
+      "lessonIds": [
+        "article_asking_for_food",
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.kids.daily.food",
+        "knw.travel.ordering"
+      ],
+      "term": "Allergy"
+    },
+    "compass": {
+      "definition": "A small tool with a needle that points north. Explorers use a compass so they walk in a straight line.",
+      "dictionaryId": "lex.sa.kids_adventure.compass",
+      "example": "The compass needle spun because of the iron in the ground.",
+      "fieldId": "kids_adventure",
+      "id": "compass",
+      "lessonIds": [
+        "article_hidden_treasure"
+      ],
+      "packs": [
+        "knw.kids.adventure.explorer"
+      ],
+      "term": "Compass"
+    },
+    "mathlit_premise": {
+      "definition": "A statement that an argument starts from and takes as given.",
+      "dictionaryId": "lex.sa.mind.mathlit_premise",
+      "example": "The premise is wrong, so the conclusion is right only in the proof.",
+      "fieldId": "mind",
+      "id": "mathlit_premise",
+      "lessonIds": [
+        "article_math_and_literature"
+      ],
+      "packs": [
+        "knw.mind.math_and_literature"
+      ],
+      "term": "Premise"
+    },
+    "psy_urgency": {
+      "definition": "A pressure tactic that shortens the time available for checking and deciding.",
+      "dictionaryId": "lex.sa.mind.psy_urgency",
+      "example": "The urgency was built to stop a phone call: sign tonight or the price changes.",
+      "fieldId": "mind",
+      "id": "psy_urgency",
+      "lessonIds": [
+        "article_psychological_manipulation"
+      ],
+      "packs": [
+        "knw.mind.manipulation"
+      ],
+      "term": "Urgency"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

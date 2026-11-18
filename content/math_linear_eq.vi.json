@@ -1,0 +1,49 @@
+{
+  "language": "vi",
+  "lessonId": "math_linear_eq",
+  "objectives": [
+    "Gọi tên biến và các hằng số.",
+    "Nêu một nghiệm và kiểm tra nghiệm đó."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Một phương trình tuyến tính một ẩn số có thể được viết dưới dạng ax + b = 0, trong đó a và b là các hằng số và a khác không. Đồ thị của hàm số liên quan y = ax + b là một đường thẳng.",
+      "heading": "Định nghĩa"
+    },
+    {
+      "body": "Trước tiên hãy bỏ phép cộng hoặc trừ, rồi đến phép nhân hoặc chia. Thực hiện cùng một phép tính trên cả hai vế. Nghiệm là giá trị của x làm cho phương trình ban đầu trở thành đúng.",
+      "heading": "Cách tìm một nghiệm"
+    },
+    {
+      "body": "Giải 2x + 1 = 7. Trừ 1 ở cả hai vế để được 2x = 6. Chia cả hai vế cho 2. Nghiệm là x = 3. Kiểm tra: 2(3) + 1 = 7.",
+      "examples": [
+        "Trừ 1 ở cả hai vế.",
+        "Chia cả hai vế cho 2.",
+        "Nghiệm là x = 3."
+      ],
+      "heading": "Ví dụ có lời giải"
+    },
+    {
+      "body": "Các thuật ngữ được dùng khi phương trình này được trình bày bằng tiếng Anh.",
+      "heading": "Thuật ngữ chuyên môn",
+      "terms": [
+        {
+          "example": "",
+          "gloss": "Một ký hiệu mà giá trị của nó chưa biết cho đến khi phương trình được giải."
+        },
+        {
+          "example": "",
+          "gloss": "Độ dốc của đường thẳng; hệ số của x trong y = ax + b."
+        },
+        {
+          "example": "",
+          "gloss": "Giá trị của y tại điểm mà đường thẳng cắt trục y."
+        }
+      ]
+    }
+  ],
+  "summary": "Đọc ax + b = 0, giữ cho hai vế bằng nhau và kiểm tra nghiệm bằng tiếng Anh.",
+  "title": "Giải phương trình tuyến tính"
+}

@@ -1,0 +1,170 @@
+{
+  "language": "tr",
+  "lessonId": "article_showcase",
+  "objectives": [
+    "Kapak, anlık görüntüler, galeriler, ses çalma listesi ve bağımsız videoları açın.",
+    "Grafiklerle birlikte cebir, türev hesabı ve lineer cebir formüllerini okuyun.",
+    "Grafiklerle birlikte kinematik, Newton, enerji, Ohm ve dalga formüllerini okuyun.",
+    "Kimya formüllerini, denge, pH ve hız grafiklerini okuyun."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Bu, bir yerleşim örneği olarak kullanılan kısa bir İngilizce makaledir. Bir ders değildir. Aşağıdaki her başlık, uygulamanın boyayabileceği gerçek bir bloktur: metin, tek bir resim, galeri, ses, video, bir bağlantı, bir formül plaketi ve canlı bir grafik. Bu paketteki her medya konumlandırıcısı, media/ dizinindeki bir dosyadır.",
+      "heading": "Bu makale ne anlatıyor"
+    },
+    {
+      "body": "Klip, APK içinde değil, zip dosyasında saklanmıştır.",
+      "heading": "Başlığı dinleyin"
+    },
+    {
+      "body": "Makale kapağı, media/covers/ klasöründeki gerçek bir PNG dosyasıdır.",
+      "heading": "Kapak görseli"
+    },
+    {
+      "body": "Başlık altında bir mp4 dosyası. Dosya yolu media/video/intro.mp4'dir.",
+      "heading": "Bağımsız video"
+    },
+    {
+      "body": "Başlık altında bir şema yer alır. Başlık tek bir resmi adlandırıyorsa bu durumu kullanın.",
+      "heading": "Tek resimli görsel"
+    },
+    {
+      "body": "Bir ziyaret, kampüs veya ünlü kütüphane gibi başlıklar için çok sayıda fotoğraf gerekir. Galeri kaydırın. Sıralama, ekrandaki sırayla aynıdır.",
+      "heading": "Galeri — manzaralar"
+    },
+    {
+      "body": "Resimler, yerel bir video dosyası ve bir dış bağlantı tek bir galeri paylaşıyor. Makalenin ses kayıtları da üstteki ders oynatma listesinden çalıyor.",
+      "heading": "Karışık galeri — resim, video, bağlantı"
+    },
+    {
+      "body": "Zip dosyasından kaydedilmiş cümleler. Dinleme bloğunu bir çalma listesi olarak, tek bir klipte değil düşünün.",
+      "heading": "Ses çalma listesi"
+    },
+    {
+      "body": "Bir galeride birden fazla mp4 dosyası. Klibler arasında kaydırın. Her dosya zip içinde benzersizdir.",
+      "heading": "Video oynatma listesi"
+    },
+    {
+      "body": "Bir değişkenli doğrusal denklem, a sıfır olmayan bir şekilde ax + b = 0 olarak yazılır. Aynı ilişki, bir doğru için y = ax + b şeklindedir.",
+      "heading": "Matematik — cebir"
+    },
+    {
+      "body": "Sinüs ve kosinüs periyodiktir. Bir türev eğimdir. Bir integral birikmiş alandır.",
+      "heading": "Matematik — trigonometri ve integral calculus"
+    },
+    {
+      "body": "Bir 2×2 matris, bir sütun çarpar. Örnek ortalama, gözlemlerin toplamının n'ye bölünmesiyle elde edilir.",
+      "heading": "Matematik — lineer cebir ve istatistik"
+    },
+    {
+      "body": "Sabit ivmeli hareketlerde, yer değiştirme, hız ve zaman, SUVAT formül seti ile birbirine bağlıdır. x–t grafiği bir eğridir; v–t grafiği ise bir doğrudur.",
+      "heading": "Fizik — kinematik"
+    },
+    {
+      "body": "Newton'un ikinci yasası, mekanik enerji, Ohm yasası ve bir yolculuk dalgası aşağıda yazılmıştır. Bir direnç için I–V grafiği, başlangıç noktasından geçen bir doğru çizgisi şeklindedir.",
+      "heading": "Fizik — kuvvet, enerji, elektrik, dalgalar"
+    },
+    {
+      "body": "Türleri matematiksel Roma tipiyle yazın. Madde miktarı, konsantrasyon ve ideal gaz yasası, genellikle İngilizce isimlerdir.",
+      "heading": "Kimya — formüller ve miktarlar"
+    },
+    {
+      "body": "pH logaritmiktir. Dinamik bir dengenin sabit bir K değeri vardır. Konsantrasyon düştükçe hız genellikle düşer.",
+      "heading": "Kimya — asit-baz, denge, hız"
+    },
+    {
+      "body": "Sembolu okuyun, ardından İngilizce adını okuyun.",
+      "heading": "Bu sayfada kullanılan semboller"
+    },
+    {
+      "body": "İngilizce'de karşılığı bulunan matematik, fizik ve kimya terimleri.",
+      "heading": "Teknik terimler",
+      "terms": [
+        {
+          "example": "",
+          "gloss": "Denklem çözülünceye kadar değeri bilinmeyen bir sembol."
+        },
+        {
+          "example": "",
+          "gloss": "Bir doğrunun eğimi; yükseltme bölünme."
+        },
+        {
+          "example": "",
+          "gloss": "Hız değişiminin oranı."
+        },
+        {
+          "example": "",
+          "gloss": "Bir bileşenin akıma ne kadar güçlü bir şekilde karşı çıktığı."
+        },
+        {
+          "example": "",
+          "gloss": "Madde miktarının SI birimi."
+        },
+        {
+          "example": "",
+          "gloss": "İleri ve geri hızların eşit olduğu bir durum."
+        }
+      ]
+    },
+    {
+      "body": "2x + 1 = 7 eşitliğini çözün. 1'i çıkarın, ardından 2'ye bölün. Çözüm x = 3'tür. Kontrol: 2(3) + 1 = 7.",
+      "examples": [
+        "Her iki taraftan da 1 çıkarın.",
+        "Her iki tarafı da 2'ye bölün.",
+        "Çözüm x = 3'tür."
+      ],
+      "heading": "Çözümlü örnek — her iki tarafı da eşit tutun"
+    },
+    {
+      "body": "Lottie JSON dosyaları paketten doğrudan satır içinde döngüsel oynatılır. Yanıp sönen uyarı ışığı ve tarayıcı göstergesi iğnesi, iki örnek klibidir. Animasyonları, anlaşılmak için hareket etmesi gereken panel ışıkları, göstergeler ve her şey için kullanın.",
+      "heading": "Animasyonlar — çekiç içindeki vektörel hareket"
+    },
+    {
+      "body": "Adımlar listesi, numaralandırılmış bir prosedür olarak görüntülenir. JSON'daki sıra, ekrandaki sıraya eşittir.",
+      "heading": "İşlem — İndikatör okumayı 5 adımda yapma",
+      "steps": [
+        "İndikatör yüzeyindeki sembolü belirleyin.",
+        "İğnenin altında yazılı birimi okuyun.",
+        "İğneyi işaretli aralığa karşılaştırın.",
+        "Uyarı lambasının yakıp yakmadığını not edin.",
+        "Değer ve birimi raporunuza yazın."
+      ]
+    },
+    {
+      "body": "Bir bölüm, renklendirilmiş bir başlık satırı olan iki sütunlu bir veri tablosu taşıyabilir.",
+      "heading": "Veri tablosu — Birim sembolleri"
+    },
+    {
+      "body": "Semboller, Unicode karakteri yerine bir görüntü konumlayıcısı taşıyabilir. Her piktogram, bir etiket ve bir anlam satırı ile birlikte bir kart olarak render edilir.",
+      "heading": "Piktogram sembolleri — paneller tarzı"
+    },
+    {
+      "body": "Bir not çıkarımı, bilgi sembolüyle nötr tonlu bir kart üzerinde yer alır. Akışı kesmeden yan notlar için kullanın.",
+      "heading": "Çıkarım — Not"
+    },
+    {
+      "body": "Bir ipucu uyarısı yeşil ana kutuyu kullanır. Görevi daha hızlı veya daha iyi bir şekilde yapmanız için kullanın.",
+      "heading": "Uyarı — ipucu"
+    },
+    {
+      "body": "Dikkat uyarısı, turuncu uyarı tonunu kullanır. Hata zaman kaybına neden oluyorsa veya yeniden deneme gerekiyorsa bunu kullanın.",
+      "heading": "Uyarı — Dikkat"
+    },
+    {
+      "body": "Tehlike uyarısı, kırmızı hata kutusu kullanır. Sadece bir hata bir insana zarar verebilir veya ekipmanı yok edebilirken kullanın.",
+      "heading": "Uyarı — tehlike"
+    },
+    {
+      "body": "Standart güvenlik paragrafları için, çağrı türü (calloutKind) olmadan bile sarı uyarı kartında render edilen bölüm tipinde uyarı bulunur.",
+      "heading": "Uyarı bölüm türü"
+    },
+    {
+      "body": "Kutucuk JSON dosyasında, konumlayıcıları zip dosyasının içindeki media/ klasörüne yerleştirin. Bir bölüm, galeri, resim, ses, video, bağlantılar, matematik ve grafikleri tek bir listede listeleyebilir. Tek bir dosya, tek bir galeridir. Çoklu dosyalar bir galeridir. Canlı grafikler JSON noktalarıdır; kutucuk PNG'leri ek sabit görüntülerdir.",
+      "heading": "Yazar notu"
+    }
+  ],
+  "summary": "Bir demo makalesi: kapak, anlık görüntüler, galeriler, benzersiz ses parçaları, benzersiz videolar, bağlantılar, matematik, fizik, kimya, canlı grafikler ve formüller — her yerleştirici dosyada gerçek bir dosya.",
+  "title": "Tam varlıklara sahip demo makale"
+}

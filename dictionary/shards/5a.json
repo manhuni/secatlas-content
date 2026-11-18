@@ -1,0 +1,1036 @@
+{
+  "records": {
+    "5a1c142807339682f99d34a645481e1989b7544c6c53113d8ac3581aab35f85f": [
+      {
+        "forms": [
+          "Sleep efficiency",
+          "sleep_efficiency"
+        ],
+        "id": "lex.sa.health.sleep_efficiency",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Sleep efficiency",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.sleep_efficiency.alt",
+          "sns.sa.health.sleep_efficiency.alt.ja",
+          "sns.sa.health.sleep_efficiency.alt.ko",
+          "sns.sa.health.sleep_efficiency.alt.pt_br",
+          "sns.sa.health.sleep_efficiency.alt.id",
+          "sns.sa.health.sleep_efficiency.alt.th",
+          "sns.sa.health.sleep_efficiency.alt.tr"
+        ]
+      },
+      {
+        "definition": "The share of your time in bed that you were actually asleep. A long night can still be an inefficient one.",
+        "exampleIds": [
+          "exm.sa.health.sleep_efficiency.1.1"
+        ],
+        "gloss": "The share of your time in bed that you were actually asleep. A long night can still be an inefficient one.",
+        "id": "sns.sa.health.sleep_efficiency.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.sleep_efficiency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ベッド 上的されている時間全体を100として、そのうち実際に眠っていた時間の割合を指す。長い滞在時間でも、途中で起きていれば効率は低い。",
+        "exampleIds": [
+          "exm.sa.health.sleep_efficiency.1.1.ja"
+        ],
+        "gloss": "ベッドにいる時間のうち，実際に眠っていた時間の割合。",
+        "id": "sns.sa.health.sleep_efficiency.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.sleep_efficiency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "침대에서 보낸 전체 시간 중 실제 수면에 들킨 시간의 비율이다. 오래 누워 있었더라도 자주 깨어나면 수면 효율은 낮을 수 있다.",
+        "exampleIds": [
+          "exm.sa.health.sleep_efficiency.1.1.ko"
+        ],
+        "gloss": "침대에 있던 시간 중 실제로 잠든 시간의 비율.",
+        "id": "sns.sa.health.sleep_efficiency.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.sleep_efficiency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Indica quanto do período passado na cama a pessoa permaneceu realmente dormindo, em vez de acordado ou sem dormir profundamente.",
+        "exampleIds": [
+          "exm.sa.health.sleep_efficiency.1.1.pt_br"
+        ],
+        "gloss": "Porcentagem do tempo na cama efetivamente gasta dormindo.",
+        "id": "sns.sa.health.sleep_efficiency.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.sleep_efficiency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Efisiensi tidur menunjukkan berapa persen waktu di tempat tidur yang diisi dengan tidur, bukan sekadar berbaring. Durasi tidur yang panjang belum tentu berarti efisiensinya tinggi.",
+        "exampleIds": [
+          "exm.sa.health.sleep_efficiency.1.1.id"
+        ],
+        "gloss": "Porsi waktu di tempat tidur yang benar-benar dihabiskan untuk tidur.",
+        "id": "sns.sa.health.sleep_efficiency.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.sleep_efficiency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "อัตราส่วนของเวลาที่อยู่บนเตียงซึ่งใช้ไปกับการนอนจริง การนอนยาวนานจึงไม่ได้แปลว่ามีประสิทธิภาพการนอนสูงเสมอไป",
+        "exampleIds": [
+          "exm.sa.health.sleep_efficiency.1.1.th"
+        ],
+        "gloss": "สัดส่วนเวลาบนเตียงที่เราหลับจริง",
+        "id": "sns.sa.health.sleep_efficiency.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.sleep_efficiency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kişinin yatakta kaldığı toplam süreye göre gerçekte uyuduğu sürenin oranıdır; uykusuz geçen uzun bir gece verimli sayılmayabilir.",
+        "exampleIds": [
+          "exm.sa.health.sleep_efficiency.1.1.tr"
+        ],
+        "gloss": "Yatakta geçirilen sürenin ne kadarının gerçekte uykuda geçirildiğidir.",
+        "id": "sns.sa.health.sleep_efficiency.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.sleep_efficiency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.sleep_efficiency.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
+        "translation": "Yatakta dokuz saat kaldım ama uyku verimliliğim yüzde yetmiş civarındaydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.sleep_efficiency.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
+        "translation": "ฉันอยู่บนเตียงเก้าชั่วโมง แต่ประสิทธิภาพการนอนของฉันอยู่ที่ประมาณร้อยละเจ็ดสิบ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.sleep_efficiency.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
+        "translation": "Saya berada di tempat tidur selama sembilan jam, tetapi efisiensi tidur saya hanya sekitar tujuh puluh persen.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.sleep_efficiency.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
+        "translation": "Passei nove horas na cama, mas minha eficiência do sono foi de cerca de setenta por cento.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.sleep_efficiency.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
+        "translation": "나는 아홉 시간 침대에 있었지만 수면 효율은 약 70퍼센트였습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.sleep_efficiency.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
+        "translation": "九時間ベッドにいても Actual眠れたのは約七時間だったため、睡眠効率は七割ほどでした。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.sleep_efficiency.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "5a1c2d155cdc566ea28528724c0afc6abae976d480853a41448ac81fc938aaf3": [
+      {
+        "forms": [
+          "Nerve",
+          "nerve"
+        ],
+        "id": "lex.sa.kids_science.nerve",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Nerve",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.nerve.alt",
+          "sns.sa.kids_science.nerve.alt.ja",
+          "sns.sa.kids_science.nerve.alt.ko",
+          "sns.sa.kids_science.nerve.alt.pt_br",
+          "sns.sa.kids_science.nerve.alt.id",
+          "sns.sa.kids_science.nerve.alt.th",
+          "sns.sa.kids_science.nerve.alt.tr"
+        ]
+      },
+      {
+        "definition": "The cable that carries messages inside your body, from the senses to the brain and back again.",
+        "exampleIds": [
+          "exm.sa.kids_science.nerve.1.1"
+        ],
+        "gloss": "The cable that carries messages inside your body, from the senses to the brain and back again.",
+        "id": "sns.sa.kids_science.nerve.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "体の末端から脳へ、または脳から末端へ信号を運ぶ組織。ensoryや脳からの情報を伝える役割がある。",
+        "exampleIds": [
+          "exm.sa.kids_science.nerve.1.1.ja"
+        ],
+        "gloss": "体内の感覚や脳と、仲 之间で信号を運ぶ細い線維。",
+        "id": "sns.sa.kids_science.nerve.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "신경은 몸 안의 감각 기관과 뇌 사이, 또는 뇌와 근육 사이에 정보를 전달하는 조직이다.",
+        "exampleIds": [
+          "exm.sa.kids_science.nerve.1.1.ko"
+        ],
+        "gloss": "몸 안에서 감각 정보를 뇌와 근육 사이로 전달하는 가닥 같은 조직.",
+        "id": "sns.sa.kids_science.nerve.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Fibra do sistema nervoso que transmite impulsos entre o cérebro e as partes do corpo. Esses impulsos permitem sentir coisas e reagir a elas.",
+        "exampleIds": [
+          "exm.sa.kids_science.nerve.1.1.pt_br"
+        ],
+        "gloss": "Estrutura que leva mensagens pelos sentidos até o cérebro e de volta ao corpo.",
+        "id": "sns.sa.kids_science.nerve.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Saraf adalah 类似違 如 任 Hed 上的.",
+        "exampleIds": [
+          "exm.sa.kids_science.nerve.1.1.id"
+        ],
+        "gloss": "Bagian tubuh yang membawa pesan antara indra dan otak.",
+        "id": "sns.sa.kids_science.nerve.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เป็นเส้นใยที่นำสัญญาณจากสมองไปยังส่วนต่าง ๆ ของร่างกายและนำข้อมูลกลับมายังสมอง",
+        "exampleIds": [
+          "exm.sa.kids_science.nerve.1.1.th"
+        ],
+        "gloss": "เส้นประสาทที่ส่งข้อความระหว่างสมองกับส่วนต่าง ๆ ของร่างกาย",
+        "id": "sns.sa.kids_science.nerve.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Deri ve organlardan gelen bilgileri beyine taşıyan, beyinden de organlara emir gönderen liflerden oluşan yapı.",
+        "exampleIds": [
+          "exm.sa.kids_science.nerve.1.1.tr"
+        ],
+        "gloss": "Bedenindeki duyularla beyin arasında bilgi taşıyan lif.",
+        "id": "sns.sa.kids_science.nerve.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.nerve.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A nerve carries the message from your finger to your brain.",
+        "translation": "Sinir, parmağından beyine mesaj taşır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.nerve.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A nerve carries the message from your finger to your brain.",
+        "translation": "เส้นประสาทนำข้อความจากนิ้วของคุณไปยังสมอง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.nerve.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A nerve carries the message from your finger to your brain.",
+        "translation": "Saraf membawa pesan dari jari Anda ke otak.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.nerve.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A nerve carries the message from your finger to your brain.",
+        "translation": "Um nervo leva a mensagem do seu dedo até o cérebro.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.nerve.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A nerve carries the message from your finger to your brain.",
+        "translation": "신경은 손가락에서 뇌로 메시지를 전달해요.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.nerve.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A nerve carries the message from your finger to your brain.",
+        "translation": "神経は指から脳へ信号を送ります。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.nerve.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A nerve carries the message from your finger to your brain.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "5a4f9c4e317579ab33f2cc798c4c12438a072445e75b4d312b0ceffafd46007e": [
+      {
+        "forms": [
+          "Hype cycle"
+        ],
+        "id": "lex.sa.mind.hype_cycle",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hype cycle",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.hype_cycle.en",
+          "sns.sa.mind.hype_cycle.vi"
+        ]
+      },
+      {
+        "definition": "The observed pattern in which new technologies pass through inflated expectations, disappointment, and eventual steady adoption.",
+        "exampleIds": [],
+        "gloss": "The observed pattern in which new technologies pass through inflated expectations, disappointment, and eventual steady adoption.",
+        "id": "sns.sa.mind.hype_cycle.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.hype_cycle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Quy luật quan sát được mà công nghệ mới đi qua kỳ vọng thổi phồng, thất vọng, rồ i áp dụng bền vững.",
+        "id": "sns.sa.mind.hype_cycle.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.hype_cycle",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "5aa948565c723403871d6229c290546ac2bbdddbc1bb38117748262875abf86d": [
+      {
+        "forms": [
+          "Cognitive empathy",
+          "gem_cognitive_empathy"
+        ],
+        "id": "lex.sa.social.gem_cognitive_empathy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Cognitive empathy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gem_cognitive_empathy.alt",
+          "sns.sa.social.gem_cognitive_empathy.alt.ja",
+          "sns.sa.social.gem_cognitive_empathy.alt.ko",
+          "sns.sa.social.gem_cognitive_empathy.alt.pt_br",
+          "sns.sa.social.gem_cognitive_empathy.alt.id",
+          "sns.sa.social.gem_cognitive_empathy.alt.th",
+          "sns.sa.social.gem_cognitive_empathy.alt.tr"
+        ]
+      },
+      {
+        "definition": "The thinking part of empathy: seeing the situation from the other person's side.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1"
+        ],
+        "gloss": "The thinking part of empathy: seeing the situation from the other person's side.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "感情移入そのものartbeat Foucault.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.ja"
+        ],
+        "gloss": "相手の状況RADViewsその立場から考える Empathy。",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대가 느끼는 상황과 입장을 내면의 논리로 이해하는 능력이다. 단순히 감정적으로 동정하는 것과 달리, 상대가 무엇을 느끼는지 이해하는 데 초점이 있다.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.ko"
+        ],
+        "gloss": "상대방의 입장에서 상황을 바라보는 공감의 사고적인 측면.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A parte da empatia que envolve compreender o que a outra pessoa pensa e sente ao observar a situação do ponto de vista dela.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.pt_br"
+        ],
+        "gloss": "Entender a situação pelo ponto de vista da outra pessoa.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Empati kognitif merupakan bagian berpikir dari empati yang membantu seseorang melihat masalah dari sudut pandang orang lain. Kemampuan ini tidak selalu berarti berbagi perasaan orang tersebut.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.id"
+        ],
+        "gloss": "Kemampuan memahami situasi dari sudut pandang orang lain.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ส่วนเชิงคิดของความเห็นอกเห็นใจ ซึ่งเกี่ยวกับความพยายามเข้าใจสถานการณ์จากมุมมองของอีกฝ่ายหนึ่ง ไม่ใช่การรับรู้ความรู้สึกของอีกฝ่ายโดยตรง",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.th"
+        ],
+        "gloss": "ความเข้าใจเชิงคิดที่ช่วยให้เห็นสถานการณ์จากมุมของอีกฝ่ายหนึ่ง",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Başka birinin duygularını ve bakış açısını anlamaya yönelik düşünsel yetenek. Karşıdaki kişinin gerçekten ne hissettiğini tahmin etmeyi sağlar.",
+        "exampleIds": [
+          "exm.sa.social.gem_cognitive_empathy.1.1.tr"
+        ],
+        "gloss": "Başkasının bakış açısını ve duygularını anlamanın düşünsel yönü.",
+        "id": "sns.sa.social.gem_cognitive_empathy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gem_cognitive_empathy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bilişsel empati, son tarihin asıl sorun olduğunu tahmin etmesini sağladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความเข้าใจเชิงคิดช่วยให้เราเดาได้ว่าปัญหาจริงคือกำหนดส่งงาน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Empati kognitif membuatnya dapat.guess bahwa masalah sesungguhnya adalah tenggat waktu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A empatia cognitiva levou Ana a perceber que o prazo apertado, e não a falta de compromisso, era o verdadeiro problema.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "마감일이 진짜 문제였을 가능성을 알아챈 것은 인지적 공감이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "認知的共感によって、締切が本当の問題だと推測できた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gem_cognitive_empathy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Cognitive empathy is what lets you guess that the deadline was the real problem.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "5abf0874c8e435fff57779595bf653f7c6a4bb450a7d043dedaf6dfe09e97e55": [
+      {
+        "forms": [
+          "Hierarchy",
+          "pd_hierarchy"
+        ],
+        "id": "lex.sa.mind.pd_hierarchy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hierarchy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.pd_hierarchy.alt",
+          "sns.sa.mind.pd_hierarchy.alt.ja",
+          "sns.sa.mind.pd_hierarchy.alt.ko",
+          "sns.sa.mind.pd_hierarchy.alt.pt_br",
+          "sns.sa.mind.pd_hierarchy.alt.id",
+          "sns.sa.mind.pd_hierarchy.alt.th",
+          "sns.sa.mind.pd_hierarchy.alt.tr"
+        ]
+      },
+      {
+        "definition": "The arrangement of roles that says who decides and who answers for the decision.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1"
+        ],
+        "gloss": "The arrangement of roles that says who decides and who answers for the decision.",
+        "id": "sns.sa.mind.pd_hierarchy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "階層とは、意思決定権と説明責任がどの役職にあるかを示す、組織内の上下関係または役割の配置である。",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.ja"
+        ],
+        "gloss": "誰が決め、誰が説明責任を負うかを示す役割の配置。",
+        "id": "sns.sa.mind.pd_hierarchy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "조직이나 공동체의 역할을 위계에 따라 나누어 결정권과 책임을 정하는 구조다. 서면으로 명확하게 되어 있어도 실제로 역할이 잘려 있을 수 있다.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.ko"
+        ],
+        "gloss": "누가 결정하고 누가 그 결정에 책임지는지 정한 역할의 위계.",
+        "id": "sns.sa.mind.pd_hierarchy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A estrutura de comando de uma organização, com posições definidas de autoridade e responsabilidade. Ela existe no papel independentemente de quem ocupa cada cargo.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.pt_br"
+        ],
+        "gloss": "A organização dos papéis que diz quem decide e quem responde pela decisão.",
+        "id": "sns.sa.mind.pd_hierarchy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Susunan peran yang menunjukkan siapa yang memutuskan dan siapa yang bertanggung jawab atas keputusan itu. Kata ini dipakai untuk men Talking tentang urutan wewenang dalam kelompok atau organisasi, dan tidak boleh disamakan dengan 'hirarki' dalam artidz), tetapi harus tetap ditulis dalam bahasa Indonesia.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.id"
+        ],
+        "gloss": "Susunan peran yang menunjukkan siapa yang memutuskan dan siapa yang bertanggung jawab atas keputusan itu.",
+        "id": "sns.sa.mind.pd_hierarchy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การจัดความสัมพันธ์ของตำแหน่งและอำนาจเพื่อให้ทราบว่าใครมีสิทธิตัดสิน ใครต้องรายงาน และใครรับผิดชอบต่อผลนั้น คำนี้ไม่ได้หมายถึงฐานะหรือความมั่งคั่งของบุคคล",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.th"
+        ],
+        "gloss": "ลำดับตำแหน่งที่กำหนดว่าใครตัดสินใจและใครรับผิดชอบ",
+        "id": "sns.sa.mind.pd_hierarchy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kurum ya da topluluk içinde karar verme yetkisinin ve sorumluluğun kimde olduğunu gösteren düzendir. Kâğıt üzerinde açık olsa bile, uygulamada hesap, para ya da mal sorumluluğunun kime ait olduğu belirsizse hiyerarşi işlevini görmez.",
+        "exampleIds": [
+          "exm.sa.mind.pd_hierarchy.1.1.tr"
+        ],
+        "gloss": "Kim karar verir, kim kararın sonucundan sorumludur biçiminde rollerin dizilmesi.",
+        "id": "sns.sa.mind.pd_hierarchy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.pd_hierarchy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hiyerarşi kâğıt üzerinde belliydi; ama hesabın, faturanın ve yedek parçaların sorumluluğu kimdeydi?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ลำดับตำแหน่งกำหนดไว้ชัดเจนบนกระดาษ แต่บัญชี ใบแจ้งหนี้ และอะไหล่ยังไม่ได้รับการจัดการ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hierarki itu jelas di atas kertas; tetapi akun, faktur, dan suku cadang tidak jelas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A hierarquia é clara no papel; a conta, a nota fiscal e as peças não estavam.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "조직도는 명확했지만, 계정, 청구서, 부품에 대한 역할과 책임은 서로 겹쳐 있었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "文書上では階層は明確だったが、口座、請求書、部品の担当は決まっていなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.pd_hierarchy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hierarchy is clear on paper; the account, the invoice and the parts were not.",
+        "translation": "Hệ thống phân cấp rõ ràng trên giấy; còn tài khoản, hóa đơn và linh kiện thì không.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "5ac0531e872de738df3b1f55ddc17869b33c66c5973421cc68212f1471c5fd82": [
+      {
+        "forms": [
+          "subtract",
+          "subtracts",
+          "subtracted",
+          "subtracting"
+        ],
+        "id": "lex.sa.en.subtract.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "subtract",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.subtract.verb",
+          "prn.sa.en.subtract.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.subtract.verb.1",
+          "sns.sa.en.subtract-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.subtract-verb",
+        "id": "prn.sa.en.subtract.verb",
+        "ipa": "/səbˈtrækt/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.subtract.verb.us",
+        "ipa": "/səbˈtrækt/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Lấy một số ra khỏi số khác; phép toán ngược với cộng.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.subtract.verb.1.1",
+          "exm.sa.en.subtract-verb.more.01",
+          "exm.sa.en.subtract-verb.more.02",
+          "exm.sa.en.showcase.40"
+        ],
+        "gloss": "trừ",
+        "id": "sns.sa.vi.subtract.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.subtract.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.subtract-verb",
+          "res.sa.aud.subtract-verb",
+          "res.sa.lnk.subtract-verb",
+          "res.sa.vid.subtract-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Undo addition by taking a number away from both sides.",
+        "exampleIds": [
+          "exm.sa.en.subtract.verb.1.1",
+          "exm.sa.en.showcase.40"
+        ],
+        "gloss": "Undo addition by taking a number away from both sides.",
+        "id": "sns.sa.en.subtract-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.subtract.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.subtract.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Subtract 3 from both sides.",
+        "translation": "Trừ 3 ở cả hai vế.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.showcase.40",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Subtract 1, then divide by 2.",
+        "translation": "Trừ 1, rồi chia cho 2.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.subtract.verb.1",
+        "id": "lnk.sa.en.glossary.035",
+        "kind": "relation",
+        "toId": "sns.sa.vi.sides.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.subtract.verb.1",
+        "id": "lnk.sa.en.glossary.036",
+        "kind": "relation",
+        "toId": "sns.sa.vi.isolate.verb.1",
+        "type": "related_to"
+      }
+    ],
+    "5aeeebe1dc2e2e8031c677f9ac81e67c588051012ace2582d1456c3e4b7e6a33": [
+      {
+        "forms": [
+          "Hedging language",
+          "hedging_language"
+        ],
+        "id": "lex.sa.social.hedging_language",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hedging language",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.hedging_language.alt",
+          "sns.sa.social.hedging_language.alt.ja",
+          "sns.sa.social.hedging_language.alt.ko",
+          "sns.sa.social.hedging_language.alt.pt_br",
+          "sns.sa.social.hedging_language.alt.id",
+          "sns.sa.social.hedging_language.alt.th",
+          "sns.sa.social.hedging_language.alt.tr"
+        ]
+      },
+      {
+        "definition": "Soft words that mark your opinion as your opinion, such as 'maybe' or 'I could be wrong'. Useful in small doses.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1"
+        ],
+        "gloss": "Soft words that mark your opinion as your opinion, such as 'maybe' or 'I could be wrong'. Useful in small doses.",
+        "id": "sns.sa.social.hedging_language.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自分の意見であることを示す「かもしれない」「間違っているかもしれない」のような柔らかい表現。控えめに使うとCivilnessocker.graphic.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.ja"
+        ],
+        "gloss": "自分の意見に曖昧さを持たせるWordsや言い回し。",
+        "id": "sns.sa.social.hedging_language.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "‘아마도’나 ‘내가 틀릴 수도 있다’처럼 강한 주장을 완화하는 표현을 쓰는 방식이다. 적당히 쓰면civil하게 들리지만 너무 많으면 핵심을 흐릴 수 있다.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.ko"
+        ],
+        "gloss": "opinions가 자신의 견해임을 나타내는 완충 표현을 쓰는 말버릇이다.",
+        "id": "sns.sa.social.hedging_language.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recursos linguísticos que apresentam uma afirmação como opinionável ou possível, como “talvez” ou “posso estar errado”. Em pequenas quantidades, deixam a conversa mais cordial; em excesso, podem enfraquecer o argumento.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.pt_br"
+        ],
+        "gloss": "Expressões que suavizam uma opinião e mostram incerteza.",
+        "id": "sns.sa.social.hedging_language.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kata-kata atau ungkapan seperti “mungkin” dan “saya mungkin keliru” yang menunjukkan bahwa pendapat bukanlah fakta yang mutlak. Penggunaannya secukupnya menjaga komunikasi tetap ramah, tetapi terlalu banyak dapat menyembunyikan maksud.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.id"
+        ],
+        "gloss": "Ungkapan yang menandakan pendapat atau sikap seseorang masih dapat berubah.",
+        "id": "sns.sa.social.hedging_language.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ถ้อยคำที่ลดความฟันธงของข้อความ เช่น “อาจเป็นไปได้” หรือ “ฉันอาจจะผิดก็ได้” ใช้เล็กน้อยเพื่อรักษามารยาท แต่หากใช้มากเกินไปก็อาจทำให้จุดยืนไม่ชัดเจน",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.th"
+        ],
+        "gloss": "ถ้อยคำอ่อนโยนที่ทำให้ความเห็นของผู้พูดดูเป็นความคิดเห็นส่วนตัว",
+        "id": "sns.sa.social.hedging_language.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "“Belki”, “yanlış olabilirim” veya “bana göre” gibi ifadelerle söylenen, düşüncenin kesinlik derecesini yumuşatan sözcüklerdir. Az miktarda kullanılırsa saygılı bir ton verir, fazla kullanılırsa görüşü belirsizleştirir.",
+        "exampleIds": [
+          "exm.sa.social.hedging_language.1.1.tr"
+        ],
+        "gloss": "Görüşün yalnızca bir görüş olduğunu yumuşak ifadelerle belirten dil.",
+        "id": "sns.sa.social.hedging_language.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.hedging_language",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "Biraz çekimser dil söyleyişi nazik tutar; fazlası ise asıl fikrini saklar.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "การใช้ถ้อยคำถนอมเล็กน้อยทำให้ประโยคสุภาพขึ้น แต่ถ้าใช้มากเกินไปก็จะทำให้ความคิดเห็นของเราไม่ชัดเจน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "Sedikit bahasa pengattenan membuat kalimat tetap sopan, tetapi terlalu banyak dapat membuat maksud tidak jelas.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "Um pouco de linguagem atenuante mantém a conversa civil, mas seu excesso esconde o ponto principal.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "완충 표현을 조금 쓰면 문장이 정중해지지만 너무 많이 쓰면要点가 흐려진다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "少しの曖昧化表現は文章を穏やかにしますが、多すぎると要点がぼやけます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.hedging_language.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

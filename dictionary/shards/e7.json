@@ -1,0 +1,288 @@
+{
+  "records": {
+    "e70010359b58136d728e2a8946a1c5d271782fd3a754c653b6a6c2db662d853f": [
+      {
+        "id": "exp.sa.en.kick-the-bucket",
+        "kind": "expression",
+        "language": "en",
+        "pronunciationIds": [
+          "prn.sa.en.kick-the-bucket.gb",
+          "prn.sa.en.kick-the-bucket.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.ktb.die",
+          "sns.sa.en.ktb.alt"
+        ],
+        "text": "kick the bucket",
+        "type": "idiom",
+        "variants": [
+          "kicked the bucket"
+        ]
+      },
+      {
+        "definition": "Cách nói vòng về cái chết.",
+        "extensions": [
+          {
+            "fallback": {
+              "text": "No animation on this client."
+            },
+            "payload": {
+              "clip": "unused"
+            },
+            "schemaVersion": 1,
+            "type": "com.example.articulation-animation"
+          }
+        ],
+        "gloss": "chết (tu từ)",
+        "id": "sns.sa.en.ktb.die",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "exp.sa.en.kick-the-bucket",
+        "pos": "idiom",
+        "register": "informal",
+        "revision": 1
+      },
+      {
+        "definition": "An informal way of saying that someone has died.",
+        "gloss": "An informal way of saying that someone has died.",
+        "id": "sns.sa.en.ktb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "exp.sa.en.kick-the-bucket",
+        "pos": "",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.kick-the-bucket.gb",
+        "ipa": "/ˌkɪk ðə ˈbʌkɪt/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.kick-the-bucket.us",
+        "ipa": "/ˌkɪk ðə ˈbʌkɪt/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      }
+    ],
+    "e742b77851d6daca64b80513afb0dff9b789a98f335f25745fa5669526871fc7": [
+      {
+        "forms": [
+          "Yeast",
+          "yeast"
+        ],
+        "id": "lex.sa.kids_food.yeast",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Yeast",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_food.yeast.alt",
+          "sns.sa.kids_food.yeast.alt.ja",
+          "sns.sa.kids_food.yeast.alt.ko",
+          "sns.sa.kids_food.yeast.alt.pt_br",
+          "sns.sa.kids_food.yeast.alt.id",
+          "sns.sa.kids_food.yeast.alt.th",
+          "sns.sa.kids_food.yeast.alt.tr"
+        ]
+      },
+      {
+        "definition": "A tiny living fungus that eats sugar in the flour and makes gas.",
+        "exampleIds": [
+          "exm.sa.kids_food.yeast.1.1"
+        ],
+        "gloss": "A tiny living fungus that eats sugar in the flour and makes gas.",
+        "id": "sns.sa.kids_food.yeast.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_food.yeast",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "パンやケーキの生地で糖を分解し、炭酸ガスをつくる微生物。生地を発泡させるために使う。",
+        "exampleIds": [
+          "exm.sa.kids_food.yeast.1.1.ja"
+        ],
+        "gloss": "糖を食べて気体をつくる、小さな菌類。",
+        "id": "sns.sa.kids_food.yeast.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_food.yeast",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "녹말에 들어 있는 당을 먹고 이산화탄소를 만들어 반죽을 부풀게 하는 미생물이다. 빵이나 음료를 만들 때 사용한다.",
+        "exampleIds": [
+          "exm.sa.kids_food.yeast.1.1.ko"
+        ],
+        "gloss": "빵을 만들 때 재료를 부풀게 하는 작은 곰팡이.",
+        "id": "sns.sa.kids_food.yeast.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_food.yeast",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Fungo usado para fazer a massa crescer e produzir pão ou outros alimentos fermentados. Precisa ser ativado com água morna antes do uso.",
+        "exampleIds": [
+          "exm.sa.kids_food.yeast.1.1.pt_br"
+        ],
+        "gloss": "Pequeno fungo vivo que transforma o açúcar da massa em gás.",
+        "id": "sns.sa.kids_food.yeast.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_food.yeast",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Jamur mikroskopis yang hidup dengan memakan gula dan menghasilkan gas. Gas inilah yang menyebabkan adonan mengembang.",
+        "exampleIds": [
+          "exm.sa.kids_food.yeast.1.1.id"
+        ],
+        "gloss": "Jamur kecil yang mengubah gula menjadi gas.",
+        "id": "sns.sa.kids_food.yeast.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_food.yeast",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เชื้อราจิลาวนาขนาดเล็กที่กินน้ำตาลในแป้งและปล่อยก๊าซ จึงทำให้แป้งขยายตัวและฟูขึ้น",
+        "exampleIds": [
+          "exm.sa.kids_food.yeast.1.1.th"
+        ],
+        "gloss": "เชื้อราจิลาวนาขนาดเล็กที่ทำให้แป้งเกิดก๊าซ",
+        "id": "sns.sa.kids_food.yeast.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_food.yeast",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ekmek ve hamur işlerinde kullanılan bir tür küçük mantar. Şekeri kullanarak gaz üretir ve hamurun kabarmasını sağlar.",
+        "exampleIds": [
+          "exm.sa.kids_food.yeast.1.1.tr"
+        ],
+        "gloss": "Şekeri kullanıp gaz oluşturarak hamuru kabartan küçük canlı mantar.",
+        "id": "sns.sa.kids_food.yeast.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_food.yeast",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_food.yeast.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We woke up the yeast in warm water for ten minutes.",
+        "translation": "Mayayı ılık suda on dakika uyandırdık.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_food.yeast.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We woke up the yeast in warm water for ten minutes.",
+        "translation": "เรากระตุ้นยีสต์ในน้ำอุ่นสิบนาทีก่อนใช้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_food.yeast.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We woke up the yeast in warm water for ten minutes.",
+        "translation": "Kami mengaktifkan ragi dalam air hangat selama sepuluh menit.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_food.yeast.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We woke up the yeast in warm water for ten minutes.",
+        "translation": "Ativamos a levedura em água morna por dez minutos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_food.yeast.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We woke up the yeast in warm water for ten minutes.",
+        "translation": "우리는 따뜻한 물에서 효모를 열 분 동안 깨웠습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_food.yeast.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We woke up the yeast in warm water for ten minutes.",
+        "translation": "酵母を温水に入れ、十分待つと生地が膨らみ始めた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_food.yeast.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We woke up the yeast in warm water for ten minutes.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e7aaf7e3f6bfe2329569d9d1461939201ac80aac47f24523294e6ad5dcf46db2": [
+      {
+        "forms": [
+          "Lifelong learning"
+        ],
+        "id": "lex.sa.mind.lifelong_learning",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Lifelong learning",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.lifelong_learning.en",
+          "sns.sa.mind.lifelong_learning.vi"
+        ]
+      },
+      {
+        "definition": "The continuous practice of building and refreshing one's knowledge and skills throughout life.",
+        "exampleIds": [],
+        "gloss": "The continuous practice of building and refreshing one's knowledge and skills throughout life.",
+        "id": "sns.sa.mind.lifelong_learning.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.lifelong_learning",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Thực hành liên tục xây dựng và làm mớ i tri thức, kỹ năng của mình suốt cuộc đờ i.",
+        "id": "sns.sa.mind.lifelong_learning.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.lifelong_learning",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,582 @@
+{
+  "records": {
+    "1303c06b0b014d0ce7b988ab173a13f31227d417058ff4bbe6f8c222b4ad913c": [
+      {
+        "forms": [
+          "type",
+          "typed"
+        ],
+        "id": "lex.sa.en.type.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "type",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.type.noun.1",
+          "sns.sa.en.type-noun.alt"
+        ]
+      },
+      {
+        "definition": "Nhóm có cùng đặc điểm; cách phân loại một khối nội dung.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "loại; kiểu",
+        "id": "sns.sa.vi.type.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.type.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A category of things sharing the same characteristics.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "A class of things with shared characteristics.",
+        "id": "sns.sa.en.type-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.type.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "1310c06443042e331d0443b8220ac29acc1bdffd8dff932e560b5f0e8edb3329": [
+      {
+        "forms": [
+          "Small talk",
+          "small_talk"
+        ],
+        "id": "lex.sa.social.small_talk",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Small talk",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.small_talk.alt",
+          "sns.sa.social.small_talk.alt.ja",
+          "sns.sa.social.small_talk.alt.ko",
+          "sns.sa.social.small_talk.alt.pt_br",
+          "sns.sa.social.small_talk.alt.id",
+          "sns.sa.social.small_talk.alt.th",
+          "sns.sa.social.small_talk.alt.tr"
+        ]
+      },
+      {
+        "definition": "Short, friendly conversation with someone you do not know well. Its purpose is contact, not important information.",
+        "exampleIds": [
+          "exm.sa.social.small_talk.1.1"
+        ],
+        "gloss": "Short, friendly conversation with someone you do not know well. Its purpose is contact, not important information.",
+        "id": "sns.sa.social.small_talk.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.small_talk",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "住所や仕事など unimportantな話題を中心にした、短い社交的な会話を指す。重要な情報を交換することが主目的ではない。",
+        "exampleIds": [
+          "exm.sa.social.small_talk.1.1.ja"
+        ],
+        "gloss": "あまり詳しくない人と交わす短い，友好的な会話。",
+        "id": "sns.sa.social.small_talk.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.small_talk",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "천하지 않은 사람과 예의 차원에서 가볍게 나누는 짧은 대화다. 중요한 정보를 전달하기보다 친분이나 친밀감을 만드는 데 목적이 있다.",
+        "exampleIds": [
+          "exm.sa.social.small_talk.1.1.ko"
+        ],
+        "gloss": "사이가 어색한 사람과 나누는 짧고 친근한 대화.",
+        "id": "sns.sa.social.small_talk.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.small_talk",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É uma conversa leve usada para criar contato social, e não para discutir assuntos importantes ou transmitir informações relevantes.",
+        "exampleIds": [
+          "exm.sa.social.small_talk.1.1.pt_br"
+        ],
+        "gloss": "Conversa breve e amigável entre pessoas que ainda não se conhecem bem.",
+        "id": "sns.sa.social.small_talk.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.small_talk",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Obrolan ringan dipakai untuk berinteraksi dengan orang yang belum dikenal intimately atau belum lama apologized. Tujuannya adalah menjaga hubungan dan membuat suasana对一izi, bukan menyelesaikan persoalan penting.",
+        "exampleIds": [
+          "exm.sa.social.small_talk.1.1.id"
+        ],
+        "gloss": "Percakapan singkat dan ramah untuk membangun kontak sosial, bukan membahas informasi penting.",
+        "id": "sns.sa.social.small_talk.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.small_talk",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "บทสนทนาสั้น ๆ ระหว่างคนที่ยังไม่คุ้นเคยกันมาก มักมีจุดประสงค์เพื่อติดต่อสัมผัสมากกว่าการส่งข้อมูลสำคัญ",
+        "exampleIds": [
+          "exm.sa.social.small_talk.1.1.th"
+        ],
+        "gloss": "การพูดคุยสั้น ๆ อย่างเป็นมิตรเพื่อสร้างความสัมพันธ์",
+        "id": "sns.sa.social.small_talk.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.small_talk",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çoğunlukla hava durumu, günlük yaşam gibi konular üzerine yapılan, önemli bilgi aktarmaktan çok iletişim kurmayı amaçlayan kısa sohbettir.",
+        "exampleIds": [
+          "exm.sa.social.small_talk.1.1.tr"
+        ],
+        "gloss": "Tanımadığınız biriyle sürdürülen kısa ve dostça sohbettir.",
+        "id": "sns.sa.social.small_talk.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.small_talk",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.small_talk.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We had some small talk about the rain and ended up talking for an hour.",
+        "translation": "Yağmur hakkında biraz kısa sohbet ettik ve sonunda bir saat konuştuk.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.small_talk.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We had some small talk about the rain and ended up talking for an hour.",
+        "translation": "เราพูดคุยเรื่องฝนกันเล็ก ๆ น้อย ๆ แล้วสุดท้ายคุยกันยาวนานถึงหนึ่งชั่วโมง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.small_talk.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We had some small talk about the rain and ended up talking for an hour.",
+        "translation": "Kami melakukan obrolan ringan tentang hujan, lalu tanpa sadar mengobrol selama satu jam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.small_talk.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We had some small talk about the rain and ended up talking for an hour.",
+        "translation": "Tivemos uma conversa leve sobre a chuva e acabamos falando por uma hora.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.small_talk.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We had some small talk about the rain and ended up talking for an hour.",
+        "translation": "우리는 비话에 관한 잡담을 나눴다가 한 시간이나 이야기했습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.small_talk.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We had some small talk about the rain and ended up talking for an hour.",
+        "translation": "雨の話をcentreとした雑談から始まり，最終的に一時間話しました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.small_talk.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We had some small talk about the rain and ended up talking for an hour.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "1389f3b25d47932481dfaf8f523ded26ffab90bfc261b5787970e42e2776cb87": [
+      {
+        "forms": [
+          "Total compensation",
+          "total_compensation"
+        ],
+        "id": "lex.sa.work.total_compensation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Total compensation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.total_compensation.alt",
+          "sns.sa.work.total_compensation.alt.ja",
+          "sns.sa.work.total_compensation.alt.ko",
+          "sns.sa.work.total_compensation.alt.pt_br",
+          "sns.sa.work.total_compensation.alt.id",
+          "sns.sa.work.total_compensation.alt.th",
+          "sns.sa.work.total_compensation.alt.tr"
+        ]
+      },
+      {
+        "definition": "Everything you receive from a job: salary, bonus, allowances and benefits, not only the monthly pay.",
+        "exampleIds": [
+          "exm.sa.work.total_compensation.1.1"
+        ],
+        "gloss": "Everything you receive from a job: salary, bonus, allowances and benefits, not only the monthly pay.",
+        "id": "sns.sa.work.total_compensation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.total_compensation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "-released?",
+        "exampleIds": [
+          "exm.sa.work.total_compensation.1.1.ja"
+        ],
+        "gloss": "仕事から得られる賃金・賞与・諸手当・福利厚生を合わせた報酬。",
+        "id": "sns.sa.work.total_compensation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.total_compensation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기본급뿐 아니라 보너스, 수당, 복리후생과 기타 혜택을 모두 합한 금액이다. 매달 받는 급여만으로는 전체 보상을 알 수 없다.",
+        "exampleIds": [
+          "exm.sa.work.total_compensation.1.1.ko"
+        ],
+        "gloss": "직무에서 받는 모든 보상.",
+        "id": "sns.sa.work.total_compensation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.total_compensation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Remuneração total de um empregado, incluindo salário, bônus, adicionais e benefícios, e não apenas o pagamento mensal.",
+        "exampleIds": [
+          "exm.sa.work.total_compensation.1.1.pt_br"
+        ],
+        "gloss": "Conjunto de pagamentos e benefícios recebido pelo trabalho.",
+        "id": "sns.sa.work.total_compensation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.total_compensation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Keseluran imbalan dari suatu pekerjaan, termasuk gaji, bonus, tunjangan, dan manfaat. Istilah ini lebih luas daripada gaji yang dibayarkan setiap bulan.",
+        "exampleIds": [
+          "exm.sa.work.total_compensation.1.1.id"
+        ],
+        "gloss": "Seluruh imbalan yang diterima dari pekerjaan, bukan hanya gaji bulanan.",
+        "id": "sns.sa.work.total_compensation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.total_compensation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "รวมเงินเดือน โบนัส ค่าตำแหน่ง และสวัสดิการต่าง ๆ ไม่ใช่เฉพาะเงินที่ได้รับเดือน ๆ",
+        "exampleIds": [
+          "exm.sa.work.total_compensation.1.1.th"
+        ],
+        "gloss": "ผลตอบแทนทั้งหมดที่ได้รับจากงาน",
+        "id": "sns.sa.work.total_compensation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.total_compensation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Toplam ücret paketi; maaş, prim, ödeme, yakıt veya ulaşım yardımı ile sağlık sigortası gibi yararları kapsar, yalnızca aylık maaşı değil.",
+        "exampleIds": [
+          "exm.sa.work.total_compensation.1.1.tr"
+        ],
+        "gloss": "Bir işten alınan ücret, prim, ödeme ve yararların tümü.",
+        "id": "sns.sa.work.total_compensation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.total_compensation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.total_compensation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My total compensation is $1,650, including the transport allowance.",
+        "translation": "Toplam ücret paketim 1.650 dolar; bunun içinde ulaşım yardımı da var.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.total_compensation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My total compensation is $1,650, including the transport allowance.",
+        "translation": "ผลตอบแทนรวมของฉันอยู่ที่ 1,650 ดอลลาร์ รวมค่าเดินทางด้วย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.total_compensation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My total compensation is $1,650, including the transport allowance.",
+        "translation": "Kompensasi total saya Rp1.650.000, termasuk tunjangan transportasi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.total_compensation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My total compensation is $1,650, including the transport allowance.",
+        "translation": "Minha remuneração total é de 1.650 dólares, incluindo o adicional de transporte.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.total_compensation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My total compensation is $1,650, including the transport allowance.",
+        "translation": "제 총 보상은 월급 말고 수당과 복리후생까지 합쳐서 1,650달러입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.total_compensation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My total compensation is $1,650, including the transport allowance.",
+        "translation": "私の総報酬は、交通費の手当を含めて1650ドルです。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.total_compensation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My total compensation is $1,650, including the transport allowance.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "13bc62068879b0dfbf3b141e39e1581c568d44697a69ef0ecf2be243f470cfd0": [
+      {
+        "forms": [
+          "Fallacy",
+          "mia_fallacy"
+        ],
+        "id": "lex.sa.mind.mia_fallacy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Fallacy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mia_fallacy.alt",
+          "sns.sa.mind.mia_fallacy.alt.ja",
+          "sns.sa.mind.mia_fallacy.alt.ko",
+          "sns.sa.mind.mia_fallacy.alt.pt_br",
+          "sns.sa.mind.mia_fallacy.alt.th",
+          "sns.sa.mind.mia_fallacy.alt.tr",
+          "sns.sa.mind.mia_fallacy.alt.id"
+        ]
+      },
+      {
+        "definition": "An error in the shape of an argument, a move that breaks the reasoning instead of answering the claim.",
+        "exampleIds": [
+          "exm.sa.mind.mia_fallacy.1.1"
+        ],
+        "gloss": "An error in the shape of an argument, a move that breaks the reasoning instead of answering the claim.",
+        "id": "sns.sa.mind.mia_fallacy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mia_fallacy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "議論の組み立てや推論に論理的な誤りがあること。発言者が悪意を持っていたかどうかとは別の問題である。",
+        "exampleIds": [
+          "exm.sa.mind.mia_fallacy.1.1.ja"
+        ],
+        "gloss": "推論の構造や論理に誤りがある論法。",
+        "id": "sns.sa.mind.mia_fallacy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mia_fallacy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "논점을 검토하지 않고 논증의 구조나 추론 방식 때문에 잘못된 결론에 도달하는 오류이다. 이를 지적하는 것이 상대를 비하하는 것과는 다르다.",
+        "exampleIds": [
+          "exm.sa.mind.mia_fallacy.1.1.ko"
+        ],
+        "gloss": "논증의 구조나 추론에 나타나는 오류이다.",
+        "id": "sns.sa.mind.mia_fallacy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mia_fallacy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Raciocínio logicamente defeituoso que impede a demonstração de uma conclusão. O termoTndesigna o erro argumentativo, não a pessoa que o comete.",
+        "exampleIds": [
+          "exm.sa.mind.mia_fallacy.1.1.pt_br"
+        ],
+        "gloss": "Erro que compromete a estrutura de um argumento.",
+        "id": "sns.sa.mind.mia_fallacy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mia_fallacy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ข้อผิดพลาดเกี่ยวกับรูปแบบหรือโครงสร้างของการให้เหตุผล ซึ่งทำให้ข้อโต้แย้งไม่ตอบประเด็นที่ถกเถียง",
+        "exampleIds": [
+          "exm.sa.mind.mia_fallacy.1.1.th"
+        ],
+        "gloss": "ความผิดพลาดเชิงตรรกะ",
+        "id": "sns.sa.mind.mia_fallacy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mia_fallacy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir savın ya da akıl yürütmenin biçiminde bulunan hata; bu terim kişiyi değil, savın mantığını eleştirir.",
+        "exampleIds": [
+          "exm.sa.mind.mia_fallacy.1.1.tr"
+        ],
+        "gloss": "Argümanın akışını bozan ve sonucu geçersiz kılan mantık hatası.",
+        "id": "sns.sa.mind.mia_fallacy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mia_fallacy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kesalahan penalaran yang membuat sebuah argumen tidak sah atau tidak menjawab klaim yang sedang dibahas. Istilah ini menilai bentuk argumen, bukan orang yang mengemukakannya.",
+        "exampleIds": [
+          "exm.sa.mind.mia_fallacy.1.1.id"
+        ],
+        "gloss": "Kesalahan dalam cara reasoned-hakFLAGIL atau menyusun argumen.",
+        "id": "sns.sa.mind.mia_fallacy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mia_fallacy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mia_fallacy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Menyebut langkah tersebut sebagai kesalahan penalaran menjelaskan kelemahannya tanpa menghina orangnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mia_fallacy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu hamlenin mantık hatası olduğunu söylemek, kişiyi değil savın yapısını eleştirir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mia_fallacy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การเรียกข้อโต้แย้งนี้ว่าความผิดพลาดเชิงตรรกะเป็นการอธิบายรูปแบบของข้อโต้แย้ง ไม่ใช่การดูถูกผู้พูด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mia_fallacy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A casa de que o argumento é uma falácia não significa que o interlocutor seja uma pessoa ruim.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mia_fallacy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 주장을 논리적 오류라고 부르는 것은 그 사람을 비하하는 말이 아니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mia_fallacy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その議論を谬誤と呼ぶのは、論理的な誤りを示すことであり、発言者を侮辱することではありません。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mia_fallacy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Calling the move a fallacy describes it; it does not insult the person.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

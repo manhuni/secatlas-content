@@ -1,0 +1,1838 @@
+{
+  "records": {
+    "4017ae6f5fafcaaef1fa3b50382440c35dd96b34ea4ec456f1ee649254938b96": [
+      {
+        "forms": [
+          "Diesel exhaust fluid (AdBlue / DEF)",
+          "adblue"
+        ],
+        "id": "lex.sa.en.adblue",
+        "kind": "lexeme",
+        "lemma": "Diesel exhaust fluid (AdBlue / DEF)",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.adblue.alt"
+        ]
+      },
+      {
+        "definition": "The AdBlue tank is low or the fluid quality is wrong. Severity level 2 — Caution. Action: Refill the AdBlue tank soon; keep using a good quality fluid..",
+        "gloss": "The AdBlue tank is low or the fluid quality is wrong.",
+        "id": "sns.sa.en.adblue.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.adblue",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "4023e0ff45a7adc1e3941c08752c531d1e77b3e378001a4a5aa829aebe25a46d": [
+      {
+        "forms": [
+          "Sleep onset latency",
+          "sleep_onset_latency"
+        ],
+        "id": "lex.sa.health.sleep_onset_latency",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Sleep onset latency",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.sleep_onset_latency.alt",
+          "sns.sa.health.sleep_onset_latency.alt.ja",
+          "sns.sa.health.sleep_onset_latency.alt.ko",
+          "sns.sa.health.sleep_onset_latency.alt.pt_br",
+          "sns.sa.health.sleep_onset_latency.alt.id",
+          "sns.sa.health.sleep_onset_latency.alt.th",
+          "sns.sa.health.sleep_onset_latency.alt.tr"
+        ]
+      },
+      {
+        "definition": "The time between getting into bed and falling asleep. Under about twenty minutes is normal.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1"
+        ],
+        "gloss": "The time between getting into bed and falling asleep. Under about twenty minutes is normal.",
+        "id": "sns.sa.health.sleep_onset_latency.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "横になった時刻から実際に眠り始めるまでの時間を指す。一般には約二十分以内が目安で、それ以上の場合は不眠の原因になり得る。",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.ja"
+        ],
+        "gloss": "ベッドに入ってから眠りに落ちるまでの時間。",
+        "id": "sns.sa.health.sleep_onset_latency.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "침대에 들어간 순간부터 실제로 잠드는 때까지 걸리는 시간이다. 보통 20분 안팎이면 정상 범위로 본다.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.ko"
+        ],
+        "gloss": "침대에 든 뒤 잠들기까지 걸리는 시간.",
+        "id": "sns.sa.health.sleep_onset_latency.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o intervalo entre deitar-se e começar a dormir. Em geral, até cerca de vinte minutos é considerado normal.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.pt_br"
+        ],
+        "gloss": "Tempo que uma pessoa leva para adormecer depois de se deitar.",
+        "id": "sns.sa.health.sleep_onset_latency.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Latensi tidur adalah selisih waktu antara masuk ke tempat tidur dan memulai tidur. Kurang dari sekitar dua puluh menit umumnya masih dianggap normal, meskipun batasnya berbeda-beda bagi setiap orang.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.id"
+        ],
+        "gloss": "Waktu sejak masuk ke tempat tidur hingga akhirnya tertidur.",
+        "id": "sns.sa.health.sleep_onset_latency.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ระยะเวลาระหว่างการเข้านอนกับการเริ่มหลับจริง โดยทั่วไปไม่ควรนานเกินประมาณยี่สิบนาที",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.th"
+        ],
+        "gloss": "เวลาที่ใช้ตั้งแต่เข้านอนจนหลับจริง",
+        "id": "sns.sa.health.sleep_onset_latency.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kişinin yatağa girdiği an ile uykuya düştüğü an arasında geçen süredir; yaklaşık yirmi dakikadan kısa olması normal kabul edilir.",
+        "exampleIds": [
+          "exm.sa.health.sleep_onset_latency.1.1.tr"
+        ],
+        "gloss": "Yatağa girdikten sonra uykuya dalma süresidir.",
+        "id": "sns.sa.health.sleep_onset_latency.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.sleep_onset_latency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "Çoğu gece uykuya dalma gecikmem yaklaşık kırk dakika sürüyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "ระยะเวลาก่อนเข้าสู่การนอนหลับของฉันอยู่ที่ประมาณสี่สิบนาทีเกือบทุกคืน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "Latensi tidur saya sekitar empat puluh menit pada hampir setiap malam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "Minha latência de sono é de aproximadamente quarenta minutos na maioria das noites.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "대부분의 밤에 잠드는 데까지 약 40분이 걸립니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "最近，入眠潜時が四十分ほどあるので、受診を考えています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.sleep_onset_latency.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My sleep onset latency is about forty minutes, most nights.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "402f10c855c570bc6ecbb3098f730cc192dcaec6316f135a6aef9d9610f2ce53": [
+      {
+        "forms": [
+          "Bias",
+          "spec_bias"
+        ],
+        "id": "lex.sa.mind.spec_bias",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Bias",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.spec_bias.alt",
+          "sns.sa.mind.spec_bias.alt.ja",
+          "sns.sa.mind.spec_bias.alt.ko",
+          "sns.sa.mind.spec_bias.alt.pt_br",
+          "sns.sa.mind.spec_bias.alt.id",
+          "sns.sa.mind.spec_bias.alt.th",
+          "sns.sa.mind.spec_bias.alt.tr"
+        ]
+      },
+      {
+        "definition": "A habit of attention that leans one way, often without the person noticing.",
+        "exampleIds": [
+          "exm.sa.mind.spec_bias.1.1"
+        ],
+        "gloss": "A habit of attention that leans one way, often without the person noticing.",
+        "id": "sns.sa.mind.spec_bias.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.spec_bias",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "注意が一方向に偏る傾向で、本人が気づいていないoftenある。",
+        "exampleIds": [
+          "exm.sa.mind.spec_bias.1.1.ja"
+        ],
+        "gloss": "意識しないまま、一方へ向いた注意の癖。",
+        "id": "sns.sa.mind.spec_bias.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.spec_bias",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "관찰이나 판단의 방향이 한쪽으로 치우치는 경향으로, 본인이 인식하지 못하는 경우가 많다. 의도적인 편견과 달리 무의식적으로 나타날 수도 있다.",
+        "exampleIds": [
+          "exm.sa.mind.spec_bias.1.1.ko"
+        ],
+        "gloss": "관찰이나 판단이 한쪽으로 기울어지는 습관.",
+        "id": "sns.sa.mind.spec_bias.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.spec_bias",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tendência da atenção ou do julgamento a favorecer uma direção, frequentemente de modo não percebido. Não se limita a uma atitude hostil contra alguém.",
+        "exampleIds": [
+          "exm.sa.mind.spec_bias.1.1.pt_br"
+        ],
+        "gloss": "Hábito de atenção que se inclina para um lado, muitas vezes sem consciência.",
+        "id": "sns.sa.mind.spec_bias.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.spec_bias",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kebiasaan perhatian yang condong ke satu arah, sering tanpa disadari orangnya. Bias bukan maksud buruk; ia bisa muncul dari kebiasaan berpikir atau pengalaman.",
+        "exampleIds": [
+          "exm.sa.mind.spec_bias.1.1.id"
+        ],
+        "gloss": "Kebiasaan perhatian yang condong ke satu arah, sering tanpa disadari orangnya.",
+        "id": "sns.sa.mind.spec_bias.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.spec_bias",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แนวโน้มที่การใส่ใจและการมองของเราจะเอียงไปทางใดทางหนึ่งอย่างต่อเนื่อง และมักเกิดขึ้นโดยไม่รู้ตัว ทำให้พลาดข้อมูลสำคัญ",
+        "exampleIds": [
+          "exm.sa.mind.spec_bias.1.1.th"
+        ],
+        "gloss": "นิสัยของการตั้งใจมองที่เอียงไปทางหนึ่ง โดยมักไม่รู้ตัว",
+        "id": "sns.sa.mind.spec_bias.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.spec_bias",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kişinin seçimlerini, yorumlarını veya dikkatini belirli bir yöne kaydıran eğilim. Bilinçli bir tercihten farklı olarak çoğu zaman kişinin kendisi tarafından fark edilmez.",
+        "exampleIds": [
+          "exm.sa.mind.spec_bias.1.1.tr"
+        ],
+        "gloss": "Farkında olmadan bir yöne eğilen dikkat alışkanlığı.",
+        "id": "sns.sa.mind.spec_bias.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.spec_bias",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.spec_bias.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu eğilim müşteriye karşı değil, müşteriden uzaklaşmaya yöneliktir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.spec_bias.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "อคติไม่ได้เกิดกับลูกค้า แต่เกิดจากการมองไปทางอื่นแทนลูกค้า",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.spec_bias.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bias itu bukan terhadap pelanggan; ia menjauh dari pelanggan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.spec_bias.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O viés não é contra o cliente; é para longe do cliente.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.spec_bias.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 편향은 고객을 향한 것이 아니라, 고객에게서 멀어지는 방향의 것이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.spec_bias.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その偏りは顧客への敵意ではなく、顧客から注意を逸らす方向へworking。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.spec_bias.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bias is not against the customer; it is away from the customer.",
+        "translation": "Thiên lệch không hướng chống lại khách hàng; nó hướng ra xa khách hàng.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "405aa8c286dc0d1272429b9bd470fd927fc86c15c400ddc5443327e785d95a28": [
+      {
+        "forms": [
+          "Touch base",
+          "touch_base"
+        ],
+        "id": "lex.sa.work.touch_base",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Touch base",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.touch_base.alt",
+          "sns.sa.work.touch_base.alt.ja",
+          "sns.sa.work.touch_base.alt.ko",
+          "sns.sa.work.touch_base.alt.pt_br",
+          "sns.sa.work.touch_base.alt.id",
+          "sns.sa.work.touch_base.alt.th",
+          "sns.sa.work.touch_base.alt.tr"
+        ]
+      },
+      {
+        "definition": "To have a short conversation with someone about something.",
+        "exampleIds": [
+          "exm.sa.work.touch_base.1.1"
+        ],
+        "gloss": "To have a short conversation with someone about something.",
+        "id": "sns.sa.work.touch_base.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.touch_base",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "進行状況や必要な確認事項などを、短い会話で確認することをいう。深い議論を批量?",
+        "exampleIds": [
+          "exm.sa.work.touch_base.1.1.ja"
+        ],
+        "gloss": "ある事項について誰かとbrief?",
+        "id": "sns.sa.work.touch_base.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.touch_base",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "업무 진행 상황이나 특정 문제에 대해 짧게 서로的意见을 확인하는 행위이다. 길고 깊은 회의라는 뜻은 아니다.",
+        "exampleIds": [
+          "exm.sa.work.touch_base.1.1.ko"
+        ],
+        "gloss": "어떤 주제에 대해 짧게 대화를 나누는 것.",
+        "id": "sns.sa.work.touch_base.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.touch_base",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ter uma conversa breve sobre um assunto, geralmente para trocar informações ou combinar próximos passos.",
+        "exampleIds": [
+          "exm.sa.work.touch_base.1.1.pt_br"
+        ],
+        "gloss": "Fazer um alinhamento rápido com outra pessoa.",
+        "id": "sns.sa.work.touch_base.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.touch_base",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Melakukan percakapan singkat untuk bertukar kabar atau koordinasi, bukan menyentuh seseorang secara fisik. Tujuan dan durasinya biasanya sudah disepakati.",
+        "exampleIds": [
+          "exm.sa.work.touch_base.1.1.id"
+        ],
+        "gloss": "Berdiskusi singkat dengan seseorang tentang suatu hal.",
+        "id": "sns.sa.work.touch_base.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.touch_base",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ใช้เมื่อต้องการแลกเปลี่ยนข้อมูลหรือเช็กความคืบหน้าอย่างไม่เป็นทางการ โดยมักใช้เวลาไม่นาน",
+        "exampleIds": [
+          "exm.sa.work.touch_base.1.1.th"
+        ],
+        "gloss": "การพูดคุยสั้น ๆ เพื่อติดตามเรื่องหรือประสานงาน",
+        "id": "sns.sa.work.touch_base.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.touch_base",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kısa bir durum görüşmesi, bir işin ilerlemesini denetlemek veya bir konuyu kısaca ele almak amacıyla yapılır.",
+        "exampleIds": [
+          "exm.sa.work.touch_base.1.1.tr"
+        ],
+        "gloss": "Bir konu hakkında kısa ve genellikle düzenli bir görüşme.",
+        "id": "sns.sa.work.touch_base.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.touch_base",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.touch_base.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can we touch base on Thursday for fifteen minutes?",
+        "translation": "Perşembe günü on beş dakika ayırıp durum hakkında kısa bir görüşme yapabilir miyiz?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.touch_base.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can we touch base on Thursday for fifteen minutes?",
+        "translation": "เราจะพูดคุยสั้น ๆ เรื่องนี้กันวันพฤหัสบดีสิบห้านาทีได้ไหม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.touch_base.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can we touch base on Thursday for fifteen minutes?",
+        "translation": "Bisakah kita berdiskusi singkat tentang hal ini pada hari Kamis selama lima belas menit?",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.touch_base.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can we touch base on Thursday for fifteen minutes?",
+        "translation": "Podemos fazer um alinhamento na quinta-feira durante quinze minutos?",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.touch_base.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can we touch base on Thursday for fifteen minutes?",
+        "translation": "이번 프로젝트의 진행 상황을 짧게 확인해도 될까요?",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.touch_base.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can we touch base on Thursday for fifteen minutes?",
+        "translation": "木曜日に15分だけ、この件についてタッチベースできますか。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.touch_base.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Can we touch base on Thursday for fifteen minutes?",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "407b9ca1039b3dda2c236a8df223d24524fdd44bc59f17da04c73bb211592291": [
+      {
+        "forms": [
+          "Workaround",
+          "workaround"
+        ],
+        "id": "lex.sa.work.workaround",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Workaround",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.workaround.alt",
+          "sns.sa.work.workaround.alt.ja",
+          "sns.sa.work.workaround.alt.ko",
+          "sns.sa.work.workaround.alt.pt_br",
+          "sns.sa.work.workaround.alt.id",
+          "sns.sa.work.workaround.alt.th",
+          "sns.sa.work.workaround.alt.tr"
+        ]
+      },
+      {
+        "definition": "A way of working around a problem instead of fixing its cause.",
+        "exampleIds": [
+          "exm.sa.work.workaround.1.1"
+        ],
+        "gloss": "A way of working around a problem instead of fixing its cause.",
+        "id": "sns.sa.work.workaround.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.workaround",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "問題の原因を修正せずに，困難を避けて Kollisionための方法。acle.",
+        "exampleIds": [
+          "exm.sa.work.workaround.1.1.ja"
+        ],
+        "gloss": "問題の根本を直すのではなく，問題を回避して工作的方法。",
+        "id": "sns.sa.work.workaround.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.workaround",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "문제를 일으킨 원인을 바로잡지 않고 임시로 다른 방법을 써서 진행하는 해결책이다. 영구적인 해결책이나 정당한 방법이 아닐 수도 있다.",
+        "exampleIds": [
+          "exm.sa.work.workaround.1.1.ko"
+        ],
+        "gloss": "문제의 근본 원인이 아니라 우회하여 해결하는 방법.",
+        "id": "sns.sa.work.workaround.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.workaround",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Método que permite evitar ou contornar uma dificuldade sem eliminar a causa que a originou.",
+        "exampleIds": [
+          "exm.sa.work.workaround.1.1.pt_br"
+        ],
+        "gloss": "Solução alternativa usada para contornar um problema.",
+        "id": "sns.sa.work.workaround.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.workaround",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Solusi sementara untuk menjalankan pekerjaan atau sistem ketika masalah utamanya belum diperbaiki. Cara ini hanyaederação tambahan dan tidak menyelesaikan penyebab masalah.",
+        "exampleIds": [
+          "exm.sa.work.workaround.1.1.id"
+        ],
+        "gloss": "Cara melewati masalah tanpa menghilangkan penyebab sebenarnya.",
+        "id": "sns.sa.work.workaround.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.workaround",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "วิธีจัดการกับอาการของปัญหาหรือหลบเลี่ยงปัญหาไปชั่วคราว วิธีนี้ไม่ได้แก้ไขสาเหตุจริงของปัญหา",
+        "exampleIds": [
+          "exm.sa.work.workaround.1.1.th"
+        ],
+        "gloss": "วิธีหลบเลี่ยงหรือทำงานผ่านปัญหาโดยไม่ได้แก้ที่ต้นเหตุ",
+        "id": "sns.sa.work.workaround.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.workaround",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sorunu doğrudan ortadan kaldırmak yerine etkisini azaltan veya başka bir yöntemle devam etmeyi sağlayan çözümdür; genellikle geçicidir.",
+        "exampleIds": [
+          "exm.sa.work.workaround.1.1.tr"
+        ],
+        "gloss": "Sorunun asıl nedeni çözülmeden işe yarayan geçici çözüm.",
+        "id": "sns.sa.work.workaround.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.workaround",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.workaround.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The manual workaround is for us to check the total by hand every Friday.",
+        "translation": "Program çökünce toplamı elle kontrol etmek bir geçici çözümdür.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.workaround.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The manual workaround is for us to check the total by hand every Friday.",
+        "translation": "วิธีหลบเลี่ยงปัญหาคือตรวจยอดรวมด้วยมือทุกวันศุกร์",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.workaround.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The manual workaround is for us to check the total by hand every Friday.",
+        "translation": "Solusi sementara untuk masalah itu adalah memeriksa total dengan tangan setiap Jumat.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.workaround.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The manual workaround is for us to check the total by hand every Friday.",
+        "translation": "A solução alternativa é conferir o total manualmente toda sexta-feira.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.workaround.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The manual workaround is for us to check the total by hand every Friday.",
+        "translation": "수동적인 해결 방법은 매주 금요일마다 합계를 직접 확인하는 것이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.workaround.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The manual workaround is for us to check the total by hand every Friday.",
+        "translation": "手作業での回避策としては，毎週金曜日に合計を自分で確認することがある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.workaround.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The manual workaround is for us to check the total by hand every Friday.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "40823c3c520aea326d6c7b0cf5e6af6558a93512cb500fde0db513567db85c5d": [
+      {
+        "forms": [
+          "Ask for help",
+          "ask_for_help"
+        ],
+        "id": "lex.sa.kids_feelings.ask_for_help",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Ask for help",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_feelings.ask_for_help.alt",
+          "sns.sa.kids_feelings.ask_for_help.alt.ja",
+          "sns.sa.kids_feelings.ask_for_help.alt.ko",
+          "sns.sa.kids_feelings.ask_for_help.alt.pt_br",
+          "sns.sa.kids_feelings.ask_for_help.alt.id",
+          "sns.sa.kids_feelings.ask_for_help.alt.th",
+          "sns.sa.kids_feelings.ask_for_help.alt.tr"
+        ]
+      },
+      {
+        "definition": "To say out loud that you need it. It is not the same as complaining.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.ask_for_help.1.1"
+        ],
+        "gloss": "To say out loud that you need it. It is not the same as complaining.",
+        "id": "sns.sa.kids_feelings.ask_for_help.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_feelings.ask_for_help",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自分にはできないEquipや作業を手伝ってほしいと，明確に伝えること。不平を訴えるのとは区別される。",
+        "exampleIds": [
+          "exm.sa.kids_feelings.ask_for_help.1.1.ja"
+        ],
+        "gloss": "必要な助けを口頭で頼むこと。愚痴や不満を言うこととは異なる。",
+        "id": "sns.sa.kids_feelings.ask_for_help.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_feelings.ask_for_help",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "다른 사람의 도움을 필요로 한다는 사실을 분명히 알리며 요청하는 행동을 한다. 불평이나 명령으로 표현하는 것과는 다르다.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.ask_for_help.1.1.ko"
+        ],
+        "gloss": "자신에게 도움이 필요하다고 또렷하게 말하다.",
+        "id": "sns.sa.kids_feelings.ask_for_help.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_feelings.ask_for_help",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Manifestação clara de que se precisa de ajuda; unlike uma reclamação, expressa uma necessidade em vez de apenas搞清楚 ou contestar algo.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.ask_for_help.1.1.pt_br"
+        ],
+        "gloss": "Ação de solicitar assistance a outra pessoa.",
+        "id": "sns.sa.kids_feelings.ask_for_help.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_feelings.ask_for_help",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ungkapan atau permintaan yang disampaikan secara langsung ketika seseorang memerlukan bantuan. Keadaan ini berbeda dari keluhan, yang biasanya hanya menyampaikan masalah tanpa meminta pertolongan.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.ask_for_help.1.1.id"
+        ],
+        "gloss": "Menyatakan dengan terang bahwa seseorang membutuhkan bantuan.",
+        "id": "sns.sa.kids_feelings.ask_for_help.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_feelings.ask_for_help",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การแจ้งอย่างตรงไปตรงมาว่าตนต้องการความช่วยเหลือ ซึ่งต่างจากการบ่นหรือร้องเรียน",
+        "exampleIds": [
+          "exm.sa.kids_feelings.ask_for_help.1.1.th"
+        ],
+        "gloss": "การบอกออกเสียงว่าต้องการความช่วยเหลือ",
+        "id": "sns.sa.kids_feelings.ask_for_help.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_feelings.ask_for_help",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişiden yardım istediğini açıkça belirtme eylemidir. Şikâyetten farklı olarak kişinin neye ihtiyaç duyduğunu doğrudan söyler.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.ask_for_help.1.1.tr"
+        ],
+        "gloss": "Yardım isteme; ihtiyaç duyduğunu açıkça söyleme.",
+        "id": "sns.sa.kids_feelings.ask_for_help.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_feelings.ask_for_help",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_feelings.ask_for_help.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I asked for help and she came straight away.",
+        "translation": "Merdivenden taşımam için arkadaşımdan yardım istedim.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_feelings.ask_for_help.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I asked for help and she came straight away.",
+        "translation": "ฉันขอความช่วยเหลือและเธอก็มาช่วยทันที",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_feelings.ask_for_help.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I asked for help and she came straight away.",
+        "translation": "Saya meminta bantuan, dan dia langsung datang.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_feelings.ask_for_help.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I asked for help and she came straight away.",
+        "translation": "Quando percebi que não conseguia continuar, fiz um pedido de ajuda e ela veio imediatamente.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_feelings.ask_for_help.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I asked for help and she came straight away.",
+        "translation": "나는 도움을 요청했고 그녀는 바로 왔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_feelings.ask_for_help.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I asked for help and she came straight away.",
+        "translation": "助けを頼んだら，彼女はすぐに来てくれた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_feelings.ask_for_help.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I asked for help and she came straight away.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "408fd2300df0dac0f9a9c32777792de7d243dbb1beb71450fce1fbb344ccec57": [
+      {
+        "forms": [
+          "cancel",
+          "cancels",
+          "canceled",
+          "cancelled",
+          "canceling",
+          "cancelling"
+        ],
+        "id": "lex.sa.en.cancel.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "cancel",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.cancel.verb",
+          "prn.sa.en.cancel.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.cancel.verb.1",
+          "sns.sa.en.cancel-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.cancel-verb",
+        "id": "prn.sa.en.cancel.verb",
+        "ipa": "/ˈkænsl/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.cancel.verb.us",
+        "ipa": "/ˈkæn.səl/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Loại hạng tử giống nhau ở hai vế hoặc tử và mẫu.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.cancel.verb.1.1",
+          "exm.sa.en.cancel-verb.more.01",
+          "exm.sa.en.cancel-verb.more.02"
+        ],
+        "gloss": "rút gọn; triệt tiêu",
+        "id": "sns.sa.vi.cancel.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.cancel.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.cancel-verb",
+          "res.sa.aud.cancel-verb",
+          "res.sa.lnk.cancel-verb",
+          "res.sa.vid.cancel-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Informal for divide both sides by the same factor. Prefer the precise verb.",
+        "exampleIds": [
+          "exm.sa.en.cancel.verb.1.1"
+        ],
+        "gloss": "Informal for divide both sides by the same factor. Prefer the precise verb.",
+        "id": "sns.sa.en.cancel-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.cancel.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.cancel.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The +3 and −3 cancel on the left side.",
+        "translation": "+3 và −3 triệt tiêu ở vế trái.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.cancel.verb.1",
+        "id": "lnk.sa.en.glossary.067",
+        "kind": "relation",
+        "toId": "sns.sa.vi.subtract.verb.1",
+        "type": "related_to"
+      }
+    ],
+    "40961b2f78daa25d1e47d9bf8d22d10a9d93c712a4887b45cb05336098f2bdca": [
+      {
+        "forms": [
+          "substitute",
+          "substitutes",
+          "substituted",
+          "substituting"
+        ],
+        "id": "lex.sa.en.substitute.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "substitute",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.substitute.verb",
+          "prn.sa.en.substitute.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.substitute.verb.1",
+          "sns.sa.en.substitute-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.substitute-verb",
+        "id": "prn.sa.en.substitute.verb",
+        "ipa": "/ˈsʌbstɪtjuːt/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.substitute.verb.us",
+        "ipa": "/ˈsʌb.stə.tuːt/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Thay một giá trị vào chỗ biến để tính hoặc kiểm tra.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.substitute.verb.1.1",
+          "exm.sa.en.substitute-verb.more.01",
+          "exm.sa.en.substitute-verb.more.02"
+        ],
+        "gloss": "thế",
+        "id": "sns.sa.vi.substitute.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.substitute.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.substitute-verb",
+          "res.sa.aud.substitute-verb",
+          "res.sa.lnk.substitute-verb",
+          "res.sa.vid.substitute-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Replace the variable with the proposed solution.",
+        "exampleIds": [
+          "exm.sa.en.substitute.verb.1.1"
+        ],
+        "gloss": "Replace the variable with the proposed solution.",
+        "id": "sns.sa.en.substitute-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.substitute.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.substitute.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Substitute x = 4 into 2x + 3.",
+        "translation": "Thế x = 4 vào 2x + 3.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.substitute.verb.1",
+        "id": "lnk.sa.en.glossary.074",
+        "kind": "relation",
+        "toId": "sns.sa.vi.check.verb.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.substitute.verb.1",
+        "id": "lnk.sa.en.glossary.075",
+        "kind": "relation",
+        "toId": "sns.sa.vi.solution.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "40af2ef6c7ed515087189f58568910781b693a690e12154b1f82ae670e21a2f7": [
+      {
+        "forms": [
+          "Coolant level",
+          "coolant_level"
+        ],
+        "id": "lex.sa.en.coolant.level",
+        "kind": "lexeme",
+        "lemma": "Coolant level",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.coolant.level.alt"
+        ]
+      },
+      {
+        "definition": "The coolant level is too low. Severity level 2 — Caution. Action: Top up the coolant when the engine is cold..",
+        "gloss": "The coolant level is too low.",
+        "id": "sns.sa.en.coolant.level.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.coolant.level",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "40baaa9da5b73e0caf8204f31f43fb76803da0b372910007f3a61466175af12b": [
+      {
+        "forms": [
+          "Whataboutism",
+          "mia_whataboutism"
+        ],
+        "id": "lex.sa.mind.mia_whataboutism",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Whataboutism",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mia_whataboutism.alt",
+          "sns.sa.mind.mia_whataboutism.alt.ko",
+          "sns.sa.mind.mia_whataboutism.alt.pt_br",
+          "sns.sa.mind.mia_whataboutism.alt.id",
+          "sns.sa.mind.mia_whataboutism.alt.th",
+          "sns.sa.mind.mia_whataboutism.alt.tr",
+          "sns.sa.mind.mia_whataboutism.alt.ja"
+        ]
+      },
+      {
+        "definition": "The turning of an answer into an answer about somebody else.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1"
+        ],
+        "gloss": "The turning of an answer into an answer about somebody else.",
+        "id": "sns.sa.mind.mia_whataboutism.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "비난을 받으면 질문에 답하지 않고 다른 사람의 잘못이나 행적을 지적하는 수법이다. 상대의 행동을 문제 삼는 것과, 그 행동을 이용해 자기 비난을 피하는 것은 다르다.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.ko"
+        ],
+        "gloss": "비난을 상대방의 잘못으로 돌리는 반박.",
+        "id": "sns.sa.mind.mia_whataboutism.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recurso de responder a uma pergunta com uma acusação sobre outra pessoa, em vez de responder ao que foi perguntado; não resolve nada.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.pt_br"
+        ],
+        "gloss": "A transformação de uma resposta em uma resposta sobre outra pessoa.",
+        "id": "sns.sa.mind.mia_whataboutism.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Taktik mengubah atau mengalihkan jawaban dengan membicarakan orang atau hal lain. Taktik ini sering digunakan untuk menghindari pertanyaan yang sedang dibahas.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.id"
+        ],
+        "gloss": "Mengalihkan jawaban dengan membicarakan orang lain.",
+        "id": "sns.sa.mind.mia_whataboutism.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การตอบคำถามโดยหันกลับไปกล่าวหาหรือชี้ข้อผิดของอีกฝ่ายแทนที่จะตอบ ซึ่งมักเป็นการหลบเลี่ยงประเด็นเดิม",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.th"
+        ],
+        "gloss": "การเบี่ยงประเด็นไปกล่าวหาอีกฝ่าย",
+        "id": "sns.sa.mind.mia_whataboutism.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Soruya karşılık, başkasının da aynı davranışta bulunduğunu belirterek verilen yanıt. Asıl soruyu yanıtlamaz ve konuyu başka bir kişiye kaydırır.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.tr"
+        ],
+        "gloss": "Bir soruya yanıt vermek yerine karşı tarafın davranışını gösterme yöntemi.",
+        "id": "sns.sa.mind.mia_whataboutism.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "名詞。「君もだ」などの言葉で相手の同罪を強調することで、問いかけを自分への攻撃へ変える論法。",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.ja"
+        ],
+        "gloss": "元の問いに答えず、相手の過ちを話題にして自分の責任を回避する論法。",
+        "id": "sns.sa.mind.mia_whataboutism.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "「去年は同じことをしただろ」はなつもり論で、元の問いには答えていない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "“Geçen yıl sen de aynısını yaptın” demek whataboutism örneğidir; çünkü soruyu yanıtlamaz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คำตอบว่า “เมื่อปีที่แล้วคุณก็ทำแบบเดียวกัน” เป็นการเบี่ยงประเด็นที่ไม่ได้ตอบคำถาม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kamu melakukan hal yang sama tahun lalu adalah pengalihan karena tidak menjawab pertanyaan yang diberikan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "\"Você fez a mesma coisa no ano passado\" é whataboutism: não responde a nada.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "‘작년에 너도 같은 실수를 했잖아’는 비난을 상대에게로 돌리는 반박이어서 원래 질문에는 답하지 않았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You did the same thing last year is whataboutism: it answers nothing.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "40c1bc0c70355798a61f4e252e845257f00bd26166ac3cd40faa531f188441a1": [
+      {
+        "forms": [
+          "Anode rod",
+          "wh_anode_rod"
+        ],
+        "id": "lex.sa.daily_skills.wh_anode_rod",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Anode rod",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.wh_anode_rod.alt",
+          "sns.sa.daily_skills.wh_anode_rod.alt.ja",
+          "sns.sa.daily_skills.wh_anode_rod.alt.ko",
+          "sns.sa.daily_skills.wh_anode_rod.alt.pt_br",
+          "sns.sa.daily_skills.wh_anode_rod.alt.id",
+          "sns.sa.daily_skills.wh_anode_rod.alt.th",
+          "sns.sa.daily_skills.wh_anode_rod.alt.tr"
+        ]
+      },
+      {
+        "definition": "A rod of metal that corrodes instead of the tank, so that the tank wall is saved.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_anode_rod.1.1"
+        ],
+        "gloss": "A rod of metal that corrodes instead of the tank, so that the tank wall is saved.",
+        "id": "sns.sa.daily_skills.wh_anode_rod.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.wh_anode_rod",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "電気化学的な腐食によって、タンク本体ではなく先に-consuming金属棒。腐食が進んで細くなった Inspection後に交換する。",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_anode_rod.1.1.ja"
+        ],
+        "gloss": "タンクの代わりに腐食する金属棒。",
+        "id": "sns.sa.daily_skills.wh_anode_rod.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.wh_anode_rod",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "물에 담긴 금속의 부식을 대신받는 금속 막대이다. 탱크 벽이 부식되지 않도록 정기적으로 검사하고 소모되면 교체한다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_anode_rod.1.1.ko"
+        ],
+        "gloss": "탱크 대신 부식되게 하여 탱크를 보호하는 금속 막대.",
+        "id": "sns.sa.daily_skills.wh_anode_rod.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.wh_anode_rod",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Barra de metal reagente que se corrói sacrificialmente, evitando a corrosão da parede do tanque.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_anode_rod.1.1.pt_br"
+        ],
+        "gloss": "Barra metálica que se corrói no lugar do tanque, preservando sua parede.",
+        "id": "sns.sa.daily_skills.wh_anode_rod.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.wh_anode_rod",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Batang logam yang sengaja berkarat untuk melindungi dinding tangki dari korosi, lalu diganti setelah habis.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_anode_rod.1.1.id"
+        ],
+        "gloss": "Batang logam yang berkarat sehingga melindungi dinding tangki dari korosi.",
+        "id": "sns.sa.daily_skills.wh_anode_rod.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.wh_anode_rod",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แท่งโลหะที่ถูกกร่อนแทนผนังถัง โดยต้องตรวจสอบและเปลี่ยนเมื่อสึกจนเกือบหมด",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_anode_rod.1.1.th"
+        ],
+        "gloss": "แท่งโลหะที่ถูกกร่อนแทนผนังถังเพื่อปกป้องถัง",
+        "id": "sns.sa.daily_skills.wh_anode_rod.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.wh_anode_rod",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Katkodik koruma yönteminde, deponun metal duvarı yerine önce aşınan ve aşındıkça değiştirilen metal çubuk.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_anode_rod.1.1.tr"
+        ],
+        "gloss": "Depo duvarı yerine aşınarak korozyona uğrayan metal çubuk.",
+        "id": "sns.sa.daily_skills.wh_anode_rod.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.wh_anode_rod",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_anode_rod.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Anot çubuğu her bakımda kontrol edilir ve aşındığında değiştirilir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_anode_rod.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "แท่งแอโนดได้รับการตรวจสอบทุกครั้งที่บำรุงรักษาและเปลี่ยนใหม่เมื่อสึกจนเกือบหมด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_anode_rod.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Batang anoda diperiksa setiap pemeliharaan dan diganti ketika sudah terkikis.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_anode_rod.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O ânodo de sacrifício é verificado a cada manutenção e substituído quando está consumido.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_anode_rod.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "양극 막대는 정기 점검 때마다 확인하며 닳으면 교체한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_anode_rod.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "アノード棒は点検のたびに調べ、摩耗していれば交換する。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_anode_rod.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The anode rod is checked at every service and replaced when it is worn away.",
+        "translation": "Quey trục anốt được kiểm tra mỗi lần bảo dưỡng và thay khi đã mòn hết.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "40d1f6b8dd815d77515ffce73a76aef55df36e5b01cf83e7716fb832734b687f": [
+      {
+        "forms": [
+          "expectation",
+          "er_expectation"
+        ],
+        "id": "lex.sa.social.er_expectation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "expectation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.er_expectation.alt",
+          "sns.sa.social.er_expectation.alt.ja",
+          "sns.sa.social.er_expectation.alt.ko",
+          "sns.sa.social.er_expectation.alt.pt_br",
+          "sns.sa.social.er_expectation.alt.id",
+          "sns.sa.social.er_expectation.alt.th",
+          "sns.sa.social.er_expectation.alt.tr"
+        ]
+      },
+      {
+        "definition": "A belief about what will happen if you say nothing and do nothing about it.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation.1.1"
+        ],
+        "gloss": "A belief about what will happen if you say nothing and do nothing about it.",
+        "id": "sns.sa.social.er_expectation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.er_expectation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある状況发生时、口にしなければ，“do nothing” 则处于 if 何か起きると信じているという态度。Oftenと同じ「期待」を意味するがtextstyle。",
+        "exampleIds": [
+          "exm.sa.social.er_expectation.1.1.ja"
+        ],
+        "gloss": "何もせずに待つと何が起きると信じること。",
+        "id": "sns.sa.social.er_expectation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.er_expectation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "아무것도 말하거나 하지 않았을 때 어떤 일이 일어날 것이라고 믿는 기대. 실제로 어떤 결과가 생기리라 여기는 심리를 뜻한다.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation.1.1.ko"
+        ],
+        "gloss": "아무것도 하지 않을 때 어떻게 될 것이라고 믿는 기대.",
+        "id": "sns.sa.social.er_expectation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.er_expectation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Crença sobre a reação ou o desfecho esperado de uma situação, mesmo sem uma ação evidente. Em relações interpessoais, essa crença orienta como a pessoa compreende a conduta de outra.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation.1.1.pt_br"
+        ],
+        "gloss": "A crença sobre o que acontecerá se ninguém disser nem fizer nada.",
+        "id": "sns.sa.social.er_expectation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.er_expectation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam hubungan antarmanusia, ekspektasi adalah perkiraan tentang hasil suatu keadaan atau tindakan orang lain. Keyakinan ini mungkin tidak disadari dan harus diperiksa melalui komunikasi.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation.1.1.id"
+        ],
+        "gloss": "Keyakinan tentang apa yang akan terjadi jika tidak ada tindakan yang dilakukan.",
+        "id": "sns.sa.social.er_expectation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.er_expectation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความคาดหมายเกี่ยวกับผลลัพธ์หรือปฏิกิริยาของอีกฝ่าย โดยเฉพาะเมื่อไม่ได้สื่อสารหรือดำเนินการให้ชัดเจน",
+        "exampleIds": [
+          "exm.sa.social.er_expectation.1.1.th"
+        ],
+        "gloss": "ความเชื่อว่าจะเกิดอะไรขึ้นหากไม่พูดหรือไม่ทำอะไร",
+        "id": "sns.sa.social.er_expectation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.er_expectation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir durumda susmak ve hareketsiz kalmak karşısında başkasının nasıl tepki vereceğine dair varsayımdır. Beklenen sonuç açıkça bildirilmemiş olabilir.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation.1.1.tr"
+        ],
+        "gloss": "Hiçbir şey söyleyip yapılmadığında ne olacağına ilişkin inanç.",
+        "id": "sns.sa.social.er_expectation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.er_expectation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.er_expectation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bir ret geldiğinde beraberinde bir alternatif de sunulacağına ilişkin beklentisi vardı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.er_expectation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอคาดว่าคำขอปฏิเสธจะมาพร้อมทางเลือกอื่น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.er_expectation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ekspektasinya adalah bahwa setiap penolakan akan disertai dengan pilihan lain.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.er_expectation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A expectativa dela era que uma recusa viesse acompanhada de uma alternativa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.er_expectation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 거절과 함께 다른 대안이 제시될 것이라고 기대했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.er_expectation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女が拒絶された場合に代案も提示されると期待していた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.er_expectation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her expectation was that a refusal would come with an alternative.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "40f4b99e0d59d9c9be995827b902c5da3bda4a0e7087f08f3cfd2811ac6e3056": [
+      {
+        "forms": [
+          "Competence shaming",
+          "cs_competence_shaming"
+        ],
+        "id": "lex.sa.mind.cs_competence_shaming",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Competence shaming",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_competence_shaming.alt",
+          "sns.sa.mind.cs_competence_shaming.alt.ja",
+          "sns.sa.mind.cs_competence_shaming.alt.ko",
+          "sns.sa.mind.cs_competence_shaming.alt.pt_br",
+          "sns.sa.mind.cs_competence_shaming.alt.id",
+          "sns.sa.mind.cs_competence_shaming.alt.th",
+          "sns.sa.mind.cs_competence_shaming.alt.tr"
+        ]
+      },
+      {
+        "definition": "Raising your own standing by showing that another person cannot do the work.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1"
+        ],
+        "gloss": "Raising your own standing by showing that another person cannot do the work.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "相手が仕事をodusる能力がないことを示し、それによって自分の立場や評価を高める行為。",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.ja"
+        ],
+        "gloss": "他人の業務能力の不足を示して、自分の地位を高めること。",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "다른 사람이 일을 해내지 못한다고 보여서 자신의 위치를 높이는 행위. 단순히 실수를 지적하는 것과는 달리 상대를 격하시켜 자신의 우위를 얻는 수 있다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.ko"
+        ],
+        "gloss": "상대의 능력을 낮추어 자신의 우위를 드러내는 행위.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estratégia de elevar a própria posição mostrando que outra pessoa é incapaz de executar uma tarefa. Pode atingir a reputação profissional da pessoa atacada, mesmo que ela tenha cometido um erro real.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.pt_br"
+        ],
+        "gloss": "Ataque que desqualifica a competência de outra pessoa para elevar a própria.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Cara meningkatkan kedudukan sendiri dengan menunjukkan bahwa orang lain tidak mampu melakukan pekerjaan yang sedang dibahas. Hal ini membuat kesalahan nyata menjadi alasan untuk merendahkan seseorang di depan orang lain.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.id"
+        ],
+        "gloss": "Penghinaan atas kemampuan orang lain untuk meningkatkan kedudukan sendiri.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การใช้ข้อผิดพลาดหรือความไม่สามารถของผู้อื่นเพื่อเพิ่มความน่าเคารพของตน โดยเฉพาะเมื่อทำหน้าต่อหน้าผู้อื่น",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.th"
+        ],
+        "gloss": "การยกย่องความสามารถของตนโดยทำให้ผู้อื่นดูไม่มีความสามารถ",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin, başka birinin yeteneksiz olduğunu ortaya koyarak kendi saygınlığını ve konumunu artırması. Eleştiri, mesleki yeterliliğin değil, kişinin itibarının karşısında yapılır.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.tr"
+        ],
+        "gloss": "Başkasının işi yapamadığını göstererek kendi konumunu yükseltme.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu, yetkinlikle küçümsemeydi: gerçek bir hata, ekibin önünde onu aşağılamak için kullanıldı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "นั่นคือการทำให้ผู้อื่นอับอายเพราะความไม่สามารถ โดยนำข้อผิดพลาดจริงมาเป็นเหตุผลให้เธอต่ำต้ำหน้าทีม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Itu merupakan penghinaan atas kemampuan: kesalahan nyata dijadikan alasan untuk merendahninya di depan tim.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Foi uma desqualificação por incompetência: um erro real serviu para rebaixá-la diante da equipe.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그건 능력 망신을 이용한 우위 과시였다. 실제 실수가 팀 앞에서 그 사람을 낮추는 구실이 되었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "これは能力貶しめだった。実際の誤りが、チームの面前で彼女を贬す理由になった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was competence shaming: a real error became the reason to put her down in front of the team.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

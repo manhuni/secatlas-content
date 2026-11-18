@@ -1,0 +1,79 @@
+{
+  "language": "tr",
+  "lessonId": "article_illusion_skill",
+  "objectives": [
+    "Araçların ürettiği sonuçlar ile gerçek yetenek arasındaki farkı açıklayın.",
+    "Ödünç alınan yetkinliği tanımla ve kendinizde fark et.",
+    "Aşırı güven yanlılığını ve otomasyon yanlılığını açıklayın.",
+    "Araçlar işi yaptığında becerinin nasıl körelendiğini gösterin.",
+    "Yetenekleriniz hakkında dürüst bir tablo korumak için kalibrasyon uygulamalarını kullanın."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Modern araçlar o kadar yetenekli ki temel bir ayrımı bulanlıklaştırıyorlar: sizin yapabildiğiniz şey ile araçlarınızın yapabildiği şey arasındaki farkı. AI görsel araçları kullanan bir tasarımcı etkileyici görseller üretiyor. AI asistanları kullanan bir geliştirici, özellikleri saatler içinde yayına alıyor. Otomasyon kullanan bir analist, geçen hafta bir ekibin bir haftada hazırladığı raporları üretiyor.\n\nÇıktı belirli bir anlamda gerçekten onların; çünkü onlar bu çıktıya yön verdiler. Ancak çıktıyı üreten yetenek büyük ölçüde araçta yaşıyor. Araç değiştiğinde, ortadan kaybolduğunda ya da eğitiminin dışında bir sorunla karşılaştığında fark ortaya çıkıyor. Dün profesyonel iş üreten kişi bugün kabul edilebilir iş üretemiyor.\n\nBu, becerinin yanılsaması: yetkinlik hissini aracın performansından ödünç almak. Bu dürüstsüzlük değil. Güçlü bir makineyi yönetmek ile güçlü bir makine olmak arasındaki doğal bir karışıklık.",
+      "examples": [
+        "Sensörlü araçlarıyla lüks bir arabanın sürücüsü, iyi park ettiğine inanıyor — sensörsüz bir aracı paralel park etmek zorunda kalana kadar."
+      ],
+      "heading": "Araçların özgeçmişi"
+    },
+    {
+      "body": "Ödünç alınmış yetkinlik, sessiz bir mekanizma yoluyla tehlikeli hâle gelir. Bir araçla elde edilen her başarı, yetkinliği artırdığından daha çok güveni artırır. Güven daha büyük meydan okumalara cesaret verir; araç genellikle bunların da üstesinden gelir — ta ki gelmez ve meydan okuma, altındaki yetkinlikten çok daha büyük olur.\n\nBirikim toplumsal olarak da gerçekleşir. Unvanlar, portfolyolar ve referanslar, araç destekli sonuçların çevresinde birikir. Kimse kandırmayı kastetmez; kayıt, kişinin tek başına yeniden üretemeyeceği işlerle sessizce dolar. Gerçek bir test geldiğinde — bir görüşme, bir acil durum, neden diye soran bir client — gösterilen yetkinlikle sahip olunan yetkinlik arasındaki fark, rezillikle ya da daha kötüsüyle ölçülür.\n\nDürüst alternatif, araçları bırakmak değildir. Özel bir defter tutmaktır: bu sonucun hangi kısımlarını, şu anda, hafif baskı altında, yardımsız yeniden üretebilirim? Yanıt, becerilerini nasıl sunduğunu, neye gönüllü olduğunu ve sırada ne çalışacağını değiştirir.",
+      "examples": [
+        "Geliştirici, AI-written take-home testlerle görüşmelerde başarı elde etti, ancak basit bir sistemi whiteboard üzerinde çizmesi istendiğinde dondu."
+      ],
+      "heading": "Ödünç alınmış yetkinlik ve nasıl birikir"
+    },
+    {
+      "body": "Otomasyon yanlılığı, özellikle yorgun, acele içinde ya da daha az deneyimli olduğunuzda otomatik bir sistemin çıktısına kendi yargınızdan daha fazla güvenme eğilimidir. Pilots bunu iyi bilir: autopilot elindeki instruments ile disagree ettiğinde, crews autopilot'a uyup ground'a inmıştır.\n\nYanlılık, tool's akıcılığı arttıkça büyür. Yalnızca search result olarak ranked first olan bir sonuç moderate trust kazanır; cevabını confident prose ile açıklayan bir AI ise deep trust kazanır. Ancak confident prose, model's design'in bir özelliğidir; correctness'in sertifikası değildir. Sistem, sure yardımcı olduğu için sound sure olacak şekilde built edilmiştir.\n\nKarşı ağırlık, attitudinal değil procedural'dır. Güçlü tools'ı, son derece fast junior colleagues gibi değerlendirin: brilliant, hardworking ve bazen confidently wrong. Önemli olanları doğrulayın. Kontrolleri almaya hazır olun. Ve unutmayın: bir kararın legal, professional ve moral sorumluluğu hiçbir zaman makineye transfers olmaz.",
+      "examples": [
+        "Bir doctor, clinic's rules bunu require ettiği için AI's diagnosis'ini double-checks eder — ve ayda iki kez makine, interesting bir şekilde yanlış yapar."
+      ],
+      "heading": "Otomasyon yanlılığı: kendinden emin makineye güvenmek"
+    },
+    {
+      "body": "Bu terimler, ödünç alınan yetkinin nasıl işlediğini ve gerçekte size ait olan şeyin nasıl ölçülebileceğini tanımlar.",
+      "heading": "Ödünç alınan becerinin sözlüğü",
+      "terms": [
+        {
+          "example": "Tasarım yazılımı çalışmadığı ve yerleşimi elle çizmek zorunda kaldığı gün, beceri yanılsaması ortadan kalktı.",
+          "gloss": "Güçlü araçlarla üretilen sonuçlardan ya da elde edilen yetkiden çok, öz beceriden kaynaklanan yanlış yetkinlik hissi."
+        },
+        {
+          "example": "Güzel portföyü, şablonlardan ve yapay zekâ araçlarından ödünç alınan yetkinlikten oluşuyordu.",
+          "gloss": "Araçların ürettiği ve kullanıcının kendine ait beceri olarak yaşadığı sonuçlar ve güven."
+        },
+        {
+          "example": "Aşırı güven eğilimi, ekibi dört aylık bir proje için müşteriye iki haftalık teslim sözü vermeye itti.",
+          "gloss": "Kendi bilginizin doğruluğunu ve başarı şansınızı olduğundan fazla değerlendirmeye yol açan sistematik eğilim."
+        },
+        {
+          "example": "Köprü kapandıktan çok sonra bile sürücüyü GPS'in gösterdiği yolda tutan şey, otomasyon eğilimiydi.",
+          "gloss": "Özellikle baskı ya da yorgunluk altında, otomatik sistemlere kendi yargınızdan daha fazla güvenme eğilimi."
+        },
+        {
+          "example": "Kendi değerlendirmesi mükemmel: ‘yüzde doksan eminim’ dediği işler neredeyse her zaman başarılı oluyor.",
+          "gloss": "Öz değerlendirmenizin doğruluğu: güveninizin gerçek performansınıza ne kadar yakın olduğu."
+        },
+        {
+          "example": "Hesap makinesi geleli beri uzun bölme yapamamasının nedeni, beceri zayıflamasıdır.",
+          "gloss": "Bir becerinin, araç onun yerine kullandığı için uzun süre kullanılmamaktan zayıflaması."
+        }
+      ]
+    },
+    {
+      "body": "Haftada bir kez, çekirdek işinizin en önemli parçasını, araçlar kapalı ya da göz ardı edilir hâlde üretin. Paragrafı kendiniz yazın, hesabı elle yapın, önce tasarımı kâğıda çizin. Yardımsız tekrar nostalji değildir — becerinizin hangi kısımlarının hâlâ yaşadığını böyle öğrenirsiniz ve onları yaşatmayı sürdürürsünüz.",
+      "heading": "Yardımsız tekrar"
+    },
+    {
+      "body": "Kalibrasyon bir beceridir ve tüm beceriler gibi ölçümle gelişir. Üç uygulama yardımcı olur. **Kontrol etmeden önce tahmin edin**: bir görevden önce başarı şansınızı tahmin edin, ardından sonuçla karşılaştırın. İnsanlar kendi hata oranlarından sürekli şaşırır ve şaşırmak veridir. **Zaman zaman yardımsız test yapın**: araca yakın koşullarda, araç olmadan gerçek bir iş çıktısı üretin. **Acıttığı yerlerde doğrulama isteyin**: en çok gurur duyduğunuz bölümler için gözden geçirme talep edin; kör noktalar oralarda yaşar.\n\nAraçlar her işin daha da büyük bir kısmını üstlenmeye devam edecek. Başarılı olacak kişiler, araçları reddedenler ya da onlara teslim olanlar değil; tam olarak hangi şeylerin kendilerine ait kaldığını bilenler olacak. Bu bilgi üzerine kurulan güven daha sakin — ve çok daha güçlüdür.",
+      "examples": [
+        "Her ay yapay zekâ desteği olmadan küçük bir sistem bileşenini yeniden kuruyor; bir yılda yardımsız hızı üç katına çıktı, aynı şekilde bu işe olan güveni de."
+      ],
+      "heading": "Kendinizi dürüstçe kalibre etmek"
+    }
+  ],
+  "summary": "Daha iyi araçlar daha iyi sonuçlar üretir; daha iyi sonuçlar da daha iyi bir yetenek hissettirir. Bu makale beceri yanılsamasını inceler: ödünç alınan yetkinlik, güçlü yazılımları kullandıktan sonra ortaya çıkan aşırı güven, otomasyon yanılgısı ve araçlarınızın yeteneğinizi ortadan kaldırmak yerine güçlendirmesi için gerçek yeteneğinizi nasıl kalibre edeceğinizi ele alır.",
+  "title": "Beceri Yanılsaması: Güçlü Araçlar Bizi Nasıl şişirir?"
+}

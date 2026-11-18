@@ -1,0 +1,442 @@
+{
+  "records": {
+    "644b4259742580a56ff32aba9c0e5f8d8eb72ad875557c372aad775694de8ef9": [
+      {
+        "forms": [
+          "Reverse light",
+          "reverse_light"
+        ],
+        "id": "lex.sa.en.reverse.light",
+        "kind": "lexeme",
+        "lemma": "Reverse light",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.reverse.light.alt"
+        ]
+      },
+      {
+        "definition": "The reverse light is on; the car is in reverse. Severity level 1 — Information / Status. Action: Nothing to do. Watch behind you..",
+        "gloss": "The reverse light is on; the car is in reverse.",
+        "id": "sns.sa.en.reverse.light.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.reverse.light",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "64530a44ff97a1db73e5f829e9d7d693adf4daea511ff28e409cf1762ab51672": [
+      {
+        "forms": [
+          "Digit sum",
+          "ma_digit_sum"
+        ],
+        "id": "lex.sa.mathematics.ma_digit_sum",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Digit sum",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mathematics.ma_digit_sum.alt",
+          "sns.sa.mathematics.ma_digit_sum.alt.ja",
+          "sns.sa.mathematics.ma_digit_sum.alt.ko",
+          "sns.sa.mathematics.ma_digit_sum.alt.pt_br",
+          "sns.sa.mathematics.ma_digit_sum.alt.id",
+          "sns.sa.mathematics.ma_digit_sum.alt.th",
+          "sns.sa.mathematics.ma_digit_sum.alt.tr"
+        ]
+      },
+      {
+        "definition": "The total of all the digits of a number, used to test whether it is a multiple of 9.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_digit_sum.1.1"
+        ],
+        "gloss": "The total of all the digits of a number, used to test whether it is a multiple of 9.",
+        "id": "sns.sa.mathematics.ma_digit_sum.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mathematics.ma_digit_sum",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "整数に含まれるすべての桁の数字を足した値。この値が9の倍数なら元の整数も9の倍数である点を判定に使う。",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_digit_sum.1.1.ja"
+        ],
+        "gloss": "各桁の数字を全部足した値。",
+        "id": "sns.sa.mathematics.ma_digit_sum.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mathematics.ma_digit_sum",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "원래 수와 각 자리 숫자의 합이 모두 9의 배수인지 확인하여 9의 배수 여부를 판별할 때 사용합니다.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_digit_sum.1.1.ko"
+        ],
+        "gloss": "어떤 수의 각 자리 숫자를 모두 더한 값입니다.",
+        "id": "sns.sa.mathematics.ma_digit_sum.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mathematics.ma_digit_sum",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ela pode ser usada para testar se o número é múltiplo de 9, pois um número e a soma de seus algarismos têm o mesmo resto na divisão por 9.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_digit_sum.1.1.pt_br"
+        ],
+        "gloss": "Soma dos algarismos é a soma de todos os algarismos de um número.",
+        "id": "sns.sa.mathematics.ma_digit_sum.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mathematics.ma_digit_sum",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Jumlah digit dapat digunakan untuk memeriksa apakah suatu bilangan merupakan kelipatan 9. Jika jumlah digit habis dibagi 9, bilangan aslinya juga habis dibagi 9.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_digit_sum.1.1.id"
+        ],
+        "gloss": "Jumlah digit adalah hasilAddition seluruh angka pembentuk suatu bilangan.",
+        "id": "sns.sa.mathematics.ma_digit_sum.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mathematics.ma_digit_sum",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ผลรวมหลักคือผลบวกของตัวเลขทุกหลักในจำนวน ใช้เป็นวิธีตรวจว่าจำนวนนั้นหารด้วย 9 ลงตัวหรือไม่ แม้ผลรวมหลักจะมีหลายหลักก็ยังใช้หลักเกณฑ์นี้ได้",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_digit_sum.1.1.th"
+        ],
+        "gloss": "ผลรวมของตัวเลขทุกหลัก",
+        "id": "sns.sa.mathematics.ma_digit_sum.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mathematics.ma_digit_sum",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rakamlar toplandığında elde edilen toplamdır. Bu toplamın 9'un katı olup olmadığına bakılarak sayının 9'un katı olup olmadığı anlaşılabilir.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_digit_sum.1.1.tr"
+        ],
+        "gloss": "Bir sayının bütün rakamlarının toplamıdır.",
+        "id": "sns.sa.mathematics.ma_digit_sum.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mathematics.ma_digit_sum",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mathematics.ma_digit_sum.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "1296 sayısının rakam toplamı 1 + 2 + 9 + 6 = 18'dir; 18, 9'un katıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_digit_sum.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ผลรวมหลักของ 1296 คือ 1 + 2 + 9 + 6 = 18 ซึ่งเป็นพหุลของ 9",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_digit_sum.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Jumlah digit 1296 adalah 1 + 2 + 9 + 6 = 18, yaitu kelipatan 9.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_digit_sum.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A soma dos algarismos de 1296 é 1 + 2 + 9 + 6 = 18, um múltiplo de 9.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_digit_sum.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "1296의 각 자리 숫자의 합은 1 + 2 + 9 + 6 = 18로, 9의 배수입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_digit_sum.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "1296の各桁の和は、1＋2＋9＋6＝18で、9の倍数である。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_digit_sum.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The digit sum of 1296 is 1 + 2 + 9 + 6 = 18, a multiple of 9.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "64653ddbd8589569106a2b6f7fe2900191d366e0f953c6a200ddc745d3057ac1": [
+      {
+        "forms": [
+          "Vishing",
+          "vishing"
+        ],
+        "id": "lex.sa.technology.vishing",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Vishing",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.vishing.alt",
+          "sns.sa.technology.vishing.alt.ja",
+          "sns.sa.technology.vishing.alt.ko",
+          "sns.sa.technology.vishing.alt.pt_br",
+          "sns.sa.technology.vishing.alt.id",
+          "sns.sa.technology.vishing.alt.th",
+          "sns.sa.technology.vishing.alt.tr"
+        ]
+      },
+      {
+        "definition": "Phishing carried out by a phone call, usually with a claim of authority from a bank, a police force or a support line.",
+        "exampleIds": [
+          "exm.sa.technology.vishing.1.1"
+        ],
+        "gloss": "Phishing carried out by a phone call, usually with a claim of authority from a bank, a police force or a support line.",
+        "id": "sns.sa.technology.vishing.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.vishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "電話を使って行うフィッシングで、銀行、警察 Dread、Horn肢のBikeを偽って，被害者に机体や情報をFilenameよう plusieursもの。",
+        "exampleIds": [
+          "exm.sa.technology.vishing.1.1.ja"
+        ],
+        "gloss": "電話で行うフィッシング。ふつう銀行や警察、サポート窓口の権威を偽って行われます。",
+        "id": "sns.sa.technology.vishing.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.vishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "은행, 경찰 또는 고객지원 센터 gibi 권위 있는 주체를 사칭해 전화를 하는 피싱 사기다. 통화 중ldquo;대포",
+        "exampleIds": [
+          "exm.sa.technology.vishing.1.1.ko"
+        ],
+        "gloss": "전화로实施하는 피싱 사기.",
+        "id": "sns.sa.technology.vishing.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.vishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ataque de engenharia social em que o fraudador liga e se passa por representante de um banco, da polícia ou de uma central de atendimento para obter dados ou dinheiro.",
+        "exampleIds": [
+          "exm.sa.technology.vishing.1.1.pt_br"
+        ],
+        "gloss": "Golpe em que fraudulentos usam uma ligação telefônica para enganar a vítima.",
+        "id": "sns.sa.technology.vishing.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.vishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Penipuan yang dilakukan melalui panggilan telepon, biasanya dengan mengaku sebagai bank's, polisi, atau layanan pelanggan. Penyerang 소식 цельkan data pribadi atau keuangan korban.",
+        "exampleIds": [
+          "exm.sa.technology.vishing.1.1.id"
+        ],
+        "gloss": "Penipuan yang dilakukan melalui panggilan telepon dengan menyamar sebagai pihak berwenang.",
+        "id": "sns.sa.technology.vishing.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.vishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การแอบอ้างตนเป็นองค์กรที่น่าเชื่อถือเพื่อหลอกลวงทางโทรศัพท์ ผู้โทรอาจขอข้อมูลส่วนตัว เงิน หรือรหัสผ่านทางโทรศัพท์",
+        "exampleIds": [
+          "exm.sa.technology.vishing.1.1.th"
+        ],
+        "gloss": "การหลอกลวงโดยโทรศัพท์ มักอ้างเป็นธนาคาร ตำรวจ หรือฝ่ายสนับสนุน",
+        "id": "sns.sa.technology.vishing.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.vishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Telefonla yapılan bir kimlik avıdır. Arayan kişi sahte bir banka, polis veya destek hizmeti temsilcisi gibi davranarak bilgi ya da para ister.",
+        "exampleIds": [
+          "exm.sa.technology.vishing.1.1.tr"
+        ],
+        "gloss": "Banka, polis veya destek hizmeti gibi bir kurumdan geliyormuş gibi telefonla yapılan dolandırma girişimi.",
+        "id": "sns.sa.technology.vishing.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.vishing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.vishing.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
+        "translation": "Bankadan aradığını söyleyen kişiye para göndermedim; bu bir telefonla dolandırma girişimiydi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.vishing.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
+        "translation": "มีคนโทรมาอ้างเป็นฝ่ายธนาคารและขอรหัสลูกค้า ซึ่งเป็นการหลอกลวงโทรศัพท์แบบหนึ่ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.vishing.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
+        "translation": "They menelepon sambil mengaku sebagai petugas pajak; itu*vishing*, jadi saya menutup telepon dan menghubungi nomor aslinya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.vishing.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
+        "translation": "Ligaram fingindo ser da Receita Federal. Isso foi vishing, então desliguei e liguei para o número verdadeiro.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.vishing.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
+        "translation": "그들은 세무서인 것처럼 전화했다. 이것은 비싱 사기였으므로 나는 전화를 끊고 진짜 번호로 다시 걸었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.vishing.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
+        "translation": "税務署を偽って電話してきたが，これは音声フィッシングだったので，本物の番号に電話し直した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.vishing.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "64b36c4d06e4a51707b252b851f1d374a10c1fe5b89851922e4c79f711d42e68": [
+      {
+        "forms": [
+          "locator",
+          "locators"
+        ],
+        "id": "lex.sa.en.locator.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "locator",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.locator.noun.1",
+          "sns.sa.en.locator-noun.alt"
+        ]
+      },
+      {
+        "definition": "Đường dẫn trỏ tới một tệp trong gói nội dung.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.04"
+        ],
+        "gloss": "đường dẫn",
+        "id": "sns.sa.vi.locator.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.locator.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A path that points at a file.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.04"
+        ],
+        "gloss": "A path pointing at a file inside the content pack.",
+        "id": "sns.sa.en.locator-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.locator.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.04",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Every media locator in this pack is a file under media/.",
+        "translation": "Mọi đường dẫn phương tiện trong gói này đều là một tệp nằm dưới thư mục media/.",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

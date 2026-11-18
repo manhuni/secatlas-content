@@ -1,0 +1,80 @@
+{
+  "items": {
+    "aunt": {
+      "definition": "Your mum's sister, or the wife of your uncle. Sometimes a family friend is called an aunt too.",
+      "dictionaryId": "lex.sa.kids_daily.aunt",
+      "example": "My aunt lives in Da Nang.",
+      "fieldId": "kids_daily",
+      "id": "aunt",
+      "lessonIds": [
+        "article_talking_about_family"
+      ],
+      "packs": [
+        "knw.kids.daily.family"
+      ],
+      "term": "Aunt"
+    },
+    "context_window": {
+      "conflict": true,
+      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+      "dictionaryId": "lex.sa.technology.context_window",
+      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
+      "fieldId": "technology",
+      "id": "context_window",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Context window"
+    },
+    "cs_subordination": {
+      "definition": "The arrangement in which one person is placed below another and kept there.",
+      "dictionaryId": "lex.sa.mind.cs_subordination",
+      "example": "The subordination was taught in the meeting: whoever spoke second was corrected first.",
+      "fieldId": "mind",
+      "id": "cs_subordination",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Subordination"
+    },
+    "habitat": {
+      "conflict": true,
+      "definition": "The place where an animal lives, with the food, water and shelter it needs there.",
+      "dictionaryId": "lex.sa.kids_animals.habitat",
+      "example": "The reef is the habitat of the clownfish and the small fish.",
+      "fieldId": "kids_daily",
+      "id": "habitat",
+      "lessonIds": [
+        "article_favourite_animals",
+        "article_kids_animals_ocean"
+      ],
+      "packs": [
+        "knw.kids.animals.ocean",
+        "knw.kids.daily.animals"
+      ],
+      "term": "Habitat"
+    },
+    "market_correction": {
+      "definition": "An increase given to bring pay in line with the market, framed as a fix rather than a reward.",
+      "dictionaryId": "lex.sa.work.market_correction",
+      "example": "The company called it a market correction, which is still a pay rise.",
+      "fieldId": "work",
+      "id": "market_correction",
+      "lessonIds": [
+        "article_ask_for_raise"
+      ],
+      "packs": [
+        "knw.work.raise"
+      ],
+      "term": "Market correction"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,79 @@
+{
+  "language": "tr",
+  "lessonId": "article_ai_agents",
+  "objectives": [
+    "Bir yapay zekâ ajanını ve çoklu ajanlı bir sistemi tanımlayın.",
+    "Çoklu ajanlı otomasyonun üretkenliği nasıl değiştirdiğini açıklayın.",
+    "Kalite kontrolünün ajan iş akışlarında nerelerde başarısız olduğunu açıklayın.",
+    "Aracı tarafından üretilen çalışmaların sorumluluğu hakkında akıl yürütün.",
+    "Makine emeğini denetleme yeni becerisini tanımlayın."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Bir yapay zekâ agentı, yalnızca yanıt vermekle kalmaz, eyleme geçer: adımları planlar, araçları kullanır, dosyalar yazar, diğer servisleri çağırır ve bir hedefe ulaşılana ya da durdurulana kadar devam eder. Tek bir prompt bir projeye dönüşür. Bir multi-agent sistem daha da ileri gider: uzmanlaşmış birkaç agent iş birliği yapar — biri araştırma yapar, biri taslak hazırlar, biri eleştiri yapar, biri doğrular — insan ise hedefi belirler ve sonucu kabul eder.\n\nÜretkenlik sıçraması gerçektir. Bir haftalık insan emeği gerektiren görevler — piyasa araştırması, code migrations, uzun raporlar — saatler içinde tamamlanabilir. Stabil bir agent ekibine sahip tek bir kişi, bir zamanlar küçük bir ekip gerektiren projeleri deneyebilir; solo kurucular da departments hızında ürün çıkarabilir.\n\nAncak hızı sağlayan aynı yapı yeni bir problem üretir: insan hedefi ve sonucu görür, aradaki hiçbir şeyi görmez. İş, insanın izlemediği ve denese de tam olarak izleyemeyeceği bir pipeline içinde gerçekleşir.",
+      "examples": [
+        "She agent ekibine kahvaltıda bir araştırma sorusu verdi; öğle yemeğinde kaynaklarıyla birlikte kırk sayfalık bir rapor hazırdı — ve tek bir kaynak bile okumamıştı."
+      ],
+      "heading": "Araçtan meslektaşa"
+    },
+    {
+      "body": "Bir insan ekibinde kalite kontrolü ortak bağlama dayanır: gözden geçiren kişi, araştırmacıya ne söylendiğini, son tarihin onları hangi işleri atlamaya zorladığını ve genellikle nasıl çalıştıklarını bilir. Agent pipelines bu bağlamdan varsayılan olarak yoksundur. Her agent, önceki agent'in çıktısına, yorgun bir çalışanın kendinden emin bir e-postaya güvenmesi gibi güvenir.\n\nArdından hata biçimleri ortaya çıkar. **Hata yayılımı**: birinci adımdaki hata, ikiden beşinci adımlara kadar cilalanır, yakalanmaz. **Makul görünen kaynak gösterimi**: agent'lar gerçek olanlara birebir benzeyen kaynaklar uydurur ve zincirdeki hiçbir agent onları gerçeklikle karşılaştırmaz. **Amaç kayması**: çok sayıda adımdan sonra çıktı, istenen şeyden çok ölçülebilir olanı optimize eder — sözcük sayısı, geçen testler gibi. Ve **sessizce eksik bırakma**: pipeline, yapmadığı işler için hiçbir uyarı üretmez.\n\nDoğrulama bu nedenle aynı türden başka bir agent olamaz. Önemli olan kontrollerin gerçekliğe ulaşması gerekir: gösterilen kaynakların açılması, kodun gerçek veriler üzerinde çalıştırılması, taslağın bir insan uzmana gösterilmesi. Pipeline üretimi otomatikleştirir; hesap verebilirliği otomatikleştirmez.",
+      "examples": [
+        "Rapor akıcı, yapılandırılmış ve ikna ediciydi; her üçüncü kaynak gösterimi, gerçekte var olmayan bir çalışmaya işaret ediyordu."
+      ],
+      "heading": "Kalite kontrolünün nerede bozulduğu"
+    },
+    {
+      "body": "İnsanlara Delegation'ın yerleşmiş bir etiği vardır: manager sonucun sahibidir. Ajanlara Delegation bu etiği devralır. Adınız, şirketiniz veya kararınız bir ajanın çıktısına bağlıysa, çıktı sizindir; bunu bir machine'in üretmiş olması emeği değiştirir, accountability'yi değiştirmez.\n\nBu işin pratik dişleri vardır. Ajanların yazdığı iddiaları kontrol etmeden Publishing, yanlış bilgiye ek adımlar eklemektir. Ajanların yazdığı kodu okumadan Shipping, lisanslı bir ihmaldir. Ajanların sizin behalf'inizden hareket etmesine izin vermek — mesaj göndermelerine, satın almalar yapmalarına — hatalarının sizin transactions'larınız olduğu anlamına gelir.\n\nUygulanabilir kural, risk düzeyine eşleşen bir supervision ölçeğidir. Düşük riskli, geri alınabilir eylemler örnekleme checks'leriyle yürütülebilir: her on çıktıdan birini audit edin. Yüksek riskli, geri alınamaz eylemler — para, sağlık, itibar, insanların verileri — human gates gerektirir: bir kişi bir şey dışarı çıkmadan önce okur, doğrular ve onaylar. Gate'in maliyeti, hızın fiyatıdır.",
+      "examples": [
+        "Ajan, şirketin hiç onaylamadığı bir discount'u uydurduğunu kimse fark etmeden iki yüz kişiselleştirilmiş e-posta gönderdi."
+      ],
+      "heading": "Çalıştırmadığınız bir pipeline'da Responsibility"
+    },
+    {
+      "body": "Bu terimler, işin yeni yapısını tanımlar.",
+      "heading": "Makine ekiplerinin sözlüğü",
+      "terms": [
+        {
+          "example": "Yapay zekâ agentı, her adımı söylenmeden hata kayıtlarını okudu, config dosyasını düzenledi ve hizmeti yeniden başlattı.",
+          "gloss": "Bir hedefe doğru planlayan ve eyleme geçen, ara adımlar ve araçlar kullanarak tek seferde yanıt vermek yerine çalışan bir yapay zekâ sistemi."
+        },
+        {
+          "example": "Multi-agent sistemde bir agent kaynakları toplar, biri yazar, biri eleştirir ve biri de nihai raporu biçimlendirir.",
+          "gloss": "Birden fazla uzmanlaşmış yapay zekâ agentının görevi kendi aralarında paylaşıp işi birbirine aktardığı kurulum."
+        },
+        {
+          "example": "Orchestration becerisi, araştırma görevini hiçbir agentin diğerini beklemek zorunda kalmayacağı biçimde nasıl bölüştürdüğünde görüldü.",
+          "gloss": "Birden fazla agentın koordinasyonu: rollarının, sıralarının, araçlarının ve durdurma koşullarının belirlenmesi."
+        },
+        {
+          "example": "Human in the loop, agentın yanıt taslağını hazırlaması demektir; ancak gönder düğmesine yalnızca o basabilir.",
+          "gloss": "Bir kişinin, agentın çalışması etkili olmadan önce inceleyip onayladığı tasarım."
+        },
+        {
+          "example": "Quality control, uydurulmuş istatistiği, makale müşteriye gitmeden önce yakaladı.",
+          "gloss": "Çıktının, kullanılmadan ya da sevk edilmeden önce gereksinimlerini karşılayıp karşılamadığının denetlendiği süreç."
+        },
+        {
+          "example": "Agentlara delegation, junior çalışanlara delegation gibi çalışır: net hedefler, net sınırlar ve sonuçtan senior çalışan sorumludur.",
+          "gloss": "Bir görevi ve onu tamamlama yetkisini atama; agentlarda sorumluluk, görevi devreden kişide kalır."
+        }
+      ]
+    },
+    {
+      "body": "Aracılar üretimi neredeyse ücretsiz hâle getirir ve darboğazı yargıya taşır: neyin üretilmeye değer olduğuna karar vermek ve üretilen şeyi denetlemek. Bunu unutan iş akışları, daha önce hiç görülmemiş bir hızda çöp gönderir. Ajanlar çağında kıt kaynak üretim değildir; doğru denetimlere harcanan dikkattir.",
+      "heading": "Hız darboğaz değil."
+    },
+    {
+      "body": "Ajanları yönetmek, tanınabilir becerilerle öğrenilebilir bir zanaattır. **Specification** her zamankinden daha önemlidir: ajanlar yazılan şeyi, yazılanınndaki kusurlar dâhil, tam olarak yapar. **Sampling**, kapsamlı bir incelemenin yerini alır: çıktıları, hataların yakalanmasının en ucuz ve yayımlanmasının en pahalı olduğu yerlerde kontrol edin. **Provenance discipline**, her ajanın ne yaptığına dair bir kayıt tutar; böylece bir şey yanlış olduğunda, düzeltme hatayı yaratan adıma yapılır. Ayrıca **stopping rules**, iş akışının ne zaman durup bir insana danışması gerektiğini tanımlar.\n\nBu zanaatta ustalaşan insanlar, makine işlem kapasitesini insan yargısıyla birleştirdikleri için olağanüstü üretken olur. Bunu atlayan insanlar ise meşgul olur ve utanç duyar; hatalarını, her seferinde yayımlanmış tek bir çıktıyla, herkese açık biçimde keşfeder.\n\nAyrıca daha sessiz bir değişim var. Bir kişi birçok zihni yönetebildiğinde, kıdemli bir profesyonelin tanımı değişir: kişisel olarak ne üretebileceğinizden çok, neyi yönetebileceğiniz, doğrulayabileceğiniz ve arkasında durabileceğiniz üzerine. Geleceğin org chart'ı bir insanı ve yüz ajanı listeleyebilir — ve insanın işi, yönetimdeki en eski iş budur: başkalarının yaptığı iş hakkında yargıda bulunmak.",
+      "examples": [
+        "İki ajanlı araştırma pipeline'ı, günler süren işi bir saatte taslakla; asıl işi, hiç var olmaya değip değmeyeceğini denetlemekle geçen öğleden sonra."
+      ],
+      "heading": "Yeni zanaat: işe almadığınız zihinleri yönetmek"
+    }
+  ],
+  "summary": "Bir kişi artık araştırma yapan, yazan, kodlama yapan ve birbirinin çalışmalarını kontrol eden bir yapay zekâ ajanları ekibini yönetebilir. Bu makale, çoklu ajan otomasyonunu inceliyor: üretkenliğe nasıl etki ediyor, kalite kontrol nerede bozuluyor, çıktıdan kim sorumlu ve sizin yapmadığınız bir işi “yönetmek” ne anlama geliyor?",
+  "title": "Yapay Zekâ Çağı: Bir İnsan, Birçok Zihin"
+}

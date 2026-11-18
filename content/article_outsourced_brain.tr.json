@@ -1,0 +1,86 @@
+{
+  "language": "tr",
+  "lessonId": "article_outsourced_brain",
+  "objectives": [
+    "Bilişsel yük boşaltmayı tanımlayın ve günlük hayattan örnekler verin.",
+    "Bir görevi devretmekle bir yargıyı devretmek arasında ayrım yapın.",
+    "Uygulanmayan becerilerin neden sessizce ortadan kalktığını açıklayın.",
+    "Yapay zekâ araçlarına sağlıksız bağımlılığın işaretlerini tanıyın.",
+    "Hangi düşünceleri saklayacağınız ve hangilerini devredeceğiniz için kişisel kurallar belirleyin."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Bilişsel yük boşaltma, bilgiyi kendi beyninizin taşımak zorunda kalmaması için araçları kullanarak depolama, işleme veya geri çağırma uygulamasıdır. Alışveriş listesi yazmak bellek yükünü boşaltmaktır. Hesap makinesi kullanmak aritmetiği boşaltmaktır. GPS yönergelerini adım adım izlemek navigasyonu boşaltmaktır.\n\nYük boşaltma yeni değildir ve kötü de değildir. Aslında, insanları güçlü kılan şeylerden biridir: kâğıt, kitap ve programlarla çalışan bir kişi, yalnızca belleğine güvenen bir kişiden çok daha fazlası üzerine düşünebilir. Filozof Andy Clark, insanları \"doğuştan gelen melez makineler\" olarak adlandırır; çünkü düşüncemizi her zaman araçlarla birleştirmişizdir.\n\nSoru, yükü boşaltıp boşaltmayacağımız değil — herkes yükünü boşaltır — hangi düşünme parçalarını boşaltacağımızdır. Randevuları hatırlamak? Olur. Başkalarının ne düşündüğünü kontrol etmeden önce fikir oluşturma alışkanlığı? Tehlikeli.",
+      "examples": [
+        "Bir kişi rehber uygulamasını aldığı gün telefon numaralarını ezmemeye başlar ve hiçbir şey kaybolmaz. Ancak her tek yolculukta kullanılan bir navigatör, zihinsel harita oluşturma pratiğini de ortadan kaldırır."
+      ],
+      "heading": "Bilişsel yük boşaltma ne anlama gelir"
+    },
+    {
+      "body": "Bir soru zihinsel bir olaydır. Gerilim yaratır, dikkati harekete geçirir ve düşünme mekanizmalarını çalıştırmaya başlar. Soru kendi işini yapmadan önce anında gelen bir yanıt, bu olayı sessizce siler.\n\nSearch engines bu süreci başlattı. \"Transactive memory\" üzerine yürütülen Research, insanlar bilgiye daha sonra erişilebilir olacağını beklediklerinde bilginin kendisini daha kötü hatırladıklarını, ancak onu nerede bulacaklarını daha iyi hatırladıklarını gösterir. Beyin, bir makinenin tutacağına inandığı bilgileri memnuniyetle ikincil plana iter.\n\nAI assistants bu değişimi tamamlar. Yalnızca yanıtları saklamaz; talep edildiğinde reasoning üretirler. Tehlike, reasoning pratiğinin yavaşça aşınmasıdır: intelligence kaybı değil, intelligence'ın kullanıldığı *fırsatların* kaybı. Hiç yüklenmeyen bir kas şikâyet etmez — yalnızca kaldıramaz hâle gelir.",
+      "examples": [
+        "Zorlu her paragrafı açıklaması için bir AI'ya soran bir öğrenci, bölümü daha hızlı bitirir ve bir hafta sonra içeriğin neredeyse hiçbirini anlamaz."
+      ],
+      "heading": "Soruyu yanıtlayan araç soruyu bitirir"
+    },
+    {
+      "body": "Sağlıklı tool kullanımı ile dependence arasındaki line, **tasks** ile **judgments** arasında geçer. Bir task'ın tek bir correct answer'ı ve dışarıdan check edilebilen bir yolu vardır: en fastest route, bir column'ın sum'ı, bir word'ün spelling'i. Task'ları tool'lara Handing, almost always bir gain'dir.\n\nBir judgment ise different'tır. Tek bir correct answer'ı yoktur; values ve context'e depends eder ve başka hiçbir kişi onu sizin için check edemez: Bu argument fair mi? Bu risk worth mi taking? Bu person trustworthy mi? Judgments, siz yapmadığınızda worse olacağınız things'lardır.\n\nAI'dan judgments yapması istendiğinde — bu person gerçekte ne meant özetle, hangi option'ı choose etmeliyim — user, skill'ı produces eden exercise olmadan bir answer alır. Daha fazla judgment alan person, judgments'ın nasıl made edildiğine yönelik feeling'ini slowly loses.",
+      "examples": [
+        "Bir tool'ın grammar'nizi correct etmesine Letting, bir task'tır. İki job offer'ından hangisinin life'ınıza fits olduğuna karar vermesine Letting ise, delegation ile asla learn edemeyeceğiniz bir judgment'tır."
+      ],
+      "heading": "Görevlerin Delegation of judgments karşılaştırması"
+    },
+    {
+      "body": "Bu terimler, dışarıya verilmiş düşünmenin mekaniğini adlandırır. Her biri, kendi haftanızda gözlemleyebileceğiniz bir gücü tanımlar.",
+      "heading": "Ödünçlenmiş zihnin sözlüğü",
+      "terms": [
+        {
+          "example": "Yapılacaklar listesi tutmak, görevleri hatırlamaktan zihninizi kurtaran bir cognitive offloading örneğidir.",
+          "gloss": "Bilgiyi kendi zihniniz taşımak zorunda kalmaması için dış araçlarla saklamak, hesaplamak ya da geri çağırmak."
+        },
+        {
+          "example": "Telefonumla kurduğum transactive memory içinde, fotoğrafların var olduğunu ben hatırlarım, telefon da neredeler olduğunu hatırlar.",
+          "gloss": "Bir grubun ya da bir kişiyle bir aracın, kimin neyi bildiğini hatırlama işini nasıl paylaştığı ortak sistem."
+        },
+        {
+          "example": "Critical thinking, şaşırtıcı bir istatistiğe inanmadan önce kimin bunun kazancı olduğunu sormaktır.",
+          "gloss": "Bir sonuca katılmadan önce iddiaları, kanıtları ve akıl yürütmeyi inceleyen disiplinli uygulama."
+        },
+        {
+          "example": "Odadaki herkesin aksine düşünse bile 'Katılmıyorum ve işte akıl yürütmem' demek intellectual autonomy'dır.",
+          "gloss": "Görüşlerinizin bir makam ya da bir araç tarafından önceden onaylanmasına ihtiyaç duymadan kendi görüşünüzü oluşturma, koruma ve açıklama yeteneği."
+        },
+        {
+          "example": "Her zaman otopilotta uçan pilotlar, bir acil durumda manuel kontrolü ele almak zorunda kaldıklarında deskilling yaşarlar.",
+          "gloss": "Bir becerinin, makine onun yerine yaptığı için artık pratik edilmediğinde yavaş yavaş kaybolması."
+        },
+        {
+          "example": "Uygulamaların yıllarca gününü planlamasına izin verdikten sonra, karmaşık bir projeyi tek başına düzenlemek zorunda kaldığında cognitive atrophy hissetti.",
+          "gloss": "Uzun süre kullanılmama yoluyla zihinsel yeteneklerin zayıflaması; kullanılmayan bir kasın küçülmesine benzer."
+        }
+      ]
+    },
+    {
+      "body": "Bağımlılık nadiren kendini belli eder. Konfor olarak gelir. Her bireysel delegasyon akıllıca hissettirir ve genellikle öyledir. Tehlike kümülatiftir: yüz makul delegasyon, onu senin yapan şeyleri sessizce yapmayı bırakmış bir zihni bir araya getirebilir. Araçları değil, delegasyonları denetle.",
+      "heading": "Konfor tuzağı"
+    },
+    {
+      "body": "Pratik bir test, doğru işi kendi kafanızda tutar. Bir araca düşünme görevi devretmeden Before üç soru sorun. **Bu bir görev mi, yoksa bir yargı mı?** Görevler araçlara freely verilir. **Bunu kendimde iyi yapmak ister miydim?** Evetse önce kendiniz yapın ve aracı bir substitute olarak değil, checker olarak kullanın. **Bu yanıtın consequences'ı ile mi yaşamak zorundayım?** Bir karar hayatınızı ne kadar çok shapes, o kadar az delegated olmalıdır.\n\nYapay zekâyı yoğun kullananların çoğu basit bir rule benimser: **önce generate et, sonra compare et**. Aracı opening'dan önce kendi yanıtınızı yazın — bir draft, bir argument taslağı, çözüme dair bir guess. Sonra makineye sorun. Kendi yanıtınızla onun yanıtı arasındaki gap, öğrenmeniz gereken şeyin tam şeklidir ve her query'yi küçük bir surrender yerine küçük bir lesson'a dönüştürür.",
+      "examples": [
+        "Yapay zekâdan email'i yazmasını istemeden Before, kendiniz üç cümle yazın. Compare edin, iyi phrases'leri steal edin ve neyi missed ettiğinizi notice edin."
+      ],
+      "heading": "Neyi korumalı, neyi devretmeli"
+    },
+    {
+      "body": "Amaç araçları reddetmek değil, gerçekten önemli olan düşünmenin sahibi olmaktır. Güçlü araçları kullanırken kendilerini kaybetmeyen insanlar bir ortak örüntü paylaşır: hiçbir aracın onlar için başlatabileceği birkaç etkinliği sürdürürler.\n\nAraştırmadan önce yazarlar. Hesaplamadan önce tahmin ederler. Yorumları okumadan önce geçici bir fikir oluştururlar. En az bir hobilerini korurlar — bir çalgı, bir dil, bir zanaat, bir spor — burada ilerleme yalnızca kendi yardımsız pratiklerinden gelir.\n\nAraçlar giderek daha güçlü olacak. Bu, tam da gerçekten bağımsız düşünmenin değerinin azalması yerine artmasının nedenidir. Dışarıya devredilmiş beyin iyi bir hizmetkârdır. Kötü bir efendidir.",
+      "examples": [
+        "AI'nin çevirilerini kontrol etmesine izin verir, ancak ilk taslağı asla hazırlamasına bırakmaz: ilk taslak, kendi yargısının çalıştığı yerdir."
+      ],
+      "heading": "Kendi zihnini korumak"
+    }
+  ],
+  "summary": "Navigasyon uygulamaları rotaları hatırlar, böylece bizim hatırlamamıza gerek kalmaz; arama motorları soruları yanıtlar, böylece bizim merak etmemize gerek kalmaz; yapay zekâ ise artık metinleri yazar, böylece bizim düşünmemize gerek kalmaz. Bu makale, bilişsel yük boşaltmayı inceliyor: düşünmeyi araçlara devretmek ne zaman akıllıca, ne zaman ise düşünme yeteneğini sessizce aşındırıyor ve hiçbir aracın sizin için çalıştıramayacağı zihinsel kasları nasıl koruyacağını ele alıyor.",
+  "title": "Dış Kaynaklı Beyin: İnsanlar Kendileri İçin Düşünmeyi Bıraktığında"
+}

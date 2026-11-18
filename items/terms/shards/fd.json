@@ -1,0 +1,76 @@
+{
+  "items": {
+    "aiw_training_data": {
+      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
+      "dictionaryId": "lex.sa.technology.training_data",
+      "example": "The model's weakness on local rules comes from what the training data never covered.",
+      "fieldId": "technology",
+      "id": "aiw_training_data",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Training data"
+    },
+    "decline": {
+      "definition": "The act of saying no to something. It is a decision about an offer, not a verdict on a person.",
+      "dictionaryId": "lex.sa.social.decline",
+      "example": "She declined the invitation politely and without drama.",
+      "fieldId": "social",
+      "id": "decline",
+      "lessonIds": [
+        "article_boundaries"
+      ],
+      "packs": [
+        "knw.social.boundaries"
+      ],
+      "term": "Decline"
+    },
+    "er_suppression": {
+      "definition": "Holding a feeling down so that nothing of it shows to the other person.",
+      "dictionaryId": "lex.sa.social.er_suppression",
+      "example": "Her suppression looked like calm, and the calm was read as indifference.",
+      "fieldId": "social",
+      "id": "er_suppression",
+      "lessonIds": [
+        "article_emotional_regulation_relationships"
+      ],
+      "packs": [
+        "knw.social.emotional_regulation_relationships"
+      ],
+      "term": "suppression"
+    },
+    "liquids_rule": {
+      "definition": "The rule limiting containers of liquid in hand baggage, usually to 100 ml each in a clear bag.",
+      "dictionaryId": "lex.sa.travel.liquids_rule",
+      "example": "My bottle is 500 ml, so I have to empty it before screening.",
+      "fieldId": "travel",
+      "id": "liquids_rule",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Liquids rule"
+    },
+    "routine": {
+      "definition": "A set of things you do in the same order every time. A bedtime routine helps your body get sleepy.",
+      "dictionaryId": "lex.sa.kids_daily.routine",
+      "example": "Our bedtime routine is the same every night.",
+      "fieldId": "kids_daily",
+      "id": "routine",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Routine"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

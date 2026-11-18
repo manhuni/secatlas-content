@@ -1,0 +1,228 @@
+{
+  "language": "vi",
+  "lessonId": "article_abs_braking",
+  "objectives": [
+    "Mô tả cách hệ thống chống kẹt phanh hoạt động và vai trò của các bộ phận.",
+    "Gọi tên các thuật ngữ về phanh: quãng đường phanh, độ bám, kẹt phanh, phanh tới ngưỡng và hiện tượng phanh mềm.",
+    "Giải thích những trường hợp ABS không mang lại hiệu quả và lý do bề mặt mặt đường quyết định kết quả.",
+    "So sánh phanh tới ngưỡng, phanh tiến dần, phanh bằng động cơ và phanh với ABS.",
+    "Chọn đúng phương pháp phanh trên mặt đường cứng, đất mềm hoặc băng.",
+    "Thực hiện các bước phanh an toàn trên xe có ABS và không có ABS.",
+    "Xử lý đúng tình huống khi đèn cảnh báo ABS bật."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Hệ thống chống tắc xa là một hệ thống trên phanh xe ô tô. Nó theo dõi các bánh xe và giữ cho chúng tiếp tục quay khi người lái xe phanh mạnh đến mức làm một bánh xe bị tắc. Bánh xe bị tắc sẽ trượt: lốp xe trượt thay vì bám vào mặt đường, xe không giảm tốc tốt như có thể và vô-lăng mất tác dụng. Với hệ thống chống tắc xa, bánh xe vẫn quay, nên người lái có thể lái xe vòng qua một vật cản trong khi xe đang giảm tốc.\n\nNăm từ này giữ chủ đề. **Quãng đường phanh** là khoảng cách xe đi được từ lúc người lái xe chạm phanh đến khi xe dừng hẳn. **Độ bám** là ma sát giữa lốp xe và mặt đường, và chính nó biến tốc độ của xe thành dừng lại. **Chết phanh** (lock-up) là thời điểm một bánh xe ngừng quay trong khi xe vẫn đang di chuyển. **Phanh ngưỡng** (threshold braking) là cách người lái xe tự kiểm soát phanh ở giới hạn, ngay trước khi bánh xe chết phanh, bằng cách nhấn và nhả bàn phanh. **Phanh suy giảm** (brake fade) là hiện tượng giảm hiệu quả phanh khi phanh nóng, khiến bàn phanh trở nên mềm và xe mất lâu hơn để dừng lại.\n\nĐiều hệ thống không làm là rút ngắn quãng đường phanh trên mọi bề mặt. Trên mặt đường cứng, hệ thống chống trượt ABS thường dừng xe trong quãng đường ngắn hơn so với bánh xe bị khóa. Trên sỏi lỏng, cát, bùn, tuyết hoặc lá khô, bánh xe bị khóa có thể đào vào bề mặt và tạo ra quãng dừng ngắn hơn, trong khi hệ thống vốn đòi hỏi bánh xe tiếp tục quay lăn có thể khiến xe tiến xa hơn mức người lái xe dự kiến.\n\nHệ thống được phát triển để duy trì bánh xe quay, giúp người lái xe có thể điều khiển. Đó là tất cả. Nó không phải là lời hứa rằng xe luôn dừng lại trong cùng một quãng đường, và nó không bao giờ tạo cho người lái xe nhiều độ bám hơn mức mà mặt đường cho phép.",
+      "examples": [
+        "Hệ thống chống tắc động giữ bánh xe quay, để tôi có thể lái xe trong khi nó giảm tốc độ.",
+        "Quãng đường phanh là khoảng cách từ bàn đạp phanh đến điểm dừng xe; thời gian trước đó là thời gian phản ứng.",
+        "Trên đường sỏi, bánh xe bị kẹt có thể dừng lại nhanh hơn, nên tôi giảm nhẹ phanh ở đó.",
+        "Phanh nóng bị mờ, bàn đạp phanh trở nên mềm."
+      ],
+      "heading": "Hệ thống chống tắc cầu xe là gì và không phải là gì",
+      "terms": [
+        {
+          "example": "Xe có hệ thống phanh chống kẹt, nên tôi nhấn chân phanh và giữ nguyên.",
+          "gloss": "Hệ thống phanh giúp bánh xe tiếp tục quay khi tài xế đạp phanh mạnh, để xe vẫn có thể được lái.",
+          "termId": "abs_anti_lock_braking_system"
+        },
+        {
+          "example": "Trên đường ướt, quãng đường phanh dài hơn so với trên đường khô.",
+          "gloss": "Quãng đường xe đi được từ lúc người lái xe chạm phanh đến lúc xe dừng lại.",
+          "termId": "abs_braking_distance"
+        },
+        {
+          "example": "Trên băng có ít độ bám, nên xe trượt ngay cả khi đi với tốc độ thấp.",
+          "gloss": "Mối bám giữa lốp xe và mặt đường, và đó là thứ biến tốc độ của xe thành dừng lại.",
+          "termId": "abs_traction"
+        },
+        {
+          "example": "Bánh xe trước bị khóa cứng và vô-lăng trở nên nhẹ.",
+          "gloss": "Khoảnh khắc một bánh xe ngừng quay trong khi xe vẫn đang chạy.",
+          "termId": "abs_lock_up"
+        },
+        {
+          "example": "Không có ABS, người lái xe phải sử dụng phanh tới ngưỡng.",
+          "gloss": "Phanh ở mức giới hạn bám đường bằng cách nhấn và nhả bàn phanh trước khi bánh xe bị khóa.",
+          "termId": "abs_threshold_braking"
+        },
+        {
+          "example": "Sau quãng đường đi xuống dài, phanh đã mờ và bàn đạp cảm thấy yếu.",
+          "gloss": "Sự mất lực phanh khi phanh nóng, khiến cho bàn đạp trở nên mềm.",
+          "termId": "abs_brake_fade"
+        }
+      ]
+    },
+    {
+      "body": "Bốn bộ phận thực hiện công việc: một cảm biến ở mỗi bánh xe, một bộ điều khiển, một bộ điều biến và chính bộ phanh. **Cảm biến** là một bộ phận nhỏ ở mỗi bánh xe, báo cáo tốc độ bánh xe đó đang quay nhanh như thế nào. **Bộ điều khiển** so sánh tốc độ quay của bốn bánh xe với nhau, đồng thời so sánh chúng với tốc độ của xe. Khi một bánh xe quay chậm hơn nhiều so với những bánh xe khác trong khi xe vẫn đang chạy, bánh xe đó đang trên đường bị khóa.\n\nSau đó, bộ điều khiển yêu cầu **bộ điều chế** thay đổi áp suất phanh tại bánh xe đó. Có thể giảm áp lực để bánh xe quay lại, giữ áp lực ở mức để bánh xe chỉ vừa chạm ngưỡng bị khóa, hoặc tăng áp lực để phanh đảm nhiệm nhiều hơn. Bộ điều biến thực hiện điều này lặp đi lặp lại, nhiều lần mỗi giây, và người lái xe không bao giờ nhìn thấy nó.\n\nPhanh không bao giờ được tắt. Đây là điểm thường bị hiểu lầm: hệ thống quản lý áp suất, chứ không phải là loại bỏ phanh. Bàn đạp vẫn được giữ, phanh vẫn được duy trì, và hệ thống tiếp tục cho bánh xe quay trong khi phanh vẫn được siết chặt. Do đó, người lái xe phải giữ pedal được đạp chặt và giữ vô-lăng thẳng ổn định.\n\nBàn đạp cho người lái biết những gì đang xảy ra. Trong trường hợp hãm phanh gấp với hệ thống vẫn hoạt động, bàn chân sẽ cảm nhận được các nhịp rung của bàn đạp. Xung đó là bộ điều biến làm thay đổi áp suất. Đó không phải là lỗi, và cũng không phải là lý do để nhả ga.",
+      "examples": [
+        "Cảm biến trên mỗi bánh xe báo cáo tốc độ quay, và bộ điều khiển so sánh các bánh xe với nhau.",
+        "Bộ điều chế làm giảm áp suất tại bánh xe sắp bị khóa.",
+        "Phanh vẫn được giữ: hệ thống điều chỉnh áp lực, chứ không tắt phanh."
+      ],
+      "heading": "Cách hệ thống quyết định lực phanh mạnh đến mức nào",
+      "terms": [
+        {
+          "example": "Cảm biến bị hỏng ở một bánh xe có thể tắt hệ thống ABS.",
+          "gloss": "Một phần nhỏ ở mỗi bánh xe báo cho biết bánh xe đó đang quay nhanh bao nhiêu.",
+          "termId": "abs_wheel_speed_sensor"
+        },
+        {
+          "example": "Bộ điều chế duy trì áp suất tại bánh xe sắp bị khóa.",
+          "gloss": "Bộ phận của phanh thay đổi áp suất phanh tại một bánh xe khi hệ thống yêu cầu.",
+          "termId": "abs_modulator"
+        }
+      ]
+    },
+    {
+      "body": "Hệ thống phanh chống lock trên bề mặt cứng. Trên cát sỏi rời, bùn, tuyết và lá rụng, vật liệu dưới bánh xe di chuyển và bánh xe lún xuống. Một bánh xe bị khóa cày qua lớp vật liệu lỏng và đào một rãnh, và trên các bề mặt này, nó có thể làm xe dừng lại trong khoảng cách ngắn hơn so với một bánh xe vẫn tiếp tục quay, nên hệ thống có thể để xe tiếp tục lăn xa hơn điều mà người lái xe mong đợi. Một chiếc lốp bị hư hỏng cũng làm thay đổi câu trả lời: một chiếc lốp có vết cắt sâu, bị phồng hoặc bị rách ở thành lốp có thể mất độ bám hoặc vỡ ra dưới tải trọng, và một chiếc lốp bơm thiếu không thể đặt hết phần mặt lốp lên mặt đường. Hệ thống không thể sửa chữa lốp xe; nó quản lý áp suất phanh tùy theo tình trạng của lốp.\n\nTrên băng, giới hạn là ma sát giữa lốp xe và mặt đường, không phải hệ thống phanh. Cả bánh xe khóa lẫn bánh xe đang quay đều chỉ có thể xin lớp băng những gì lớp băng có. Phanh chống kẹt giúp người lái xe duy trì khả năng lái và không tạo thêm độ bám khi mặt đường không có.\n\nMột chiếc xe máy là một loại máy khác. Phanh trước gánh phần lớn công việc, thăng cân bằng của người lái xe rất quan trọng, và kỹ thuật lái xe máy không giống kỹ thuật lái ô tô. Một số xe máy có hệ thống phanh chống bó, một số không có; đối với người lái xe, câu trả lời là đào tạo và cẩm nang sử dụng xe.\n\nMột đoạn đi xuống dài là một vấn đề nhiệt. Phanh làm xe chậm lại bằng cách biến chuyển động thành nhiệt, và nhiệt tích tụ trong phanh không có chỗ để thoát. Khi phanh quá nóng, ma sát giảm và bàn đạp trở nên mềm: đây là hiện tượng chảy phanh. Động cơ và hộp số có thể làm xe chậm lại mà không tạo ra nhiệt, và phanh tay giữ xe khi xe đứng yên trên dốc. Người lái xe tin rằng ABS sẽ dừng xe trong mọi điều kiện sẽ phanh quá muộn, bởi hệ thống không làm gì được với phanh bị nóng.",
+      "examples": [
+        "Trên lớp sỏi tơi, bánh xe bị khóa bánh đào vào bề mặt, nên ABS không phải lúc nào cũng là khoảng cách dừng ngắn hơn.",
+        "Trên băng, giới hạn là ma sát, chứ không phải hệ thống phanh.",
+        "Lốp xe bị rách sâu là lý do để thay lốp, chứ không phải để dựa vào ABS.",
+        "Trên một đoạn đường đổi dốc dài, tôi sử dụng số thấp, bởi vì phanh nóng bị mờ."
+      ],
+      "heading": "\"Khi ABS không có tác dụng\"",
+      "terms": [
+        {
+          "example": "Mặt đường là sỏi tơi, nên bánh xe bị kẹt là chỗ dừng ngắn hơn.",
+          "gloss": "Vật liệu dưới lốp xe: mặt đường nhựa, bê tông, sỏi, cát, bùn, tuyết, băng hoặc lá cây.",
+          "termId": "abs_road_surface"
+        }
+      ]
+    },
+    {
+      "body": "Có năm phương pháp phanh được sử dụng trong lái xe thông thường, và chúng giải quyết các vấn đề khác nhau. Phanh tới hạn và hệ thống chống trượt ABS đều cố gắng giữ bánh xe ở ranh giới bám; điểm khác biệt là một thao tác do người lái xe thực hiện, còn thao tác kia do hệ thống thực hiện. Phanh từ tế đòi hỏi một lần dừng êm ái và sớm. Phanh bằng động cơ ở số thấp yêu cầu động cơ và hộp số làm chậm xe. Khi xuống dốc, phương pháp thứ năm kết hợp động cơ và phanh để phanh luôn mát.\n\nCột quan trọng nhất đối với người lái xe là cột cuối cùng. Mỗi phương pháp đều có một bề mặt mà nó yếu, và bề mặt phía trước xe quyết định ta nên sử dụng phương pháp nào. Một phương pháp hiệu quả trên đường khô không nhất thiết hiệu quả trên đường sỏi hoặc băng, và không có phương pháp nào hiệu quả trên mọi bề mặt.\n\nNgười tài xế biết bảng này không chọn phương pháp theo thói quen. Tài xế kiểm tra mặt đường, lốp xe và tải trọng của xe, sau đó lựa chọn. Cuốn sổ tay hướng dẫn của xe cho biết phanh của dòng xe đó có thể chịu được những gì.",
+      "examples": [
+        "Phanh có ngưỡng là phiên bản do người lái xe tự thực hiện của những gì ABS tự làm.",
+        "Tôi sử dụng phanh tiến trình khi tham gia giao thông, vì dừng xe êm ái và lốp xe vẫn tiếp tục lăn.",
+        "Khi đi xuống dốc, tôi dùng số thấp để phanh không bị nóng chết.",
+        "Mọi phương pháp đều có một bề mặt mà trên đó nó yếu đuối."
+      ],
+      "heading": "Các phương pháp phanh song song",
+      "table": {
+        "headers": [
+          "Method",
+          "How it is done",
+          "Where it is strong",
+          "Where it is weak"
+        ],
+        "rows": [
+          [
+            "Threshold braking (stamping) is braking at the limit of grip.",
+            "The driver presses the pedal hard and releases it as soon as the wheel starts to lock.",
+            "It keeps the wheel turning on a firm surface in a car without ABS, and it keeps the steering alive.",
+            "It needs the right timing, and on a loose surface it is easy to lock the wheel and lose the steering."
+          ],
+          [
+            "Anti-lock braking (ABS) is the system that manages the brake pressure.",
+            "The driver keeps the pedal down and the system reduces, holds or raises the brake pressure by itself.",
+            "It is strong on a firm or slippery surface, because it stops the wheel from locking without the driver having to guess.",
+            "It is weak on loose gravel, sand, mud, snow and leaves, where a locked wheel can be the shorter stop."
+          ],
+          [
+            "Progressive braking is a smooth and early stop.",
+            "The driver increases the pressure on the pedal steadily, without a sudden push.",
+            "It is strong in normal traffic and in rain, where it gives a smooth stop and keeps the tyres rolling.",
+            "It is weak in an emergency, because it takes too long to reach the full pressure."
+          ],
+          [
+            "Engine braking with a low gear is slowing the car with the engine.",
+            "The driver selects a low gear and lets the engine slow the car with the accelerator closed.",
+            "It is strong on a long descent, because it takes the heat out of the brakes.",
+            "It cannot stop the car quickly, and it does almost nothing at a low speed."
+          ],
+          [
+            "Braking on a descent with the engine is the way down a long hill.",
+            "The driver chooses a low gear before the descent, lets the engine hold the speed and uses the brake in short pushes.",
+            "It is strong on a long, steep descent, because it keeps the brakes from overheating and fading.",
+            "On a short descent it is unnecessary, and it takes attention and a low gear."
+          ]
+        ]
+      },
+      "terms": [
+        {
+          "example": "Trong lúc giao thông đông, cô ấy đã phanh dần và dừng xe một cách êm ái.",
+          "gloss": "Áp phanh với lực tăng dần thay vì một lần nhấn mạnh đột ngột.",
+          "termId": "abs_progressive_braking"
+        },
+        {
+          "example": "Trong đoạn đường đi xuống dài, anh ấy đã dùng phanh động cơ và phanh vẫn luôn mát.",
+          "gloss": "Hãm xe bằng động cơ và hộp số thay vì sử dụng bàn đạp phanh.",
+          "termId": "abs_engine_braking"
+        }
+      ]
+    },
+    {
+      "body": "Phanh xe tốt là thói quen nhìn về phía trước, không phải phản xạ phanh vào phút chót. Quãng đường mà xe cần để phanh lại phụ thuộc vào tốc độ, mặt đường, lốp xe, tải trọng của xe và thời gian cơ thể người lái xe phản ứng. Một con đường ướt, một con đường phủ sỏi và một con đường có băng đều đòi hỏi phải giữ khoảng cách lớn hơn so với một con đường khô ráo và sạch sẽ. Tài xế biết điều này luôn để lại một khoảng trống đủ để hấp thụ một sai sót.\n\nVới xe ô tô có hệ thống phanh chống kẹt bánh (ABS), kỹ thuật rất đơn giản, và đó là kỹ thuật cam kết: đạp hết chân ga và giữ nguyên. Hệ thống đảm nhiệm việc tinh tế không khóa bánh xe. Điều duy nhất tài xế không được làm là đạp vào bàn đạp, bởi vì mỗi lần nhả bàn đạp đều báo cho hệ thống biết cần để bánh xe quay và giảm áp suất.\n\nTrong xe không có hệ thống phanh chống trượt, người lái xe tự làm việc đó thay thế. Tín hiệu nằm ở bàn đạp: khi bàn đạp bắt đầu chết, bánh xe gần như bị khóa, và chỉ cần nhả nhẹ là nó hoạt động trở lại. Các bước dưới đây kết thúc bằng thao tác đó, để người đọc có thể sử dụng cùng một danh sách cho cả hai xe.",
+      "examples": [
+        "Tôi giữ khoảng cách với xe phía trước để có thể dừng lại trên đoạn đường mà tôi nhìn thấy.",
+        "Tôi nhấn pedal xuống và giữ nguyên ở đó; tôi không đạp lên xuống.",
+        "Đạp xuống không ăn, nên tôi nhả ra một chút rồi đạp lại.",
+        "Tôi lái xe tránh vật cản trong khi xe vẫn đang giảm tốc."
+      ],
+      "heading": "Cách phanh đúng cách với xe có hệ thống ABS",
+      "steps": [
+        "Hãy để lại khoảng cách với xe phía trước đủ để bạn có thể dừng lại trong tầm nhìn của mình.",
+        "Hãy nhìn về phía trước và xác định nơi sẽ dừng lại, trước khi nguy hiểm đến gần bạn.",
+        "Đạp chân ga mạnh xuống và giữ nguyên.",
+        "Không tự đạp bàn đạp; hãy giữ bàn đạp và để hệ thống tự hoạt động.",
+        "Lách qua chướng vật cản trong khi xe đang phanh lại và giữ pedal xuống.",
+        "Sau khi xe đã dừng, nhả chân ga, kiểm tra đường và tình hình giao thông trước khi di chuyển.",
+        "Trong xe không có ABS, nhấn pedal và nếu thấy nó bắt đầu chết, hãy nhả ra một chút rồi nhấn lại."
+      ],
+      "terms": [
+        {
+          "example": "Thời gian phản ứng của người lái xe là một phần quãng đường xe di chuyển trước khi phanh hoạt động.",
+          "gloss": "Khoảng thời gian giữa lúc nhìn thấy nguy hiểm và lúc nhấn pedal phanh.",
+          "termId": "abs_reaction_time"
+        }
+      ]
+    },
+    {
+      "body": "Phanh tay vẫn còn tác dụng. Trên băng hoặc trên lớp sỏi tơi, tài xế cần rẽ xe gấp có thể bật phanh tay để khóa bánh sau và để xe xoay quanh. Trên sỏi, bánh xe bị khóa đào vào mặt đường và xe chậm lại. Đây là một kỹ thuật cần luyện tập, và nó không thay thế được một chiếc lốp xe tốt và một khoảng cách an toàn phù hợp.\n\nTrong một đoạn đường đi xuống dài, phanh động cơ là cách an toàn nhất để giảm tốc độ, vì động cơ và hộp số giữ xe lại còn phanh luôn mát. Phanh tay cũng là phương án cuối cùng khi bàn đạp phanh không hoạt động: nó vẫn có thể dừng xe, dù chậm.\n\nHai điều quyết định điều gì là đúng: cẩm nang của xe và con đường. Sổ tay hướng dẫn nói về tác dụng của phanh tay và hộp số trên mẫu xe đó. Con đường nói điều mà bề mặt có thể chịu được. Đào tạo quan trọng hơn chiếc huy hiệu trên vô-lăng. Người tài xế đã thực hành một kỹ thuật sẽ sử dụng nó một cách thành thạo, còn người tài xế chỉ đọc huy hiệu thì sẽ không.",
+      "examples": [
+        "Trên băng, tôi kéo phanh tay để khóa bánh xe sau.",
+        "Trên đoạn đường đổi dốc dài, tôi dùng số thấp để phanh không bị nóng lên.",
+        "Nếu đạp phanh không ăn, phanh tay là lựa chọn cuối cùng.",
+        "Cả sách hướng dẫn về xe và đường mới quyết định, chứ không phải huy hiệu trên bánh xe."
+      ],
+      "heading": "Những gì mà các phương pháp cũ vẫn còn tốt cho",
+      "terms": [
+        {
+          "example": "Cô ta kéo phanh tay để khóa bánh xe sau trên băng.",
+          "gloss": "Cần gạt bên cạnh ghế tài xế dùng để giữ xe đứng yên; cũng được gọi là phanh tay.",
+          "termId": "abs_handbrake"
+        }
+      ]
+    },
+    {
+      "body": "Hầu hết những gì một tài xế cần trong nghề này là ngôn ngữ của con đường và của xưởng. Hãy nói xem chiếc xe đã làm gì, nói cảm giác của bàn đạp và nói bạn muốn kiểm tra điều gì. Không tự chẩn đoán lỗi; hãy mô tả triệu chứng và để thợ máy quyết định nguyên nhân.\n\nMột giáo viên lái xe cần biết bạn đã cảm thấy thế nào và ở đâu. Một đồng nghiệp cần biết quy tắc và lý do. Thợ cơ khí cần biết triệu chứng theo đúng thứ tự xảy ra, cùng với tiếng động, mùi hoặc đèn cảnh báo xuất hiện kèm theo.",
+      "examples": [
+        "Khi tôi phanh mạnh, bàn đạp bắt đầu rung dưới chân tôi. Điều đó có bình thường không?",
+        "Đèn ABS bật lên từ hôm qua. Xe vẫn phanh bình thường, nhưng tôi đang giữ khoảng cách lớn hơn.",
+        "Trên đường đá, tôi phanh bằng cách nhả chân đạp, vì bánh xe bị khóa sẽ bám vào mặt đường.",
+        "Tôi có đạp phanh không trên xe này, hay xe đã được trang bị ABS?",
+        "Trên đoạn đường đổi dốc dài, chân ga dần mềm. Tôi nghĩ phanh đã bị phai.",
+        "Tôi cảm thấy bàn đạp bị chết ngay trước khi bánh xe bị khóa, nên tôi nhả lên rồi nhấn lại.",
+        "Khi tôi dừng xe, phanh trước hay phanh sau sẽ bị khóa trước?",
+        "Giáo viên của tôi bảo tôi hãy nhìn xa hơn và phanh sớm hơn trên đường ướt."
+      ],
+      "heading": "Các câu bạn có thể sử dụng"
+    },
+    {
+      "body": "Đèn cảnh báo ABS trên bảng điều khiển nói lên một điều: hệ thống phanh chống bó cơ không hoạt động đúng như mong đợi. Lỗi có thể nằm ở cảm biến, mạch điện dây dẫn hoặc bộ điều khiển. Ánh đèn không có nghĩa là xe không có phanh, cũng không có nghĩa là xe không thể được lái.\n\nHệ thống phanh thông thường vẫn hoạt động. Bàn chân vẫn nhấn phanh và xe vẫn dừng lại. Điều người lái xe đã mất đi là sự trợ giúp giữ cho bánh xe không bị kẹt, để xe có thể được lái vòng quanh một vật cản trong khi giảm tốc độ. Ở một số xe khác, các trợ phanh khác cũng tắt khi đèn bật và bàn đạp có thể cảm giác khác đi. Tài liệu hướng dẫn sử dụng của xe ô tô nói rõ những gì xảy ra với mẫu xe đó.\n\nNgười lái xe phải thay đổi cách lái xe. Khoảng cách với xe phía trước phải lớn hơn, và phải bắt đầu phanh sớm hơn và nhẹ nhàng hơn, bởi vì tài xế có thể phải nhả pedal rồi đạp lại bằng tay khi một bánh xe bắt đầu bị khóa. Tốc độ trên đường ướt phải giảm xuống. Xe phải được đặt trước để kiểm tra, và việc kiểm tra được thực hiện trước một chuyến đi dài.\n\nCó hai điều sai: phớt lờ ánh sáng và lái xe như thể hệ thống vẫn hoạt động, cùng với việc giữ tốc độ thông thường trên đường ướt khi xe không thể còn lái để tránh một nguy hiểm. Một chiếc xe có đèn vẫn là một chiếc xe phanh, nhưng đó là một chiếc xe cần vào xưởng sửa chữa và cần khoảng cách an toàn dài hơn.",
+      "examples": [
+        "Đèn ABS đang sáng, nên tôi đã đặt lịch kiểm tra xe và đang giữ khoảng cách lớn hơn.",
+        "Ô tô vẫn phanh bình thường; hệ thống ngăn bánh xe bị khóa lại là bộ phận đã bị hỏng.",
+        "Tôi phanh sớm hơn và nhẹ nhàng hơn cho đến khi xe đã được kiểm tra.",
+        "Tôi không phớt lờ ánh đèn và tôi không lái xe trên đường cao tốc ướt với tốc độ thường lệ của tôi."
+      ],
+      "heading": "Làm gì khi đèn cảnh báo ABS bật lên"
+    }
+  ],
+  "summary": "Sau khi đọc bài này, người đọc sẽ hiểu cơ chế hoạt động và giới hạn của ABS, phân biệt các phương pháp phanh phù hợp với mặt đường cứng, đất mềm hoặc băng, đồng thời biết cách phanh an toàn cho xe có và không có ABS, cùng cách xử lý khi đèn cảnh báo ABS bật.",
+  "title": "ABS không phải sự thật tuyệt đối: Giới hạn của hệ thống chống kẹt phanh"
+}

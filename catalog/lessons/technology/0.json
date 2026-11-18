@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "addedAt": "2026-11-14T00:00:00Z",
+      "cover": "asset://5baf887c6375b8646a0c04250968e2daeeee0f5b4182867542e9e7701ba9c226",
+      "durationMin": 22,
+      "fieldId": "technology",
+      "id": "article_brainrot",
+      "summary": "Short videos and infinite feeds are engineered to hold your attention, and the result is a tired, scattered feeling after hours of scrolling. After reading this you can tell the difference between a weak attention span and a strong habit, spot the signs that the feed has taken over your day, and run a one-week reset that gives you your focus back.",
+      "systemId": "attention_and_the_internet",
+      "title": "Brain Rot: Is the Internet Destroying Our Attention Span?"
+    },
+    {
+      "addedAt": "2026-11-14T00:00:00Z",
+      "cover": "asset://cce50937bb3912450ae4a05f13518e42d25d4e27d5f7a3f8d81e5a6ab747f8ad",
+      "durationMin": 26,
+      "fieldId": "technology",
+      "id": "article_online_scams",
+      "summary": "Scam messages are built on a small number of patterns, and those patterns leave signals you can learn to read in seconds. After reading this you can recognise the four structures behind almost every scam, spot the tells in a message before you act, run the first-ten-minutes procedure after an incident, choose payment methods that can be reversed, and say the sentences that stop a scammer without alarming the people around you.",
+      "systemId": "online_scams",
+      "title": "How to Spot Online Scams and Fake Messages"
+    },
+    {
+      "addedAt": "2026-11-17",
+      "cover": "asset://992dc58e0673e7104e752eb2878de3847a714096c66b9ab57857116de3f07a10",
+      "durationMin": 18,
+      "fieldId": "technology",
+      "id": "article_how_ai_works",
+      "relatedTopicIds": [
+        "article_ai_tokens",
+        "article_ai_revolution"
+      ],
+      "summary": "A language model does not look up answers. It learns patterns from a large amount of text, and at run time it predicts the next token, one token at a time. After reading this you can explain how a model is trained, what the context window holds, why a fluent answer can be wrong, and what to check before you trust an output at work.",
+      "systemId": "how_ai_works",
+      "title": "How AI Actually Works: Training, Prediction and Its Limits"
+    },
+    {
+      "addedAt": "2026-11-14T00:00:00Z",
+      "cover": "asset://1f84dce3f390a09472f6d62c023fb0c886634d3bac28ab8a05ac68dbda7e7316",
+      "durationMin": 24,
+      "fieldId": "technology",
+      "id": "article_ai_revolution",
+      "summary": "Artificial intelligence moved from research papers to daily tools in a few years, and it now touches your work, your phone and your money. After reading this you can explain what modern AI actually does, name the jobs it does well and badly, spot the three failure modes before you trust an answer, and decide what to hand over to a machine and what to keep.",
+      "systemId": "ai_revolution",
+      "title": "The AI Revolution: How Smart Machines Are Changing Our Lives"
+    },
+    {
+      "addedAt": "2026-11-14T00:00:00Z",
+      "cover": "asset://aaec780f2fc2af8dfadb952d17272e73978c5bce69dcd57b80fb11777e250bb2",
+      "durationMin": 21,
+      "fieldId": "technology",
+      "id": "article_ai_tokens",
+      "summary": "A chatbot does not read your message; it reads tokens, and the limits on how many tokens it can hold explain most of what feels strange about it. After reading this you can explain what a token is, judge whether a message will fit in the context window, count tokens roughly, write prompts that get better answers, and recognise the moment a long chat has stopped being reliable.",
+      "systemId": "ai_tokens",
+      "title": "Understanding AI Tokens and How Chatbots Work"
+    }
+  ],
+  "nextCursor": null,
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

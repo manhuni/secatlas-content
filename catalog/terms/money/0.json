@@ -1,0 +1,568 @@
+{
+  "items": [
+    {
+      "definition": "The yearly price of borrowing on the card, with most fees included. It is the number to compare two cards by.",
+      "dictionaryId": "lex.sa.money.apr",
+      "example": "This card has a 24 % APR, which is about 0.066 % a day.",
+      "fieldId": "money",
+      "id": "apr",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "APR (annual percentage rate)"
+    },
+    {
+      "definition": "The most the bank will let you borrow on the card at one time. Going over it is usually refused and sometimes charged.",
+      "dictionaryId": "lex.sa.money.credit_limit",
+      "example": "My credit limit is 2000 $, and I use about 600 $ of it.",
+      "fieldId": "money",
+      "id": "credit_limit",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Credit limit"
+    },
+    {
+      "definition": "The period between two statements. Everything bought in one cycle appears on the next statement.",
+      "dictionaryId": "lex.sa.money.billing_cycle",
+      "example": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+      "fieldId": "money",
+      "id": "billing_cycle",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Billing cycle"
+    },
+    {
+      "definition": "The days between the statement date and the due date, during which you can pay in full without interest.",
+      "dictionaryId": "lex.sa.money.grace_period",
+      "example": "If I pay the statement balance inside the grace period, I pay no interest.",
+      "fieldId": "money",
+      "id": "grace_period",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Grace period"
+    },
+    {
+      "definition": "The smallest monthly sum the card will accept. Paying only this keeps the balance, and the interest, alive.",
+      "dictionaryId": "lex.sa.money.minimum_payment",
+      "example": "The minimum payment is 25 $, so the rest of the balance stays on the card.",
+      "fieldId": "money",
+      "id": "minimum_payment",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Minimum payment"
+    },
+    {
+      "definition": "The charge the bank makes for a late payment, on top of any penalty rate and any loss of your good history.",
+      "dictionaryId": "lex.sa.money.overdue_fee",
+      "example": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+      "fieldId": "money",
+      "id": "overdue_fee",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Overdue fee"
+    },
+    {
+      "definition": "The percentage change in the general level of prices over a period of time, usually a year.",
+      "dictionaryId": "lex.sa.money.inflation_rate",
+      "example": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+      "fieldId": "money",
+      "id": "inflation_rate",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Inflation rate"
+    },
+    {
+      "definition": "The standard index of the price of a basket of goods and services bought by households. Its change over time is the headline inflation rate.",
+      "dictionaryId": "lex.sa.money.consumer_price_index",
+      "example": "The consumer price index is the number the news report quotes.",
+      "fieldId": "money",
+      "id": "consumer_price_index",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Consumer price index (CPI)"
+    },
+    {
+      "definition": "The year the price index starts from, set to 100. Changing it resets the index without changing any actual prices.",
+      "dictionaryId": "lex.sa.money.base_year",
+      "example": "With last year as the base year, the index now stands at 104.",
+      "fieldId": "money",
+      "id": "base_year",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Base year"
+    },
+    {
+      "definition": "Income measured in the money actually received, with no adjustment for changes in prices.",
+      "dictionaryId": "lex.sa.money.nominal_income",
+      "example": "My nominal income rose, but not as fast as prices.",
+      "fieldId": "money",
+      "id": "nominal_income",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Nominal income"
+    },
+    {
+      "definition": "Income adjusted for inflation, which is the figure that says how much you can actually buy.",
+      "dictionaryId": "lex.sa.money.real_income",
+      "example": "Real income fell two per cent because prices rose faster than my pay.",
+      "fieldId": "money",
+      "id": "real_income",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Real income"
+    },
+    {
+      "definition": "The interest rate minus the inflation rate. It is the return a saver actually keeps in purchasing power.",
+      "dictionaryId": "lex.sa.money.real_interest_rate",
+      "example": "A 4 % deposit with 6 % inflation gives a real interest rate of minus 2 %.",
+      "fieldId": "money",
+      "id": "real_interest_rate",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Real interest rate"
+    },
+    {
+      "definition": "Total pay for the period before any money is deducted for tax, insurance or other agreed deductions.",
+      "dictionaryId": "lex.sa.money.gross_pay",
+      "example": "My gross pay is 40 $ a month, before anything is taken off.",
+      "fieldId": "money",
+      "id": "gross_pay",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Gross pay"
+    },
+    {
+      "definition": "The amount left after all deductions, and the amount that reaches your bank account.",
+      "dictionaryId": "lex.sa.money.net_pay",
+      "example": "The difference between my gross and my net is mostly tax and insurance.",
+      "fieldId": "money",
+      "id": "net_pay",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Net pay"
+    },
+    {
+      "definition": "Any amount taken off gross pay before payment, whether required by law or agreed with you.",
+      "dictionaryId": "lex.sa.money.deduction",
+      "example": "The canteen charge is a deduction, so it comes out before my net pay.",
+      "fieldId": "money",
+      "id": "deduction",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Deduction"
+    },
+    {
+      "definition": "Income tax taken out of your pay in advance by the employer. It is not your final tax bill.",
+      "dictionaryId": "lex.sa.money.tax_withholding",
+      "example": "The tax withheld this month was higher because my bonus was large.",
+      "fieldId": "money",
+      "id": "tax_withholding",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Tax withheld"
+    },
+    {
+      "definition": "The compulsory payment into the social insurance system that covers sickness, maternity, accidents and retirement.",
+      "dictionaryId": "lex.sa.money.social_insurance",
+      "example": "My social insurance contribution is a percentage of my gross pay.",
+      "fieldId": "money",
+      "id": "social_insurance",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Social insurance contribution"
+    },
+    {
+      "definition": "Money you paid for work that the company owes you back. It almost always needs a receipt and a deadline.",
+      "dictionaryId": "lex.sa.money.expense_claim",
+      "example": "I submitted the taxi receipts as an expense claim on Friday.",
+      "fieldId": "money",
+      "id": "expense_claim",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Expense claim"
+    },
+    {
+      "definition": "The amount in the account at the start of the statement period. Every figure that follows is measured from it.",
+      "dictionaryId": "lex.sa.money.opening_balance",
+      "example": "The opening balance was 500 $, so the first transaction was charged against that.",
+      "fieldId": "money",
+      "id": "opening_balance",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Opening balance"
+    },
+    {
+      "definition": "The amount in the account at the end of the statement period, after every transaction in it.",
+      "dictionaryId": "lex.sa.money.closing_balance",
+      "example": "The closing balance is 420 $, which is 80 $ more than the opening balance.",
+      "fieldId": "money",
+      "id": "closing_balance",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Closing balance"
+    },
+    {
+      "definition": "Money leaving the account. On a statement it is usually shown with a minus sign or in a column headed money out.",
+      "dictionaryId": "lex.sa.money.debit",
+      "example": "The debit for the supermarket is 64 $, so that is the debit column, not the credit column.",
+      "fieldId": "money",
+      "id": "debit",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Debit"
+    },
+    {
+      "definition": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
+      "dictionaryId": "lex.sa.money.credit",
+      "example": "The credit of 1200 $ on the 15th is my salary.",
+      "fieldId": "money",
+      "id": "credit",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Credit"
+    },
+    {
+      "definition": "A payment a company is authorised to take from your account on a date, without asking you again each time.",
+      "dictionaryId": "lex.sa.money.direct_debit",
+      "example": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+      "fieldId": "money",
+      "id": "direct_debit",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Direct debit"
+    },
+    {
+      "definition": "A fixed amount you authorise to be paid on a schedule, whether or not the underlying bill is the same each month.",
+      "dictionaryId": "lex.sa.money.standing_order",
+      "example": "I have a standing order to my landlord for the rent, and a direct debit for the utilities.",
+      "fieldId": "money",
+      "id": "standing_order",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Standing order"
+    },
+    {
+      "definition": "The money of a country: its notes, its coins, and the rules that govern them.",
+      "dictionaryId": "lex.sa.money.mon_currency",
+      "example": "The shop takes only the local currency.",
+      "fieldId": "money",
+      "id": "mon_currency",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Currency"
+    },
+    {
+      "definition": "The job money does when it is used to pay for something instead of trading goods for goods.",
+      "dictionaryId": "lex.sa.money.mon_medium_of_exchange",
+      "example": "The bus ticket is a medium of exchange: the fare buys the ride.",
+      "fieldId": "money",
+      "id": "mon_medium_of_exchange",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Medium of exchange"
+    },
+    {
+      "definition": "The job money does when it is the common measure of what things cost.",
+      "dictionaryId": "lex.sa.money.mon_unit_of_account",
+      "example": "At 3 $ the coffee and 2 $ the ticket, the unit of account makes the two prices comparable.",
+      "fieldId": "money",
+      "id": "mon_unit_of_account",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Unit of account"
+    },
+    {
+      "definition": "The job money does when it keeps its value over time, so a payment can be made today for something received later.",
+      "dictionaryId": "lex.sa.money.mon_store_of_value",
+      "example": "The balance in the account is a store of value for the bill that arrives next month.",
+      "fieldId": "money",
+      "id": "mon_store_of_value",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Store of value"
+    },
+    {
+      "conflict": true,
+      "definition": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
+      "dictionaryId": "lex.sa.money.credit",
+      "example": "The credit of 1200 $ on the 15th is my salary.",
+      "fieldId": "money",
+      "id": "mon_credit",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Credit"
+    },
+    {
+      "definition": "The public body with the right to issue the currency of a country.",
+      "dictionaryId": "lex.sa.money.mon_central_bank",
+      "example": "The central bank raises its interest rate when prices rise too fast.",
+      "fieldId": "money",
+      "id": "mon_central_bank",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Central bank"
+    },
+    {
+      "definition": "The gain a state earns from issuing money.",
+      "dictionaryId": "lex.sa.money.mon_seigniorage",
+      "example": "The state's gain from a new note is seigniorage, because the note costs less to make than it buys.",
+      "fieldId": "money",
+      "id": "mon_seigniorage",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Seigniorage"
+    },
+    {
+      "definition": "The value of what a person owns, after what the person owes.",
+      "dictionaryId": "lex.sa.money.mon_wealth",
+      "example": "The van and the tools are wealth; the loan on the van is not.",
+      "fieldId": "money",
+      "id": "mon_wealth",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Wealth"
+    },
+    {
+      "definition": "An amount measured at one moment, such as the balance on an account today.",
+      "dictionaryId": "lex.sa.money.mon_stock",
+      "example": "The stock is 800 $ today, whatever the monthly flow was.",
+      "fieldId": "money",
+      "id": "mon_stock",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Stock"
+    },
+    {
+      "definition": "The continuous motion of a fluid.",
+      "dictionaryId": "lex.sa.en.flow.noun",
+      "example": "A flow of 2 000 $ a month leaves a stock of 300 $ after the bills.",
+      "fieldId": "money",
+      "id": "mon_flow",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "flow"
+    },
+    {
+      "definition": "A figure measured in the money as printed, with no adjustment for prices.",
+      "dictionaryId": "lex.sa.money.mon_nominal",
+      "example": "The nominal salary is 2 000 $, which is not the same as what it buys.",
+      "fieldId": "money",
+      "id": "mon_nominal",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Nominal"
+    },
+    {
+      "definition": "True to fact; not a simulation.",
+      "dictionaryId": "lex.sa.en.real.adjective",
+      "example": "With prices rising, the real value of the 2 000 $ falls while the ticket still says 2 000 $.",
+      "fieldId": "money",
+      "id": "mon_real",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "real"
+    },
+    {
+      "definition": "A tax that is already counted inside the price you read.",
+      "dictionaryId": "lex.sa.money.mon_tax_in_price",
+      "example": "The ticket at 11 $ includes 1 $ of tax in the price, and the receipt does not show it separately.",
+      "fieldId": "money",
+      "id": "mon_tax_in_price",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Tax in the price"
+    },
+    {
+      "definition": "The difference between the price a shop buys at and the price it sells at.",
+      "dictionaryId": "lex.sa.money.mon_spread",
+      "example": "The spread between the producer's price and the shelf price is already inside what you pay.",
+      "fieldId": "money",
+      "id": "mon_spread",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Spread"
+    },
+    {
+      "definition": "A fixed charge for a service, such as a card payment or a bank transfer.",
+      "dictionaryId": "lex.sa.money.mon_fee",
+      "example": "The bank fee for the transfer is 2 $ every time, whatever the amount transferred.",
+      "fieldId": "money",
+      "id": "mon_fee",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Fee"
+    },
+    {
+      "definition": "The price of borrowing money, charged as a percentage of what you still owe.",
+      "dictionaryId": "lex.sa.money.mon_interest",
+      "example": "At 2 % a year on a debt of 1 000 $, the interest for the year is 20 $.",
+      "fieldId": "money",
+      "id": "mon_interest",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Interest"
+    }
+  ],
+  "nextCursor": "40",
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

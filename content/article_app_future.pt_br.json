@@ -1,0 +1,79 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_app_future",
+  "objectives": [
+    "Descreva como os agentes de IA mudam a forma como o software é usado.",
+    "Explique a interação orientada por intenção versus a interação orientada por comandos.",
+    "Descreva o que acontece com as interfaces dos aplicativos quando os agentes agem em nome dos usuários.",
+    "Reflita sobre a relação em mudança entre humanos e software.",
+    "Identifique o que as pessoas ainda querem fazer por conta própria."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "A era do smartphone organizou os serviços do mundo em apps, e os apps em telas de controles. Cada vontade tinha um procedimento: abrir o app, encontrar a funcionalidade, preencher o formulário, confirmar. Os humanos aprenderam os procedimentos; o software esperava por eles.\n\nAgentes de IA invertem essa organização. O usuário declara uma intenção — \"me ache um trem que me leve para casa até as sete e por menos de vinte dólares\" — e o agente executa o procedimento em vários apps, lendo telas, preenchendo formulários, confirmando detalhes. A relação do usuário com o software deixa de ser manual.\n\nEsta não é uma pequena mudança de interação; é uma mudança em quem opera quem. Pela primeira vez desde que a computação começou, o usuário padrão do software pode se tornar mais um software. A tela, desenhada para dedos humanos, se torna um canal lateral que os agentes leem e que os humanos occasionalmente conferem.",
+      "examples": [
+        "Ela disse \"remarca minha consulta com o dentista para o próximo mês\"; o agente abriu o app de agendamento, encontrou o calendário e retornou com três opções."
+      ],
+      "heading": "De botões a intenções"
+    },
+    {
+      "body": "A economia de apps foi construída sobre a captura de atenção: cada empresa cercou seu serviço dentro de sua própria interface, porque era na interface que a publicidade, os dados e a lealdade viviam. Agents ignoram cercas. Eles percorrem serviços em nome do usuário, o que transforma todo jardim murado em um corredor.\n\nIsso quebra vários padrões de negócios de uma só vez. Interfaces projetadas para serem viciantes se tornam irrelevantes quando ninguém olha para elas. Notifications perdem força quando um agent filtra as telas. O Lock-in enfraquece quando os custos de troca são pagos por software, e não por um humano reaprendendo a usar um novo app.\n\nA resposta já está visível: serviços expondo interfaces de máquina — APIs e acesso estruturado — para agents, enquanto o design voltado a humanos perde discretamente a importância. No longo prazo, as empresas que vencem podem ser aquelas cujos serviços são mais fáceis de usar com fidelidade por agents, e não aquelas cujas interfaces são mais envolventes aos olhos humanos. Software compete para ser escolhido por máquinas.",
+      "examples": [
+        "O app de entrega de comida percebeu que metade dos pedidos agora chega por assistants e foi redesenhado em torno de um acesso de máquina limpo, em vez de banners chamativos."
+      ],
+      "heading": "Por que toda empresa construiu um muro, e o que quebra"
+    },
+    {
+      "body": "A Delegation tem um limite, e, com software, ela percorre a preference e a responsibility. Agents podem comparar opções, mas escolher entre elas frequentemente envolve valores que nenhum model possui: o voo mais barato vale uma escala de four-hour com uma criança cansada? O doctor mais conveniente é aquele em quem confio? Preferences como estas são formadas pela vida, não pela otimização.\n\nA responsibility estabelece um limite mais rígido. Quando um agent reserva o voo errado, envia a mensagem errada ou compra a ação errada, as consequências pertencem ao humano que fez a delegação. Manter um controle significativo significa manter uma visibilidade significativa: saber o que o agent fez, ser capaz de interromper e reservar a aprovação final para o que importa.\n\nO model mais saudável que está emergindo é uma divisão do trabalho: agents lidam com o procedimento, humanos lidam com a preferência e a responsabilidade. A era do app fez as pessoas operarem máquinas; a era do agent faz as máquinas operarem software — com as pessoas fazendo as partes distintamente humanas que permanecem.",
+      "examples": [
+        "O agent lida com os três apps de booking; ele lida com a única questão que decide: essa viagem funciona para a família?"
+      ],
+      "heading": "O que o humano preserva"
+    },
+    {
+      "body": "Estes termos descrevem a mudança do software operado por humanos para o software operado por agentes.",
+      "heading": "O vocabulário do software que atende",
+      "terms": [
+        {
+          "example": "O aplicativo agêntico não esperava ser instruído; percebeu o voo atrasado e remarizou a conexão.",
+          "gloss": "Software projetado para agir toward goals com certo grau de autonomia, em vez de esperar cada comando."
+        },
+        {
+          "example": "A interface adaptativa mostrou primeiro o quadro de partidas no dia da viagem e, às segundas-feiras, as anotações da reunião.",
+          "gloss": "Uma interface de usuário que muda conforme o contexto, a intenção e o histórico, em vez de mostrar menus fixos."
+        },
+        {
+          "example": "A intenção dela era 'uma mesa tranquila para duas pessoas na sexta-feira'; os comandos envolveram três aplicativos e uma ligação.",
+          "gloss": "Uma declaração do que o usuário quer alcançar, em contraste com os comandos que realizam esse objetivo."
+        },
+        {
+          "example": "A automação de tarefas moveu a fatura do e-mail para a contabilidade e depois para a confirmação do pagamento enquanto ela tomava café.",
+          "gloss": "A execução de procedimentos de várias etapas pelo software sem que um humano precise operar cada etapa."
+        },
+        {
+          "example": "O assistente usou a API do banco para verificar o saldo — sem tela e sem digitar senha.",
+          "gloss": "Interface de programação de aplicativos: uma forma estruturada de um software usar outro serviço, criada para máquinas, não para humanos."
+        },
+        {
+          "example": "Na computação ambiente, a casa ajusta o aquecimento e o agente ajusta a agenda; ninguém abriu um aplicativo.",
+          "gloss": "Computação integrada ao ambiente de modo que atue em segundo plano, sem exigir atenção."
+        }
+      ]
+    },
+    {
+      "body": "Por décadas, o software mostrava seu trabalho na tela porque os humanos eram os operadores. À medida que os agentes assumem a operação, a interface se reduz a um resumo do que foi feito — um recibo para conferir, não uma máquina para executar. Projetar para a confiança importa mais do que projetar para o engajamento.",
+      "heading": "A tela está se tornando um recibo"
+    },
+    {
+      "body": "As habilidades que a era dos apps exigia — memorizar procedimentos, navegar por menus, gerenciar muitos logins — estão se depreciando. As habilidades que a era dos agents recompensa são diferentes: definir metas com clareza, dividir o trabalho entre a pessoa e o software com sabedoria, auditar os resultados e saber quando retomar o controle.\n\nHá também um ajuste cultural. Software que age pode parecer perda de controle ou alívio, dependendo de como é construído e governado. A demanda que moldará a próxima década é simples de declarar e difícil de entregar: agents que são poderosos por baixo e honestos na superfície, mostrando o que fizeram em uma linguagem que uma pessoa cansada possa verificar quickly.\n\nA relação entre pessoas e software está se tornando aquilo que talvez sempre deveria ter sido: as pessoas trazem intenções e julgamento, o software traz memória e velocidade, e a divisão do trabalho é negociada abertamente. O app nos ensinou a servir à interface. O agent promete o oposto — e manter essa promessa será o trabalho de anos.",
+      "examples": [
+        "Ele verifica o resumo do agent todas as noites por dois minutos — não para operar o dia, mas para possuí-lo."
+      ],
+      "heading": "Aprendendo a viver com software que age"
+    }
+  ],
+  "summary": "Por quinze anos, software significou telas: toque aqui, deslize por ali, aprenda os menus de cada aplicativo. Este artigo examina a mudança que agora está em andamento: agentes de IA que operam aplicativos em nosso nome, interfaces que se adaptam à intenção e o fim da era em que cada tarefa exigia que um humano pressionasse botões.",
+  "title": "O Futuro dos Aplicativos Móveis: Quando a IA Usa Software por Nós"
+}

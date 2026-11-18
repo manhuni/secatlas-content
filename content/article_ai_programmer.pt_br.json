@@ -1,0 +1,79 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_ai_programmer",
+  "objectives": [
+    "Descreva o que a geração de código por IA realmente automatiza.",
+    "Explique a transição de escrever código para definir problemas.",
+    "Distinga a automação da sintaxe da automação do julgamento.",
+    "Identifique as habilidades que ganham valor à medida que a programação é automatizada.",
+    "Reflita sobre o que significa \"engenheiro\" quando máquinas escrevem código."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Cada onda de automação da programação eliminou uma camada de digitação e revelou uma camada mais profunda de pensamento por baixo. Compilers eliminaram o código de máquina; frameworks eliminaram o boilerplate; serviços de cloud eliminaram a administração de server. Cada vez, a prediction era a mesma — a programação está morta — e cada vez o trabalho subiu um nível de abstraction.\n\nA geração de código com AI é o maior salto desse tipo. Routine functions, tests, migrations e glue code agora chegam em segundos. Medido pelo número de caracteres digitados, quase tudo o que os programmers faziam em 2020 é automatable. Medido pelo que realmente.importava para o trabalho, quase nada é.\n\nO núcleo persistente do trabalho nunca foi a syntax. É a tradução de uma situação humana e confusa — uma regra de negócio, uma necessidade do usuário, uma restrição física — em uma declaração precisa que a máquina possa executar, e o julgamento necessário para saber se o resultado está certo. A syntax era a última camada, a mais visível e a menos importante.",
+      "examples": [
+        "A AI escreveu a function em quatro segundos; decidir o que a function deveria realmente fazer levou a team a duas reuniões."
+      ],
+      "heading": "A digitação nunca foi o trabalho"
+    },
+    {
+      "body": "À medida que a geração fica barata, a habilidade escassa passa a ser a especificação: dizer claramente o que deve ser construído, para quem, sob quais restrições e o que significa “correto”. Um prompt vago gera um código plausível que resolve da maneira mais bonita o problema errado. Uma especificação precisa transforma a mesma máquina em um construtor confiável.\n\nIsso é mais difícil do que parece. A maioria dos problemas reais chega como sentimentos — “o checkout parece confuso”, “os relatórios demoram demais” — e o primeiro trabalho do engenheiro é convertê-los em estrutura: quais são os dados, quais são as etapas, o que pode dar errado e como o sucesso é medido. Essa atividade, às vezes chamada de decomposição de problemas, é onde projetos são vencidos ou perdidos, e acontece inteiramente fora do código.\n\nO programador do futuro próximo se parece menos com um digitador e mais com um arquiteto que também é dono da construção: especifica estruturas, verifica materiais e assume a responsabilidade pelo prédio. As ferramentas mudam a proporção de trabalho, não a realidade da responsabilidade.",
+      "examples": [
+        "Duas equipes usaram o mesmo assistente de IA; a equipe que escreveu primeiro uma especificação de uma página entregou o projeto três vezes mais rápido."
+      ],
+      "heading": "De escrever código a definir problemas"
+    },
+    {
+      "body": "Algumas partes do trabalho de software resistem à automation por razões estruturais. **Context** é uma: um system vive dentro de uma company, uma law, uma history de decisions, e as machines veem apenas os fragments que lhes são shown. **Consequences** são outra: escolher entre uma feature mais rápida e um design mais seguro é uma decision de values, e values não compilam. **Trust** é uma terceira: os users blame e credit pessoas, não models.\n\nEngineering judgment é o name para a combinação: manter o context em mente, pesar as consequences e ficar atrás do result. Fica mais valuable à medida que a generation fica mais cheap, porque cada piece de código cheap aumenta o número de decisions por day. Quando produzir uma option não custa nada, escolher entre options é o job inteiro.\n\nÉ por isso que a boundary da automation continua se movendo e nunca chega: cada nova capability absorve as tasks que já eram routine e expõe, mais claramente do que antes, o judgment que sempre foi o trabalho real.",
+      "examples": [
+        "O valor da senior engineer não estava em ela coder mais rápido, mas em ela parar três features plausíveis que teriam prejudicado o product."
+      ],
+      "heading": "O que não pode ser atribuído à máquina"
+    },
+    {
+      "body": "Estes termos descrevem o que está sendo automatizado e o que não está.",
+      "heading": "O vocabulário darole em transformação",
+      "terms": [
+        {
+          "example": "Com o AI pair programmer, ele redige testes em segundos e gasta seu tempo com as hard design questions.",
+          "gloss": "Um assistente de IA integrado ao processo de desenvolvimento que escreve, completa e explica code sob solicitação."
+        },
+        {
+          "example": "Code generation transformou a especificação dela em duzentas linhas de service code em funcionamento.",
+          "gloss": "A produção automática de code de programa a partir de uma descrição em natural-language ou de um exemplo."
+        },
+        {
+          "example": "Problem decomposition transformou “melhorar o onboarding” em seis screens concretas com goals mensuráveis.",
+          "gloss": "A divisão de um problem grande e vago em partes pequenas, precisas e solúveis, com condições de sucesso claras."
+        },
+        {
+          "example": "Systems thinking é perceber que a camada de caching, meant para acelerar as coisas, também delays as mensagens de erro.",
+          "gloss": "O raciocínio sobre como as partes de um system afetam umas às outras, incluindo efeitos que aparecem longe no tempo ou na estrutura."
+        },
+        {
+          "example": "Engineering judgment indicou rejeitar a solução elegante que nobody na equipe conseguiria manter.",
+          "gloss": "A capacidade de tomar boas decisões técnicas sob incerteza, weighing trade-offs que nenhuma rule consegue resolver."
+        },
+        {
+          "example": "Most of the cost of software is maintenance, e é por isso que code que nobody entende representa uma liability.",
+          "gloss": "O trabalho contínuo de manter o software alive: corrigir, adaptar e explicar ao longo de anos de condições em mudança."
+        }
+      ]
+    },
+    {
+      "body": "Pergunte a um senior developer o que ele faz o dia todo e a resposta honesta agora inclui: revisar code escrito por máquina, decidir o que deve existir e explicar sistemas para humanos. Companies que contratam por velocidade de digitação estão contratando a camada que acabou de se tornar free.",
+      "heading": "O teste de entrevista já mudou"
+    },
+    {
+      "body": "Para quem está entrando na área, o caminho mudou, mas não desapareceu. Aprenda a ler code antes de escrevê-lo — revise, depure e explique systems existentes, porque a verification agora representa a maior parte do work. Aprenda deeply um domain; as machines conhecem a syntax, mas não conhecem o warehouse do seu user, as rules da sua clinic, os habits do seu market. E pratique specification: escreva, para cada feature, uma short statement do problem, das constraints e do test de success.\n\nPara engineers experientes, o premium se desloca para as duas coisas que as machines amplificam em vez de replace: **taste** — o sense do que vale a pena construir — e **trust** — um track record de ficar atrás das decisions. Uma machine pode produce mil options. Uma profession é a discipline de escolher e de ser answerable pela escolha.\n\nO programmer não está disappearing. O programmer está se tornando aquilo que a word sempre contém em segredo: não a pessoa que digita, mas a pessoa responsável pelo system.",
+      "examples": [
+        "A engineer mais valued do team escreve o menor code — e suas one-paragraph design notes evitam o maior número de rewrites."
+      ],
+      "heading": "Como continuar sendo valioso quando o code é gratuito"
+    }
+  ],
+  "summary": "A máquina escreve código funcional em segundos, então o que sobra do programador? Este artigo analisa como o papel está mudando: de digitar código para definir problemas, de conhecer sintaxes para avaliar sistemas, e por que a fronteira entre automação e habilidade de engenharia está se deslocando, em vez de desaparecer.",
+  "title": "Quando a IA escreve código: quanto vale um programador?"
+}

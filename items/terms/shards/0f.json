@@ -1,0 +1,93 @@
+{
+  "items": {
+    "alarm_clock": {
+      "definition": "A small clock that rings in the morning to wake you up.",
+      "dictionaryId": "lex.sa.kids_home.alarm_clock",
+      "example": "My alarm clock rings at six.",
+      "fieldId": "kids_home",
+      "id": "alarm_clock",
+      "lessonIds": [
+        "article_bedroom"
+      ],
+      "packs": [
+        "knw.kids.home.bedroom"
+      ],
+      "term": "Alarm clock"
+    },
+    "att_fearful": {
+      "definition": "Describing a person who wants closeness and is afraid of it at the same time.",
+      "dictionaryId": "lex.sa.social.att_fearful",
+      "example": "Fearful-avoidant behaviour often looks like pulling back right after reaching out.",
+      "fieldId": "social",
+      "id": "att_fearful",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Fearful-avoidant"
+    },
+    "attention_span": {
+      "conflict": true,
+      "definition": "The length of time you can hold focus on one task. It depends on the task and on your state, not on a fixed personal rating.",
+      "dictionaryId": "lex.sa.technology.attention_span",
+      "example": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+      "fieldId": "technology",
+      "id": "attention_span",
+      "lessonIds": [
+        "article_attention_death",
+        "article_brainrot"
+      ],
+      "packs": [
+        "knw.mind.attention_death",
+        "knw.tech.brainrot"
+      ],
+      "term": "Attention span"
+    },
+    "war_logistics": {
+      "definition": "The work of moving and supplying the fighting: food, fuel, ammunition, vehicles and spares.",
+      "dictionaryId": "lex.sa.mind.war_logistics",
+      "example": "The report says the problem was logistics, not the fighting.",
+      "fieldId": "mind",
+      "id": "war_logistics",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Logistics"
+    },
+    "war_objective": {
+      "definition": "The result a plan aims at, written so that it can be judged done or not done.",
+      "dictionaryId": "lex.sa.mind.war_objective",
+      "example": "The brief states the objective in one line: the river crossing.",
+      "fieldId": "mind",
+      "id": "war_objective",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Objective"
+    },
+    "warning_triangle": {
+      "definition": "The red reflective triangle placed on the road behind a stopped vehicle so drivers see it in time.",
+      "dictionaryId": "lex.sa.daily_skills.warning_triangle",
+      "example": "Put the warning triangle out about 100 metres behind the car.",
+      "fieldId": "daily_skills",
+      "id": "warning_triangle",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Warning triangle"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

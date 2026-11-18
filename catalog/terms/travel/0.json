@@ -1,0 +1,497 @@
+{
+  "items": [
+    {
+      "definition": "The moment you take the room, normally from 14:00 or 15:00. Before it, the hotel usually stores your luggage free of charge.",
+      "dictionaryId": "lex.sa.travel.check_in",
+      "example": "Check-in is from 14:00, but I can leave my bags with you in the morning.",
+      "fieldId": "travel",
+      "id": "check_in",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Check-in"
+    },
+    {
+      "definition": "The card or fob that opens your door. In many hotels it also works as your room number, your lift pass and your breakfast voucher.",
+      "dictionaryId": "lex.sa.travel.room_key",
+      "example": "Could I have a second key card for my colleague?",
+      "fieldId": "travel",
+      "id": "room_key",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Room key"
+    },
+    {
+      "definition": "A sum held on your card, or taken in cash, to cover extras and damage. It is released after you leave.",
+      "dictionaryId": "lex.sa.travel.deposit",
+      "example": "We hold a deposit of 200 on your card for the minibar and the safe.",
+      "fieldId": "travel",
+      "id": "deposit",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Deposit"
+    },
+    {
+      "definition": "Giving the room back and paying the final bill, usually between 10:00 and 12:00. Late check-out can often be arranged.",
+      "dictionaryId": "lex.sa.travel.checkout",
+      "example": "Can I check out at 14:00 instead of 11:00? My flight is at 17:00.",
+      "fieldId": "travel",
+      "id": "checkout",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Check-out"
+    },
+    {
+      "definition": "Free storage of bags before check-in or after check-out, which lets you use the city without carrying a suitcase.",
+      "dictionaryId": "lex.sa.travel.luggage_storage",
+      "example": "Could you store my luggage until my flight in the evening?",
+      "fieldId": "travel",
+      "id": "luggage_storage",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Luggage storage"
+    },
+    {
+      "definition": "The team that cleans the rooms, changes the linen and takes away used towels.",
+      "dictionaryId": "lex.sa.travel.housekeeping",
+      "example": "Could housekeeping bring two more towels, please?",
+      "fieldId": "travel",
+      "id": "housekeeping",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Housekeeping"
+    },
+    {
+      "definition": "The staff member who arranges tickets, tours, taxis, doctors and anything else the hotel does not sell itself.",
+      "dictionaryId": "lex.sa.travel.concierge",
+      "example": "The concierge booked a table at a restaurant that was fully booked.",
+      "fieldId": "travel",
+      "id": "concierge",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Concierge"
+    },
+    {
+      "definition": "The card or phone screen that lets you board the aircraft. It carries your name, the flight, the gate, the seat and the boarding time.",
+      "dictionaryId": "lex.sa.travel.boarding_pass",
+      "example": "Show your boarding pass at the gate and find your seat.",
+      "fieldId": "travel",
+      "id": "boarding_pass",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Boarding pass"
+    },
+    {
+      "definition": "The secure part of the airport where you wait for a connecting flight. You cannot leave it without a new ticket.",
+      "dictionaryId": "lex.sa.travel.transit_area",
+      "example": "My flight is delayed, so I am stuck in the transit area.",
+      "fieldId": "travel",
+      "id": "transit_area",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Transit area"
+    },
+    {
+      "definition": "The door onto the aircraft, identified by a letter and a number, for example B22. It is assigned late and can change.",
+      "dictionaryId": "lex.sa.travel.departure_gate",
+      "example": "My gate has changed from B22 to C4.",
+      "fieldId": "travel",
+      "id": "departure_gate",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Departure gate"
+    },
+    {
+      "definition": "The area where the belt for your flight delivers your suitcase. The belt number is shown on the screens above it.",
+      "dictionaryId": "lex.sa.travel.baggage_claim",
+      "example": "Your bag is on belt 7, and it has been there for ten minutes.",
+      "fieldId": "travel",
+      "id": "baggage_claim",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Baggage claim"
+    },
+    {
+      "definition": "A connection between two flights at the same airport, without going through the city in between.",
+      "dictionaryId": "lex.sa.travel.transfer",
+      "example": "I have a two-hour transfer in Singapore.",
+      "fieldId": "travel",
+      "id": "transfer",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Transfer"
+    },
+    {
+      "definition": "The checkpoint where bags and people are checked before entering the secure part of the airport.",
+      "dictionaryId": "lex.sa.travel.security_screening",
+      "example": "Security screening starts at the end of this corridor.",
+      "fieldId": "travel",
+      "id": "security_screening",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Security screening"
+    },
+    {
+      "definition": "The rule limiting containers of liquid in hand baggage, usually to 100 ml each in a clear bag.",
+      "dictionaryId": "lex.sa.travel.liquids_rule",
+      "example": "My bottle is 500 ml, so I have to empty it before screening.",
+      "fieldId": "travel",
+      "id": "liquids_rule",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Liquids rule"
+    },
+    {
+      "definition": "The border desk where an officer checks your passport and your right to enter or leave the country.",
+      "dictionaryId": "lex.sa.travel.passport_control",
+      "example": "Passport control is straight ahead, and baggage claim is on the left.",
+      "fieldId": "travel",
+      "id": "passport_control",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Passport control"
+    },
+    {
+      "definition": "The place where you declare goods over the allowance. Most travellers use the green or white channel for nothing to declare.",
+      "dictionaryId": "lex.sa.travel.customs",
+      "example": "Do I go through the red channel if I bought two bottles of wine?",
+      "fieldId": "travel",
+      "id": "customs",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Customs"
+    },
+    {
+      "definition": "The list of dishes a kitchen offers, with prices and short descriptions.",
+      "dictionaryId": "lex.sa.travel.menu",
+      "example": "Could we see the menu, please?",
+      "fieldId": "travel",
+      "id": "menu",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Menu"
+    },
+    {
+      "definition": "A starter, a main course and a dessert sold together at a single price. Often the cheapest and most predictable choice.",
+      "dictionaryId": "lex.sa.travel.set_menu",
+      "example": "I will take the set menu, please.",
+      "fieldId": "travel",
+      "id": "set_menu",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Set menu"
+    },
+    {
+      "definition": "The small first course, such as soup, a salad or fried snacks.",
+      "dictionaryId": "lex.sa.travel.starter",
+      "example": "As a starter, I will have the soup.",
+      "fieldId": "travel",
+      "id": "starter",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Starter"
+    },
+    {
+      "definition": "The main dish of the meal, usually the largest and most expensive item.",
+      "dictionaryId": "lex.sa.travel.main_course",
+      "example": "What would you recommend for the main course?",
+      "fieldId": "travel",
+      "id": "main_course",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Main course"
+    },
+    {
+      "definition": "The sweet course at the end of the meal, or the sweet things served with coffee.",
+      "dictionaryId": "lex.sa.travel.dessert",
+      "example": "Do you have any sugar-free desserts?",
+      "fieldId": "travel",
+      "id": "dessert",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Dessert"
+    },
+    {
+      "definition": "A rule you follow about what you eat, often religious or ethical, such as halal, kosher, vegetarian or vegan.",
+      "dictionaryId": "lex.sa.travel.dietary_restriction",
+      "example": "Do you have any halal dishes that do not contain pork?",
+      "fieldId": "travel",
+      "id": "dietary_restriction",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Dietary restriction"
+    },
+    {
+      "definition": "The list of what you ordered and what you owe. In America it is called the check.",
+      "dictionaryId": "lex.sa.travel.bill",
+      "example": "Could we have the bill, please? Is service included?",
+      "fieldId": "travel",
+      "id": "bill",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Bill"
+    },
+    {
+      "definition": "A percentage added to the bill for service, usually 10 % or 15 %. When it is included, tipping again is not expected.",
+      "dictionaryId": "lex.sa.travel.service_charge",
+      "example": "The service charge is already on the bill, so we will just round it up.",
+      "fieldId": "travel",
+      "id": "service_charge",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Service charge"
+    },
+    {
+      "definition": "A small piece of useful advice.",
+      "dictionaryId": "lex.sa.en.tip.noun",
+      "example": "A tip callout uses the green primary container.",
+      "fieldId": "travel",
+      "id": "tip",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "tip"
+    },
+    {
+      "definition": "Food bought from a stall or a small kitchen at the roadside. It is usually cheap, quick and freshly cooked, but the hygiene is worth watching.",
+      "dictionaryId": "lex.sa.travel.street_food",
+      "example": "Let us get something from a street stall near the station instead of waiting for a table.",
+      "fieldId": "travel",
+      "id": "street_food",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Street food"
+    },
+    {
+      "definition": "The official office of your country in another country. It issues your passport and provides consular help.",
+      "dictionaryId": "lex.sa.travel.embassy",
+      "example": "The embassy gave me an emergency document the same morning.",
+      "fieldId": "travel",
+      "id": "embassy",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Embassy"
+    },
+    {
+      "definition": "A smaller embassy office in a city other than the capital, serving a region. It does the same passport work.",
+      "dictionaryId": "lex.sa.travel.consulate",
+      "example": "There is no embassy here, only a consulate, and it opens at nine.",
+      "fieldId": "travel",
+      "id": "consulate",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Consulate"
+    },
+    {
+      "definition": "A short-validity passport issued so you can return home, often same day. It normally allows one or two journeys.",
+      "dictionaryId": "lex.sa.travel.emergency_travel_document",
+      "example": "The emergency travel document is valid for this flight and one return.",
+      "fieldId": "travel",
+      "id": "emergency_travel_document",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Emergency travel document"
+    },
+    {
+      "definition": "The written record the local police make about a loss or theft. Most embassies require one before issuing any document.",
+      "dictionaryId": "lex.sa.travel.police_report",
+      "example": "Here is my police report; the reference number is on the first page.",
+      "fieldId": "travel",
+      "id": "police_report",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Police report"
+    },
+    {
+      "definition": "The official declaration that a document has been lost. It is what cancels the old document in the issuing country's records.",
+      "dictionaryId": "lex.sa.travel.loss_report",
+      "example": "I have already filed the loss report for my passport.",
+      "fieldId": "travel",
+      "id": "loss_report",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Loss report"
+    },
+    {
+      "definition": "The general help your embassy gives to its own citizens abroad, including lost documents, medical emergencies and legal problems.",
+      "dictionaryId": "lex.sa.travel.consular_assistance",
+      "example": "They put me in contact with consular assistance straight away.",
+      "fieldId": "travel",
+      "id": "consular_assistance",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Consular assistance"
+    },
+    {
+      "definition": "A new full passport issued after the old one is reported lost. It takes longer than an emergency document but works normally.",
+      "dictionaryId": "lex.sa.travel.replacement_passport",
+      "example": "The replacement passport will be ready in five working days.",
+      "fieldId": "travel",
+      "id": "replacement_passport",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Replacement passport"
+    },
+    {
+      "definition": "A policy that covers things like medical care, cancellation, lost documents and the cost of an emergency replacement passport.",
+      "dictionaryId": "lex.sa.travel.travel_insurance",
+      "example": "My travel insurance covers the emergency document and two extra hotel nights.",
+      "fieldId": "travel",
+      "id": "travel_insurance",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Travel insurance"
+    },
+    {
+      "definition": "A set of photocopies or photographs of your identity documents, kept apart from the originals, so they can be replaced quickly.",
+      "dictionaryId": "lex.sa.travel.document_copies",
+      "example": "I keep a copy of my passport at home and one in my email.",
+      "fieldId": "travel",
+      "id": "document_copies",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Document copies"
+    }
+  ],
+  "nextCursor": null,
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

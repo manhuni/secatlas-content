@@ -1,0 +1,79 @@
+{
+  "language": "id",
+  "lessonId": "article_app_future",
+  "objectives": [
+    "Jelaskan bagaimana agen AI mengubah cara perangkat lunak digunakan.",
+    "Jelaskan interaksi berbasis niat dibandingkan dengan interaksi berbasis perintah.",
+    "Jelaskan apa yang terjadi pada antarmuka aplikasi ketika agen bertindak atas nama pengguna.",
+    "Berpikirlah tentang hubungan yang berubah antara manusia dan perangkat lunak.",
+    "Identifikasi apa yang masih ingin dilakukan orang secara mandiri."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Era smartphone mengorganisasi layanan dunia menjadi app, dan app menjadi layar berisi controls. Setiap keinginan memiliki sebuah procedure: buka app, temukan feature, isi form, lalu confirm. Manusia mempelajari procedure tersebut; software menunggu mereka.\n\nAI agents membalik arrangement tersebut. User menyatakan sebuah intention — 'carikan saya kereta yang membawa saya pulang sebelum jam tujuh dan harganya di bawah twenty dollars' — lalu agent menjalankan procedure di beberapa app, membaca layar, mengisi form, dan confirming details. Hubungan user dengan software berhenti being manual.\n\nIni bukan perubahan interaction yang small; ini adalah perubahan siapa mengoperasikan siapa. Untuk pertama kalinya sejak computing dimulai, user software yang menjadi default mungkin berubah menjadi another piece of software. Layar yang dirancang untuk human fingers menjadi side channel yang dibaca agents dan sesekali diperiksa humans.",
+      "examples": [
+        "She said 'reschedule my dentist appointment to next month'; agent membuka booking app, menemukan calendar, dan kembali dengan three options."
+      ],
+      "heading": "Dari tombol ke niat"
+    },
+    {
+      "body": "Ekonomi aplikasi dibangun melalui perekaman perhatian: setiap perusahaan meng fenced service-nya di dalam interface milik sendiri, karena interfacelah tempatadvertising, data, dan loyalitas berada. Agents mengabaikan pagar-pagar itu. They traverse services atas nama pengguna, yang mengubah setiap walled garden menjadi sebuah corridor.\n\nIni sekaligus merusak beberapa pola bisnis. Interfaces yang dirancang untuk menjadi addictive menjadi tidak relevan ketika tidak ada yang melihatnya. Notifications kehilangan kekuatannya ketika agent menyaringnya. Lock-in melemah ketika switching costs ditanggung oleh software, bukan oleh manusia yang harus relearning menggunakan app baru.\n\nResponsnya sudah terlihat: services yang mengekspos machine interfaces — APIs dan structured access — bagi agents, sementara desain human-facing perlahan menurun dalam pentingnya. Dalam jangka panjang, perusahaan yang menang mungkin adalah perusahaan yang layanannya paling mudah digunakan agents secara faithfully, bukan perusahaan yang interfaces-nya paling engaging di mata manusia. Software bersaing untuk dipilih oleh machines.",
+      "examples": [
+        "Aplikasi pengiriman makanan itu menyadari bahwa setengah pesananannya sekarang datang melalui assistants, lalu merancang ulang sekitar akses mesin yang bersih, bukan banner mencolok."
+      ],
+      "heading": "Mengapa setiap perusahaan membangun tembok, dan apa yang runtuh"
+    },
+    {
+      "body": "Delegation memiliki batas, dan dengan software, batas itu berjalan melalui preferensi dan tanggung jawab. Agents dapat membandingkan options, tetapi memilih di antaranya sering melibatkan values yang tidak dipegang oleh model mana pun: Apakah flight termurah layak diper underwent layover empat jam bersama anak yang lelah? Apakah doctor yang convenient adalah doctor yang saya percaya? Preferences seperti ini dibentuk oleh kehidupan, bukan melalui optimizing.\n\nResponsibility menetapkan batas yang lebih sulit. Ketika agent memesan flight yang salah, mengirim message yang salah, atau membeli stock yang salah, consequences-nya menjadi milik manusia yang mendelegasikan tareas tersebut. Keeping meaningful control berarti keeping meaningful visibility: mengetahui apa yang dilakukan agent, mampu menghentikannya, dan reserving final approval untuk hal-hal yang penting.\n\nModel yang paling sehat yang sedang emerging adalah division of labor: agents menangani procedure, sedangkan manusia menangani preference dan responsibility. The app era membuat manusia mengoperasikan machines; agent era membuat machines mengoperasikan software — dengan manusia melakukan bagian-bagian yang distinctly human yang tersisa.",
+      "examples": [
+        "The agent menangani tiga booking apps; dia menangani satu pertanyaan yang menentukan: apakah trip ini bekerja untuk keluarga?"
+      ],
+      "heading": "What yang dipertahankan manusia"
+    },
+    {
+      "body": "Istilah-istilah ini menggambarkan peralihan dari software yang dioperasikan manusia menjadi software yang dioperasikan agent.",
+      "heading": "Kosakata software yang melayani",
+      "terms": [
+        {
+          "example": "Aplikasi agentic tidak menunggu diperintahkan; aplikasi itu menyadari flight yang terlambat dan memes ulang ulang connection.",
+          "gloss": "Software yang dirancang untuk bertindak menuju tujuan dengan tingkat otonomi tertentu, alih-alih menunggu setiap perintah."
+        },
+        {
+          "example": "Antarmuka Adaptive menampilkan papan keberangkatan terlebih dahulu pada hari perjalanan, dan catatan rapat setiap Monday.",
+          "gloss": "Antarmuka pengguna yang berubah menurut konteks, intent dan riwayat, alih-alih menampilkan menu tetap."
+        },
+        {
+          "example": "Intent-nya adalah 'meja yang tenang untuk dua orang pada Friday'; perintah yang diperlukan melibatkan tiga apps dan satu panggilan telepon.",
+          "gloss": "Pernyataan tentang apa yang ingin dicapai pengguna, berlawanan dengan perintah-perintah untuk mencapai tujuan tersebut."
+        },
+        {
+          "example": "Task automation memindahkan invoice dari email ke accounting lalu ke payment confirmation selagi ia minum coffee.",
+          "gloss": "Pelaksanaan prosedur multi-step oleh software tanpa pengoperasian manusia pada setiap step."
+        },
+        {
+          "example": "Asisten itu menggunakan API bank untuk memeriksa saldo — tanpa layar, tanpa mengetik password.",
+          "gloss": "Antarmuka pemrograman aplikasi: cara terstruktur bagi software untuk menggunakan service lain, yang dibuat untuk machines, bukan humans."
+        },
+        {
+          "example": "Dalam ambient computing, rumah menyesuaikan heating dan agent menyesuaikan schedule, tanpa seorang pun membuka app.",
+          "gloss": "Computing yang weaves ke dalam environment sehingga bertindak di background tanpa menuntut perhatian."
+        }
+      ]
+    },
+    {
+      "body": "Selama puluhan tahun, software menampilkan pekerjaannya di layar karena manusia adalah operator. Ketika agents mengambil alih operation, interface menyusut menjadi summary tentang apa yang telah done — bukti transaksi untuk check, bukan machine yang perlu run. Designing untuk trust kemudian matters lebih daripada designing untuk engagement.",
+      "heading": "Layar menjadi bukti transaksi"
+    },
+    {
+      "body": "Keterampilan yang demanded oleh era app — menghafal prosedur, menavigasi menu, mengelola banyak logins — sedang kehilangan nilainya. Keterampilan yang dihargai dalam era agent berbeda: menyatakan goals dengan jelas, membagi pekerjaan antara diri sendiri dan software dengan bijaksana, mengaudit results, dan mengetahui kapan harus mengambil kembali kendali.\n\nAda juga penyesuaian cultural. Software yang bertindak dapat terasa seperti kehilangan kendali atau seperti kelegaan, bergantung pada cara software itu dibangun dan governed. Demand yang akan membentuk decade berikutnya mudah dinyatakan tetapi sulit-people fulfilled: agents yang powerful di balik layar dan honest di permukaan, serta menunjukkan apa yang telah mereka lakukan dalam bahasa yang dapat dengan mudah diperiksa oleh human yang lelah.\n\nHubungan antara people dan software sedang menjadi apa yang mungkin seharusnya selalu ada: people membawa intentions dan judgment, software membawa memory dan speed, dan pembagian pekerjaan dinegosiasikan secara terbuka. App mengajarkan kita untuk serve interface. Agent menjanjikan sebaliknya — dan menjaga janji itu akan menjadi pekerjaan selama bertahun-tahun.",
+      "examples": [
+        "Setiap evening selama two menit, ia memeriksa summary dari agent — bukan untuk menjalankan hari itu, melainkan untuk memiliki kendali atasnya."
+      ],
+      "heading": "Belajar hidup bersama software yang bertindak"
+    }
+  ],
+  "summary": "Selama lima belas tahun, perangkat lunak berarti layar: ketuk di sini, gulir ke sana, pelajari menu setiap aplikasi. Artikel ini membahas pergeseran yang sedang terjadi: agen AI yang mengoperasikan aplikasi atas nama kita, antarmuka yang beradaptasi dengan niat pengguna, dan berakhirnya era ketika setiap tugas memerlukan manusia untuk menekan tombol.",
+  "title": "Masa Depan Aplikasi Seluler: Ketika AI Menggunakan Software Untuk Kita"
+}

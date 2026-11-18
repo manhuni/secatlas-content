@@ -1,0 +1,192 @@
+{
+  "dependencies": [
+    "0e88e75ac3d388fad63febee87d39b1f4aa94a2a1737fd9d1d5ebe5beae97ced",
+    "33b390a80ec759355e6b0387587e224af8e2a34e7136685675ac129584023516",
+    "482dd693a108d60e9827b2f7ed8499181439283acb60419253c5505c94f2b8e7",
+    "4d946f9a6eb34b12e115aaa806a1db85e33a55730c9bb5bc2160a505fcb1cd77",
+    "8f0ed6a3517bfe2170acaceab2b3d1db6cf9e11395eb2d98b8973b5d4d9a8aba",
+    "d2c66180c4a3ad84580db526cfb8b0fdb2a52535ba7dcebac2b9d89eccdf7a68"
+  ],
+  "item": {
+    "addedAt": "2026-11-14T00:00:00Z",
+    "cover": "asset://0e88e75ac3d388fad63febee87d39b1f4aa94a2a1737fd9d1d5ebe5beae97ced",
+    "durationMin": 19,
+    "fieldId": "money",
+    "id": "article_inflation",
+    "media": {
+      "audio": [],
+      "cover": "asset://0e88e75ac3d388fad63febee87d39b1f4aa94a2a1737fd9d1d5ebe5beae97ced",
+      "gallery": [
+        {
+          "caption": "A basket of goods, one price list, one number.",
+          "kind": "image",
+          "source": "asset://8f0ed6a3517bfe2170acaceab2b3d1db6cf9e11395eb2d98b8973b5d4d9a8aba",
+          "title": "How a price index is built"
+        },
+        {
+          "caption": "The same basket, one year later.",
+          "kind": "image",
+          "source": "asset://482dd693a108d60e9827b2f7ed8499181439283acb60419253c5505c94f2b8e7",
+          "title": "What a year of inflation does"
+        },
+        {
+          "caption": "Why a raise can still leave you poorer.",
+          "kind": "image",
+          "source": "asset://4d946f9a6eb34b12e115aaa806a1db85e33a55730c9bb5bc2160a505fcb1cd77",
+          "title": "Nominal and real income"
+        }
+      ],
+      "images": [
+        "asset://33b390a80ec759355e6b0387587e224af8e2a34e7136685675ac129584023516",
+        "asset://d2c66180c4a3ad84580db526cfb8b0fdb2a52535ba7dcebac2b9d89eccdf7a68"
+      ],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Define inflation in plain words and distinguish it from a single price going up.",
+      "Explain how a consumer price index is built and what a percentage figure means.",
+      "Compare a nominal change in income with a real change.",
+      "Name the words economists use: CPI, price index, base year, real income.",
+      "Distinguish inflation, deflation and stagflation from one another.",
+      "Identify who gains and who loses from rising prices.",
+      "Calculate the inflation rate your own household actually faces."
+    ],
+    "sections": [
+      {
+        "body": "Inflation is the general rise in prices across an economy over a period of time. The word \"general\" does the important work. If one shop raises the price of one item, that is a price change, not inflation. Inflation is what happens when prices rise across most of what people buy, so that the same amount of money buys less than it did a year ago.\n\nThe measure is a **rate**, usually given per year. If prices rise by 5 % over a year, then a basket of goods that cost 100 $ costs 105 $ a year later. That basket does not have to be identical each year: statisticians update it as people change what they buy, so the index keeps describing real behaviour.\n\nInflation is not the same as prices going up. Prices can also go down, and one item can become dramatically cheaper while everything else rises. A phone that costs half as much as it did, and rent that doubles, can sit inside the same 3 % annual inflation rate, because the index measures an average weighted by how much people actually spend.\n\nThree things are worth keeping in mind at the start. First, inflation is a **rate of change**, not a level. A country with 1 % inflation has rising but roughly stable prices. Second, inflation is **measured, not felt**: the official figure comes from a price index, and the rate you experience depends entirely on what you buy. Third, inflation is **not the same as price levels being high**. Prices in a city can be high and stable for years, with no inflation at all.\n\nThe vocabulary follows from this. A **nominal** figure is the raw number on the ticket. A **real** figure is that number adjusted for inflation, which is the one that tells you what you can actually buy. Inflation quietly turns a nominal wage rise into a real fall, and the rest of this article is mostly about telling those two apart.",
+        "examples": [
+          "Inflation is a general rise in prices, not one shop raising one price.",
+          "A 5 % inflation rate means the same basket costs 5 % more than a year ago.",
+          "My pay went up, but not as fast as prices, so I am worse off."
+        ],
+        "heading": "What inflation is",
+        "type": "definition"
+      },
+      {
+        "body": "The main measure of inflation is the **consumer price index**, or CPI. It is produced by a statistics office that collects prices for a large list of goods and services, and it turns them into a single number.\n\nThe process has three parts. The office chooses a **basket**: a list of items with the quantities that a typical household buys, from groceries to rent to bus tickets. It then collects the **price** of each item each month, across many shops and cities. Finally it computes an **index**: the total cost of the basket expressed as a number, with a chosen **base year** set to 100.\n\nWhen you read \"the index is 110 against a base of 100\", it means the basket that was priced at 100 in the base year now costs 110. The rate of inflation is the percentage change in the index between two periods, not the index itself. A headline figure of 4 % means the index rose 4 % over the year.\n\nDifferent indices measure different baskets. A **consumer price index** measures what households buy. A **producer price index** measures what factories sell, and it usually moves before consumer prices do. A **wage index** measures what people earn, which is how the gap between wages and prices is tracked. And some countries publish a **core** measure that leaves out volatile items such as food and fuel, because energy prices swing for reasons that have nothing to do with underlying inflation.\n\nTwo limitations are worth remembering. The index is an average, so your own inflation is the inflation of the things you buy. If your household spends most on housing and food, you will feel more inflation than someone who spends on technology. And the index is revised, sometimes for years afterwards, when better price data arrive, so the figure you remember and the figure published later may differ.",
+        "examples": [
+          "The index is 110 against a base of 100, so the basket has become ten per cent more expensive.",
+          "The headline rate includes fuel, and the core rate shows the underlying trend.",
+          "Prices rose less than my rent, so my household inflation is above the national average."
+        ],
+        "heading": "How inflation is measured",
+        "type": "prose"
+      },
+      {
+        "body": "The number that matters for you is not the inflation rate. It is the gap between the inflation rate and the rate your own money grows.\n\nStart with wages. If your pay rises by 3 % and inflation is 6 %, your **real** pay has fallen by roughly 3 %. That is not a technicality: your rent, your groceries and your fuel now take a larger share of your income than they did a year earlier. If your pay rises by 8 % and inflation is 6 %, your real pay has risen by about 2 %, not 8 %. This is why wage negotiations are usually written in terms of real purchasing power rather than raw percentages.\n\nThen savings. A cash deposit paying 4 % while inflation runs at 6 % is losing money at 2 % a year in real terms. It is not illegal and it is not a mistake in itself, but it is not inflation protection either. The same is true of a fixed-rate bond bought at a low rate: you hold a fixed nominal amount, and inflation eats into what that amount buys.\n\nThen debt, which runs the other way. If you borrowed at 6 % and inflation runs at 8 %, you repay with money that is worth less than when you borrowed it. Fixed-rate debt becomes easier to serve, and the lender loses. That is why inflation is not simply bad news for everyone, and why a rise in inflation can even improve the position of a household that holds debt and has wages that keep pace.\n\nThe practical summary is short. Inflation hurts cash savings and fixed incomes. It helps fixed debts. It leaves borrowers and savers in the same boat only when their rates move with it, which is what index-linked products are designed to do.",
+        "examples": [
+          "My pay rose 3 % and inflation was 6 %, so my real pay fell.",
+          "This deposit pays 4 % while inflation is 6 %, so I am losing 2 % a year in real terms.",
+          "My fixed loan is easier to serve now, because the money I repay is worth less."
+        ],
+        "heading": "What inflation does to a salary and to savings",
+        "type": "prose"
+      },
+      {
+        "body": "These are the words you will meet in a news report about prices, and what each one actually tells you.\n\n**Inflation rate** is the percentage change in the general price level over a period, usually a year. **Price index** is the number that tracks the level, with the base year set to 100. **Base year** is the year the index starts from, and changing it resets the index without changing any prices.\n\n**Consumer price index** (CPI) is the standard measure of inflation for households. **Producer price index** (PPI) tracks prices leaving factories, and it often turns before consumer prices do.\n\n**Nominal income** is your income as printed, before any adjustment. **Real income** is that income adjusted for inflation, and it is the figure that describes what you can buy. **Deflation** is a sustained fall in the general price level.\n\n**Core inflation** is the rate with the most volatile items removed. **Real interest rate** is the interest rate minus the inflation rate, and it is what a saver actually earns in purchasing power.\n\n**Purchasing power** is what a fixed amount of money can buy. **Cost of living** is the cost of a typical household's basket, and it is usually expressed as an index or as a figure compared with wages.\n\n**Disinflation** is a slower rate of inflation, not falling prices. **Reflation** is the deliberate return to rising prices after a period of deflation.",
+        "heading": "The words economists use",
+        "terms": [
+          {
+            "example": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+            "gloss": "The percentage change in the general level of prices over a period of time, usually a year.",
+            "term": "Inflation rate",
+            "termId": "inflation_rate"
+          },
+          {
+            "example": "The consumer price index is the number the news report quotes.",
+            "gloss": "The standard index of the price of a basket of goods and services bought by households. Its change over time is the headline inflation rate.",
+            "term": "Consumer price index (CPI)",
+            "termId": "consumer_price_index"
+          },
+          {
+            "example": "With last year as the base year, the index now stands at 104.",
+            "gloss": "The year the price index starts from, set to 100. Changing it resets the index without changing any actual prices.",
+            "term": "Base year",
+            "termId": "base_year"
+          },
+          {
+            "example": "My nominal income rose, but not as fast as prices.",
+            "gloss": "Income measured in the money actually received, with no adjustment for changes in prices.",
+            "term": "Nominal income",
+            "termId": "nominal_income"
+          },
+          {
+            "example": "Real income fell two per cent because prices rose faster than my pay.",
+            "gloss": "Income adjusted for inflation, which is the figure that says how much you can actually buy.",
+            "term": "Real income",
+            "termId": "real_income"
+          },
+          {
+            "example": "A 4 % deposit with 6 % inflation gives a real interest rate of minus 2 %.",
+            "gloss": "The interest rate minus the inflation rate. It is the return a saver actually keeps in purchasing power.",
+            "term": "Real interest rate",
+            "termId": "real_interest_rate"
+          }
+        ],
+        "type": "terminology"
+      },
+      {
+        "body": "Inflation is only one of the states a price level can be in, and the other two are worth knowing because they call for opposite responses.\n\n**Deflation** is a sustained fall in the general price level. Falling prices sound good for buyers, but they are not good for an economy. Debt becomes harder to repay in real terms, because the money you owe is worth more than when you borrowed it. Businesses wait to invest, because prices tomorrow are lower than prices today. People postpone spending, hoping for a better price. This loop is why deflation is treated as a serious problem, not as a bonus.\n\n**Disinflation** is different and much more common: inflation continues but at a slower rate. Prices are still rising, just more gently. A headline that falls from 6 % to 3 % is disinflation, and it is often reported as \"inflation falls\", which is misleading.\n\n**Stagflation** is the unpleasant combination of high inflation and weak or falling output, when prices keep rising and the economy stops growing. It is hard to deal with because the usual remedies pull in opposite directions: high interest rates fight inflation but make a weak economy worse.\n\nAt the extreme is **very high inflation**, sometimes called hyperinflation. Prices can double within weeks, and the money itself stops being trusted. People then hold goods instead of cash, take wages in whatever form is available, and often borrow at rates that look absurd, because the alternative is losing the value of savings overnight. This is not a forecast; it is a description of what happens when the money and the state lose confidence in each other.\n\nThe practical point is that the name of the state tells you who is in trouble. Deflation hurts borrowers and savers of goods. Stagflation hurts everybody slowly. Hyperinflation destroys the function of money itself.",
+        "examples": [
+          "Inflation fell from 6 % to 3 %, which is disinflation, not falling prices.",
+          "Stagflation means prices keep rising while the economy stops growing.",
+          "With inflation at 3 % a month, cash savings are worth much less by the end of the year."
+        ],
+        "heading": "Deflation, stagflation, and very high inflation",
+        "type": "prose"
+      },
+      {
+        "body": "Inflation does not hit everyone equally, and the effect depends on when your income and your spending happen.\n\n**Debtors gain**, quietly. A fixed loan is repaid with money that is worth less than when it was taken out. This is why governments sometimes like inflation and why fixed-rate borrowers benefit from it.\n\n**Savers of cash lose**, because the money buys less later than it did when it was saved. This is the core of the argument for index-linked savings, which pay interest adjusted to the inflation rate, and for holding some of your savings in assets whose value tends to rise with prices.\n\n**Fixed incomes lose hardest** if they are not indexed. A pension, a benefit or a salary fixed by contract worth 100 $ buys less each year. The word \"indexed\" on a pay offer means it is adjusted to inflation, and it is worth a great deal when prices are rising.\n\n**Wage earners with wages that keep pace gain**, because their income rises with prices and their debts become easier to serve. This is why the debate about inflation is often a debate about whether wages move with prices.\n\n**People who hold assets gain or lose** with the market, and the effect is not automatic. The price of a house, a shop or a share can fall while consumer prices rise.\n\nThere is also a timing effect that catches households. If your salary is adjusted once a year and prices rise every month, you spend most of the year earning less than the new price level, and get a catch-up at the end. And if you hold most of your money in cash while your debts are fixed, rising prices make your position deteriorate faster than your income grows.\n\nSo the useful question is not \"is inflation good or bad\" but \"where do my income, my savings and my debts sit, and do they move together\".",
+        "examples": [
+          "My salary is indexed, so it moves with prices every year.",
+          "I hold most of my savings in cash, so rising prices hurt me more than they help.",
+          "My loan is fixed, so inflation makes it cheaper for me to repay in real terms."
+        ],
+        "heading": "Who gains and who loses when prices rise",
+        "type": "prose"
+      },
+      {
+        "body": "**Match the term of your money to the term of your spending.** Money needed within three years belongs in something that does not lose value unexpectedly, not in the highest-yielding product.\n\n**Look for index-linked savings.** These pay interest adjusted to the inflation rate, so the real return is much closer to zero than the headline rate suggests. The cost is that returns are lower than the best fixed rates at some moments, and terms may be short.\n\n**Keep an emergency fund in cash.** Its job is to be there, not to beat inflation. Six months of ordinary expenses in an accessible account is what stops you borrowing at 24 % to cover a flat tyre.\n\n**Watch the gap, not the headline.** A deposit paying 7 % with inflation at 9 % is a loss. Always subtract the inflation rate before you decide that a product is doing well.\n\n**Keep a record of prices you care about.** The official index is an average. Two minutes noting the price of the handful of things your household actually buys gives you an inflation rate that is yours, and it is the only one that matters for your budget.\n\n**Do not borrow to keep up with prices.** Financing consumption at a high rate because prices are rising is the fastest way to turn inflation into a permanent loss.",
+        "calloutKind": "tip",
+        "heading": "How to protect your money against inflation",
+        "type": "callout"
+      },
+      {
+        "body": "The official figure tells you about the average household. Your rate is the one you actually live with, and it takes ten minutes to estimate it well enough to plan with.\n\nThe method is simple: take a short list of the things you buy regularly and often, note the current price, and repeat it in three months. Weight each item by how often you buy it, because the price of the things you buy weekly dominates your own inflation.\n\nKeep the list short and honest. Rent, electricity, the bus fare, a staple you eat daily, and one household item you replace regularly is enough. Add a note of anything unusual that distorted the period, such as a festival or a price change you had not expected.\n\nThen compare the result with two figures: the rate your income changed, and the rate of interest on your savings. Those three numbers together tell you whether you are better or worse off this year, which is the only question that matters.",
+        "examples": [
+          "My rent went up 8 %, and I buy it monthly, so it dominates my own inflation figure.",
+          "My own rate is 5 % against a national figure of 3 %."
+        ],
+        "heading": "Working out your own inflation rate in ten minutes",
+        "steps": [
+          "List eight things you buy regularly: rent, utilities, transport, staple food, and three household items.",
+          "Note the current price of each and the date.",
+          "Repeat the list in three months with the same items and the same shops.",
+          "Work out the percentage change for each item.",
+          "Weight each item by how often you buy it and find your overall rate.",
+          "Compare it with the change in your income and with the interest on your savings."
+        ],
+        "type": "steps"
+      },
+      {
+        "body": "These are the sentences that make a conversation about prices precise instead of vague. Most arguments about inflation are really arguments about which figure applies to whom, and these sentences name the figure.\n\nUse the real, not the nominal, when the point is what you can buy. Use your own basket when the point is what you pay. And when somebody quotes a number, ask which index, which period and which basket it refers to, because all three change the answer.",
+        "examples": [
+          "That is the headline rate; the core rate is closer to 2 %.",
+          "My pay rose 3 %, but inflation was 6 %, so my real pay fell.",
+          "Prices went up 5 %, and my salary is indexed, so my real pay rose.",
+          "This deposit pays 7 %, but with inflation at 9 % the real return is negative.",
+          "The index is measured against last year as the base, so the number resets each year.",
+          "For my household, with rent and food dominating, our inflation is above the average."
+        ],
+        "heading": "Sentences you can use about inflation",
+        "type": "examples"
+      }
+    ],
+    "summary": "Inflation is the general rise of prices over time, and it is measured, not guessed. After reading this you can read an inflation figure, tell a real wage from a nominal one, work out what inflation is really costing your household, and judge which savings protect you.",
+    "systemId": "inflation",
+    "title": "Inflation Explained: Why Everything Costs More"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

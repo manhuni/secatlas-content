@@ -1,0 +1,144 @@
+{
+  "language": "vi",
+  "lessonId": "article_mental_arithmetic",
+  "objectives": [
+    "Chọn một mẹo tắt phù hợp với con số trước mặt.",
+    "Làm tròn và điều chỉnh một tích, rồi sửa lại theo đúng sai số đã làm tròn.",
+    "Đọc một tỷ lệ phần trăm như một phân số của mười, rồi tách nó thành các phần.",
+    "Ước lượng độ lớn của đáp án trước khi đưa ra con số.",
+    "Kiểm tra một đáp án bằng cách đảo ngược phép tính và kiểm tra tổng các chữ số.",
+    "Nêu các thuật ngữ trong lĩnh vực này: ước lượng, làm tròn, bù sai số, số dư, tổng các chữ số, thương.",
+    "Nói rằng bạn cần một khoảnh khắc để tính một con số, thay vì đoán."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Tính nhẩm là việc thực hiện phép tính trong đầu, không dùng máy tính và không dùng giấy. Đó là một phương pháp làm việc, không phải một trò vui tiệc tục. Phương pháp quan trọng hơn tốc độ, bởi vì một con số sai nhưng đến nhanh tốn nhiều thời gian hơn một con số đúng nhưng đến chậm: con số sai sẽ được dùng.\n\nỞ đây có hai kỹ năng khác nhau. **Tốc độ** là thời gian bạn cần. **Độ chính xác** là con số bạn nói có đúng hay không. Chúng không phải cùng một kỹ năng, và một người có thể có kỹ năng này mà không có kỹ năng kia. Có người nhân các số nhỏ rất nhanh và làm mất một chữ số ở giữa chừng. Số khác làm việc cẩn thận, chậm hơn, và luôn đúng mỗi lần.\n\nMột lỗi thứ hai là coi một phỏng đoán như một câu trả lời. Một phỏng đoán nghe có vẻ tự tin còn tệ hơn một khoảng lặng thành thật, bởi vì người nghe không thể biết con số đó chưa hề được kiểm tra. Một câu trả lời đã được kiểm tra thì luôn có thể bảo vệ được: bạn có thể chỉ ra độ lớn xấp xỉ của câu trả lời, lối tắt bạn đã dùng, hoặc cách kiểm tra ngược lại.\n\nVậy nên câu thành thật rất đơn giản: **cho tôi một chút để tính ra**. Không ai đòi một con số ngay ở âm tiết đầu tiên. Điều họ mong đợi là một con số đúng. Mọi lối tắt trong bài viết này đều đi kèm một cách kiểm tra, và một lối tắt không có cách kiểm tra chỉ là một cách sai nhanh hơn.",
+      "examples": [
+        "Tính nhẩm là một phương pháp, không phải một bài kiểm tra tốc độ.",
+        "Cho tôi một chút để tính ra; tôi sẽ đưa bạn con số mà tôi kiểm tra được.",
+        "Một con số sai tốn nhiều thời gian hơn một con số đúng nhưng chậm."
+      ],
+      "heading": "Nhanh không đồng nghĩa với đúng",
+      "terms": [
+        {
+          "example": "Tính nhẩm cho tôi con số xấp xỉ, còn cách kiểm tra cho tôi con số đúng.",
+          "gloss": "Thực hiện phép tính trong đầu, không dùng máy tính và không dùng giấy."
+        }
+      ]
+    },
+    {
+      "body": "Mẹo thuận tiện hữu ích nhất cho phép nhân là **làm tròn và điều chỉnh**. Bạn làm tròn một thừa số thành một giá trị thuận tiện, nhân với phiên bản dễ tính, rồi điều chỉnh kết quả theo lượng mà bạn đã làm tròn. Phần điều chỉnh rất nhỏ, và phần dễ thực sự rất dễ. Các giá trị thuận tiện là những giá trị bạn có thể nhân mà không cần suy nghĩ: 10, 20, 25, 50, 100 và một nửa của các giá trị đó. Một thừa số kết thúc bằng 1 hoặc 9 thường nằm gần một trong số đó, vì vậy 19 được coi là 20 và 98 là 100.\n\nBây giờ hãy tính tích 19 × 24. Hãy làm tròn 19 thành 20 và nhân: 20 × 24 = 480. Bạn đã cộng 1 vào thừa số thứ nhất, vì vậy phải bớt một lượng 24 khỏi kết quả: 480 − 24 = 456. Đáp án là 456. Bạn có thể kiểm tra trong một dòng: 19 × 24 = 456.\n\nPhương pháp này hoạt động theo cả hai hướng. Với 18 × 24, hãy làm tròn 18 lên 20 và trừ hai lượng 24: 480 − 48 = 432. Với 21 × 24, hãy làm tròn xuống 20 và cộng một lượng 24: 480 + 24 = 504.\n\nHai quy tắc giúp phương pháp này luôn chính xác. Hãy làm tròn **một** thừa số, không phải cả hai. Và phần điều chỉnh phải dùng thừa số mà bạn không làm tròn: ở đây bạn đã thay đổi thừa số thứ nhất thêm 1, nên bạn cộng hoặc trừ 1 × 24, tức là 24 chứ không phải 19.",
+      "examples": [
+        "Tôi đã làm tròn 19 lên 20 và trừ đi một lượng 24, nên 19 × 24 = 456.",
+        "Chỉ làm tròn một thừa số và điều chỉnh bằng thừa số mà bạn không làm tròn.",
+        "Phần điều chỉnh là một lần 24, nên tôi bỏ đi 24 chứ không phải 19."
+      ],
+      "heading": "Làm tròn và điều chỉnh: một tích đã thực hiện",
+      "steps": [
+        "Chọn thừa số cần làm tròn và giá trị thuận tiện để làm tròn: 19 thành 20.",
+        "Ghi nhận độ lớn của thay đổi: bạn đã cộng 1 vào thừa số thứ nhất.",
+        "Nhân phiên bản dễ: 20 × 24 = 480.",
+        "Điều chỉnh kết quả theo mức thay đổi nhân với thừa số còn lại: 480 − (1 × 24) = 456.",
+        "Nói đáp án cùng đơn vị của nó: 456 items."
+      ]
+    },
+    {
+      "body": "Mỗi phím tắt trong danh sách có cùng một hình dạng: bạn thay đổi số thành một số dễ hơn, thực hiện phần dễ, rồi đặt lại đúng những gì đã thay đổi. Một phím tắt không có cách hoàn tác dễ dàng là một phỏng đoán, không phải một phương pháp.\n\nHai dòng trong bảng đảm nhiệm phần lớn công việc. **Round and adjust** xử lý mọi tích có một thừa số gần một giá trị thuận lợi. **Split một tích** xử lý tích của hai số có hai chữ số: bạn tách một số thành hàng chục và đơn vị, rồi cộng hai tích nhỏ hơn.\n\nHai dòng về phần trăm sử dụng một sự thật: 10 % là một phần mười, vì vậy 10 % của một số được tìm ra bằng cách chia cho mười, và 5 % là một nửa của giá trị đó. Khi lấy phần trăm dưới dạng phân số của mười, đó thường là cách nhanh nhất để tính chiết khấu, thuế hoặc biên lợi nhuận.\n\nDòng cuối cùng, **double and halve**, là cách cũ để bỏ đi một thừa số của 4. Hãy chia đôi một thừa số và nhân đôi thừa số kia; tích không thay đổi.",
+      "examples": [
+        "15 % của 240 là 24 cộng 12, nên bằng 36.",
+        "48 × 25 là 24 × 50, bằng 1200.",
+        "78 − 35 là 65 − 22, bằng 43."
+      ],
+      "heading": "Tám phím tắt không bao giờ đánh lừa"
+    },
+    {
+      "body": "**Ước tính** là một con số gần đúng, đủ gần để cho biết liệu có thể đưa ra một câu trả lời chính xác hay không. **Làm tròn** là viết một số thành giá trị thuận tiện gần nhất, thường là bội số gần nhất của 10, 100 hoặc 1000: 47 làm tròn thành 50, và 42 làm tròn thành 40.\n\n**Hiệu chỉnh** là phần điều chỉnh bạn thực hiện sau khi đã làm tròn một số. **Số nhớ** là hàng chục được chuyển sang cột tiếp theo khi các chữ số trong một cột cộng lại đạt từ 10 trở lên: trong 8 + 7, bạn viết 5 và chuyển số nhớ 1.\n\n**Số dư** là phần còn lại khi một số không chia hết cho số kia. **Thương** là kết quả của phép chia không tính phần còn lại: 87 chia cho 7 cho thương là 12 và số dư là 3.\n\n**Tổng các chữ số** là tổng của tất cả các chữ số của một số. Một số là bội của 9 khi và chỉ khi tổng các chữ số của nó là bội của 9: tổng các chữ số của 1296 là 1 + 2 + 9 + 6 = 18, và 18 là bội của 9.",
+      "examples": [
+        "Ước tính của tôi khoảng 1,500, còn câu trả lời chính xác là 1,296.",
+        "47 làm tròn thành 50, và tôi cộng lại phần hiệu chỉnh.",
+        "87 chia cho 7 cho thương là 12 và số dư là 3.",
+        "Tổng các chữ số của 1296 là 18, nên đây là một bội của 9."
+      ],
+      "heading": "Từ ngữ chuyên ngành",
+      "terms": [
+        {
+          "example": "Trước khi nhân, hãy ước tính: khoảng 50 nhân khoảng 30 bằng khoảng 1500.",
+          "gloss": "Một con số gần đúng, đủ gần để cho biết liệu có thể đưa ra một câu trả lời chính xác hay không."
+        },
+        {
+          "example": "47 làm tròn thành 50, và 42 làm tròn thành 40.",
+          "gloss": "Viết một số thành giá trị thuận tiện gần nhất, thường là bội số gần nhất của 10, 100 hoặc 1000."
+        },
+        {
+          "example": "Tôi làm tròn 19 thành 20, nên phải trừ một lần 24, và 480 − 24 = 456.",
+          "gloss": "Phần điều chỉnh mà bạn cộng hoặc trừ sau khi đã làm tròn một số."
+        },
+        {
+          "example": "Trong 8 + 7, bạn viết 5 và chuyển số nhớ 1 sang cột tiếp theo.",
+          "gloss": "Hàng chục được chuyển sang cột tiếp theo khi các chữ số trong một cột cộng lại đạt từ 10 trở lên."
+        },
+        {
+          "example": "87 chia cho 7 cho thương là 12 và số dư là 3.",
+          "gloss": "Phần còn lại của một số khi phép chia không cho kết quả chính xác."
+        },
+        {
+          "example": "Thương của 87 và 7 là 12, với số dư là 3.",
+          "gloss": "Kết quả của một phép chia, không tính phần còn lại."
+        },
+        {
+          "example": "Tổng các chữ số của 1296 là 1 + 2 + 9 + 6 = 18, là một bội của 9.",
+          "gloss": "Tổng của tất cả các chữ số của một số, dùng để kiểm tra xem số đó có là bội của 9 hay không."
+        }
+      ]
+    },
+    {
+      "body": "Một lối tắt mà không có cách kiểm tra là cách nhanh chóng đưa đến kết quả sai. Bốn cách kiểm tra chỉ mất vài giây và phát hiện gần như mọi lỗi: độ lớn của đáp án, phép tính ngược, tổng các chữ số và đơn vị. Cách đầu tiên nhanh nhất: **kiểm tra độ lớn**. Hãy làm tròn mỗi số thành một giá trị dễ tính và tính tích thô: khoảng 50 nhân khoảng 30 là khoảng 1500. Nếu đáp án của bạn là 15 hoặc 15000, nó đã sai ngay cả trước khi bạn kiểm tra thêm. Ước lượng phát hiện các lỗi về độ lớn, nhưng không bao giờ phát hiện một lỗi nhỏ ở bước cuối.\n\n**Hãy thực hiện phép tính ngược.** Phép cộng và phép trừ triệt tiêu lẫn nhau, và phép nhân với phép chia cũng vậy. Nếu bạn chia 87 cho 7 và được thương là 12 với số dư là 3, hãy nhân ngược lại: 12 × 7 = 84 và 84 + 3 = 87. Nếu đáp án của bạn là 13, thì 13 × 7 = 91, vốn đã quá lớn. **Hãy dùng tổng các chữ số để kiểm tra các bội của 9.** Một số là bội của 9 khi và chỉ khi tổng các chữ số của nó là bội của 9. Vì vậy, nếu cả hai thừa số đều là bội của 3, tích phải là bội của 9.\n\n**Hãy kiểm tra đơn vị và cấp độ lớn.** Đáp án cho 48 thùng có 27 chai mỗi thùng phải là số chai, không phải số thùng, và cũng không phải số chai mỗi thùng. Nếu câu hỏi yêu cầu một độ dài mà đáp án của bạn không có đơn vị, thì nó chưa hoàn thành.\n\nDưới đây là một lỗi được phát hiện. Bạn cần biết số chai trong 48 thùng có 27 chai mỗi thùng. Bạn thực hiện 48 × 30 = 1440, sau đó trừ 48 × 3 = 144 và nhận được 1296. Kiểm tra độ lớn cho thấy kết quả phù hợp: khoảng 1500 gần với 1296. Bây giờ giả sử phép trừ bị sai và bạn viết 1298. Cách kiểm tra ngược phát hiện lỗi này, vì 1298 ÷ 48 không phải là số thùng nguyên. Cách kiểm tra tổng các chữ số cũng phát hiện lỗi: tổng các chữ số của 1298 là 1 + 2 + 9 + 8 = 20, không phải bội của 9, trong khi 48 và 27 đều là bội của 3, nên tích phải là bội của 9. Đáp án đúng là 1296 và tổng các chữ số của nó là 18.",
+      "examples": [
+        "Khoảng 50 nhân khoảng 30 là khoảng 1,500, nên 1,296 có độ lớn phù hợp.",
+        "Nhân ngược thương và cộng số dư; bạn phải nhận được số ban đầu.",
+        "Tôi kiểm tra đơn vị trước khi kiểm tra các chữ số: đáp án là số chai, không phải số thùng."
+      ],
+      "heading": "Kiểm tra đáp án bạn đã tính trong đầu",
+      "steps": [
+        "Ước lượng độ lớn của đáp án từ các số đã làm tròn: khoảng 1,500 chai.",
+        "Thực hiện phép tính ngược và kiểm tra rằng bạn nhận được số ban đầu.",
+        "Kiểm tra tổng các chữ số khi các thừa số là bội của 3: 1 + 2 + 9 + 6 = 18.",
+        "Nói đáp án kèm đơn vị: 1,296 chai trong 48 thùng.",
+        "Nếu bất kỳ cách kiểm tra nào không đạt, hãy tính lại thay vì chỉnh số cho vừa ý."
+      ]
+    },
+    {
+      "body": "Có một cách chuyên nghiệp để mua thêm thời gian. Khi cần một con số mà bạn chưa có, hãy nói rõ bạn đang làm gì: **\"Để tôi tính toán xem.\"** Đó là một giây nói, và giúp bạn có thêm ba giây mà phép tính cần.\n\nCác câu nói thành thật khác: **\"Tôi sẽ kiểm tra điều đó và quay lại báo bạn.\"** **\"Con số đó xấp xỉ 1,300; con số chính xác là 1,296.\"** **\"Tôi không có con số đó trong tay.\"** Mỗi câu đều nói rõ điều bạn biết và điều bạn không biết, mà không giả vờ.\n\nĐiều không nên làm: đừng đưa ra một con số mà bạn chưa kiểm tra chỉ vì khoảng im lặng thấy dài. Một con số được nói với sự tự tin sẽ được xem là đã kiểm tra. Nếu nó sai, con số đó vẫn được sử dụng, và việc đính chính phải đi ngược lại qua tất cả những người đã dùng nó.\n\nMột câu trả lời đã kiểm tra luôn tốt hơn một câu trả lời sai nhưng nhanh. Câu trả lời đã kiểm tra vẫn đúng sau cuộc họp, trong báo cáo và lúc bàn giao ca. Một con số sai được đưa ra nhanh phải được phát hiện sau đó, thường là do người khác, và điều đó khiến người đó phải làm lại đúng công việc mà bạn đã né tránh.",
+      "examples": [
+        "Để tôi tính toán xem.",
+        "Con số đó xấp xỉ 1,300; con số chính xác là 1,296.",
+        "Tôi sẽ kiểm tra điều đó và quay lại báo bạn.",
+        "Tôi không có con số đó trong tay, nhưng nó gần với 1,300."
+      ],
+      "heading": "Những câu nói thành thật trong công việc"
+    },
+    {
+      "body": "**Hãy nói kích thước xấp xỉ trước, rồi đến con số chính xác.** “Khoảng 1,300 chai, và chính xác là 1,296.” Việc nói kích thước mất một giây và giúp người nghe có một điểm để kiểm tra con số. Nếu hai con số không khớp, bạn đã phát hiện lỗi trước khi bất kỳ ai sử dụng con số đó.\n\n**Hãy giữ kích thước trong cùng đơn vị với câu trả lời.** Một kích thước tính bằng mét và một câu trả lời tính bằng xentimét không thể kiểm tra lẫn nhau.\n\n**Hãy nói to.** Một con số mà bạn chỉ nghĩ trong đầu cũng chỉ được kiểm tra đôi khi.",
+      "examples": [
+        "Khoảng 1,300 chai, và chính xác là 1,296.",
+        "Hãy nói kích thước theo cùng đơn vị với câu trả lời, nếu không cách kiểm tra sẽ không phát hiện được điều gì.",
+        "Tôi có một con số ước lượng là 1,300 và đang kiểm tra con số đó so với số lượng đếm được."
+      ],
+      "heading": "Hãy nói kích thước trước con số"
+    },
+    {
+      "body": "Đây là những câu giúp một con số nghe như đã được kiểm tra, dù bạn tính toán trong đầu hay trên giấy. Mọi câu đều theo cùng một khuôn mẫu: độ lớn của số, số chính xác và cách bạn tìm ra số đó.\n\nHãy nói độ lớn của số trước, rồi đến số chính xác. Hãy nói ngắn gọn cách bạn tìm ra số đó: “Tôi đã làm tròn 19 thành 20 và trừ 24 một lần, nên 19 × 24 = 456” là đủ. Khi bản thân phép kiểm tra cũng đáng nói, hãy nói trong một dòng: “Tổng các chữ số là 18, là một bội số của 9, nên đáp án có thể đúng.” Và “Để tôi tính cái đó” luôn tốt hơn việc đưa ra một con số mà bạn chưa kiểm tra.",
+      "examples": [
+        "Để tôi tính cái đó; cho tôi một giây.",
+        "Con số đó xấp xỉ 1.300; con số chính xác là 1.296.",
+        "87 chia cho 7 bằng 12, phần dư là 3.",
+        "15 % của 800 là 80 cộng 40, tổng là 120."
+      ],
+      "heading": "Câu có thể tái sử dụng"
+    }
+  ],
+  "summary": "Tính nhẩm nhanh là tập hợp các mẹo tắt trung thực, và mọi mẹo tắt đều cần một cách kiểm tra. Sau khi đọc bài này, bạn có thể làm tròn và điều chỉnh một tích, tách một tích thành các phần, làm việc với hàng chục, xem một tỷ lệ phần trăm là một phân số của mười, và trừ bằng cách dùng số bù. Bạn cũng có thể ước lượng đáp án trước khi đưa ra và kiểm tra đáp án theo chiều ngược lại.",
+  "title": "Tính nhẩm nhanh có thể kiểm tra"
+}

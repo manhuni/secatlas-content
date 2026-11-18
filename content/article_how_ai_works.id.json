@@ -1,0 +1,160 @@
+{
+  "language": "id",
+  "lessonId": "article_how_ai_works",
+  "objectives": [
+    "Explain apa itu model bahasa dan apa yang bukan.",
+    "Describe training loop, mulai dari collecting teks hingga adjusting parameters.",
+    "Explain apa yang happens antara sending pesan dan receiving jawaban.",
+    "Gunakan istilah dalam bidang ini dengan correctly: token, training data, parameters, inference, context window, prompt, hallucination.",
+    "Explain mengapa jawaban yang fluent masih dapat wrong.",
+    "Judge task mana yang sebaiknya hand kepada model dan task mana yang sebaiknya keep.",
+    "Check numbers, sources, dan gaps sebelum Anda trust sebuah output."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Model bahasa adalah program yang telah dilatih untuk melanjutkan teks. Itulah seluruh pekerjaannya, pada tingkat mesin. Model ini bukan basis data jawaban. Model ini tidak menyimpan daftar fakta tentang perusahaan, mesin, atau rapat Anda kemarin, dan ketika memberi Anda fakta yang tidak ia terima dari teks Anda, model ini menghasilkan fakta itu dari sebuah pola, bukan dari catatan.\n\nYang dimilikinya adalah sekumpulan angka yang sangat besar, yang dipelajari dari jumlah teks yang sangat besar, untuk menggambarkan potongan teks mana yang cenderung diikuti potongan teks lain. Model ini telah mempelajari bahwa \"pompa\" biasanya diikuti kata tentang tekanan atau aliran. Model ini telah mempelajari bentuk sebuah manual, keluhan, komentar kode, atau batas keamanan yang ditulis sebagai angka dengan satuan. Kata \"model\" berarti benda yang dibangun untuk menggantikan sesuatu yang lain: model skala menggantikan sebuah kapal, model cuaca menggantikan keadaan cuaca. Model bahasa menggantikan bahasa itu sendiri.\n\nDi situlah juga berasal batas-batasnya. Model ini tidak memiliki pengalaman maupun kesadaran diri. Model ini tidak sadar, dan tidak ada apa pun di dalamnya yang memahami apa yang dikatakan dengan cara seperti orang memahaminya. Model ini tidak pernah melihat mesin, pelanggan, atau lokasi Anda; semua yang dikatakan tentang dunia berasal dari teks, dan sebagian teks itu sudah lama, keliru, atau ditulis oleh orang yang berkepentingan terhadap jawabannya. Konsekuensi praktisnya sederhana. Anda tidak berbicara dengan mesin yang mengetahui sesuatu. Anda berbicara dengan mesin yang melengkapi teks, dan setiap poin lain dalam artikel ini berasal dari perbedaan tunggal itu.",
+      "examples": [
+        "Ini bukan basis data jawaban; ini adalah sekumpulan kecenderungan tentang apa yang akan datang berikutnya.",
+        "Model itu melengkapi kalimat karena lanjutan itu berpeluang besar, bukan karena ia memeriksa sebuah fakta.",
+        "Tidak ada apa pun dalam model yang mengetahui mesin kami; semua yang dikatakan tentang itu berasal dari teks yang saya berikan."
+      ],
+      "heading": "Model bahasa itu apa, dan apa yang bukan"
+    },
+    {
+      "body": "Pelatihan berlangsung sekali, sebelum Anda pernah melihat model, dan ini membutuhkan biaya yang mahal. Proses ini berjalan dengan jumlah teks yang sangat besar, yang dikumpulkan dari buku, artikel, situs web, kode, dan transkrip. Teks mentah pertama-tama dipotong menjadi token, yaitu potongan yang dibaca dan ditulis oleh model. Model tidak membaca huruf.\n\nKemudian putaran dimulai, dan itu adalah putaran yang sama jutaan kali selama miliaran potongan teks. Model ditunjukkan sebuah urutan token dengan token berikutnya disembunyikan. Model memprediksi token yang disembunyikan. Model membandingkan prediksinya dengan token sebenarnya dan mengukur kesalahan sebagai satu angka. Lalu model menyesuaikan setiap parameter sedikit, ke arah yang akan membuat kesalahan lebih kecil. Setelah itu, model melanjutkan ke urutan berikutnya.\n\nParameter merupakan bagian yang dipelajari dari mesin: jumlah bobot yang sangat besar untuk menyimpan kecenderungan tersebut. Namanya berasal dari akar kata yang sama dengan \"measure\". Setiap bobot menyatakan seberapa banyak satu pola harus menaikkan atau menurunkan peluang pola lain.\n\nDesain yang membuat proses ini berhasil berasal dari makalah tahun 2017 \"Attention Is All You Need\", yang memperkenalkan transformer, yaitu susunan layer yang digunakan oleh sebagian besar model saat ini. Ide utamanya adalah attention: setiap token melihat token-token di sekitarnya dan menentukan token mana yang penting untuk prediksi. Model yang menjawab Anda terdiri atas banyak layer seperti ini, dengan parameter di dalamnya.\n\nSatu hal penting perlu diingat. Ketika Anda menggunakan model, tidak ada yang sedang dipelajari. Parameter bersifat tetap. Setiap jawaban yang Anda dapatkan dihasilkan oleh model terlatih yang sama yang dijalankan untuk memproses teks Anda.",
+      "examples": [
+        "Pelatihan adalah sebuah putaran: tebak token berikutnya, ukur kesalahan, sesuaikan bobot, lalu mulai lagi.",
+        "Tidak ada yang melatih model ketika saya menekan Enter. Bobot sudah dikunci jauh sebelumnya."
+      ],
+      "heading": "Cara melatih model",
+      "steps": [
+        "Kumpulkan jumlah teks yang sangat besar: buku, artikel, situs web, kode, dan transkrip.",
+        "Potong teks menjadi token, yaitu potongan yang dibaca model.",
+        "Tunjukkan model sebuah urutan token dan sembunyikan token berikutnya.",
+        "Minta model untuk memprediksi token yang disembunyikan.",
+        "Ukur besarnya kesalahan dan sesuaikan setiap parameter sedikit agar kesalahannya lebih kecil.",
+        "Ulangi selama miliaran potongan teks hingga kesalahannya cukup kecil untuk berguna."
+      ]
+    },
+    {
+      "body": "Pesan Anda dipotong menjadi token. Token-token tersebut ditempatkan dalam jendela konteks, yaitu ruang yang dapat dilihat model sekaligus, bersama percakapan sejauh ini, dokumen apa pun yang Anda lampirkan, serta instruksi yang diberikan kepada layanan. Setelah itu, model melakukan satu hal: ia memprediksi token berikutnya. Model menghitung probabilitas banyak token berikutnya yang mungkin, memilih satu, lalu menulisnya. Setelah itu, model melakukan hal yang sama lagi dengan token tersebut ditambahkan, dan lagi, dan lagi. Jawaban dibangun satu token pada satu waktu, dan setiap token baru dipilih dari semua yang hadir sebelumnya.\n\nProses menjalankan model yang telah dilatih pada teks baru ini disebut inferensi. Ini merupakan kebalikan dari pelatihan: parameter tidak berubah, dan tidak ada yang dipelajari dari pertanyaan Anda. Setiap jawaban yang Anda terima merupakan satu proses inferensi.\n\nKarena setiap token dipilih dari daftar kandidat yang kemungkinan besar, pertanyaan yang sama dapat menghasilkan dua jawaban berbeda. Sebagian besar layanan menetapkan kendali atas tingkat keacakan yang digunakan saat itu. Keacakan yang rendah menghasilkan jawaban yang sama dua kali. Keacakan yang tinggi menghasilkan lebih banyak variasi dan lebih besar peluang untuk salah langkah.\n\nModel juga menentukan kapan harus berhenti. Model menghasilkan penanda akhir, atau layanan menghentikannya pada batas panjang, atau model berhenti karena jawaban tersebut memerlukan sebuah alat yang harus dijalankan terlebih dahulu.\n\nDan tidak ada memori antara percakapan. Obrolan baru dimulai tanpa apa pun, kecuali layanan menyalinkan ringkasan obrolan lama ke bagian atas. Memori tersebut tersimpan dalam basis data di sisi layanan, bukan di dalam model, dan model tidak dapat membedakan keduanya.",
+      "examples": [
+        "Jawaban itu dibangun satu token pada satu waktu, dan setiap token bergantung pada token-token sebelumnya.",
+        "Bobot tidak berubah; model hanya dijalankan maju.",
+        "Tanyakan pertanyaan yang sama dua kali dan Anda mungkin mendapatkan dua jawaban. Keduanya berasal dari parameter yang sama."
+      ],
+      "heading": "Apa yang terjadi saat Anda menekan Enter"
+    },
+    {
+      "body": "Ketujuh kata ini merupakan kosakata kerja dalam bidang ini. Kata-kata tersebut muncul dalam dokumentasi model, pada halaman-halaman penetapan harga, dan dalam percakapan orang-orang yang membangun sistem seperti ini.\n\nEmpat di antaranya menggambarkan mesin serta dua fase yang dijalankan mesin tersebut: **token**, **training data**, **parameters**, dan **inference**. Dua di antaranya menggambarkan apa yang Anda berikan kepada model: **prompt** dan **context window**. Satu kata lagi menamai kegagalan yang menghabiskan waktu kerja paling banyak: **hallucination**.\n\nKedua fase ini perlu dibedakan dengan jelas. Training merupakan fase yang panjang dan mahal, dikerjakan oleh orang-orang yang membangun model, dan berakhir sebelum model tiba di tangan Anda. Inference adalah setiap jawaban yang Anda dapatkan, satu proses pada satu waktu.\n\nSatu peringatan tentang semua ketujuh kata ini. Masing-masing kata menunjuk sebuah mekanisme, bukan sebuah janji. \"Model telah belajar\" berarti bahwa model tersebut menyimpan kecenderungan statistik. Hal ini tidak berarti bahwa model tersebut mengetahui sesuatu.",
+      "examples": [
+        "Token adalah satuan yang dibaca model; parameter adalah angka yang digunakan model untuk menyimpan apa yang dipelajarinya.",
+        "Training terjadi sekali, sebelum saya menggunakannya. Setiap jawaban yang saya dapatkan adalah inference.",
+        "Jika isinya tidak berada di dalam context window, model tidak dapat memakainya."
+      ],
+      "heading": "Kata-kata dalam bidang ini",
+      "terms": [
+        {
+          "example": "Kata \"pump\" mungkin menjadi satu token, sedangkan nomor bagian yang tidak biasa mungkin menjadi tiga token.",
+          "gloss": "Token adalah potongan teks yang dibaca dan ditulis model sebagai satu satuan. Biasanya berupa kata, bagian dari kata, atau simbol yang umum."
+        },
+        {
+          "example": "Jika training data sebagian besar berupa halaman web berbahasa Inggris, model akan paling baik menjawab dalam bahasa Inggris.",
+          "gloss": "Training data adalah teks yang digunakan model untuk belajar. Rentang dan kualitasnya menentukan apa yang dikuasai model dan apa yang tidak pernah dilihatnya."
+        },
+        {
+          "example": "Model memiliki miliaran parameter, dan tidak satu pun merupakan kalimat yang dapat dibaca.",
+          "gloss": "Parameters adalah angka-angka di dalam model yang menyimpan apa yang telah dipelajari model. Masing-masing angka merupakan bobot yang meningkatkan atau menurunkan peluang suatu kelanjutan."
+        },
+        {
+          "example": "Setiap pertanyaan yang Anda kirim merupakan satu proses inference.",
+          "gloss": "Inference adalah fase ketika model yang telah dilatih menjalankan parameter pada masukan baru untuk menghasilkan jawaban."
+        },
+        {
+          "example": "Ketika context window sudah penuh, halaman pertama dokumen tidak lagi dapat diakses oleh model.",
+          "gloss": "Context window adalah jumlah teks yang dapat digunakan model dalam satu waktu: pesan Anda, percakapan sejauh ini, dan dokumen apa pun yang dilampirkan."
+        },
+        {
+          "example": "Prompt tidak pernah menyebut toleransi kami, sehingga jawaban menggunakan toleransi yang salah.",
+          "gloss": "Prompt adalah semua yang Anda kirimkan kepada model: instruksi, materi, dan pertanyaan. Prompt menjadi teks yang dijadikan model sebagai dasar untuk menjawab."
+        },
+        {
+          "example": "Rujukan tersebut tampak sempurna, tetapi artikelpernah ada. Itu adalah hallucination.",
+          "gloss": "Hallucination adalah jawaban yang lancar dan yakin, tetapi tidak benar. Model menghasilkan kelanjutan yang tampak mungkin sebagai pengganti sebuah fakta."
+        }
+      ]
+    },
+    {
+      "body": "Model dilatih untuk menghasilkan teks yang mungkin, bukan teks yang benar. Kebenaran bukan merupakan tujuan yang dituju. Model ini adalah penebak yang baik untuk token berikutnya, dan tebakan yang baik pun dapat salah.\n\nJawaban yang selesai memiliki dua kualitas yang terpisah: terdengar benar, dan memang benar. Model mengendalikan kualitas pertama sepenuhnya. Model tidak memiliki cara untuk mengetahui kualitas kedua, karena model tidak menyimpan catatan tentang apa yang benar, dan model tidak pernah memeriksa sebuah kalimat terhadap sumbernya.\n\nTiga penyebab yang umum. Fakta itu tidak ada dalam konteks yang diberikan kepada model, sehingga model mengisi celah tersebut berdasarkan polanya. Fakta itu jarang, dan teks pelatihan mungkin tidak pernah memuatnya, sehingga model tidak memiliki apa pun untuk disalin. Atau pertanyaan meminta sebuah sumber, dan model menghasilkan bentuk sebuah kutipan: judul, penulis, tahun, semuanya dirangkai berdasarkan tampilan kutipan, bukan berdasarkan dokumen nyata mana pun.\n\nKetika jawaban seperti itu tiba dengan keyakinan yang sama seperti jawaban yang benar, jawaban itu disebut halusinasi. Nama ini tidak berarti bahwa model menjadi kebingungan. Hal ini berarti bahwa jawaban tersebut tidak memiliki dasar. Sebuah halusinasi dapat berupa angka yang dibuat-buat, kutipan yang dibuat-buat, kebijakan yang dibuat-buat, berkas yang dibuat-buat, atau halaman yang tidak ada.\n\nAda jenis kesalahan kedua, dan jenis ini lebih senyap. Jawaban itu benar, tetapi benar tentang hal lain. Model menyelesaikan pola yang familier tentang perusahaan lain, mesin lain, atau standar lain, dan kalimatnya benar meskipun subjeknya keliru.\n\nKonsekuensi dari semua ini sederhana. Perlakukan setiap klaim faktual sebagai belum terverifikasi sampai Anda memeriksanya terhadap sumber tempat klaim itu berasal. Kefasahan jawaban bukan bukti. Kefasahan adalah ciri dari penulisan, bukan ciri dari klaim.",
+      "examples": [
+        "Kalimatnya fasih, tetapi angkanya salah. Kefasahan bukan bukti.",
+        "Model memberikan referensi yang tampak benar; artikel itu tidak ada.",
+        "Kebijakan yang dikutipnya itu benar-benar ada, tetapi berasal dari perusahaan lain."
+      ],
+      "heading": "Mengapa jawaban yang fasih tetap bisa salah"
+    },
+    {
+      "body": "Mekanisme yang sama menghasilkan kedua bagian tabel ini, dan perbedaan antara keduanya bukan sekadar kebetulan. Menulis ulang, meringkas, menyusun draf, dan menerjemahkan adalah pekerjaan yang dilakukan model dengan baik: pekerjaan-pekerjaan itu dekat dengan bentuk teks pelatihan, dan hasilnya dinilai dari seberapa baik hasilnya dibaca. Menghitung, mengetahui perusahaan Anda, dan mengingat percakapan kemarin adalah pekerjaan yang dilakukan model dengan buruk: pekerjaan-pekerjaan itu memerlukan informasi yang tidak dimiliki model, atau aritmetika yang tidak dapat dilakshankannya tanpa alat.\n\nBacalah daftar buruk sebagai pekerjaan yang tetap menjadi tanggung jawab Anda. Jika Anda memberikan dokumen kepada model, model dapat meringkas dokumen itu. Jika jawabannya bergantung pada angka dari catatan Anda, angka tersebut menjadi tanggung jawab Anda. Jika pekerjaan memiliki status, yaitu kedudukannya, apa yang telah diputuskan, dan apa yang masih terbuka, maka Anda mempertahankan status itu, karena model tidak mempertahankan apa pun.\n\nAda syarat pada daftar bagus. Daftar itu memuat pekerjaan-pekerjaan ketika jawaban yang cukup baik berguna dan pembaca memeriksa rumusan katanya, bukan faktanya. Begitu jawaban harus memuat angka yang menentukan uang, waktu, toleransi, atau keselamatan, pekerjaan tersebut masuk ke dalam daftar buruk, apa pun tampilan jawabannya.",
+      "examples": [
+        "Biarkan model menyusun draf surel itu, lalu Anda mengirimnya. Biarkan model menjelaskan prosedur itu, lalu Anda memeriksa angka pada langkah empat.",
+        "Jika jawabannya memerlukan angka dari catatan kami, pemeriksaan itu tetap menjadi tanggung jawab kami.",
+        "Saya memberikan teks sebenarnya kepada model, karena model tidak dapat mengarang teks yang lupa saya salin."
+      ],
+      "heading": "Apa yang dilakukan model dengan baik, dan apa yang dilakkukannya dengan buruk",
+      "table": {
+        "headers": [
+          "It does this well",
+          "It does this badly"
+        ],
+        "rows": [
+          [
+            "Rewriting a text in another tone or length",
+            "Arithmetic in its head, without a calculator"
+          ],
+          [
+            "Summarising a document you gave it",
+            "Counting a long list and getting the total right"
+          ],
+          [
+            "Drafting the first version of an email",
+            "Knowing anything about your company"
+          ],
+          [
+            "Translating between languages",
+            "Remembering yesterday's conversation"
+          ],
+          [
+            "Explaining a standard procedure step by step",
+            "Telling whether the number on the page is the right one"
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Tiga pemeriksaan, dan yang ketiga sering diabaikan. **Angka-angka.** Hitung ulang apa pun yang menentukan uang, waktu, toleransi, atau keselamatan. Model dapat menghasilkan angka yang tampak benar, tetapi tidak ada isi di baliknya, dan pemeriksaan ini hanya membutuhkan satu menit. **Sumber.** Buka setiap rujukan. Jika jawaban mengutip artikel ilmiah, standar, atau halaman web, buka dan pastikan bahwa isinya sesuai dengan klaim dalam jawaban. Sitasi yang bentuknya benar, tetapi dokumen di baliknya salah, merupakan kegagalan yang umum terjadi. **Kekosongan.** Tanyakan informasi apa yang tidak diberikan kepada model. Model tidak mengetahui nomor bagian Anda, kontrak Anda, atau hasil rapat kemarin, sehingga setiap jawaban yang bergantung pada informasi tersebut harus Anda selesaikan sendiri. Satu kebiasaan dapat menutupi ketiga pemeriksaan tersebut: mintalah model untuk menunjukkan langkah-langkahnya, lalu periksa langkah-langkah itu terhadap sumber yang Anda percaya, bukan terhadap kalimat yang ditulisnya.",
+      "examples": [
+        "Berikan saya sumber untuk angka itu, dan saya akan memeriksanya.",
+        "Tunjukkan langkah-langkahnya, dan tandai bagian yang tidak Anda yakini.",
+        "Bagian mana yang tidak Anda miliki? Saya akan providenya."
+      ],
+      "heading": "Apa yang perlu diperiksa sebelum Anda memercayai hasilnya"
+    },
+    {
+      "body": "Kalimat-kalimat ini menjelaskan perilaku yang membingungkan bagi banyak orang, dan berguna saat berbicara dengan rekan kerja, guru, atau melalui saluran dukungan. Gunakan sebagaimana adanya, lalu ubah detailnya agar sesuai dengan situasi Anda.",
+      "examples": [
+        "Model itu tidak mengetahui hal tersebut. Model itu melengkapi teks dengan cara teks biasanya dilanjutkan.",
+        "Jawaban itu mengalir dengan baik dan belum terverifikasi, sehingga saya memperlakukannya sebagai draft.",
+        "Model itu memprediksi token berikutnya, tetapi token berikutnya itu keliru.",
+        "Pelatihan sudah selesai. Yang Anda lihat adalah inference.",
+        "Tidak ada memori antara percakapan. Context window adalah seluruh memori.",
+        "Berikan teks sebenarnya kepada saya, dan saya akan bekerja dari teks itu, bukan dari apa yang saya ingat.",
+        "Tunjukkan langkah-langkahnya, dan beri tahu saya bagian mana yang tidak Anda yakini."
+      ],
+      "heading": "Kalimat yang dapat Anda gunakan kembali"
+    }
+  ],
+  "summary": "Model bahasa tidak mencari jawaban. Model learns patterns dari sejumlah besar teks, lalu pada waktu menjalankan model predicts token berikutnya, satu token pada satu waktu. Setelah membaca ini, Anda dapat explain cara model undergoes training, isi context window, alasan jawaban yang fluent bisa wrong, dan hal-hal yang perlu check sebelum Anda trust output di tempat kerja.",
+  "title": "Cara Kerja Kecerdasan Buatan Sebenarnya: Training, Prediction, dan Batasannya"
+}

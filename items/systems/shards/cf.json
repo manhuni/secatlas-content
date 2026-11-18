@@ -1,0 +1,26 @@
+{
+  "items": {
+    "knowledge_paradox": {
+      "fieldId": "mind",
+      "id": "knowledge_paradox",
+      "name": "The paradox of knowledge",
+      "order": 10,
+      "summary": "Why more facts do not make a person understand more, and what understanding really is.",
+      "topicIds": [
+        "article_knowledge_paradox"
+      ]
+    },
+    "pump_electrical_safety": {
+      "fieldId": "daily_skills",
+      "id": "pump_electrical_safety",
+      "name": "Pumps, water and electric leakage",
+      "order": 1,
+      "summary": "Why a pump that moves water can move current too, and how a house is protected from it.",
+      "topicIds": [
+        "article_pump_electrical_safety"
+      ]
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

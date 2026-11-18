@@ -1,0 +1,1210 @@
+{
+  "records": {
+    "251fecd592e56e6c4a95121752f4a73bb802dffc1cc4bce6100206ee2b7cb650": [
+      {
+        "forms": [
+          "point",
+          "points"
+        ],
+        "id": "lex.sa.en.point.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "point",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.point.noun",
+          "prn.sa.en.point.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.point.noun.1",
+          "sns.sa.vi.point.noun.2",
+          "sns.sa.en.point-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.point-noun",
+        "id": "prn.sa.en.point.noun",
+        "ipa": "/pɔɪnt/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.point.noun.us",
+        "ipa": "/pɔɪnt/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Vị trí trên mặt phẳng, thường ghi (x, y).",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.point.noun.1.1",
+          "exm.sa.en.point-noun.more.01",
+          "exm.sa.en.point-noun.more.02"
+        ],
+        "gloss": "điểm",
+        "id": "sns.sa.vi.point.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.point.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.point-noun",
+          "res.sa.aud.point-noun",
+          "res.sa.lnk.point-noun",
+          "res.sa.vid.point-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Nội dung chính trong lập luận.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.point.noun.2.1",
+          "exm.sa.en.point-noun.more.01",
+          "exm.sa.en.point-noun.more.02"
+        ],
+        "gloss": "ý; điểm (lập luận)",
+        "id": "sns.sa.vi.point.noun.2",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.point.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.point-noun",
+          "res.sa.aud.point-noun",
+          "res.sa.lnk.point-noun",
+          "res.sa.vid.point-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "A pair (x, y) on the line.",
+        "exampleIds": [
+          "exm.sa.en.point.noun.1.1",
+          "exm.sa.en.point.noun.2.1"
+        ],
+        "gloss": "A pair (x, y) on the line.",
+        "id": "sns.sa.en.point-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.point.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.point.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Plot the point (0, 3) on the graph.",
+        "translation": "Vẽ điểm (0, 3) trên đồ thị.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.point.noun.2.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "That's the point of checking.",
+        "translation": "Đó là ý của việc thử lại.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.point.noun.1",
+        "id": "lnk.sa.en.glossary.060",
+        "kind": "relation",
+        "toId": "sns.sa.vi.graph.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.point.noun.1",
+        "id": "lnk.sa.en.glossary.061",
+        "kind": "relation",
+        "toId": "sns.sa.vi.intercept.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "254637f72efcddb6a545bccbd0c3bb84e6393647deb5fd344de6584ccc1e743c": [
+      {
+        "forms": [
+          "loop",
+          "looping"
+        ],
+        "id": "lex.sa.en.loop.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "loop",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.loop.noun.1",
+          "sns.sa.en.loop-noun.alt"
+        ]
+      },
+      {
+        "definition": "Chạy lại liên tục không dừng.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "vòng lặp",
+        "id": "sns.sa.vi.loop.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.loop.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A repeated sequence with no end.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "Playing again and again without a stop.",
+        "id": "sns.sa.en.loop-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.loop.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "254ac4523be56a1a724c4cd50437cfe343f0b4403d1c5a4def8ee8ce3259b9ad": [
+      {
+        "forms": [
+          "Ivy",
+          "ivy"
+        ],
+        "id": "lex.sa.kids_adventure.ivy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Ivy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_adventure.ivy.alt",
+          "sns.sa.kids_adventure.ivy.alt.ja",
+          "sns.sa.kids_adventure.ivy.alt.ko",
+          "sns.sa.kids_adventure.ivy.alt.pt_br",
+          "sns.sa.kids_adventure.ivy.alt.id",
+          "sns.sa.kids_adventure.ivy.alt.th",
+          "sns.sa.kids_adventure.ivy.alt.tr"
+        ]
+      },
+      {
+        "definition": "A green climbing plant that grows up walls and trees. It holds on tightly and hides what is behind it.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.ivy.1.1"
+        ],
+        "gloss": "A green climbing plant that grows up walls and trees. It holds on tightly and hides what is behind it.",
+        "id": "sns.sa.kids_adventure.ivy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_adventure.ivy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "蔦は壁や木 lambなどの表面によじ登る植物です。強い根で張りつき、表面を隠すように広がります。",
+        "exampleIds": [
+          "exm.sa.kids_adventure.ivy.1.1.ja"
+        ],
+        "gloss": "壁や木をよじ登る緑色の climbing plant。",
+        "id": "sns.sa.kids_adventure.ivy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_adventure.ivy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "담장이나 나무에 줄기를 단단히 붙이고 오르는 식물이다.密集한 잎이 뒤의 물건을 가리는的样子를 만든다.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.ivy.1.1.ko"
+        ],
+        "gloss": "벽이나 나무를 따라 오르는 녹색 등반 식물이다.",
+        "id": "sns.sa.kids_adventure.ivy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_adventure.ivy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É uma planta de folhas verdes que se agarra fortemente às superfícies e pode esconder o que está atrás dela.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.ivy.1.1.pt_br"
+        ],
+        "gloss": "Planta trepadeira que cresce sobre muros e árvores.",
+        "id": "sns.sa.kids_adventure.ivy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_adventure.ivy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sulur ini menempel kuat pada dinding atau pohon dan dapat menutupi bagian yang berada di belakangnya. Sulur tetap hijau sepanjang tahun.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.ivy.1.1.id"
+        ],
+        "gloss": "Sulur hijau yang merambat di dinding dan pohon.",
+        "id": "sns.sa.kids_adventure.ivy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_adventure.ivy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "พืชเลื้อยที่ยึดติดแน่นกับกำแพงหรือต้นไม้ และมีใบหนาแน่นจนปกคลุมสิ่งที่อยู่เบื้องหลัง",
+        "exampleIds": [
+          "exm.sa.kids_adventure.ivy.1.1.th"
+        ],
+        "gloss": "พืชเลื้อยสีเขียวที่งอกตามกำแพงและต้นไม้",
+        "id": "sns.sa.kids_adventure.ivy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_adventure.ivy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Duvar sarmaşığı, sıkı tutunarak duvarlarda ve ağaçlarda büyür. Yaprakları arkasını örterek yeşil bir örtü oluşturabilir.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.ivy.1.1.tr"
+        ],
+        "gloss": "Duvarlarda ve ağaçlarda tırmanan yeşil bitki.",
+        "id": "sns.sa.kids_adventure.ivy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_adventure.ivy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_adventure.ivy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Ivy grew across the green door.",
+        "translation": "Yeşil kapının önünü duvar sarmaşığı kaplamıştı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_adventure.ivy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Ivy grew across the green door.",
+        "translation": "พืชไอวีงอกขึ้นปกคลุมประตูสีเขียว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_adventure.ivy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Ivy grew across the green door.",
+        "translation": "Sulur tumbuh memenuhi pintu yang berwarna hijau.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_adventure.ivy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Ivy grew across the green door.",
+        "translation": "A hera cresceu sobre a porta verde.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_adventure.ivy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Ivy grew across the green door.",
+        "translation": "담장 한쪽으로 아이비가 Lots of coverage.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_adventure.ivy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Ivy grew across the green door.",
+        "translation": "蔦が緑の扉を覆うように伸びていました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_adventure.ivy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Ivy grew across the green door.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "254bb97b57f12e1608fefc4517de768427b2fd6d2cffbbfcbc09f3c818198d5f": [
+      {
+        "forms": [
+          "not"
+        ],
+        "id": "lex.sa.en.not.adverb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "not",
+        "pos": "adverb",
+        "pronunciationIds": [
+          "prn.sa.en.not.adverb",
+          "prn.sa.en.not.adverb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.not.adverb.1",
+          "sns.sa.en.not-adverb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.not-adverb",
+        "id": "prn.sa.en.not.adverb",
+        "ipa": "/nɒt/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.not.adverb.us",
+        "ipa": "/nɑːt/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Phủ định mệnh đề hoặc điều kiện.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.not.adverb.1.1",
+          "exm.sa.en.not-adverb.more.01",
+          "exm.sa.en.not-adverb.more.02"
+        ],
+        "gloss": "không",
+        "id": "sns.sa.vi.not.adverb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.not.adverb",
+        "pos": "adverb",
+        "resourceIds": [
+          "res.sa.img.not-adverb",
+          "res.sa.aud.not-adverb",
+          "res.sa.lnk.not-adverb",
+          "res.sa.vid.not-adverb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Negation. Here: a must not be 0, or the equation is not linear.",
+        "exampleIds": [
+          "exm.sa.en.not.adverb.1.1"
+        ],
+        "gloss": "Negation. Here: a must not be 0, or the equation is not linear.",
+        "id": "sns.sa.en.not-adverb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.not.adverb",
+        "pos": "adverb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.not.adverb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "a is not equal to zero.",
+        "translation": "a không bằng không.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.not-adverb",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "not clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.vi.not.adverb.1",
+        "id": "lnk.sa.en.glossary.054",
+        "kind": "relation",
+        "toId": "sns.sa.vi.dont.contraction.1",
+        "type": "related_to"
+      }
+    ],
+    "25879af65325e41ef6d78398667e327e18218157e11719bc96140790fe53b690": [
+      {
+        "forms": [
+          "mate selection",
+          "msa_mate_selection"
+        ],
+        "id": "lex.sa.social.msa_mate_selection",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "mate selection",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.msa_mate_selection.alt",
+          "sns.sa.social.msa_mate_selection.alt.ko",
+          "sns.sa.social.msa_mate_selection.alt.pt_br",
+          "sns.sa.social.msa_mate_selection.alt.id",
+          "sns.sa.social.msa_mate_selection.alt.th",
+          "sns.sa.social.msa_mate_selection.alt.tr",
+          "sns.sa.social.msa_mate_selection.alt.ja"
+        ]
+      },
+      {
+        "definition": "The process of choosing a partner, from the first interest to the decision.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1"
+        ],
+        "gloss": "The process of choosing a partner, from the first interest to the decision.",
+        "id": "sns.sa.social.msa_mate_selection.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "배우자에게Interest를 느끼기 시작한 뒤 후보를 알아보고 비교하며 최종 선택에 이르기까지의 과정을 가리킨다. 사람마다 이 과정의 길이와 방식은 다르다.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.ko"
+        ],
+        "gloss": "처음 관심을 가진 상대부터 결정까지 배우자를 고르는 과정.",
+        "id": "sns.sa.social.msa_mate_selection.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Processo pelo qual uma pessoa decide quem será seu parceiro, desde o primeiro interesse até a escolha final.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.pt_br"
+        ],
+        "gloss": "O processo de escolher um parceiro, do primeiro interesse à decisão.",
+        "id": "sns.sa.social.msa_mate_selection.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Proses psikologis dan sosial yang berjalan mulai dari minat terhadap seseorang sampai pada keputusan untuk memilihnya sebagai pasangan.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.id"
+        ],
+        "gloss": "Proses memilih pasangan dari minat awal hingga keputusan.",
+        "id": "sns.sa.social.msa_mate_selection.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กระบวนการที่บุคคลหนึ่งพิจารณาและเลือกคู่ครอง ตั้งแต่เริ่มมีความสนใจจนถึงขั้นตอนการตัดสินใจ",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.th"
+        ],
+        "gloss": "กระบวนการตั้งแต่เริ่มสนใจจนตัดสินใจเลือกคู่ครอง",
+        "id": "sns.sa.social.msa_mate_selection.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin eşini seçme süreci; ilginin başlamasından ilişki kararının verilmesine kadar sürer.",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.tr"
+        ],
+        "gloss": "İlk ilgiden karar verilene kadar eş seçme süreci.",
+        "id": "sns.sa.social.msa_mate_selection.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "最初に誰かにinterestを抱いたことから、配偶者として選 Gelまでの一連の過程を指す。",
+        "exampleIds": [
+          "exm.sa.social.msa_mate_selection.1.1.ja"
+        ],
+        "gloss": "配偶者の候補を選び、関係を結ぶまでの過程。",
+        "id": "sns.sa.social.msa_mate_selection.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.msa_mate_selection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女の配偶者の選択はすぐ終わったが、弟はChampionship_uting__了很久。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Eş seçme süreci onun için yavaş, kardeşi için hızlıydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอใช้เวลาเลือกคู่ครองนานกว่าพี่ชายของเธอมาก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pemilihan pasangan berlangsung lambat baginya, tetapi cepat bagi saudaranya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A escolha de parceiro foi lenta para ela e rápida para o irmão dela.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀의 배우자 선택은 느리게 진행됐지만, 그녀의 형은 빠르게 결정했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.msa_mate_selection.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Mate selection was slow for her and quick for her brother.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "258c67acdcc4af7dfa9ac973e28962fdff3dbba5e93db7ea55e32d433ab666b7": [
+      {
+        "forms": [
+          "Campaign",
+          "war_campaign"
+        ],
+        "id": "lex.sa.mind.war_campaign",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Campaign",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_campaign.alt",
+          "sns.sa.mind.war_campaign.alt.ja",
+          "sns.sa.mind.war_campaign.alt.ko",
+          "sns.sa.mind.war_campaign.alt.pt_br",
+          "sns.sa.mind.war_campaign.alt.id",
+          "sns.sa.mind.war_campaign.alt.th",
+          "sns.sa.mind.war_campaign.alt.tr"
+        ]
+      },
+      {
+        "definition": "A series of connected actions with one objective, from the first move to the decision that closes it.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1"
+        ],
+        "gloss": "A series of connected actions with one objective, from the first move to the decision that closes it.",
+        "id": "sns.sa.mind.war_campaign.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一つの目的 shelfolarが連続した一連の軍事行動。初動から最終的な決着までを含む。",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.ja"
+        ],
+        "gloss": "一つの目的-shelfolar toda la secuencia de acciones que begins with the first move y termina con la decisión que la cierra.",
+        "id": "sns.sa.mind.war_campaign.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "첫 번째 행동부터 승부를 결정하는 단계까지, 하나의 목표를 위해 서로 연결된 일련의 군사 행동이다.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.ko"
+        ],
+        "gloss": "하나의 목표를 향해 이어지는 일련의 군사 행동.",
+        "id": "sns.sa.mind.war_campaign.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É uma sequência de operações_coordenadas para alcançar um objetivo, desde a primeira ação até a decisão que encerra o conflito.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.pt_br"
+        ],
+        "gloss": "Série de ações ligadas a um mesmo objetivo.",
+        "id": "sns.sa.mind.war_campaign.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rangkaian tindakan yang saling terkait dan berorientasi pada satu tujuan, mulai dari langkah pertama hingga keputusan penutup. Dalam konteks perang, kampanye adalah rangkaian operasi yang-disposable.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.id"
+        ],
+        "gloss": "Rangkaian tindakan yang saling terkait untuk mencapai satu tujuan.",
+        "id": "sns.sa.mind.war_campaign.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การรวมการกระทำที่เชื่อมโยงกันเพื่อบรรลุเป้าหมายเดียว ตั้งแต่การเริ่มต้นจนถึงผลที่ปิดวงการดำเนินการนั้น",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.th"
+        ],
+        "gloss": "การดำเนินการหลายขั้นเพื่อบรรลุเป้าหมายเดียว",
+        "id": "sns.sa.mind.war_campaign.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sefer, belirli bir sonuç elde etmek amacıyla başlatılan, birbirine bağlı askerî eylemlerden oluşan süreli çalışmadır. İlk harekâttan sonucun belirlendiği aşamaya kadar bütün adımları kapsar.",
+        "exampleIds": [
+          "exm.sa.mind.war_campaign.1.1.tr"
+        ],
+        "gloss": "Tek bir amaç doğrultusunda yürütülen ve birbirine bağlı eylemler dizisi.",
+        "id": "sns.sa.mind.war_campaign.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_campaign",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Altı hafta süren sefer, nehirde sona erdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "แคมเปญทางทหารครั้งนี้ใช้เวลาหกสัปดาห์และจบลงที่แม่น้ำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kampanye itu berlangsung selama enam minggu dan berakhir di sungai.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A campanha durou seis semanas e terminou às margens do rio.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 전역은 6주 동안 이어졌으며 강변에서 끝났다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その作戦は六週間続き、川で決着をみた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_campaign.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The campaign lasted six weeks and ended at the river.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "259548c7e15fa49db02dd7bb75001c7b8322f01dc18627b61efd6d8b8fe58674": [
+      {
+        "forms": [
+          "Decisive point",
+          "war_decisive_point"
+        ],
+        "id": "lex.sa.mind.war_decisive_point",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Decisive point",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_decisive_point.alt",
+          "sns.sa.mind.war_decisive_point.alt.ja",
+          "sns.sa.mind.war_decisive_point.alt.ko",
+          "sns.sa.mind.war_decisive_point.alt.pt_br",
+          "sns.sa.mind.war_decisive_point.alt.id",
+          "sns.sa.mind.war_decisive_point.alt.th",
+          "sns.sa.mind.war_decisive_point.alt.tr"
+        ]
+      },
+      {
+        "definition": "The place or the moment where the outcome of the whole action is settled; the effort is concentrated there.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1"
+        ],
+        "gloss": "The place or the moment where the outcome of the whole action is settled; the effort is concentrated there.",
+        "id": "sns.sa.mind.war_decisive_point.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一連の行動全体の結果が決まる場所または時点。戦力は通常、この決定点に集中する。",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.ja"
+        ],
+        "gloss": "全体の勝敗が決まる場所や時機。",
+        "id": "sns.sa.mind.war_decisive_point.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "전체 전투 또는 작전의 승패가 결정되는 장소나 순간이다. 보통 전력과Effort를 그 지점에 집중한다.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.ko"
+        ],
+        "gloss": "전체 승패가 갈리는 장소나 순간.",
+        "id": "sns.sa.mind.war_decisive_point.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o ponto em que o sucesso ou o fracasso da operação se decide e para o qual os meios são concentrados.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.pt_br"
+        ],
+        "gloss": "Lugar ou momento que determina o resultado de toda a ação.",
+        "id": "sns.sa.mind.war_decisive_point.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tempat atau saat ketika hasil keseluruhan suatu tindakan ditentukan, dan usaha atau perhatian dikONSentrasikan di sana. Jangan gunakan istilah ini hanya untuk hal yang penting, tetapi yang benar-benar menentukan hasil.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.id"
+        ],
+        "gloss": "Tempat atau saat yang menentukan hasil akhir sebuah tindakan.",
+        "id": "sns.sa.mind.war_decisive_point.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สถานที่หรือช่วงเวลาที่ผลของการดำเนินการทั้งหมดจะถูกกำหนด จึงเป็นจุดที่ต้องกระจุกกำลังและความพยายามไว้",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.th"
+        ],
+        "gloss": "จุดหรือช่วงเวลาที่กำหนดผลของการดำเนินการทั้งหมด",
+        "id": "sns.sa.mind.war_decisive_point.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Belirleyici nokta, çatışmanın genel sonucunu değiştirebilecek en önemli yer ya da andır. Emek ve kaynaklar genellikle bu noktada toplanır.",
+        "exampleIds": [
+          "exm.sa.mind.war_decisive_point.1.1.tr"
+        ],
+        "gloss": "Bütün eylemin sonucunun belirlendiği yer veya an.",
+        "id": "sns.sa.mind.war_decisive_point.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_decisive_point",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Plan, bütün çabayı köprüye, yani belirleyici noktaya yöneltiyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "สะพานเป็นจุดตัดสินของแผนปฏิบัติการทั้งหมด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Jembatan menjadi titik menentukan dalam rencana tersebut.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O ponto decisivo era a ponte, e o plano indicava essa prioridade.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "다리는 결정적 지점이었으며 작전 계획도 그곳에ilitary 힘을 집중했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "橋が決定点であり、作戦計画にもそれが記されていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_decisive_point.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The decisive point was the bridge, and the plan said so.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "25bf8e1a2393f1108d37029b3df5593236c755742ec93465bbafa9b290bddcf6": [
+      {
+        "forms": [
+          "local"
+        ],
+        "id": "lex.sa.en.local.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "local",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.local.adjective.1",
+          "sns.sa.en.local-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Thuộc về máy hoặc gói đang dùng, không lấy từ mạng.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "cục bộ",
+        "id": "sns.sa.vi.local.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.local.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Belonging to this device or place.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [],
+        "gloss": "Held in the device or pack rather than fetched from a network.",
+        "id": "sns.sa.en.local-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.local.adjective",
+        "pos": "adjective",
+        "revision": 1
+      }
+    ],
+    "25d9e376c97f7abb1dc2f0bf1f1ab99e4b36b73d6820edc8c15a7055936787c5": [
+      {
+        "forms": [
+          "Hiring manager",
+          "hiring_manager"
+        ],
+        "id": "lex.sa.work.hiring_manager",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Hiring manager",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.hiring_manager.alt",
+          "sns.sa.work.hiring_manager.alt.ja",
+          "sns.sa.work.hiring_manager.alt.ko",
+          "sns.sa.work.hiring_manager.alt.pt_br",
+          "sns.sa.work.hiring_manager.alt.id",
+          "sns.sa.work.hiring_manager.alt.th",
+          "sns.sa.work.hiring_manager.alt.tr"
+        ]
+      },
+      {
+        "definition": "The person who needs the role filled and who usually makes the hiring decision.",
+        "exampleIds": [
+          "exm.sa.work.hiring_manager.1.1"
+        ],
+        "gloss": "The person who needs the role filled and who usually makes the hiring decision.",
+        "id": "sns.sa.work.hiring_manager.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.hiring_manager",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある職Filled.",
+        "exampleIds": [
+          "exm.sa.work.hiring_manager.1.1.ja"
+        ],
+        "gloss": "採用された脂肪酸entinamoeba.",
+        "id": "sns.sa.work.hiring_manager.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.hiring_manager",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "빈자리인 직무가 필요한 부서의 책임자로, 채용의 최종 결정이나 후보자 검토를 맡는 경우가 많다. 반드시 채용 담당 직함인 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.work.hiring_manager.1.1.ko"
+        ],
+        "gloss": "해당 직무의 채용을 필요로 하며 최종 채용 결정에 관여하는 사람이다.",
+        "id": "sns.sa.work.hiring_manager.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.hiring_manager",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gestor que precisa da função ocupada e costuma conduzir ou decidir o processo seletivo.",
+        "exampleIds": [
+          "exm.sa.work.hiring_manager.1.1.pt_br"
+        ],
+        "gloss": "Pessoa responsável por preencher uma vaga e, em geral, por decidir a contratação.",
+        "id": "sns.sa.work.hiring_manager.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.hiring_manager",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Orang yang membutuhkan kandidat untuk suatu posisi dan biasanya bertanggung jawab atas keputusan hiring. Perannya tidak selalu sama dengan perekrut yang mencari dan menghubungi kandidat.",
+        "exampleIds": [
+          "exm.sa.work.hiring_manager.1.1.id"
+        ],
+        "gloss": "Manajer yang membutuhkan posisi terisi dan biasanya membuat keputusan perekrutan.",
+        "id": "sns.sa.work.hiring_manager.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.hiring_manager",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ผู้ที่ต้องการให้ตำแหน่งงานได้รับการบรรจุ และมักเป็นผู้ตัดสินใจจ้าง ไม่จำเป็นต้องเป็นฝ่ายบุคคลเสมอไป",
+        "exampleIds": [
+          "exm.sa.work.hiring_manager.1.1.th"
+        ],
+        "gloss": "ผู้จัดการที่รับผิดชอบการบรรจุตำแหน่งและมักตัดสินใจเรื่องการจ้าง",
+        "id": "sns.sa.work.hiring_manager.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.hiring_manager",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İşe alım sürecini yöneten ve adaylar arasından seçim yapılmasında belirleyici rol oynayan yöneticidir. Çoğunlukla açık pozisyondan sorumlu üst yöneticidir.",
+        "exampleIds": [
+          "exm.sa.work.hiring_manager.1.1.tr"
+        ],
+        "gloss": "Açık pozisyonun doldurulmasını isteyen ve genellikle işe alım kararını veren kişi.",
+        "id": "sns.sa.work.hiring_manager.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.hiring_manager",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.hiring_manager.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hiring manager asked me about the two projects I led last year.",
+        "translation": "İşe alım yöneticisi, geçen yıl yönettiğim iki proje hakkında bana soru sordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.hiring_manager.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hiring manager asked me about the two projects I led last year.",
+        "translation": "ผู้จัดการฝ่ายจ้างถามฉันเกี่ยวกับสองโครงการที่ฉันดำเนินการนำในปีที่แล้ว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.hiring_manager.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hiring manager asked me about the two projects I led last year.",
+        "translation": "Manajer perekrutan menanyakan tentang dua proyek yang saya pimpin tahun lalu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.hiring_manager.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hiring manager asked me about the two projects I led last year.",
+        "translation": "A gestora de contratação perguntou sobre os dois projetos que conduzí no ano passado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.hiring_manager.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hiring manager asked me about the two projects I led last year.",
+        "translation": "채용 관리자는 내가去年 Gamyeon 진행한 두 프로젝트에 대해 물었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.hiring_manager.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hiring manager asked me about the two projects I led last year.",
+        "translation": "採用責任者が昨年に私が主導した2つのプロジェクトについて質問されました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.hiring_manager.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The hiring manager asked me about the two projects I led last year.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

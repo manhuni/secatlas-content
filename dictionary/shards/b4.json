@@ -1,0 +1,1009 @@
+{
+  "records": {
+    "b420f8abf027fcdcf665190318da22e825c041800295bec7c2ae939004dd1a9e": [
+      {
+        "forms": [
+          "Cruise control",
+          "cruise_control"
+        ],
+        "id": "lex.sa.en.cruise.control",
+        "kind": "lexeme",
+        "lemma": "Cruise control",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.cruise.control.alt"
+        ]
+      },
+      {
+        "definition": "The cruise control is available or active. Severity level 1 — Information / Status. Action: Nothing to do. Remember it does not brake for you..",
+        "gloss": "The cruise control is available or active.",
+        "id": "sns.sa.en.cruise.control.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.cruise.control",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "b42368ac9e5dfc1bb5f451001b425937c86cda46425cf5faf0a25da41855401e": [
+      {
+        "forms": [
+          "Performance review",
+          "performance_review"
+        ],
+        "id": "lex.sa.work.performance_review",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Performance review",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.performance_review.alt",
+          "sns.sa.work.performance_review.alt.ja",
+          "sns.sa.work.performance_review.alt.ko",
+          "sns.sa.work.performance_review.alt.pt_br",
+          "sns.sa.work.performance_review.alt.id",
+          "sns.sa.work.performance_review.alt.th",
+          "sns.sa.work.performance_review.alt.tr"
+        ]
+      },
+      {
+        "definition": "A formal conversation with your manager about your work and how you are doing, usually held before a pay review.",
+        "exampleIds": [
+          "exm.sa.work.performance_review.1.1"
+        ],
+        "gloss": "A formal conversation with your manager about your work and how you are doing, usually held before a pay review.",
+        "id": "sns.sa.work.performance_review.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.performance_review",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "上司と Enforcement。",
+        "exampleIds": [
+          "exm.sa.work.performance_review.1.1.ja"
+        ],
+        "gloss": "仕事上の成果について上司と行う正式な評価面談。",
+        "id": "sns.sa.work.performance_review.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.performance_review",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "직원의 업무 성과와 직무 수행 상태를 상사가正式的으로 논의하는 정기 평가이다. 급여 검토보다 보통 먼저 열리며, 그 결과가 급여 결정에 반영될 수 있다.",
+        "exampleIds": [
+          "exm.sa.work.performance_review.1.1.ko"
+        ],
+        "gloss": "상사가 직원의 업무 실적과 수행 정도를，正式적으로 평가하는 자리이다.",
+        "id": "sns.sa.work.performance_review.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.performance_review",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Avaliação formal conduzida pelo gestor para_commentary?",
+        "exampleIds": [
+          "exm.sa.work.performance_review.1.1.pt_br"
+        ],
+        "gloss": "É uma conversa formal com o gestor sobre seu trabalho e seu desempenho.",
+        "id": "sns.sa.work.performance_review.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.performance_review",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Percakapan resmi antara pekerja dan manajer untuk membahas pekerjaan serta kinerjanya.通常是 dilakukan sebelum pembahasan gaji.",
+        "exampleIds": [
+          "exm.sa.work.performance_review.1.1.id"
+        ],
+        "gloss": "Percakapan formal tentang kinerja kerja seorang pekerja.",
+        "id": "sns.sa.work.performance_review.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.performance_review",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การสนทนาอย่างเป็นทางการระหว่างลูกจ้างกับผู้จัดการเกี่ยวกับผลงานและการปฏิบัติหน้าที่ โดยทั่วไปจัดขึ้นก่อนการพิจารณาเงินเดือนและไม่ใช่การขอขึ้นเงินเดือนโดยตรง",
+        "exampleIds": [
+          "exm.sa.work.performance_review.1.1.th"
+        ],
+        "gloss": "การสนทนาอย่างเป็นทางการเกี่ยวกับผลงานกับผู้จัดการ",
+        "id": "sns.sa.work.performance_review.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.performance_review",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yöneticinizle çalışanın iş performansının ve gelişiminin resmen değerlendirildiği toplantı. Genellikle ücret değerlendirmesinden önce yapılır.",
+        "exampleIds": [
+          "exm.sa.work.performance_review.1.1.tr"
+        ],
+        "gloss": "Yöneticinin çalışanın işini ve başarısını değerlendirdiği resmi görüşme.",
+        "id": "sns.sa.work.performance_review.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.performance_review",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.performance_review.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I had a strong performance review, and I want to use it in my pay case.",
+        "translation": "Performans değerlendirmem olumlu geçti ve bunu ücret artışı talebimde kullanmak istiyorum.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.performance_review.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I had a strong performance review, and I want to use it in my pay case.",
+        "translation": "ฉันได้รับผลการประเมินที่ดี และต้องการนำผลนั้นไปใช้ในการขอปรับเงินเดือน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.performance_review.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I had a strong performance review, and I want to use it in my pay case.",
+        "translation": "Penilaian kinerja saya sangat baik, dan saya ingin menggunakannya dalam pembahasan gaji.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.performance_review.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I had a strong performance review, and I want to use it in my pay case.",
+        "translation": "Tive uma avaliação de desempenho muito boa e quero mencioná-la ao pedir um aumento.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.performance_review.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I had a strong performance review, and I want to use it in my pay case.",
+        "translation": "성과 평가가 좋았고, 이를 급여 인상 사례로 활용하고 싶습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.performance_review.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I had a strong performance review, and I want to use it in my pay case.",
+        "translation": "骨架。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.performance_review.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I had a strong performance review, and I want to use it in my pay case.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b46882fefecb4849bf809a9e43ed3e284382ee43be66fc7adad159fa017c58b2": [
+      {
+        "forms": [
+          "Involuntary singleness",
+          "lts_involuntary_singleness"
+        ],
+        "id": "lex.sa.social.lts_involuntary_singleness",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Involuntary singleness",
+        "pos": "phrase",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_involuntary_singleness.alt",
+          "sns.sa.social.lts_involuntary_singleness.alt.ja",
+          "sns.sa.social.lts_involuntary_singleness.alt.ko",
+          "sns.sa.social.lts_involuntary_singleness.alt.pt_br",
+          "sns.sa.social.lts_involuntary_singleness.alt.id",
+          "sns.sa.social.lts_involuntary_singleness.alt.th",
+          "sns.sa.social.lts_involuntary_singleness.alt.tr"
+        ]
+      },
+      {
+        "definition": "Being single because the wish for a partner has not been met, rather than by choice.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1"
+        ],
+        "gloss": "Being single because the wish for a partner has not been met, rather than by choice.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "恋人や配偶者を得た不是因为得到了。",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.ja"
+        ],
+        "gloss": "望んだJv得不到ために一人になる状態。",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "본인이 원한 연인이 생기지 않아서 혼인 상태가 된 경우를 뜻한다. 스스로 혼자를 선택한 경우와 구별된다.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.ko"
+        ],
+        "gloss": "혼자가 되기보다 원하는 연인이 없어서 혼자가 된 상태를 뜻한다.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Expressão usada para descrever a ausência de um parceiro amoroso que não corresponde ao desejo da pessoa, e não resulta de uma escolha.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.pt_br"
+        ],
+        "gloss": "Condição de estar solteiro sem ter escolhido essa situação.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Istilah ini membandingkan keadaan lajang yang tidak dikehendaki dengan keadaan lajang yang dipilih sendiri. Keinginan untuk memiliki pasangan belum tercapai, meskipun orang tersebut tidak memilihnya.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.id"
+        ],
+        "gloss": "Keadaan tidak memiliki pasangan asmara karena keinginan untuk berpasangan belum terpenuhi, bukan karena memilih demikian.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "สภาวะการไม่มีคู่รักเพราะยังไม่ได้พบคนที่ต้องการ แทนที่จะเป็นการเลือกจะอยู่คนเดียว",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.th"
+        ],
+        "gloss": "การเป็นโสดโดยไม่ได้เลือก",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Kişinin romantik ilişki kurma isteğine rağmen bunun gerçekleşmemesi sonucu ortaya çıkan bekârlık. Durumun kendi seçimi olup olmadığını belirtir.",
+        "exampleIds": [
+          "exm.sa.social.lts_involuntary_singleness.1.1.tr"
+        ],
+        "gloss": "Romantik ilişki kurma isteği karşılanmadığı için bekâr kalma durumu.",
+        "id": "sns.sa.social.lts_involuntary_singleness.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_involuntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bunu gönüllü olmayan bekârlık olarak adlandırıyor ve özür dilemeyi bıraktı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอเรียกสภาวะของตัวเองว่าการเป็นโสดโดยไม่ได้เลือก และเธอเลิกขอโทษใคร ๆ แล้ว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ia menyebutnya lajang tidak sukarela dan sudah berhenti meminta maaf atas keadaan itu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ela chama isso de solteirice involuntária e parou de pedir desculpas por isso.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 원하지 않은 독신 상태라고 말하며, 이제 그 상태에 대해 사과하지 않는다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女はこれを非自発的な独身と呼び、もう詫び也不再している。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_involuntary_singleness.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She calls it involuntary singleness, and she has stopped apologising for it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b48111c10c65fc119368edafb19f97451759ee90b3f44647368135ca47aa4753": [
+      {
+        "forms": [
+          "where"
+        ],
+        "id": "lex.sa.en.where.conjunction",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "where",
+        "pos": "conjunction",
+        "pronunciationIds": [
+          "prn.sa.en.where.conjunction",
+          "prn.sa.en.where.conjunction.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.where.conjunction.1",
+          "sns.sa.en.where-conjunction.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.where-conjunction",
+        "id": "prn.sa.en.where.conjunction",
+        "ipa": "/weə/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.where.conjunction.us",
+        "ipa": "/wer/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Dùng để giới thiệu điều kiện hoặc vị trí.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.where.conjunction.1.1",
+          "exm.sa.en.where-conjunction.more.01",
+          "exm.sa.en.where-conjunction.more.02"
+        ],
+        "gloss": "trong đó; nơi",
+        "id": "sns.sa.vi.where.conjunction.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.where.conjunction",
+        "pos": "conjunction",
+        "resourceIds": [
+          "res.sa.img.where-conjunction",
+          "res.sa.aud.where-conjunction",
+          "res.sa.lnk.where-conjunction",
+          "res.sa.vid.where-conjunction"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Introduces the conditions on a and b.",
+        "exampleIds": [
+          "exm.sa.en.where.conjunction.1.1"
+        ],
+        "gloss": "Introduces the conditions on a and b.",
+        "id": "sns.sa.en.where-conjunction.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.where.conjunction",
+        "pos": "conjunction",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.where.conjunction.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "ax + b = 0, where a is non-zero.",
+        "translation": "ax + b = 0, trong đó a khác không.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.where-conjunction",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "where clip",
+        "type": "video"
+      }
+    ],
+    "b4a070a2d341940c4562c87640fe7a6147c2edcd1ee9bf562c8523164fe760fb": [
+      {
+        "forms": [
+          "load",
+          "loads",
+          "loaded",
+          "loading"
+        ],
+        "id": "lex.sa.en.load.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "load",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.load.verb.gb",
+          "prn.sa.en.load.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.load.verb.place",
+          "sns.sa.en.load-verb.alt"
+        ]
+      },
+      {
+        "definition": "Đặt vật lên thiết bị hoặc vào đồ gá.",
+        "exampleIds": [
+          "exm.sa.en.load.verb.01",
+          "exm.sa.en.load-verb.more.01",
+          "exm.sa.en.load-verb.more.02"
+        ],
+        "gloss": "chất; gá",
+        "id": "sns.sa.en.load.verb.place",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.load.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.load-verb",
+          "res.sa.aud.load-verb",
+          "res.sa.lnk.load-verb",
+          "res.sa.vid.load-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To put a heavy substance into a vehicle or a structure.",
+        "exampleIds": [
+          "exm.sa.en.load.verb.01"
+        ],
+        "gloss": "To put a heavy substance into a vehicle or a structure.",
+        "id": "sns.sa.en.load-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.load.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.load.verb.gb",
+        "ipa": "/ləʊd/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.load.verb.us",
+        "ipa": "/loʊd/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.load.verb.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Load the sample into the fixture.",
+        "translation": "Gá mẫu vào đồ gá.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b4a3dabb3d935666ffdc5497ce83307c7ce81cf489e2dc8683d9acc3dcf2d847": [
+      {
+        "forms": [
+          "isolate",
+          "isolates",
+          "isolated",
+          "isolating"
+        ],
+        "id": "lex.sa.en.isolate.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "isolate",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.isolate.verb",
+          "prn.sa.en.isolate.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.isolate.verb.1",
+          "sns.sa.en.isolate-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.isolate-verb",
+        "id": "prn.sa.en.isolate.verb",
+        "ipa": "/ˈaɪsəleɪt/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.isolate.verb.us",
+        "ipa": "/ˈaɪ.sə.leɪt/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Đưa biến cần tìm ra một mình một vế.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.isolate.verb.1.1",
+          "exm.sa.en.isolate-verb.more.01",
+          "exm.sa.en.isolate-verb.more.02"
+        ],
+        "gloss": "cô lập (biến)",
+        "id": "sns.sa.vi.isolate.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.isolate.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.isolate-verb",
+          "res.sa.aud.isolate-verb",
+          "res.sa.lnk.isolate-verb",
+          "res.sa.vid.isolate-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Leave the variable alone on one side.",
+        "exampleIds": [
+          "exm.sa.en.isolate.verb.1.1"
+        ],
+        "gloss": "Leave the variable alone on one side.",
+        "id": "sns.sa.en.isolate-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.isolate.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.isolate.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Isolate x by subtracting 5, then dividing by 2.",
+        "translation": "Cô lập x bằng cách trừ 5 rồi chia 2.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.isolate.verb.1",
+        "id": "lnk.sa.en.glossary.070",
+        "kind": "relation",
+        "toId": "sns.sa.vi.solve.verb.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.isolate.verb.1",
+        "id": "lnk.sa.en.glossary.071",
+        "kind": "relation",
+        "toId": "sns.sa.vi.variable.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "b4edfbd475d93cfebb21645390a7e579563cac67270f97723c723aa34e7a8ad5": [
+      {
+        "forms": [
+          "Breadwinner",
+          "gre_breadwinner"
+        ],
+        "id": "lex.sa.social.gre_breadwinner",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Breadwinner",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gre_breadwinner.alt",
+          "sns.sa.social.gre_breadwinner.alt.ja",
+          "sns.sa.social.gre_breadwinner.alt.ko",
+          "sns.sa.social.gre_breadwinner.alt.pt_br",
+          "sns.sa.social.gre_breadwinner.alt.id",
+          "sns.sa.social.gre_breadwinner.alt.th",
+          "sns.sa.social.gre_breadwinner.alt.tr"
+        ]
+      },
+      {
+        "definition": "The member of a couple who is expected to be the main earner.",
+        "exampleIds": [
+          "exm.sa.social.gre_breadwinner.1.1"
+        ],
+        "gloss": "The member of a couple who is expected to be the main earner.",
+        "id": "sns.sa.social.gre_breadwinner.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gre_breadwinner",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "夫婦や家族のなかで、家計の主な収入を支える.Member of a couple who is expected to be the main earner.",
+        "exampleIds": [
+          "exm.sa.social.gre_breadwinner.1.1.ja"
+        ],
+        "gloss": "家族の中で主な収入を支える_UPDATEの Rufus さん。",
+        "id": "sns.sa.social.gre_breadwinner.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gre_breadwinner",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "부부 중 한 사람이 가정의 주요 수입원 역할을 맡는다는 뜻이다. 실제로 가장 많이 버는 사람보다 그 역할을 기대받는 사람에게 쓰일 때가 많다.",
+        "exampleIds": [
+          "exm.sa.social.gre_breadwinner.1.1.ko"
+        ],
+        "gloss": "가정에서 주된 수입을 담당할 것으로 기대되는 사람.",
+        "id": "sns.sa.social.gre_breadwinner.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gre_breadwinner",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pessoa de um casal que se espera que seja a principal responsável pelo sustento familiar. A palavra indica uma expectativa social, não necessariamente quem de fato ganha mais.",
+        "exampleIds": [
+          "exm.sa.social.gre_breadwinner.1.1.pt_br"
+        ],
+        "gloss": "Membro de um casal esperado como principal provedor da família.",
+        "id": "sns.sa.social.gre_breadwinner.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gre_breadwinner",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Anggota pasangan yang secara sosial diharapkan menjadi sumber utama penghasilan. Istilah ini menunjukkan harapan terhadap perannya, bukan jaminan bahwa orang tersebut menghasilkan penghasilan paling besar.",
+        "exampleIds": [
+          "exm.sa.social.gre_breadwinner.1.1.id"
+        ],
+        "gloss": "Anggota pasangan yang diharapkan menjadi penghasil utama.",
+        "id": "sns.sa.social.gre_breadwinner.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gre_breadwinner",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สมาชิกในคู่ที่คาดว่าจะเป็นผู้หารายได้หลักของครอบครัว โดยมักเป็นคนชาย แต่ก็ไม่ได้หมายความว่าต้องเป็นผู้ชายเสมอไป คำนี้บ่งชี้บทบาททางเศรษฐกิจ ไม่ใช่ความสามารถหรือตำแหน่งทางการเมือง",
+        "exampleIds": [
+          "exm.sa.social.gre_breadwinner.1.1.th"
+        ],
+        "gloss": "คนที่คาดว่าจะเป็นผู้หาเงินหลักของคู่สมรส",
+        "id": "sns.sa.social.gre_breadwinner.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gre_breadwinner",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir çiftin aile gelirinin büyük bölümünü sağlaması beklenen kişi.",
+        "exampleIds": [
+          "exm.sa.social.gre_breadwinner.1.1.tr"
+        ],
+        "gloss": "Ailenin geçimini sağlayan kişi.",
+        "id": "sns.sa.social.gre_breadwinner.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gre_breadwinner",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gre_breadwinner.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O, ailenin geçimini sağlayan kişiydi; riski taşıyordu ve bu risk bütün aileyi etkiliyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gre_breadwinner.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ในฐานะผู้หาเงินหลัก เขาแบกรับความเสี่ยงไว้คนเดียว และความเสี่ยงนั้นกลายเป็นภาระของทั้งครอบครัว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gre_breadwinner.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sebagai penghasil utama, ia menanggung risiko yang kemudian menjadi beban seluruh keluarganya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gre_breadwinner.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Como provedor da família, ele carregava o principal risco financeiro.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gre_breadwinner.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "가정의 주된 수입자였던 그는 그 위험을 짊어졌고, 그 책임은 온 가족에게 돌아갔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gre_breadwinner.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼が一家の主な収入を支える役目 Accordingly to carry the risk, and the risk became the whole family's.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gre_breadwinner.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "As the breadwinner he carried the risk, and the risk became the whole family's.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b4f802eee3ebdd99b88ddaa8d80fa22107aaee12cb76c81081fffc91618b7392": [
+      {
+        "forms": [
+          "hypergamy",
+          "dm_hypergamy"
+        ],
+        "id": "lex.sa.social.dm_hypergamy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "hypergamy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.dm_hypergamy.alt",
+          "sns.sa.social.dm_hypergamy.alt.ja",
+          "sns.sa.social.dm_hypergamy.alt.ko",
+          "sns.sa.social.dm_hypergamy.alt.pt_br",
+          "sns.sa.social.dm_hypergamy.alt.id",
+          "sns.sa.social.dm_hypergamy.alt.th",
+          "sns.sa.social.dm_hypergamy.alt.tr"
+        ]
+      },
+      {
+        "definition": "Pairing with a person who has more of a valued resource, such as income, education or position, than the chooser.",
+        "exampleIds": [
+          "exm.sa.social.dm_hypergamy.1.1"
+        ],
+        "gloss": "Pairing with a person who has more of a valued resource, such as income, education or position, than the chooser.",
+        "id": "sns.sa.social.dm_hypergamy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.dm_hypergamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "収入、教育、地位など、重視される資源が自分より多い相手と結婚や交際すること。組む相手の側から見ると、その方向は逆になる。",
+        "exampleIds": [
+          "exm.sa.social.dm_hypergamy.1.1.ja"
+        ],
+        "gloss": "収入や教育、地位など、重視される資源を多く持つ相手と組むこと。",
+        "id": "sns.sa.social.dm_hypergamy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.dm_hypergamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "선택하는 사람보다 인정되는 자원을 더 많이 가진 사람과 짝이 되는 방향. 어느 쪽을 기준으로 보느냐에 따라 같은 짝이 저배가 되기도 한다.",
+        "exampleIds": [
+          "exm.sa.social.dm_hypergamy.1.1.ko"
+        ],
+        "gloss": "수입이나 교육, 위치 같은 Valuable 자원이 더 많은 사람과 짝이 되는 것.",
+        "id": "sns.sa.social.dm_hypergamy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.dm_hypergamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o casamento ou relacionamento em que uma pessoa escolhe um parceiro com maior renda, formação ou prestígio social. A classificação depende do ponto de vista da pessoa que está comparando as posições.",
+        "exampleIds": [
+          "exm.sa.social.dm_hypergamy.1.1.pt_br"
+        ],
+        "gloss": "União com alguém que possui mais recursos ou posição social.",
+        "id": "sns.sa.social.dm_hypergamy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.dm_hypergamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Berpasangan dengan orang yang memiliki lebih banyak sumber daya bernilai, seperti penghasilan, pendidikan, atau kedudukan, daripada oneself. Istilah ini bergantung pada sudut pandang pihak yang betrachtar.",
+        "exampleIds": [
+          "exm.sa.social.dm_hypergamy.1.1.id"
+        ],
+        "gloss": "Berpasangan dengan orang yang memiliki lebih banyak sumber daya bernilai daripada diri sendiri.",
+        "id": "sns.sa.social.dm_hypergamy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.dm_hypergamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงการจับคู่กับบุคคลที่มีทรัพยากรที่สังคมให้คุณค่า อย่างรายได้ การศึกษา หรือตำแหน่ง มากกว่าผู้เลือก มิได้หมายความว่าผู้นั้นดีกว่าในทุกด้าน",
+        "exampleIds": [
+          "exm.sa.social.dm_hypergamy.1.1.th"
+        ],
+        "gloss": "การเข้าคู่กับผู้ที่มีทรัพยากรอันค่านิยมมากกว่า",
+        "id": "sns.sa.social.dm_hypergamy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.dm_hypergamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Toplumsal eşleşmede eş seçen kişinin gelir, eğitim, konum ya da başka bir değerli kaynak bakımından eşinden daha avantajlı olması. Bu durum, eşleşmenin hangi taraftan değerlendirildiğine bağlıdır.",
+        "exampleIds": [
+          "exm.sa.social.dm_hypergamy.1.1.tr"
+        ],
+        "gloss": "Kendinden daha fazla değerli kaynağa sahip biriyle eşleşme.",
+        "id": "sns.sa.social.dm_hypergamy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.dm_hypergamy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.dm_hypergamy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Eşinden daha yüksek gelir, eğitim ya da toplumsal konuma sahip biriyle eşleşmeye hipergami denir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.dm_hypergamy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การเข้าคู่กับผู้ที่มีทรัพยากรอันค่านิยมมากกว่าเกิดขึ้นเมื่อฝ่ายหนึ่งมีรายได้ การศึกษา หรือตำแหน่งสูงกว่าอีกฝ่าย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.dm_hypergamy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ketika satu pasangan menghasilkan lebih banyak, hubungan itu disebut hipergami dari sisi orang yang penghasilannya lebih rendah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.dm_hypergamy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Quando ela se casou com alguém mais rico e instruído, houve hipergamia do ponto de vista de quem tinha menos recursos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.dm_hypergamy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "고배는 짝이 짝지어지는 방향을 가리키는 말이며, 어느 쪽에서 보느냐에 따라 읽힌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.dm_hypergamy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ハイパーガミーは、組む相手の資源が自分より多いという関係の向きを表す。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.dm_hypergamy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Hypergamy names the direction of the pairing, and the direction can be read from either side.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,65 @@
+{
+  "items": {
+    "insomnia": {
+      "definition": "Difficulty falling asleep, staying asleep or waking too early, together with daytime impairment. The daytime effect is part of the definition.",
+      "dictionaryId": "lex.sa.health.insomnia",
+      "example": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+      "fieldId": "health",
+      "id": "insomnia",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Insomnia"
+    },
+    "nest": {
+      "conflict": true,
+      "definition": "The little home a bird builds out of twigs and grass. It is warm and it holds the eggs.",
+      "dictionaryId": "lex.sa.kids_stories.nest",
+      "example": "Wren's nest was in the apple tree.",
+      "fieldId": "kids_animals",
+      "id": "nest",
+      "lessonIds": [
+        "article_kids_animals_nests",
+        "article_little_bird_fly"
+      ],
+      "packs": [
+        "knw.kids.animals.nests",
+        "knw.kids.stories.bird"
+      ],
+      "term": "Nest"
+    },
+    "si_second": {
+      "definition": "The unit of time equal to one sixtieth of a minute.",
+      "dictionaryId": "lex.sa.en.second.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_second",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "second"
+    },
+    "taste_buds": {
+      "definition": "The tiny bumps on your tongue that pick out sweet, salty, sour and bitter.",
+      "dictionaryId": "lex.sa.kids_science.taste_buds",
+      "example": "Taste buds tell you that the mango is sweet.",
+      "fieldId": "kids_science",
+      "id": "taste_buds",
+      "lessonIds": [
+        "article_five_senses"
+      ],
+      "packs": [
+        "knw.kids.science.senses"
+      ],
+      "term": "Taste buds"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

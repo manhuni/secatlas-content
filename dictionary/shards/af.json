@@ -1,0 +1,678 @@
+{
+  "records": {
+    "af2bdbe1aa9b6ec1e2ade1d694f41fc71a831d0268e9891562113d8a62add1bf": [
+      {
+        "forms": [
+          "sample"
+        ],
+        "id": "lex.sa.en.sample.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "sample",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.sample.noun.1",
+          "sns.sa.en.sample-noun.alt"
+        ]
+      },
+      {
+        "definition": "Phần nhỏ của một tập số liệu dùng để đại diện cho cả tập.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "mẫu",
+        "id": "sns.sa.vi.sample.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.sample.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A subset of a data set taken to represent it.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "A part of a data set used to represent the whole.",
+        "id": "sns.sa.en.sample-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.sample.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "af598e1ae022d2b7f756eb8b4cd46f980c676f21f48a65f13ce57185a85b5cb9": [
+      {
+        "forms": [
+          "Heritability",
+          "intel_heritability"
+        ],
+        "id": "lex.sa.mind.intel_heritability",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Heritability",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intel_heritability.alt",
+          "sns.sa.mind.intel_heritability.alt.ko",
+          "sns.sa.mind.intel_heritability.alt.pt_br",
+          "sns.sa.mind.intel_heritability.alt.id",
+          "sns.sa.mind.intel_heritability.alt.th",
+          "sns.sa.mind.intel_heritability.alt.tr",
+          "sns.sa.mind.intel_heritability.alt.ja"
+        ]
+      },
+      {
+        "definition": "The share of the spread of scores inside a population that is attributable to genetic differences within that population.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1"
+        ],
+        "gloss": "The share of the spread of scores inside a population that is attributable to genetic differences within that population.",
+        "id": "sns.sa.mind.intel_heritability.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 집단 안에서 나타나는 점수 차이 중 유전적 차이로 설명할 수 있는 비율이다. 개인의 점수나 능력의 원인을 직접 말해 주지는 않는다.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.ko"
+        ],
+        "gloss": "어떤 집단 안에서 점수 차이의 일부가 유전적 차이 때문이라고 볼 수 있는 비율이다.",
+        "id": "sns.sa.mind.intel_heritability.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Parcela da variação de notas em uma população que pode ser atribuída às diferenças genéticas entre seus membros. Não diz quais genes causaram a nota de uma pessoa nem quanto o ambiente influenced.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.pt_br"
+        ],
+        "gloss": "Parcela da variação de notas em uma população atribuível às diferenças genéticas entre seus membros.",
+        "id": "sns.sa.mind.intel_heritability.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Porsi variasi skor dalam suatu populasi yang dapat dikaitkan dengan perbedaan genetik dalam populasi tersebut. Nilai ini menggambarkan populasi, bukan penyebab skor individu.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.id"
+        ],
+        "gloss": "Porsi variasi skor dalam suatu populasi yang dapat dikaitkan dengan perbedaan genetik dalam populasi tersebut.",
+        "id": "sns.sa.mind.intel_heritability.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สัดส่วนความแตกต่างของคะแนนในประชากรหนึ่งที่เป็นผลจากความแตกต่างทางพันธุกรรมภายในประชากรนั้น ค่านี้ไม่ได้บอกว่าคะแนนของบุคคลใดเกิดจากพันธุกรรมหรือสิ่งแวดล้อม เพราะเป็นค่าของกลุ่ม",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.th"
+        ],
+        "gloss": "สัดส่วนความแตกต่างของคะแนนในประชากรที่เป็นผลจากความแตกต่างทางพันธุกรรม",
+        "id": "sns.sa.mind.intel_heritability.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir popülasyon içindeki puanların yayılımının ne kadarının genetik farklılıklardan kaynaklandığını gösteren oran. Bu değer tek bir kişinin puanının nedenini belirlemez.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.tr"
+        ],
+        "gloss": "Bir popülasyondaki puan farklılığının genetik farklılıklara bağlanabilen kısmı.",
+        "id": "sns.sa.mind.intel_heritability.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "集団内の得点のばらつきのうち、集団内の遺伝的差異による割合。環境の影響やある個人，得点の原因を直接示すものではない。",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.ja"
+        ],
+        "gloss": "集団内の得点のばらつきのうち、集団内の遺伝的差異による割合。",
+        "id": "sns.sa.mind.intel_heritability.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "この集団の遺伝率は，生徒の得点のばらつきと遺伝との関連を示すが，ある生徒の得点の原因を説明するものではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Öğrenci grubu için hesaplanan kalıtılabilirlik, tek bir öğrencinin puanının nedenini açıklamaz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ค่าประมาณการถ่ายทอดทางพันธุกรรมของกลุ่มนักเรียนไม่ได้บอกสาเหตุของคะแนนของนักเรียนคนใดคนหนึ่ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Estimasi heritabilitas sekelompok siswa tidak memberi tahu apa yang menyebabkan skor satu siswa.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A estimativa de heritability de um grupo de estudantes nada diz sobre a causa da nota de um estudante específico.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "학생 집단의 유전력 추정치는 한 학생의 점수 원인을 알려 주지 않는다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The heritability estimate for a group of students says nothing about the cause of one student's score.",
+        "translation": "Ước lượng tính di truyền cho một nhóm học sinh không nói gì về nguyên nhân của điểm số của một học sinh cụ thể.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "afac327e73694e68c02f5c62f3bc0bcf0f239744ff12921e781487a0f9b3d5d0": [
+      {
+        "forms": [
+          "Firefly",
+          "firefly"
+        ],
+        "id": "lex.sa.kids_stories.firefly",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Firefly",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_stories.firefly.alt",
+          "sns.sa.kids_stories.firefly.alt.ja",
+          "sns.sa.kids_stories.firefly.alt.ko",
+          "sns.sa.kids_stories.firefly.alt.pt_br",
+          "sns.sa.kids_stories.firefly.alt.id",
+          "sns.sa.kids_stories.firefly.alt.th",
+          "sns.sa.kids_stories.firefly.alt.tr"
+        ]
+      },
+      {
+        "definition": "A very small insect that makes its own light. It glows in the dark.",
+        "exampleIds": [
+          "exm.sa.kids_stories.firefly.1.1"
+        ],
+        "gloss": "A very small insect that makes its own light. It glows in the dark.",
+        "id": "sns.sa.kids_stories.firefly.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_stories.firefly",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "夜に自分の体を光らせる小さな昆虫で、その光は暗闇で道筋を見やすくする。",
+        "exampleIds": [
+          "exm.sa.kids_stories.firefly.1.1.ja"
+        ],
+        "gloss": "自分の光で暗闇を照らす小さな昆虫。",
+        "id": "sns.sa.kids_stories.firefly.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_stories.firefly",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자신의 빛을 내는 작은 곤충으로, 어두운 곳에서 빛나 보인다.",
+        "exampleIds": [
+          "exm.sa.kids_stories.firefly.1.1.ko"
+        ],
+        "gloss": "자신의 빛을 내는 아주 작은 곤충이다.",
+        "id": "sns.sa.kids_stories.firefly.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_stories.firefly",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Um inseto muito pequeno que produz a própria luz e brilha no escuro. Nominalmente, o vagalume é também uma pequena lâmpada que发出 luz e serve de sinal.",
+        "exampleIds": [
+          "exm.sa.kids_stories.firefly.1.1.pt_br"
+        ],
+        "gloss": "Vagalume é um inseto muito pequeno que produz a própria luz.",
+        "id": "sns.sa.kids_stories.firefly.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_stories.firefly",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Serangga kecil yang menghasilkan cahaya sendiri sehingga dapat terlihat dalam gelap. Cahaya ini juga membantu kunang-kunang menarik pasangan.",
+        "exampleIds": [
+          "exm.sa.kids_stories.firefly.1.1.id"
+        ],
+        "gloss": "Kunang-kunang adalah serangga kecil yang dapat mengeluarkan cahaya.",
+        "id": "sns.sa.kids_stories.firefly.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_stories.firefly",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แมลงตัวเล็กที่สามารถสร้างแสงเรืองได้เอง จึงมองเห็นตัวได้ในความมืด",
+        "exampleIds": [
+          "exm.sa.kids_stories.firefly.1.1.th"
+        ],
+        "gloss": "แมลงตัวเล็กที่สร้างแสงเรืองได้เองในความมืด",
+        "id": "sns.sa.kids_stories.firefly.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_stories.firefly",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kendi ışığını yapan çok küçük bir böcek. Karanlıkta parlar ve geceleri görünür olur.",
+        "exampleIds": [
+          "exm.sa.kids_stories.firefly.1.1.tr"
+        ],
+        "gloss": "Kendi ışığını yapan çok küçük bir böcek; karanlıkta parlar.",
+        "id": "sns.sa.kids_stories.firefly.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_stories.firefly",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_stories.firefly.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A firefly lit the path for Pip.",
+        "translation": "Ateş böceği Pip'e yolu aydınlattı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_stories.firefly.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A firefly lit the path for Pip.",
+        "translation": "หนอนกะไร้ไฟส่องแสงให้เห็นเส้นทาง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_stories.firefly.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A firefly lit the path for Pip.",
+        "translation": "Seekor kunang-kunang menerangi jalan untuk Pip.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_stories.firefly.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A firefly lit the path for Pip.",
+        "translation": "Um vagalume iluminou o caminho para Pip.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_stories.firefly.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A firefly lit the path for Pip.",
+        "translation": "한 마리의 반딧불이 핍에게 길을 비춰 주었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_stories.firefly.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A firefly lit the path for Pip.",
+        "translation": "蛍がピップの道の先を照らした。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_stories.firefly.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A firefly lit the path for Pip.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "afed2f77cefe58d821f08e334aeb42e52facc63c4f97e9d5d18f53fd0e285953": [
+      {
+        "forms": [
+          "isolate",
+          "isolates",
+          "isolated",
+          "isolating"
+        ],
+        "id": "lex.sa.en.isolate.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "isolate",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.isolate.verb",
+          "prn.sa.en.isolate.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.isolate.verb.1",
+          "sns.sa.en.isolate-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.isolate-verb",
+        "id": "prn.sa.en.isolate.verb",
+        "ipa": "/ˈaɪsəleɪt/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.isolate.verb.us",
+        "ipa": "/ˈaɪ.sə.leɪt/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Đưa biến cần tìm ra một mình một vế.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.isolate.verb.1.1",
+          "exm.sa.en.isolate-verb.more.01",
+          "exm.sa.en.isolate-verb.more.02"
+        ],
+        "gloss": "cô lập (biến)",
+        "id": "sns.sa.vi.isolate.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.isolate.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.isolate-verb",
+          "res.sa.aud.isolate-verb",
+          "res.sa.lnk.isolate-verb",
+          "res.sa.vid.isolate-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Leave the variable alone on one side.",
+        "exampleIds": [
+          "exm.sa.en.isolate.verb.1.1"
+        ],
+        "gloss": "Leave the variable alone on one side.",
+        "id": "sns.sa.en.isolate-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.isolate.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.isolate.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Isolate x by subtracting 5, then dividing by 2.",
+        "translation": "Cô lập x bằng cách trừ 5 rồi chia 2.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.isolate.verb.1",
+        "id": "lnk.sa.en.glossary.070",
+        "kind": "relation",
+        "toId": "sns.sa.vi.solve.verb.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.isolate.verb.1",
+        "id": "lnk.sa.en.glossary.071",
+        "kind": "relation",
+        "toId": "sns.sa.vi.variable.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "aff75e5dbc3076017dbbb3a71bd1d58f48d997e5bc36d157b234d9b207043c20": [
+      {
+        "forms": [
+          "Loss report",
+          "loss_report"
+        ],
+        "id": "lex.sa.travel.loss_report",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Loss report",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.loss_report.alt",
+          "sns.sa.travel.loss_report.alt.ja",
+          "sns.sa.travel.loss_report.alt.ko",
+          "sns.sa.travel.loss_report.alt.pt_br",
+          "sns.sa.travel.loss_report.alt.th",
+          "sns.sa.travel.loss_report.alt.tr",
+          "sns.sa.travel.loss_report.alt.id"
+        ]
+      },
+      {
+        "definition": "The official declaration that a document has been lost. It is what cancels the old document in the issuing country's records.",
+        "exampleIds": [
+          "exm.sa.travel.loss_report.1.1"
+        ],
+        "gloss": "The official declaration that a document has been lost. It is what cancels the old document in the issuing country's records.",
+        "id": "sns.sa.travel.loss_report.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.loss_report",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "-<document>のzk loss を申請する公式の届け出。",
+        "exampleIds": [
+          "exm.sa.travel.loss_report.1.1.ja"
+        ],
+        "gloss": "-<document>のzk loss を申請する公式の届け出。",
+        "id": "sns.sa.travel.loss_report.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.loss_report",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "여권 등 문서의 분실을 공식적으로 선언하는 신고서입니다. 발행국의 기록에서 기존 문서를 취소하는 데 쓰입니다.",
+        "exampleIds": [
+          "exm.sa.travel.loss_report.1.1.ko"
+        ],
+        "gloss": "문서를 분실했다고 공식적으로 신고하는 서류.",
+        "id": "sns.sa.travel.loss_report.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.loss_report",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Documento formal que informa a perda de um documento e determina seu cancelamento ou substituição nos registros da autoridade emissora.",
+        "exampleIds": [
+          "exm.sa.travel.loss_report.1.1.pt_br"
+        ],
+        "gloss": "Declaração oficial de que um documento foi perdido ou extraviado.",
+        "id": "sns.sa.travel.loss_report.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.loss_report",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เอกสารที่แจ้งว่าเอกสารใบหนึ่งสูญหาย และใช้เป็นหลักฐานให้ยกเลิกหรือแก้ไขข้อมูลของเอกสารเดิมในทะเบียนของประเทศผู้ออก",
+        "exampleIds": [
+          "exm.sa.travel.loss_report.1.1.th"
+        ],
+        "gloss": "เอกสารแจ้งอย่างเป็นทางการว่าเอกสารหายไป",
+        "id": "sns.sa.travel.loss_report.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.loss_report",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kaybolan bir belge hakkında yetkili makama verilen resmen bildirimdir. Belgeyi düzenleyen ülkenin kayıtlarında eski belgenin iptal edilmesini sağlar.",
+        "exampleIds": [
+          "exm.sa.travel.loss_report.1.1.tr"
+        ],
+        "gloss": "Bir belgenin kaybolduğunu resmen bildiren ve geçerliliğini sona erdiren belge.",
+        "id": "sns.sa.travel.loss_report.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.loss_report",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pernyataan resmi bahwa suatu dokumen telah hilang. Pengajuan laporan ini membatalkan dokumen lama dalam catatan negateksam难免 penerbitnya.",
+        "exampleIds": [
+          "exm.sa.travel.loss_report.1.1.id"
+        ],
+        "gloss": "Laporan resmi tentang kehilangan dokumen.",
+        "id": "sns.sa.travel.loss_report.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.loss_report",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.loss_report.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have already filed the loss report for my passport.",
+        "translation": "Saya sudah mengajukan laporan kehilangan untuk paspor saya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.loss_report.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have already filed the loss report for my passport.",
+        "translation": "Pasaportum için kayıp bildirimini zaten vermiştim.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.loss_report.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have already filed the loss report for my passport.",
+        "translation": "ข้าพเจ้าได้ยื่นรายงานการสูญหายของหนังสือเดินทางเรียบร้อยแล้ว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.loss_report.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have already filed the loss report for my passport.",
+        "translation": "Já protocolizei a comunicação de perda do meu passaporte.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.loss_report.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have already filed the loss report for my passport.",
+        "translation": "나는 이미 여권 분실 신고서를 제출했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.loss_report.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have already filed the loss report for my passport.",
+        "translation": "-<passport>のzk loss はすでに届け出た。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.loss_report.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have already filed the loss report for my passport.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

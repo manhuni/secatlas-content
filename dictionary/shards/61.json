@@ -1,0 +1,1245 @@
+{
+  "records": {
+    "6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d": [
+      {
+        "forms": [
+          "image",
+          "images"
+        ],
+        "id": "lex.sa.en.image.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "image",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.image.noun.1",
+          "sns.sa.en.image-noun.alt"
+        ]
+      },
+      {
+        "definition": "Tệp hình ảnh nằm trong gói nội dung.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "hình ảnh",
+        "id": "sns.sa.vi.image.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.image.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A picture stored as a file.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "A picture file in a content pack.",
+        "id": "sns.sa.en.image-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.image.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "610a08601964ca0fec633597117a68751fde68bbb58a675b1d9120dbbca2730d": [
+      {
+        "forms": [
+          "Secure",
+          "att_secure"
+        ],
+        "id": "lex.sa.social.att_secure",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Secure",
+        "pos": "adjective",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.att_secure.alt",
+          "sns.sa.social.att_secure.alt.ja",
+          "sns.sa.social.att_secure.alt.ko",
+          "sns.sa.social.att_secure.alt.pt_br",
+          "sns.sa.social.att_secure.alt.id",
+          "sns.sa.social.att_secure.alt.th",
+          "sns.sa.social.att_secure.alt.tr"
+        ]
+      },
+      {
+        "definition": "Describing a person who takes the partner's availability for granted and stays steady when it wobbles.",
+        "exampleIds": [
+          "exm.sa.social.att_secure.1.1"
+        ],
+        "gloss": "Describing a person who takes the partner's availability for granted and stays steady when it wobbles.",
+        "id": "sns.sa.social.att_secure.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.att_secure",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Describing a person who takes the partner's availability for granted and stays steady when it wobbles.",
+        "exampleIds": [
+          "exm.sa.social.att_secure.1.1.ja"
+        ],
+        "gloss": "相手がそばにいることを当然のように受け止め、揺れている時も冷静な人を表す。",
+        "id": "sns.sa.social.att_secure.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.att_secure",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "연인과의 관계에서 상대방의 애정을 당연하게 받아들이고, 관계가 흔들릴 때도 안심하고 의지하는 사람. 상대방이 불안해하면 오히려 감정을 숨기고 잘 맞추는 태도를 보인다.",
+        "exampleIds": [
+          "exm.sa.social.att_secure.1.1.ko"
+        ],
+        "gloss": "상대방이 자신을 곁에 두는 것이 당연하다고 여기고 흔들릴 때도 흔들리지 않는 사람.",
+        "id": "sns.sa.social.att_secure.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.att_secure",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Adjetivo que descreve quem sustenta a confiança no vínculo sem precisar testá-lo o tempo todo, mantendo a calma quando o parceiro se distance. Também se diz de quem tem uma base segura.",
+        "exampleIds": [
+          "exm.sa.social.att_secure.1.1.pt_br"
+        ],
+        "gloss": "Que dá por disponível a presença do parceiro e permanece estável mesmo quando ela oscila.",
+        "id": "sns.sa.social.att_secure.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.att_secure",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam teori relasi, kata ini berarti orang yang merasa aman dalam relasi dan tidak panik saat pasangan terlambat. Hati-hati: di sini maknanya aman secara emosional, bukan aman secara fisik atau bebas dari bahaya.",
+        "exampleIds": [
+          "exm.sa.social.att_secure.1.1.id"
+        ],
+        "gloss": "Seseorang yang menganggap ketersediaan pasangan sebagai hal yang wajar dan tetap tenang ketika keadaan berubah.",
+        "id": "sns.sa.social.att_secure.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.att_secure",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "อธิบายบุคคลที่เชื่อว่าคู่รักยังพร้อมอยู่ และสามารถพูดถึงความรู้สึกของตนได้โดยไม่ต้องเดาใจคู่รัก",
+        "exampleIds": [
+          "exm.sa.social.att_secure.1.1.th"
+        ],
+        "gloss": "บุคคลที่มั่นคงและไม่กังวลมากเกินไปเมื่อคู่รักเปลี่ยนแปลง",
+        "id": "sns.sa.social.att_secure.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.att_secure",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Bir eşin ilgi ve müsaitliğini tehdit olarak yorumlamayan, ilişkideki değişiklikler karşısında dengeli kalan kişiyi belirtir. Güvenli olmak, sorunları yok saymak anlamına gelmez.",
+        "exampleIds": [
+          "exm.sa.social.att_secure.1.1.tr"
+        ],
+        "gloss": "Eşinin ilgisini güvenilir sayan ve ilişki dalgalandığında sakin kalan kişiyi tanımlar.",
+        "id": "sns.sa.social.att_secure.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.att_secure",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.att_secure.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Onun yanında güvenli hissediyor, bu yüzden üzüldüğünü tahmin etmek yerine açıkça söylüyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.att_secure.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอมั่นคงกับเขา จึงบอกว่าต้องการแต่ไม่ได้เริ่มเดาใจเขา",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.att_secure.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dia secure dengannya, jadi ia mengatakan bahwa ia kecewa alih-alih menebak-nebak.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.att_secure.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ela é segura com ele, então diz que está chateada em vez de adivinhar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.att_secure.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 그와 있는 것이 편안해서, 속마음을 말하지 않고 대신 속이 상했다고 말한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.att_secure.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "She is secure with him, so she says she is upset instead of guessing.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.att_secure.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She is secure with him, so she says she is upset instead of guessing.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "611a894dbc68caf99b4a01d748ee11fb5603486c97174b8a6f009a98665ad2ae": [
+      {
+        "forms": [
+          "Contentment",
+          "lts_contentment"
+        ],
+        "id": "lex.sa.social.lts_contentment",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Contentment",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_contentment.alt",
+          "sns.sa.social.lts_contentment.alt.ja",
+          "sns.sa.social.lts_contentment.alt.ko",
+          "sns.sa.social.lts_contentment.alt.pt_br",
+          "sns.sa.social.lts_contentment.alt.id",
+          "sns.sa.social.lts_contentment.alt.th",
+          "sns.sa.social.lts_contentment.alt.tr"
+        ]
+      },
+      {
+        "definition": "A settled sense that a situation is acceptable, without the need for it to be improved first.",
+        "exampleIds": [
+          "exm.sa.social.lts_contentment.1.1"
+        ],
+        "gloss": "A settled sense that a situation is acceptable, without the need for it to be improved first.",
+        "id": "sns.sa.social.lts_contentment.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_contentment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "今の状態をそれでよいと言える、落ち着いた満足感。现状をLIMite改善したり完美を求めたりするものではない。",
+        "exampleIds": [
+          "exm.sa.social.lts_contentment.1.1.ja"
+        ],
+        "gloss": "今の状態を****。",
+        "id": "sns.sa.social.lts_contentment.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_contentment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "주어진 상황에 대해 깊은 만족을 느끼며, 먼저 개선하려고 하지 않는 안정된 상태를 뜻한다.",
+        "exampleIds": [
+          "exm.sa.social.lts_contentment.1.1.ko"
+        ],
+        "gloss": "현재 상황이 더 나아질 필요가 없을 만큼 만족하는 상태를 뜻한다.",
+        "id": "sns.sa.social.lts_contentment.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_contentment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sensação permanente de satisfação com uma situação, sem a necessidade de melhorá-la antes.",
+        "exampleIds": [
+          "exm.sa.social.lts_contentment.1.1.pt_br"
+        ],
+        "gloss": "Sentimento tranquilo de que uma situação é aceitável.",
+        "id": "sns.sa.social.lts_contentment.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_contentment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kontenmen menunjukkan rasa tenang dan menerima keadaan sebagaimana adanya, bukan sekadar senang sesaat. Istilah ini dipakai ketika seseorang sudah merasa keadaan itu dapat diterima.",
+        "exampleIds": [
+          "exm.sa.social.lts_contentment.1.1.id"
+        ],
+        "gloss": "Rasa puas yang menetap dan menerima suatu keadaan tanpa perlu memperbaikinya terlebih dahulu.",
+        "id": "sns.sa.social.lts_contentment.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_contentment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความรู้สึกพอใจและยอมรับสถานการณ์ในปัจจุบันอย่างมั่นคง โดยไม่จำเป็นต้องรอให้สถานการณ์ดีขึ้นก่อน",
+        "exampleIds": [
+          "exm.sa.social.lts_contentment.1.1.th"
+        ],
+        "gloss": "ความพอใจอย่างมั่นคงกับสถานการณ์ที่เป็นอยู่",
+        "id": "sns.sa.social.lts_contentment.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_contentment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir durumun değiştirilmesi gerektiğine inanılmadan, onu kabul etmiş olmaktan doğan yerleşik duygu. Sıradan bir geçici mutluluktan daha sürekli bir hâli anlatır.",
+        "exampleIds": [
+          "exm.sa.social.lts_contentment.1.1.tr"
+        ],
+        "gloss": "Bir durumu olduğu gibi kabul etmeden doğan memnuniyet.",
+        "id": "sns.sa.social.lts_contentment.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_contentment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_contentment.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Düzenlemeye ilişkin memnuniyeti, sorulara sakin ve kısa yanıt vermesinden belli oluyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_contentment.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความพอใจอย่างมั่นคงของเธอต่อข้อตกลงดังกล่าวเห็นได้จากวิธีที่เธอตอบคำถามผู้อื่น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_contentment.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ketenangan hatinya terhadap kesepakatan itu terlihat dari cara ia menjawab pertanyaan orang.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_contentment.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O contentamento dela com o arranjo era visível na forma como respondia às pessoas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_contentment.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 현재 생활에 만족하고 있었으며, 그 만족감은 표정에서도 드러났다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_contentment.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女はその取り決めに満足しており、应答@ppl的态度にもそれが現れていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_contentment.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her contentment with the arrangement was visible in the way she answered people.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "611c310d555d5b7357d201b7a175f0b197118aaefe089bb9af8df4fb89ee501b": [
+      {
+        "forms": [
+          "Ventilated seat",
+          "ventilated_seat"
+        ],
+        "id": "lex.sa.en.ventilated.seat",
+        "kind": "lexeme",
+        "lemma": "Ventilated seat",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.ventilated.seat.alt"
+        ]
+      },
+      {
+        "definition": "The seat ventilation is on: air is drawn through the seat. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The seat ventilation is on: air is drawn through the seat.",
+        "id": "sns.sa.en.ventilated.seat.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.ventilated.seat",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "612d2d205b0c61a019ecaad7f5c960dc607dbca1e757085adec62ff7acc13764": [
+      {
+        "forms": [
+          "expectation mismatch",
+          "er_expectation_mismatch"
+        ],
+        "id": "lex.sa.social.er_expectation_mismatch",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "expectation mismatch",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.er_expectation_mismatch.alt",
+          "sns.sa.social.er_expectation_mismatch.alt.ja",
+          "sns.sa.social.er_expectation_mismatch.alt.ko",
+          "sns.sa.social.er_expectation_mismatch.alt.pt_br",
+          "sns.sa.social.er_expectation_mismatch.alt.id",
+          "sns.sa.social.er_expectation_mismatch.alt.th",
+          "sns.sa.social.er_expectation_mismatch.alt.tr"
+        ]
+      },
+      {
+        "definition": "The gap between what two people in a relationship each expect, when neither has said it aloud.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1"
+        ],
+        "gloss": "The gap between what two people in a relationship each expect, when neither has said it aloud.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "関係する二人が各々ROID checklistについて口头で伝え合っていない場合に、その違いから生まれる不満やkfriction。通常は「期待の不一致」と呼ばれる。",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.ja"
+        ],
+        "gloss": "関係する二人がそれぞれ期待するものの差。",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기대 불일치란 관계에 있는 두 사람이 각자 다르게 기대하는바를 직접 밝히지 않아 생기는 간극이다. 서로의 기대를 잘못 짐작해 실망하거나 갈등이 생길 수 있다.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.ko"
+        ],
+        "gloss": "관계에 있는 두 사람이 서로 말하지 않은 채 기대하는 것 사이의 차이.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Desencontro entre as expectativas não declaradas de duas pessoas que se relacionam. O problema pode surgir quando cada uma pressupõe behaves de maneira diferente sem comunicar o que espera.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.pt_br"
+        ],
+        "gloss": "A diferença entre o que cada pessoa em um relacionamento espera, sem que isso seja dito.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ketidakcocokan ekspektasi terjadi ketika dua orang haben różneksa apa yang diharapkan dari hubungan mereka, terutama jika expectations itu belum dibicarakan secara terbuka. Asumsi tentang ekspektasi masing-masing perlu diperiksa melalui komunikasi.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.id"
+        ],
+        "gloss": "Celah antara apa yang diharapkan masing-masing pihak dalam suatu hubungan.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความไม่สอดคล้องกันระหว่างความคาดหมายของแต่ละบุคคล ซึ่งอาจเกิดจากสมมติฐานที่ไม่เคยพูดออกมาและนำไปสู่ความขัดแย้ง",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.th"
+        ],
+        "gloss": "ช่องว่างระหว่างสิ่งที่แต่ละฝ่ายในความสัมพันธ์คาดหวังไว้",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tarafların birbirinden ne beklediğine dair varsayımları arasında açıklanmamış bir uyuşmazlığın bulunmasıdır. Sorun, çoğu zaman beklentilerin açıkça konuşulmamasından doğar.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.tr"
+        ],
+        "gloss": "İlişkideki iki kişinin karşılıklı beklentileri arasındaki fark.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Beklenti uyuşmazlığı telefon aramalarıyla ilgiliydi ve aylardır sürüyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความไม่สอดคล้องระหว่างความคาดหวังเกี่ยวกับการโทรศัพท์เกิดขึ้นมาหลายเดือน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ketidakcocokan ekspektasi mereka tentang panggilan telepon sudah berlangsung selama berbulan-bulan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O desencontro entre expectativas era sobre telefonemas e já durava meses.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "기대 불일치는 전화 횟수에 관한 것이었고, 그 차이는 몇 달이나 이어졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "電話の頻度についての期待の不一致は、数か月もの間続いていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The expectation mismatch was about phone calls, and it had been there for months.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "615503e4ca0bde09d8363c8a2082ce71a150d85b5af2e01950bbadde96c5ee85": [
+      {
+        "forms": [
+          "Eco mode",
+          "eco_mode"
+        ],
+        "id": "lex.sa.en.eco.mode",
+        "kind": "lexeme",
+        "lemma": "Eco mode",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.eco.mode.alt"
+        ]
+      },
+      {
+        "definition": "The car is in an economy mode: it saves fuel, and often responds more gently. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The car is in an economy mode: it saves fuel, and often responds more gently.",
+        "id": "sns.sa.en.eco.mode.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.eco.mode",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "6172e8854a6d21ebe6545c72ccad75e71aecfe12c61f3ac692b54107c3a01873": [
+      {
+        "forms": [
+          "locator",
+          "locators"
+        ],
+        "id": "lex.sa.en.locator.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "locator",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.locator.noun.1",
+          "sns.sa.en.locator-noun.alt"
+        ]
+      },
+      {
+        "definition": "Đường dẫn trỏ tới một tệp trong gói nội dung.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.04"
+        ],
+        "gloss": "đường dẫn",
+        "id": "sns.sa.vi.locator.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.locator.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A path that points at a file.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.04"
+        ],
+        "gloss": "A path pointing at a file inside the content pack.",
+        "id": "sns.sa.en.locator-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.locator.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.04",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Every media locator in this pack is a file under media/.",
+        "translation": "Mọi đường dẫn phương tiện trong gói này đều là một tệp nằm dưới thư mục media/.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "61b66524f593c6b2ea9a1b94572e626672170e2f7e2bd6bc2f33b216c6cf5d1d": [
+      {
+        "forms": [
+          "Front fog lamp",
+          "front_fog"
+        ],
+        "id": "lex.sa.en.front.fog",
+        "kind": "lexeme",
+        "lemma": "Front fog lamp",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.front.fog.alt"
+        ]
+      },
+      {
+        "definition": "The front fog lamp is on. Severity level 1 — Information / Status. Action: Nothing to do. Remember it dazzles other drivers..",
+        "gloss": "The front fog lamp is on.",
+        "id": "sns.sa.en.front.fog.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.front.fog",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "61c7ac4559b090085c4e4f17ae211555a73336fce7dc4147979310a2eaae45f7": [
+      {
+        "forms": [
+          "Common ground",
+          "common_ground"
+        ],
+        "id": "lex.sa.social.common_ground",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Common ground",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.common_ground.alt",
+          "sns.sa.social.common_ground.alt.ja",
+          "sns.sa.social.common_ground.alt.ko",
+          "sns.sa.social.common_ground.alt.pt_br",
+          "sns.sa.social.common_ground.alt.id",
+          "sns.sa.social.common_ground.alt.th",
+          "sns.sa.social.common_ground.alt.tr"
+        ]
+      },
+      {
+        "definition": "The part of a position that both people accept. Every polite disagreement starts by naming it.",
+        "exampleIds": [
+          "exm.sa.social.common_ground.1.1"
+        ],
+        "gloss": "The part of a position that both people accept. Every polite disagreement starts by naming it.",
+        "id": "sns.sa.social.common_ground.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.common_ground",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある問題について双方 Surg? no.",
+        "exampleIds": [
+          "exm.sa.social.common_ground.1.1.ja"
+        ],
+        "gloss": "双方の意見が一致している部分。",
+        "id": "sns.sa.social.common_ground.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.common_ground",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "토론이나 협상에서 모든 참여자가 동의하는 이해나 기준을 가리킨다. 상대방과 어디까지意见이 같은지 먼저 밝히면 예의 있는 논쟁을 시작하기 쉽다.",
+        "exampleIds": [
+          "exm.sa.social.common_ground.1.1.ko"
+        ],
+        "gloss": "둘 이상의 사람이 서로 받아들이는 동의 부분이나 출발점.",
+        "id": "sns.sa.social.common_ground.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.common_ground",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Base de acordo entre duas pessoas em uma conversa ou disputa; toda discordância educada começa por nomeá-la. Não significa que as partes concordem com tudo, apenas com aquilo que é compartilhado.",
+        "exampleIds": [
+          "exm.sa.social.common_ground.1.1.pt_br"
+        ],
+        "gloss": "O ponto em que as duas partes de uma discussão concordam.",
+        "id": "sns.sa.social.common_ground.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.common_ground",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bagian dari suatu pendapat yang diterima oleh semua pihak yang berdiskusi. Titik temu ini biasanya menjadi dasar untuk discussing perbedaan secara sopan.",
+        "exampleIds": [
+          "exm.sa.social.common_ground.1.1.id"
+        ],
+        "gloss": "Titik temu yang disepakati oleh semua pihak.",
+        "id": "sns.sa.social.common_ground.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.common_ground",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ก่อนโต้แย้งอย่างสุภาพ ผู้พูดควรระบุส่วนที่ทั้งสองฝ่ายเห็นตรงกันก่อน เพื่อให้สามารถสร้างความเข้าใจร่วมกัน",
+        "exampleIds": [
+          "exm.sa.social.common_ground.1.1.th"
+        ],
+        "gloss": "ส่วนของข้อเสนอที่ทั้งสองฝ่ายเห็นตรงกัน",
+        "id": "sns.sa.social.common_ground.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.common_ground",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir konuşmada tarafların üzerinde anlaştığı veya birlikte kabul edebileceği noktadır. Nazik bir görüşme ayrılığında önce bu ortak noktanın belirlenmesi gerekir.",
+        "exampleIds": [
+          "exm.sa.social.common_ground.1.1.tr"
+        ],
+        "gloss": "İki kişinin de kabul ettiği ortak noktadır.",
+        "id": "sns.sa.social.common_ground.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.common_ground",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.common_ground.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Find the common ground first — both of you want this project to succeed.",
+        "translation": "Önce ortak zemini bulalım; ikiniz de bu projenin başarılı olmasını istiyorsunuz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.common_ground.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Find the common ground first — both of you want this project to succeed.",
+        "translation": "หาข้อยกลงใจร่วมกันก่อน เพราะทั้งคุณและเขาต้องการให้โครงการนี้ประสบความสำเร็จ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.common_ground.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Find the common ground first — both of you want this project to succeed.",
+        "translation": "Carilah titik temu terlebih dahulu karena kedua pihak sebenarnya ingin proyek ini berhasil.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.common_ground.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Find the common ground first — both of you want this project to succeed.",
+        "translation": "Achem primeiro um ponto em comum — as duas partes querem que o projeto dê certo.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.common_ground.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Find the common ground first — both of you want this project to succeed.",
+        "translation": "먼저 공동점을 찾자. 두 사람 모두 이 프로젝트가 성공하기를 원한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.common_ground.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Find the common ground first — both of you want this project to succeed.",
+        "translation": "まず共通点を見つけましょう。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.common_ground.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Find the common ground first — both of you want this project to succeed.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "61d3c897da125b313dbdf02f65cb793e29ff278d92d671ddafa708c27268f9c7": [
+      {
+        "forms": [
+          "BATNA",
+          "dpn_batna"
+        ],
+        "id": "lex.sa.work.dpn_batna",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "BATNA",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.dpn_batna.alt",
+          "sns.sa.work.dpn_batna.alt.ja",
+          "sns.sa.work.dpn_batna.alt.ko",
+          "sns.sa.work.dpn_batna.alt.pt_br",
+          "sns.sa.work.dpn_batna.alt.id",
+          "sns.sa.work.dpn_batna.alt.th",
+          "sns.sa.work.dpn_batna.alt.tr"
+        ]
+      },
+      {
+        "definition": "The best deal you can make if the deal in front of you does not happen.",
+        "exampleIds": [
+          "exm.sa.work.dpn_batna.1.1"
+        ],
+        "gloss": "The best deal you can make if the deal in front of you does not happen.",
+        "id": "sns.sa.work.dpn_batna.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.dpn_batna",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "BATNAは、交渉中の取引が不成立になった場合の最良の代替案のこと。交渉takes前に weakest案や底线をgreatelyために算出する。",
+        "exampleIds": [
+          "exm.sa.work.dpn_batna.1.1.ja"
+        ],
+        "gloss": "Currently表されている取引が成立しなかった場合に、最良の代替取引。",
+        "id": "sns.sa.work.dpn_batna.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.dpn_batna",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "BATNA는 현재 제안이 받아들여지지 않을 경우 선택할 수 있는 가장 좋은 대안이다. 협상 전에 그 대안의 조건을 구체적으로 정해 두는 것이 중요하다.",
+        "exampleIds": [
+          "exm.sa.work.dpn_batna.1.1.ko"
+        ],
+        "gloss": "현재 거래가 성사되지 않을 때 선택할 수 있는 가장 유리한 대안.",
+        "id": "sns.sa.work.dpn_batna.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.dpn_batna",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "BATNA é a melhor opção disponível se a negociação em andamento não resultar em acordo. É usada em negociações para comparar o valor de uma proposta com o que se pode obter em outro lugar.",
+        "exampleIds": [
+          "exm.sa.work.dpn_batna.1.1.pt_br"
+        ],
+        "gloss": "A melhor alternativa caso a negociação atual não seja concluída.",
+        "id": "sns.sa.work.dpn_batna.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.dpn_batna",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "BATNA merupakan alternatif cadangan dan titik kekuatansomeone ketika bernegosiasi. Semakin kuat alternatif ini, semakin besarpressão yang dapat diberikan pihak lain.",
+        "exampleIds": [
+          "exm.sa.work.dpn_batna.1.1.id"
+        ],
+        "gloss": "BATNA adalah kesepakatan terbaik yang dapat dicapai jika negosiasi yang sedang berjalan gagal.",
+        "id": "sns.sa.work.dpn_batna.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.dpn_batna",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงทางเลือกที่ดีที่สุดเมื่อข้อตกลงปัจจุบันล้มเหลว เช่น การไปเจรจากผู้ขายรายอื่นหรือยกเลิกการซื้อ ผู้เจรจาควรกำหนดไว้ก่อนเพื่อประเมินความได้เปรียบ",
+        "exampleIds": [
+          "exm.sa.work.dpn_batna.1.1.th"
+        ],
+        "gloss": "ข้อตกลงที่ดีที่สุดที่ทำได้หากข้อตกลงที่กำลังเจรจาไม่สำเร็จ",
+        "id": "sns.sa.work.dpn_batna.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.dpn_batna",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Müzakere edilen anlaşma sağlanamazsa başvurulabilecek en iyi seçeneği ifade eder ve kişinin pazarlık gücünü belirler.",
+        "exampleIds": [
+          "exm.sa.work.dpn_batna.1.1.tr"
+        ],
+        "gloss": "Görüşmedeki anlaşma gerçekleşmezse en iyi alternatif anlaşma.",
+        "id": "sns.sa.work.dpn_batna.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.dpn_batna",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.dpn_batna.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Toplantıdan önce BATNA'sını yazdı: diğer tedarikçi, fiyat ve tarih.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.dpn_batna.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ก่อนประชุม เขาเขียน BATNA ของตัวเองไว้ ได้แก่ผู้ขายอีกราย ราคา และวันที่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.dpn_batna.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sebelum rapat, ia menuliskan BATNA-nya: pemasok lain, harga, dan tanggal.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.dpn_batna.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Antes da reunião, ele registrou sua BATNA: o outro fornecedor, o preço e a data.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.dpn_batna.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그는 회의 전에 BATNA를 적어 두었다. 다른 공급업체와 가격, 날짜였다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.dpn_batna.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "会議前に彼はBATNAを wrote：別のVerification者、価格、日程。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.dpn_batna.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Before the meeting he wrote down his BATNA: the other supplier, the price and the date.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "61e233bf032b402c41b3f4e90b20cf300d0595ff0d26b29386f1b38a6e56b149": [
+      {
+        "forms": [
+          "Competence shaming",
+          "cs_competence_shaming"
+        ],
+        "id": "lex.sa.mind.cs_competence_shaming",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Competence shaming",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_competence_shaming.alt",
+          "sns.sa.mind.cs_competence_shaming.alt.ja",
+          "sns.sa.mind.cs_competence_shaming.alt.ko",
+          "sns.sa.mind.cs_competence_shaming.alt.pt_br",
+          "sns.sa.mind.cs_competence_shaming.alt.id",
+          "sns.sa.mind.cs_competence_shaming.alt.th",
+          "sns.sa.mind.cs_competence_shaming.alt.tr"
+        ]
+      },
+      {
+        "definition": "Raising your own standing by showing that another person cannot do the work.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1"
+        ],
+        "gloss": "Raising your own standing by showing that another person cannot do the work.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "相手が仕事をodusる能力がないことを示し、それによって自分の立場や評価を高める行為。",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.ja"
+        ],
+        "gloss": "他人の業務能力の不足を示して、自分の地位を高めること。",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "다른 사람이 일을 해내지 못한다고 보여서 자신의 위치를 높이는 행위. 단순히 실수를 지적하는 것과는 달리 상대를 격하시켜 자신의 우위를 얻는 수 있다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.ko"
+        ],
+        "gloss": "상대의 능력을 낮추어 자신의 우위를 드러내는 행위.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estratégia de elevar a própria posição mostrando que outra pessoa é incapaz de executar uma tarefa. Pode atingir a reputação profissional da pessoa atacada, mesmo que ela tenha cometido um erro real.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.pt_br"
+        ],
+        "gloss": "Ataque que desqualifica a competência de outra pessoa para elevar a própria.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Cara meningkatkan kedudukan sendiri dengan menunjukkan bahwa orang lain tidak mampu melakukan pekerjaan yang sedang dibahas. Hal ini membuat kesalahan nyata menjadi alasan untuk merendahkan seseorang di depan orang lain.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.id"
+        ],
+        "gloss": "Penghinaan atas kemampuan orang lain untuk meningkatkan kedudukan sendiri.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การใช้ข้อผิดพลาดหรือความไม่สามารถของผู้อื่นเพื่อเพิ่มความน่าเคารพของตน โดยเฉพาะเมื่อทำหน้าต่อหน้าผู้อื่น",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.th"
+        ],
+        "gloss": "การยกย่องความสามารถของตนโดยทำให้ผู้อื่นดูไม่มีความสามารถ",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin, başka birinin yeteneksiz olduğunu ortaya koyarak kendi saygınlığını ve konumunu artırması. Eleştiri, mesleki yeterliliğin değil, kişinin itibarının karşısında yapılır.",
+        "exampleIds": [
+          "exm.sa.mind.cs_competence_shaming.1.1.tr"
+        ],
+        "gloss": "Başkasının işi yapamadığını göstererek kendi konumunu yükseltme.",
+        "id": "sns.sa.mind.cs_competence_shaming.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_competence_shaming",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu, yetkinlikle küçümsemeydi: gerçek bir hata, ekibin önünde onu aşağılamak için kullanıldı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "นั่นคือการทำให้ผู้อื่นอับอายเพราะความไม่สามารถ โดยนำข้อผิดพลาดจริงมาเป็นเหตุผลให้เธอต่ำต้ำหน้าทีม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Itu merupakan penghinaan atas kemampuan: kesalahan nyata dijadikan alasan untuk merendahninya di depan tim.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Foi uma desqualificação por incompetência: um erro real serviu para rebaixá-la diante da equipe.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그건 능력 망신을 이용한 우위 과시였다. 실제 실수가 팀 앞에서 그 사람을 낮추는 구실이 되었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "これは能力貶しめだった。実際の誤りが、チームの面前で彼女を贬す理由になった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_competence_shaming.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was competence shaming: a real error became the reason to put her down in front of the team.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,137 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_bills_statements",
+  "objectives": [
+    "Distinguir uma conta, um recibo e um extrato bancário e saber o que cada um prova.",
+    "Ler um extrato bancário linha por linha e entender cada coluna.",
+    "Explicar o que um débito, um crédito e um saldo significam num extrato.",
+    "Reconhecer as tarifas que aparecem discretamente num extrato e o que as dispara.",
+    "Conferir uma conta de serviço público com a sua própria leitura do medidor e achar uma estimativa.",
+    "Verificar uma fatura pelos detalhes que a tornam válida, incluindo impostos.",
+    "Contestar uma cobrança desconhecida com a primeira frase certa."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "O dinheiro chega até você em papel, e os papéis não são intercambiáveis. Três documentos são constantemente confundidos um com o outro, e cada um tem um trabalho diferente.\n\nUma **conta** é um pedido de pagamento. Diz a uma empresa ou a uma pessoa quanto lhe é devido e até quando. Uma conta de telefone, uma ficha de aluguel do proprietário, uma conta de luz da concessionária, uma fatura de hospital: cada uma diz o que é devido, o período que cobre e como pagar. Uma conta é uma instrução, e só se torna real quando o dinheiro se move.\n\nUm **recibo** é a prova de que algo aconteceu. Diz o que você comprou, quando, quanto custou e como pagou. Um recibo é o que você mostra quando uma devolução é questionada, o que um empregador pede quando reembolsa uma despesa e o que você guarda quando a garantia acaba. Um recibo é uma evidência, e não pede nada.\n\nUm **extrato bancário** é o registro que o seu banco mantém. Lista tudo que passou pela sua conta num período, em ordem de data, com o saldo progressivo, e é o documento que prova o que você efetivamente pagou e recebeu. Um extrato é um registro de transações, e é nele que você confere quando falta dinheiro.\n\nA diferença prática aparece quando algo dá errado. Se uma empresa envia uma conta que você já pagou, o recibo e o extrato são o que provam o pagamento. Se o banco cobra algo que você não reconhece, só o extrato o mostra. E se um proprietário diz que você deve três meses, é no extrato que os pagamentos aparecem.\n\nMais um documento completa o conjunto, e não é uma conta: uma **fatura**. Uma fatura é uma conta por bens ou serviços já fornecidos e, na maioria dos sistemas, é o documento que carrega o tratamento tributário e os detalhes necessários para reivindicar um pagamento ou uma dedução.",
+      "examples": [
+        "Isto é uma conta, então está pedindo pagamento.",
+        "Eu guardo o recibo, porque é a prova de que paguei.",
+        "O extrato é o próprio registro do banco do que passou pela conta."
+      ],
+      "heading": "Três documentos, três trabalhos diferentes"
+    },
+    {
+      "body": "Um extrato bancário tem as mesmas partes na mesma ordem todo mês, e, uma vez que você conhece as partes, consegue ler o extrato de qualquer banco.\n\nNo topo está o **cabeçalho**: o nome do titular da conta, o número da conta, geralmente parcialmente mascarado, o período que o extrato cobre e a moeda, se a conta mantiver mais de uma. Confira o período primeiro. Um extrato cobrindo o mês errado é mais comum do que as pessoas esperam, e explica toda confusão que se segue.\n\nDepois vem a **caixa de resumo**, com o saldo inicial, o saldo final, o total que entrou e o total que saiu. Esses quatro números são uma verificação da sua própria aritmética: o que entrou menos o que saiu deve igualar a diferença entre os dois saldos.\n\nDepois a **lista de transações**, em ordem de data, geralmente com um saldo progressivo na última coluna. Cada linha tem uma data, uma descrição e um valor. A descrição é escrita pelo banco do favorecido, não pela loja, então costuma ler como um código: \"POS SUPERMARKET REF 4471\" diz que é um supermercado, e nada sobre o que você comprou.\n\nAbaixo da lista vêm as **tarifas e juros**, muitas vezes numa seção separada. É onde moram as cobranças da conta: uma tarifa mensal, uma linha de juros do cheque especial, uma tarifa por usar o cartão no exterior.\n\nE no final, às vezes, um **resumo dos seus limites e taxas**: o limite do cheque especial, o limite do cartão, a taxa de juros aplicada. Esses números mudam com o tempo, e é aqui que você encontra a taxa atual, e não a que lembra.\n\nLeia o cabeçalho e a caixa de resumo antes da lista de transações. É na lista que o tempo vai, e ela é muito mais fácil de interpretar uma vez que você sabe onde começou e onde terminou.",
+      "examples": [
+        "O extrato cobre 1º a 31 de março, então essa cobrança é de março.",
+        "Entraram 2400 $ e saíram 1980 $, sobrando 420 $ a mais de saldo, o que bate com o resumo."
+      ],
+      "heading": "A anatomia de um extrato bancário"
+    },
+    {
+      "body": "Estas são as palavras que você encontrará em todo extrato e o que cada uma significa na prática.\n\n**Saldo inicial** é o que você tinha na conta no começo do período. **Saldo final** é o que tinha no fim. **Saldo disponível** é o que você pode realmente gastar agora, que é o saldo final menos o que estiver retido, mais ou menos o cheque especial.\n\nUm **débito** é dinheiro saindo da conta. Um **crédito** é dinheiro entrando. Os bancos imprimem essas palavras ou usam um sinal: sinal de menos é dinheiro fora, sinal de mais é dinheiro dentro. O rótulo \"crédito\" num extrato não significa empréstimo.\n\nUm **débito automático** é um pagamento que você autoriza uma empresa a tirar da sua conta, geralmente numa data, e que ela pode tirar sem perguntar de novo. Uma **ordem de pagamento fixa** é um valor fixo que você autoriza a ser pago numa agenda, esteja a conta igual ou não. Um **pagamento com cartão** é uma compra com cartão de débito ou crédito, e costuma aparecer um ou dois dias após a compra.\n\nUm **cheque especial** é um valor acordado que o banco deixa você ficar abaixo de zero, e geralmente custa dinheiro. Uma **transação pendente** é um pagamento feito com cartão que ainda não apareceu na conta, e o saldo mostrado no aplicativo do banco já pode incluí-lo, enquanto o extrato ainda não.\n\nUma **referência** é o código que permite casar uma linha do extrato com um recibo ou uma conta. Um débito automático sem nome de loja geralmente é uma empresa que vendeu a cobrança adiante, e a referência é o único jeito de identificá-la.",
+      "heading": "As palavras de um extrato",
+      "terms": [
+        {
+          "example": "O saldo inicial era 500 $, então a primeira transação foi cobrada contra esse valor.",
+          "gloss": "O valor na conta no início do período do extrato. Todos os números seguintes são medidos a partir dele."
+        },
+        {
+          "example": "O saldo final é 420 $, que é 80 $ a mais que o saldo inicial.",
+          "gloss": "O valor na conta no fim do período do extrato, depois de todas as transações dele."
+        },
+        {
+          "example": "O débito do supermercado é 64 $, então é a coluna do débito, não a do crédito.",
+          "gloss": "Dinheiro deixando a conta. Num extrato, geralmente aparece com sinal de menos ou numa coluna de saída."
+        },
+        {
+          "example": "O crédito de 1200 $ no dia 15 é o meu salário.",
+          "gloss": "Dinheiro chegando à conta, como um salário ou um reembolso. Num extrato, geralmente aparece com sinal de mais."
+        },
+        {
+          "example": "A conta de luz é débito automático, então sai da minha conta no dia 10 de todo mês.",
+          "gloss": "Um pagamento que uma empresa está autorizada a tirar da sua conta numa data, sem perguntar de novo cada vez."
+        },
+        {
+          "example": "Tenho ordem de pagamento para o proprietário pelo aluguel e débito automático para as contas de serviço público.",
+          "gloss": "Um valor fixo que você autoriza a ser pago numa agenda, esteja a conta igual ou não todo mês."
+        }
+      ]
+    },
+    {
+      "body": "Entrada e saída de dinheiro é simples. É no saldo que as pessoas se perdem, porque um extrato pode mostrar mais de um saldo e eles não são o mesmo.\n\nO **saldo final** é a verdade no fim do período: saldo inicial, mais tudo que entrou, menos tudo que saiu. O **saldo disponível** é o que você pode gastar agora, e pode ser menor, porque o banco já pode saber de pagamentos com cartão que ainda não chegaram ao extrato, ou porque parte do saldo está retida para um débito automático pendente.\n\nEssa diferença explica uma preocupação comum. Você confere o saldo no aplicativo, ele está menor do que o extrato diz, e assume que uma cobrança saiu errada. Geralmente nada saiu errado: um pagamento com cartão de ontem já está contado no aplicativo e vai aparecer no extrato em dois dias.\n\nA outra coisa a entender é o **saldo progressivo** na lista de transações. Ele mostra qual era o seu saldo depois de cada linha, e nunca deve pular sem razão. Se o saldo progressivo e a caixa de resumo discordam, o extrato tem um erro, e vale a pena perguntar.\n\nDepois há a questão do **tempo**. Uma conta pode ser debitada numa data anterior à chegada do dinheiro, e é por isso que um extrato pode mostrar saldo negativo no meio de um mês que termina confortavelmente positivo. Algumas pessoas movem o pagamento agendado para depois do dia em que o salário cai, o que elimina uma classe inteira de problemas.\n\nE quando fizer a conta, lembre-se de que algumas linhas são duplicadas de propósito. Um débito automático que não foi pago costuma aparecer duas vezes: uma como cobrança e outra como devolução, e o par parece duas contas separadas quando é um problema só.",
+      "examples": [
+        "O saldo final é 420 $ e o saldo disponível é menor porque um pagamento com cartão está pendente.",
+        "A conta foi debitada dois dias antes do salário chegar, então o saldo ficou negativo por um momento.",
+        "Essa cobrança e o estorno abaixo são o mesmo débito automático que voltou."
+      ],
+      "heading": "Débito, crédito e o que o saldo realmente diz"
+    },
+    {
+      "body": "**Juros de cheque especial** são cobrados quando você fica abaixo de zero, e geralmente são aplicados sem aviso algum no momento em que acontecem. Alguns bancos cobram uma tarifa por item que passa enquanto você está negativo, além de uma taxa diária ou anual. Peça uma margem: a maioria dos bancos concorda com um pequeno limite de cheque especial que não custa nada se você ficar dentro dele.\n\n**Um débito automático devolvido** custa duas vezes. A empresa tenta a cobrança, o banco recusa, e você é cobrado pela devolução e pela cobrança. A conta ainda chega, e agora está atrasada.\n\n**Um pagamento com cartão no exterior** geralmente carrega uma tarifa além da câmbio. Alguns cartões cobram uma porcentagem, outros um valor fixo, e muitos somam os dois. A própria taxa de câmbio já inclui uma margem, então um cartão com tarifa de transação internacional geralmente é pior do que um bom cartão sem.\n\n**Uma retirada em caixa eletrônico** pode custar uma tarifa na máquina, no banco que a possui, ou em ambos, e a máquina raramente diz qual. Usar as máquinas do seu próprio banco evita a maior parte disso.\n\n**Uma multa por atraso** num cartão de crédito muitas vezes vem com uma taxa de juros penal, e a taxa penal pode incidir sobre o saldo inteiro. Um único pagamento atrasado pode, portanto, custar várias vezes a própria tarifa.\n\n**Uma tarifa de conta inativa** e uma **tarifa de extrato periódico** são pequenas, anuais e fáceis de não notar, porque nunca aparecem num mês em que mais nada acontece.",
+      "heading": "As tarifas que aparecem discretamente num extrato"
+    },
+    {
+      "body": "Uma conta de serviço público é construída de três partes, e entendê-las é como você confere o número em vez de pagá-lo às cegas.\n\nA **leitura do medidor** é o número no seu medidor, ou a leitura que a empresa fez por você. Entre a última leitura e esta está o **consumo**, geralmente mostrado em unidades: quilowatts-hora para eletricidade, metros cúbicos para água. Multiplique a tarifa por unidade pelo consumo e você tem a parte variável da conta, e essa é a conferência que vale a pena fazer.\n\nA **tarifa** é o que você paga por unidade. Ela pode ser única ou mudar por horário do dia, caso em que uma boa tarifa ou um medidor inteligente pode mudar bastante a sua conta. Encargos fixos vêm por cima: uma taxa básica pela conexão, um encargo de combustível ou de rede, e muitas vezes uma contribuição obrigatória.\n\nDepois há a **estimativa**. As empresas estimam o consumo quando não conseguem ler o medidor, e uma estimativa aparece na conta sem uma leitura do medidor para conferir. Se você encontrar uma conta estimada, a primeira providência é sempre a mesma: envie uma fotografia do seu medidor mostrando a leitura atual e peça uma conta corrigida.\n\nDois hábitos tornam isso fácil. Fotografe o medidor no dia em que recebe a conta e guarde-a com ela. E compare cada conta com o mesmo mês do ano passado, porque um total que pula precisa de explicação: um mês mais frio, um aparelho novo, mudança de tarifa ou uma estimativa.\n\nFinalmente, note a **data de pagamento e a forma**. Uma conta paga por débito automático na data de vencimento geralmente não custa nada a mais, enquanto pagar atrasado pode custar uma taxa de religação muito maior que o dinheiro devido.",
+      "examples": [
+        "Esta conta é uma estimativa, então estou enviando uma foto da leitura do medidor.",
+        "Usei 240 unidades a 0,15 por unidade, então a parte variável deve ser 36 $.",
+        "O dezembro passado foi mais frio, então a conta mais alta não é um erro."
+      ],
+      "heading": "Lendo uma conta de serviço público: o medidor, a tarifa e a estimativa"
+    },
+    {
+      "body": "Uma fatura e um recibo parecem semelhantes e são usados para propósitos opostos, então vale a pena saber o que pertence a cada um.\n\nUma **fatura** é um pedido de pagamento por algo já fornecido. Ela deve trazer um número, a data, os nomes e endereços de ambas as partes, uma descrição do que foi fornecido, as condições de pagamento e o valor devido com a data de vencimento. A maioria dos sistemas também exige uma linha de imposto: a alíquota, o valor tributado, o imposto cobrado e o total, muitas vezes com o número de inscrição do fornecedor.\n\nUm **recibo** prova o lado do pagamento. Deve mostrar quem pagou, pelo quê, quando, quanto e a forma: cartão, dinheiro, transferência ou uma referência. Um recibo de cartão pode trazer o nome da loja e um número de transação que permite casá-lo com o seu extrato.\n\nConfira os dois com o extrato. Se o valor do recibo não aparece no extrato, o pagamento ainda pode estar pendente. Se aparece com um valor diferente, a diferença geralmente é gorjeta, taxa de serviço ou tarifa de transação internacional, e é mais fácil de aceitar quando você vê de onde veio.\n\nDois detalhes pegam as pessoas. Um recibo sem número de IVA ou imposto não pode ser usado numa declaração, e muitas lojas pequenas não podem emitir um. E um recibo sem a forma de pagamento é uma evidência fraca: prova que uma venda aconteceu, mas não que você pagou por ela. Quando um recibo importa, peça-o antes de sair.\n\nGuarde recibos de tudo que possa precisar explicar depois: uma garantia, uma devolução, um reembolso de despesa ou uma declaração de imposto. Fotografe-os no mesmo dia e arquive por mês e por categoria.",
+      "examples": [
+        "O recibo não tem número de imposto, então não posso usá-lo numa declaração.",
+        "O valor no extrato é 2 $ a mais que o recibo, que é a taxa de serviço.",
+        "Fotografei todos os recibos no dia da compra e os arquivei por categoria."
+      ],
+      "heading": "Lendo uma fatura e um recibo"
+    },
+    {
+      "body": "Conciliar significa provar que seus próprios registros e os do banco estão de acordo. Dez minutos por mês evitam os pequenos erros que depois ficam impossíveis.\n\nComece pelo número em que você já confia, que é o saldo final do extrato anterior. Some a sua própria renda e subtraia os seus próprios gastos, e verifique se você chega ao saldo final deste extrato. Se chegar, seus registros estão completos. Se não chegar, a diferença está em algum lugar da lista de transações, e é exatamente lá que se deve olhar.\n\nDepois percorra a lista uma vez, em ordem, e marque cada linha como uma de três coisas: reconhecida e registrada, reconhecida mas não registrada, ou não reconhecida. O segundo grupo diz onde o seu próprio sistema falhou. O terceiro grupo é o que merece ação.\n\nPor fim, olhe a seção de tarifas e os saldos, e confira-os com as condições que você tem. Depois arquive o extrato com os recibos do mês e anote qualquer cobrança recorrente que queira reconsiderar.",
+      "examples": [
+        "Meus registros estão 35 $ abaixo, e os 35 $ são a assinatura que esqueci de anotar.",
+        "Há uma linha que não reconheço, então vou ligar para o banco a respeito."
+      ],
+      "heading": "Conciliando seu extrato mês a mês",
+      "steps": [
+        "Pegue o saldo final do extrato anterior como ponto de partida.",
+        "Some a sua própria renda e subtraia os seus próprios gastos do mês.",
+        "Compare o seu número com o saldo final do extrato.",
+        "Marque cada transação como registrada, não registrada ou não reconhecida.",
+        "Leia a seção de tarifas e confira cada tarifa com o seu contrato.",
+        "Arquive o extrato com os recibos do mês e anote qualquer cobrança que queira questionar."
+      ]
+    },
+    {
+      "body": "A maioria dos bancos investiga uma transação contestada, mas a velocidade e o resultado dependem de quão rápido você relata e do que diz na primeira frase.\n\nLigue para o número no verso do seu cartão, não para um número numa mensagem de texto. Diga ao atendente a data, o valor e o nome da loja do extrato, e diga claramente que não reconhece a transação. Pergunte o que acontece a seguir e quanto tempo leva, e anote o número de referência.\n\nHá duas situações diferentes, e elas não são tratadas da mesma forma. Uma transação que você fez mas não lembra é uma **consulta**: o banco verifica os registros da loja e geralmente explica a cobrança. Uma transação que você nunca fez é uma **alegação de fraude**, e o banco normalmente bloqueia o cartão, substitui e credita o dinheiro enquanto investiga.\n\nSe um cartão for perdido ou roubado, bloqueie-o no aplicativo imediatamente, antes de ligar para qualquer um. A rapidez protege a sua posição e limita a sua responsabilidade.\n\nGuarde o número de referência e uma cópia de tudo que você enviar. Se a primeira resposta não satisfizer, peça um procedimento de reclamação por escrito e então reclame por escrito. Uma reclamação escrita com datas, valores e números de referência é muito mais difícil para um banco ignorar do que uma ligação que não foi registrada.",
+      "heading": "Como contestar uma cobrança que você não reconhece"
+    },
+    {
+      "body": "Registros importam duas vezes: uma quando alguém faz uma pergunta, e outra quando ninguém perguntou por anos e aí alguém pergunta.\n\nA regra prática é simples: guarde o que prova para onde o dinheiro foi. Para um negócio, isso significa faturas para a renda, recibos para as despesas e extratos bancários para ambos. Para uma casa, significa as mesmas três coisas numa forma mais simples, mais a prova de qualquer compra maior.\n\nOrganize os registros por **período e categoria**. Uma pasta por ano, uma planilha com uma linha por transação, ou uma simples lista mensal com data, valor, contraparte e categoria, tudo funciona. A categoria importa porque é o que permite responder num minuto a uma pergunta como \"me mostre seus custos com veículos\".\n\nUse **recibos e extratos bancários juntos**. Um recibo prova o que foi comprado; um extrato prova que foi pago. Sozinho, cada um tem uma fraqueza, porque recibos desbotam, se perdem e às vezes não são emitidos, enquanto extratos mostram o pagamento, mas não para o que foi.\n\nOs **prazos de guarda** variam por país e por tipo de registro. Guarde-os por pelo menos o tempo que a fiscalização tem para auditar, e confira a regra em vez de adivinhar. Na dúvida, guarde mais tempo; armazenar é barato e um registro descartado não pode ser produzido.\n\nDois hábitos práticos facilitam tudo. Fotografe os documentos no dia em que recebe e guarde-os com o mês a que pertencem. E uma vez por ano, gaste uma hora conferindo se o total dos seus registros bate com os totais dos seus extratos. Um sistema que nunca foi conferido é um sistema em que você não pode confiar.",
+      "examples": [
+        "Arquivo todo recibo por mês e categoria, então consigo totalizar qualquer categoria num minuto.",
+        "O recibo prova o que era, e o extrato prova que foi pago."
+      ],
+      "heading": "Guardando registros que a fiscalização aceita"
+    },
+    {
+      "body": "Estas são as frases que obtêm uma resposta direta de um banco, de uma concessionária ou de um proprietário. Cada uma nomeia uma data, um valor ou um número, então nada depende de a outra pessoa entender o que você quer dizer.\n\nUse-as quando questionar uma cobrança, quando precisar de um documento e quando pedir que algo seja colocado por escrito. Se estiver relatando uma transação que você nunca fez, diga isso na primeira frase em vez de deixar implícito.",
+      "examples": [
+        "Há uma cobrança de 45 $ em 3 de março que não reconheço. Como contesto?",
+        "Esta conta é uma estimativa. Estou enviando uma foto da leitura do medidor com data de hoje.",
+        "Pode me mandar uma cópia do extrato de fevereiro em PDF?",
+        "Meus registros e o extrato diferem em 35 $, e não acho a diferença.",
+        "Pode confirmar o número de referência e a data em que o reembolso chega à minha conta?",
+        "Contesto esta cobrança como fraude e gostaria de um cartão substituto."
+      ],
+      "heading": "Frases que você pode usar sobre um extrato"
+    }
+  ],
+  "summary": "O dinheiro chega em documentos, e cada um significa algo diferente. Depois de ler este artigo, você distingue conta de recibo de extrato, lê um extrato linha por linha, confere uma conta de serviço público com o seu próprio consumo, contesta uma cobrança que não reconhece e mantém registros que a fiscalização aceita.",
+  "title": "Lendo Contas, Recibos e Extratos Bancários"
+}

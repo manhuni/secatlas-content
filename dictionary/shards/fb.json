@@ -1,0 +1,912 @@
+{
+  "records": {
+    "fb1acd44962209a65826621210c03c0a72e392169f52c2f208efbf3f272f09a2": [
+      {
+        "forms": [
+          "slope",
+          "slopes"
+        ],
+        "id": "lex.sa.en.slope.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "slope",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.slope.noun",
+          "prn.sa.en.slope.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.slope.noun.1",
+          "sns.sa.en.slope-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.slope-noun",
+        "id": "prn.sa.en.slope.noun",
+        "ipa": "/sləʊp/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.slope.noun.us",
+        "ipa": "/sloʊp/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Mức đường thẳng nghiêng; trong y = mx + b, m là slope.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.slope.noun.1.1",
+          "exm.sa.en.slope-noun.more.01",
+          "exm.sa.en.slope-noun.more.02"
+        ],
+        "gloss": "độ dốc",
+        "id": "sns.sa.vi.slope.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.slope.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.diagram.line",
+          "res.sa.img.slope-noun",
+          "res.sa.aud.slope-noun",
+          "res.sa.lnk.slope-noun",
+          "res.sa.vid.slope-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "How steep the line is; the coefficient of x.",
+        "exampleIds": [
+          "exm.sa.en.slope.noun.1.1"
+        ],
+        "gloss": "How steep the line is; the coefficient of x.",
+        "id": "sns.sa.en.slope-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.slope.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.slope.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A horizontal line has slope zero.",
+        "translation": "Đường nằm ngang có độ dốc bằng không.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.diagram.line",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://ddc67689924cc303da14f2af9cc4c658adbefd3ea1c0de254f48bd9483724239",
+            "mime": "image/png"
+          }
+        ],
+        "title": "Straight line diagram",
+        "type": "image"
+      },
+      {
+        "fromId": "sns.sa.vi.slope.noun.1",
+        "id": "lnk.sa.en.glossary.021",
+        "kind": "relation",
+        "toId": "sns.sa.vi.intercept.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.slope.noun.1",
+        "id": "lnk.sa.en.glossary.022",
+        "kind": "relation",
+        "toId": "sns.sa.vi.line.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.slope.noun.1",
+        "id": "lnk.sa.en.glossary.023",
+        "kind": "relation",
+        "toId": "sns.sa.vi.graph.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "fb6b16fe695412bbf4497286dd6b172a5cc8a18ff0cb86cafa62633b80d868f5": [
+      {
+        "forms": [
+          "Four-wheel drive",
+          "four_wheel_drive"
+        ],
+        "id": "lex.sa.en.four.wheel.drive",
+        "kind": "lexeme",
+        "lemma": "Four-wheel drive",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.four.wheel.drive.alt"
+        ]
+      },
+      {
+        "definition": "Power is sent to all four wheels. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "Power is sent to all four wheels.",
+        "id": "sns.sa.en.four.wheel.drive.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.four.wheel.drive",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "fb6b92ed1985a86366cef36bb2d2da1c7089692afe9fac43a78c9b81f958d57b": [
+      {
+        "forms": [
+          "Submersible pump",
+          "pump_submersible_pump"
+        ],
+        "id": "lex.sa.daily_skills.pump_submersible_pump",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Submersible pump",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.pump_submersible_pump.alt",
+          "sns.sa.daily_skills.pump_submersible_pump.alt.ja",
+          "sns.sa.daily_skills.pump_submersible_pump.alt.ko",
+          "sns.sa.daily_skills.pump_submersible_pump.alt.pt_br",
+          "sns.sa.daily_skills.pump_submersible_pump.alt.id",
+          "sns.sa.daily_skills.pump_submersible_pump.alt.th",
+          "sns.sa.daily_skills.pump_submersible_pump.alt.tr"
+        ]
+      },
+      {
+        "definition": "A pump whose motor is sealed in a case that works under water.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_submersible_pump.1.1"
+        ],
+        "gloss": "A pump whose motor is sealed in a case that works under water.",
+        "id": "sns.sa.daily_skills.pump_submersible_pump.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.pump_submersible_pump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "モーターなどが防水の筐体に密封され、水中または液中の.Normal境で動作するポンプ。設置に必要な最低水位を確かめる。",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_submersible_pump.1.1.ja"
+        ],
+        "gloss": "水中でも動作するようにモーターを密封したポンプ。",
+        "id": "sns.sa.daily_skills.pump_submersible_pump.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.pump_submersible_pump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "모터가 밀폐된 케이스에 들어 있어 물속에서 작동하도록 만든 펌프이다. 우물이나 물탱크의 바닥 가까이 설치해 물을 끌어올린다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_submersible_pump.1.1.ko"
+        ],
+        "gloss": "모터가 밀폐된 케이스에 들어 있어 물속에서 작동하는 펌프.",
+        "id": "sns.sa.daily_skills.pump_submersible_pump.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.pump_submersible_pump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bomba com motor protegido em um invólucro vedado, projetada para funcionar totalmente submersa.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_submersible_pump.1.1.pt_br"
+        ],
+        "gloss": "Bomba cujo motor fica protegido em um invólucro e funciona submersa.",
+        "id": "sns.sa.daily_skills.pump_submersible_pump.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.pump_submersible_pump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pompa dengan motor tersegel dalam selubung yang dapat bekerja di bawah air.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_submersible_pump.1.1.id"
+        ],
+        "gloss": "Pompa dengan motor tersegel dalam selubung yang dapat bekerja di bawah air.",
+        "id": "sns.sa.daily_skills.pump_submersible_pump.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.pump_submersible_pump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ปั๊มที่มีมอเตอร์ปิดสนิทและสามารถทำงานใต้น้ำได้ โดยมักแขวนอยู่ในบ่อหรือกับน้ำท่วมขัง",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_submersible_pump.1.1.th"
+        ],
+        "gloss": "ปั๊มที่มีมอเตอร์ปิดสนิทและสามารถทำงานใต้น้ำ",
+        "id": "sns.sa.daily_skills.pump_submersible_pump.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.pump_submersible_pump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Motoru kapalı ve su geçirmez bir gövde içinde bulunan, su altında çalışabilen pompa.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_submersible_pump.1.1.tr"
+        ],
+        "gloss": "Motoru su altında çalışacak biçimde yalıtılmış pompa.",
+        "id": "sns.sa.daily_skills.pump_submersible_pump.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.pump_submersible_pump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_submersible_pump.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dalgıç pompa, kuyunun içinde bir kabloya asılıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_submersible_pump.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ปั๊มแบบจมแขวนอยู่บนสายเคเบิลภายในบ่อ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_submersible_pump.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pompa celup tergantung pada kabel di dalam sumur.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_submersible_pump.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Uma bomba submersa fica pendurada por um cabo dentro do poço.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_submersible_pump.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "우물 안의 잠수형 펌프는 케이블에 매달려 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_submersible_pump.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "水中ポンプはケーブルの末端に吊り下げられる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_submersible_pump.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A submersible pump hangs on a cable inside the well.",
+        "translation": "Một bơm chìm treo trên cáp bên trong giếng.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "fb8a99ac0ed410c80d292ab85578b992a940dd82602e59b99e552829dc092c55": [
+      {
+        "forms": [
+          "Aptitude",
+          "intel_aptitude"
+        ],
+        "id": "lex.sa.mind.intel_aptitude",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Aptitude",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intel_aptitude.alt",
+          "sns.sa.mind.intel_aptitude.alt.ja",
+          "sns.sa.mind.intel_aptitude.alt.ko",
+          "sns.sa.mind.intel_aptitude.alt.pt_br",
+          "sns.sa.mind.intel_aptitude.alt.id",
+          "sns.sa.mind.intel_aptitude.alt.th",
+          "sns.sa.mind.intel_aptitude.alt.tr"
+        ]
+      },
+      {
+        "definition": "The capacity to learn a particular kind of work quickly and well.",
+        "exampleIds": [
+          "exm.sa.mind.intel_aptitude.1.1"
+        ],
+        "gloss": "The capacity to learn a particular kind of work quickly and well.",
+        "id": "sns.sa.mind.intel_aptitude.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intel_aptitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある種類の仕事を早く 而且 習熟して 上手にSHIP 努める才能や適性。特定の仕事に対してnickる ORDER.",
+        "exampleIds": [
+          "exm.sa.mind.intel_aptitude.1.1.ja"
+        ],
+        "gloss": "ある種類の仕事を sensitization 覚えた儿的ácné swiftly and well. ある種類の仕事を sensitiv 早くRaise.",
+        "id": "sns.sa.mind.intel_aptitude.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intel_aptitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "특정 종류의 일을 상대적으로 빠르게 배우고 잘 해낼 수 있는 타고난 학습 능력. 현재의 숙련도나 경력과 구별된다.",
+        "exampleIds": [
+          "exm.sa.mind.intel_aptitude.1.1.ko"
+        ],
+        "gloss": "특정한 일을 빠르게 또 잘 익히는 능력.",
+        "id": "sns.sa.mind.intel_aptitude.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intel_aptitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Disposição natural ou capacidade demonstrada para aprender com facilidade determinada atividade. Não significa que a pessoa já tenha experiência ou domínio pleno na área.",
+        "exampleIds": [
+          "exm.sa.mind.intel_aptitude.1.1.pt_br"
+        ],
+        "gloss": "Capacidade de aprender rapidamente e bem um tipo específico de trabalho.",
+        "id": "sns.sa.mind.intel_aptitude.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intel_aptitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bakat untuk mempelajari jenis pekerjaan tertentu dengan cepat dan baik. Kata ini menekankan kecakapan alami yang tampak saat seseorang mulai mengerjakan tugas, bukan hasil kerja yang telah selesai.",
+        "exampleIds": [
+          "exm.sa.mind.intel_aptitude.1.1.id"
+        ],
+        "gloss": "Bakat untuk mempelajari jenis pekerjaan tertentu dengan cepat dan baik.",
+        "id": "sns.sa.mind.intel_aptitude.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intel_aptitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสามารถโน้มเอิงคือความพรสมบัติในการเรียนรู้และทำงานชนิดหนึ่ง ไม่ใช่ความรู้ที่มีอยู่แล้ว จึงพบได้ในคนที่ยังไม่เคยทำงานนั้น และวัดจากความเร็วและคุณภาพที่เกิดขึ้นระหว่างการเรียน",
+        "exampleIds": [
+          "exm.sa.mind.intel_aptitude.1.1.th"
+        ],
+        "gloss": "ความสามารถในการเรียนรู้งานบางชนิดได้เร็วและดี",
+        "id": "sns.sa.mind.intel_aptitude.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intel_aptitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin belirli bir tür işi hızlı, isabetli ve az hatayla öğrenme yatkınlığıdır. İlgili deneyimi de içerebilir, ancak deneyimden bağımsız doğal eğilimi ifade eder.",
+        "exampleIds": [
+          "exm.sa.mind.intel_aptitude.1.1.tr"
+        ],
+        "gloss": "Belirli bir işi hızlı ve iyi öğrenme kapasitesidir.",
+        "id": "sns.sa.mind.intel_aptitude.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intel_aptitude",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intel_aptitude.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "İşe başladıktan bir hafta içinde isabetli çalıştığı için bu işe yatkınlığı vardı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intel_aptitude.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เธอมีความสามารถโน้มเอิงต่องานนี้ เธอทำได้แม่นยำภายในหนึ่งสัปดาห์หลังมาถึง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intel_aptitude.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dia memiliki bakat untuk pekerjaan itu: akurasinya sudah baik hanya dalam seminggu setelah datang.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intel_aptitude.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ela tinha aptidão para o trabalho: em uma semana de chegada, já era precisa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intel_aptitude.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 그 일에 적성이 있었다. 입사한 지 일주일 만에 정확하게 작업했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intel_aptitude.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女にはその仕事の適性があり、入社一週間で正確にORI な Ga 達成する。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intel_aptitude.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She had an aptitude for the work: she was accurate within a week of arriving.",
+        "translation": "Cô ấy có năng khiếu cho công việc này: chỉ sau một ngày đến nơi, cô ấy đã đạt độ chính xác cao.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "fba951a1ab3aa43d9bd750dc6af6aa961141b8c105509627b55996947d6ce257": [
+      {
+        "forms": [
+          "Loss aversion",
+          "dpn_loss_aversion"
+        ],
+        "id": "lex.sa.work.dpn_loss_aversion",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Loss aversion",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.dpn_loss_aversion.alt",
+          "sns.sa.work.dpn_loss_aversion.alt.ja",
+          "sns.sa.work.dpn_loss_aversion.alt.ko",
+          "sns.sa.work.dpn_loss_aversion.alt.pt_br",
+          "sns.sa.work.dpn_loss_aversion.alt.id",
+          "sns.sa.work.dpn_loss_aversion.alt.th",
+          "sns.sa.work.dpn_loss_aversion.alt.tr"
+        ]
+      },
+      {
+        "definition": "The weight a loss carries compared with a gain of the same size.",
+        "exampleIds": [
+          "exm.sa.work.dpn_loss_aversion.1.1"
+        ],
+        "gloss": "The weight a loss carries compared with a gain of the same size.",
+        "id": "sns.sa.work.dpn_loss_aversion.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.dpn_loss_aversion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "同じ大きさの利益よりも損失のほうが心理的に重く、損失を避けることを強く求める傾向。損失回避性と呼ばれる。",
+        "exampleIds": [
+          "exm.sa.work.dpn_loss_aversion.1.1.ja"
+        ],
+        "gloss": "同じ大きさの損失が、獲得より重いと感じる度合い。",
+        "id": "sns.sa.work.dpn_loss_aversion.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.dpn_loss_aversion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "손실 회피성이란 동일한 금액의 이득보다 손실에 더 큰 심리적 가치를 두는 성향이다. 단순히 손실을 싫어하는 것보다 손실과 이득의 상대적인 무게를 강조한다.",
+        "exampleIds": [
+          "exm.sa.work.dpn_loss_aversion.1.1.ko"
+        ],
+        "gloss": "같은 크기의 손실이 같은 크기의 이득보다 더 크게 느껴지는 성향.",
+        "id": "sns.sa.work.dpn_loss_aversion.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.dpn_loss_aversion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Aversão em que perder um valor causa mais desconforto e parece mais importante na decisão do que ganhar o mesmo valor. Isso descreve o impacto psicológico da perda, não uma avaliação objetiva de seu valor.",
+        "exampleIds": [
+          "exm.sa.work.dpn_loss_aversion.1.1.pt_br"
+        ],
+        "gloss": "Uma perda costuma pesar mais do que um ganho de valor equivalente.",
+        "id": "sns.sa.work.dpn_loss_aversion.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.dpn_loss_aversion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam penilaian risiko, kerugian dengan nilai yang sama umumnya terasa lebih berat daripada keuntungan. Konsep ini menjelaskan mengapa orang cenderung menghindari kerugian daripadaologous mencari keuntungan setara.",
+        "exampleIds": [
+          "exm.sa.work.dpn_loss_aversion.1.1.id"
+        ],
+        "gloss": "Kecenderungan untuk menghindari kerugian lebih besar daripada mencari keuntungan dengan nilai yang sama.",
+        "id": "sns.sa.work.dpn_loss_aversion.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.dpn_loss_aversion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แนวคิดว่าความเสียหายหรือการสูญเสียสร้างความรู้สึกแย่กว่าความพอใจที่ได้รับกำไรในจำนวนเท่ากัน นิยมใช้อธิบายการตัดสินใจที่ปฏิเสธข้อเสนอซึ่งเสี่ยงสูญเสีย",
+        "exampleIds": [
+          "exm.sa.work.dpn_loss_aversion.1.1.th"
+        ],
+        "gloss": "ความรู้สึกว่าความสูญเสียหนักกว่าความพอใจจากกำไรที่เท่ากัน",
+        "id": "sns.sa.work.dpn_loss_aversion.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.dpn_loss_aversion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kayıpların, aynı miktardaki kazançlardan daha fazla dikkat çekmesi ve daha sert hissedilmesi hâlidir. Bu eğilim, kaybetmeme isteğini kazanç elde etme isteğinden daha güçlü kılabilir.",
+        "exampleIds": [
+          "exm.sa.work.dpn_loss_aversion.1.1.tr"
+        ],
+        "gloss": "Aynı büyüklükteki kaybın, kazanca göre daha ağır hissettirilmesi.",
+        "id": "sns.sa.work.dpn_loss_aversion.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.dpn_loss_aversion",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.dpn_loss_aversion.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Aynı 20.000 lira kayıp olarak canını sıkarken, birikim olarak sevindirmişti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.dpn_loss_aversion.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การเสียเงินยี่สิบพันบาททำให้เธอเจ็บปวดมากกว่าการได้เงินยี่สิบพันบาททำให้เธอดีใจ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.dpn_loss_aversion.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kerugian sebesar dua puluh juta terasa lebih berat daripada keuntungan dua puluh juta yang sama nilainya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.dpn_loss_aversion.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Perder R$ 20 mil incomodou mais do que ganhar R$ 20 mil ajudou.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.dpn_loss_aversion.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "2만 원을 잃은 아쉬움은 2만 원을 아낀 기분보다 더 컸다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.dpn_loss_aversion.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "同じ2万円なら、節約による利益よりも損失のほうが重く感じられた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.dpn_loss_aversion.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The same 20,000 hurt as a loss and helped as a saving.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "fbb0a2271f10c1d67cd322cc8125b4cb22725c5b9fd3f6a4960f2bba40737e5c": [
+      {
+        "forms": [
+          "Gaslighting vocabulary",
+          "gd_gaslighting_vocabulary"
+        ],
+        "id": "lex.sa.mind.gd_gaslighting_vocabulary",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Gaslighting vocabulary",
+        "pos": "phrase",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.gd_gaslighting_vocabulary.alt",
+          "sns.sa.mind.gd_gaslighting_vocabulary.alt.ja",
+          "sns.sa.mind.gd_gaslighting_vocabulary.alt.ko",
+          "sns.sa.mind.gd_gaslighting_vocabulary.alt.pt_br",
+          "sns.sa.mind.gd_gaslighting_vocabulary.alt.id",
+          "sns.sa.mind.gd_gaslighting_vocabulary.alt.th",
+          "sns.sa.mind.gd_gaslighting_vocabulary.alt.tr"
+        ]
+      },
+      {
+        "definition": "The small set of fixed sentences used to rewrite an account, at work and at home.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting_vocabulary.1.1"
+        ],
+        "gloss": "The small set of fixed sentences used to rewrite an account, at work and at home.",
+        "id": "sns.sa.mind.gd_gaslighting_vocabulary.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.gd_gaslighting_vocabulary",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "出来事を否定したり、相手の記憶を誤りだと断定したりする固定的な言い回しの集合である。職場や家庭で反復して用いられる。",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting_vocabulary.1.1.ja"
+        ],
+        "gloss": "記憶を書き換えるため繰り返し使われる定型句の集合。",
+        "id": "sns.sa.mind.gd_gaslighting_vocabulary.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.gd_gaslighting_vocabulary",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "기억을 흔들도록 반복되는 짧고 고정된 문장들로, 공동된 사실을 부인하거나 상대의 기억을 부정하는 데 쓰인다.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting_vocabulary.1.1.ko"
+        ],
+        "gloss": "일과와 가정에서 사건의 기록을 뒤틀 때 쓰는 정해진 문장들의 모음이다.",
+        "id": "sns.sa.mind.gd_gaslighting_vocabulary.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.gd_gaslighting_vocabulary",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Expressões repetitivas empregadas no trabalho ou em casa para alterar uma versão compartilhada e deixar a outra pessoa em dúvida sobre a própria memória.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting_vocabulary.1.1.pt_br"
+        ],
+        "gloss": "Conjunto de frases prontas usadas para reescrever uma versão dos fatos.",
+        "id": "sns.sa.mind.gd_gaslighting_vocabulary.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.gd_gaslighting_vocabulary",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Kosakata gaslighting adalah frasa atau kalimat yang biasa dipakai untuk menyangkal kembali peristiwa yang sudah disepakati, baik di tempat kerja maupun di rumah. Frasa-frasa ini merupakan pola yang disengaja, bukan Wilder KJV mustard in a sentence.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting_vocabulary.1.1.id"
+        ],
+        "gloss": "Kosakata gaslighting adalah kumpulan kalimat tetap yang digunakan untuk menulis ulang sebuah kesaksian.",
+        "id": "sns.sa.mind.gd_gaslighting_vocabulary.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.gd_gaslighting_vocabulary",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "วลีสั้น ๆ ที่ใช้ซ้ำเพื่อปฏิเสธหรือแก้ไขเรื่องราวร่วมจนผู้อื่นเริ่มสงสัยความทรงจำ ทั้งที่ทำงานและที่บ้าน",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting_vocabulary.1.1.th"
+        ],
+        "gloss": "ชุดวลีที่ใช้ปรับเปลี่ยนเรื่องเล่าอย่างต่อเนื่อง",
+        "id": "sns.sa.mind.gd_gaslighting_vocabulary.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.gd_gaslighting_vocabulary",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "İş ve ev yaşamında olumsulamayı sürdürmek için tekrarlanan sabit sözler. Karşı tarafın belleğini yanlış olduğuna inandırmaya yöneliktir.",
+        "exampleIds": [
+          "exm.sa.mind.gd_gaslighting_vocabulary.1.1.tr"
+        ],
+        "gloss": "Bir anlatıyı yeniden yazmak için kullanılan hazır cümlelerden oluşan küçük söz varlığı.",
+        "id": "sns.sa.mind.gd_gaslighting_vocabulary.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.gd_gaslighting_vocabulary",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting_vocabulary.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Olumsulama kalıpları kısadır: “Yanlış hatırlıyorsun”, “Bunu hiç söylemedim”.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting_vocabulary.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ชุดวลีที่ใช้กลับเรื่องราวมีเพียงไม่กี่แบบ เช่น “คุณจำผิด” และ “ฉันไม่เคยพูดแบบนั้น”",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting_vocabulary.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kosakata gaslighting itu singkat: “Kamu salah ingat” dan “Aku tidak pernah mengatakannya.”",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting_vocabulary.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O vocabulário de gaslighting era curto: “Você está se confundindo”, “Eu nunca disse isso”.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting_vocabulary.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "기억 조작 표현은 짧다. ‘당신이 잘못 기억한 거다’, ‘나는 그런 말 한 적 없다’처럼.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting_vocabulary.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "この定型句には「記憶が間違っている」「そんなことは言っていない」などがある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.gd_gaslighting_vocabulary.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The gaslighting vocabulary is short: you are misremembering, I never said that.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "fbb27fbdc4f4dd04e21693a3b56c311cd37f743174c1bad4fc27467605426c28": [
+      {
+        "forms": [
+          "between"
+        ],
+        "id": "lex.sa.en.between.preposition",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "between",
+        "pos": "preposition",
+        "senseIds": [
+          "sns.sa.vi.between.preposition.1",
+          "sns.sa.en.between-preposition.alt"
+        ]
+      },
+      {
+        "definition": "Ở khoảng ở giữa hai thứ.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.19"
+        ],
+        "gloss": "giữa",
+        "id": "sns.sa.vi.between.preposition.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.between.preposition",
+        "pos": "preposition",
+        "revision": 1
+      },
+      {
+        "definition": "In the space or time between two things.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.19"
+        ],
+        "gloss": "In the space separating two things.",
+        "id": "sns.sa.en.between-preposition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.between.preposition",
+        "pos": "preposition",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.19",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Swipe between clips.",
+        "translation": "Vuốt qua lại giữa các đoạn video.",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

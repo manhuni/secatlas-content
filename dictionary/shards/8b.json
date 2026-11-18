@@ -1,0 +1,806 @@
+{
+  "records": {
+    "8b1a85cec040d719696b5e88e3aad225ddd857da9268dfcfd9752ecb296fdd36": [
+      {
+        "forms": [
+          "Dry run",
+          "pump_dry_run"
+        ],
+        "id": "lex.sa.daily_skills.pump_dry_run",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Dry run",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.pump_dry_run.alt",
+          "sns.sa.daily_skills.pump_dry_run.alt.ja",
+          "sns.sa.daily_skills.pump_dry_run.alt.ko",
+          "sns.sa.daily_skills.pump_dry_run.alt.pt_br",
+          "sns.sa.daily_skills.pump_dry_run.alt.id",
+          "sns.sa.daily_skills.pump_dry_run.alt.th",
+          "sns.sa.daily_skills.pump_dry_run.alt.tr"
+        ]
+      },
+      {
+        "definition": "The pump turning without water around it, so that the motor has nothing to cool it.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_dry_run.1.1"
+        ],
+        "gloss": "The pump turning without water around it, so that the motor has nothing to cool it.",
+        "id": "sns.sa.daily_skills.pump_dry_run.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.pump_dry_run",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ポンプを水なしで回転させる状態。水中のポンプでは冷媒によってモーターの熱が除かれるため、这个样子が続けばモーターが過熱し、故障につながる。",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_dry_run.1.1.ja"
+        ],
+        "gloss": "ポンプの周囲に水がない状態で、回転したままだこと。",
+        "id": "sns.sa.daily_skills.pump_dry_run.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.pump_dry_run",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "펌프가 물이 없는 상태에서 회전하는 일이다. 이 상태로 오래 작동하면 모터에 열이 쌓여 손상될 수 있다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_dry_run.1.1.ko"
+        ],
+        "gloss": "물 없이 펌프가 돌아가는 상태로, 모터를 냉각할 수가 없는 상황이다.",
+        "id": "sns.sa.daily_skills.pump_dry_run.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.pump_dry_run",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Funcionamento da bomba sem água ao redor, de modo que o motor não tem o que resfriá-lo.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_dry_run.1.1.pt_br"
+        ],
+        "gloss": "Funcionamento da bomba sem água ao redor, de modo que o motor não tem o que resfriá-lo.",
+        "id": "sns.sa.daily_skills.pump_dry_run.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.pump_dry_run",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kondisi pompa yang berputar tanpa air sehingga motornya tidak memiliki pendingin. Kondisi ini dapat merusak motorpompa dan harus dihindari.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_dry_run.1.1.id"
+        ],
+        "gloss": "Pompa yang berputar tanpa air sehingga motornya tidak memiliki pendingin.",
+        "id": "sns.sa.daily_skills.pump_dry_run.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.pump_dry_run",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การหมุนของปั๊มขณะไม่มีน้ำรอบตัวเครื่อง ทำให้มอเตอร์ไม่มีน้ำช่วยระบายความร้อนและอาจเสียหายได้",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_dry_run.1.1.th"
+        ],
+        "gloss": "การหมุนของปั๊มขณะไม่มีน้ำรอบตัวเครื่อง",
+        "id": "sns.sa.daily_skills.pump_dry_run.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.pump_dry_run",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pompanın çevresinde su olmadan dönmesi; motorun soğutacak su bulamaması. Su altı pompalarda motorun aşırı ısınmasına ve zarar görmesine yol açabilir.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_dry_run.1.1.tr"
+        ],
+        "gloss": "Pompanın çevresinde su olmadan dönmesi; motorun soğutacak su bulamaması.",
+        "id": "sns.sa.daily_skills.pump_dry_run.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.pump_dry_run",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_dry_run.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kuru çalışma, su altı pompasının motorunu ısıtır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_dry_run.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การหมุนโดยไม่มีน้ำทำให้มอเตอร์ของปั๊มจมเกิดความร้อนสะสม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_dry_run.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Berputar tanpa air panaskan motor pompa yang terendam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_dry_run.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O funcionamento a seco aquece o motor de uma bomba deEncryptagem submersa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_dry_run.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "잠수형 펌프를 건조 운전하면 모터가 뜨거워진다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_dry_run.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "水中ポンプを空転させると、モーターが熱くなる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_dry_run.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A dry run heats the motor of a submersible pump.",
+        "translation": "Chạy khô làm nóng động cơ của bơm chìm dưới nước.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "8b363189fce21ea28240a5308b192e7af260975d29398aa93d6eda2155597bc0": [
+      {
+        "forms": [
+          "Deep dive",
+          "deep_dive"
+        ],
+        "id": "lex.sa.work.deep_dive",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Deep dive",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.deep_dive.alt",
+          "sns.sa.work.deep_dive.alt.ja",
+          "sns.sa.work.deep_dive.alt.ko",
+          "sns.sa.work.deep_dive.alt.pt_br",
+          "sns.sa.work.deep_dive.alt.id",
+          "sns.sa.work.deep_dive.alt.th",
+          "sns.sa.work.deep_dive.alt.tr"
+        ]
+      },
+      {
+        "definition": "A long, detailed examination of one subject.",
+        "exampleIds": [
+          "exm.sa.work.deep_dive.1.1"
+        ],
+        "gloss": "A long, detailed examination of one subject.",
+        "id": "sns.sa.work.deep_dive.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.deep_dive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一つの問題領域について、表面だけでなく$dataや根拠まで詳しく検討する作業です。",
+        "exampleIds": [
+          "exm.sa.work.deep_dive.1.1.ja"
+        ],
+        "gloss": "一つの主題を長く詳しく調べること。",
+        "id": "sns.sa.work.deep_dive.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.deep_dive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 문제나 데이터를 표면적으로 살피지 않고 깊이 조사하고 분석하는 작업 또는 탐구이다.",
+        "exampleIds": [
+          "exm.sa.work.deep_dive.1.1.ko"
+        ],
+        "gloss": "한 주제를 오래 자세히 파고드는 심층 분석이다.",
+        "id": "sns.sa.work.deep_dive.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.deep_dive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estudo aprofundado de um tema específico, com bastante tempo dedicado a analisar dados, detalhes e possíveis implicações. É usado principalmente em contextos profissionais e acadêmicos.",
+        "exampleIds": [
+          "exm.sa.work.deep_dive.1.1.pt_br"
+        ],
+        "gloss": "Análise longa e detalhada de um único assunto.",
+        "id": "sns.sa.work.deep_dive.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.deep_dive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kajian yang panjang dan teliti terhadap satu topik tertentu, biasanya dilakukan untuk memahami detail dan berbagai masalah yang berkaitan dengannya.",
+        "exampleIds": [
+          "exm.sa.work.deep_dive.1.1.id"
+        ],
+        "gloss": "Pemeriksaan panjang dan mendalam atas satu pokok bahasan.",
+        "id": "sns.sa.work.deep_dive.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.deep_dive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การตรวจสอบ วิเคราะห์ หรือศึกษาเรื่องหนึ่งอย่างละเอียด โดยลงลึกมากกว่าการพิจารณาในระดับผิวเผิน",
+        "exampleIds": [
+          "exm.sa.work.deep_dive.1.1.th"
+        ],
+        "gloss": "การศึกษาหัวข้อเดียวอย่างละเอียดและลึกซึ้ง",
+        "id": "sns.sa.work.deep_dive.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.deep_dive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir konunun bütün ayrıntılarına inerek uzun süre ele alınmasıdır. Genellikle kapsamlı bir analiz veya çalışmayı ifade eder.",
+        "exampleIds": [
+          "exm.sa.work.deep_dive.1.1.tr"
+        ],
+        "gloss": "Tek bir konuyu uzun ve ayrıntılı biçimde inceleme.",
+        "id": "sns.sa.work.deep_dive.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.deep_dive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.deep_dive.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We did a deep dive on the churn numbers before the review.",
+        "translation": "Değerlendirme öncesinde müşteri kaybı sayıları üzerinde ayrıntılı bir inceleme yaptık.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.deep_dive.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We did a deep dive on the churn numbers before the review.",
+        "translation": "ก่อนการประเมิน เราได้วิเคราะห์ตัวเลขการเลิกใช้บริการอย่างละเอียด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.deep_dive.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We did a deep dive on the churn numbers before the review.",
+        "translation": "Kami melakukan telaahan mendalam terhadap angka pelanggan yang berhenti berlangganan sebelum rapat tinjauan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.deep_dive.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We did a deep dive on the churn numbers before the review.",
+        "translation": "Fizemos uma análise aprofundada dos dados de cancelamento antes da reunião de revisão.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.deep_dive.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We did a deep dive on the churn numbers before the review.",
+        "translation": "평가 회의 전에 고객 이탈률에 대해 딥 다이브를 했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.deep_dive.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We did a deep dive on the churn numbers before the review.",
+        "translation": "会議の前に、利用者の離脱率について詳細に分析しました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.deep_dive.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We did a deep dive on the churn numbers before the review.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "8b47045eb7b8ca42aa967f33ee1d014ba89f8d1ac207426b482d34b5c0d90935": [
+      {
+        "forms": [
+          "cancel",
+          "cancels",
+          "canceled",
+          "cancelled",
+          "canceling",
+          "cancelling"
+        ],
+        "id": "lex.sa.en.cancel.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "cancel",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.cancel.verb",
+          "prn.sa.en.cancel.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.cancel.verb.1",
+          "sns.sa.en.cancel-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.cancel-verb",
+        "id": "prn.sa.en.cancel.verb",
+        "ipa": "/ˈkænsl/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.cancel.verb.us",
+        "ipa": "/ˈkæn.səl/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Loại hạng tử giống nhau ở hai vế hoặc tử và mẫu.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.cancel.verb.1.1",
+          "exm.sa.en.cancel-verb.more.01",
+          "exm.sa.en.cancel-verb.more.02"
+        ],
+        "gloss": "rút gọn; triệt tiêu",
+        "id": "sns.sa.vi.cancel.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.cancel.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.cancel-verb",
+          "res.sa.aud.cancel-verb",
+          "res.sa.lnk.cancel-verb",
+          "res.sa.vid.cancel-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Informal for divide both sides by the same factor. Prefer the precise verb.",
+        "exampleIds": [
+          "exm.sa.en.cancel.verb.1.1"
+        ],
+        "gloss": "Informal for divide both sides by the same factor. Prefer the precise verb.",
+        "id": "sns.sa.en.cancel-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.cancel.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.cancel.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The +3 and −3 cancel on the left side.",
+        "translation": "+3 và −3 triệt tiêu ở vế trái.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.cancel.verb.1",
+        "id": "lnk.sa.en.glossary.067",
+        "kind": "relation",
+        "toId": "sns.sa.vi.subtract.verb.1",
+        "type": "related_to"
+      }
+    ],
+    "8b7ef7e16a6c47ec28a3461bc19aa14caa39edfd8f4ce8ea8ea252adee08cc88": [
+      {
+        "forms": [
+          "Intelligence",
+          "intel_intelligence"
+        ],
+        "id": "lex.sa.mind.intel_intelligence",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Intelligence",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intel_intelligence.alt",
+          "sns.sa.mind.intel_intelligence.alt.ko",
+          "sns.sa.mind.intel_intelligence.alt.pt_br",
+          "sns.sa.mind.intel_intelligence.alt.id",
+          "sns.sa.mind.intel_intelligence.alt.th",
+          "sns.sa.mind.intel_intelligence.alt.tr",
+          "sns.sa.mind.intel_intelligence.alt.ja"
+        ]
+      },
+      {
+        "definition": "The ability to reason, to solve a problem that is not written down, and to adapt when the situation changes.",
+        "exampleIds": [
+          "exm.sa.mind.intel_intelligence.1.1"
+        ],
+        "gloss": "The ability to reason, to solve a problem that is not written down, and to adapt when the situation changes.",
+        "id": "sns.sa.mind.intel_intelligence.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intel_intelligence",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "주어진 정보를 추론하고, 익숙하지 않은 문제를 해결하며, 상황이 바뀌면 적응하는 능력이다. 학습이나 경험으로 형성되는 경우도 있다.",
+        "exampleIds": [
+          "exm.sa.mind.intel_intelligence.1.1.ko"
+        ],
+        "gloss": "말로 주어지지 않은 문제를 풀고 상황에 맞게 대처하는 능력이다.",
+        "id": "sns.sa.mind.intel_intelligence.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intel_intelligence",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Capacidade de raciocinar, resolver problemas que não foram previamente apresentados e adaptar-se quando as circunstâncias mudam. Não se limita ao conhecimento acumulado.",
+        "exampleIds": [
+          "exm.sa.mind.intel_intelligence.1.1.pt_br"
+        ],
+        "gloss": "Capacidade de raciocinar, resolver problemas não escritos e adaptar-se quando a situação muda.",
+        "id": "sns.sa.mind.intel_intelligence.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intel_intelligence",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kemampuan bernalar, memecahkan masalah yang tidak tertulis, dan beradaptasi terhadap perubahan situasi. Konsep ini mencakup kemampuan belajar dan menggunakan pengetahuan dalam konteks baru.",
+        "exampleIds": [
+          "exm.sa.mind.intel_intelligence.1.1.id"
+        ],
+        "gloss": "Kemampuan bernalar, memecahkan masalah yang tidak tertulis, dan beradaptasi terhadap perubahan situasi.",
+        "id": "sns.sa.mind.intel_intelligence.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intel_intelligence",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสามารถในการใช้เหตุผล แก้ปัญหาที่ไม่ได้เขียนไว้ และปรับตัวเมื่อสถานการณ์เปลี่ยน ไม่ควรใช้คำนี้แทนความรู้หรือทักษะที่ได้จากการฝึกเพียงอย่างเดียว",
+        "exampleIds": [
+          "exm.sa.mind.intel_intelligence.1.1.th"
+        ],
+        "gloss": "ความสามารถในการใช้เหตุผล แก้ปัญหาที่ไม่ได้เขียนไว้ และปรับตัวเมื่อสถานการณ์เปลี่ยน",
+        "id": "sns.sa.mind.intel_intelligence.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intel_intelligence",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Mantık yürüterek sonuçlara ulaşma, yazılı olmayan sorunları çözme ve koşullar değiştiğinde uyum sağlama yeteneği.",
+        "exampleIds": [
+          "exm.sa.mind.intel_intelligence.1.1.tr"
+        ],
+        "gloss": "Akıl yürütme, çözüm bulma ve değişen durumlara uyum sağlama yeteneği.",
+        "id": "sns.sa.mind.intel_intelligence.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intel_intelligence",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "推論し，明示されていない問題を解き，状況が変わっても適応する能力。学習や経験によって変化し，測定方法によって評価が異なる。",
+        "exampleIds": [
+          "exm.sa.mind.intel_intelligence.1.1.ja"
+        ],
+        "gloss": "推論し，书面されない問題を解き，状況の変化に適応する能力。",
+        "id": "sns.sa.mind.intel_intelligence.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intel_intelligence",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intel_intelligence.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Mej? 推論力? 彼女は，Sawbuck? 的少女?",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intel_intelligence.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Zekâ, onun daha önce hiç karşılaşmadığı bir işlemi çözmesini sağladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intel_intelligence.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความฉลาดช่วยให้เธอหาทางผ่านขั้นตอนการทำงานที่ไม่เคยเห็นมาก่อน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intel_intelligence.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kecerdasan memungkinkan dia menemukan jalan melalui prosedur yang belum pernah dijumpainya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intel_intelligence.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A inteligência permitiu que ela encontrasse o caminho em um procedimento que nunca havia visto antes.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intel_intelligence.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 처음 보는 절차를 헤매지 않고 찾아낼 만큼 지능이 높다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intel_intelligence.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Intelligence is what lets her find her way through a procedure she has never seen before.",
+        "translation": "Trí tuệ giúp cô ấy tìm được cách vượt qua một quy trình mà cô ấy chưa từng thấy trước đây.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "8b80eee620bb80ee0c6dc76fc616fa798d5d3c095758022968f97a2498e73bf3": [
+      {
+        "forms": [
+          "Heritability",
+          "intel_heritability"
+        ],
+        "id": "lex.sa.mind.intel_heritability",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Heritability",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intel_heritability.alt",
+          "sns.sa.mind.intel_heritability.alt.ko",
+          "sns.sa.mind.intel_heritability.alt.pt_br",
+          "sns.sa.mind.intel_heritability.alt.id",
+          "sns.sa.mind.intel_heritability.alt.th",
+          "sns.sa.mind.intel_heritability.alt.tr",
+          "sns.sa.mind.intel_heritability.alt.ja"
+        ]
+      },
+      {
+        "definition": "The share of the spread of scores inside a population that is attributable to genetic differences within that population.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1"
+        ],
+        "gloss": "The share of the spread of scores inside a population that is attributable to genetic differences within that population.",
+        "id": "sns.sa.mind.intel_heritability.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 집단 안에서 나타나는 점수 차이 중 유전적 차이로 설명할 수 있는 비율이다. 개인의 점수나 능력의 원인을 직접 말해 주지는 않는다.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.ko"
+        ],
+        "gloss": "어떤 집단 안에서 점수 차이의 일부가 유전적 차이 때문이라고 볼 수 있는 비율이다.",
+        "id": "sns.sa.mind.intel_heritability.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Parcela da variação de notas em uma população que pode ser atribuída às diferenças genéticas entre seus membros. Não diz quais genes causaram a nota de uma pessoa nem quanto o ambiente influenced.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.pt_br"
+        ],
+        "gloss": "Parcela da variação de notas em uma população atribuível às diferenças genéticas entre seus membros.",
+        "id": "sns.sa.mind.intel_heritability.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Porsi variasi skor dalam suatu populasi yang dapat dikaitkan dengan perbedaan genetik dalam populasi tersebut. Nilai ini menggambarkan populasi, bukan penyebab skor individu.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.id"
+        ],
+        "gloss": "Porsi variasi skor dalam suatu populasi yang dapat dikaitkan dengan perbedaan genetik dalam populasi tersebut.",
+        "id": "sns.sa.mind.intel_heritability.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สัดส่วนความแตกต่างของคะแนนในประชากรหนึ่งที่เป็นผลจากความแตกต่างทางพันธุกรรมภายในประชากรนั้น ค่านี้ไม่ได้บอกว่าคะแนนของบุคคลใดเกิดจากพันธุกรรมหรือสิ่งแวดล้อม เพราะเป็นค่าของกลุ่ม",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.th"
+        ],
+        "gloss": "สัดส่วนความแตกต่างของคะแนนในประชากรที่เป็นผลจากความแตกต่างทางพันธุกรรม",
+        "id": "sns.sa.mind.intel_heritability.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir popülasyon içindeki puanların yayılımının ne kadarının genetik farklılıklardan kaynaklandığını gösteren oran. Bu değer tek bir kişinin puanının nedenini belirlemez.",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.tr"
+        ],
+        "gloss": "Bir popülasyondaki puan farklılığının genetik farklılıklara bağlanabilen kısmı.",
+        "id": "sns.sa.mind.intel_heritability.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "集団内の得点のばらつきのうち、集団内の遺伝的差異による割合。環境の影響やある個人，得点の原因を直接示すものではない。",
+        "exampleIds": [
+          "exm.sa.mind.intel_heritability.1.1.ja"
+        ],
+        "gloss": "集団内の得点のばらつきのうち、集団内の遺伝的差異による割合。",
+        "id": "sns.sa.mind.intel_heritability.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intel_heritability",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "この集団の遺伝率は，生徒の得点のばらつきと遺伝との関連を示すが，ある生徒の得点の原因を説明するものではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Öğrenci grubu için hesaplanan kalıtılabilirlik, tek bir öğrencinin puanının nedenini açıklamaz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ค่าประมาณการถ่ายทอดทางพันธุกรรมของกลุ่มนักเรียนไม่ได้บอกสาเหตุของคะแนนของนักเรียนคนใดคนหนึ่ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Estimasi heritabilitas sekelompok siswa tidak memberi tahu apa yang menyebabkan skor satu siswa.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A estimativa de heritability de um grupo de estudantes nada diz sobre a causa da nota de um estudante específico.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "학생 집단의 유전력 추정치는 한 학생의 점수 원인을 알려 주지 않는다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intel_heritability.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The heritability estimate for a group of students says nothing about the cause of one student's score.",
+        "translation": "Ước lượng tính di truyền cho một nhóm học sinh không nói gì về nguyên nhân của điểm số của một học sinh cụ thể.",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

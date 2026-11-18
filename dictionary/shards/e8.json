@@ -1,0 +1,865 @@
+{
+  "records": {
+    "e8242498a3e07f1501745616a6ae6434aae1f5968e54d67afd514870a6683a00": [
+      {
+        "forms": [
+          "Sump",
+          "pump_sump"
+        ],
+        "id": "lex.sa.daily_skills.pump_sump",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Sump",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.pump_sump.alt",
+          "sns.sa.daily_skills.pump_sump.alt.ja",
+          "sns.sa.daily_skills.pump_sump.alt.ko",
+          "sns.sa.daily_skills.pump_sump.alt.pt_br",
+          "sns.sa.daily_skills.pump_sump.alt.id",
+          "sns.sa.daily_skills.pump_sump.alt.th",
+          "sns.sa.daily_skills.pump_sump.alt.tr"
+        ]
+      },
+      {
+        "definition": "A pit that collects water from a floor or a basement so that a pump can lift it.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_sump.1.1"
+        ],
+        "gloss": "A pit that collects water from a floor or a basement so that a pump can lift it.",
+        "id": "sns.sa.daily_skills.pump_sump.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.pump_sump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "床や地下にできた、水や廃液を集めるためのくぼみ。底にポンプを置き、集まった液を汲み出す。",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_sump.1.1.ja"
+        ],
+        "gloss": "床や地下の水を集め、ポンプで汲み出すためのピット。",
+        "id": "sns.sa.daily_skills.pump_sump.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.pump_sump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "바닥이나 지하실에 고인 물을 모으는 구덩이이다. 보통 배수구가 막히거나 물이 넘칠 때 펌프로 물을 빼낸다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_sump.1.1.ko"
+        ],
+        "gloss": "바닥 물을 모아 펌프로 빼낼 수 있도록 만든 구덩이.",
+        "id": "sns.sa.daily_skills.pump_sump.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.pump_sump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Cavidade ou caixa rebaixada que recebe a água de um piso ou porão, geralmente para permitir o bombeamento por uma bomba.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_sump.1.1.pt_br"
+        ],
+        "gloss": "Cavidade que coleta água do piso ou do subsolo para que uma bomba a bombeie.",
+        "id": "sns.sa.daily_skills.pump_sump.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.pump_sump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Lubang yang menampung air dari lantai atau basement agar dapat dipompa.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_sump.1.1.id"
+        ],
+        "gloss": "Lubang yang menampung air dari lantai atau basement agar dapat dipompa.",
+        "id": "sns.sa.daily_skills.pump_sump.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.pump_sump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "บ่อขนาดเล็กที่รองรับน้ำจากพื้นหรือห้องใต้ดิน และใช้รวบรวมน้ำให้ปั๊มสูบออกไปได้",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_sump.1.1.th"
+        ],
+        "gloss": "บ่อรองที่รองรับน้ำจากพื้นหรือห้องใต้ดินเพื่อให้ปั๊มสูบขึ้น",
+        "id": "sns.sa.daily_skills.pump_sump.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.pump_sump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Zemin veya bodrum katındaki suyu toplayan, pompanın suyu kaldırmasını sağlayan çukur.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_sump.1.1.tr"
+        ],
+        "gloss": "Zemin veya bodrum katındaki suyu toplayan çukur.",
+        "id": "sns.sa.daily_skills.pump_sump.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.pump_sump",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_sump.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Zemin dreni tıklandığında bodrumdaki sump çukuru dolar.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_sump.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "บ่อรองในห้องใต้ดินมีน้ำสะสมเมื่อท่อระบายน้ำจากพื้นอุดตัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_sump.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bak penampung di basement terisi penuh saat saluran air lantai tersumbat.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_sump.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A caixa de coleta no porão enche quando o ralo do piso obstrui.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_sump.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "바닥 배수구가 막히면 지하실의 집수정에 물이 찬다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_sump.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "床の排水口が詰まったとき、地下のピットに水がたまっていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_sump.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The sump in the basement pit fills when the floor drain backs up.",
+        "translation": "Hố thu nước trong hầm bị ngập khi cống thoát sàn bị tắc.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e84f85ada03f83187e3e1bf05dc3fd9ea0162e5072c17f3f9b33199a7b69c760": [
+      {
+        "forms": [
+          "side",
+          "sides"
+        ],
+        "id": "lex.sa.en.sides.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "sides",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.sides.noun",
+          "prn.sa.en.sides.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.sides.noun.1",
+          "sns.sa.en.sides-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.sides-noun",
+        "id": "prn.sa.en.sides.noun",
+        "ipa": "/saɪdz/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.sides.noun.us",
+        "ipa": "/saɪdz/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Biểu thức bên trái hoặc bên phải của dấu bằng.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.sides.noun.1.1",
+          "exm.sa.en.sides-noun.more.01",
+          "exm.sa.en.sides-noun.more.02"
+        ],
+        "gloss": "vế (phương trình)",
+        "id": "sns.sa.vi.sides.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.sides.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.sides-noun",
+          "res.sa.aud.sides-noun",
+          "res.sa.lnk.sides-noun",
+          "res.sa.vid.sides-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The expressions on either side of =.",
+        "exampleIds": [
+          "exm.sa.en.sides.noun.1.1"
+        ],
+        "gloss": "The expressions on either side of =.",
+        "id": "sns.sa.en.sides-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.sides.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.sides.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Keep the equation balanced on both sides.",
+        "translation": "Giữ phương trình cân bằng ở cả hai vế.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.sides.noun.1",
+        "id": "lnk.sa.en.glossary.048",
+        "kind": "relation",
+        "toId": "sns.sa.vi.balanced.adjective.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.sides.noun.1",
+        "id": "lnk.sa.en.glossary.049",
+        "kind": "relation",
+        "toId": "sns.sa.vi.equals.verb.1",
+        "type": "related_to"
+      }
+    ],
+    "e856898b16ccb4b8947611b9e9a01d7bb3cb3efe094ca934e0bc010b3a52d777": [
+      {
+        "forms": [
+          "deal-breaker",
+          "msa_deal_breaker"
+        ],
+        "id": "lex.sa.social.msa_deal_breaker",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "deal-breaker",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.msa_deal_breaker.alt",
+          "sns.sa.social.msa_deal_breaker.alt.ko",
+          "sns.sa.social.msa_deal_breaker.alt.pt_br",
+          "sns.sa.social.msa_deal_breaker.alt.id",
+          "sns.sa.social.msa_deal_breaker.alt.th",
+          "sns.sa.social.msa_deal_breaker.alt.tr",
+          "sns.sa.social.msa_deal_breaker.alt.ja"
+        ]
+      },
+      {
+        "definition": "A quality whose absence ends the possibility, as opposed to one that only lowers the score.",
+        "exampleIds": [
+          "exm.sa.social.msa_deal_breaker.1.1"
+        ],
+        "gloss": "A quality whose absence ends the possibility, as opposed to one that only lowers the score.",
+        "id": "sns.sa.social.msa_deal_breaker.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.msa_deal_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 사람의 해당 특성이 없으면 관계를 시작하거나 계속할 수 없게 되는 조건을 가리킨다. 매력이나 적합도를 조금 낮추는 단순한 선호 조건과는 구별된다.",
+        "exampleIds": [
+          "exm.sa.social.msa_deal_breaker.1.1.ko"
+        ],
+        "gloss": "존재하지 않으면 관계나 선택 자체가 불가능해지는 조건.",
+        "id": "sns.sa.social.msa_deal_breaker.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.msa_deal_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Característica que, quando falta, elimina a possibilidade do relacionamento, em vez de apenas torná-lo menos desejável.",
+        "exampleIds": [
+          "exm.sa.social.msa_deal_breaker.1.1.pt_br"
+        ],
+        "gloss": "Uma qualidade cuja ausência encerra a possibilidade, ao contrário de uma que apenas reduz a nota.",
+        "id": "sns.sa.social.msa_deal_breaker.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.msa_deal_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sifat yang jika tidak dimiliki membuat hubungan tidak mungkin dilanjutkan, berbeda dari sifat yang hanya mengurangi ketertarikan atau penilaian.",
+        "exampleIds": [
+          "exm.sa.social.msa_deal_breaker.1.1.id"
+        ],
+        "gloss": "Sifat yang ketiadaannya langsung menutup kemungkinan hubungan.",
+        "id": "sns.sa.social.msa_deal_breaker.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.msa_deal_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คุณสมบัติที่หากไม่มี ความสัมพันธ์นั้นเป็นไปไม่ได้ ต่างจากสิ่งที่เพียงทำให้ความสัมพันธ์ดีขึ้นหรือแย่ลง",
+        "exampleIds": [
+          "exm.sa.social.msa_deal_breaker.1.1.th"
+        ],
+        "gloss": "คุณสมบัติที่ขาดไม่ได้ในการเลือกคู่ครอง",
+        "id": "sns.sa.social.msa_deal_breaker.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.msa_deal_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişide bulunmadığında eşleşmeyi veya ilişkiyi tamamen sona erdiren özellik. Yalnızca uygunluğu azaltan tercihlerden ayrılır.",
+        "exampleIds": [
+          "exm.sa.social.msa_deal_breaker.1.1.tr"
+        ],
+        "gloss": "Var olmadığında ilişkinin devamını imkânsız kılan özellik.",
+        "id": "sns.sa.social.msa_deal_breaker.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.msa_deal_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "その-feature_missing__場合、交Gel IPR関係延续很容易となる。",
+        "exampleIds": [
+          "exm.sa.social.msa_deal_breaker.1.1.ja"
+        ],
+        "gloss": "その条件を満たさなければ関係が成立しないCriticalな点。",
+        "id": "sns.sa.social.msa_deal_breaker.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.msa_deal_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.msa_deal_breaker.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "不器用さは多少-certificate__、嘘をつかれることは譲れなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.msa_deal_breaker.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dürüst olmamak pazarlığı bitiren özellikti; diğer konular yalnızca tercihlerdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.msa_deal_breaker.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความไม่ซื่อสัตย์เป็นปัจจัยตัดสินใจที่ขาดไม่ได้ ส่วนเรื่องอื่นเป็นเพียงความชอบ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.msa_deal_breaker.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ketidakjujuran menjadi pemutus hubungan, sedangkan sifat lain hanya merupakan preferensi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.msa_deal_breaker.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A desonestidade foi o deal-breaker, e o resto eram apenas preferências.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.msa_deal_breaker.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "정직하지 못한 사람은 관계를 끝내는 결정적인 조건이었지만, 다른 문제들은 단지 선호의 차이였다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.msa_deal_breaker.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Dishonesty was the deal-breaker, and the rest were preferences.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e878c7972658dd3705c3472d42cbaf5e6d875a92cec9e53aafcf3ff3742fbffe": [
+      {
+        "forms": [
+          "Threshold braking",
+          "abs_threshold_braking"
+        ],
+        "id": "lex.sa.daily_skills.abs_threshold_braking",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Threshold braking",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.abs_threshold_braking.alt",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.ja",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.ko",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.pt_br",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.id",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.th",
+          "sns.sa.daily_skills.abs_threshold_braking.alt.tr"
+        ]
+      },
+      {
+        "definition": "Braking at the limit of grip by pressing and releasing the pedal before the wheel locks.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1"
+        ],
+        "gloss": "Braking at the limit of grip by pressing and releasing the pedal before the wheel locks.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "タイヤが路面を抓住できる限界の力でブレーキを踏む技術。ABSがない車両では、ペダルを踏んだり緩めたりして車輪のロックを防ぐ。",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.ja"
+        ],
+        "gloss": "タイヤのグリップの限界で、車輪がロックしないように brake 操作を制御すること。",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "바퀴가 완전히 잠기기 직전의 최대 마찰력 한계에서 페달 압력을 조절하며 제동하는 방법. ABS가 없는 차량에서는 이 기술이 필요하다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.ko"
+        ],
+        "gloss": "바퀴가 잠기지 않도록 페달을 밟고 놓으며 최대 마찰력으로 제동하는 방법.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Técnica de frenagem usada quando não há sistema ABS, na qual o motorista pressiona e solta o pedal para evitar que a roda trave. Exige controle e pode não ser adequada em emergências.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.pt_br"
+        ],
+        "gloss": "Frenagem no limite da aderência, alternando a pressão do pedal para impedir o travamento da roda.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Teknik pengereman pada batas daya cengkeraman dengan menekan dan melepas pedal rem sebelum roda terkunci. Pada kendaraan tanpa ABS, teknik ini diperlukan untuk mencegah terkunci.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.id"
+        ],
+        "gloss": "Pengereman pada batas cengkeraman dengan menekan dan melepas pedal sebelum roda terkunci.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "วิธีเบรกที่ใช้แรงดันใกล้ขีดจำกัดแรงยึดเกาะสูงสุด ผู้ขับขี่ต้องกดแล้วคลายแป้นเบรกเป็นจังหวะเพื่อไม่ให้ล้อล็อกหมุน",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.th"
+        ],
+        "gloss": "การเบรกในระดับขีดจำกัดแรงยึดเกาะโดยกดแล้วคลายแป้นก่อนล้อล็อก",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Fren pedalına basılıp bırakılarak tekerleğin kilitlenmeden tutunma sınırında frenlenmesidir. ABS olmayan araçlarda kullanılır.",
+        "exampleIds": [
+          "exm.sa.daily_skills.abs_threshold_braking.1.1.tr"
+        ],
+        "gloss": "Tekerlek kilitlenmeden, tutunma sınırında fren yapmak.",
+        "id": "sns.sa.daily_skills.abs_threshold_braking.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.abs_threshold_braking",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ABS olmayan araçta sürücünün sınırda frenleme yapması gerekir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "หากรถไม่มีระบบ ABS ผู้ขับขี่ต้องใช้การเบรกที่ขีดจำกัดแรงยึดเกาะ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tanpa ABS, pengemudi harus menggunakan pengereman ambang.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sem o sistema ABS, o motorista precisa usar a frenagem no limite da aderência.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ABS가 없는 차량에서는 한계 제동 기법을 사용해야 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ABSがない車では、极限ブレーキを巧みに使う必要がある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.abs_threshold_braking.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Without ABS the driver has to use threshold braking.",
+        "translation": "Không có ABS, người lái phải dùng phanh tới ngưỡng.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e894adf124d00d55fb06af3e96fe8e38301d445a5b7c94286a720cab4b9daedb": [
+      {
+        "forms": [
+          "blinking"
+        ],
+        "id": "lex.sa.en.blinking.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "blinking",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.blinking.adjective.1",
+          "sns.sa.en.blinking-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Đang chớp sáng liên tục.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.44"
+        ],
+        "gloss": "nhấp nháy",
+        "id": "sns.sa.vi.blinking.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.blinking.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Flashing repeatedly, like an indicator lamp.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.44"
+        ],
+        "gloss": "Flashing on and off.",
+        "id": "sns.sa.en.blinking-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.blinking.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.44",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A blinking tell-tale and a sweeping gauge needle are the two specimen clips.",
+        "translation": "Một đèn báo nhấp nháy và một kim đồng hồ quét là hai đoạn video mẫu.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e8be592dbbc8a057aa77f0aa86cbe401abc9292db2930a4cd09e2f6557c3e402": [
+      {
+        "forms": [
+          "To plant",
+          "plant"
+        ],
+        "id": "lex.sa.kids_adventure.plant",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "To plant",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_adventure.plant.alt",
+          "sns.sa.kids_adventure.plant.alt.ja",
+          "sns.sa.kids_adventure.plant.alt.ko",
+          "sns.sa.kids_adventure.plant.alt.pt_br",
+          "sns.sa.kids_adventure.plant.alt.id",
+          "sns.sa.kids_adventure.plant.alt.th",
+          "sns.sa.kids_adventure.plant.alt.tr"
+        ]
+      },
+      {
+        "definition": "To put a seed into the ground and look after it. Planting is a promise to come back.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.plant.1.1"
+        ],
+        "gloss": "To put a seed into the ground and look after it. Planting is a promise to come back.",
+        "id": "sns.sa.kids_adventure.plant.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_adventure.plant",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "種を地面に埋めて、あとから世話をすることです。植えるということは、あとでまた見に来る約束です。",
+        "exampleIds": [
+          "exm.sa.kids_adventure.plant.1.1.ja"
+        ],
+        "gloss": "種を地面に埋め、育って成長するのを見守ること。",
+        "id": "sns.sa.kids_adventure.plant.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_adventure.plant",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "씨앗이나young 묘목을 땅에 심어 키우는 일이다. 식물을 심는 행위이므로 ‘심다’와 같은 동사로 쓰기도 한다.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.plant.1.1.ko"
+        ],
+        "gloss": "씨앗을 땅에 심고 돌보는 일.",
+        "id": "sns.sa.kids_adventure.plant.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_adventure.plant",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Plantar é colocar uma semente na terra e acompanhar seu crescimento. A imagem também sugere um compromisso de cuidar e voltar para ver o resultado.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.plant.1.1.pt_br"
+        ],
+        "gloss": "Colocar uma semente no solo e cuidar dela até que se desenvolva.",
+        "id": "sns.sa.kids_adventure.plant.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_adventure.plant",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Penanaman dilakukan dengan menanam biji atau tunas di tanah danifera照料 thereafter. Secara metafora, menanam juga berarti membuat janji untuk kembali.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.plant.1.1.id"
+        ],
+        "gloss": "Penanaman adalah kegiatan memasukkan biji ke tanah lalu merawatnya.",
+        "id": "sns.sa.kids_adventure.plant.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_adventure.plant",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การปลูกคือการหว่านหรือวางเมล็ดลงในดินแล้วดูแลให้งอกงาม คำนี้ใช้เป็นสมรรถนาความรู้สึกของการกลับมาดูสิ่งที่เราได้ปลูกไว้",
+        "exampleIds": [
+          "exm.sa.kids_adventure.plant.1.1.th"
+        ],
+        "gloss": "การหว่านเมล็ดลงในดินและดูแลจนงอกงาม",
+        "id": "sns.sa.kids_adventure.plant.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_adventure.plant",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir tohumu toprağa ektikten sonra büyümesini izlemek ve bakmak. Buradaki eylem, bitkiyi dikip giderek ona bakma sorumluluğunu üstlenmektir.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.plant.1.1.tr"
+        ],
+        "gloss": "Toprağa bir tohum ekip ona bakmak; ekim, geri dönüp bakma sözüdür.",
+        "id": "sns.sa.kids_adventure.plant.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_adventure.plant",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_adventure.plant.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bình planted the seed on the first of April.",
+        "translation": "Binh tohumu birinci Nisan'da ekdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_adventure.plant.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bình planted the seed on the first of April.",
+        "translation": "บิ้นท์ปลูกเมล็ดเมื่อวันที่หนึ่งเมษายน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_adventure.plant.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bình planted the seed on the first of April.",
+        "translation": "Bình menanam biji pada 1 April.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_adventure.plant.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bình planted the seed on the first of April.",
+        "translation": "Bình plantou a semente no primeiro de abril.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_adventure.plant.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bình planted the seed on the first of April.",
+        "translation": "빈은 4월 1일에 씨앗을 심었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_adventure.plant.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bình planted the seed on the first of April.",
+        "translation": "太郎は4月1日に種を植えました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_adventure.plant.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bình planted the seed on the first of April.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

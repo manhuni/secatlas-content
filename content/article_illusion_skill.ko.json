@@ -1,0 +1,79 @@
+{
+  "language": "ko",
+  "lessonId": "article_illusion_skill",
+  "objectives": [
+    "도구가 만들어 낸 결과와 실제 능력을 구분하는 방법을 설명합니다.",
+    "빌려온 역량을 정의하고, 자신에게서 그것을 인식하라.",
+    "과신 편향과 자동화 편향을 설명하라.",
+    "도구가 일을 대신할 때 숙련이 어떻게 퇴화하는지 보여줘.",
+    "보정 관행을 사용하여 자신의 실력을 정직하게 파악하세요."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Modern tools는 매우 capable해서, 당신이 할 수 있는 일과 당신의 tools가 할 수 있는 일 사이의 기본적인 distinction을 blur한다. AI image tools를 사용하는 designer는 stunning한 visuals를 produce한다. AI assistants를 사용하는 developer는 features를 몇 시간 만에 ships한다. automation을 사용하는 analyst는 한 팀이 일주일이 걸려 만들던 reports를 produce한다.\n\n그 output는 한 가지 의미에서는 정말로 그들의 것이다. 그들이 그 방향으로 directed했기 때문이다. 그러나 output을 produce한 ability은 대부분 tool 안에 있다. tool이 changes하거나 disappears하거나 training 밖의 problem에 faces하면 그 gap이 appears한다. 어제 professional work를 produce한 person은 오늘 acceptable한 work를 produce할 수 없다.\n\n이것은 skill의 illusion이다. powerful한 machine을 steering하는 것과 powerful한 machine이 되는 것은 다르다는 것을 자연스럽게 confusion한 것이다.",
+      "examples": [
+        "parking assist가 equipped된 luxury car의 driver는 자신들이 잘 park한다고 believes — sensors가 없는 차를 parallel park해야 할 때까지."
+      ],
+      "heading": "도구들의 이력"
+    },
+    {
+      "body": "빌려온 역량은 조용한 메커니즘을 통해 위험해진다. 도구를 사용해 달성한 성공 하나는 능력을 높이는 것보다 자신감을 더 높인다. 그러면 자신감이 더 큰 도전을 북돋우게 되고, 도구도 대개 그 도전을 감당한다. 어느 순간부터는 감당하지 못하고, 도전의 규모가 그 아래의 실제 능력보다 훨씬 커진다.\n\n이 복리 효과는 사회적 차원에서도 일어난다. 직함, 포트폴리오, 추천사는 도구로 도출한 결과를 중심으로 쌓인다. 누군도 속이려고 의도하지 않는다. 그저 기록에는 그 사람이 홀로 재현할 수 없는 작업이 조용히 채워진다. 진짜 시험이 왔을 때 — 인터뷰, 긴급 상황, 왜냐고 묻는 고객처럼 — 보여준 역량과 진짜로 소유한 역량의 차이는 창피함 혹은 그보다 나쁜 것으로 측정된다.\n\n정직한 대안은 도구를 포기하는 것이 아니다. 개인 기록장을 두는 것이다. 지금, 약한 압박 아래에서 도구 없이 재현할 수 있는 부분은 무엇인가? 이 답은 자신의 기술을 어떻게 보여줄지, 무엇을 자원할지, 무엇을 다음에 연습할지를 바꾼다.",
+      "examples": [
+        "그 개발자는 AI로 작성한 과제 테스트로 인터뷰를 훌륭히 통과했지만, 화이트보드에 간단한 시스템을 그려 달라는 요청을 받으면 얼어붙었다."
+      ],
+      "heading": "빌려온 역량과 그것이 복리로 쌓이는 방식"
+    },
+    {
+      "body": "자동화 편향은 자신이 피곤하거나 서두르거나 경험이 부족할 때 특히 자동화된 시스템의 output을 자신의 judgment보다 더 신뢰하는 tendency입니다. Pilots는 이를 잘 알고 있습니다. autopilot가 손에 든 instruments와 disagrees할 때, 승무원은 autopilot를 따라가다 지면에 충돌한 적이 있습니다.\n\n이 편향은 tool의 fluency가 높아질수록 grows합니다. search result가 단순히 first로 ranked되어 있으면 moderate한 trust를 얻습니다. 반대로 AI가 자신감 넘치는 prose로 answer를 explains하면 deep한 trust를 얻습니다. Yet 자신감 넘치는 prose는 model's design에서 나온 feature이지, correctness의 certificate가 아닙니다. 이 system은 확실해 보일 때 helpful하게 들리도록 built된 것이기 때문입니다.\n\n그 counterweight는 태도가 아니라 절차입니다. 강력한 tools를 극도로 빠른 junior colleagues처럼 treat하십시오. 똑똑하고 diligent하며, 자신감 있게 틀릴 때도 있습니다. 중요한 것은 Verify하십시오. 항상 controls를 take할 준비를 유지하십시오. And 결정에 대한 legal, professional, moral 책임이 machine으로 transfers된다는 점을 never 잊으십시오.",
+      "examples": [
+        "의사는 clinic's rules가 이를 require하기 때문에 AI's diagnosis를 double-checks합니다. 그리고 한 달에 두 번, machine이 흥미로운 방식으로 잘못되는 경우가 있습니다."
+      ],
+      "heading": "자동화 편향: 자신감 넘치는 기계를 신뢰하는 경향"
+    },
+    {
+      "body": "이 용어들은 빌려온 competence가 어떻게 작동하는지, 그리고 실제로 무엇이 자신에게 있는지 어떻게 측정하는지를 설명한다.",
+      "heading": "빌려온 skill의 vocabulary",
+      "terms": [
+        {
+          "example": "그녀의 skill에 대한 착시는 설계 software가 고장 난 날 손으로 layout을 스케치해야 할 때 사라졌다.",
+          "gloss": "강력한 도구로 결과를 만들어냈을 때 얻는 자신의 competence에 대한 잘못된 감각."
+        },
+        {
+          "example": "그의 아름다운 portfolio는 대부분 templates와 AI tools에서 빌려온 competence였다.",
+          "gloss": "도구로 만들어 낸 results와 confidence를 사용자가 자신의 개인적 ability처럼 경험하는 것."
+        },
+        {
+          "example": "Overconfidence bias 때문에 팀은 four-month project를 two-week delivery로 client에게 약속했다.",
+          "gloss": "자신의 knowledge의 accuracy와 성공 확률을 overestimate하는 systematic tendency."
+        },
+        {
+          "example": "Automation bias 때문에 운전자는 다리가 닫힌 뒤에도 오래도록 GPS road를 따라갔다.",
+          "gloss": "Automated systems을 자신의 judgment보다 더 신뢰하는 tendency이며, 특히 pressure나 fatigue 아래에서 나타난다."
+        },
+        {
+          "example": "그녀의 calibration은 훌륭하다. 그녀가 'ninety percent sure'라고 부르는 tasks는 거의 always 성공한다.",
+          "gloss": "자기평가의 accuracy, 즉 자신의 confidence가 실제 performance와 얼마나 closely 일치하는지를 뜻한다."
+        },
+        {
+          "example": "계산기가 등장한 뒤로 long division을 할 수 없게 된 이유가 바로 Skill atrophy다.",
+          "gloss": "도구가 대신 수행하게 됨으로써, 오랫동안 disuse된 skill이 weakening되는 현상."
+        }
+      ]
+    },
+    {
+      "body": "일주일에 한 번씩, 도구를 끄거나 사용하지 않고 핵심 작업 하나를 수행해 보세요. 문단은 직접 작성하고, 계산은 손으로 하며, 디자인은 먼저 스케치하세요. 보조 없이 하는 반복 연습은 향수를 불러일 뿐이 아닙니다. 어떤 능력이 아직 살아 있는지 확인하는 방법이며, 그 능력들을 계속 살아 있게 유지해 줍니다.",
+      "heading": "보조 없이 하는 반복 연습"
+    },
+    {
+      "body": "교정(calibration)은 기술이며, 모든 기술이 그렇듯 측정할수록 향상됩니다. 세 가지 관행이 도움이 됩니다. **확인하기 전에 예측하기**: 과제를 시작하기 전에 성공할 가능성을 추정해 보고, 그다음 결과와 비교합니다. 사람들은 자신의 오류율에 놀라워하는 일이 끊임없이 일어나며, 놀라움 자체가 데이터입니다. **가끔 도구 없이 해보기**: 실제와 비슷한 조건에서 도구 없이 실제 결과물 하나를 만들어 봅니다. **아픈 곳에서 검증을 요청하기**: 자신이 가장 뿌듯해하는 부분에 검토를 요청하세요 — 맹점은 바로 그곳에 있습니다.\n\n도구는 일의 모든 영역에서 계속 더 많은 일을 흡수해 나갈 것입니다. 잘 살아남는 사람들은 도구를 거부하는 사람도 아니고 도구에 항복하는 사람도 아니라, 무엇이 정확히 자기에게 남는지를 아는 사람들입니다. 그런 지식에 기반한 자신감은 조용하며 — 훨씬 더 강합니다.",
+      "examples": [
+        "그는 매달 AI의 도움 없이 작은 시스템 구성 요소 하나를 다시 만들어 봅니다. 일 년 동안 도구 없는 상태에서 작업 속도는 세 배가 되었고, 거기에 대한 자신감도 세 배가 되었습니다."
+      ],
+      "heading": "정직하게 자기 자신을 교정하기"
+    }
+  ],
+  "summary": "더 나은 도구는 더 나은 결과를 만들어 내며, 그 더 나은 결과는 더 나은 능력처럼 느껴집니다. 이 글에서는 능력의 환상, 즉 차용한 역량, 강력한 소프트웨어를 사용한 뒤 생기는 과신, 자동화 편향을 살펴보고, 도구가 능력을 대체하는 것이 아니라 증폭시킬 수 있도록 실제 능력을 정확히 보정하는 방법을 다룹니다.",
+  "title": "기술의 환상: 강력한 도구가 우리를 과대평가시킬 때"
+}

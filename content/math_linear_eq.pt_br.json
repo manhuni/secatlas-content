@@ -1,0 +1,49 @@
+{
+  "language": "pt_br",
+  "lessonId": "math_linear_eq",
+  "objectives": [
+    "Nomeie a variável e as constantes.",
+    "Estabeleça uma solução e verifique-a."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Uma equação linear em uma variável pode ser escrita como ax + b = 0, onde a e b são constantes e a não é zero. O gráfico de uma função relacionada y = ax + b é uma linha reta.",
+      "heading": "Definição"
+    },
+    {
+      "body": "Desfaça primeiro adição ou subtração, depois multiplicação ou divisão. Aplique a mesma operação em ambos os lados. A solução é o valor de x que torna a equação original verdadeira.",
+      "heading": "Como uma solução é encontrada"
+    },
+    {
+      "body": "Resolva 2x + 1 = 7. Subtraia 1 de ambos os lados para obter 2x = 6. Divida ambos os lados por 2. A solução é x = 3. Verificação: 2(3) + 1 = 7.",
+      "examples": [
+        "Subtraia 1 de ambos os lados.",
+        "Divida ambos os lados por 2.",
+        "A solução é x = 3."
+      ],
+      "heading": "Exemplo resolvido"
+    },
+    {
+      "body": "Termos utilizados quando essa equação é discutida em inglês.",
+      "heading": "Terminologia técnica",
+      "terms": [
+        {
+          "example": "",
+          "gloss": "Um símbolo cujo valor é desconhecido até que a equação seja resolvida."
+        },
+        {
+          "example": "",
+          "gloss": "A inclinação da linha; o coeficiente de x em y = ax + b."
+        },
+        {
+          "example": "",
+          "gloss": "O valor de y onde a linha cruza o eixo y."
+        }
+      ]
+    }
+  ],
+  "summary": "Leia ax + b = 0, mantenha ambos os lados iguais e verifique a solução em inglês.",
+  "title": "Resolvendo uma equação linear"
+}

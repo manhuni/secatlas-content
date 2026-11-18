@@ -1,0 +1,1116 @@
+{
+  "records": {
+    "050d6e28c0d0e5d57f40368f853dfc01910e8087063feb2d892833e6d3780291": [
+      {
+        "forms": [
+          "Daily value",
+          "daily_value"
+        ],
+        "id": "lex.sa.health.daily_value",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Daily value",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.daily_value.alt",
+          "sns.sa.health.daily_value.alt.ja",
+          "sns.sa.health.daily_value.alt.ko",
+          "sns.sa.health.daily_value.alt.pt_br",
+          "sns.sa.health.daily_value.alt.id",
+          "sns.sa.health.daily_value.alt.th",
+          "sns.sa.health.daily_value.alt.tr"
+        ]
+      },
+      {
+        "definition": "A daily guide for an average adult, used as the yardstick the percentages on a panel are measured against.",
+        "exampleIds": [
+          "exm.sa.health.daily_value.1.1"
+        ],
+        "gloss": "A daily guide for an average adult, used as the yardstick the percentages on a panel are measured against.",
+        "id": "sns.sa.health.daily_value.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.daily_value",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "食品や栄養補助食品の包装にある百分率 Freedomを、average adult の1日分の必要量に照らして示す基準です。",
+        "exampleIds": [
+          "exm.sa.health.daily_value.1.1.ja"
+        ],
+        "gloss": "栄養表示の目安となる成人の1日分の基準量。",
+        "id": "sns.sa.health.daily_value.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.daily_value",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "식품 표시판에 제시된 영양소 비율을 재는 기준이 되는 하루 섭취 권장량이다. 반드시 개인의 필요량과 일치하는 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.health.daily_value.1.1.ko"
+        ],
+        "gloss": "성인 한 명이 하루에 기준으로 삼아야 하는 영양소 섭취량이다.",
+        "id": "sns.sa.health.daily_value.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.daily_value",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Quantidade diária de um nutriente considerada adequada para uma pessoa adulta. Os percentuais impressos nos rótulos indicam quanto cada porção representa dessa referência.",
+        "exampleIds": [
+          "exm.sa.health.daily_value.1.1.pt_br"
+        ],
+        "gloss": "Referência diária de consumo usada em rótulos de alimentos.",
+        "id": "sns.sa.health.daily_value.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.daily_value",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Nilai gown yang menunjukkan jumlah、设计 zatjgjz yang disarankan untuk dikonsumsi orang dewasa rata-rata setiap hari. Persentase pada label dihitung berdasarkan nilai gown tersebut.",
+        "exampleIds": [
+          "exm.sa.health.daily_value.1.1.id"
+        ],
+        "gloss": "Panduan konsumsi harian yang digunakan sebagai acuan nilaiNutrition pada label makanan.",
+        "id": "sns.sa.health.daily_value.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.daily_value",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เกณฑ์ปริมาณสารอาหารต่อวันสำหรับผู้ใหญ่เฉลี่ย โดยใช้เป็นฐานวัดเปอร์เซ็นต์บนฉลากโภชนาการ",
+        "exampleIds": [
+          "exm.sa.health.daily_value.1.1.th"
+        ],
+        "gloss": "ปริมาณสารอาหารที่แนะนำให้บริโภคต่อวันสำหรับผู้ใหญ่เฉลี่ย",
+        "id": "sns.sa.health.daily_value.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.daily_value",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ambalajdaki yüzde değerlerini karşılaştırmak için kullanılan genel bir ölçüttür. Her kişinin günlük ihtiyacı yaşına ve başka etkenlere göre değişebilir.",
+        "exampleIds": [
+          "exm.sa.health.daily_value.1.1.tr"
+        ],
+        "gloss": "Ortalama bir yetişkinin günlük olarak alması önerilen besin miktarı.",
+        "id": "sns.sa.health.daily_value.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.daily_value",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.daily_value.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One portion gives me 40 % of the daily value for salt.",
+        "translation": "Bir porsiyon, günlük tuz değerimin yüzde 40'ını sağlıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.daily_value.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One portion gives me 40 % of the daily value for salt.",
+        "translation": "หนึ่งหน่วยบริโภคให้ฉันได้รับโซเดียม 40 เปอร์เซ็นต์ของปริมาณที่แนะนำต่อวัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.daily_value.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One portion gives me 40 % of the daily value for salt.",
+        "translation": "Satu porsi menyediakan 40% nilai harian untuk garam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.daily_value.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One portion gives me 40 % of the daily value for salt.",
+        "translation": "Uma porção deste produto fornece 40% do valor diário de sal.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.daily_value.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One portion gives me 40 % of the daily value for salt.",
+        "translation": "한 번 먹은 양으로 소금의 하루 기준 섭취량의 40%를 섭취했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.daily_value.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One portion gives me 40 % of the daily value for salt.",
+        "translation": "1食分だけで塩分の一日の基準量の40％ 摄取できます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.daily_value.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "One portion gives me 40 % of the daily value for salt.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "05394a7d082c0693ee230afca524a0b9f9a574b5081e29535fe7dbcc5da37f71": [
+      {
+        "forms": [
+          "Deep work"
+        ],
+        "id": "lex.sa.mind.deep_work",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Deep work",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.deep_work.en",
+          "sns.sa.mind.deep_work.vi"
+        ]
+      },
+      {
+        "definition": "Professional or learning activity performed in a distraction-free state that pushes cognitive ability to its limit.",
+        "exampleIds": [],
+        "gloss": "Professional or learning activity performed in a distraction-free state that pushes cognitive ability to its limit.",
+        "id": "sns.sa.mind.deep_work.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.deep_work",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Hoạt động học tập hay chuyên môn được thực hiện trong trạng thái không xao nhãng, đẩy năng lực nhận thức tới giới hạn.",
+        "id": "sns.sa.mind.deep_work.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.deep_work",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "055c1152f5782557b1135afe9515a72407cde94709dd2d32a1e60f6d85bb37c3": [
+      {
+        "forms": [
+          "Legitimate authority",
+          "pd_legitimate_authority"
+        ],
+        "id": "lex.sa.mind.pd_legitimate_authority",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Legitimate authority",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.pd_legitimate_authority.alt",
+          "sns.sa.mind.pd_legitimate_authority.alt.ja",
+          "sns.sa.mind.pd_legitimate_authority.alt.ko",
+          "sns.sa.mind.pd_legitimate_authority.alt.pt_br",
+          "sns.sa.mind.pd_legitimate_authority.alt.id",
+          "sns.sa.mind.pd_legitimate_authority.alt.th",
+          "sns.sa.mind.pd_legitimate_authority.alt.tr"
+        ]
+      },
+      {
+        "definition": "Authority whose basis can be named and questioned, such as checked knowledge, a defined role or a rule that applies to everybody.",
+        "exampleIds": [
+          "exm.sa.mind.pd_legitimate_authority.1.1"
+        ],
+        "gloss": "Authority whose basis can be named and questioned, such as checked knowledge, a defined role or a rule that applies to everybody.",
+        "id": "sns.sa.mind.pd_legitimate_authority.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.pd_legitimate_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "根拠を明示し、それについて異議を唱えられる権威。検証された知識、明確な役割、 everyone's rules などの根拠に基づく。",
+        "exampleIds": [
+          "exm.sa.mind.pd_legitimate_authority.1.1.ja"
+        ],
+        "gloss": "根拠を示して問いただせる権威。",
+        "id": "sns.sa.mind.pd_legitimate_authority.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.pd_legitimate_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "검증된 지식, 명확한 역할 또는 모두가 따르는 규칙처럼 이유를 제시하고 질문을 받아들일 수 있는 권위이다. 공식적으로 주어졌다는 사실만으로는 정당하다고 볼 수 없다.",
+        "exampleIds": [
+          "exm.sa.mind.pd_legitimate_authority.1.1.ko"
+        ],
+        "gloss": "근거를 밝히고 검토받을 수 있는 권위.",
+        "id": "sns.sa.mind.pd_legitimate_authority.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.pd_legitimate_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Autoridade baseada em conhecimento verificado, função definida ou regra aplicável a todos, fundamentos que podem ser identificados e questionados.",
+        "exampleIds": [
+          "exm.sa.mind.pd_legitimate_authority.1.1.pt_br"
+        ],
+        "gloss": "Autoridade cujo fundamento pode ser identificado e questionado.",
+        "id": "sns.sa.mind.pd_legitimate_authority.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.pd_legitimate_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kewenangan yang sah karena bersumber pada pengetahuan yang telah diperiksa, peran yang jelas, atau aturan yang berlaku bagi semua orang. Kewenangan ini tetap dapat dipertanyakan bila alasan atau batasannya tidak Dip nerf-deficient.",
+        "exampleIds": [
+          "exm.sa.mind.pd_legitimate_authority.1.1.id"
+        ],
+        "gloss": "Kewenangan yang dasar dan batasannya dapat dijelaskan serta diperiksa.",
+        "id": "sns.sa.mind.pd_legitimate_authority.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.pd_legitimate_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "อำนาจที่มีแหล่งที่มาหรือเหตุผลรองรับซึ่งสามารถตรวจสอบและตั้งคำถามได้ เช่น ความรู้ที่ตรวจสอบแล้ว หน้าที่ที่กำหนดไว้ หรือกฎที่ใช้กับทุกคน",
+        "exampleIds": [
+          "exm.sa.mind.pd_legitimate_authority.1.1.th"
+        ],
+        "gloss": "อำนาจที่มีเหตุผลและหลักฐานรองรับชัดเจน",
+        "id": "sns.sa.mind.pd_legitimate_authority.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.pd_legitimate_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Meşru otoritenin dayanağı denetlenmiş bilgi, belirlenmiş bir görev ya da herkesi kapsayan bir kural olabilir. Dayanağı belirtilemeyen veya sorgulanamayan yetki meşru sayılmaz.",
+        "exampleIds": [
+          "exm.sa.mind.pd_legitimate_authority.1.1.tr"
+        ],
+        "gloss": "Meşru otorite, dayanağı açıklanabilir ve sorgulanabilir olan yetkidir.",
+        "id": "sns.sa.mind.pd_legitimate_authority.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.pd_legitimate_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.pd_legitimate_authority.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu meşru otoriteydi: standardı gösterdi ve kuralı kimin imzaladığını açıkladı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.pd_legitimate_authority.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "นี่คืออำนาจที่ชอบธรรม เพราะเธอแสดงมาตรฐานและระบุว่าใครเป็นผู้ลงนามในกฎ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.pd_legitimate_authority.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ia exercising kewenangan sah karena menunjukkan standar yang digunakan dan siapa yang telah menandatangani aturan tersebut.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.pd_legitimate_authority.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Era autoridade legítima: ela apresentou a norma e informou quem a havia assinado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.pd_legitimate_authority.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "이는 정당한 권위였다. 그는 기준을 제시하고 그 규칙에 서명한 사람이 누구인지 밝혔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.pd_legitimate_authority.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "これは正当な権威だった。彼女は基準を示し、誰が規則に署名したかを明かした。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.pd_legitimate_authority.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was legitimate authority: she showed the standard and said who had signed the rule.",
+        "translation": "Đó là uy quyền hợp pháp: cô ấy giơ bảng tiêu chuẩn lên và nói ai đã ký quy định.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "05721ea088680aec465ad7e3401baf02b8f9563bdbc5522886823726fa502ff6": [
+      {
+        "forms": [
+          "maternal age",
+          "bc_maternal_age"
+        ],
+        "id": "lex.sa.social.bc_maternal_age",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "maternal age",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.bc_maternal_age.alt",
+          "sns.sa.social.bc_maternal_age.alt.ja",
+          "sns.sa.social.bc_maternal_age.alt.ko",
+          "sns.sa.social.bc_maternal_age.alt.id",
+          "sns.sa.social.bc_maternal_age.alt.th",
+          "sns.sa.social.bc_maternal_age.alt.tr",
+          "sns.sa.social.bc_maternal_age.alt.pt_br"
+        ]
+      },
+      {
+        "definition": "The age of the woman when her child is born, used as a medical label.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1"
+        ],
+        "gloss": "The age of the woman when her child is born, used as a medical label.",
+        "id": "sns.sa.social.bc_maternal_age.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "出産時の母親の年齢を示す、医学・統計上の項目。母親の能力や motherboardを評価する判定ではない。",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.ja"
+        ],
+        "gloss": "子供が生まれたときの母親の年齢。",
+        "id": "sns.sa.social.bc_maternal_age.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "의료 기록에서 산모의 연령을 나타내는 용어이다. 어머니의 능력이나 건강 상태를 평가하는 값은 아니다.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.ko"
+        ],
+        "gloss": "아이가 태어났을 때 어머니의 나이.",
+        "id": "sns.sa.social.bc_maternal_age.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Usia ibu adalah usia perempuan pada saat persalinan, yang dicantumkan sebagai informasi medis. Istilah ini bukan penilaian terhadap kemampuan atau sikap ibu.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.id"
+        ],
+        "gloss": "Usia perempuan ketika ia melahirkan anak, yang digunakan sebagai label medis.",
+        "id": "sns.sa.social.bc_maternal_age.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ข้อมูลทางการแพทย์ที่บันทึกอายุของมารดา ณ เวลาที่บุตรเกิด ไม่ควรตีความเป็นคำตัดสินเกี่ยวกับมารดา",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.th"
+        ],
+        "gloss": "อายุของมารดาในวันที่บุตรเกิด",
+        "id": "sns.sa.social.bc_maternal_age.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Anne yaşı, çocuğun doğduğu sırada annenin yaşını ifade eder. Tıbbi bir kayıt ve istatistik ölçütüdür; annenin kişisel değerini ya da yetkinliğini yargılamaz.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.tr"
+        ],
+        "gloss": "Çocuğu doğduğunda annenin yaşı; tıbbi kayıtlarda kullanılan bir etiket.",
+        "id": "sns.sa.social.bc_maternal_age.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Idade da mulher no momento do nascimento do filho. É uma informação médica, não um julgamento sobre a capacidade ou o comportamento da mãe.",
+        "exampleIds": [
+          "exm.sa.social.bc_maternal_age.1.1.pt_br"
+        ],
+        "gloss": "Idade da mãe quando seu filho nasce, usada como informação médica.",
+        "id": "sns.sa.social.bc_maternal_age.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.bc_maternal_age",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A idade materna consta no prontuário como informação médica, não como julgamento sobre a mãe.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Anne yaşı kayıttaki bir etikettir; anne hakkında bir yargı değildir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "อายุมารดาในเวชระเบียนเป็นข้อมูลประกอบการดูแล ไม่ใช่คำพิพากษาว่าเธอเป็นแม่ที่ดีหรือไม่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Usia ibu adalah label dalam rekam medis, bukan penilaian terhadap ibunya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "기록지의 산모 나이는 34세였다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "母性年齢は記録上の項目であり、母親を判断する尺度ではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.bc_maternal_age.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Maternal age is a label in the record, not a judgement about the mother.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "05752e2c43788273d5f5a68c05cab983c24b3618cff253fc665e9b32c51c6322": [
+      {
+        "forms": [
+          "Fear",
+          "psy_fear"
+        ],
+        "id": "lex.sa.mind.psy_fear",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Fear",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.psy_fear.alt",
+          "sns.sa.mind.psy_fear.alt.ja",
+          "sns.sa.mind.psy_fear.alt.ko",
+          "sns.sa.mind.psy_fear.alt.pt_br",
+          "sns.sa.mind.psy_fear.alt.id",
+          "sns.sa.mind.psy_fear.alt.th",
+          "sns.sa.mind.psy_fear.alt.tr"
+        ]
+      },
+      {
+        "definition": "A pressure tactic that raises the cost of a slow decision, so that speed feels like safety.",
+        "exampleIds": [
+          "exm.sa.mind.psy_fear.1.1"
+        ],
+        "gloss": "A pressure tactic that raises the cost of a slow decision, so that speed feels like safety.",
+        "id": "sns.sa.mind.psy_fear.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.psy_fear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "決断を急がせるための圧力戦術。決めるのに時間がかかることへの代償を大きく見せることで、迅速な選択が安全だと感じさせるもの。",
+        "exampleIds": [
+          "exm.sa.mind.psy_fear.1.1.ja"
+        ],
+        "gloss": "決定を遅らせる代償を上げる圧力戦術。",
+        "id": "sns.sa.mind.psy_fear.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.psy_fear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "느린 결정의 대가를 높여 속도를 안전처럼 느끼게 하는 압박 수단이다. 조급함을 유발해 빨리 결정하도록 몰아붙이는 데 쓰인다.",
+        "exampleIds": [
+          "exm.sa.mind.psy_fear.1.1.ko"
+        ],
+        "gloss": "느린 결정의 대가를 높여 속도를 안전처럼 느끼게 하는 압박 수단.",
+        "id": "sns.sa.mind.psy_fear.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.psy_fear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uso do medo como recurso de persuasão, apresentado de modo que uma escolha rápida pareça mais segura e uma espera pareça perigosa ou prejudicial.",
+        "exampleIds": [
+          "exm.sa.mind.psy_fear.1.1.pt_br"
+        ],
+        "gloss": "Tática de pressão que torna a decisão lenta parecer insegura.",
+        "id": "sns.sa.mind.psy_fear.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.psy_fear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Penggunaan rasa takut untuk meningkatkan kerugian atau risiko bila keputusan ditunda, sehingga bertindak cepat terasa seperti pilihan yang aman.",
+        "exampleIds": [
+          "exm.sa.mind.psy_fear.1.1.id"
+        ],
+        "gloss": "Taktik tekanan yang membuat penundaan keputusan terasa berbahaya.",
+        "id": "sns.sa.mind.psy_fear.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.psy_fear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กลวิธีกดดันที่ทำให้ความล่าช้ามีต้นทุนหรือความเสี่ยงสูง จนบุคคลรู้สึกว่าต้องตัดสินใจอย่างรวดเร็วเพื่อความปลอดภัย คำนี้หมายถึงกลวิธีที่ใช้ความกลัว ไม่ใช่ความกลัวทั่วไป",
+        "exampleIds": [
+          "exm.sa.mind.psy_fear.1.1.th"
+        ],
+        "gloss": "กลวิธีกดดันที่ทำให้การรอคิดมีต้นทุนสูงขึ้น",
+        "id": "sns.sa.mind.psy_fear.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.psy_fear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Korku taktiği, beklemenin riskli olduğunu ima ederek kişinin çabuk karar vermesini sağlamaya çalışır.",
+        "exampleIds": [
+          "exm.sa.mind.psy_fear.1.1.tr"
+        ],
+        "gloss": "Yavaş karar vermenin maliyetini yükselterek hızlı kararı güvenli hissettiren baskı taktiği.",
+        "id": "sns.sa.mind.psy_fear.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.psy_fear",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.psy_fear.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Mesajdaki korku açıktı: beklersen zararı sen karşılayacaktın.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.psy_fear.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ข้อความสร้างความกลัวอย่างชัดเจนด้วยบอกว่าหากรอ ผู้ส่งจะเป็นผู้แบกรับความเสียหาย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.psy_fear.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ketakutan dalam pesan itu jelas: jika Anda menunggu, orang yang menanggung akibatnya adalah Anda.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.psy_fear.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O medo na mensagem era evidente: se você esperar, será quem pay o prejuízo.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.psy_fear.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 메시지에는 분명한 압박이 있었다. 기다리면 손해를 보는 사람이 된다고 협박했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.psy_fear.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "メッセージの恐怖は明瞭だった。待つなら損をするのは自分だと脅していた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.psy_fear.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The fear in the message was plain: if you wait, you are the one who pays.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "05791baa7773d45eae9bd34ef9267463746cb6f6f77b0b23428bb791ea881392": [
+      {
+        "forms": [
+          "equal",
+          "equals",
+          "equaled",
+          "equalling"
+        ],
+        "id": "lex.sa.en.equal.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "equal",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.equal.verb.gb",
+          "prn.sa.en.equal.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.equal.verb.math",
+          "sns.sa.en.equal-verb.alt"
+        ]
+      },
+      {
+        "definition": "Có cùng số với.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.equal.verb.01",
+          "exm.sa.en.equal-verb.more.01",
+          "exm.sa.en.equal-verb.more.02"
+        ],
+        "gloss": "bằng",
+        "id": "sns.sa.en.equal.verb.math",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.equal.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.audio.equals",
+          "res.sa.img.equal-verb",
+          "res.sa.aud.equal-verb",
+          "res.sa.lnk.equal-verb",
+          "res.sa.vid.equal-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To make two things the same in value or amount.",
+        "exampleIds": [
+          "exm.sa.en.equal.verb.01"
+        ],
+        "gloss": "To make two things the same in value or amount.",
+        "id": "sns.sa.en.equal-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.equal.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.equal.verb.gb",
+        "ipa": "/ˈiːkwəl/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.equal.verb.us",
+        "ipa": "/ˈiːkwəl/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.equal.verb.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Two times three equals six.",
+        "translation": "Hai nhân ba bằng sáu.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.audio.equals",
+        "kind": "resource",
+        "offlinePolicy": "required",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://7a2a982b92f9ce5ded4f193977294a990425e32f7f6f6864cc1726e8f4f544a6",
+            "mime": "audio/wav"
+          }
+        ],
+        "title": "equals en-US",
+        "type": "audio"
+      }
+    ],
+    "058871c2f773e220cb87beaa6744d47c5992fcc78bbb5f9b9b7e9fb87d72c6d1": [
+      {
+        "forms": [
+          "graph",
+          "graphs",
+          "graphed",
+          "graphing"
+        ],
+        "id": "lex.sa.en.graph.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "graph",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.graph.verb",
+          "prn.sa.en.graph.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.graph.verb.1",
+          "sns.sa.en.graph-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.graph-verb",
+        "id": "prn.sa.en.graph.verb",
+        "ipa": "/ɡrɑːf/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.graph.verb.us",
+        "ipa": "/ɡræf/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Vẽ điểm và đường lên mặt phẳng tọa độ.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.graph.verb.1.1",
+          "exm.sa.en.graph-verb.more.01",
+          "exm.sa.en.graph-verb.more.02"
+        ],
+        "gloss": "vẽ đồ thị",
+        "id": "sns.sa.vi.graph.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.graph.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.graph-verb",
+          "res.sa.aud.graph-verb",
+          "res.sa.lnk.graph-verb",
+          "res.sa.vid.graph-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "To plot the points of a function on a set of axes.",
+        "exampleIds": [
+          "exm.sa.en.graph.verb.1.1"
+        ],
+        "gloss": "To plot the points of a function on a set of axes.",
+        "id": "sns.sa.en.graph-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.graph.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.graph.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Graph the equation y = 2x + 1.",
+        "translation": "Vẽ đồ thị phương trình y = 2x + 1.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.graph.verb.1",
+        "id": "lnk.sa.en.glossary.041",
+        "kind": "relation",
+        "toId": "sns.sa.vi.point.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "05cf5c5f416bff353e26b497e99cf6eefa31a61f533bea801f2dddf97a8452b9": [
+      {
+        "forms": [
+          "Bluff",
+          "war_bluff"
+        ],
+        "id": "lex.sa.mind.war_bluff",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Bluff",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_bluff.alt",
+          "sns.sa.mind.war_bluff.alt.ja",
+          "sns.sa.mind.war_bluff.alt.ko",
+          "sns.sa.mind.war_bluff.alt.pt_br",
+          "sns.sa.mind.war_bluff.alt.id",
+          "sns.sa.mind.war_bluff.alt.th",
+          "sns.sa.mind.war_bluff.alt.tr"
+        ]
+      },
+      {
+        "definition": "A threat that is made without the means or the intention to carry it out.",
+        "exampleIds": [
+          "exm.sa.mind.war_bluff.1.1"
+        ],
+        "gloss": "A threat that is made without the means or the intention to carry it out.",
+        "id": "sns.sa.mind.war_bluff.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_bluff",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "実行する手段または意図がないまま长辈する脅威。对方の反応を誘うためには用过mdustrationする。",
+        "exampleIds": [
+          "exm.sa.mind.war_bluff.1.1.ja"
+        ],
+        "gloss": "実行する意図も手段もないままYPTFFERする脅威。",
+        "id": "sns.sa.mind.war_bluff.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_bluff",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "실행할 수단이 없거나 실행할 의도가 없는데도 상대에게 행동을 포기하도록 제시하는 위협이다. 진짜 대응 능력에 속아서는 안 된다.",
+        "exampleIds": [
+          "exm.sa.mind.war_bluff.1.1.ko"
+        ],
+        "gloss": "실행할 수도 없고 실행할 의사도 없이 하는 위협.",
+        "id": "sns.sa.mind.war_bluff.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_bluff",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É uma ameaça sem condições ou intenção real de executá-la, usada para intimidar ou negociar.",
+        "exampleIds": [
+          "exm.sa.mind.war_bluff.1.1.pt_br"
+        ],
+        "gloss": "Ameaça feita sem meios ou intenção de cumpri-la.",
+        "id": "sns.sa.mind.war_bluff.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_bluff",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ancaman yang dibuat tanpa sarana atau niat untuk melaksanakannya. Istilah ini juga digunakan dalam permainan untuk menyebut zwischen yang disengaja agar lawan percaya.",
+        "exampleIds": [
+          "exm.sa.mind.war_bluff.1.1.id"
+        ],
+        "gloss": "Ancaman yang dibuat tanpa sarana atau niat untuk melaksanakannya.",
+        "id": "sns.sa.mind.war_bluff.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_bluff",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คำขู่ที่ผู้ขู่ไม่ได้ตั้งใจหรือไม่มีความสามารถที่จะดำเนินการตาม จึงแตกต่างจากการขู่จริง",
+        "exampleIds": [
+          "exm.sa.mind.war_bluff.1.1.th"
+        ],
+        "gloss": "การขู่โดยไม่มีความตั้งใจหรือความสามารถที่จะปฏิบัติตาม",
+        "id": "sns.sa.mind.war_bluff.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_bluff",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Blöf, karşı tarafı durdurmak için ortaya atılan ancak yerine getirilmesi niyet edilmeyen veya mümkün olmayan tehdittir. Yalnızca gerçekleştirme niyetinin bulunmaması da onu blöf saymak için yeterlidir.",
+        "exampleIds": [
+          "exm.sa.mind.war_bluff.1.1.tr"
+        ],
+        "gloss": "Gerçekleştirmek istediği ya da gerçekleştirebileceği güce sahip olmayan tehdidin adıdır.",
+        "id": "sns.sa.mind.war_bluff.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_bluff",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_bluff.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Şehirde o kadar asker yoktu; bu nedenle saldırı tehdidi bir blöftü.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_bluff.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คำขู่นั้นเป็นเพียงการทำลาย เพราะผู้ขู่ไม่มีกำลังที่จะปฏิบัติตาม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_bluff.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Klaim tentang hubungannya adalah bluff karena ia tidak punya bukti.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_bluff.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A ameaça sem meios de realizá-la é um blefe e não custa nada para ser feita.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_bluff.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "실행할 수단이 없는 위협은 단지 허세일 뿐이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_bluff.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "実行する手段のない脅威は虚張であり、YPTFFERする只需要少しの費用で済む。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_bluff.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A threat made without the means to carry it out is a bluff, and it costs nothing to make.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

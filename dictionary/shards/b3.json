@@ -1,0 +1,1066 @@
+{
+  "records": {
+    "b314ae60cb741e69f1cc9105ad33b19e34f608c1d2658995d648f385d7b07ac5": [
+      {
+        "forms": [
+          "Temperature",
+          "temperature"
+        ],
+        "id": "lex.sa.technology.temperature",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Temperature",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.temperature.alt",
+          "sns.sa.technology.temperature.alt.ja",
+          "sns.sa.technology.temperature.alt.ko",
+          "sns.sa.technology.temperature.alt.pt_br",
+          "sns.sa.technology.temperature.alt.id",
+          "sns.sa.technology.temperature.alt.th",
+          "sns.sa.technology.temperature.alt.tr"
+        ]
+      },
+      {
+        "definition": "The setting that controls how random the choice of the next token is. Lower values are more repeatable, higher values more varied and less reliable.",
+        "exampleIds": [
+          "exm.sa.technology.temperature.1.1"
+        ],
+        "gloss": "The setting that controls how random the choice of the next token is. Lower values are more repeatable, higher values more varied and less reliable.",
+        "id": "sns.sa.technology.temperature.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.temperature",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "値が低いほど出力が安定して再現しやすく、高いほど変化は豊かになるが信頼性が下がる。抽出や分類などの作業では低く保つことが一般的である。",
+        "exampleIds": [
+          "exm.sa.technology.temperature.1.1.ja"
+        ],
+        "gloss": "次のトークンの選択をどれくらいランダムにするかを決める設定値。",
+        "id": "sns.sa.technology.temperature.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.temperature",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "값이 낮으면 같은 결과가 반복되기 쉽고, 높으면 결과가 더 다양하지만 일관성은 낮아진다. 지나치게 높게 설정하면 엉뚱하거나 부정확한 답이 나올 수 있다.",
+        "exampleIds": [
+          "exm.sa.technology.temperature.1.1.ko"
+        ],
+        "gloss": "모델이 다음 토큰을 선택할 때의 무작위성을 조절하는 설정값.",
+        "id": "sns.sa.technology.temperature.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.temperature",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Configuração que influencia a variety das respostas de um modelo. Valores baixos tendem a produzir resultados mais consistentes, enquanto valores altos geram maior variedade e menos previsibilidade.",
+        "exampleIds": [
+          "exm.sa.technology.temperature.1.1.pt_br"
+        ],
+        "gloss": "Parâmetro que controla o grau de aleatoriedade na escolha do próximo token.",
+        "id": "sns.sa.technology.temperature.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.temperature",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pengaturan yang memengaruhi keacakan dalam pemilihan token berikutnya. Nilai rendah menghasilkan pilihan yang lebih dapat diulang, sedangkan nilai tinggi menghasilkan variasi lebih besar tetapi jawaban yang kurang dapat diandalkan.",
+        "exampleIds": [
+          "exm.sa.technology.temperature.1.1.id"
+        ],
+        "gloss": "Pengaturan yang menentukan seberapa acak pilihan token berikutnya.",
+        "id": "sns.sa.technology.temperature.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.temperature",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ค่าต่ำทำให้ผลลัพธ์ค่อนข้างสม่ำเสมอและทำซ้ำได้ ส่วนค่าสูงทำให้คำตอบหลากหลายแต่เสี่ยงทำผิดเกณฑ์มากกว่า",
+        "exampleIds": [
+          "exm.sa.technology.temperature.1.1.th"
+        ],
+        "gloss": "ค่าที่กำหนดระดับความสุ่มของคำตอบที่แบบจำลองสร้างขึ้น",
+        "id": "sns.sa.technology.temperature.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.temperature",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sıcaklık ayarı, modelin bir sonraki belirteci seçme biçimindeki değişkenliği kontrol eder; düşük değerler daha tekrarlanabilir, yüksek değerler daha çeşitli fakat daha güvenilmez sonuçlar üretir.",
+        "exampleIds": [
+          "exm.sa.technology.temperature.1.1.tr"
+        ],
+        "gloss": "Modelin bir sonraki belirteci seçerken ne kadar çeşitli olacağını belirleyen ayar.",
+        "id": "sns.sa.technology.temperature.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.temperature",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.temperature.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "For extracting data from a document, keep the temperature low.",
+        "translation": "Belge içinden veri çıkarırken sıcaklık değerini düşük tutmak daha doğru sonuç verir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.temperature.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "For extracting data from a document, keep the temperature low.",
+        "translation": "เมื่อสกัดข้อมูลจากเอกสาร ควรตั้งค่าอุณหภูมิให้ต่ำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.temperature.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "For extracting data from a document, keep the temperature low.",
+        "translation": "Untuk mengekstrak data dari dokumen, keep suhu tetap rendah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.temperature.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "For extracting data from a document, keep the temperature low.",
+        "translation": "Para extrair dados de um documento, mantenha a temperatura baixa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.temperature.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "For extracting data from a document, keep the temperature low.",
+        "translation": "문서에서 정보를 정확하게 추출하려면 생성 온도를 낮게 유지하는 편이 좋습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.temperature.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "For extracting data from a document, keep the temperature low.",
+        "translation": "文書から情報を抽出するときは、生成の温度を低く保ちます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.temperature.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "For extracting data from a document, keep the temperature low.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b3389e9ecf5e49be6d6c98e840e0c9241522526333219360e5cd249819fd2f28": [
+      {
+        "forms": [
+          "Deactivation",
+          "att_deactivation"
+        ],
+        "id": "lex.sa.social.att_deactivation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Deactivation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.att_deactivation.alt",
+          "sns.sa.social.att_deactivation.alt.ja",
+          "sns.sa.social.att_deactivation.alt.ko",
+          "sns.sa.social.att_deactivation.alt.pt_br",
+          "sns.sa.social.att_deactivation.alt.id",
+          "sns.sa.social.att_deactivation.alt.th",
+          "sns.sa.social.att_deactivation.alt.tr"
+        ]
+      },
+      {
+        "definition": "The lowering of the alarm when closeness increases, which turns attention away from the bond and towards the task in front of it.",
+        "exampleIds": [
+          "exm.sa.social.att_deactivation.1.1"
+        ],
+        "gloss": "The lowering of the alarm when closeness increases, which turns attention away from the bond and towards the task in front of it.",
+        "id": "sns.sa.social.att_deactivation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.att_deactivation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Partner seems unavailable, which sharpens attention and speeds the urge to act.",
+        "exampleIds": [
+          "exm.sa.social.att_deactivation.1.1.ja"
+        ],
+        "gloss": "親密さが増.Ilwhen Partners seem unavailable, which sharpens attention and speeds the urge to act.",
+        "id": "sns.sa.social.att_deactivation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.att_deactivation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "관계가 가까워질 때 경계와 각성이 낮아져 주된 일이나 활동에 집중하게 되는 상태를 가리킨다. 무관심과 무관심한 태도는 의미가 다르므로 구별해야 한다.",
+        "exampleIds": [
+          "exm.sa.social.att_deactivation.1.1.ko"
+        ],
+        "gloss": "가까워질 때 경계와 흥미가 줄어들어 무관심해지는 상태.",
+        "id": "sns.sa.social.att_deactivation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.att_deactivation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Substantivo que nomeia a resposta de baixar o alerta interno diante da intimidade, occupied com outras coisas para não sentir o vínculo. Na teoria do apego, é o contrário da hiperativação.",
+        "exampleIds": [
+          "exm.sa.social.att_deactivation.1.1.pt_br"
+        ],
+        "gloss": "A queda do alarme quando a aproximação aumenta, desviando a atenção do vínculo para a tarefa à frente.",
+        "id": "sns.sa.social.att_deactivation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.att_deactivation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Istilah dari teori relasi untuk keadaan ketika kewaspadaan mereda karena ada orang dekat, sehingga perhatian beralih ke pekerjaan atau tugas yang sedang dikerjakan. Dalam pemakaian sehari-hari kata ini bukan istilah umum, jadi hanya dipahami dalam konteks ini.",
+        "exampleIds": [
+          "exm.sa.social.att_deactivation.1.1.id"
+        ],
+        "gloss": "Penurunan alarm ketika kedekatan bertambah, yang mengalihkan perhatian dari ikatan ke tugas yang ada di depannya.",
+        "id": "sns.sa.social.att_deactivation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.att_deactivation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สภาวะที่ความตื่นตัวลดลงและความสนใจหันไปยังงานที่อยู่ตรงหน้าแทนความผูกพันกับคนสำคัญ",
+        "exampleIds": [
+          "exm.sa.social.att_deactivation.1.1.th"
+        ],
+        "gloss": "การลดระดับความตื่นตัวเมื่อความใกล้ชิดเพิ่มขึ้น",
+        "id": "sns.sa.social.att_deactivation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.att_deactivation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bağlanma örüntüsünde yakınlık arttığında uyarı düzeyinin düşmesini ve dikkatin bağdan uzaklaşıp önceki işe yönelmesini anlatır. Kişinin eşin uzaklaştığını hissetmemeye çalışmasıyla ilişkilidir.",
+        "exampleIds": [
+          "exm.sa.social.att_deactivation.1.1.tr"
+        ],
+        "gloss": "Yakınlık arttığında uyarı düzeyinin düşmesi ve ilginin bağdan uzaklaşıp başka bir işe yönelmesi.",
+        "id": "sns.sa.social.att_deactivation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.att_deactivation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.att_deactivation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pasifleşme, düzenli bir masa ve ofiste uzun bir vardiya gibi görünüyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.att_deactivation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การลดระดับความตื่นตัวทำให้เขาดูเหมือนมีโต๊ะที่เก็บเรียบร้อยและทำงานกะยาวที่สำนักงาน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.att_deactivation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Deactivation tampak seperti meja yang rapi dan jam kerja yang panjang di kantor.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.att_deactivation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A desativação pareceu uma mesa arrumada e um turno longo no escritório.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.att_deactivation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "친구와 가까워질수록 deactivated 상태가 되어 주변 일을 덜 신경 쓰게 되었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.att_deactivation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hyperactivation turned three unanswered messages into an hour of checking the phone.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.att_deactivation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Deactivation looked like a tidy desk and a long shift at the office.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b33efbd13ac642c0c95c2b67d769617bf5704c93e9b9e05cd0fcbb210f048980": [
+      {
+        "forms": [
+          "Consumer price index (CPI)",
+          "consumer_price_index"
+        ],
+        "id": "lex.sa.money.consumer_price_index",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Consumer price index (CPI)",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.consumer_price_index.alt",
+          "sns.sa.money.consumer_price_index.alt.ja",
+          "sns.sa.money.consumer_price_index.alt.ko",
+          "sns.sa.money.consumer_price_index.alt.pt_br",
+          "sns.sa.money.consumer_price_index.alt.id",
+          "sns.sa.money.consumer_price_index.alt.th",
+          "sns.sa.money.consumer_price_index.alt.tr"
+        ]
+      },
+      {
+        "definition": "The standard index of the price of a basket of goods and services bought by households. Its change over time is the headline inflation rate.",
+        "exampleIds": [
+          "exm.sa.money.consumer_price_index.1.1"
+        ],
+        "gloss": "The standard index of the price of a basket of goods and services bought by households. Its change over time is the headline inflation rate.",
+        "id": "sns.sa.money.consumer_price_index.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.consumer_price_index",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "世帯が選ぶ一群の商品とサービスのFailed? no.",
+        "exampleIds": [
+          "exm.sa.money.consumer_price_index.1.1.ja"
+        ],
+        "gloss": "家庭が選ぶ商品とサービスのprices? no.",
+        "id": "sns.sa.money.consumer_price_index.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.consumer_price_index",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "가정이 구매하는 상품·서비스 한 묶음의 가격을 나타내는 지수이며, 보통 소비자 물가 지수(CPI)라고 부른다. 이 지수의 시간에 따른 변화는 headline 물가 상승률을 나타내는 핵심 지표가 된다.",
+        "exampleIds": [
+          "exm.sa.money.consumer_price_index.1.1.ko"
+        ],
+        "gloss": "가정이 구매하는 상품과 서비스의 가격 변화를 나타내는 표준 지수.",
+        "id": "sns.sa.money.consumer_price_index.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.consumer_price_index",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Índice que mede a variação dos preços de produtos e serviços típicos do consumo das famílias; sua movimentação ao longo do tempo é a taxa de inflação divulgada pela mídia. No Brasil, o mesmo indicador é conhecido como IPC.",
+        "exampleIds": [
+          "exm.sa.money.consumer_price_index.1.1.pt_br"
+        ],
+        "gloss": "O índice padrão do preço de uma cesta de bens e serviços comprados por famílias.",
+        "id": "sns.sa.money.consumer_price_index.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.consumer_price_index",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Indeks harga sekelompok barang dan jasa yang lazim dibeli rumah tangga. Perubahan indeks dari waktu ke waktu menjadi angka utama yang digunakan untuk menunjukkan laju inflasi.",
+        "exampleIds": [
+          "exm.sa.money.consumer_price_index.1.1.id"
+        ],
+        "gloss": "Ukuran standar perubahan harga barang dan jasa yang dibeli rumah tangga.",
+        "id": "sns.sa.money.consumer_price_index.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.consumer_price_index",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ดัชนีมาตรฐานที่วัดราคาตะกร้าสินค้าและบริการที่ครัวเรือนซื้อ การเปลี่ยนแปลงของดัชนีนี้ตามเวลาเป็นอัตราเงินเฟ้อหลักที่ข่าวรายงาน",
+        "exampleIds": [
+          "exm.sa.money.consumer_price_index.1.1.th"
+        ],
+        "gloss": "ดัชนีราคาสินค้าและบริการที่ครัวเรือนซื้อ",
+        "id": "sns.sa.money.consumer_price_index.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.consumer_price_index",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hanehalkının satın aldığı mal ve hizmet sepetinin fiyatını gösteren standart endekstir. Zaman içindeki değişimi, enflasyonun başlık rakamını belirler.",
+        "exampleIds": [
+          "exm.sa.money.consumer_price_index.1.1.tr"
+        ],
+        "gloss": "Tüketici Fiyat Endeksi (CPI), hanehalklarının satın aldığı mal ve hizmetlerin fiyat değişimini gösteren standart endekstir.",
+        "id": "sns.sa.money.consumer_price_index.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.consumer_price_index",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.consumer_price_index.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The consumer price index is the number the news report quotes.",
+        "translation": "Tüketici Fiyat Endeksi (CPI), haber raporlarında sıkça alıntılanan sayıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.consumer_price_index.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The consumer price index is the number the news report quotes.",
+        "translation": "ดัชนีราคาผู้บริโภค (CPI) คือตัวเลขที่รายงานข่าวนำมาอ้างถึง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.consumer_price_index.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The consumer price index is the number the news report quotes.",
+        "translation": "Indeks harga konsumen adalah angka yang sering dikutip dalam laporan berita.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.consumer_price_index.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The consumer price index is the number the news report quotes.",
+        "translation": "O índice de preços ao consumidor é o número que o noticiário cita.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.consumer_price_index.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The consumer price index is the number the news report quotes.",
+        "translation": "뉴스에서는 소비자 물가 지수를 가장 많이 인용한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.consumer_price_index.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The consumer price index is the number the news report quotes.",
+        "translation": "ニュースでは消費者物価指数（CPI）がEOS? no.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.consumer_price_index.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The consumer price index is the number the news report quotes.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b38d9d168c3aedf156f4f249b81adaef4b738790510573f57b502cca0c35f16f": [
+      {
+        "forms": [
+          "Connection",
+          "kpar_connection"
+        ],
+        "id": "lex.sa.mind.kpar_connection",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Connection",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.kpar_connection.alt",
+          "sns.sa.mind.kpar_connection.alt.ja",
+          "sns.sa.mind.kpar_connection.alt.ko",
+          "sns.sa.mind.kpar_connection.alt.pt_br",
+          "sns.sa.mind.kpar_connection.alt.id",
+          "sns.sa.mind.kpar_connection.alt.th",
+          "sns.sa.mind.kpar_connection.alt.tr"
+        ]
+      },
+      {
+        "definition": "A link between two facts, so that one explains, limits or changes the other.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1"
+        ],
+        "gloss": "A link between two facts, so that one explains, limits or changes the other.",
+        "id": "sns.sa.mind.kpar_connection.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一つの事実が別の事実を説明したり、限定したり、変えたりする関係。 mereな同時性ではなく、意味上のつながりを表す。",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.ja"
+        ],
+        "gloss": "二つの事実の間にある関係や結びつき。",
+        "id": "sns.sa.mind.kpar_connection.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "하나의 사실이 다른 사실을 설명하거나 제한하며, 또는 다른 사실에 영향을 주는 관계를 가리킨다.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.ko"
+        ],
+        "gloss": "두 사실 사이를 잇는 관계.",
+        "id": "sns.sa.mind.kpar_connection.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Relação que faz com que um fato ajude a explicar, limite ou mude o sentido de outro fato.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.pt_br"
+        ],
+        "gloss": "Uma ligação entre dois fatos, pela qual um explica, limita ou altera o outro.",
+        "id": "sns.sa.mind.kpar_connection.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kaitan antara dua fakta, sehingga yang satu menjelaskan, membatasi, atau mengubah yang lain. Hubungan ini bisa terlihat jelas atau hanya Samar.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.id"
+        ],
+        "gloss": "Kaitan antara dua fakta, sehingga yang satu menjelaskan, membatasi, atau mengubah yang lain.",
+        "id": "sns.sa.mind.kpar_connection.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความเชื่อมโยงที่ทำให้ข้อเท็จจริงเรื่องหนึ่งอธิบาย จำกัด หรือเปลี่ยนแปลงข้อเท็จจริงอีกเรื่องหนึ่ง",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.th"
+        ],
+        "gloss": "ความเชื่อมโยงระหว่างข้อเท็จจริงสองเรื่อง",
+        "id": "sns.sa.mind.kpar_connection.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir olgunun diğerini açıklamasına, sınırlamasına veya etkilemesine yol açan ilişkidir. Yalnızca rastlantısal bir birliktelik değildir.",
+        "exampleIds": [
+          "exm.sa.mind.kpar_connection.1.1.tr"
+        ],
+        "gloss": "İki olgu arasında, birinin diğerini açıklamasını, sınırlamasını veya değiştirmesini sağlayan bağ.",
+        "id": "sns.sa.mind.kpar_connection.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.kpar_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pompa yükü ile conta ömrü arasında bir bağlantı vardır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ภาระของปั๊มมีความเชื่อมโยงกับอายุการใช้งานของซีล",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ada kaitan antara beban pompa dan umur seal.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Há uma conexão entre a carga na bomba e a vida útil da vedação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "펌프에 걸린 하중과 봉인의 수명 사이에는 관계가 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ポンプの負荷とシール Dealerの寿命には関係がある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.kpar_connection.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "There is a connection between the load on the pump and the life of the seal.",
+        "translation": "Có một kết nối giữa tải trọng trên bơm và tuổi thọ của gioăng.",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Connection",
+          "lsc_connection"
+        ],
+        "id": "lex.sa.social.lsc_connection",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Connection",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lsc_connection.alt",
+          "sns.sa.social.lsc_connection.alt.ja",
+          "sns.sa.social.lsc_connection.alt.ko",
+          "sns.sa.social.lsc_connection.alt.pt_br",
+          "sns.sa.social.lsc_connection.alt.id",
+          "sns.sa.social.lsc_connection.alt.th",
+          "sns.sa.social.lsc_connection.alt.tr"
+        ]
+      },
+      {
+        "definition": "A link that carries something in both directions: attention, information, care or obligation.",
+        "exampleIds": [
+          "exm.sa.social.lsc_connection.1.1"
+        ],
+        "gloss": "A link that carries something in both directions: attention, information, care or obligation.",
+        "id": "sns.sa.social.lsc_connection.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lsc_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "二者間のつながりであり、一方通行ではなく、双方に信息和ov...",
+        "exampleIds": [
+          "exm.sa.social.lsc_connection.1.1.ja"
+        ],
+        "gloss": "注意や情報、配慮、義務が双方向にやり取りされる関係。",
+        "id": "sns.sa.social.lsc_connection.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lsc_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "두 사람이나 집단이 서로의 존재와 상태를 알아차리고 영향을 주고받는 연결을 말한다. 한쪽으로만 관심이나 의무가 향하는 관계와는 다르다.",
+        "exampleIds": [
+          "exm.sa.social.lsc_connection.1.1.ko"
+        ],
+        "gloss": "관심, 정보, 배려나 의무가 양방향으로 오가는 관계.",
+        "id": "sns.sa.social.lsc_connection.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lsc_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Vínculo que leva algo nos dois sentidos: atenção, informação, cuidado ou obrigação. Também se usa para a relação entre pessoas que se mantêm em contato.",
+        "exampleIds": [
+          "exm.sa.social.lsc_connection.1.1.pt_br"
+        ],
+        "gloss": "Vínculo que leva algo nos dois sentidos: atenção, informação, cuidado ou obrigação.",
+        "id": "sns.sa.social.lsc_connection.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lsc_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Koneksi adalah tautan yang menghubungkan dua pihak secara timbal balik dan dapat membawa perhatian, informasi, rasa peduli, atau kewajiban. Koneksi tidak sama dengan ketergantungan satu arah.",
+        "exampleIds": [
+          "exm.sa.social.lsc_connection.1.1.id"
+        ],
+        "gloss": "Tautan dua arah yang membawa perhatian, informasi, rasa peduli, atau kewajiban.",
+        "id": "sns.sa.social.lsc_connection.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lsc_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสัมพันธ์ที่ทำให้สิ่งต่าง ๆ เคลื่อนย้ายระหว่างสองฝ่ายได้ทั้งสองทาง เช่น ความสนใจ ข้อมูล ความเอาใจใส่ หรือหน้าที่",
+        "exampleIds": [
+          "exm.sa.social.lsc_connection.1.1.th"
+        ],
+        "gloss": "ความเชื่อมโยงที่ส่งสิ่งไปทั้งสองทาง",
+        "id": "sns.sa.social.lsc_connection.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lsc_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İki kişi ya da grup arasında karşılıklı ilgi, bilgi, özen veya sorumluluk aktarabildiği bağ. Yalnızca tek yönlü bir iletişimden daha kapsamlıdır.",
+        "exampleIds": [
+          "exm.sa.social.lsc_connection.1.1.tr"
+        ],
+        "gloss": "İlgi, bilgi, özen veya sorumluluğun karşılıklı aktarılabildiği bağ.",
+        "id": "sns.sa.social.lsc_connection.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lsc_connection",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lsc_connection.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Aralarında bir bağ vardı ve bu bağ her birkaç haftada bir iki yönlü olarak bir şeyler taşıyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lsc_connection.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ระหว่างพวกเขามีความเชื่อมโยงที่ทุก ๆ สัปดาห์ก็ส่งสิ่งต่าง ๆ ไปมาระหว่างกันทั้งสองทาง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lsc_connection.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Keduanya memiliki sebuah koneksi, dan setiap beberapa minggu koneksi itu membawa hal dari satu pihak ke pihak lain secara berbalik.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lsc_connection.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Eles têm uma conexão, e a cada poucas semanas ela leva algo nos dois sentidos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lsc_connection.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그들은 서로 연결되어 있었고, 몇 주마다 양쪽 모두에게 관심과 배려가 오갔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lsc_connection.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "二人の間にはつながりがあり、数週間ごとに何かが双方向にやり取りされる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lsc_connection.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They have a connection, and every few weeks it carries something in both directions.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b3e35015241d3b30ebae6ef6d7b3f4576baa7769d04f4f62b3e5223724fdd327": [
+      {
+        "forms": [
+          "Gender identity",
+          "gre_gender_identity"
+        ],
+        "id": "lex.sa.social.gre_gender_identity",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Gender identity",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gre_gender_identity.alt",
+          "sns.sa.social.gre_gender_identity.alt.ja",
+          "sns.sa.social.gre_gender_identity.alt.ko",
+          "sns.sa.social.gre_gender_identity.alt.pt_br",
+          "sns.sa.social.gre_gender_identity.alt.id",
+          "sns.sa.social.gre_gender_identity.alt.th",
+          "sns.sa.social.gre_gender_identity.alt.tr"
+        ]
+      },
+      {
+        "definition": "The sense a person has of their own gender.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_identity.1.1"
+        ],
+        "gloss": "The sense a person has of their own gender.",
+        "id": "sns.sa.social.gre_gender_identity.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gre_gender_identity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある人が自分自身について感じる性別。出生時の性別や外見からは決まらず、本人の 自己認識 によって述べられる。",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_identity.1.1.ja"
+        ],
+        "gloss": "本人が觉得自己の性別はどれであるLEASEessentially sense a person has of their own gender.",
+        "id": "sns.sa.social.gre_gender_identity.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gre_gender_identity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "개인이 자신의 성별을 어떻게 이해하고 경험하는지를 뜻한다. 다른 사람들이 성별을 알아보는 방식이나 행동을 표현하는 방식과는 별개의 것이다.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_identity.1.1.ko"
+        ],
+        "gloss": "자신이 어떤 성별에 속한다고 느끼는 본인의 감각.",
+        "id": "sns.sa.social.gre_gender_identity.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gre_gender_identity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sentimento ou compreensão pessoal de pertencer a um gênero. Não precisa corresponder à aparência, ao nome ou às expectativas dos outros.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_identity.1.1.pt_br"
+        ],
+        "gloss": "Experiência interna que uma pessoa tem de seu próprio gênero.",
+        "id": "sns.sa.social.gre_gender_identity.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gre_gender_identity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rasa yang dimiliki seseorang tentang jendering sendiri, yang tidak harus sama dengan jenis kelamin yang tercantum dalam dokumen.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_identity.1.1.id"
+        ],
+        "gloss": "Rasa yang dimiliki seseorang tentang jendering sendiri.",
+        "id": "sns.sa.social.gre_gender_identity.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gre_gender_identity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความรู้สึกภายในที่บุคคลมีว่าตนเป็นเพศใด เป็นเรื่องที่ตัวบุคคลเป็นผู้กำหนดและเปิดเผยได้เอง คำนี้ไม่เกี่ยวกับรูปลักษณ์ภายนอกหรือบทบาททางสังคม",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_identity.1.1.th"
+        ],
+        "gloss": "ความรู้สึกที่บุคคลมีต่อเพศของตนเอง",
+        "id": "sns.sa.social.gre_gender_identity.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gre_gender_identity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kişinin kendisini hangi cinsiyete ait hissettiğini belirten kişisel kimlik. Bu duyumu yalnızca kişinin kendisi belirleyebilir.",
+        "exampleIds": [
+          "exm.sa.social.gre_gender_identity.1.1.tr"
+        ],
+        "gloss": "Bir kişinin kendi cinsiyetine ilişkin içsel duyumu.",
+        "id": "sns.sa.social.gre_gender_identity.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gre_gender_identity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gre_gender_identity.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Cinsiyet kimliğiydi ve bunu açıklaması yalnızca ona aitti; odadaki başka kimsenin o hakkında oy vermesi gerekmezdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_identity.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "อัตลักษณ์เพศของเธอเป็นของเธอที่จะบอกเอง ไม่มีใครในห้องนี้มีสิทธิ์ออกเสียงเรื่องนั้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_identity.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Identitas gender Yamaha adalah hal yang hanya dapat ditentukan olehnya sendiri.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_identity.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ela descreveu sua identidade de gênero como uma experiência inteiramente pessoal.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_identity.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀의 젠더 정체성은 스스로 말할 수 있는 것이며, 방에 있는 누구도 그것에 대해 투표할 권리는 없었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_identity.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女の性別の自己認識は彼女自身が語るべきもので、部屋にいた誰もそれに vote できる权限はなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gre_gender_identity.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her gender identity was hers to say, and nobody in the room had a vote on it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

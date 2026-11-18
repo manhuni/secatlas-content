@@ -1,0 +1,1256 @@
+{
+  "records": {
+    "e13cbfc918b53141161ff3284b0df68b7a9adbb2cdffc8295d08077e1b2d5c82": [
+      {
+        "forms": [
+          "Surround view / 360 camera",
+          "surround_view"
+        ],
+        "id": "lex.sa.en.surround.view",
+        "kind": "lexeme",
+        "lemma": "Surround view / 360 camera",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.surround.view.alt"
+        ]
+      },
+      {
+        "definition": "The surround-view cameras are on. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The surround-view cameras are on.",
+        "id": "sns.sa.en.surround.view.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.surround.view",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "e14d581a5f97aa0152fd89dc8179ca95de00dd4e59fdf88482d5fd7f5a494d6a": [
+      {
+        "forms": [
+          "Social insurance contribution",
+          "social_insurance"
+        ],
+        "id": "lex.sa.money.social_insurance",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Social insurance contribution",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.social_insurance.alt",
+          "sns.sa.money.social_insurance.alt.ja",
+          "sns.sa.money.social_insurance.alt.ko",
+          "sns.sa.money.social_insurance.alt.pt_br",
+          "sns.sa.money.social_insurance.alt.id",
+          "sns.sa.money.social_insurance.alt.th",
+          "sns.sa.money.social_insurance.alt.tr"
+        ]
+      },
+      {
+        "definition": "The compulsory payment into the social insurance system that covers sickness, maternity, accidents and retirement.",
+        "exampleIds": [
+          "exm.sa.money.social_insurance.1.1"
+        ],
+        "gloss": "The compulsory payment into the social insurance system that covers sickness, maternity, accidents and retirement.",
+        "id": "sns.sa.money.social_insurance.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.social_insurance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "疾病，出産，傷害，retirementなどの保障をWORDS社会保険制度へ納める，強制の保険料を指す。MOTIVATE通常は給与や報酬の割合で計算される。",
+        "exampleIds": [
+          "exm.sa.money.social_insurance.1.1.ja"
+        ],
+        "gloss": "社会保険制度にhic obligatoryな料金。",
+        "id": "sns.sa.money.social_insurance.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.social_insurance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "질병, 출산, 사고와 노후保障을 다루는 사회보험제도에 일정 금액을 의무적으로 납부하는 보험료다. 대부분 총급여의 일정 비율로 계산된다.",
+        "exampleIds": [
+          "exm.sa.money.social_insurance.1.1.ko"
+        ],
+        "gloss": "사회보험제도에 의무적으로 내는 보험료.",
+        "id": "sns.sa.money.social_insurance.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.social_insurance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a contribuição feita a um sistema de proteção que cobre casos de doença, maternidade, acidentes e aposentadoria.",
+        "exampleIds": [
+          "exm.sa.money.social_insurance.1.1.pt_br"
+        ],
+        "gloss": "Pagamento obrigatório destinado ao sistema de seguridade social.",
+        "id": "sns.sa.money.social_insurance.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.social_insurance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Iuran jaminan sosial adalah setoran wajib yang/sklearn menyetor untuk，i遇到的 biaya yang ditanggung sistem jaminan sosial. Besarnya dapat dihitung berdasarkan persentase penghasilan dan umumnya dipotong dari gaji.",
+        "exampleIds": [
+          "exm.sa.money.social_insurance.1.1.id"
+        ],
+        "gloss": "Iuran wajib ke sistem jaminan sosial yang mencakup penyakit, kehamilan, kecelakaan, dan pensiun.",
+        "id": "sns.sa.money.social_insurance.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.social_insurance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เงินสมทบที่บังคับจ่ายเข้าระบบประกันสังคมเพื่อครอบคลุมความคุ้มครองกรณีเจ็บป่วย คลอด อุบัติเหตุ และการเกษียณ",
+        "exampleIds": [
+          "exm.sa.money.social_insurance.1.1.th"
+        ],
+        "gloss": "เงินที่จ่ายโดยบังคับเข้าสู่ระบบประกันสังคม",
+        "id": "sns.sa.money.social_insurance.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.social_insurance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hastalık, doğum, iş kazası ve emeklilik gibi durumların karşılanması için ödenen zorunlu sigorta katkısıdır.",
+        "exampleIds": [
+          "exm.sa.money.social_insurance.1.1.tr"
+        ],
+        "gloss": "Sosyal güvenlik sistemine ödenen zorunlu katkıdır.",
+        "id": "sns.sa.money.social_insurance.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.social_insurance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.social_insurance.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My social insurance contribution is a percentage of my gross pay.",
+        "translation": "Sosyal sigorta primim, brüt ücretimin belirli bir yüzdesidir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.social_insurance.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My social insurance contribution is a percentage of my gross pay.",
+        "translation": "ค่าประกันสังคมของฉันคิดเป็นร้อยละของเงินเดือนขั้นต้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.social_insurance.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My social insurance contribution is a percentage of my gross pay.",
+        "translation": "Iuran jaminan sosial saya sama dengan persentase dari gaji bruto saya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.social_insurance.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My social insurance contribution is a percentage of my gross pay.",
+        "translation": "Minha contribuição previdenciária corresponde a um percentual do salário bruto.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.social_insurance.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My social insurance contribution is a percentage of my gross pay.",
+        "translation": "내 사회보험료는 총급여의 일정 비율입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.social_insurance.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My social insurance contribution is a percentage of my gross pay.",
+        "translation": "社会保険料は，通常，总報酬に対する割合で計算されます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.social_insurance.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My social insurance contribution is a percentage of my gross pay.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e152337e4e85aa3e81482f0ce329aec7bfad531413fe53fef84f1f0d4165caee": [
+      {
+        "forms": [
+          "Calibration"
+        ],
+        "id": "lex.sa.mind.calibration",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Calibration",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.calibration.en",
+          "sns.sa.mind.calibration.vi"
+        ]
+      },
+      {
+        "definition": "The accuracy of your self-assessment: how closely your confidence matches your actual performance.",
+        "exampleIds": [],
+        "gloss": "The accuracy of your self-assessment: how closely your confidence matches your actual performance.",
+        "id": "sns.sa.mind.calibration.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.calibration",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Độ chính xác của tự đánh giá bản thân: mức độ tự tin khớp với hiệu năng thực tế.",
+        "id": "sns.sa.mind.calibration.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.calibration",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "e17abe0e23f5e2330ad6288c98264d66ca10e314be93c6d0a1ddd481ba2a7117": [
+      {
+        "forms": [
+          "Motive",
+          "dual_motive"
+        ],
+        "id": "lex.sa.mind.dual_motive",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Motive",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.dual_motive.alt",
+          "sns.sa.mind.dual_motive.alt.ja",
+          "sns.sa.mind.dual_motive.alt.ko",
+          "sns.sa.mind.dual_motive.alt.pt_br",
+          "sns.sa.mind.dual_motive.alt.id",
+          "sns.sa.mind.dual_motive.alt.th",
+          "sns.sa.mind.dual_motive.alt.tr"
+        ]
+      },
+      {
+        "definition": "The aim that is behind an act: what the act is for.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1"
+        ],
+        "gloss": "The aim that is behind an act: what the act is for.",
+        "id": "sns.sa.mind.dual_motive.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある行為の背後に的那个目的・Reasonのこと。「衝動」とは異なり、考慮された Behavior の起点として扱われる。",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.ja"
+        ],
+        "gloss": "行為の背後にある目的。その行為は何のために行われるか。",
+        "id": "sns.sa.mind.dual_motive.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 행동을 하게 된 이유나 그 행동을 지탱하는 목적이다. 바깥으로 드러난 행위와 뒤에 있는 동기를 구별해 설명한다.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.ko"
+        ],
+        "gloss": "행동 뒤에 있는 목적, 즉 그 행동을 하는 이유.",
+        "id": "sns.sa.mind.dual_motive.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O objetivo ou a razão que leva alguém a realizar uma ação. Também pode se referir ao motivo emocional ou psicológico que explica um comportamento.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.pt_br"
+        ],
+        "gloss": "A finalidade que está por trás de uma ação.",
+        "id": "sns.sa.mind.dual_motive.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Alasan atau tujuan yang melandasi suatu tindakan, yaitu apa yang ingin dicapai melalui tindakan itu. Istilah ini menekankan tujuan di balik tindakan, bukan akibat atau caraIClona.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.id"
+        ],
+        "gloss": "Tujuan yang mendasari suatu tindakan.",
+        "id": "sns.sa.mind.dual_motive.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เหตุผลหรือเป้าหมายที่ทำให้บุคคลกระทำสิ่งหนึ่ง โดยอาจต่างจากวิธีที่ใช้หรือผลที่ได้รับ",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.th"
+        ],
+        "gloss": "เป้าหมายที่อยู่เบื้องหลังการกระทำ",
+        "id": "sns.sa.mind.dual_motive.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin eylemini yönlendiren ve eylemin neden yapıldığını belirleyen amaç; gerekçeden farklı olarak eylemin arkasındaki itici güç anlamına gelir.",
+        "exampleIds": [
+          "exm.sa.mind.dual_motive.1.1.tr"
+        ],
+        "gloss": "Bir eylemin arkasındaki amaç.",
+        "id": "sns.sa.mind.dual_motive.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.dual_motive",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Amacı makineyi çalışır durumda tutmaktı ve bu amaç kalan kararları belirledi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เป้าหมายคือการรักษาเครื่องจักรให้ทำงานต่อ และเป้าหมายนั้นกำหนดสิ่งอื่นทั้งหมด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tujuannya adalah menjaga mesin tetap berjalan, dan tujuan itu menentukan langkah selanjutnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O motivo era manter a máquina funcionando, e isso determinava todo o resto.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 동기는 기계가 계속 돌아가도록 유지하는 것이었고, 나머지는 그 동기에서 결정되었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "動機は機械を動かし続けることだったし、その動機が他のすべてを決めた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.dual_motive.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The motive was to keep the machine running, and the motive decided the rest.",
+        "translation": "Động cơ là giữ cho máy vận hành, và chính động cơ ấy quyết định tất cả những điều còn lại.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e185a4f68635f0fb4b4e12db53a8235123c6318bcbfc6f6312338a2125c5c908": [
+      {
+        "forms": [
+          "Double bind",
+          "gre_double_bind"
+        ],
+        "id": "lex.sa.social.gre_double_bind",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Double bind",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gre_double_bind.alt",
+          "sns.sa.social.gre_double_bind.alt.ja",
+          "sns.sa.social.gre_double_bind.alt.ko",
+          "sns.sa.social.gre_double_bind.alt.pt_br",
+          "sns.sa.social.gre_double_bind.alt.id",
+          "sns.sa.social.gre_double_bind.alt.th",
+          "sns.sa.social.gre_double_bind.alt.tr"
+        ]
+      },
+      {
+        "definition": "A situation in which a person is given two rules that cannot both be satisfied.",
+        "exampleIds": [
+          "exm.sa.social.gre_double_bind.1.1"
+        ],
+        "gloss": "A situation in which a person is given two rules that cannot both be satisfied.",
+        "id": "sns.sa.social.gre_double_bind.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gre_double_bind",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある人が、両方を同時に守れない二つの指示や規則を与えられた状況。どちらを選んでも_rule に反することになる.",
+        "exampleIds": [
+          "exm.sa.social.gre_double_bind.1.1.ja"
+        ],
+        "gloss": "互いに矛盾する二つの規則を同時に課された状況。",
+        "id": "sns.sa.social.gre_double_bind.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gre_double_bind",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "두 규칙을 동시에 제시받았지만 어느 쪽도 만족시킬 수 없는 상황을 말한다. 둘 중 하나만 선택하면 또 다른 규칙을 어기는 결과가 생긴다.",
+        "exampleIds": [
+          "exm.sa.social.gre_double_bind.1.1.ko"
+        ],
+        "gloss": "상반되거나 양립할 수 없는 두 요구를 동시에 당해지는 상황.",
+        "id": "sns.sa.social.gre_double_bind.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gre_double_bind",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Situação em que uma pessoa recebe duas instruções incompatíveis e não consegue cumprir nenhuma delas sem violar a outra.",
+        "exampleIds": [
+          "exm.sa.social.gre_double_bind.1.1.pt_br"
+        ],
+        "gloss": "Situação com duas exigências que não podem ser satisfeitas ao mesmo tempo.",
+        "id": "sns.sa.social.gre_double_bind.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gre_double_bind",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Situasi ketika seseorang diberi dua aturan atau tuntutan yang saling bertentangan sehingga tidak dapat dipenuhi bersamaan.",
+        "exampleIds": [
+          "exm.sa.social.gre_double_bind.1.1.id"
+        ],
+        "gloss": "Situasi ketika seseorang diberi dua tuntutan yang tidak dapat dipenuhi sekaligus.",
+        "id": "sns.sa.social.gre_double_bind.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gre_double_bind",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สถานการณ์ที่คนหนึ่งถูกสั่งให้ทำสองอย่างที่ขัดกันจนทำพร้อมกันไม่ได้ ไม่ว่าจะเลือกทางใดทางหนึ่งก็ยังถูกมองว่าผิด จึงเป็นสถานการณ์ที่ออกจากไม่ได้",
+        "exampleIds": [
+          "exm.sa.social.gre_double_bind.1.1.th"
+        ],
+        "gloss": "สถานการณ์ที่ได้รับกฎสองข้อซึ่งทำตามได้ไม่พร้อมกัน",
+        "id": "sns.sa.social.gre_double_bind.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gre_double_bind",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin aynı anda uyması gereken, ancak birbiriyle çelişen iki talimatla karşılaştığı durum. İki kuraldan yalnızca biri yerine getirilebilir.",
+        "exampleIds": [
+          "exm.sa.social.gre_double_bind.1.1.tr"
+        ],
+        "gloss": "Birbirini karşılayamayan iki kuralın aynı kişiye verildiği durum.",
+        "id": "sns.sa.social.gre_double_bind.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gre_double_bind",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gre_double_bind.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu bir çifte bağdır: Kararı sen vereceksin, ama herkesin yorulduğunu da sen fark edeceksin.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gre_double_bind.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "นี่คือกับดักสองข้าง: ต้องเป็นคนตัดสินใจ และต้องเป็นคนที่สังเกตว่าทุกคนเหนื่อยล้าหมด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gre_double_bind.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ikatan ganda ini menuntut ia mengambil keputusan sekaligus mencari solusi atas kelelahan seluruh tim.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gre_double_bind.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ElaLiving um dilema duplo: decidir o trabalho e, ao mesmo tempo, perceber que todos estavam exaustos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gre_double_bind.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "결정을 맡으라는 요구와 모두가 지쳤음을 알아채라는 요구는 한 사람에게 이중 구속을 만들었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gre_double_bind.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "これはダブルバインドだ。決める役，解决 and be the one who notices that everybody is exhausted.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gre_double_bind.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A double bind: be the one who decides, and be the one who notices that everybody is exhausted.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e18ebaabb9f2fba0f9acbcf84e1e8bfdaa041eb52c186612c7d900d94378abf5": [
+      {
+        "forms": [
+          "mole",
+          "moles"
+        ],
+        "id": "lex.sa.en.mole.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "mole",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.mole.noun.gb",
+          "prn.sa.en.mole.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.mole.noun.1",
+          "sns.sa.en.mole-noun.alt"
+        ]
+      },
+      {
+        "id": "prn.sa.en.mole.noun.gb",
+        "ipa": "/məʊl/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.mole.noun.us",
+        "ipa": "/moʊl/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Đơn vị SI của lượng chất; bằng 6,022 × 10²³ phân tử.",
+        "domain": [
+          "chemistry"
+        ],
+        "exampleIds": [
+          "exm.sa.en.mole.noun.1.1"
+        ],
+        "gloss": "mol",
+        "id": "sns.sa.vi.mole.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.mole.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The SI unit of amount of substance.",
+        "domain": [
+          "chemistry"
+        ],
+        "exampleIds": [
+          "exm.sa.en.mole.noun.1.1"
+        ],
+        "gloss": "mole",
+        "id": "sns.sa.en.mole-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.mole.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.mole.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "18 g of water is about one mole.",
+        "translation": "18 g nước xấp xỉ một mol.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e1a0b925fa3b95cee5294c0f11a2ed6330cacd621d902799e07e03b5980ee835": [
+      {
+        "forms": [
+          "Electric current",
+          "elec_electric_current"
+        ],
+        "id": "lex.sa.daily_skills.elec_electric_current",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Electric current",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.elec_electric_current.alt",
+          "sns.sa.daily_skills.elec_electric_current.alt.ja",
+          "sns.sa.daily_skills.elec_electric_current.alt.ko",
+          "sns.sa.daily_skills.elec_electric_current.alt.pt_br",
+          "sns.sa.daily_skills.elec_electric_current.alt.id",
+          "sns.sa.daily_skills.elec_electric_current.alt.th",
+          "sns.sa.daily_skills.elec_electric_current.alt.tr"
+        ]
+      },
+      {
+        "definition": "The flow of electricity, measured in amperes (A).",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_electric_current.1.1"
+        ],
+        "gloss": "The flow of electricity, measured in amperes (A).",
+        "id": "sns.sa.daily_skills.elec_electric_current.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.elec_electric_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "電荷が移動する流れで、通常はアンペア（A）を単位として表します。電圧そのものではなく、流れる電気の量を示します。",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_electric_current.1.1.ja"
+        ],
+        "gloss": "電気の電流で、アンペア（A）で測る。",
+        "id": "sns.sa.daily_skills.elec_electric_current.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.elec_electric_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "회로 안에서 전기가 흐르는 현상으로, 단위로는 앰페어(A)를 사용한다. 전압과 구별해야 한다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_electric_current.1.1.ko"
+        ],
+        "gloss": "전기의 흐름으로, 단위로는 앰페어(A)를 쓴다.",
+        "id": "sns.sa.daily_skills.elec_electric_current.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.elec_electric_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Movimento de carga elétrica em um circuito, medido em ampères (A). Pode ser contínuo ou alternado, dependendo do tipo de sistema elétrico.",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_electric_current.1.1.pt_br"
+        ],
+        "gloss": "Fluxo de eletricidade, medido em ampères (A).",
+        "id": "sns.sa.daily_skills.elec_electric_current.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.elec_electric_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Aliran listrik yang diukur dalam satuan amper (A). Kata ini menggambarkan gerak muatan listrik melalui pengh-Conductor, bukan tegangan yang mendorong aliran tersebut.",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_electric_current.1.1.id"
+        ],
+        "gloss": "Aliran listrik yang diukur dalam satuan amper (A).",
+        "id": "sns.sa.daily_skills.elec_electric_current.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.elec_electric_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กระแสไฟฟ้าคือการไหลของประจุไฟฟ้าผ่านวงจร มีหน่วยวัดเป็นแอมเปอร์ (A) และมีทิศทางเสมอ คือจากแหล่งกำเนิดไปยังจุดกลับ",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_electric_current.1.1.th"
+        ],
+        "gloss": "การไหลของประจุไฟฟ้า วัดเป็นแอมเปอร์ (A)",
+        "id": "sns.sa.daily_skills.elec_electric_current.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.elec_electric_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Elektrik akışı olup amper (A) birimiyle ölçülür. Geleneksel olarak akış, iletken içindeki yüklerin hareketi olarak açıklanır.",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_electric_current.1.1.tr"
+        ],
+        "gloss": "Amper (A) cinsinden ölçülen elektrik akışıdır.",
+        "id": "sns.sa.daily_skills.elec_electric_current.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.elec_electric_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_electric_current.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Akım, motorun içinden geçmek yerine toprak iletkeni üzerinden geri döndü.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_electric_current.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "กระแสไฟฟ้าไหลกลับผ่านหลักรากลงดินแทนที่จะไหลผ่านมอเตอร์",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_electric_current.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Arus listriknya mengalir kembali melalui pengh-Conductor tanah, bukan melalui motor.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_electric_current.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A corrente voltou pelo condutor de terra em vez de atravessar o motor.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_electric_current.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "전류는 모터 대신 earth 도체를 통해 되돌아갔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_electric_current.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "電流はモータではなく大地导体へ戻った。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_electric_current.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The current went back through the earth conductor instead of through the motor.",
+        "translation": "Dòng điện đã quay trở lại qua dây nối đất thay vì đi qua động cơ.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e1bf915ca8d0b669bae20f67b990041f590e2246b0a15f1f3eb717cddc0afe9e": [
+      {
+        "forms": [
+          "Traction control",
+          "traction_control"
+        ],
+        "id": "lex.sa.en.traction.control",
+        "kind": "lexeme",
+        "lemma": "Traction control",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.traction.control.alt"
+        ]
+      },
+      {
+        "definition": "The traction control is working: it is reducing wheel spin, for example on a slippery road. Severity level 2 — Caution. Action: Nothing urgent. Lift off the accelerator a little and let the car find grip..",
+        "gloss": "The traction control is working: it is reducing wheel spin, for example on a slippery road.",
+        "id": "sns.sa.en.traction.control.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.traction.control",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "e1e025805cd63af3eaf1de7c010a537df1fa24009c5d332f3a068cd382e46ca7": [
+      {
+        "forms": [
+          "Dice",
+          "dice"
+        ],
+        "id": "lex.sa.kids_food.dice",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Dice",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_food.dice.alt",
+          "sns.sa.kids_food.dice.alt.ja",
+          "sns.sa.kids_food.dice.alt.ko",
+          "sns.sa.kids_food.dice.alt.pt_br",
+          "sns.sa.kids_food.dice.alt.id",
+          "sns.sa.kids_food.dice.alt.th",
+          "sns.sa.kids_food.dice.alt.tr"
+        ]
+      },
+      {
+        "definition": "To cut something into small cubes.",
+        "exampleIds": [
+          "exm.sa.kids_food.dice.1.1"
+        ],
+        "gloss": "To cut something into small cubes.",
+        "id": "sns.sa.kids_food.dice.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_food.dice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "食べ物を小さな立方体に切ることです。",
+        "exampleIds": [
+          "exm.sa.kids_food.dice.1.1.ja"
+        ],
+        "gloss": "食材を小さな立方体に切ること。",
+        "id": "sns.sa.kids_food.dice.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_food.dice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "과일이나 채소 같은 음식을 작은 정사각형으로 잘라 조리하는 방법입니다.",
+        "exampleIds": [
+          "exm.sa.kids_food.dice.1.1.ko"
+        ],
+        "gloss": "음식을 작은 정사각형으로 자르는 조리 방식.",
+        "id": "sns.sa.kids_food.dice.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_food.dice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Em preparos alimentares, dados são cubos pequenos em que um alimento foi cortado. Em geral, essa palavra é usada no plural.",
+        "exampleIds": [
+          "exm.sa.kids_food.dice.1.1.pt_br"
+        ],
+        "gloss": "Pequenos cubos de alimento.",
+        "id": "sns.sa.kids_food.dice.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_food.dice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kata ini digunakan untuk memotong bahan makanan menjadi potongan berbentuk dadu.",
+        "exampleIds": [
+          "exm.sa.kids_food.dice.1.1.id"
+        ],
+        "gloss": "Memotong sesuatu menjadi dadu kecil.",
+        "id": "sns.sa.kids_food.dice.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_food.dice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การตัดอาหารให้เป็นชิ้นเล็ก ๆ ที่มีรูปทรงคล้ายลูกเต็ม โดยปกติใช้กับผลไม้ ผัก หรือเนื้อสัตว์",
+        "exampleIds": [
+          "exm.sa.kids_food.dice.1.1.th"
+        ],
+        "gloss": "การหั่นอาหารเป็นชิ้นเล็ก ๆ รูปทรงลูกเต็ม",
+        "id": "sns.sa.kids_food.dice.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_food.dice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yemek hazırlarken bir şeyi küçük ve eşit küpler hâlinde kesme işlemi. Bu, oyun için küp kullanmak anlamına gelmez.",
+        "exampleIds": [
+          "exm.sa.kids_food.dice.1.1.tr"
+        ],
+        "gloss": "Bir şeyi küçük küpler hâlinde doğrama işlemi.",
+        "id": "sns.sa.kids_food.dice.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_food.dice",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_food.dice.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Please dice the mango for the salad.",
+        "translation": "Lütfen mangoyu salata için küçük küpler hâlinde doğrayın.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_food.dice.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Please dice the mango for the salad.",
+        "translation": "แม่สั่งให้ฉันหั่นมะม่วงเป็นชิ้นเล็ก ๆ สำหรับทำสลัด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_food.dice.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Please dice the mango for the salad.",
+        "translation": "Tolong potong mangga menjadi dadu kecil untuk salad.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_food.dice.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Please dice the mango for the salad.",
+        "translation": "Para a salada, cortei a manga em dados pequenos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_food.dice.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Please dice the mango for the salad.",
+        "translation": "요리사는 망고를 작은 정사각형으로 잘라 샐러드에 넣었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_food.dice.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Please dice the mango for the salad.",
+        "translation": "サラダにマンゴーを角切りにして加えてください。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_food.dice.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Please dice the mango for the salad.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e1e05834a66aa8385d457aef64490698f2f44a4fd444ba4c909a21476949a7d6": [
+      {
+        "forms": [
+          "Cruise control",
+          "cruise_control"
+        ],
+        "id": "lex.sa.en.cruise.control",
+        "kind": "lexeme",
+        "lemma": "Cruise control",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.cruise.control.alt"
+        ]
+      },
+      {
+        "definition": "The cruise control is available or active. Severity level 1 — Information / Status. Action: Nothing to do. Remember it does not brake for you..",
+        "gloss": "The cruise control is available or active.",
+        "id": "sns.sa.en.cruise.control.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.cruise.control",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "e1e09e43a700e3b3d424a5c25fd221830507c82c69abaf36213eb9e17ab51df1": [
+      {
+        "forms": [
+          "Optic nerve",
+          "optic_nerve"
+        ],
+        "id": "lex.sa.kids_science.optic_nerve",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Optic nerve",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.optic_nerve.alt",
+          "sns.sa.kids_science.optic_nerve.alt.ja",
+          "sns.sa.kids_science.optic_nerve.alt.ko",
+          "sns.sa.kids_science.optic_nerve.alt.pt_br",
+          "sns.sa.kids_science.optic_nerve.alt.id",
+          "sns.sa.kids_science.optic_nerve.alt.th",
+          "sns.sa.kids_science.optic_nerve.alt.tr"
+        ]
+      },
+      {
+        "definition": "The nerve that carries the picture from your eye to your brain.",
+        "exampleIds": [
+          "exm.sa.kids_science.optic_nerve.1.1"
+        ],
+        "gloss": "The nerve that carries the picture from your eye to your brain.",
+        "id": "sns.sa.kids_science.optic_nerve.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.optic_nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "眼球から取り込んだ光の情報を脳に送る神経である。単に「目の神経」とも呼ばれる。",
+        "exampleIds": [
+          "exm.sa.kids_science.optic_nerve.1.1.ja"
+        ],
+        "gloss": "目の画像信号を脳に伝える神経。",
+        "id": "sns.sa.kids_science.optic_nerve.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.optic_nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "망막에서 얻은 시각 정보를 뇌로 전달하는 신경이다. 눈은 이 신경을 통해brains? Nope.",
+        "exampleIds": [
+          "exm.sa.kids_science.optic_nerve.1.1.ko"
+        ],
+        "gloss": "눈에서 뇌로 시각 정보를 전달하는 신경이다.",
+        "id": "sns.sa.kids_science.optic_nerve.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.optic_nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Nervo que transmite sinais do olho ao cérebro, permitindo que as pessoas vejam.",
+        "exampleIds": [
+          "exm.sa.kids_science.optic_nerve.1.1.pt_br"
+        ],
+        "gloss": "Nervo que leva as imagens do olho até o cérebro.",
+        "id": "sns.sa.kids_science.optic_nerve.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.optic_nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Saraf optik menghubungkan mata dengan otak dan membawa sinyal visual dari mata ke otak.",
+        "exampleIds": [
+          "exm.sa.kids_science.optic_nerve.1.1.id"
+        ],
+        "gloss": "Saraf yang membawa citra dari mata ke otak.",
+        "id": "sns.sa.kids_science.optic_nerve.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.optic_nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ประสาทที่เชื่อมตากับสมองและนำสัญญาณภาพจากสายตาไปประมวลผลในสมอง",
+        "exampleIds": [
+          "exm.sa.kids_science.optic_nerve.1.1.th"
+        ],
+        "gloss": "ประสาทที่ส่งภาพจากตาไปยังสมอง",
+        "id": "sns.sa.kids_science.optic_nerve.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.optic_nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gözde oluşan görüntü sinyallerini beyne ileten sinir. Gözün hareketlerini kontrol eden sinirlerden ayırt edilmelidir.",
+        "exampleIds": [
+          "exm.sa.kids_science.optic_nerve.1.1.tr"
+        ],
+        "gloss": "Gözden çıkan görüntü sinyallerini beyne taşıyan sinir.",
+        "id": "sns.sa.kids_science.optic_nerve.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.optic_nerve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.optic_nerve.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The optic nerve carries the picture along to the brain.",
+        "translation": "Görme siniri, gözün aldığı görüntüyü beyne taşır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.optic_nerve.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The optic nerve carries the picture along to the brain.",
+        "translation": "ประสาทตาทำหน้าที่ส่งภาพที่เราเห็นไปยังสมอง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.optic_nerve.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The optic nerve carries the picture along to the brain.",
+        "translation": "Saraf optik membawa citra dari mata ke otak.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.optic_nerve.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The optic nerve carries the picture along to the brain.",
+        "translation": "O nervo óptico leva as imagens do olho até o cérebro.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.optic_nerve.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The optic nerve carries the picture along to the brain.",
+        "translation": "광신경은 눈에서 뇌로 시각 정보를 전달한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.optic_nerve.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The optic nerve carries the picture along to the brain.",
+        "translation": "視神経は目から脳へ画像信号を送ります。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.optic_nerve.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The optic nerve carries the picture along to the brain.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

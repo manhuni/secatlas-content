@@ -1,0 +1,104 @@
+{
+  "items": {
+    "attachment": {
+      "definition": "A file sent together with the email. It should be named clearly and referred to in the body.",
+      "dictionaryId": "lex.sa.work.attachment",
+      "example": "Please find the attachment, called Quotation-March-2026.pdf.",
+      "fieldId": "work",
+      "id": "attachment",
+      "lessonIds": [
+        "article_professional_emails"
+      ],
+      "packs": [
+        "knw.work.emails"
+      ],
+      "term": "Attachment"
+    },
+    "constructive_disagreement": {
+      "definition": "A disagreement that improves the decision being made and leaves the working relationship intact.",
+      "dictionaryId": "lex.sa.social.constructive_disagreement",
+      "example": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+      "fieldId": "social",
+      "id": "constructive_disagreement",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Constructive disagreement"
+    },
+    "dessert": {
+      "definition": "The sweet course at the end of the meal, or the sweet things served with coffee.",
+      "dictionaryId": "lex.sa.travel.dessert",
+      "example": "Do you have any sugar-free desserts?",
+      "fieldId": "travel",
+      "id": "dessert",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Dessert"
+    },
+    "local_ai": {
+      "definition": "Running an AI model on one's own hardware rather than through a company's hosted service.",
+      "dictionaryId": "lex.sa.mind.local_ai",
+      "example": "",
+      "fieldId": "mind",
+      "id": "local_ai",
+      "lessonIds": [
+        "article_local_ai"
+      ],
+      "packs": [
+        "knw.mind.local_ai"
+      ],
+      "term": "Local AI"
+    },
+    "map": {
+      "definition": "A drawing of a place, seen from above. A map shows you the way and shows you where things are.",
+      "dictionaryId": "lex.sa.kids_adventure.map",
+      "example": "Tuấn unfolded the old map on the kitchen table.",
+      "fieldId": "kids_adventure",
+      "id": "map",
+      "lessonIds": [
+        "article_hidden_treasure"
+      ],
+      "packs": [
+        "knw.kids.adventure.explorer"
+      ],
+      "term": "Map"
+    },
+    "nice_to_meet_you": {
+      "definition": "What you say the first time you meet somebody. It is polite and warm.",
+      "dictionaryId": "lex.sa.kids_daily.nice_to_meet_you",
+      "example": "Nice to meet you. I am Minh.",
+      "fieldId": "kids_daily",
+      "id": "nice_to_meet_you",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Nice to meet you"
+    },
+    "sleep_debt": {
+      "definition": "The accumulated gap between the sleep you have had and the sleep you need. It can be partly repaid, but slowly.",
+      "dictionaryId": "lex.sa.health.sleep_debt",
+      "example": "I have been building up sleep debt for three weeks of early starts.",
+      "fieldId": "health",
+      "id": "sleep_debt",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Sleep debt"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

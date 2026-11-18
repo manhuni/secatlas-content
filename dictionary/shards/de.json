@@ -1,0 +1,1065 @@
+{
+  "records": {
+    "de0152f952776f09f537d309f1f3f0ec7369c8df1297071e946952f798c86063": [
+      {
+        "forms": [
+          "chemistry"
+        ],
+        "id": "lex.sa.en.chemistry.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "chemistry",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.chemistry.noun.1",
+          "sns.sa.en.chemistry-noun.alt"
+        ]
+      },
+      {
+        "definition": "Ngành khoa học về cấu tạo và phản ứng của các chất.",
+        "domain": [
+          "chemistry"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.38"
+        ],
+        "gloss": "hoá học",
+        "id": "sns.sa.vi.chemistry.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.chemistry.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The study of substances and how they react.",
+        "domain": [
+          "chemistry"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.38"
+        ],
+        "gloss": "The science of substances and their reactions.",
+        "id": "sns.sa.en.chemistry-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.chemistry.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.38",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Terms from mathematics, physics, and chemistry as they appear in English.",
+        "translation": "Các thuật ngữ trong toán học, vật lý và hoá học theo cách dùng của tiếng Anh.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "de09be5a1e9bef3d5cab89e1d0fd3fe2a67f724dadf3a711416431802d82e7d5": [
+      {
+        "forms": [
+          "hyphenated"
+        ],
+        "id": "lex.sa.en.hyphenated.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "hyphenated",
+        "pos": "adjective",
+        "pronunciationIds": [
+          "prn.sa.en.hyphenated.adjective",
+          "prn.sa.en.hyphenated.adjective.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.hyphenated.adjective.1",
+          "sns.sa.en.hyphenated-adjective.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.hyphenated-adjective",
+        "id": "prn.sa.en.hyphenated.adjective",
+        "ipa": "/ˈhaɪfəneɪtɪd/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.hyphenated.adjective.us",
+        "ipa": "/ˈhaɪ.fən.eɪ.t̬ɪd/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Từ viết với dấu gạch ngang, như x-intercept.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.hyphenated.adjective.1.1",
+          "exm.sa.en.hyphenated-adjective.more.01",
+          "exm.sa.en.hyphenated-adjective.more.02"
+        ],
+        "gloss": "có gạch nối",
+        "id": "sns.sa.vi.hyphenated.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.hyphenated.adjective",
+        "pos": "adjective",
+        "resourceIds": [
+          "res.sa.img.hyphenated-adjective",
+          "res.sa.aud.hyphenated-adjective",
+          "res.sa.lnk.hyphenated-adjective",
+          "res.sa.vid.hyphenated-adjective"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Written with a hyphen, and read as one word.",
+        "exampleIds": [
+          "exm.sa.en.hyphenated.adjective.1.1"
+        ],
+        "gloss": "Written with a hyphen, and read as one word.",
+        "id": "sns.sa.en.hyphenated-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.hyphenated.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.hyphenated.adjective.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "x-intercept is a hyphenated technical term.",
+        "translation": "x-intercept là thuật ngữ kỹ thuật có gạch nối.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.hyphenated-adjective",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "hyphenated clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.vi.hyphenated.adjective.1",
+        "id": "lnk.sa.en.glossary.078",
+        "kind": "relation",
+        "toId": "sns.sa.vi.word.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.hyphenated.adjective.1",
+        "id": "lnk.sa.en.glossary.079",
+        "kind": "relation",
+        "toId": "sns.sa.vi.x-intercept.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "de1136542e778ff12bfaa2e5a8b10de8f0c54c9f01c8f4ca61820ccaa84f3d5a": [
+      {
+        "forms": [
+          "Float switch",
+          "pump_float_switch"
+        ],
+        "id": "lex.sa.daily_skills.pump_float_switch",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Float switch",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.pump_float_switch.alt",
+          "sns.sa.daily_skills.pump_float_switch.alt.ja",
+          "sns.sa.daily_skills.pump_float_switch.alt.ko",
+          "sns.sa.daily_skills.pump_float_switch.alt.pt_br",
+          "sns.sa.daily_skills.pump_float_switch.alt.id",
+          "sns.sa.daily_skills.pump_float_switch.alt.th",
+          "sns.sa.daily_skills.pump_float_switch.alt.tr"
+        ]
+      },
+      {
+        "definition": "A switch on a float that starts or stops the pump when the water level rises or falls.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_float_switch.1.1"
+        ],
+        "gloss": "A switch on a float that starts or stops the pump when the water level rises or falls.",
+        "id": "sns.sa.daily_skills.pump_float_switch.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.pump_float_switch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "タンクなどの水面上に浮かぶフロートと連動し、水位が所定の高さへ達したり下回ったりするとポンプの電源を切り替える装置。",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_float_switch.1.1.ja"
+        ],
+        "gloss": "水位の変化に応じてポンプを起動・停止する、フロート付きのスイッチ。",
+        "id": "sns.sa.daily_skills.pump_float_switch.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.pump_float_switch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "탱크 안의 부유 물체의 움직임을 감지해 수위에 따라 펌프를 켜거나 끄는 스위치다. 보통 물이 떨어지면 펌프를 멈추도록 설정한다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_float_switch.1.1.ko"
+        ],
+        "gloss": "수위가 오르내림에 따라 펌프를 작동시키거나 멈추는 스위치.",
+        "id": "sns.sa.daily_skills.pump_float_switch.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.pump_float_switch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Chave instalada em uma boia que liga ou desliga a bomba conforme o nível da água sobe ou desce.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_float_switch.1.1.pt_br"
+        ],
+        "gloss": "Chave instalada em uma boia que liga ou desliga a bomba conforme o nível da água sobe ou desce.",
+        "id": "sns.sa.daily_skills.pump_float_switch.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.pump_float_switch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sakelar pada pelampung yang memulai atau menghentikan pompa saat tingkat air naik atau turun. Alat ini digunakan untuk mengatur pompa secara otomatis berdasarkan ketinggian air.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_float_switch.1.1.id"
+        ],
+        "gloss": "Sakelar pada pelampung yang memulai atau menghentikan pompa saat tingkat air naik atau turun.",
+        "id": "sns.sa.daily_skills.pump_float_switch.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.pump_float_switch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สวิตช์ติดกับลูกลอยซึ่งเปิดหรือปิดปั๊มตามระดับน้ำที่เพิ่มขึ้นหรือลดลง เพื่อควบคุมการทำงานของปั๊มโดยอัตโนมัติ",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_float_switch.1.1.th"
+        ],
+        "gloss": "สวิตช์ติดกับลูกลอยซึ่งเปิดหรือปิดปั๊มตามระดับน้ำ",
+        "id": "sns.sa.daily_skills.pump_float_switch.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.pump_float_switch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Su seviyesi yükselip alçalınca pompayı başlatan veya durduran, şalter üzerindeki anahtar. Genellikle bir su tankında kullanılır ve kuru çalışmayı önler.",
+        "exampleIds": [
+          "exm.sa.daily_skills.pump_float_switch.1.1.tr"
+        ],
+        "gloss": "Su seviyesi yükselip alçalınca pompayı başlatan veya durduran, şalter üzerindeki anahtar.",
+        "id": "sns.sa.daily_skills.pump_float_switch.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.pump_float_switch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_float_switch.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tanktaki şalter, tank boşaldığında pompayı durdurur.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_float_switch.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "สวิตช์ลูกลอยในถังจะหยุดปั๊มเมื่อระดับน้ำลดจนถังว่าง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_float_switch.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sakelar pelampung di dalam tangki menghentikan pompa ketika tangki kosong.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_float_switch.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A chave de boia no tanque desliga a bomba quando o tanque esvazia.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_float_switch.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "탱크의 부유 스위치는 탱크가 비면 펌프를 멈춘다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_float_switch.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "タンクのフロートスイッチは、タンクが空になるとポンプを停止する。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.pump_float_switch.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The float switch in the tank stops the pump when the tank is empty.",
+        "translation": "Công tắc phao trong bể dừng bơm khi bể cạn.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "de54c8624ee56d6f3e7597e513c8619245ff4c8437be4ce41f3d85b4290dfe5c": [
+      {
+        "forms": [
+          "attraction",
+          "msa_attraction"
+        ],
+        "id": "lex.sa.social.msa_attraction",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "attraction",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.msa_attraction.alt",
+          "sns.sa.social.msa_attraction.alt.ko",
+          "sns.sa.social.msa_attraction.alt.pt_br",
+          "sns.sa.social.msa_attraction.alt.id",
+          "sns.sa.social.msa_attraction.alt.th",
+          "sns.sa.social.msa_attraction.alt.tr",
+          "sns.sa.social.msa_attraction.alt.ja"
+        ]
+      },
+      {
+        "definition": "The pull towards somebody, felt before any thought about the future.",
+        "exampleIds": [
+          "exm.sa.social.msa_attraction.1.1"
+        ],
+        "gloss": "The pull towards somebody, felt before any thought about the future.",
+        "id": "sns.sa.social.msa_attraction.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.msa_attraction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "_future를 생각하기 전부터 누군가에게 끌려 하고 그 사람에게 가깝게 느끼는 상태를 가리킨다. 관계를 계속할지 결정하는 것과는 다른 감정이다.",
+        "exampleIds": [
+          "exm.sa.social.msa_attraction.1.1.ko"
+        ],
+        "gloss": "누군가에게 끌려 느끼는 감정.",
+        "id": "sns.sa.social.msa_attraction.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.msa_attraction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Puxão por outra pessoa que aparece antes de qualquer reflexão sobre a relação; é diferente de escolher alguém.",
+        "exampleIds": [
+          "exm.sa.social.msa_attraction.1.1.pt_br"
+        ],
+        "gloss": "A atração por alguém, sentida antes de qualquer pensamento sobre o futuro.",
+        "id": "sns.sa.social.msa_attraction.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.msa_attraction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rasa tertarik atau tertarik pada seseorang yang muncul secara spontan, sebelum ada pertimbangan tentang hubungan yang akan datang.",
+        "exampleIds": [
+          "exm.sa.social.msa_attraction.1.1.id"
+        ],
+        "gloss": "Rasa tertarik pada seseorang sebelum memikirkan hubungan selanjutnya.",
+        "id": "sns.sa.social.msa_attraction.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.msa_attraction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความรู้สึกที่ทำให้บุคคลหนึ่งอยากเข้าหาหรือสนิทกับอีกฝ่าย โดยเกิดขึ้นก่อนพิจารณาความสัมพันธ์ในอนาคต",
+        "exampleIds": [
+          "exm.sa.social.msa_attraction.1.1.th"
+        ],
+        "gloss": "แรงดึงดูดที่เกิดขึ้นก่อนคิดถึงอนาคต",
+        "id": "sns.sa.social.msa_attraction.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.msa_attraction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişiye karşı duyulan ve çoğu zaman ilişkinin geleceğini düşünmeden önce başlayan çekim. Eşleşme veya uyumluluk anlamına gelmez.",
+        "exampleIds": [
+          "exm.sa.social.msa_attraction.1.1.tr"
+        ],
+        "gloss": "Birine karşı, geleceği düşünmeden önce oluşan çekim.",
+        "id": "sns.sa.social.msa_attraction.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.msa_attraction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "関係を結ぶかどうかを考える前に、理性より先に感じる誰かへの魅力や引き付けを指す。",
+        "exampleIds": [
+          "exm.sa.social.msa_attraction.1.1.ja"
+        ],
+        "gloss": "将来を考える前にsomeoneへ抱く、心的な引き付け。",
+        "id": "sns.sa.social.msa_attraction.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.msa_attraction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.msa_attraction.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女には_schedule__のような魅力があり、関係を結ぶかどうかを考えologic_threshold前に引き込まれていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.msa_attraction.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Çekim çok çabuk oluştu ama bu, birini seçmek için yeterli değildi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.msa_attraction.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความดึงดูดเกิดขึ้นทันที และไม่เหมือนการตัดสินใจเลือกคู่ครอง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.msa_attraction.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Rasa tertarik itu langsung muncul, dan itu tidak sama dengan Tons Pilihan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.msa_attraction.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A atração foi imediata, e isso não era a mesma coisa que escolher.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.msa_attraction.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "처음부터 강렬한 끌림을 느꼈지만, 그 사실이 곧바로 그 사람과 결혼하겠다는 뜻은 아니었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.msa_attraction.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The attraction was immediate, and that was not the same as choosing.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "de67c5169cd086f720317b40659e22074137159cf08232343b369ae0bfa2495e": [
+      {
+        "forms": [
+          "Undermining",
+          "cs_undermining"
+        ],
+        "id": "lex.sa.mind.cs_undermining",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Undermining",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_undermining.alt",
+          "sns.sa.mind.cs_undermining.alt.ja",
+          "sns.sa.mind.cs_undermining.alt.ko",
+          "sns.sa.mind.cs_undermining.alt.pt_br",
+          "sns.sa.mind.cs_undermining.alt.id",
+          "sns.sa.mind.cs_undermining.alt.th",
+          "sns.sa.mind.cs_undermining.alt.tr"
+        ]
+      },
+      {
+        "definition": "The slow, repeated work of taking away a person's confidence in their own judgement.",
+        "exampleIds": [
+          "exm.sa.mind.cs_undermining.1.1"
+        ],
+        "gloss": "The slow, repeated work of taking away a person's confidence in their own judgement.",
+        "id": "sns.sa.mind.cs_undermining.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_undermining",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "繰り返される些細な言動によって、他人の自信や判断力uyu?",
+        "exampleIds": [
+          "exm.sa.mind.cs_undermining.1.1.ja"
+        ],
+        "gloss": "他人の判断力への自信を少しずつ奪うこと。",
+        "id": "sns.sa.mind.cs_undermining.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_undermining",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "큰 반박 한 번이 아니라 작은 말이나 태도를 반복해 점차적으로 확신을 무너뜨리는 방식. 대개 한 사건이라기보다 계속 이어지는 과정에서 일어난다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_undermining.1.1.ko"
+        ],
+        "gloss": "어떤 사람의 자기 판단에 대한 신뢰를 조금씩 되풀이해서 깎아 내는 일.",
+        "id": "sns.sa.mind.cs_undermining.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_undermining",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a redução gradual da confiança ou da autonomia de uma pessoa, geralmente causada por comentários ou-small atos repetidos. Cada ocorrência pode parecer insignificante quando considerada isoladamente.",
+        "exampleIds": [
+          "exm.sa.mind.cs_undermining.1.1.pt_br"
+        ],
+        "gloss": "Enfraquecimento progressivo da confiança de alguém no próprio julgamento.",
+        "id": "sns.sa.mind.cs_undermining.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_undermining",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Proses yang dilakukan perlahan dan berulang untuk mengikis kepercayaan seseorang terhadap penilaiannya sendiri. biasanya terjadi melalui kritik kecil yang masing-masingnya terlihat sepele.",
+        "exampleIds": [
+          "exm.sa.mind.cs_undermining.1.1.id"
+        ],
+        "gloss": "Proses perlahan dan berulang untuk mengurangi kepercayaan seseorang terhadap penilaiannya sendiri.",
+        "id": "sns.sa.mind.cs_undermining.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_undermining",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การทำลายความเชื่อมั่นของบุคคลอย่างช้า ๆ และต่อเนื่อง มักทำเป็นคำพูดเล็ก ๆ หรือการกระทำที่แยกต่างหาก",
+        "exampleIds": [
+          "exm.sa.mind.cs_undermining.1.1.th"
+        ],
+        "gloss": "การลดทอดความเชื่อมั่นในการตัดสินใจของบุคคล",
+        "id": "sns.sa.mind.cs_undermining.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_undermining",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tekrarlanan küçük söz, davranış veya itilazlarla bir kişinin öz güvenini aşındırma. Bu, açıkça saldırmaktan çok farklı ve süreklilik gösteren bir etkidir.",
+        "exampleIds": [
+          "exm.sa.mind.cs_undermining.1.1.tr"
+        ],
+        "gloss": "Bir kişinin kendi yargısına güvenini yavaşça ve sürekli biçimde zayıflatma.",
+        "id": "sns.sa.mind.cs_undermining.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_undermining",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_undermining.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Güvenini yavaşça zayıflatma, aylar içinde birkaç küçük yorumla başlamıştı; hiçbiri tek başına tartışmaya değmezdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_undermining.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การทำลายความเชื่อมั่นเกิดจากคำพูดเล็ก ๆ ที่กระจายออกไปตลอดเดือนจนแต่ละคำไม่รู้สึกว่าเป็นการโจมตี",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_undermining.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pelemahan itu berlangsung melalui beberapa remarks kecil selama sebulan, dan tak satu pun sempat diperdebatkan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_undermining.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O enfraquecimento da confiança dela nas próprias decisões durou meses, por meio de pequenas observações repetidas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_undermining.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "한 달에 걸쳐 흩어 놓인 작은 말들이 그녀의 자신감을 깎았고, 그중 어느 것도 따로 다툴 가치는 없었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_undermining.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "一か月かけてontologyした小さな発言の連続が、彼女の自信を少しずつ奪っていった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_undermining.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The undermining was a few small remarks spread over a month, and none of them alone was worth arguing with.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "de6fa8e68324d356769cba8f994fe9d4d64d059963ee0a581c9b9fb64ea41f82": [
+      {
+        "forms": [
+          "Take turns",
+          "take_turns"
+        ],
+        "id": "lex.sa.kids_feelings.take_turns",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Take turns",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_feelings.take_turns.alt",
+          "sns.sa.kids_feelings.take_turns.alt.ja",
+          "sns.sa.kids_feelings.take_turns.alt.ko",
+          "sns.sa.kids_feelings.take_turns.alt.pt_br",
+          "sns.sa.kids_feelings.take_turns.alt.id",
+          "sns.sa.kids_feelings.take_turns.alt.th",
+          "sns.sa.kids_feelings.take_turns.alt.tr"
+        ]
+      },
+      {
+        "definition": "To play first and then let the next person play.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.take_turns.1.1"
+        ],
+        "gloss": "To play first and then let the next person play.",
+        "id": "sns.sa.kids_feelings.take_turns.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_feelings.take_turns",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "先located.Successした人が次 Catalonia 让给别人という、順番にParticipation way。-example。滑具などを公平に共有するときに用いる。",
+        "exampleIds": [
+          "exm.sa.kids_feelings.take_turns.1.1.ja"
+        ],
+        "gloss": "数人が順番に何かをする方式。",
+        "id": "sns.sa.kids_feelings.take_turns.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_feelings.take_turns",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "한 사람이 먼저 행동하고 다음 사람이 그 뒤를 이어서 행동하는 방식이다. 놀이에서 한 가지 차례를 공평하게 나누는 데 자주 쓰인다.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.take_turns.1.1.ko"
+        ],
+        "gloss": "사람들이 번갈아 하는 일.",
+        "id": "sns.sa.kids_feelings.take_turns.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_feelings.take_turns",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ação de participar de uma atividade alternadamente, deixando que cada pessoa tenha sua vez.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.take_turns.1.1.pt_br"
+        ],
+        "gloss": "Revezamento em que uma pessoa joga primeiro e depois cede a vez à seguinte.",
+        "id": "sns.sa.kids_feelings.take_turns.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_feelings.take_turns",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bermain atau melakukan kegiatan pertama, lalu memberikan giliran kepada orang berikutnya.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.take_turns.1.1.id"
+        ],
+        "gloss": "Bermain atau melakukan kegiatan secara bergantian.",
+        "id": "sns.sa.kids_feelings.take_turns.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_feelings.take_turns",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การทำสิ่งหนึ่งตามลำดับ โดยผู้หนึ่งทำก่อนแล้วให้อีกคนทำต่อ",
+        "exampleIds": [
+          "exm.sa.kids_feelings.take_turns.1.1.th"
+        ],
+        "gloss": "การผลัดกันเล่นหรือทำสิ่งต่าง ๆ",
+        "id": "sns.sa.kids_feelings.take_turns.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_feelings.take_turns",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir oyun veya etkinlikte sırayla oynama biçimi. Herkesin eşit fırsatı olması için kullanılır.",
+        "exampleIds": [
+          "exm.sa.kids_feelings.take_turns.1.1.tr"
+        ],
+        "gloss": "Sırayla oynama; önce bir kişi, sonra diğer kişi oynar.",
+        "id": "sns.sa.kids_feelings.take_turns.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_feelings.take_turns",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_feelings.take_turns.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We take turns on the slide.",
+        "translation": "Kaydırakta sırayla oynuyoruz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_feelings.take_turns.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We take turns on the slide.",
+        "translation": "เราผลัดกันเล่นบันไดเล่น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_feelings.take_turns.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We take turns on the slide.",
+        "translation": "Kita bergantian menggunakan alat luncur.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_feelings.take_turns.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We take turns on the slide.",
+        "translation": "No escorregador, nos revezamos para que todos possam brincar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_feelings.take_turns.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We take turns on the slide.",
+        "translation": "친구와 미끄럼틀을 번갈아 타면 순서대로 기다려야 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_feelings.take_turns.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We take turns on the slide.",
+        "translation": "順番に滑って、关键时刻。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_feelings.take_turns.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We take turns on the slide.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "de7d1b721a1e0632b7cf04edf5032c8ecffa9f9a08492152b926f1a5a7e765d7": [
+      {
+        "forms": [
+          "I"
+        ],
+        "id": "lex.sa.en.i.pronoun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "i",
+        "pos": "pronoun",
+        "pronunciationIds": [
+          "prn.sa.en.i.pronoun",
+          "prn.sa.en.i.pronoun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.i.pronoun.1",
+          "sns.sa.en.i-pronoun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.i-pronoun",
+        "id": "prn.sa.en.i.pronoun",
+        "ipa": "/aɪ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.i.pronoun.us",
+        "ipa": "/aɪ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Đại từ ngôi thứ nhất số ít.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [
+          "exm.sa.en.i.pronoun.1.1",
+          "exm.sa.en.i-pronoun.more.01",
+          "exm.sa.en.i-pronoun.more.02"
+        ],
+        "gloss": "tôi",
+        "id": "sns.sa.vi.i.pronoun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.i.pronoun",
+        "pos": "pronoun",
+        "resourceIds": [
+          "res.sa.img.i-pronoun",
+          "res.sa.aud.i-pronoun",
+          "res.sa.lnk.i-pronoun",
+          "res.sa.vid.i-pronoun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The first-person pronoun, or the capital letter I.",
+        "exampleIds": [
+          "exm.sa.en.i.pronoun.1.1"
+        ],
+        "gloss": "The first-person pronoun, or the capital letter I.",
+        "id": "sns.sa.en.i-pronoun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.i.pronoun",
+        "pos": "pronoun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.i.pronoun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "I'm isolating x on one side.",
+        "translation": "Tôi đang cô lập x về một vế.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.i-pronoun",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "i clip",
+        "type": "video"
+      }
+    ],
+    "deb538b50cb6318b008ce659351305f566d3d7453de0332d5be20fa1e69b8c47": [
+      {
+        "forms": [
+          "across"
+        ],
+        "id": "lex.sa.en.across.prep",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "across",
+        "pos": "preposition",
+        "pronunciationIds": [
+          "prn.sa.en.across.prep.gb",
+          "prn.sa.en.across.prep.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.across.prep.span",
+          "sns.sa.en.across-preposition.alt"
+        ]
+      },
+      {
+        "definition": "Từ đầu này sang đầu kia của bộ phận.",
+        "domain": [
+          "electrical"
+        ],
+        "exampleIds": [
+          "exm.sa.en.across.prep.01",
+          "exm.sa.en.across-preposition.more.01",
+          "exm.sa.en.across-preposition.more.02"
+        ],
+        "gloss": "trên; xuyên qua",
+        "id": "sns.sa.en.across.prep.span",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.across.prep",
+        "pos": "preposition",
+        "resourceIds": [
+          "res.sa.img.across-preposition",
+          "res.sa.aud.across-preposition",
+          "res.sa.lnk.across-preposition",
+          "res.sa.vid.across-preposition"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "From one side to the other; over.",
+        "exampleIds": [
+          "exm.sa.en.across.prep.01"
+        ],
+        "gloss": "From one side to the other; over.",
+        "id": "sns.sa.en.across-preposition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.across.prep",
+        "pos": "preposition",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.across.prep.gb",
+        "ipa": "/əˈkrɒs/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.across.prep.us",
+        "ipa": "/əˈkrɔːs/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.across.prep.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Measure the voltage across the resistor.",
+        "translation": "Đo điện áp trên điện trở.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.across-preposition",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "across clip",
+        "type": "video"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

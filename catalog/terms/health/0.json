@@ -1,0 +1,389 @@
+{
+  "items": [
+    {
+      "conflict": true,
+      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
+      "dictionaryId": "lex.sa.daily_skills.serving_size",
+      "example": "One serving is 30 g, which is much less than the bowl I had.",
+      "fieldId": "health",
+      "id": "panel_serving_size",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Serving size"
+    },
+    {
+      "definition": "A daily guide for an average adult, used as the yardstick the percentages on a panel are measured against.",
+      "dictionaryId": "lex.sa.health.daily_value",
+      "example": "One portion gives me 40 % of the daily value for salt.",
+      "fieldId": "health",
+      "id": "daily_value",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Daily value"
+    },
+    {
+      "definition": "The average daily amount of energy or a nutrient for an adult. A guide, not a target.",
+      "dictionaryId": "lex.sa.health.reference_intake",
+      "example": "The reference intake for energy is about 2000 kilocalories a day.",
+      "fieldId": "health",
+      "id": "reference_intake",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Reference intake"
+    },
+    {
+      "definition": "One of the three nutrients the body needs in quantity: carbohydrate, fat and protein.",
+      "dictionaryId": "lex.sa.health.macronutrient",
+      "example": "The main macronutrient in this product is fat, not carbohydrate.",
+      "fieldId": "health",
+      "id": "macronutrient",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Macronutrient"
+    },
+    {
+      "definition": "The saturated fats, which are the part of the fat that matters most for blood cholesterol.",
+      "dictionaryId": "lex.sa.health.saturated_fat",
+      "example": "It has 11 g of saturates, which is over half the daily reference.",
+      "fieldId": "health",
+      "id": "saturated_fat",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Saturates"
+    },
+    {
+      "definition": "Sugar the manufacturer added, as distinct from sugar that came with the fruit or the milk.",
+      "dictionaryId": "lex.sa.health.added_sugar",
+      "example": "Total sugars are 20 g, and added sugars are 15 g of that.",
+      "fieldId": "health",
+      "id": "added_sugar",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Added sugar"
+    },
+    {
+      "definition": "The element that makes salt salty. A label quoting salt is quoting sodium plus the chloride with it.",
+      "dictionaryId": "lex.sa.health.sodium",
+      "example": "This has 0.5 g of sodium per 100 g, which is low.",
+      "fieldId": "health",
+      "id": "sodium",
+      "lessonIds": [
+        "article_nutrition"
+      ],
+      "packs": [
+        "knw.health.nutrition"
+      ],
+      "term": "Sodium"
+    },
+    {
+      "definition": "The roughly 24-hour cycle that sets your sleep, hormones, body temperature and appetite. Light is its strongest input.",
+      "dictionaryId": "lex.sa.health.circadian_rhythm",
+      "example": "My circadian rhythm has shifted, because I have been going to bed at two every night.",
+      "fieldId": "health",
+      "id": "circadian_rhythm",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Circadian rhythm"
+    },
+    {
+      "definition": "The time between getting into bed and falling asleep. Under about twenty minutes is normal.",
+      "dictionaryId": "lex.sa.health.sleep_onset_latency",
+      "example": "My sleep onset latency is about forty minutes, most nights.",
+      "fieldId": "health",
+      "id": "sleep_onset_latency",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Sleep onset latency"
+    },
+    {
+      "definition": "The share of your time in bed that you were actually asleep. A long night can still be an inefficient one.",
+      "dictionaryId": "lex.sa.health.sleep_efficiency",
+      "example": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
+      "fieldId": "health",
+      "id": "sleep_efficiency",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Sleep efficiency"
+    },
+    {
+      "conflict": true,
+      "definition": "The dreaming stage of sleep, when memory is consolidated and emotional reactions are regulated.",
+      "dictionaryId": "lex.sa.health.rem_sleep",
+      "example": "Alcohol takes away REM sleep, so I wake up tired even after a long night.",
+      "fieldId": "health",
+      "id": "rem_sleep",
+      "lessonIds": [
+        "article_science_sleepneed",
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep",
+        "knw.kids.science.sleepneed"
+      ],
+      "term": "REM sleep"
+    },
+    {
+      "definition": "The accumulated gap between the sleep you have had and the sleep you need. It can be partly repaid, but slowly.",
+      "dictionaryId": "lex.sa.health.sleep_debt",
+      "example": "I have been building up sleep debt for three weeks of early starts.",
+      "fieldId": "health",
+      "id": "sleep_debt",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Sleep debt"
+    },
+    {
+      "definition": "Difficulty falling asleep, staying asleep or waking too early, together with daytime impairment. The daytime effect is part of the definition.",
+      "dictionaryId": "lex.sa.health.insomnia",
+      "example": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
+      "fieldId": "health",
+      "id": "insomnia",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Insomnia"
+    },
+    {
+      "definition": "Repeated pauses in breathing during sleep, usually with snoring and gasping. You usually cannot notice it yourself.",
+      "dictionaryId": "lex.sa.health.sleep_apnoea",
+      "example": "My partner says I stop breathing in my sleep, so I will ask about sleep apnoea.",
+      "fieldId": "health",
+      "id": "sleep_apnoea",
+      "lessonIds": [
+        "article_sleep"
+      ],
+      "packs": [
+        "knw.health.sleep"
+      ],
+      "term": "Sleep apnoea"
+    },
+    {
+      "definition": "The substance in the medicine that produces the effect. Every other substance in the pack is only there to help it.",
+      "dictionaryId": "lex.sa.health.active_ingredient",
+      "example": "The active ingredient is the same in both packs, only the strength differs.",
+      "fieldId": "health",
+      "id": "active_ingredient",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Active ingredient"
+    },
+    {
+      "definition": "A condition in which the medicine must not be used, because the risk outweighs the benefit.",
+      "dictionaryId": "lex.sa.health.contraindication",
+      "example": "Pregnancy is a contraindication for this medicine, so I will ask about an alternative.",
+      "fieldId": "health",
+      "id": "contraindication",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Contraindication"
+    },
+    {
+      "definition": "Any effect the medicine has other than the one it is meant to produce.",
+      "dictionaryId": "lex.sa.health.side_effect",
+      "example": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+      "fieldId": "health",
+      "id": "side_effect",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Side effect"
+    },
+    {
+      "definition": "What happens when a medicine meets another medicine, or alcohol, or a particular food. Some are dangerous.",
+      "dictionaryId": "lex.sa.health.interaction",
+      "example": "There is an interaction with this antibiotic, so I will tell the pharmacist about everything I take.",
+      "fieldId": "health",
+      "id": "interaction",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Interaction"
+    },
+    {
+      "definition": "The last date on which the maker guarantees the medicine keeps its strength and its safety.",
+      "dictionaryId": "lex.sa.health.expiry_date",
+      "example": "The expiry date is on the strip, so I checked the one on the box too.",
+      "fieldId": "health",
+      "id": "expiry_date",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Expiry date"
+    },
+    {
+      "definition": "The licence number under which the medicine is sold. It identifies the pack in the regulator's records.",
+      "dictionaryId": "lex.sa.health.marketing_authorisation_number",
+      "example": "The marketing authorisation number is printed at the bottom of the carton, and I quoted it in the report.",
+      "fieldId": "health",
+      "id": "marketing_authorisation_number",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Marketing authorisation number"
+    },
+    {
+      "definition": "Something you notice and describe yourself: pain, dizziness, a cough, a lump.",
+      "dictionaryId": "lex.sa.health.symptom",
+      "example": "The main symptom is the pain, and it has been there for three weeks.",
+      "fieldId": "health",
+      "id": "symptom",
+      "lessonIds": [
+        "article_symptoms"
+      ],
+      "packs": [
+        "knw.health.symptoms"
+      ],
+      "term": "Symptom"
+    },
+    {
+      "definition": "A written symbol such as = or +.",
+      "dictionaryId": "lex.sa.en.sign.noun",
+      "example": "The equals sign balances both sides.",
+      "fieldId": "health",
+      "id": "sign",
+      "lessonIds": [
+        "article_symptoms"
+      ],
+      "packs": [
+        "knw.health.symptoms"
+      ],
+      "term": "sign"
+    },
+    {
+      "definition": "Coming on quickly and lasting a short time, usually days.",
+      "dictionaryId": "lex.sa.health.acute",
+      "example": "This is an acute episode, and it started yesterday.",
+      "fieldId": "health",
+      "id": "acute",
+      "lessonIds": [
+        "article_symptoms"
+      ],
+      "packs": [
+        "knw.health.symptoms"
+      ],
+      "term": "Acute"
+    },
+    {
+      "definition": "Long-standing, generally present for more than three months.",
+      "dictionaryId": "lex.sa.health.chronic",
+      "example": "It has become a chronic problem, so I have started to manage it differently.",
+      "fieldId": "health",
+      "id": "chronic",
+      "lessonIds": [
+        "article_symptoms"
+      ],
+      "packs": [
+        "knw.health.symptoms"
+      ],
+      "term": "Chronic"
+    },
+    {
+      "definition": "A period when the symptoms get noticeably worse than their usual level.",
+      "dictionaryId": "lex.sa.health.exacerbation",
+      "example": "The main exacerbation lasted about four days last month.",
+      "fieldId": "health",
+      "id": "exacerbation",
+      "lessonIds": [
+        "article_symptoms"
+      ],
+      "packs": [
+        "knw.health.symptoms"
+      ],
+      "term": "Exacerbation"
+    },
+    {
+      "definition": "The clinician's shortlist of possible causes, kept in mind while they examine you and order tests.",
+      "dictionaryId": "lex.sa.health.differential_diagnosis",
+      "example": "The doctor said the differential included three possibilities, and explained each one.",
+      "fieldId": "health",
+      "id": "differential_diagnosis",
+      "lessonIds": [
+        "article_symptoms"
+      ],
+      "packs": [
+        "knw.health.symptoms"
+      ],
+      "term": "Differential diagnosis"
+    },
+    {
+      "definition": "A letter sending you to another service, such as a specialist, a physiotherapist or a scan.",
+      "dictionaryId": "lex.sa.health.referral",
+      "example": "I have a referral for a scan, and the appointment is in ten days.",
+      "fieldId": "health",
+      "id": "referral",
+      "lessonIds": [
+        "article_symptoms"
+      ],
+      "packs": [
+        "knw.health.symptoms"
+      ],
+      "term": "Referral"
+    }
+  ],
+  "nextCursor": null,
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,63 @@
+{
+  "items": {
+    "bc_paternal_age": {
+      "definition": "The age of the father when his child is born, used as a medical label.",
+      "dictionaryId": "lex.sa.social.bc_paternal_age",
+      "example": "Paternal age carries different facts from maternal age, and the change is slower.",
+      "fieldId": "social",
+      "id": "bc_paternal_age",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "paternal age"
+    },
+    "grazing": {
+      "definition": "Eating grass that is growing out in a field.",
+      "dictionaryId": "lex.sa.kids_animals.grazing",
+      "example": "The sheep are grazing in the long grass by the gate.",
+      "fieldId": "kids_animals",
+      "id": "grazing",
+      "lessonIds": [
+        "article_kids_animals_farm"
+      ],
+      "packs": [
+        "knw.kids.animals.farm"
+      ],
+      "term": "Grazing"
+    },
+    "isolation": {
+      "definition": "Being cut off from other people without choosing it, and without the comfort that solitude brings.",
+      "dictionaryId": "lex.sa.culture.isolation",
+      "example": "Working from home every day turned into isolation by February.",
+      "fieldId": "culture",
+      "id": "isolation",
+      "lessonIds": [
+        "article_less_time_together"
+      ],
+      "packs": [
+        "knw.culture.together"
+      ],
+      "term": "Isolation"
+    },
+    "mon_credit": {
+      "conflict": true,
+      "definition": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
+      "dictionaryId": "lex.sa.money.credit",
+      "example": "The credit of 1200 $ on the 15th is my salary.",
+      "fieldId": "money",
+      "id": "mon_credit",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Credit"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

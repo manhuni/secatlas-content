@@ -1,0 +1,34 @@
+{
+  "items": {
+    "aiw_token": {
+      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
+      "dictionaryId": "lex.sa.technology.token",
+      "example": "The word \"the\" is one token, and a long word may be three.",
+      "fieldId": "technology",
+      "id": "aiw_token",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Token"
+    },
+    "si_standard": {
+      "definition": "A level of quality or a rule of conduct.",
+      "dictionaryId": "lex.sa.en.standard.noun",
+      "example": "",
+      "fieldId": "physics",
+      "id": "si_standard",
+      "lessonIds": [
+        "article_units_dimensions"
+      ],
+      "packs": [
+        "knw.tech.units"
+      ],
+      "term": "standard"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

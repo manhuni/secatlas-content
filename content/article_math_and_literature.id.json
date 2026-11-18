@@ -1,0 +1,199 @@
+{
+  "language": "id",
+  "lessonId": "article_math_and_literature",
+  "objectives": [
+    "Jelaskan dua cara berpikir dan:janji yang dibuat masing-masing tentang kesimpulannya.",
+    "Jelaskan mesin matematika: aksioma, definisi, deduksi, dan pembuktian.",
+    "Jelaskan mesin kesusastraan: model, kemungkinan, perspektif, dan ambiguitas.",
+    "Pisahkan kesalahan deduksi dari kesalahan premis.",
+    "Gunakan kedua mode secara berdampingan untuk memilih pemeriksaan yang tepat bagi suatu pertanyaan.",
+    "Bergerak antara kedua mode dengan enam langkah, dari fakta tertentu ke keputusan yang dapat ditindaklanjuti oleh seseorang.",
+    "Tulis satu kalimat dalam register seorang analis dan satu kalimat dalam register seorang penulis."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Dua cara berpikir mendasari sebagian besar pekerjaan yang dilakukan orang. **Matematika** bernalar berdasarkan makna yang tetap dan mencapai kesimpulan yang pasti benar: jika kata-kata tersebut sesuai dengan makna yang disiratkan dan langkah-langkahnya benar, kesimpulannya tidak mungkin salah. **Sastra** bernalar berdasarkan model manusia dan mencapai kesimpulan yang harus terasa benar: kisah itu harus tepat dalam menggambarkan perilaku manusia dan dunia yang diceritakannya.\n\nDalam matematika, AndaMulailah dengan menetapkan kata-kata. Sebuah **definisi** menyatakan dengan tepat apa arti suatu kata, sehingga dua orang yang membacanya menggunakan kata tersebut dengan cara yang sama. Anda juga menerima sejumlah kecil pernyataan tanpa bukti; pernyataan ini disebut **aksima**. Dari definisi dan aksima, Anda bergerak melalui **penalaran logis**: Anda menerapkan aturan logika dan mencapai kesimpulan yang mengikuti. Tidak ada yang ditambahkan dari luar. Setiap pernyataan yang lebih lanjut bertumpu hanya pada pernyataan-pernyataan sebelumnya.\n\nDalam sastra, Anda memulai dengan manusia. Seorang penulis memegang sebuah **model** tentang bagaimana seseorang, sekelompok orang, atau suatu tempat berperilaku, dan cerita dibangun di atas model itu. Model itu tidak pernah dituliskan sebagai aturan maupun diberikan dalam bentuk daftar. Model itu tampak dalam pilihan-pilihan: apa yang diperhatikan oleh seorang tokoh, apa yang enggan dilakukan oleh seorang tokoh, dan apa yang dikatakan oleh seorang tokoh ketika ruangan menjadi hening.\n\nPerbedaannya terletak pada apa yang diminta kepada pembaca untuk dilakukan. Pembaca matematika memeriksa langkah-langkahnya. Pembaca sastra percaya pada perilaku tersebut, atau tidak. Yang pertama bertanya, *apakah ini harus benar?* Yang kedua bertanya, *apakah ini mungkin terjadi pada seseorang?* Kedua pertanyaan itu sulit, dan keduanya dijawab secara terbuka.",
+      "examples": [
+        "Matematika menghasilkan sebuah kesimpulan yang harus pasti; sastra menghasilkan kesimpulan yang harus terasa benar.",
+        "Mari tetapkan terlebih dahulu arti kata itu agar kita menggunakannya dengan cara yang sama.",
+        "Cerita ini dibangun berdasarkan model perilaku orang-orang ini."
+      ],
+      "heading": "Dua cara berpikir dan apa yang masing-masing janjikan",
+      "terms": [
+        {
+          "example": "Definisi toleransi ditulis di bagian atas gambar, dan setiap pengukuran mengikutinya.",
+          "gloss": "Pernyataan yang menetapkan arti persis sebuah kata sehingga semua orang menggunakannya dengan cara yang sama."
+        },
+        {
+          "example": "Aksioma adalah titik awal pembuktian, dan semua hal setelahnya diturunkan.",
+          "gloss": "Pernyataan yang dianggap benar oleh suatu sistem dan tidak pernah dibuktikan oleh sistem itu sendiri."
+        },
+        {
+          "example": "Dengan penalaran logis, kesimpulan mengikuti dari premis-premisnya, dan tidak ada lagi yang diperlukan.",
+          "gloss": "Langkah yang membawa Anda dari apa yang telah diterima ke apa yang mengikuti darinya."
+        },
+        {
+          "example": "Penulis tersebut memiliki model tentang perilaku seorang insinyur yang gugup, dan setiap adegan dibangun berdasarkan model itu.",
+          "gloss": "Sebuah gagasan yang workable tentang bagaimana sesuatu berperilaku, disimpan oleh penulis dan tidak pernah ditulis sebagai aturan."
+        }
+      ]
+    },
+    {
+      "body": "Mesin ini memiliki tiga bagian dan tidak berfungsi dengan selain apa pun. **Aksigma** adalah pernyataan yang dianggap benar oleh sistem dan tidak pernah dibuktikan. **Definisi** menetapkan makna suatu kata. **Deduktasi logis** adalah aturan yang membawa Anda dari apa yang sudah diterima menuju apa yang mengikutinya. Ketika ketiganya siap, penalaran menjadi mekanis: setiap baris mengikuti baris-baris di atasnya.\n\nSebuah **bukti** adalah catatan tertulis dari proses penalaran tersebut, dan kekuatannya terletak pada fakta bahwa bukti itu tidak memerlukan|authornya. Setiap pembaca yang mengikuti langkah-langkahnya akan sampai pada kesimpulan yang sama. Inilah yang membuat sebuah bukti dapat diperiksa: bukan melalui kepercayaan, melainkan melalui pemeriksaan. Anda membaca satu baris lalu bertanya, *apakah ini mengikuti apa yang tertulis sebelumnya?* Jika ya, Anda melanjutkan. Jika tidak, Anda menemukan kesalahannya, dan kesalahan itu bersifat lokal — baris-baris sebelumnya tetap berlaku.\n\nSebuah **premis** adalah pernyataan yang menjadi titik awal pembuktian. Berikut bagian yang membuat orang terkejut: pembuktian dari premis yang salah tetap merupakan pembuktian yang sah. Jika premisnya salah, kesalahannya bukan pada deduksinya. Kesalahan terletak pada premis tersebut, dan pembuktian itu telah menunjukkan sesuatu yang lebih sempit daripada yang Anda inginkan: *jika premis-premisnya benar, maka kesimpulannya benar*. Mesin telah menjalankan tugasnya. Masukan itulah yang salah.\n\nSatu sifat lagi yang layak diketahui: **konsistensi**. Suatu himpunan aksioma disebut konsisten jika aksioma-aksioma tersebut tidak saling bertentangan, sehingga tidak ada pernyataan salah yang dapat diturunkan darinya. Matematika tidak memilihkan aksioma untuk Anda dan tidak memberi tahu mana di antaranya yang benar. Matematika memberi tahu apa yang mengikuti dari aksioma-aksioma yang Anda pilih, dan apakah semuanya dapat benar secara bersamaan.",
+      "examples": [
+        "Setiap baris pembuktian mengikuti baris sebelumnya.",
+        "Penyimpangan itu valid; premisnya adalah bagian yang keliru.",
+        "Nyatakanlah premis-premisnya agar argumen tersebut dapat diperiksa di sana dan bukan hanya di sini."
+      ],
+      "heading": "Mesin matematika: aksioma, definisi, dan deduksi",
+      "terms": [
+        {
+          "example": "Bukti ini singkat, dan pembaca mana pun dapat memeriksanya demi demi baris.",
+          "gloss": "Catatan tertulis dari sebuah penalaran, dengan setiap baris mengikuti baris-baris sebelumnya."
+        },
+        {
+          "example": "Premisanya salah, sehingga kesimpulannya hanya benar dalam pembuktian.",
+          "gloss": "Sebuah pernyataan yang menjadi titik awal dan diterima sebagai Given dalam sebuah argumen."
+        },
+        {
+          "example": "Kedua aturan tersebut tidak dapat keduanya bernilai benar, sehingga himpunan aturan tersebut tidak konsisten.",
+          "gloss": "Sifat suatu himpunan aksioma yang tidak saling bertentangan."
+        }
+      ]
+    },
+    {
+      "body": "Mesin sastra tidak memiliki aksioma maupun pembuktian. Mesin itu memiliki sebuah **model**: ide kerja penulis mengenai perilaku manusia. Model itu tidak pernah dituliskan sebagai aturan. Model itu terlihat dari pilihan-pilihan yang dibuat penulis, dan pembaca dapat menyimpulkannya dari apa yang terjadi di dalam halaman.\n\nSebuah cerita dinilai berdasarkan **keplausibilitas**. Tidak ada yang bisa menunjukkan bahwa seorang tokoh akan mengatakan apa yang ia ucapkan, dan tidak perlu ada yang menunjukkan. Pembaca memeriksa cerita tersebut berdasarkan pengetahuan yang sudah dimilikinya tentang perilaku manusia, dan pemeriksaan itu berlangsung di dalam benak pembaca sendiri. Sebuah terasa meyakinkan ketika pembaca mengenali perilaku tersebut, bukan ketika penulis membuktikan apa pun.\n\nBagian ketiga adalah **sudut pandang**: mata orang mana yang dipakai untuk melihat cerita. Cerita yang diceritakan oleh satu orang akan menghilangkan segala sesuatu yang tidak bisa dilihat orang tersebut, dan celah-celah itu bukan kesalahan; melainkan bentuk dari cara ceritanya disampaikan. Seorang penulis juga bisa menggunakan **ambiguity** secara sengaja. Sebuah adegan dapat memuat dua makna sekaligus, sehingga pembaca harus memutuskan makna mana yang mendasari tindakan sang tokoh. Ambiguity yang dikendalikan penulis adalah sebuah alat. Kabur yang tidak dikendalikan siapa pun adalah sebuah kekurangan.\n\nBerikut sebuah adegan singkat yang masuk akal tetapi salah. Sebuah laporan menyatakan bahwa seorang insinyur memasuki ruang kendali, melihat lampu merah, dan mematikan pompa. Setiap bagiannya masuk akal: para insinyur memasuki ruang kendali, lampu merah berarti ada gangguan, dan mematikan pompa adalah apa yang diminta oleh prosedur. Yang salah adalah bagian yang penting, karena prosedur meminta insinyur itu menelepon insinyur piket terlebih dahulu, dan orang dalam cerita tersebut tidak melakukannya. Tidak ada hal aneh yang terjadi: orang biasa membuat keputusan biasa tanpa aturan yang belum pernah dilihatnya. Inilah yang dapat dilakukan oleh sebuah **analogi** bagi Anda, karena cerita tentang insinyur tersebut menyerupai serah terima tugas apa pun yang mengasumsikan pembaca sudah mengetahui aturannya. Sebuah cerita belum tentu benar hanya karena masuk akal; cerita itu benar ketika detailnya cocok dengan dunia yang diklaim dideskripsikannya.",
+      "examples": [
+        "Sebuah cerita dinilai berdasarkan kelayakannya, bukan berdasarkan peragaan.",
+        "Celah-celah dalam apa yang dia lihat adalah sudut pandang, bukan kesalahan.",
+        "Adegan itu masuk akal, tetapi tetap salah tentang aturan tersebut."
+      ],
+      "heading": "Mesin sastra: model, kemungkinan masuk akal, dan sudut pandang",
+      "terms": [
+        {
+          "example": "Cerita itu memiliki kemungkinan logis, dan detail aturan tersebut masih hilang.",
+          "gloss": "Mutu suatu situasi yang mungkin terjadi, meskipun sebenarnya tidak terjadi."
+        },
+        {
+          "example": "Dari sudut pandang insinyur malam, gedung yang sepi itu adalah keseluruhan ceritanya.",
+          "gloss": "Sudut pandang dari mana sebuah kisah diceritakan menentukan apa yang dapat dan tidak dapat dilihat pembaca."
+        },
+        {
+          "example": "Ambiguitas pada baris terakhir memang disengaja, dan pembaca harus mengatasinya.",
+          "gloss": "Tempat dalam teks yang memuat dua makna sekaligus dan pembaca harus memilih salah satunya."
+        },
+        {
+          "example": "Analoginya jelas: pipa itu seperti jalan, dan kehilangan itu adalah jaraknya.",
+          "gloss": "Sebuah perbandingan yang membawa kasus yang diketahui pembaca ke dalam kasus yang belum mereka ketahui."
+        }
+      ]
+    },
+    {
+      "body": "Jika disandingkan, kedua cara itu menjawab pertanyaan berbeda tentang karya yang sama. Matematika untuk fakta-fakta yang harus berlaku bagaimanapun pendapat siapa pun. Sastra untuk orang-orang dan apa yang akan mereka lakukan.\n\nSatu ketimpangan perlu disebut. Matematika dapat diperiksa oleh orang asing yang belum pernah bertemu dengan masalah tersebut: langkah-langkahnya ada, dan pemeriksaan itu tidak bergantung pada pengalaman bersama. Sastra tidak demikian. pembaca harus membawa dunia yang sama seperti yang digambarkan cerita, dan jika mereka tidak memilikinya, cerita tersebut hanya akan bersifat buram. Itulah sebabnya kata-kata dalam sebuah cerita lebih berat daripada kata-kata dalam sebuah pembuktian.\n\nCara tercepat untuk menggunakan kedua kolom tersebut adalah dengan mengajukan pertanyaan terlebih dahulu dan baru memilih centang setelahnya. Pertanyaan tentang ukuran, beban, biaya, atau waktu dijawab dalam_register matematika. Pertanyaan tentang apa yang akan dilakukan orang dijawab dalam register sastra.",
+      "examples": [
+        "Itu adalah persoalan fakta, sehingga hal itu sudah selesai dalam register matematika.",
+        "Itu adalah pertanyaan tentang tindakan, jadi ceritanya harus menyampaikannya.",
+        "Kesalahan terletak pada premis, bukan pada deduksinya."
+      ],
+      "heading": "Dua cara berdampingan",
+      "table": {
+        "headers": [
+          "Question",
+          "Mathematics",
+          "Literature"
+        ],
+        "rows": [
+          [
+            "What does it answer?",
+            "It answers whether a conclusion must be true.",
+            "It answers whether a situation is true to people."
+          ],
+          [
+            "What counts as an error?",
+            "A step that does not follow from the steps above it.",
+            "A behaviour that nobody in that world would show."
+          ],
+          [
+            "What does it produce?",
+            "A result that holds for every case the rules cover.",
+            "A picture of a person that a reader recognises."
+          ],
+          [
+            "How is it checked?",
+            "Line by line, by any reader who follows the steps.",
+            "Against what the reader already knows about how people behave."
+          ],
+          [
+            "Where does it fail?",
+            "When a premise is false or the model of the system is wrong.",
+            "When the model of the people is wrong and nobody checks the story."
+          ],
+          [
+            "What is its use at work?",
+            "To settle a question of fact: a size, a load, a cost, a time.",
+            "To settle a question of action: what a team does next, and why."
+          ]
+        ]
+      }
+    },
+    {
+      "body": "Berpindah antara kedua mode tersebut merupakan sebuah prosedur, dan urutan langkahnya itulah yang menjaga ketepatan prosesnya. Langkah-langkah berikut dapat diterapkan pada berbagai jenis pekerjaan: laporan, spesifikasi, investigasi, atau catatan serah terima.\n\nTiga langkah pertama termasuk dalam matematika. Anda menyebutkan apa yang Anda yakini, Anda menyebutkan model yang akan digunakan, dan Anda menuliskan asumsi yang disembunyikan oleh model tersebut. Langkah keempat dan kelima merupakan perhitungan dan pemeriksaan thereof. Langkah terakhir termasuk dalam literatur: Anda mengatakan apa arti hasilnya bagi seseorang.\n\nUrutan itu penting di satu tempat. Asumsi yang tersembunyi dituliskan *sebelum* perhitungan, bukan setelahnya. Orang yang mengetahui asumsi tersebut sebelum angkanya muncul dapat menilai angka itu. Orang yang mendengarnya kemudian hanya sedang mempertahankan kesimpulan yang sudah dia terima.",
+      "examples": [
+        "Nyatakan faktanya lebih dahulu, dan sebutkan dari mana sumbernya.",
+        "Asumsi yang disembunyikan oleh model ini dituliskan sebelum perhitungan.",
+        "Sekarang beri tahu saya apa artinya ini bagi orang yang harus bertindak berdasarkan hal tersebut."
+      ],
+      "heading": "Cara berpindah dari satu mode ke mode lainnya",
+      "steps": [
+        "Nyatakan fakta yang Surely Anda ketahui, dan catat dari mana Anda mendapatkannya.",
+        "Sebutkan model yang Anda gunakan: aturan, rumus, atau gambaran perilaku orang.",
+        "Tuliskan asumsi yang disembunyikan model, asumsi yang akan kamu hilangkan jika seseorang bertanya mengapa.",
+        "Lakukan perhitungan dengan model tersebut, dan pertahankan satuan pada setiap angka.",
+        "Periksa perhitungan:_hitung dengan cara kedua, lalu bandingkan hasilnya dengan ukuran yang Anda perkirakan.",
+        "Jelaskan apa arti hasil tersebut bagi seseorang dalam satu kalimat yang dapat langsung ditindaklanjuti."
+      ]
+    },
+    {
+      "body": "**Angka menentukan; cerita membuat orang bertindak.** Tim yang hanya memiliki angka memiliki jawaban tanpa gerakan. Tim yang hanya memiliki cerita memiliki gerakan tanpa jawaban. Kerja membutuhkan keduanya, dan masing-masing melakukan tugas yang tidak dapat dilakukan oleh yang lain.\n\nMenulis spesifikasi adalah memperhitungkan matematika. Kata-kata didefinisikan, langkah-langkahnya tersusun berurutan, dan pembaca yang mengikuti langkah tersebut akan mendapatkan mesin yang sama dengan yang Anda dapatkan. Menjelaskan mengapa spesifikasi itu penting adalah·sastra. Pembaca harus melihat karyanya sendiri di dalamnya, atau spesifikasi itu akan tetap berdebar di rak.\n\n**Jika pertanyaannya berupa fakta, letakkan angka terlebih dahulu. Jika pertanyaannya sebuah keputusan, letakkan ceritanya lebih dulu.** Harga, waktu tunggu, toleransi: mulailah dengan angkanya. Sift baru, alat baru, prosedur baru: mulailah dengan alasannya, karena pembaca harusallas itu sebelum detailnya penting.",
+      "examples": [
+        "Angka yang menentukan; cerita yang membuat orang bertindak.",
+        "Spesifikasi adalah matematikanya; alasan yang mendasarinya adalah literatur.",
+        "Berikut ini adalah gambarnya terlebih dahulu, lalu mengapa hal itu penting bagi pekerja shift malam."
+      ],
+      "heading": "Fungsi setiap mode dalam tim"
+    },
+    {
+      "body": "Register sebuah kalimat memberi tahu pendengar jenis jawaban apa yang akan mereka dapatkan. Empat kalimat pertama di bawah ini berada dalam register analis: kalimat-kalimat itu dibaca oleh orang-orang yang akan memeriksa langkah-langkahnya. Empat kalimat berikutnya berada dalam register penulis: kalimat-kalimat itu dibaca oleh orang-orang yang harus memutuskan apakah bertindak atau tidak.\n\nJangan campurkan keduanya dalam satu kalimat. Kalimat yang dimulai dengan perhitungan dan diakhiri dengan pendapat tidak memberikan sesuatu pun untuk diperiksa atau dirasakan pembaca. Jika sebuah pesan memerlukan keduanya, diperlukan dua kalimat: angka terlebih dahulu, alasan kemudian.",
+      "examples": [
+        "Dengan premis-premis tersebut, kesimpulan secara pasti mengikuti.",
+        "Setiap langkah mengikuti langkah sebelumnya, sehingga hasilnya berlaku untuk setiap kasus yang dicakup oleh aturan tersebut.",
+        "Premis adalah asumsi, dan berikut ini adalah asumsi-asumsi yang kami gunakan.",
+        "Berikan saya masukan dan saya akan menunjukkan perhitungannya.",
+        "Alasan ini penting karena apa yang dikerjakan oleh shift malam pada pukul dua pagi.",
+        "Dia menepati janji-janjinya, dan tidak seorang pun di ruangan itu|Issue satu kata pun tentang hal itu.",
+        "Pada gambar, perubahannya kecil; pada minggu orang yang harus melakukannya, perubahannya besar.",
+        "Apa yang terjadi selanjutnya bergantung pada siapa yang membaca ini dan bagaimana mereka thinks hal itu berarti bagi pekerjaan mereka sendiri."
+      ],
+      "heading": "Kalimat yang dapat Anda gunakan pada setiap register."
+    },
+    {
+      "body": "Kedua mode itu bukan pesaing. Keduanya menjawab pertanyaan yang berbeda tentang karya yang sama, dan pekerjaan selesai ketika kedua jawaban sudah ada di hadapan orang-orang yang harus bertindak berdasarkan jawaban tersebut. Berikut contoh kerja kecil. Sebuah lokakarya di satu lantai membutuhkan jalur air baru untuk satu mesin. Ada dua rute yang mungkin: pipa baru yang pendek melalui gedung, atau jalan memutar yang panjang melalui pipa lama. Gambar memberikan panjang masing-masing rute. Perhitungan menentukan rute mana yang dapat mengalirkan debit air sesuai kebutuhan mesin. Cerita menentukan apa yang terjadi pada shift malam, ketika tidak ada satu pun anggota tim siang di sana.\n\nPerhitungannya sederhana. Pada gambar tersebut, jalur pendek sepanjang 25 meter pipa dan jalur panjang sepanjang 40 meter. Semakin panjang pipa, semakin besar tekanan yang digunakan di sepanjang jalur tersebut, sehingga perhitungannya membandingkan kehilangan tekanan pada setiap jalur dengan aliran yang dibutuhkan mesin. Jawabannya bukan persoalan pendapat: pada gambar ini, jalur pendek mampu membawa aliran yang diperlukan, sedangkan jalur panjang tidak. Angka-angka di sini adalah angka yang tertera pada gambar ini, bukan hasil pengukuran bangunan nyata.\n\nCerita itu melengkapi sisanya. Petugas pemeliharaan yang bertugas pada malam hari menyatakan bahwa rute panjang ditutup saat bengkel kosong, karena tekanan di cabang tersebut turun pada malam hari dan pompa berhenti. Perhitungan itu tidak mengetahui hal tersebut, dan memang tidak perlu mengetahuinya: rute panjang sudah dinyatakan tidak memenuhi syarat dalam pemeriksaan. Namun, cerita itu memuat bagian yang tidak dapat dicerminkan oleh angka, yaitu bahwa pekerjaan akan dilakukan pada malam hari, di sebuah rute yang dikunci, bersama seseorangwhose expertise isn't written on drawings = orang yang pengetahuannya tidak tercantum dalam gambar teknik.\n\nLangkah terakhir adalah **interpretasi**. Pembaca mengambil hasil tersebut dan.memberikannya makna dalam pekerjaan mereka sendiri: teknisi yang harus memotong pipa, perencana yang harus membelinya, atau manajer yang harus menjelaskan biayanya. Matematika dapat memeriksa bahwa suatu hasil benar, tetapi tidak dapat memeriksa bahwa hasil itu dipahami. Sastra dapat membuatnya dipahami, tetapi tidak dapat membuatnya benar. Pekerjaan yang membutuhkan keduanya memerlukan angka yang dapat diperiksa orang dan cerita yang dapat mereka gunakan untuk bertindak.",
+      "examples": [
+        "Perhitungan menentukan rute; cerita menentukan shift malam.",
+        "Angka-angka tersebut adalah yang ada dalam gambar kerja kami, dan gambar kerja kami memiliki gambar sendiri.",
+        "Jelaskan apa arti hasilnya bagi orang yang harus bertindak berdasarkan hasil tersebut."
+      ],
+      "heading": "Ketika keduanya bekerja sama: sebuah angka dan sebuah cerita",
+      "terms": [
+        {
+          "example": "Interpretasi adalah langkah terakhir: angkanya sudah benar, dan sekarang harus berarti sesuatu pada shift malam.",
+          "gloss": "Makna yang diberikan pembaca terhadap suatu hasil dalam karya mereka sendiri setelah memahaminya."
+        }
+      ]
+    }
+  ],
+  "summary": "Matematika dan sastra adalah dua mesin untuk mencapai suatu kesimpulan, dan masing-masing menawarkan janji yang berbeda. Setelah membaca ini, Anda dapat menjelaskan bagaimana sebuah bukti disusun dan diperiksa, menjelaskan bagaimana sebuah cerita dinilai, menunjukkan kesalahan penalaran dari kesalahan premis, serta berpindah antara kedua mode tersebut melalui enam langkah, mulai dari fakta yang pasti hingga kalimat yang dapat ditindaklanjuti oleh seseorang.",
+  "title": "Matematika dan Sastra: Dua Cara Berpikir"
+}

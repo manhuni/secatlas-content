@@ -1,0 +1,985 @@
+{
+  "records": {
+    "7d15fc6cf0c16b59543818e36dfdd629d3159645c78e595e484a6c9cc9b82992": [
+      {
+        "forms": [
+          "Cold chain",
+          "cold_chain"
+        ],
+        "id": "lex.sa.daily_skills.cold_chain",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Cold chain",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.cold_chain.alt",
+          "sns.sa.daily_skills.cold_chain.alt.ja",
+          "sns.sa.daily_skills.cold_chain.alt.ko",
+          "sns.sa.daily_skills.cold_chain.alt.pt_br",
+          "sns.sa.daily_skills.cold_chain.alt.id",
+          "sns.sa.daily_skills.cold_chain.alt.th",
+          "sns.sa.daily_skills.cold_chain.alt.tr"
+        ]
+      },
+      {
+        "definition": "The unbroken path a chilled product follows from the factory to your fridge. If the chain breaks, the use-by date stops meaning anything.",
+        "exampleIds": [
+          "exm.sa.daily_skills.cold_chain.1.1"
+        ],
+        "gloss": "The unbroken path a chilled product follows from the factory to your fridge. If the chain breaks, the use-by date stops meaning anything.",
+        "id": "sns.sa.daily_skills.cold_chain.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.cold_chain",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "コールドチェーンとは、冷蔵品が製造）から家庭の冷蔵庫まで中断なく低温状態を保って運ばれる過程である。途切れるとITUDEの保期限を保証できなくなる。",
+        "exampleIds": [
+          "exm.sa.daily_skills.cold_chain.1.1.ja"
+        ],
+        "gloss": "冷蔵品が工場から冷蔵庫まで低温を保たれたまま運ばれる一続きの過程。",
+        "id": "sns.sa.daily_skills.cold_chain.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.cold_chain",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "냉장 제품이 공장에서 소비자의 냉장고까지 온도를 낮게 유지한 채 이동하는 연속된 경로를 뜻한다. 이 경로가 끊기면 소비 기한의 보증이 무효가 된다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.cold_chain.1.1.ko"
+        ],
+        "gloss": "냉장产品在 공장에서 냉장고까지 중단 없이 유지되는 유통 경로이다.",
+        "id": "sns.sa.daily_skills.cold_chain.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.cold_chain",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sequência ininterrupta pela qual um produto refrigerado permanece em temperatura adequada, desde a fábrica até o consumidor. Se essa cadeia for rompida, a data de validadeindicada no produto perde a garantia de segurança.",
+        "exampleIds": [
+          "exm.sa.daily_skills.cold_chain.1.1.pt_br"
+        ],
+        "gloss": "Caminho contínuo de manutenção do frio de um produto refrigerado.",
+        "id": "sns.sa.daily_skills.cold_chain.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.cold_chain",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rantai dingin adalah jalur yang tidak terputus dan dilalui produk dingin dari pabrik hingga kulkas. Jika rantai ini terputus, tanggalwijden werden pada kemasan tidak lagi dapat dijadikan acuan.",
+        "exampleIds": [
+          "exm.sa.daily_skills.cold_chain.1.1.id"
+        ],
+        "gloss": "Rantai yang tidak terputus dari pabrik hingga kulkas untuk transporting produk dingin.",
+        "id": "sns.sa.daily_skills.cold_chain.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.cold_chain",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เส้นทางที่สินค้าเย็นต้องอยู่ในสภาพเย็นต่อเนื่องตั้งแต่โรงงานจนถึงตู้เย็น หากขั้นตอนใดเสียกลาง วันสิ้นสุดอายุใช้งานบนฉลากก็ไม่อาจรับประกันได้",
+        "exampleIds": [
+          "exm.sa.daily_skills.cold_chain.1.1.th"
+        ],
+        "gloss": "สายโซ่เย็นที่สินค้าต้องอยู่ในสภาพเย็นอย่างต่อเนื่องตลอดการเดินทาง",
+        "id": "sns.sa.daily_skills.cold_chain.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.cold_chain",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Soğutulmuş bir ürünün üretimden tüketiciye kadar belirli bir sıcaklık aralığında korunmasını sağlayan sürekli zincir. Zincir kırılırsa ürünün son tüketim tarihi güvenilir olmaktan çıkar.",
+        "exampleIds": [
+          "exm.sa.daily_skills.cold_chain.1.1.tr"
+        ],
+        "gloss": "Soğutulmuş ürünün fabrikadan eve kadar kesintisiz sürdürülen soğukluk zinciri.",
+        "id": "sns.sa.daily_skills.cold_chain.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.cold_chain",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.cold_chain.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cold chain was broken, so the date on the pack means nothing.",
+        "translation": "Soğuk zincir kırıldığı için ambalajdaki tarih artık bir anlam ifade etmiyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.cold_chain.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cold chain was broken, so the date on the pack means nothing.",
+        "translation": "สายโซ่เย็นถูกทำลาย วันสิ้นสุดอายุใช้งานบนซองจึงไม่มีความหมาย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.cold_chain.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cold chain was broken, so the date on the pack means nothing.",
+        "translation": "Rantai dingin terputus, sehingga tanggal pada kemasan tidak lagi bermakna.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.cold_chain.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cold chain was broken, so the date on the pack means nothing.",
+        "translation": "A cadeia fria foi rompida, então a data impressa na embalagem não garante mais a segurança.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.cold_chain.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cold chain was broken, so the date on the pack means nothing.",
+        "translation": "냉장 유통 경로가 끊겼으므로 포장지에 적힌 소비 기한은 더 이상 믿을 수 없다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.cold_chain.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cold chain was broken, so the date on the pack means nothing.",
+        "translation": "コールドチェーンが途切れたため、Russパッケージの期限は意味がなくなった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.cold_chain.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The cold chain was broken, so the date on the pack means nothing.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7d2857159e3091222d89dc3a870f741fa522997ee31f6557fc29a7cd4387ddac": [
+      {
+        "forms": [
+          "velocity"
+        ],
+        "id": "lex.sa.en.velocity.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "velocity",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.velocity.noun.1",
+          "sns.sa.en.velocity-noun.alt"
+        ]
+      },
+      {
+        "definition": "Tốc độ có hướng của một vật.",
+        "domain": [
+          "physics"
+        ],
+        "exampleIds": [],
+        "gloss": "vận tốc",
+        "id": "sns.sa.vi.velocity.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.velocity.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The speed of a body together with its direction.",
+        "domain": [
+          "physics"
+        ],
+        "exampleIds": [],
+        "gloss": "Speed in a given direction.",
+        "id": "sns.sa.en.velocity-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.velocity.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "7d4899c3783676e6b75be09e44f11e4bdb0428d61c583d10c02ed4cb4d5ac932": [
+      {
+        "forms": [
+          "Lane keeping assist",
+          "lane_keep"
+        ],
+        "id": "lex.sa.en.lane.keep",
+        "kind": "lexeme",
+        "lemma": "Lane keeping assist",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.lane.keep.alt"
+        ]
+      },
+      {
+        "definition": "The steering is corrected by the system to stay in the lane. Severity level 1 — Information / Status. Action: Nothing to do, but keep your hands on the wheel..",
+        "gloss": "The steering is corrected by the system to stay in the lane.",
+        "id": "sns.sa.en.lane.keep.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.lane.keep",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "7d4b47cf84bb52b6cab5606f7b0b16b5ebf0c77571953704aea3ce309b18c339": [
+      {
+        "forms": [
+          "Wardrobe",
+          "wardrobe"
+        ],
+        "id": "lex.sa.kids_home.wardrobe",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Wardrobe",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_home.wardrobe.alt",
+          "sns.sa.kids_home.wardrobe.alt.ja",
+          "sns.sa.kids_home.wardrobe.alt.ko",
+          "sns.sa.kids_home.wardrobe.alt.pt_br",
+          "sns.sa.kids_home.wardrobe.alt.id",
+          "sns.sa.kids_home.wardrobe.alt.th",
+          "sns.sa.kids_home.wardrobe.alt.tr"
+        ]
+      },
+      {
+        "definition": "A tall cupboard with a door. You hang your clothes inside it.",
+        "exampleIds": [
+          "exm.sa.kids_home.wardrobe.1.1"
+        ],
+        "gloss": "A tall cupboard with a door. You hang your clothes inside it.",
+        "id": "sns.sa.kids_home.wardrobe.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_home.wardrobe",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "背が高く、扉のついた大型の収納家具。中身はしよ挂着衣服を在里面に掛ける。",
+        "exampleIds": [
+          "exm.sa.kids_home.wardrobe.1.1.ja"
+        ],
+        "gloss": "背が高く戸のついた大型の箪笥。 clothes を在里面に掛ける。",
+        "id": "sns.sa.kids_home.wardrobe.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_home.wardrobe",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "문이 달린 높은 옷장으로,里面에 옷이나 다른 물건을 넣어 두는 곳이다.",
+        "exampleIds": [
+          "exm.sa.kids_home.wardrobe.1.1.ko"
+        ],
+        "gloss": "옷을 걸어 두는 큰 문 있는 옷장.",
+        "id": "sns.sa.kids_home.wardrobe.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_home.wardrobe",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Armário de altura em que as roupas são penduradas ou colocadas. Em alguns casos, o termo também pode designar o conjunto de roupas de uma pessoa.",
+        "exampleIds": [
+          "exm.sa.kids_home.wardrobe.1.1.pt_br"
+        ],
+        "gloss": "Móvel alto com porta, usado para guardar roupas.",
+        "id": "sns.sa.kids_home.wardrobe.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_home.wardrobe",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Lemari yang biasanya memiliki pintu dan digunakan untuk menggantung atau menyimpan pakaian. Ukurannya dapat lebih tinggi daripada lemari biasa.",
+        "exampleIds": [
+          "exm.sa.kids_home.wardrobe.1.1.id"
+        ],
+        "gloss": "Lemari tinggi berpintu untuk menyimpan pakaian.",
+        "id": "sns.sa.kids_home.wardrobe.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_home.wardrobe",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ตู้สูงที่มีบานประตู ใช้เก็บและแขวนเสื้อผ้าไว้ภายใน",
+        "exampleIds": [
+          "exm.sa.kids_home.wardrobe.1.1.th"
+        ],
+        "gloss": "ตู้สูงที่ใช้แขวนเสื้อผ้า",
+        "id": "sns.sa.kids_home.wardrobe.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_home.wardrobe",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Giysilerin asıldığı, yüksek ve genellikle kapılı dolap. Kıyafetlerin toplandığı yeri de belirtebilir.",
+        "exampleIds": [
+          "exm.sa.kids_home.wardrobe.1.1.tr"
+        ],
+        "gloss": "Kıyafetlerini içine astığın, kapısı olan yüksek dolap.",
+        "id": "sns.sa.kids_home.wardrobe.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_home.wardrobe",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_home.wardrobe.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My school uniform hangs in the wardrobe.",
+        "translation": "Okul üniformam dolapta asılı duruyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_home.wardrobe.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My school uniform hangs in the wardrobe.",
+        "translation": "ชุดนักเรียนของฉันแขวนอยู่ในตู้เสื้อผ้า",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_home.wardrobe.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My school uniform hangs in the wardrobe.",
+        "translation": "Seragam sekolah saya tergantung di dalam lemari.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_home.wardrobe.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My school uniform hangs in the wardrobe.",
+        "translation": "Meu uniforme escolar está pendurado no guarda-roupa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_home.wardrobe.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My school uniform hangs in the wardrobe.",
+        "translation": "내 학교 교복은 옷장에 걸려 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_home.wardrobe.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My school uniform hangs in the wardrobe.",
+        "translation": "学校の制服はクローゼットにかかっている。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_home.wardrobe.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My school uniform hangs in the wardrobe.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7d77d0bea03bedde21b24cc2eb9c020785d4789025f67964eae825cdb710cac8": [
+      {
+        "forms": [
+          "Variable reward",
+          "variable_reward"
+        ],
+        "id": "lex.sa.technology.variable_reward",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Variable reward",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.variable_reward.alt",
+          "sns.sa.technology.variable_reward.alt.ja",
+          "sns.sa.technology.variable_reward.alt.ko",
+          "sns.sa.technology.variable_reward.alt.pt_br",
+          "sns.sa.technology.variable_reward.alt.id",
+          "sns.sa.technology.variable_reward.alt.th",
+          "sns.sa.technology.variable_reward.alt.tr"
+        ]
+      },
+      {
+        "definition": "A reward schedule where the outcome is unpredictable. Unpredictable rewards keep a behaviour going far longer than predictable ones.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1"
+        ],
+        "gloss": "A reward schedule where the outcome is unpredictable. Unpredictable rewards keep a behaviour going far longer than predictable ones.",
+        "id": "sns.sa.technology.variable_reward.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "報酬の内容やタイミングが毎回予測できない場合、報酬が明確な場合より行動が長く続く傾向がある。",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.ja"
+        ],
+        "gloss": "結果が予測できない報酬の与え方。",
+        "id": "sns.sa.technology.variable_reward.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "다음 보상이 나올지 알 수 없는 방식의 보상 일정이다. 예측 가능한 보상보다 행동을 훨씬 오래 지속시킬 수 있다.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.ko"
+        ],
+        "gloss": "보상의 결과를 예측할 수 없을 때의 보상 방식.",
+        "id": "sns.sa.technology.variable_reward.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Em um esquema de recompensa variável, a possibilidade de ganhar algo mantém o comportamento por mais tempo do que uma recompensa previsível.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.pt_br"
+        ],
+        "gloss": "Recompensa cujo resultado não pode ser previsto com certeza.",
+        "id": "sns.sa.technology.variable_reward.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam pola imbalan variabel, Butcher COD ‘Tidak dapat diprediksi’. Ketidakpastian ini dapat membuat suatu perilaku terus berlangsung lebih lama daripada imbalan yang dapat diperkirakan.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.id"
+        ],
+        "gloss": "Imbalan yang hasil dan waktunya tidak dapat diprediksi.",
+        "id": "sns.sa.technology.variable_reward.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การให้รางวัลตามระบบที่ผลลัพธ์ไม่แน่นอน ความไม่แน่นอนนี้มักทำให้พฤติกรรมหนึ่ง ๆ ดำเนินต่อไปได้นานกว่ารางวัลที่คาดการณ์ได้",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.th"
+        ],
+        "gloss": "ระบบรางวัลที่ผลลัพธ์คาดเดาไม่ได้",
+        "id": "sns.sa.technology.variable_reward.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sonucun önceden bilinemediği ödül düzeni. Belirsiz ödüller, davranışın tahmin edilebilir ödüllere göre çok daha uzun sürmesini sağlar.",
+        "exampleIds": [
+          "exm.sa.technology.variable_reward.1.1.tr"
+        ],
+        "gloss": "Sonucun önceden bilinemediği ödül düzeni.",
+        "id": "sns.sa.technology.variable_reward.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.variable_reward",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "Hangi gönderinin ilginç çıkacağını bilmediğiniz için uygulamayı açmaya devam ediyorsunuz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "คุณเปิดแอปซ้ำ ๆ เพราะไม่รู้ว่าโพสต์ใดจะน่าสนใจ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "Anda terus membuka aplikasi karena tidak pernah tahu kiriman mana yang menarik.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "Você continua abrindo o aplicativo porque nunca sabe qual publicação será interessante.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "다음에 어떤 게시물이 재미있을지 알 수 없으므로 계속 앱을 열게 됩니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "どの投稿がおもしろいか分からないので.Tx? アプリを開き続けてしまいます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.variable_reward.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You keep opening the app because you never know which post will be interesting.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7da5fa67d2150c87a5ba597be7226a60676d5024a93df56d3df15c5debeca797": [
+      {
+        "forms": [
+          "Heated seat",
+          "heated_seat"
+        ],
+        "id": "lex.sa.en.heated.seat",
+        "kind": "lexeme",
+        "lemma": "Heated seat",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.heated.seat.alt"
+        ]
+      },
+      {
+        "definition": "The seat heater is on, on one or more levels. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The seat heater is on, on one or more levels.",
+        "id": "sns.sa.en.heated.seat.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.heated.seat",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "7dbe2b4d6f8df9643a8463c87f27e84ea1c81b3b375b4830cb7ce22c280c09bc": [
+      {
+        "forms": [
+          "Social norm",
+          "social_norm"
+        ],
+        "id": "lex.sa.culture.social_norm",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Social norm",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.culture.social_norm.alt",
+          "sns.sa.culture.social_norm.alt.ja",
+          "sns.sa.culture.social_norm.alt.ko",
+          "sns.sa.culture.social_norm.alt.pt_br",
+          "sns.sa.culture.social_norm.alt.id",
+          "sns.sa.culture.social_norm.alt.th",
+          "sns.sa.culture.social_norm.alt.tr"
+        ]
+      },
+      {
+        "definition": "A rule everybody follows without discussing it, such as removing shoes before entering a home.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1"
+        ],
+        "gloss": "A rule everybody follows without discussing it, such as removing shoes before entering a home.",
+        "id": "sns.sa.culture.social_norm.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある社会や共同体で、通常每个人都遵守すると考えられる行動の基準。法的な規則とは限らない。",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.ja"
+        ],
+        "gloss": "誰も明示的に定めないまま誰もが従う、社会的な行動の決まり。",
+        "id": "sns.sa.culture.social_norm.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "집에 들어갈 때 신발을 벗는 것처럼 모두가 당연히 지키는 사회 규칙이다. 반대로 일부는 따르지 않을 수도 있다.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.ko"
+        ],
+        "gloss": "사람들이 말로 설명하지 않고 자연스럽게 따르는 사회 규범이다.",
+        "id": "sns.sa.culture.social_norm.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Regra de convivência esperada pelas pessoas, que em geral é cumprida sem precisar ser explicada. Não se limita a uma lei formal.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.pt_br"
+        ],
+        "gloss": "Regra compartilhada por um grupo e seguida sem discussão, como tirar os sapatos antes de entrar em uma casa.",
+        "id": "sns.sa.culture.social_norm.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Norma sosial adalah expectation atau kebiasaan yang berlaku dalam suatu kelompok dan biasanya tidak perlu dibicarakan. Aturan ini dapat berbeda menurut budaya dan situasi serta tidak selalu merupakan hukum resmi.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.id"
+        ],
+        "gloss": "Norma sosial adalah aturan tak tertulis yang dianut bersama.",
+        "id": "sns.sa.culture.social_norm.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เช่น การถอดรองเท้าก่อนเข้าบ้าน มารยาททางสังคมอาจเปลี่ยนแปลงได้ตามวัฒนธรรมและสถานที่",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.th"
+        ],
+        "gloss": "กฎหรือความคาดหมายที่คนทั่วไปปฏิบัติตามโดยไม่ต้องตกลงกัน",
+        "id": "sns.sa.culture.social_norm.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Evde ayakkabıları çıkarmak gibi herkesin tartışmadan uyduğu toplumsal kural.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.tr"
+        ],
+        "gloss": "Herkesin tartışmadan uyduğu toplumsal kural.",
+        "id": "sns.sa.culture.social_norm.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "Buradaki norm ona on dakika geç gelmektir ve herkes saati farklı okur.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "มารยาททางสังคมของสถานที่นี้คือมาสายสิบนาที และทุกคนต่างก็อ่านเวลาไม่เหมือนกัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "Di rumah itu, guests expected untuk melepas sepatu sebelum masuk.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "A norma social daqui é chegar dez minutos atrasado, e todos interpretam o horário de maneira diferente.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "한국에서는 집에 들어갈 때 신발을 벗는 것이 사회 규범이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "ここでは10分遅刻することが社会規範好几个，因此大家即使看了时间也会表现得不一样。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7dd9d5f010e8a9a74e0d40763f82735105cdac542ed9b1cf493498d650af161e": [
+      {
+        "forms": [
+          "Generative AI",
+          "generative_ai"
+        ],
+        "id": "lex.sa.technology.generative_ai",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Generative AI",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.generative_ai.alt",
+          "sns.sa.technology.generative_ai.alt.ja",
+          "sns.sa.technology.generative_ai.alt.ko",
+          "sns.sa.technology.generative_ai.alt.pt_br",
+          "sns.sa.technology.generative_ai.alt.id",
+          "sns.sa.technology.generative_ai.alt.th",
+          "sns.sa.technology.generative_ai.alt.tr"
+        ]
+      },
+      {
+        "definition": "AI that produces new content such as text, images, audio or code, rather than only sorting or labelling.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1"
+        ],
+        "gloss": "AI that produces new content such as text, images, audio or code, rather than only sorting or labelling.",
+        "id": "sns.sa.technology.generative_ai.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "学習した内容に基づいて、新しい文章や画像、音声、コードを生成する人工知能。 mere data classification not. 単にデータに順位|labelingsを付ける処理と区別される。",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.ja"
+        ],
+        "gloss": "文章や画像、音声、コードを新しく作り出す人工知能。",
+        "id": "sns.sa.technology.generative_ai.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기존 데이터를 분류하거나 표시하는 데 그치지 않고 새로운 콘텐츠를 생성하는 인공지능이다. 글쓰기, 그림 그리기, 음원 제작과 코드 작성 등에 활용된다.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.ko"
+        ],
+        "gloss": "새로운 글, 이미지, 음원 또는 코드를 만들어 내는 인공지능이다.",
+        "id": "sns.sa.technology.generative_ai.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tecnologia que produz novos conteúdos, como texto, imagem, áudio ou código, em vez de apenas classificar ou rotular informações. É usada para criar textos, resolver problemas, gerar imagens e executar outras tarefas.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.pt_br"
+        ],
+        "gloss": "Inteligência artificial que cria novos textos, imagens, áudios ou códigos.",
+        "id": "sns.sa.technology.generative_ai.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "AI yang membuat konten baru, bukan hanya mengelompokkan atau melabeli data. Istilah ini digunakan untuk teknologi yang dapat menulis, menggambar, synthesize suara, atau menyusun kode.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.id"
+        ],
+        "gloss": "AI yang menghasilkan konten baru, seperti teks, gambar, audio, atau kode.",
+        "id": "sns.sa.technology.generative_ai.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ระบบที่สร้างผลลัพธ์ใหม่ ไม่ใช่เพียงจัดกลุ่มหรือติดป้ายข้อมูลที่มีอยู่แล้ว โดยทั่วไปใช้สร้างข้อความ ภาพ เสียง และโค้ด",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.th"
+        ],
+        "gloss": "ปัญญาประดิษฐ์ที่สร้างเนื้อหาใหม่ เช่น ข้อความ ภาพ เสียง หรือโค้ด",
+        "id": "sns.sa.technology.generative_ai.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yalnızca verileri sınıflandırmakla kalmayı metin, görsel, ses ve kod gibi yeni içerikler üreten yapay zekâ. İçerik üretimi yapan sistemler bu kapsamdadır.",
+        "exampleIds": [
+          "exm.sa.technology.generative_ai.1.1.tr"
+        ],
+        "gloss": "Metin, görsel, ses veya kod gibi yeni içerikler üreten yapay zekâ.",
+        "id": "sns.sa.technology.generative_ai.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.generative_ai",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "E-postanın taslağını hazırlamak, bu hafta işin en kolay bölümüydü.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "เครื่องมือปัญญาประดิษฐ์เชิงสร้างสรรค์ช่วยร่างอีเมลให้ฉันภายในไม่กี่วินาที",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "Fitur AI generatif itu membantu saya menyusun draf surel dalam beberapa menit.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "A inteligência artificial generativa redactou o e-mail em poucos segundos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "생성형 인공지능이 이메일 초안을 작성해 주는 덕분에 업무가 훨씬 빨라졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "生成AIを使えば、メールの下書きをすぐに書いてもらえます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.generative_ai.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Drafting the email was the easiest part of the job this week.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

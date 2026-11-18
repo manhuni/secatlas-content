@@ -1,0 +1,90 @@
+{
+  "items": {
+    "aiw_prompt": {
+      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
+      "dictionaryId": "lex.sa.technology.prompt",
+      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
+      "fieldId": "technology",
+      "id": "aiw_prompt",
+      "lessonIds": [
+        "article_how_ai_works"
+      ],
+      "packs": [
+        "knw.tech.howaiworks"
+      ],
+      "term": "Prompt"
+    },
+    "borrowed_competence": {
+      "definition": "Results and confidence produced by tools, which the user experiences as personal ability.",
+      "dictionaryId": "lex.sa.mind.borrowed_competence",
+      "example": "",
+      "fieldId": "mind",
+      "id": "borrowed_competence",
+      "lessonIds": [
+        "article_illusion_skill"
+      ],
+      "packs": [
+        "knw.mind.illusion_skill"
+      ],
+      "term": "Borrowed competence"
+    },
+    "manufactured_consent": {
+      "definition": "Agreement produced not by open discussion but by arranging the information environment so one conclusion appears natural.",
+      "dictionaryId": "lex.sa.mind.manufactured_consent",
+      "example": "",
+      "fieldId": "mind",
+      "id": "manufactured_consent",
+      "lessonIds": [
+        "article_manufactured_consent"
+      ],
+      "packs": [
+        "knw.mind.manufactured_consent"
+      ],
+      "term": "Manufactured consent"
+    },
+    "register": {
+      "definition": "The level of formality a speaker chooses for a situation, from casual to formal.",
+      "dictionaryId": "lex.sa.culture.register",
+      "example": "Switching register, he changed *Could you pass the salt* to *Pass the salt*.",
+      "fieldId": "culture",
+      "id": "register",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Register"
+    },
+    "rinse_aid": {
+      "definition": "A liquid added to the wide compartment of the drawer that makes water sheet off the dishes so they dry without spots.",
+      "dictionaryId": "lex.sa.daily_skills.rinse_aid",
+      "example": "The rinse aid symbol is lit, so I need to top up the wide compartment.",
+      "fieldId": "daily_skills",
+      "id": "rinse_aid",
+      "lessonIds": [
+        "article_appliance_symbols"
+      ],
+      "packs": [
+        "knw.daily.appliances"
+      ],
+      "term": "Rinse aid"
+    },
+    "windy": {
+      "definition": "The air is moving fast. A windy day can be hot or freezing.",
+      "dictionaryId": "lex.sa.kids_daily.windy",
+      "example": "It is windy, so my hat keeps blowing away.",
+      "fieldId": "kids_daily",
+      "id": "windy",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Windy"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

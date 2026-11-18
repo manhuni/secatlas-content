@@ -1,0 +1,115 @@
+{
+  "dependencies": [
+    "1ae4e1dc449f6a33765804feb542083371d6797760a843488e3b91933bb371f7"
+  ],
+  "item": {
+    "addedAt": "2026-11-16T08:00:00Z",
+    "cover": "asset://1ae4e1dc449f6a33765804feb542083371d6797760a843488e3b91933bb371f7",
+    "durationMin": 21,
+    "fieldId": "mind",
+    "id": "article_local_ai",
+    "media": {
+      "audio": [],
+      "cover": "asset://1ae4e1dc449f6a33765804feb542083371d6797760a843488e3b91933bb371f7",
+      "gallery": [],
+      "images": [],
+      "links": [],
+      "video": []
+    },
+    "objectives": [
+      "Explain what running a local AI model actually gives you.",
+      "Distinguish owning weights from owning the technology.",
+      "Describe the hidden infrastructure AI depends on.",
+      "Define vendor lock-in and ecosystem dependence.",
+      "Assess claims of AI independence realistically."
+    ],
+    "sections": [
+      {
+        "body": "Local AI means running a language model on your own hardware instead of calling a company's API. The model file — the 'weights' — sits on your disk, your prompts stay in your house, and no subscription meter is running. For privacy, for offline use, and for tinkering, this is a genuine gain, and the open-weights community behind it is one of the most productive movements in modern software.\n\nBut the model file is one component of a stack. It was trained on hardware you do not own, using datasets you cannot inspect, with tooling you did not write, and it runs on chips designed by a handful of companies. Owning the weights is real ownership of one layer — an important layer — not of the technology.\n\nConfusing the two produces a specific illusion: the feeling of independence from big tech while standing on ground poured by big tech. The question is not whether local AI is worth running — for many uses it clearly is — but what it actually removes from other people's hands.",
+        "examples": [
+          "The offline assistant works on a mountain with no signal; it also quietly depends on one chip vendor's drivers and a training pipeline it will never see."
+        ],
+        "heading": "The model on your disk",
+        "type": "definition"
+      },
+      {
+        "body": "Free AI comes in several layers, and they are easy to blur. **Free as in price**: no subscription. **Free as in weights**: you may download and run the model file. **Free as in code**: the surrounding software is open source. **Free as in data and training**: almost nothing modern qualifies — the datasets, the compute clusters and the training recipes are industrial operations.\n\nEach layer is worth having. The ability to run a capable model without asking anyone's permission is a real form of power that did not exist five years ago. Communities improve these models, audit them, and adapt them to languages the big labs ignore.\n\nBut each layer also has a boundary. The weights are free; the means to make new weights are concentrated. A user with free weights is a passenger with an excellent seat — better than any seat before, still not the cockpit. Knowing which freedoms you actually have prevents both complacency and despair: you are more independent than the API customer and less independent than the mythology suggests.",
+        "examples": [
+          "He runs the free model proudly — and notices, reading the docs, that it cannot exist without one company's chip architecture."
+        ],
+        "heading": "What 'free' actually means",
+        "type": "prose"
+      },
+      {
+        "body": "Beneath every AI model, wherever it runs, sits a stack of dependencies that no user controls. The chips come from a small number of manufacturers. The fabs that print them are fewer still. The frameworks that train the models, the libraries that run them, the app stores that distribute them — each layer has a short list of owners.\n\nDependence is not automatically bad; it is how complex technology works. A city depends on its power grid. The question is awareness and alternatives. A dependence you know about can be planned around, lobbied against, or engineered away over years. A dependence you deny leaves you exposed exactly when the supplier changes terms, prices, or availability — which suppliers eventually do.\n\nThis is why the healthy posture toward free AI is neither worship nor cynicism. Use the freedoms fully: run locally, keep data private, audit behavior. And count the dependencies honestly, so that when someone asks whether you are independent, you can answer precisely which parts you control and which parts you rent.",
+        "examples": [
+          "When the API price tripled overnight, the local-model users kept working — and discovered their 'independence' still relied on one GPU vendor's stock."
+        ],
+        "heading": "The invisible infrastructure",
+        "type": "prose"
+      },
+      {
+        "body": "These terms name the layers between owning a model and owning a technology.",
+        "heading": "The vocabulary of independence",
+        "terms": [
+          {
+            "example": "Her local AI setup answers questions on flights, with no internet and no data leaving the laptop.",
+            "gloss": "Running an AI model on one's own hardware rather than through a company's hosted service.",
+            "term": "Local AI",
+            "termId": "local_ai"
+          },
+          {
+            "example": "Thanks to open weights, the team fine-tuned the model on their own manuals without asking anyone.",
+            "gloss": "Publishing the trained parameters of a model so anyone may download, run and modify it.",
+            "term": "Open weights",
+            "termId": "open_weights"
+          },
+          {
+            "example": "Inference happens on her laptop at home and on a rented server when she needs more speed.",
+            "gloss": "The process of running a trained model to produce answers; the everyday operation of AI.",
+            "term": "Inference",
+            "termId": "inference"
+          },
+          {
+            "example": "The compute infrastructure behind modern AI is measured in billions of dollars of chips.",
+            "gloss": "The chips, data centers and energy supply that make training and running large models possible.",
+            "term": "Compute infrastructure",
+            "termId": "compute_infrastructure"
+          },
+          {
+            "example": "Their vendor lock-in became obvious when migration quotes came back at triple the annual API bill.",
+            "gloss": "The condition in which switching suppliers is so costly that dependence continues regardless of price or quality.",
+            "term": "Vendor lock-in",
+            "termId": "vendor_lock_in"
+          },
+          {
+            "example": "A model is only as free as the ecosystem it runs in: chips, drivers, formats and stores.",
+            "gloss": "The network of hardware, software, standards and services that a technology depends on to function.",
+            "term": "Ecosystem",
+            "termId": "ecosystem"
+          }
+        ],
+        "type": "terminology"
+      },
+      {
+        "body": "A useful audit for any technology claim of independence: list what breaks if each supplier disappears — the chip maker, the model provider, the app store, the cloud region, the electricity. Whatever has no alternative is a dependence, whatever the label on the box says.",
+        "calloutKind": "tip",
+        "heading": "Count your dependencies",
+        "type": "callout"
+      },
+      {
+        "body": "The useful question is not \"am I independent?\" but \"independent of what, exactly, and at what cost?\" Local AI buys real freedoms: privacy from scanning, resilience against price shocks, the right to modify and audit. Those are worth having and worth defending.\n\nIt does not buy independence from the compute stack, from the physics of chips, or from the knowledge concentrated in a few laboratories. Nobody's laptop contains that independence, at any price.\n\nMature technological autonomy looks like a diversified portfolio rather than a fortress: some local, some hosted, some open, some proprietary — with the knowledge, kept current, of where every piece sits and who can take it away. That knowledge, more than any single tool, is the part of the technology a person can truly own.",
+        "examples": [
+          "She runs local models for private work, a hosted model for heavy jobs, and keeps a written map of every dependency — and sleeps well."
+        ],
+        "heading": "Real autonomy, honestly measured",
+        "type": "prose"
+      }
+    ],
+    "summary": "Run a free model on your own machine, own the weights, keep your data — so you are independent now, right? This article examines the illusion of technological self-sufficiency: what local AI really frees you from, what it does not, and why the ecosystem underneath matters more than the model on your disk.",
+    "systemId": "mind_ai",
+    "title": "Free AI and the Illusion of Control"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

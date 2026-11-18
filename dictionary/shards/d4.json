@@ -1,0 +1,1093 @@
+{
+  "records": {
+    "d437df34eed70254f8ee2cb3eb208e74f8c81725405c2bfbdf8df0e283b7162e": [
+      {
+        "forms": [
+          "Macronutrient",
+          "macronutrient"
+        ],
+        "id": "lex.sa.health.macronutrient",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Macronutrient",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.macronutrient.alt",
+          "sns.sa.health.macronutrient.alt.ja",
+          "sns.sa.health.macronutrient.alt.ko",
+          "sns.sa.health.macronutrient.alt.pt_br",
+          "sns.sa.health.macronutrient.alt.th",
+          "sns.sa.health.macronutrient.alt.tr",
+          "sns.sa.health.macronutrient.alt.id"
+        ]
+      },
+      {
+        "definition": "One of the three nutrients the body needs in quantity: carbohydrate, fat and protein.",
+        "exampleIds": [
+          "exm.sa.health.macronutrient.1.1"
+        ],
+        "gloss": "One of the three nutrients the body needs in quantity: carbohydrate, fat and protein.",
+        "id": "sns.sa.health.macronutrient.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.macronutrient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "-<body>が-<quantity>の多くを必要とする三種類の栄養素。",
+        "exampleIds": [
+          "exm.sa.health.macronutrient.1.1.ja"
+        ],
+        "gloss": "-<body>が-<quantity>の多くを必要とする三種類の栄養素。",
+        "id": "sns.sa.health.macronutrient.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.macronutrient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "탄수화물, 지방, 단백질 가운데 몸이 많은 양을 필요로 하는 세 가지 영양소를 가리킵니다.",
+        "exampleIds": [
+          "exm.sa.health.macronutrient.1.1.ko"
+        ],
+        "gloss": "몸이 비교적 많은 양으로 필요로 하는 영양소.",
+        "id": "sns.sa.health.macronutrient.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.macronutrient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Carboidrato, gordura ou proteína, os três macronutrientes consumidos pelo organismo em quantidades maiores do que as dos micronutrientes.",
+        "exampleIds": [
+          "exm.sa.health.macronutrient.1.1.pt_br"
+        ],
+        "gloss": "Nutriente necessário ao corpo em grandes quantidades.",
+        "id": "sns.sa.health.macronutrient.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.macronutrient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สารอาหารที่ร่างกายต้องการในปริมาณมาก ได้แก่ คาร์โบไฮเดรต ไขมัน และโปรตีน คำนี้แตกต่างจากสารอาหารที่ต้องการเพียงปริมาณน้อย",
+        "exampleIds": [
+          "exm.sa.health.macronutrient.1.1.th"
+        ],
+        "gloss": "สารอาหารที่ร่างกายต้องการในปริมาณมาก",
+        "id": "sns.sa.health.macronutrient.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.macronutrient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Vücudun çok miktarda ihtiyaç duyduğu üç temel besinden biridir. Bu besinler karbonhidrat, yağ ve proteindir.",
+        "exampleIds": [
+          "exm.sa.health.macronutrient.1.1.tr"
+        ],
+        "gloss": "Karbonhidrat, yağ ve protein gibi vücudun büyük miktarlarda ihtiyaç duyduğu besinlerden biri.",
+        "id": "sns.sa.health.macronutrient.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.macronutrient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Zatnutrition yang dibutuhkan tubuh dalam jumlah relatif besar, yaitu karbohidrat, lemak, dan protein. Ketiganya/functions sebagai sumber energi atau bahan pembentuk tubuh.",
+        "exampleIds": [
+          "exm.sa.health.macronutrient.1.1.id"
+        ],
+        "gloss": "Salah satu dari tiga nutrisi yang dibutuhkan tubuh dalam jumlah besar.",
+        "id": "sns.sa.health.macronutrient.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.macronutrient",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.macronutrient.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The main macronutrient in this product is fat, not carbohydrate.",
+        "translation": "Lemak adalah salah satu makronutrien yang terdapat dalam produk ini.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.macronutrient.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The main macronutrient in this product is fat, not carbohydrate.",
+        "translation": "Bu üründeki ana makro besin yağ, karbonhidrat değildir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.macronutrient.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The main macronutrient in this product is fat, not carbohydrate.",
+        "translation": "สารอาหารหลักที่มีมากที่สุดในผลิตภัณฑ์นี้คือไขมัน ไม่ใช่คาร์โบไฮเดรต",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.macronutrient.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The main macronutrient in this product is fat, not carbohydrate.",
+        "translation": "O principal macronutriente deste produto é a gordura, não o carboidrato.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.macronutrient.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The main macronutrient in this product is fat, not carbohydrate.",
+        "translation": "이 제품의 주된 다량 영양소는 탄수화물이 아니라 지방이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.macronutrient.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The main macronutrient in this product is fat, not carbohydrate.",
+        "translation": "この製品の主な-<macronutrient>は、-<carbohydrate>ではなく-<fat>だ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.macronutrient.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The main macronutrient in this product is fat, not carbohydrate.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d454bec656d32723404961023ed9cb3c37221687c40b498a57b3eefa93c4c5f4": [
+      {
+        "forms": [
+          "Objective",
+          "war_objective"
+        ],
+        "id": "lex.sa.mind.war_objective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Objective",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_objective.alt",
+          "sns.sa.mind.war_objective.alt.ja",
+          "sns.sa.mind.war_objective.alt.ko",
+          "sns.sa.mind.war_objective.alt.pt_br",
+          "sns.sa.mind.war_objective.alt.id",
+          "sns.sa.mind.war_objective.alt.th",
+          "sns.sa.mind.war_objective.alt.tr"
+        ]
+      },
+      {
+        "definition": "The result a plan aims at, written so that it can be judged done or not done.",
+        "exampleIds": [
+          "exm.sa.mind.war_objective.1.1"
+        ],
+        "gloss": "The result a plan aims at, written so that it can be judged done or not done.",
+        "id": "sns.sa.mind.war_objective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_objective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "計画が狙う最終的な結果。達成したかしていないかを明確に判断できる形で示される。",
+        "exampleIds": [
+          "exm.sa.mind.war_objective.1.1.ja"
+        ],
+        "gloss": "計画が目指し、達成したかどうか，判断できる結果。",
+        "id": "sns.sa.mind.war_objective.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_objective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "계획이나 작전이 성취하려고 하는 목표이며, 달성 여부를 판단할 수 있도록 분명하게 정해진다. 단순한 의도나 기대와 달리 실제로 판정할 수 있는 결과여야 한다.",
+        "exampleIds": [
+          "exm.sa.mind.war_objective.1.1.ko"
+        ],
+        "gloss": "계획이 달성하려는 구체적인 결과.",
+        "id": "sns.sa.mind.war_objective.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_objective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Em planejamento militar, o objetivo é uma condição ou resultado claramente formulado, que permite reconhecer se foi alcançado. Ele deve ser mais específico do que uma finalidade política ampla.",
+        "exampleIds": [
+          "exm.sa.mind.war_objective.1.1.pt_br"
+        ],
+        "gloss": "O resultado que um plano pretende alcançar e que pode ser verificado.",
+        "id": "sns.sa.mind.war_objective.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_objective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sasaran yang harus dicapai melalui suatu rencana atau kegiatan. Sasaran ini sebaiknya dirumuskan dengan jelas agar keberhasilan dapat dinilai.",
+        "exampleIds": [
+          "exm.sa.mind.war_objective.1.1.id"
+        ],
+        "gloss": "Hasil akhir yang ingin dicapai oleh sebuah rencana dan dapat dinilai tercapai atau belum.",
+        "id": "sns.sa.mind.war_objective.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_objective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ผลลัพธ์หรือสถานการณ์ที่แผนตั้งใจจะบรรลุ โดยต้องเขียนให้ชัดเจนพอที่จะตรวจสอบได้ว่าทำเสร็จแล้วหรือยัง",
+        "exampleIds": [
+          "exm.sa.mind.war_objective.1.1.th"
+        ],
+        "gloss": "เป้าหมายที่แผนต้องการบรรลุ ซึ่งตรวจได้ว่าสำเร็จหรือไม่",
+        "id": "sns.sa.mind.war_objective.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_objective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Amaç, bir planın başarıyla ulaştırılması gereken sonucu belirtir ve yerine getirilip getirilmediği açıkça değerlendirilebilir.",
+        "exampleIds": [
+          "exm.sa.mind.war_objective.1.1.tr"
+        ],
+        "gloss": "Bir planın ulaşmak istediği ve gerçekleşip gerçekleşmediği ölçülebilen sonuç.",
+        "id": "sns.sa.mind.war_objective.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_objective",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_objective.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Brifingde amaç tek cümlede belirtiliyordu: nehri geçmek.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_objective.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "สถานการณ์ระบุวัตถุประสงค์ไว้ในบรรทัดเดียว นั่นคือการข้ามแม่น้ำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_objective.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dokumen itu menyatakan sasaran dalam satu baris: menyeberangi sungai.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_objective.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A ordem de missão define o objetivo em uma linha: atravessar o rio.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_objective.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "브리핑에는 목표가 한 줄로 명시되어 있었다. 강을 건너는 것이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_objective.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "概要書には、川を渡ることが目標だと一行で書かれている。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_objective.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The brief states the objective in one line: the river crossing.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d489194aa551d8909bf073fd394fabc9786e4141b3207ef6c22a479161ec7396": [
+      {
+        "forms": [
+          "commodification",
+          "dm_commodification"
+        ],
+        "id": "lex.sa.social.dm_commodification",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "commodification",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.dm_commodification.alt",
+          "sns.sa.social.dm_commodification.alt.ja",
+          "sns.sa.social.dm_commodification.alt.ko",
+          "sns.sa.social.dm_commodification.alt.pt_br",
+          "sns.sa.social.dm_commodification.alt.id",
+          "sns.sa.social.dm_commodification.alt.th",
+          "sns.sa.social.dm_commodification.alt.tr"
+        ]
+      },
+      {
+        "definition": "The treatment of a person as a product that can be valued and exchanged.",
+        "exampleIds": [
+          "exm.sa.social.dm_commodification.1.1"
+        ],
+        "gloss": "The treatment of a person as a product that can be valued and exchanged.",
+        "id": "sns.sa.social.dm_commodification.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.dm_commodification",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "人間を価値や価格を持つ商品のように扱い、交換の対象として扱うこと。",
+        "exampleIds": [
+          "exm.sa.social.dm_commodification.1.1.ja"
+        ],
+        "gloss": "人を、評価や交換の対象となる商品として扱うこと。",
+        "id": "sns.sa.social.dm_commodification.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.dm_commodification",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사람을 평가할 수 있고 거래할 수 있는 상품으로 취급하는 것을 뜻합니다. 사람에게 상품처럼 가치를 부여하는 위태로운 방식이라는 뉘앙스가 있습니다.",
+        "exampleIds": [
+          "exm.sa.social.dm_commodification.1.1.ko"
+        ],
+        "gloss": "사람을 가치 있고 거래 가능한 상품처럼 취급하는 것.",
+        "id": "sns.sa.social.dm_commodification.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.dm_commodification",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a transformação de uma pessoa ou de suas características em um produtoDotado de valor comercial ou social. A pessoa passa a ser vista pelo que oferece, não por sua identidade ou dignidade.",
+        "exampleIds": [
+          "exm.sa.social.dm_commodification.1.1.pt_br"
+        ],
+        "gloss": "Tratamento de uma pessoa como um bem que pode ser avaliado e trocado.",
+        "id": "sns.sa.social.dm_commodification.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.dm_commodification",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Proses perlakuan terhadap manusia sebagai produk yang dapat dinilai dan dipertukarkan. Dalam proses ini, nilai manusia direduksi menjadi nilai ekonomis.",
+        "exampleIds": [
+          "exm.sa.social.dm_commodification.1.1.id"
+        ],
+        "gloss": "Perlakuan terhadap manusia sebagai barang yang dapat dinilai dan dipertukarkan.",
+        "id": "sns.sa.social.dm_commodification.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.dm_commodification",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงการมองบุคคลเป็นสินค้าที่มีมูลค่า แลกเปลี่ยน หรือแสวงหาประโยชน์จากได้ โดยมองข้ามคุณค่าและความเป็นมนุษย์ของบุคคลนั้น",
+        "exampleIds": [
+          "exm.sa.social.dm_commodification.1.1.th"
+        ],
+        "gloss": "การปฏิบัติต่อบุคคลเหมือนสินค้าที่ซื้อขายได้",
+        "id": "sns.sa.social.dm_commodification.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.dm_commodification",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir insana yalnızca ürünlerin özellikleri, fiyatı ve değiştirilebilirliği üzerinden bakma eğilimi. Bu muamele, kişinin değerini piyasadaki başka ürünlerle karşılaştırmayı da içerebilir.",
+        "exampleIds": [
+          "exm.sa.social.dm_commodification.1.1.tr"
+        ],
+        "gloss": "Bir kişiyi değerlenebilen ve değiştirilebilen bir ürün gibi muamele etme.",
+        "id": "sns.sa.social.dm_commodification.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.dm_commodification",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.dm_commodification.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tüm konuşma boyunca ona ürün gibi davranıldı; masadan kalktığında artık bir insandan çok bir meta gibi konuşuluyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.dm_commodification.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การทำให้เป็นสินค้าทำให้ทุกคำพูดในโต๊ะกลายเป็นการประเมินมูลค่าของเธอ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.dm_commodification.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Komodifikasi terjadi selama percakapan itu, dan akhirnya ia meninggalkan meja.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.dm_commodification.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ao avaliar apenas o desempenho dela, a empresa transformou a funcionária em uma commodity.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.dm_commodification.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 대화는 그녀를 상품으로 만들었고, 그녀는 식탁을 떠났다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.dm_commodification.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その会話は彼女を物のように扱い、彼女は席を立ち去った。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.dm_commodification.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The whole conversation turned her into a commodity, and she left the table.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d48e4006971d29923a85b9ee82059e8ba89e56620d120eddc85ad9a14edfbaba": [
+      {
+        "forms": [
+          "Adaptive cruise control",
+          "adaptive_cruise"
+        ],
+        "id": "lex.sa.en.adaptive.cruise",
+        "kind": "lexeme",
+        "lemma": "Adaptive cruise control",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.adaptive.cruise.alt"
+        ]
+      },
+      {
+        "definition": "The cruise control keeps a gap to the car in front and can brake and accelerate by itself. Severity level 1 — Information / Status. Action: Nothing to do. Keep your hands on the wheel and watch the gap..",
+        "gloss": "The cruise control keeps a gap to the car in front and can brake and accelerate by itself.",
+        "id": "sns.sa.en.adaptive.cruise.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.adaptive.cruise",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "d490624d0f219289f99842716b9218244b0abd3216de3f485d8435d465e0762e": [
+      {
+        "forms": [
+          "Impulse",
+          "dual_impulse"
+        ],
+        "id": "lex.sa.mind.dual_impulse",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Impulse",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.dual_impulse.alt",
+          "sns.sa.mind.dual_impulse.alt.ja",
+          "sns.sa.mind.dual_impulse.alt.ko",
+          "sns.sa.mind.dual_impulse.alt.pt_br",
+          "sns.sa.mind.dual_impulse.alt.id",
+          "sns.sa.mind.dual_impulse.alt.th",
+          "sns.sa.mind.dual_impulse.alt.tr"
+        ]
+      },
+      {
+        "definition": "A sudden push to act before you have thought it through.",
+        "exampleIds": [
+          "exm.sa.mind.dual_impulse.1.1"
+        ],
+        "gloss": "A sudden push to act before you have thought it through.",
+        "id": "sns.sa.mind.dual_impulse.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.dual_impulse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "充分に考え込む前に sudden に行動したくなる commissionの勢いのこと。理性的な判断とは別で、それ自体には善悪の判断が含まれない。",
+        "exampleIds": [
+          "exm.sa.mind.dual_impulse.1.1.ja"
+        ],
+        "gloss": "よく考え込む前に sudden に较强的冲动。",
+        "id": "sns.sa.mind.dual_impulse.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.dual_impulse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사유가 끝나기 전에 즉각 행동하고 싶은 마음이다. 외부 자극이나 감정에서 갑자기 생기는 충동이며, 숙고한 결심과는 구별된다.",
+        "exampleIds": [
+          "exm.sa.mind.dual_impulse.1.1.ko"
+        ],
+        "gloss": "충분히 생각하기 전에 행동을 재촉하는 갑작스러운 충동.",
+        "id": "sns.sa.mind.dual_impulse.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.dual_impulse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Desejo ou impulso espontâneo que provoca uma ação imediata, antes de uma reflexão adequada. Pode também designar um movimento breve e involuntário.",
+        "exampleIds": [
+          "exm.sa.mind.dual_impulse.1.1.pt_br"
+        ],
+        "gloss": "Um impulso súbito que leva a agir antes de pensar bem.",
+        "id": "sns.sa.mind.dual_impulse.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.dual_impulse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dorongan tiba-tiba untuk melakukan sesuatu sebelum.Layout tersebut dipikirkan secara saksama. Istilah ini merujuk pada dorongan yang arises secara spontan, bukanATIONALITY keputusan yang telah dipertimbangkan.",
+        "exampleIds": [
+          "exm.sa.mind.dual_impulse.1.1.id"
+        ],
+        "gloss": "Dorongan mendadak untuk bertindak sebelum dipikirkan secara saksama.",
+        "id": "sns.sa.mind.dual_impulse.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.dual_impulse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความอยากหรือแรงกระตุ้นที่เกิดขึ้นอย่างฉับพลันให้ปฏิบัติต่อโดยยังไม่ได้พิจารณาผลของการกระทำ",
+        "exampleIds": [
+          "exm.sa.mind.dual_impulse.1.1.th"
+        ],
+        "gloss": "แรงกระตุ้นฉับพลันให้ลงมือก่อนคิดให้รอบคอบ",
+        "id": "sns.sa.mind.dual_impulse.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.dual_impulse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Düşünme sürecini tamamlamadan aniden bir eyleme girişe yol açan güçlü istek; ani tepki anlamına gelir.",
+        "exampleIds": [
+          "exm.sa.mind.dual_impulse.1.1.tr"
+        ],
+        "gloss": "Düşünmeden harekete geçmeyi sağlayan ani dürtü.",
+        "id": "sns.sa.mind.dual_impulse.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.dual_impulse",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.dual_impulse.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hemen yanıtlama dürtüsü, vereceği yanıttan daha güçlüydü.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.dual_impulse.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "แรงกระตุ้นที่จะตอบทันทีนั้นแรงกว่าคำตอบที่คิดไว้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.dual_impulse.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dorongan untuk langsung menjawab lebih kuat daripada jawaban yang sebenarnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.dual_impulse.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O impulso de responder imediatamente era mais forte do que a resposta.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.dual_impulse.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "곧바로 답장하려는 충동이 곁들린 답보다 더 강했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.dual_impulse.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "すぐ返事したい impulse の方が、答えより強かった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.dual_impulse.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The impulse to reply at once was stronger than the answer.",
+        "translation": "Bản năng muốn trả lời ngay lập tức mạnh hơn câu trả lời.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d4e3fc7b0477747da28f05c27af9f1ab8e70cd60f729a2813f410fd39eb466ac": [
+      {
+        "forms": [
+          "Gravity",
+          "gravity"
+        ],
+        "id": "lex.sa.kids_science.gravity",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Gravity",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.gravity.alt",
+          "sns.sa.kids_science.gravity.alt.ja",
+          "sns.sa.kids_science.gravity.alt.ko",
+          "sns.sa.kids_science.gravity.alt.pt_br",
+          "sns.sa.kids_science.gravity.alt.id",
+          "sns.sa.kids_science.gravity.alt.th",
+          "sns.sa.kids_science.gravity.alt.tr"
+        ]
+      },
+      {
+        "definition": "The pull of the Earth that pulls everything downwards, including airplanes.",
+        "exampleIds": [
+          "exm.sa.kids_science.gravity.1.1"
+        ],
+        "gloss": "The pull of the Earth that pulls everything downwards, including airplanes.",
+        "id": "sns.sa.kids_science.gravity.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.gravity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "重力を含む力の作用的总。",
+        "exampleIds": [
+          "exm.sa.kids_science.gravity.1.1.ja"
+        ],
+        "gloss": "地球がすべてを下方へ引きつける力。",
+        "id": "sns.sa.kids_science.gravity.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.gravity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "중력은 지구가 모든 물체를 아래로 끌어당기는 힘이다. 비행기가 공중에 머물려면 중력에 맞서는 힘이 필요하다.",
+        "exampleIds": [
+          "exm.sa.kids_science.gravity.1.1.ko"
+        ],
+        "gloss": "모든 것을 지면 쪽으로 끌어당기는 지구의 힘.",
+        "id": "sns.sa.kids_science.gravity.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.gravity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Atração da Terra que puxa os objetos em direção ao seu centro. Nos aviões, a gravidade também age para baixo, mas a força de sustentação pode equilibrá-la.",
+        "exampleIds": [
+          "exm.sa.kids_science.gravity.1.1.pt_br"
+        ],
+        "gloss": "Força da Terra que puxa os objetos e as pessoas para baixo.",
+        "id": "sns.sa.kids_science.gravity.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.gravity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gravitasi adalah gaya tarik Bumi yang menarik semua benda ke bawah, termasuk pesawat terbang. Gaya ini bekerja pada benda yang sedang jatuh, melayang, atau terbang.",
+        "exampleIds": [
+          "exm.sa.kids_science.gravity.1.1.id"
+        ],
+        "gloss": "Gravitasi adalah tarikan Bumi yang menarik semua benda ke bawah.",
+        "id": "sns.sa.kids_science.gravity.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.gravity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แรงดึงดูดของโลกที่ทำให้ทุกสิ่งมีแนวโน้มลงสู่พื้น แรงโน้มถ่วงมีผลต่อเครื่องบินด้วย",
+        "exampleIds": [
+          "exm.sa.kids_science.gravity.1.1.th"
+        ],
+        "gloss": "แรงดึงดูดของโลกที่ทำให้ทุกสิ่งมีแนวโน้มลงสู่พื้น",
+        "id": "sns.sa.kids_science.gravity.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.gravity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yerçekimi, Dünya'nın cisimleri kendine doğru çektiği kuvvettir. Uçaklarda yerçekimini dengelemek için kaldırma kuvveti kullanılır.",
+        "exampleIds": [
+          "exm.sa.kids_science.gravity.1.1.tr"
+        ],
+        "gloss": "Dünya'nın her şeyi aşağı doğru çeken kuvveti.",
+        "id": "sns.sa.kids_science.gravity.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.gravity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.gravity.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Lift has to be stronger than gravity to keep the plane up.",
+        "translation": "Uçağı havada tutmak için kaldırma kuvveti yerçekiminden güçlü olmalıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.gravity.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Lift has to be stronger than gravity to keep the plane up.",
+        "translation": "แรงยกของเครื่องบินต้องมากกว่าแรงโน้มถ่วงเพื่อให้เครื่องบินลอยขึ้นได้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.gravity.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Lift has to be stronger than gravity to keep the plane up.",
+        "translation": "Daya angkat harus lebih kuat daripada gravitasi agar pesawat tetap terangkat.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.gravity.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Lift has to be stronger than gravity to keep the plane up.",
+        "translation": "Para o avião subir, a força de sustentação precisa ser maior que a gravidade.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.gravity.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Lift has to be stronger than gravity to keep the plane up.",
+        "translation": "비행기를 공중에 유지하려면 양력이 중력보다 강해야 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.gravity.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Lift has to be stronger than gravity to keep the plane up.",
+        "translation": "機体を空に保つには、重力に打ち勝つ揚力が必要だ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.gravity.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Lift has to be stronger than gravity to keep the plane up.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d4fba09b856cc0aa0f2b643f7d9ca20d309dc89b5e562f1229809c51f1e20dcc": [
+      {
+        "forms": [
+          "Puzzle",
+          "puzzle"
+        ],
+        "id": "lex.sa.kids_home.puzzle",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Puzzle",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_home.puzzle.alt",
+          "sns.sa.kids_home.puzzle.alt.ja",
+          "sns.sa.kids_home.puzzle.alt.ko",
+          "sns.sa.kids_home.puzzle.alt.pt_br",
+          "sns.sa.kids_home.puzzle.alt.id",
+          "sns.sa.kids_home.puzzle.alt.th",
+          "sns.sa.kids_home.puzzle.alt.tr"
+        ]
+      },
+      {
+        "definition": "A game with many pieces. You fit the pieces together to make a picture.",
+        "exampleIds": [
+          "exm.sa.kids_home.puzzle.1.1"
+        ],
+        "gloss": "A game with many pieces. You fit the pieces together to make a picture.",
+        "id": "sns.sa.kids_home.puzzle.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_home.puzzle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "了几个具を組み合わせ、絵や形をつくるゲーム。組み立て式的部品 neces.engineered[kwed]",
+        "exampleIds": [
+          "exm.sa.kids_home.puzzle.1.1.ja"
+        ],
+        "gloss": "絵や形になるようeneryitnessな部分的組み合わせるゲーム。",
+        "id": "sns.sa.kids_home.puzzle.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_home.puzzle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "부채꼴이나 사진으로 된 여러 조각을 올바른 위치에 맞추는 게임이다. 완성된 그림만을 가리키는 말은 아니다.",
+        "exampleIds": [
+          "exm.sa.kids_home.puzzle.1.1.ko"
+        ],
+        "gloss": "여러 조각을 맞추어 그림을 완성하는 게임이다.",
+        "id": "sns.sa.kids_home.puzzle.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_home.puzzle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Quebra-cabeça formado por pieces que devem ser encaixadas para criar uma imagem. Também pode designar o próprio jogo de resolver problemas desse tipo.",
+        "exampleIds": [
+          "exm.sa.kids_home.puzzle.1.1.pt_br"
+        ],
+        "gloss": "Jogo em que se encaixam peças para formar uma imagem.",
+        "id": "sns.sa.kids_home.puzzle.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_home.puzzle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Permainan yang terdiri atas banyak potongan yang disusun bersama-sama untuk membentuk sebuah gambar. Potongan yang tidak cocok membuat permainan belum selesai.",
+        "exampleIds": [
+          "exm.sa.kids_home.puzzle.1.1.id"
+        ],
+        "gloss": "Permainan yang puzzled Pieces placed together to form a picture.",
+        "id": "sns.sa.kids_home.puzzle.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_home.puzzle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เกมที่มีชิ้นส่วนหลายชิ้น ซึ่งต้องจับวางให้ตรงกันเพื่อสร้างภาพหรือรูปร่างที่สมบูรณ์",
+        "exampleIds": [
+          "exm.sa.kids_home.puzzle.1.1.th"
+        ],
+        "gloss": "เกมต่อภาพที่ต้องนำชิ้นส่วนต่าง ๆ มาประกอบให้เป็นภาพ",
+        "id": "sns.sa.kids_home.puzzle.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_home.puzzle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çeşitli parçaları birbirine uydurarak resim yaptığın bir oyundur. Bütünü tamamlamaya çalışırken sabır gerektirir.",
+        "exampleIds": [
+          "exm.sa.kids_home.puzzle.1.1.tr"
+        ],
+        "gloss": "Parçaları birleştirerek bir resim oluşturulan oyun.",
+        "id": "sns.sa.kids_home.puzzle.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_home.puzzle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_home.puzzle.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I finished the puzzle before dinner.",
+        "translation": "Bu bulmacayı akşam yemeğinden önce bitirdim.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_home.puzzle.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I finished the puzzle before dinner.",
+        "translation": "ฉันต่อภาพปริศนาเสร็จก่อนรับประทานอาหารเย็น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_home.puzzle.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I finished the puzzle before dinner.",
+        "translation": "Saya menyelesaikan teka-teki gambar itu sebelum makan malam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_home.puzzle.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I finished the puzzle before dinner.",
+        "translation": "Terminei o quebra-cabeça antes do jantar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_home.puzzle.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I finished the puzzle before dinner.",
+        "translation": "동생과 퍼즐을 맞추다가 재미있는 그림을 완성했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_home.puzzle.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I finished the puzzle before dinner.",
+        "translation": "私は夕食前にパズルを完成させた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_home.puzzle.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I finished the puzzle before dinner.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

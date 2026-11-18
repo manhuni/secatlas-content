@@ -1,0 +1,986 @@
+{
+  "records": {
+    "d31864fd6a83b478aba366cd638b853189c3336a7950e2e6901996dc12faacd3": [
+      {
+        "forms": [
+          "Use-by date",
+          "use_by"
+        ],
+        "id": "lex.sa.daily_skills.use_by",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Use-by date",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.use_by.alt",
+          "sns.sa.daily_skills.use_by.alt.ja",
+          "sns.sa.daily_skills.use_by.alt.ko",
+          "sns.sa.daily_skills.use_by.alt.pt_br",
+          "sns.sa.daily_skills.use_by.alt.id",
+          "sns.sa.daily_skills.use_by.alt.th",
+          "sns.sa.daily_skills.use_by.alt.tr"
+        ]
+      },
+      {
+        "definition": "The date after which the food may no longer be safe to eat. It is a safety date and it is not negotiable.",
+        "exampleIds": [
+          "exm.sa.daily_skills.use_by.1.1"
+        ],
+        "gloss": "The date after which the food may no longer be safe to eat. It is a safety date and it is not negotiable.",
+        "id": "sns.sa.daily_skills.use_by.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.use_by",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "表示された日を過ぎると食べると安全でない可能性があり、品質期限ではなく食品衛生上の安全性を基準とした期限である。",
+        "exampleIds": [
+          "exm.sa.daily_skills.use_by.1.1.ja"
+        ],
+        "gloss": "食品を安全に食べられる期限。",
+        "id": "sns.sa.daily_skills.use_by.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.use_by",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "그 날짜가 지나면 음식이 안전하지 않을 수 있음을 나타내는 날짜이다. 품질과 관계없는 안전 기준이므로 임의로 연장할 수 없다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.use_by.1.1.ko"
+        ],
+        "gloss": "음식을 먹어도 안전하지 않을 수 있는 최종 날짜.",
+        "id": "sns.sa.daily_skills.use_by.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.use_by",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Indica quando o alimento pode deixar de ser seguro para comer, e não se referee à sua qualidade. Essa data não deve ser ignorada.",
+        "exampleIds": [
+          "exm.sa.daily_skills.use_by.1.1.pt_br"
+        ],
+        "gloss": "Data limite para consumir um alimento com segurança.",
+        "id": "sns.sa.daily_skills.use_by.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.use_by",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tanggal ini menunjukkan batas keamanan makanan dan tidak dapat diabaikan jika makanan sudah kedaluwarsa.",
+        "exampleIds": [
+          "exm.sa.daily_skills.use_by.1.1.id"
+        ],
+        "gloss": "Tanggal batas setelahnya makanan tidak lagi aman dimakan.",
+        "id": "sns.sa.daily_skills.use_by.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.use_by",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "วันที่หลังจากนั้นอาหารอาจไม่ปลอดภัยต่อการบริโภคและไม่ควรยืดอายุ เป็นกำหนดด้านความปลอดภัย จึงต่างจากวันที่บอกคุณภาพของอาหาร",
+        "exampleIds": [
+          "exm.sa.daily_skills.use_by.1.1.th"
+        ],
+        "gloss": "วันที่กำหนดสิ้นสุดด้านความปลอดภัยของอาหาร",
+        "id": "sns.sa.daily_skills.use_by.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.use_by",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yiyeceğin güvenle yenilemeyeceği son tarih. Bu bir güvenlik tarihidir ve değiştirilemez.",
+        "exampleIds": [
+          "exm.sa.daily_skills.use_by.1.1.tr"
+        ],
+        "gloss": "Yiyeceğin güvenle yenilemeyeceği son tarih.",
+        "id": "sns.sa.daily_skills.use_by.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.use_by",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.use_by.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The use-by date was yesterday, so I threw the chicken away.",
+        "translation": "Son kullanma tarihi dündü, bu yüzden tavuğu attım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.use_by.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The use-by date was yesterday, so I threw the chicken away.",
+        "translation": "วันที่กำหนดสิ้นสุดด้านความปลอดภัยของไก่คือเมื่อวาน ผมจึงทิ้งไก่ไป",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.use_by.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The use-by date was yesterday, so I threw the chicken away.",
+        "translation": "Tanggal batas konsumsinya kemarin, jadi saya membuang ayam tersebut.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.use_by.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The use-by date was yesterday, so I threw the chicken away.",
+        "translation": "A data de validade era ontem, então joguei o frango fora.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.use_by.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The use-by date was yesterday, so I threw the chicken away.",
+        "translation": "소비 기한이 어제였으므로 닭고기를 버렸습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.use_by.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The use-by date was yesterday, so I threw the chicken away.",
+        "translation": "安全期限は昨日だったため、鶏肉は捨てました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.use_by.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The use-by date was yesterday, so I threw the chicken away.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d3461c3dda4316e3205dceda8643eeb6ea187fc0a1913d2085a5e5e5487c4c6b": [
+      {
+        "forms": [
+          "Mental arithmetic",
+          "ma_mental_arithmetic"
+        ],
+        "id": "lex.sa.mathematics.ma_mental_arithmetic",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Mental arithmetic",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mathematics.ma_mental_arithmetic.alt",
+          "sns.sa.mathematics.ma_mental_arithmetic.alt.ja",
+          "sns.sa.mathematics.ma_mental_arithmetic.alt.ko",
+          "sns.sa.mathematics.ma_mental_arithmetic.alt.pt_br",
+          "sns.sa.mathematics.ma_mental_arithmetic.alt.id",
+          "sns.sa.mathematics.ma_mental_arithmetic.alt.th",
+          "sns.sa.mathematics.ma_mental_arithmetic.alt.tr"
+        ]
+      },
+      {
+        "definition": "Doing a calculation in your head, without a calculator and without paper.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_mental_arithmetic.1.1"
+        ],
+        "gloss": "Doing a calculation in your head, without a calculator and without paper.",
+        "id": "sns.sa.mathematics.ma_mental_arithmetic.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mathematics.ma_mental_arithmetic",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "計算器や記録用の紙を一切使わずに、記憶の中で四則演算を行うこと。概数を求めたり、答えを確かめたりする。",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_mental_arithmetic.1.1.ja"
+        ],
+        "gloss": "電卓や紙を使わず、頭の中で計算すること。",
+        "id": "sns.sa.mathematics.ma_mental_arithmetic.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mathematics.ma_mental_arithmetic",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기본 연산을 빠르게 수행하여 대략적인 값이나 간단한 답을 구하는 계산 방식입니다. 복잡한 계산에서는 정확한 계산기로 확인해야 합니다.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_mental_arithmetic.1.1.ko"
+        ],
+        "gloss": "계산기나 종이 없이 머릿속으로 계산하는 일입니다.",
+        "id": "sns.sa.mathematics.ma_mental_arithmetic.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mathematics.ma_mental_arithmetic",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É resolver operações aritméticas apenas com o raciocínio e a memória. Pode ser usado para obter estimativas, fazer verificações ou resolver problemas simples.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_mental_arithmetic.1.1.pt_br"
+        ],
+        "gloss": "Cálculo mental é a realização de contas sem calculadora, papel ou outro apoio.",
+        "id": "sns.sa.mathematics.ma_mental_arithmetic.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mathematics.ma_mental_arithmetic",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Perhitungan mental dilakukan di dalam kepala, biasanya dengan teknik pembulatan atau penghitungan bertahap. Hasilnya sering merupakan perkiraan kasar untuk pemeriksaan cepat.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_mental_arithmetic.1.1.id"
+        ],
+        "gloss": "Perhitungan mental adalah calculations yang dilakukan tanpa kalkulator atau kertas.",
+        "id": "sns.sa.mathematics.ma_mental_arithmetic.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mathematics.ma_mental_arithmetic",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การคิดเลขในหัวคือการคำนวณโดยไม่ใช้เครื่องคิดเลขและไม่เขียนบนกระดาษ อาจทำได้ทั้งคำนวณที่แน่นอนและค่าประมาณที่ใกล้เคียง",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_mental_arithmetic.1.1.th"
+        ],
+        "gloss": "การคำนวณโดยคิดอยู่ในหัว",
+        "id": "sns.sa.mathematics.ma_mental_arithmetic.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mathematics.ma_mental_arithmetic",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hesap makinesi veya kâğıt kullanmadan yapılan hesaplamadır. Aklı, hızlı bir yaklaşık sonuç veya küçük işlemler için kullanılır.",
+        "exampleIds": [
+          "exm.sa.mathematics.ma_mental_arithmetic.1.1.tr"
+        ],
+        "gloss": "Hesabı kafadan yapmaktır.",
+        "id": "sns.sa.mathematics.ma_mental_arithmetic.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mathematics.ma_mental_arithmetic",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mathematics.ma_mental_arithmetic.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Zihinsel aritmetik bana yaklaşık sonucu verdi, denetim ise gerçek değeri gösterdi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_mental_arithmetic.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การคิดเลขในหัวทำให้ได้ตัวเลขโดยประมาณ ส่วนการตรวจสอบภายหลังให้คำตอบที่ถูกต้อง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_mental_arithmetic.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Perhitungan mental memberikan angka kasar, sedangkan pemeriksaan kemudian memberikan hasil yang tepat.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_mental_arithmetic.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O cálculo mental me deu um valor aproximado, e a verificação confirmou o resultado correto.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_mental_arithmetic.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "머릿속 계산으로 대략적인 수를 구한 뒤, 검산해 정확한 답을 확인했습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_mental_arithmetic.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "暗算で概数を出し、検算で正しい答えを確認した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mathematics.ma_mental_arithmetic.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Mental arithmetic gave me the rough figure, and the check gave me the right one.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d388557c1d2430b0a291ed8aef1612f667cc93e444780c841000db3d4cb72d23": [
+      {
+        "forms": [
+          "Consistency",
+          "mathlit_consistency"
+        ],
+        "id": "lex.sa.mind.mathlit_consistency",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Consistency",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mathlit_consistency.alt",
+          "sns.sa.mind.mathlit_consistency.alt.ko",
+          "sns.sa.mind.mathlit_consistency.alt.pt_br",
+          "sns.sa.mind.mathlit_consistency.alt.id",
+          "sns.sa.mind.mathlit_consistency.alt.th",
+          "sns.sa.mind.mathlit_consistency.alt.tr",
+          "sns.sa.mind.mathlit_consistency.alt.ja"
+        ]
+      },
+      {
+        "definition": "The property of a set of axioms that do not contradict one another.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1"
+        ],
+        "gloss": "The property of a set of axioms that do not contradict one another.",
+        "id": "sns.sa.mind.mathlit_consistency.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "하나의 명제 집합에 속한 명제들이 서로 논리적으로 모순되지 않는 성질이다. 모순이 없으면 그 명제들로부터 논리적으로 타당한 결론을 얻을 수 있다.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.ko"
+        ],
+        "gloss": "어떤 공리 집합의 명제들이 서로 모순되지 않는 성질이다.",
+        "id": "sns.sa.mind.mathlit_consistency.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Propriedade de um conjunto de axiomas ou regras em que nenhum deles contradiz os demais. Um conjunto inconsistente pode levar a qualquer conclusão, sem valor demonstrativo.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.pt_br"
+        ],
+        "gloss": "Propriedade de um conjunto de axiomas que não se contradizem entre si.",
+        "id": "sns.sa.mind.mathlit_consistency.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sifat suatu himpunan aksioma yang tidak saling bertentangan. Jika dua pernyataan dalam himpunan itu saling meniadakan, himpunan tersebut tidak konsisten.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.id"
+        ],
+        "gloss": "Sifat suatu himpunan aksioma yang tidak saling bertentangan.",
+        "id": "sns.sa.mind.mathlit_consistency.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คุณสมบัติของชุดบทสมมติฐานหรือกฎที่ไม่ขัดแย้งกัน หากข้อความสองข้อที่ต่างกันขัดแย้งกัน ชุดนั้นจะไม่สอดคล้องกัน",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.th"
+        ],
+        "gloss": "คุณสมบัติของชุดบทสมมติฐานที่ไม่ขัดแย้งกัน",
+        "id": "sns.sa.mind.mathlit_consistency.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir aksiyom kümesinde hiçbir önermenin başka bir önermeyle çelişmemesi hâli. Çelişki varsa küme tutarlı değildir.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.tr"
+        ],
+        "gloss": "Birbirleriyle çelişmeyen aksiyomlardan oluşan bir kümenin özelliği.",
+        "id": "sns.sa.mind.mathlit_consistency.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一連の公理や規則の間で矛盾が生じないという性質。矛盾があれば、それらすべてを同時に真とはできない。",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.ja"
+        ],
+        "gloss": "複数の公理や規則が互いに矛盾しない性質。",
+        "id": "sns.sa.mind.mathlit_consistency.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "二つの規則が同時に真でありえないなら、その規則の集合は整合的ではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "İki kural aynı anda doğru olamaz; bu yüzden kural kümesi tutarlı değildir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "กฎสองข้อไม่อาจเป็นจริงพร้อมกันได้ ดังนั้นชุดกฎนี้จึงไม่สอดคล้องกัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kedua aturan itu tidak mungkin sama-sama benar, sehingga himpunan aturan tersebut tidak konsisten.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "As duas regras não podem ser verdadeiras ao mesmo tempo, portanto o conjunto de regras não é consistente.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "두 규칙이 동시에 참일 수 없으므로 그 규칙 집합은 일관적이지 않다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The two rules cannot both be true, so the set of rules is not consistent.",
+        "translation": "Hai quy tắc không thể cùng đúng, nên tập hợp các quy tắc đó không nhất quán.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d3a8eda4bbcfcd7865b6dfb355540727ca63290c1c88397e28b571897277f7b4": [
+      {
+        "forms": [
+          "Manufactured consent"
+        ],
+        "id": "lex.sa.mind.manufactured_consent",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Manufactured consent",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.manufactured_consent.en",
+          "sns.sa.mind.manufactured_consent.vi"
+        ]
+      },
+      {
+        "definition": "Agreement produced not by open discussion but by arranging the information environment so one conclusion appears natural.",
+        "exampleIds": [],
+        "gloss": "Agreement produced not by open discussion but by arranging the information environment so one conclusion appears natural.",
+        "id": "sns.sa.mind.manufactured_consent.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.manufactured_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Sự đồng ý tạo ra không phải qua thảo luận cởi mở mà bằng cách sắp đặt môi trường thông tin sao cho một kết luận trông tự nhiên.",
+        "id": "sns.sa.mind.manufactured_consent.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.manufactured_consent",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "d3da424a85938b50ac244d8db5cf52f174ee7e79ded985a066d344faca2666be": [
+      {
+        "forms": [
+          "Refreeze",
+          "refreeze"
+        ],
+        "id": "lex.sa.daily_skills.refreeze",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Refreeze",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.refreeze.alt",
+          "sns.sa.daily_skills.refreeze.alt.ja",
+          "sns.sa.daily_skills.refreeze.alt.ko",
+          "sns.sa.daily_skills.refreeze.alt.pt_br",
+          "sns.sa.daily_skills.refreeze.alt.id",
+          "sns.sa.daily_skills.refreeze.alt.th",
+          "sns.sa.daily_skills.refreeze.alt.tr"
+        ]
+      },
+      {
+        "definition": "To put something that has thawed back into the freezer. For meat and fish this is a safety question, not a quality one.",
+        "exampleIds": [
+          "exm.sa.daily_skills.refreeze.1.1"
+        ],
+        "gloss": "To put something that has thawed back into the freezer. For meat and fish this is a safety question, not a quality one.",
+        "id": "sns.sa.daily_skills.refreeze.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.refreeze",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "肉や魚では品質だけでなく食品衛生上の安全性が問題になるため、解凍した後に再冷凍できるとは限らない。",
+        "exampleIds": [
+          "exm.sa.daily_skills.refreeze.1.1.ja"
+        ],
+        "gloss": "一度解凍したものを再び冷凍すること。",
+        "id": "sns.sa.daily_skills.refreeze.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.refreeze",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "해동한 음식을 다시 냉동하는 것을 말한다. 고기와 생선은 해동 후 재냉동하면 안전 문제가 생길 수 있으므로 신중해야 한다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.refreeze.1.1.ko"
+        ],
+        "gloss": "해동된 음식물을 다시 냉동하는 것.",
+        "id": "sns.sa.daily_skills.refreeze.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.refreeze",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Em geral, alimentos descongelados não devem ser recongelados. Para carnes e peixes, essa decisão envolve segurança alimentar, e não apenas qualidade.",
+        "exampleIds": [
+          "exm.sa.daily_skills.refreeze.1.1.pt_br"
+        ],
+        "gloss": "Ato de colocar novamente no congelador um alimento que foi descongelado.",
+        "id": "sns.sa.daily_skills.refreeze.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.refreeze",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Makanan yang telah mencair dimasukkan kembali ke lemari es. Untuk daging dan ikan, hal ini merupakan persoalan keamanan, bukan hanya kualitas makanan.",
+        "exampleIds": [
+          "exm.sa.daily_skills.refreeze.1.1.id"
+        ],
+        "gloss": "Proses membekukan kembali makanan yang telah mencair.",
+        "id": "sns.sa.daily_skills.refreeze.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.refreeze",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การนำอาหารหรือของที่เคยละลายหรืออุ่นขึ้นแล้วกลับไปแช่แข็ง สำหรับเนื้อและปลาต้องพิจารณาความปลอดภัยอย่างจริงจัง เพราะการแช่แข็งใหม่ไม่ได้ทำให้ปลอดภัยขึ้น",
+        "exampleIds": [
+          "exm.sa.daily_skills.refreeze.1.1.th"
+        ],
+        "gloss": "การนำของที่ละลายแล้วกลับไปแช่แข็งอีกครั้ง",
+        "id": "sns.sa.daily_skills.refreeze.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.refreeze",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çözülmüş bir şeyi yeniden dondurma işlemi. Et ve balık için bu, kalite değil güvenlik açısından önemlidir.",
+        "exampleIds": [
+          "exm.sa.daily_skills.refreeze.1.1.tr"
+        ],
+        "gloss": "Çözülmüş bir şeyi yeniden dondurma işlemi.",
+        "id": "sns.sa.daily_skills.refreeze.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.refreeze",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.refreeze.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+        "translation": "Şimdi dondurabilirsiniz, ancak çözüldükten sonra yeniden dondurabilirsiniz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.refreeze.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+        "translation": "คุณแช่แข็งมันตอนนี้ได้ แต่เมื่อละลายแล้วห้ามแช่แข็งใหม่",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.refreeze.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+        "translation": "Daging itu masih dapat dibekukan, tetapi tidak dapat dibekukan kembali setelah mencair.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.refreeze.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+        "translation": "O recongelamento do peixe foi arriscado porque ele já havia descongelado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.refreeze.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+        "translation": "지금 냉동할 수는 있지만 한 번 해동한 뒤에는 다시 냉동할 수 없습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.refreeze.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+        "translation": "今なら冷凍できますが、解凍した後は再冷凍できません。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.refreeze.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d3db5338aae140c5cc04ac37690aa4f98041e14a042bc6473d54ecda8d95f93e": [
+      {
+        "forms": [
+          "intro",
+          "introduction"
+        ],
+        "id": "lex.sa.en.intro.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "intro",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.intro.noun.1",
+          "sns.sa.en.intro-noun.alt"
+        ]
+      },
+      {
+        "definition": "Đoạn mở đầu của một nội dung.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.08"
+        ],
+        "gloss": "phần giới thiệu",
+        "id": "sns.sa.vi.intro.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.intro.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The short opening part of something.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.08"
+        ],
+        "gloss": "The opening part of a piece of content.",
+        "id": "sns.sa.en.intro-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.intro.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.08",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The file is media/video/intro.mp4.",
+        "translation": "Tệp đó là media/video/intro.mp4.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "d3f5c230ecc7599c892b3a340131ec5db5c08d072dd6b474081204ad1365ae8e": [
+      {
+        "forms": [
+          "Follow-up",
+          "follow_up"
+        ],
+        "id": "lex.sa.work.follow_up",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Follow-up",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.follow_up.alt",
+          "sns.sa.work.follow_up.alt.ja",
+          "sns.sa.work.follow_up.alt.ko",
+          "sns.sa.work.follow_up.alt.pt_br",
+          "sns.sa.work.follow_up.alt.id",
+          "sns.sa.work.follow_up.alt.th",
+          "sns.sa.work.follow_up.alt.tr"
+        ]
+      },
+      {
+        "definition": "A message sent after an earlier one, either to remind someone or to ask for a decision.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1"
+        ],
+        "gloss": "A message sent after an earlier one, either to remind someone or to ask for a decision.",
+        "id": "sns.sa.work.follow_up.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "すでに送ったメールや連絡に対する追加連絡をいう。単なる次の行動ではなく、以前の連絡を受けた_LONG後 dred 送られるmessage を指す。",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.ja"
+        ],
+        "gloss": "以前の連絡の後に送る催促や確認の連絡。",
+        "id": "sns.sa.work.follow_up.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "보낸 메시지에 대한 답을 받지 못했거나 필요한 결정을 받기 위해 그 뒤에 추가로 보내는 메시지이다. 기존 내용을 다시 알려 주거나 행동을촉구하는 데 쓰인다.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.ko"
+        ],
+        "gloss": "이전 메시지 뒤에 보내는_reminder 또는_결정 요청.",
+        "id": "sns.sa.work.follow_up.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Comunicação posterior à primeira, enviada para retomar um assunto, cobrar uma resposta ou pedir uma decisão.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.pt_br"
+        ],
+        "gloss": "Mensagem enviada depois de outra para lembrar algo ou solicitar uma decisão.",
+        "id": "sns.sa.work.follow_up.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pesan yang dikirim setelah pesan sebelumnya sebagai pengingat, permintaan tindakan, atau permintaan keputusan.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.id"
+        ],
+        "gloss": "Pesan lanjutan yang dikirim untuk mengingatkan atau meminta keputusan.",
+        "id": "sns.sa.work.follow_up.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ข้อความที่ส่งต่อจากการติดต่อหรือข้อความก่อนหน้า โดยมักมีไว้เตือนความจำ ตรวจสอบความคืบหน้า หรือขอคำตัดสินใจ",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.th"
+        ],
+        "gloss": "ข้อความที่ส่งหลังจากข้อความเดิมเพื่อเตือนความจำหรือขอให้ตัดสินใจ",
+        "id": "sns.sa.work.follow_up.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Daha önce gönderilmiş bir mesajı izleyerek kişiyi hatırlatan, durum soran veya karar isteyen yeni mesaj.",
+        "exampleIds": [
+          "exm.sa.work.follow_up.1.1.tr"
+        ],
+        "gloss": "Önceki bir mesajdan sonra gönderilen, hatırlatma veya karar isteyen mesaj.",
+        "id": "sns.sa.work.follow_up.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.follow_up",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "Bu, geçen salı gönderdiğim e-postanın kısa bir takip mesajıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "นี่เป็นข้อความติดตามอีกครั้งสำหรับอีเมลที่ฉันส่งไปเมื่อวันอังคาร",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "Ini adalah tindak lanjut singkat terhadap surel saya_last Tuesday.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "Este é um acompanhamento do e-mail que enviei na terça-feira passada.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "이번 메시지는 지난 화요일에 보낸 이메일에 대한 후속 메시지입니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "先週のメールへのフォローアップとして、返事の期限について問い合わせました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.follow_up.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This is a short follow-up to my email of last Tuesday.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

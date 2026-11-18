@@ -1,0 +1,582 @@
+{
+  "records": {
+    "5312fb609f60384731fcfcb95deef3602239bf61f865a07bd8e08d818d22e9fa": [
+      {
+        "forms": [
+          "Ex",
+          "ex"
+        ],
+        "id": "lex.sa.social.ex",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Ex",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.ex.alt",
+          "sns.sa.social.ex.alt.ja",
+          "sns.sa.social.ex.alt.ko",
+          "sns.sa.social.ex.alt.pt_br",
+          "sns.sa.social.ex.alt.id",
+          "sns.sa.social.ex.alt.th",
+          "sns.sa.social.ex.alt.tr"
+        ]
+      },
+      {
+        "definition": "Someone you were in a relationship with and are no longer in one.",
+        "exampleIds": [
+          "exm.sa.social.ex.1.1"
+        ],
+        "gloss": "Someone you were in a relationship with and are no longer in one.",
+        "id": "sns.sa.social.ex.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.ex",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "恋人や配偶者など(arguments以前 partner)だった相手で、今は関係を結んでいない人をいう。元夫や元妻だけに限定されない。",
+        "exampleIds": [
+          "exm.sa.social.ex.1.1.ja"
+        ],
+        "gloss": "かつて交際していたが、現在は関係を保っていない相手。",
+        "id": "sns.sa.social.ex.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.ex",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "한때 사귀었지만 현재는 관계가 끝난 상대를 가리킨다. 이혼이나 사별의 연인, 전 직장 동료 등 여러 관계에서 쓸 수 있다.",
+        "exampleIds": [
+          "exm.sa.social.ex.1.1.ko"
+        ],
+        "gloss": "현재는 사귄 사이가 아닌 과거의 연인.",
+        "id": "sns.sa.social.ex.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.ex",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pessoa que foi seu parceiro ou parceira amorosa em um relacionamento anterior. A palavra não se limita a cônjuges ou a pessoas com quem se morou.",
+        "exampleIds": [
+          "exm.sa.social.ex.1.1.pt_br"
+        ],
+        "gloss": "Pessoa com quem você teve um relacionamento amoroso e que não está mais em curso.",
+        "id": "sns.sa.social.ex.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.ex",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Orang yang pernah menjadi pasangan romantis tetapi hubungan itu sudah berakhir.",
+        "exampleIds": [
+          "exm.sa.social.ex.1.1.id"
+        ],
+        "gloss": "Mantan pasangan yang hubungan romantisnya sudah berakhir.",
+        "id": "sns.sa.social.ex.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.ex",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คนที่เคยมีความสัมพันธ์เป็นคู่กับเรา แต่ปัจจุบันไม่ได้เป็นคู่กันแล้ว",
+        "exampleIds": [
+          "exm.sa.social.ex.1.1.th"
+        ],
+        "gloss": "คนที่เคยเป็นคู่กับเราแต่ไม่ได้เป็นคู่กันแล้ว",
+        "id": "sns.sa.social.ex.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.ex",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Daha önce romantik ilişkisi bulunduğu hâlde artık birlikte olmadığın eski sevgili.",
+        "exampleIds": [
+          "exm.sa.social.ex.1.1.tr"
+        ],
+        "gloss": "Daha önce birlikte olunan ama artık ilişkisi bulunmayan kişi.",
+        "id": "sns.sa.social.ex.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.ex",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.ex.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My ex and I still share a group of friends, so we keep it simple.",
+        "translation": "Eski sevgilimle hâlâ ortak dostlarımız var, bu yüzden işleri kolay tutuyoruz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.ex.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My ex and I still share a group of friends, so we keep it simple.",
+        "translation": "คนครองเดิมของฉันและฉันยังมีเพื่อนร่วมกลุ่มกัน จึงตกลงประพฤติให้เรียบง่าย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.ex.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My ex and I still share a group of friends, so we keep it simple.",
+        "translation": "Mantan saya dan saya masih berbagi kelompok teman, jadi kamiomba menjaga hubungan tetap sederhana.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.ex.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My ex and I still share a group of friends, so we keep it simple.",
+        "translation": "Minha ex e eu ainda compartilhamos um grupo de amigos, então mantemos as coisas simples.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.ex.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My ex and I still share a group of friends, so we keep it simple.",
+        "translation": "전 연인과 저는 아직도 친구 그룹을 함께 다녀서 관계를 간단히 유지합니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.ex.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My ex and I still share a group of friends, so we keep it simple.",
+        "translation": "元交際相手と現在も共通の友達を-Lineっています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.ex.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My ex and I still share a group of friends, so we keep it simple.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "53501f58f1926163efc53f16b4bfd829bc7662de7454f97568b22e294298ea8f": [
+      {
+        "forms": [
+          "understand",
+          "understood"
+        ],
+        "id": "lex.sa.en.understand.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "understand",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.understand.verb.1",
+          "sns.sa.en.understand-verb.alt"
+        ]
+      },
+      {
+        "definition": "Nắm được ý nghĩa của một điều.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "hiểu",
+        "id": "sns.sa.vi.understand.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.understand.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To know what something means.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "To grasp the meaning of something.",
+        "id": "sns.sa.en.understand-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.understand.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "5364b92e50b1944f33d10f662b1c90a18a004ed8da1434376c41cde8f920aede": [
+      {
+        "forms": [
+          "Lift",
+          "lift"
+        ],
+        "id": "lex.sa.kids_science.lift",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Lift",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.lift.alt",
+          "sns.sa.kids_science.lift.alt.ja",
+          "sns.sa.kids_science.lift.alt.ko",
+          "sns.sa.kids_science.lift.alt.pt_br",
+          "sns.sa.kids_science.lift.alt.id",
+          "sns.sa.kids_science.lift.alt.th",
+          "sns.sa.kids_science.lift.alt.tr"
+        ]
+      },
+      {
+        "definition": "The upward push that the wings make on a plane. It is what holds the plane in the air.",
+        "exampleIds": [
+          "exm.sa.kids_science.lift.1.1"
+        ],
+        "gloss": "The upward push that the wings make on a plane. It is what holds the plane in the air.",
+        "id": "sns.sa.kids_science.lift.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.lift",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "翼が前進する起大気に対して，把它Lamburg配方上方へ押し上げる力。航空機を空中に支え、離陸ATER contributionする。",
+        "exampleIds": [
+          "exm.sa.kids_science.lift.1.1.ja"
+        ],
+        "gloss": "航空機の翼が空気dependenceMgr上方へ押し上げる力。",
+        "id": "sns.sa.kids_science.lift.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.lift",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "날개가 공기를 밀어내면서 발생하는 위쪽 힘으로, 비행기가 공중에 머무르게 한다.",
+        "exampleIds": [
+          "exm.sa.kids_science.lift.1.1.ko"
+        ],
+        "gloss": "비행기가 날개에 의해 받는 위로 향하는 힘이다.",
+        "id": "sns.sa.kids_science.lift.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.lift",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Empuxo para cima que as asas exercem sobre o ar e que ajuda a manter o avião no ar; neste contexto, não significa elevador.",
+        "exampleIds": [
+          "exm.sa.kids_science.lift.1.1.pt_br"
+        ],
+        "gloss": "Força ascendente produzida pelas asas de um avião.",
+        "id": "sns.sa.kids_science.lift.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.lift",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gaya angkat yang bekerja ke atas pada sayap pesawat dan membantu pesawat tetap berada di udara. Istilah ini tidak berarti gerakan pesawat menuju atas.",
+        "exampleIds": [
+          "exm.sa.kids_science.lift.1.1.id"
+        ],
+        "gloss": "Gaya ke atas yang dihasilkan oleh sayap pesawat.",
+        "id": "sns.sa.kids_science.lift.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.lift",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แรงที่พาเครื่องบินขึ้นสู่อากาศ เกิดจากการไหลของอากาศเหนือปีกและช่วยพยุงเครื่องบินให้อยู่ในอากาศ",
+        "exampleIds": [
+          "exm.sa.kids_science.lift.1.1.th"
+        ],
+        "gloss": "แรงยกขึ้นที่ปีกเครื่องบินสร้างขึ้น",
+        "id": "sns.sa.kids_science.lift.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.lift",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uçağın kanatları üzerinde oluşan ve uçağı havada tutan yukarı yönlü kuvvet.",
+        "exampleIds": [
+          "exm.sa.kids_science.lift.1.1.tr"
+        ],
+        "gloss": "Uçak kanatlarının oluşturduğu yukarı yönlü kuvvet.",
+        "id": "sns.sa.kids_science.lift.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.lift",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.lift.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "More speed means more lift on the wings.",
+        "translation": "Daha yüksek hız, kanatlarda daha fazla kaldırma kuvveti oluşturur.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.lift.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "More speed means more lift on the wings.",
+        "translation": "เมื่อเครื่องบินวิ่งเร็วขึ้น แรงยกบนปีกก็เพิ่มขึ้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.lift.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "More speed means more lift on the wings.",
+        "translation": "Semakin besar kecepatan pesawat, semakin besar gaya angkat pada sayapnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.lift.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "More speed means more lift on the wings.",
+        "translation": "Mais velocidade produz mais sustentação nas asas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.lift.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "More speed means more lift on the wings.",
+        "translation": "속도가 빨라질수록 날개에 작용하는 양력도 커진다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.lift.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "More speed means more lift on the wings.",
+        "translation": "速度が速くなると、翼に生じる揚力も大きくなる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.lift.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "More speed means more lift on the wings.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "53e72617270e503d76c732a1ceca902e4809f8b53ea45b4c49ef6115a37b69da": [
+      {
+        "forms": [
+          "Regrade",
+          "regrade"
+        ],
+        "id": "lex.sa.work.regrade",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Regrade",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.regrade.alt",
+          "sns.sa.work.regrade.alt.ja",
+          "sns.sa.work.regrade.alt.ko",
+          "sns.sa.work.regrade.alt.pt_br",
+          "sns.sa.work.regrade.alt.id",
+          "sns.sa.work.regrade.alt.th",
+          "sns.sa.work.regrade.alt.tr"
+        ]
+      },
+      {
+        "definition": "A change of level within the same job, which usually comes with a pay band change.",
+        "exampleIds": [
+          "exm.sa.work.regrade.1.1"
+        ],
+        "gloss": "A change of level within the same job, which usually comes with a pay band change.",
+        "id": "sns.sa.work.regrade.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.regrade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "同じ職種の中で職位や評価レベルを変更する扱いで、通常は賃金帯も変更されます。",
+        "exampleIds": [
+          "exm.sa.work.regrade.1.1.ja"
+        ],
+        "gloss": "同じ職種内で、職位や賃金帯を変更すること。",
+        "id": "sns.sa.work.regrade.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.regrade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "직무 자체를 바꾸지 않고 해당 직무의 등급을 다시 정하는 조치이다. 보통 급여대도 함께 변경된다.",
+        "exampleIds": [
+          "exm.sa.work.regrade.1.1.ko"
+        ],
+        "gloss": "같은 직무 안에서 직급과 급여대를 조정하는 것.",
+        "id": "sns.sa.work.regrade.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.regrade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Reclassificação que altera o nível de uma posição sem mudar o cargo, normalmente acompanhada de uma alteração na faixa salarial.",
+        "exampleIds": [
+          "exm.sa.work.regrade.1.1.pt_br"
+        ],
+        "gloss": "Mudança de nível dentro da mesma função.",
+        "id": "sns.sa.work.regrade.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.regrade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Perubahan tingkat atau jenjang jabatan tanpanecessarily meninggalkan posisi yang sedang diisi, biasanya disertai perubahan rentang gaji. Istilah ini dipakai dalam administrasi pekerjaan.",
+        "exampleIds": [
+          "exm.sa.work.regrade.1.1.id"
+        ],
+        "gloss": "Perubahan jenjang dalam jabatan yang sama.",
+        "id": "sns.sa.work.regrade.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.regrade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การเปลี่ยนระดับของตำแหน่งเดิมโดยไม่เปลี่ยนงาน ซึ่งมักทำพร้อมกับการเปลี่ยนช่วงเงินเดือน",
+        "exampleIds": [
+          "exm.sa.work.regrade.1.1.th"
+        ],
+        "gloss": "การปรับระดับตำแหน่งและช่วงเงินเดือน",
+        "id": "sns.sa.work.regrade.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.regrade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çalışanın iş tanımı değişmeden daha yüksek ya da farklı bir kademeye atanması. Bu değişiklik çoğunlukla ücret bandında da düzenleme yapar.",
+        "exampleIds": [
+          "exm.sa.work.regrade.1.1.tr"
+        ],
+        "gloss": "Aynı iş içindeki görev kademesinin ve genellikle ücret bandının değiştirilmesi.",
+        "id": "sns.sa.work.regrade.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.regrade",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.regrade.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They suggested a regrade to senior analyst.",
+        "translation": "Bana kıdemli analist kademesine yükseltme önerdiler.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.regrade.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They suggested a regrade to senior analyst.",
+        "translation": "บริษัทเสนอให้ปรับระดับเป็นนักวิเคราะห์อาวุโส",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.regrade.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They suggested a regrade to senior analyst.",
+        "translation": "Mereka mengusulkan jenjangan ulang menjadi analis utama.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.regrade.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They suggested a regrade to senior analyst.",
+        "translation": "Sugeriram minha reclassificação para o nível de analista sênior.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.regrade.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They suggested a regrade to senior analyst.",
+        "translation": "그들은 고급 분석원으로 직급을 재조정하자고 제안했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.regrade.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They suggested a regrade to senior analyst.",
+        "translation": "彼らは格付け変更で上級分析担当者への昇格を提案した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.regrade.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They suggested a regrade to senior analyst.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

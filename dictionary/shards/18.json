@@ -1,0 +1,581 @@
+{
+  "records": {
+    "181fdd46fc4a7246b9f4f1eba3129ba5d724011af5f10223b3589955d1df108a": [
+      {
+        "forms": [
+          "origin"
+        ],
+        "id": "lex.sa.en.origin.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "origin",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.origin.noun.1",
+          "sns.sa.en.origin-noun.alt"
+        ]
+      },
+      {
+        "definition": "Điểm mà một hệ toạ độ bắt đầu; nguồn gốc.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "gốc; điểm gốc",
+        "id": "sns.sa.vi.origin.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.origin.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The starting point of a coordinate system.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "The point where a coordinate system starts; the source.",
+        "id": "sns.sa.en.origin-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.origin.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "18838e70a4d918a1caa604d6e17dbb295b1f1143965c4ab422dc18940f4bdf31": [
+      {
+        "forms": [
+          "Avoidant",
+          "att_avoidant"
+        ],
+        "id": "lex.sa.social.att_avoidant",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Avoidant",
+        "pos": "adjective",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.att_avoidant.alt",
+          "sns.sa.social.att_avoidant.alt.ja",
+          "sns.sa.social.att_avoidant.alt.ko",
+          "sns.sa.social.att_avoidant.alt.pt_br",
+          "sns.sa.social.att_avoidant.alt.id",
+          "sns.sa.social.att_avoidant.alt.th",
+          "sns.sa.social.att_avoidant.alt.tr"
+        ]
+      },
+      {
+        "definition": "Describing a person who leans away when closeness increases, to protect independence.",
+        "exampleIds": [
+          "exm.sa.social.att_avoidant.1.1"
+        ],
+        "gloss": "Describing a person who leans away when closeness increases, to protect independence.",
+        "id": "sns.sa.social.att_avoidant.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.att_avoidant",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "closenessReportingChannels closer Rapport nehmer beviceren ]].",
+        "exampleIds": [
+          "exm.sa.social.att_avoidant.1.1.ja"
+        ],
+        "gloss": "親密さが増えると距離を取ろうとする人を表す。",
+        "id": "sns.sa.social.att_avoidant.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.att_avoidant",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "관계가 가까워지는 것을 불안하게 여기거나 물러서서 독립을 유지하려는 성향을 뜻한다. 일반적으로 사람에게 접근하는 것을 어렵게 느끼는 상태를 가리킨다.",
+        "exampleIds": [
+          "exm.sa.social.att_avoidant.1.1.ko"
+        ],
+        "gloss": "친밀함이 가까워지면 이를 피하고 독립을 지키려는 성향을 나타내는 말이다.",
+        "id": "sns.sa.social.att_avoidant.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.att_avoidant",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Adjetivo que descreve quem recua do aumento da intimidade, preferindo manter distância para preservar a própria independência. Cuidado: não é quem evita o outro por medo, e sim quem recua da proximidade.",
+        "exampleIds": [
+          "exm.sa.social.att_avoidant.1.1.pt_br"
+        ],
+        "gloss": "Que se afasta quando a aproximação aumenta, para proteger a independência.",
+        "id": "sns.sa.social.att_avoidant.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.att_avoidant",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Menggambarkan orang yang menjauh ketika kedekatan bertambah, untuk menjaga kemerdekaannya. Orang seperti itu jarang meminta bantuan, dan lebih sering menarik diri ketika orang lain mendekat.",
+        "exampleIds": [
+          "exm.sa.social.att_avoidant.1.1.id"
+        ],
+        "gloss": "Menggambarkan orang yang menjauh ketika kedekatan bertambah, untuk menjaga kemerdekaannya.",
+        "id": "sns.sa.social.att_avoidant.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.att_avoidant",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "อธิบายบุคคลที่เมื่อความสัมพันธ์ใกล้ชิดขึ้น บุคคลนั้นมักถอยออกหรือลดการติดต่อเพื่อปกป้องความเป็นอิสระ",
+        "exampleIds": [
+          "exm.sa.social.att_avoidant.1.1.th"
+        ],
+        "gloss": "บุคคลที่ถอยออกเมื่อความใกล้ชิดเพิ่มขึ้นเพื่อรักษาความเป็นอิสระ",
+        "id": "sns.sa.social.att_avoidant.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.att_avoidant",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Bir ilişkide yakınlık arttığında geri çekilerek bağımsızlığını koruyan kişiyi belirtir. Yalnızca başkalarından hoşlanmayan kişileri değil, yakınlığa da uzak duran bir örüntüyü anlatır.",
+        "exampleIds": [
+          "exm.sa.social.att_avoidant.1.1.tr"
+        ],
+        "gloss": "Yakınlık arttığında bağımsızlığını korumak için geri çekilen kişiyi tanımlar.",
+        "id": "sns.sa.social.att_avoidant.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.att_avoidant",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.att_avoidant.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kaçıngan tarafı, tam da ona en çok ihtiyaç duyduğu anda daha az iletişim istedi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.att_avoidant.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ด้านที่หลีกเลี่ยงของเขาเรียกร้องให้ลดการติดต่อในเวลาที่เขาต้องการความใกล้ชิดมากที่สุด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.att_avoidant.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bagian yang menjauh dalam dirinya meminta lebih sedikit kontak justru ketika ia paling membutuhkan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.att_avoidant.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Seu lado evitante pediu menos contato justamente quando mais precisava dele.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.att_avoidant.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그의 회피적인 성향 때문에 다른 사람들과 더 자주 함께 있지 못했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.att_avoidant.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼の回避的な側面は、最も助けを必要とした時に連絡を減らした。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.att_avoidant.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His avoidant side called for less contact at the moment he needed it most.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "188c72e45d00f0b9a69f4bc2dba18cd4c00716f9bea7cfc22c87cbb34ae55b26": [
+      {
+        "forms": [
+          "Pet shop",
+          "pet_shop"
+        ],
+        "id": "lex.sa.kids_animals.pet_shop",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Pet shop",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_animals.pet_shop.alt",
+          "sns.sa.kids_animals.pet_shop.alt.ja",
+          "sns.sa.kids_animals.pet_shop.alt.ko",
+          "sns.sa.kids_animals.pet_shop.alt.pt_br",
+          "sns.sa.kids_animals.pet_shop.alt.id",
+          "sns.sa.kids_animals.pet_shop.alt.th",
+          "sns.sa.kids_animals.pet_shop.alt.tr"
+        ]
+      },
+      {
+        "definition": "A place where people buy or adopt animals and the things they need to live well.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pet_shop.1.1"
+        ],
+        "gloss": "A place where people buy or adopt animals and the things they need to live well.",
+        "id": "sns.sa.kids_animals.pet_shop.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_animals.pet_shop",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "動物_scroll HCR ペットをcrum purchase or adopt crumb する店や、餌や用品を売る店である。",
+        "exampleIds": [
+          "exm.sa.kids_animals.pet_shop.1.1.ja"
+        ],
+        "gloss": "ペットやペット用の物を扱う店。",
+        "id": "sns.sa.kids_animals.pet_shop.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_animals.pet_shop",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "동물과 먹이, 장난감, 그릇 같은 반려동물용 물건을 파는 가게이다. 동물을 입양할 수 있는 곳이기도 하다.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pet_shop.1.1.ko"
+        ],
+        "gloss": "반려동물을 사고 입양하며 필요한 물건을 구하는 가게이다.",
+        "id": "sns.sa.kids_animals.pet_shop.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_animals.pet_shop",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estabelecimento onde se compram ou adotam animais de estimação e itens de que precisam.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pet_shop.1.1.pt_br"
+        ],
+        "gloss": "Loja que vende animais e Accessories para eles.",
+        "id": "sns.sa.kids_animals.pet_shop.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_animals.pet_shop",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Toko hewan peliharaan adalah tempat orang dapat membeli atau mengadopsi hewan serta memperoleh kebutuhan untuk-Merawatnya.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pet_shop.1.1.id"
+        ],
+        "gloss": "Toko yang menjual atau menitipkan hewan peliharaan serta kebutuhan sehari-harinya.",
+        "id": "sns.sa.kids_animals.pet_shop.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_animals.pet_shop",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สถานที่ที่จัดหาสัตว์เลี้ยงให้คนซื้อหรือรับการดูแล รวมถึงอาหารและอุปกรณ์สำหรับสัตว์",
+        "exampleIds": [
+          "exm.sa.kids_animals.pet_shop.1.1.th"
+        ],
+        "gloss": "ร้านที่ขายหรือให้รับสัตว์เลี้ยงและของที่สัตว์ต้องใช้",
+        "id": "sns.sa.kids_animals.pet_shop.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_animals.pet_shop",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Evcil hayvan satın alınan veya sahiplenilen; bazen de bu hayvanların ihtiyaç duyduğu ürünlerin satıldığı dükkân.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pet_shop.1.1.tr"
+        ],
+        "gloss": "Evcil hayvanların satın alındığı veya sahiplenildiği mağaza.",
+        "id": "sns.sa.kids_animals.pet_shop.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_animals.pet_shop",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_animals.pet_shop.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We went to the pet shop to buy a food bowl.",
+        "translation": "Evcil hayvan mağazasından bir mama kâsesi aldık.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_animals.pet_shop.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We went to the pet shop to buy a food bowl.",
+        "translation": "เราไปร้านสัตว์เลี้ยงเพื่อซื้อชามใส่อาหาร",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_animals.pet_shop.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We went to the pet shop to buy a food bowl.",
+        "translation": "Kami pergi ke toko hewan peliharaan untuk membeli tempat makan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_animals.pet_shop.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We went to the pet shop to buy a food bowl.",
+        "translation": "Fomos à loja de animais comprar uma tigela.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_animals.pet_shop.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We went to the pet shop to buy a food bowl.",
+        "translation": "우리는 먹이릇을 사러 반려동물 가게에 갔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_animals.pet_shop.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We went to the pet shop to buy a food bowl.",
+        "translation": "私たちはペットショップで餌碗を買いました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_animals.pet_shop.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We went to the pet shop to buy a food bowl.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "18cb2cd8fe8fc4c4d1d2709a41ff32127ab59c822aeaa3683f7d55c9e5b819f3": [
+      {
+        "forms": [
+          "Medium of exchange",
+          "mon_medium_of_exchange"
+        ],
+        "id": "lex.sa.money.mon_medium_of_exchange",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Medium of exchange",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_medium_of_exchange.alt",
+          "sns.sa.money.mon_medium_of_exchange.alt.ja",
+          "sns.sa.money.mon_medium_of_exchange.alt.ko",
+          "sns.sa.money.mon_medium_of_exchange.alt.pt_br",
+          "sns.sa.money.mon_medium_of_exchange.alt.id",
+          "sns.sa.money.mon_medium_of_exchange.alt.th",
+          "sns.sa.money.mon_medium_of_exchange.alt.tr"
+        ]
+      },
+      {
+        "definition": "The job money does when it is used to pay for something instead of trading goods for goods.",
+        "exampleIds": [
+          "exm.sa.money.mon_medium_of_exchange.1.1"
+        ],
+        "gloss": "The job money does when it is used to pay for something instead of trading goods for goods.",
+        "id": "sns.sa.money.mon_medium_of_exchange.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_medium_of_exchange",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "物と物とを直接交換する代わりに、金銭で代価を支払うときの金銭の役目。",
+        "exampleIds": [
+          "exm.sa.money.mon_medium_of_exchange.1.1.ja"
+        ],
+        "gloss": "物と物とを直接交換する代わりに、-And moneyで代価を支払う时候Swedish.",
+        "id": "sns.sa.money.mon_medium_of_exchange.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.mon_medium_of_exchange",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "재화나 서비스를 주고받는 데 돈을 이용하는 것을 뜻한다. 돈을 매수나 가치저장 수단으로만 보는 경우와 구별된다.",
+        "exampleIds": [
+          "exm.sa.money.mon_medium_of_exchange.1.1.ko"
+        ],
+        "gloss": "물건과 물건을 직접 바꾸는 대신 돈을 사용해 대가를 지불하는 수단.",
+        "id": "sns.sa.money.mon_medium_of_exchange.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.mon_medium_of_exchange",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Papel do dinheiro como instrumento de pagamento, em vez de troca direta de bens por outros bens.",
+        "exampleIds": [
+          "exm.sa.money.mon_medium_of_exchange.1.1.pt_br"
+        ],
+        "gloss": "Função do dinheiro quando ele é usado para pagar por algo.",
+        "id": "sns.sa.money.mon_medium_of_exchange.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.mon_medium_of_exchange",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Alat tukar adalah fungsi uang ketika digunakan untuk membayar barang atau jasa, bukan ditukar langsung dengan barang lain.",
+        "exampleIds": [
+          "exm.sa.money.mon_medium_of_exchange.1.1.id"
+        ],
+        "gloss": "Alat tukar adalah fungsi uang ketika digunakan untuk membayar barang atau jasa.",
+        "id": "sns.sa.money.mon_medium_of_exchange.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.mon_medium_of_exchange",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สิ่งที่ทำหน้าที่เป็นตัวกลางในการแลกเปลี่ยน โดยใช้เงินซื้อสินค้าหรือบริการแทนการแลกสินค้าโดยตรง",
+        "exampleIds": [
+          "exm.sa.money.mon_medium_of_exchange.1.1.th"
+        ],
+        "gloss": "หน้าที่ของเงินเมื่อถูกใช้ซื้อสินค้าหรือบริการ",
+        "id": "sns.sa.money.mon_medium_of_exchange.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.mon_medium_of_exchange",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir mal veya hizmetin karşılığında para kullanılmasını sağlayan paranın değişim aracı işlevi.",
+        "exampleIds": [
+          "exm.sa.money.mon_medium_of_exchange.1.1.tr"
+        ],
+        "gloss": "Malın mal karşılığında değiştirilmesi yerine ödeme aracı olarak kullanılan para.",
+        "id": "sns.sa.money.mon_medium_of_exchange.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.mon_medium_of_exchange",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_medium_of_exchange.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Otobüs bileti bir değişim aracıdır: ücret yolculuk hakkını sağlar.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.mon_medium_of_exchange.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ตั๋วรถเมล์เป็นสื่อแลกเปลี่ยน เพราะค่าโดยสารซื้อการเดินทาง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.mon_medium_of_exchange.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tiket bus merupakan alat tukar karena tarif yang dibayarkan memberikan hak untuk naik bus.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.mon_medium_of_exchange.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A passagem de ônibus é um meio de troca: o pagamento permite a viagem.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.mon_medium_of_exchange.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "버스 승차권은 교환수단이다. 요금을 내고 차를 탈 수 있기 때문이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.mon_medium_of_exchange.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "バスチケットは交通機関に乗るために代金を支払う手段である。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.mon_medium_of_exchange.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The bus ticket is a medium of exchange: the fare buys the ride.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

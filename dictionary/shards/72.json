@@ -1,0 +1,1491 @@
+{
+  "records": {
+    "721c9525ade2ea8903d343ef25cf68b9bf4ab0aad56bb7b01fbe48d09bc7fcf4": [
+      {
+        "forms": [
+          "media"
+        ],
+        "id": "lex.sa.en.media.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "media",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.media.noun.1",
+          "sns.sa.en.media-noun.alt"
+        ]
+      },
+      {
+        "definition": "Mọi dạng nội dung như ảnh, âm thanh, video và hoạt ảnh.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "phương tiện",
+        "id": "sns.sa.vi.media.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.media.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The images, sound and video of a pack.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "Content of every kind: images, sound, video and animation.",
+        "id": "sns.sa.en.media-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.media.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "723d5ff617674c2022f8ac0a4ed58a09da500bba1ded2985ec6895d88b8570ae": [
+      {
+        "forms": [
+          "Saturates",
+          "saturated_fat"
+        ],
+        "id": "lex.sa.health.saturated_fat",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Saturates",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.saturated_fat.alt",
+          "sns.sa.health.saturated_fat.alt.ja",
+          "sns.sa.health.saturated_fat.alt.ko",
+          "sns.sa.health.saturated_fat.alt.pt_br",
+          "sns.sa.health.saturated_fat.alt.id",
+          "sns.sa.health.saturated_fat.alt.th",
+          "sns.sa.health.saturated_fat.alt.tr"
+        ]
+      },
+      {
+        "definition": "The saturated fats, which are the part of the fat that matters most for blood cholesterol.",
+        "exampleIds": [
+          "exm.sa.health.saturated_fat.1.1"
+        ],
+        "gloss": "The saturated fats, which are the part of the fat that matters most for blood cholesterol.",
+        "id": "sns.sa.health.saturated_fat.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.saturated_fat",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "脂肪のうち飽和した結合をもつ脂肪酸で、血中コレステロールobacteria上昇に特に影響する。",
+        "exampleIds": [
+          "exm.sa.health.saturated_fat.1.1.ja"
+        ],
+        "gloss": "血中コレステロールに強く影響する飽和脂肪酸。",
+        "id": "sns.sa.health.saturated_fat.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.saturated_fat",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "지방의 한 종류로, 혈중 콜레스테롤을 올리는作用이 특히 큽니다. 식품 표시에서 포화지방의 그램 수와 하루 권장 기준량을 확인할 수 있습니다.",
+        "exampleIds": [
+          "exm.sa.health.saturated_fat.1.1.ko"
+        ],
+        "gloss": "포화지방은 혈중 콜레스테롤에 가장 큰 영향을 주는 지방이다.",
+        "id": "sns.sa.health.saturated_fat.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.saturated_fat",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "As gorduras saturadas são um tipo de gordura presente nos alimentos e negliado nos rótulos. O consumo delas deve ser limitado, pois seu excesso pode aumentar o colesterol no sangue.",
+        "exampleIds": [
+          "exm.sa.health.saturated_fat.1.1.pt_br"
+        ],
+        "gloss": "Gorduras saturadas, que afetam o nível de colesterol no sangue.",
+        "id": "sns.sa.health.saturated_fat.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.saturated_fat",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bagian lemak yang jenuh dan umumnya berkaitan dengan peningkatan kadar kolesterol darah. Jumlahnya perlu diperhatikan ketika membaca informasi nilai gizi.",
+        "exampleIds": [
+          "exm.sa.health.saturated_fat.1.1.id"
+        ],
+        "gloss": "Lemak jenuh yang paling berpengaruh terhadap kadar kolesterol darah.",
+        "id": "sns.sa.health.saturated_fat.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.saturated_fat",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ไขมันอิ่มตัวเป็นส่วนหนึ่งของไขมันที่มีผลสำคัญต่อระดับคอเลสเตอรอลในเลือด และมักแสดงปริมาณรวมไว้บนฉลากโภชนาการ",
+        "exampleIds": [
+          "exm.sa.health.saturated_fat.1.1.th"
+        ],
+        "gloss": "ไขมันอิ่มตัวซึ่งมีผลต่อคอเลสเตอรอลในเลือดอย่างชัดเจน",
+        "id": "sns.sa.health.saturated_fat.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.saturated_fat",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Doymuş yağlar, yağların kan kolesterolu açısından en önemli bölümüdür ve beslenme etiketlerinde ayrıca belirtilir.",
+        "exampleIds": [
+          "exm.sa.health.saturated_fat.1.1.tr"
+        ],
+        "gloss": "Kan kolesterolu üzerinde en çok etkili olan yağ türü.",
+        "id": "sns.sa.health.saturated_fat.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.saturated_fat",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.saturated_fat.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It has 11 g of saturates, which is over half the daily reference.",
+        "translation": "Bu üründe 11 g doymuş yağ var; bu miktar günlük referans değerinin yarısından fazladır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.saturated_fat.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It has 11 g of saturates, which is over half the daily reference.",
+        "translation": "ผลิตภัณฑ์นี้มีไขมันอิ่มตัว 11 กรัม ซึ่งเกินครึ่งของปริมาณที่แนะนำต่อวัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.saturated_fat.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It has 11 g of saturates, which is over half the daily reference.",
+        "translation": "Produk ini mengandung 11 g lemak jenuh, lebih dari setengah acuan harian.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.saturated_fat.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It has 11 g of saturates, which is over half the daily reference.",
+        "translation": "O produto contém 11 g de gorduras saturadas, mais da metade da ingestão diária de referência.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.saturated_fat.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It has 11 g of saturates, which is over half the daily reference.",
+        "translation": "이 음식에는 1일 권장 기준량의 절반이 넘는 11그램의 포화지방이 들어 있습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.saturated_fat.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It has 11 g of saturates, which is over half the daily reference.",
+        "translation": "この食品には飽和脂肪酸が11グラムあり、1日の目安量の半分を超えています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.saturated_fat.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It has 11 g of saturates, which is over half the daily reference.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "726a56dbd9eff79b2e83db481813d2e5736d873d7c006e45e78b78aeb7730335": [
+      {
+        "forms": [
+          "Appeal to authority",
+          "mia_appeal_to_authority"
+        ],
+        "id": "lex.sa.mind.mia_appeal_to_authority",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Appeal to authority",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mia_appeal_to_authority.alt",
+          "sns.sa.mind.mia_appeal_to_authority.alt.ja",
+          "sns.sa.mind.mia_appeal_to_authority.alt.ko",
+          "sns.sa.mind.mia_appeal_to_authority.alt.pt_br",
+          "sns.sa.mind.mia_appeal_to_authority.alt.th",
+          "sns.sa.mind.mia_appeal_to_authority.alt.tr",
+          "sns.sa.mind.mia_appeal_to_authority.alt.id"
+        ]
+      },
+      {
+        "definition": "The replacing of a reason with the title or the status of the person who offers it.",
+        "exampleIds": [
+          "exm.sa.mind.mia_appeal_to_authority.1.1"
+        ],
+        "gloss": "The replacing of a reason with the title or the status of the person who offers it.",
+        "id": "sns.sa.mind.mia_appeal_to_authority.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mia_appeal_to_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "具体的な根拠を示す代わりに、発言者の肩書きや地位を根拠として主張を信じさせること。専門的判断を根拠にする場合とは区別する。",
+        "exampleIds": [
+          "exm.sa.mind.mia_appeal_to_authority.1.1.ja"
+        ],
+        "gloss": "根拠ではなく相手の権威を理由に主張する論法。",
+        "id": "sns.sa.mind.mia_appeal_to_authority.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mia_appeal_to_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "발언자의 직함이나 사회적 지위만을 근거로 어떤 주장이 옳다고 말하는 논증이다. 실제 증거를 제시하지 않아도 권위만으로 설득하려는 데 문제가 있다.",
+        "exampleIds": [
+          "exm.sa.mind.mia_appeal_to_authority.1.1.ko"
+        ],
+        "gloss": "발언자의 권위나 직함을 근거로 주장을 대신하는 논증이다.",
+        "id": "sns.sa.mind.mia_appeal_to_authority.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mia_appeal_to_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recurso que considera uma afirmação válida apenas porque foi feita por uma pessoa reconhecida ou autoridadeda, sem apresentar a justificativa pertinente.",
+        "exampleIds": [
+          "exm.sa.mind.mia_appeal_to_authority.1.1.pt_br"
+        ],
+        "gloss": "Uso do prestígio de alguém como substituto de uma justificativa.",
+        "id": "sns.sa.mind.mia_appeal_to_authority.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mia_appeal_to_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การใช้ตำแหน่ง สถานะ หรือความน่าเชื่อถือของผู้เสนอความเห็นแทนหลักฐานและเหตุผล",
+        "exampleIds": [
+          "exm.sa.mind.mia_appeal_to_authority.1.1.th"
+        ],
+        "gloss": "การอ้างอำนาจแทนการให้เหตุผล",
+        "id": "sns.sa.mind.mia_appeal_to_authority.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mia_appeal_to_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Gerekçe yerine kişinin makamını, unvanını veya saygınlığını öne sürmek. Bu yöntem, savunulan fikrin doğru olduğunu tek başına kanıtlamaz.",
+        "exampleIds": [
+          "exm.sa.mind.mia_appeal_to_authority.1.1.tr"
+        ],
+        "gloss": "Bir fikrin, onu ortaya koyan kişinin konumuyla kanıtlanmaya çalışılması.",
+        "id": "sns.sa.mind.mia_appeal_to_authority.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mia_appeal_to_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Argumen yang mengandalkan gelar, jabatan, atau status seorang ahli sebagai ganti bukti atau alasan yang dapat diperiksa.",
+        "exampleIds": [
+          "exm.sa.mind.mia_appeal_to_authority.1.1.id"
+        ],
+        "gloss": "Penggantian alasan dengan kedudukan atau reputasi orang yang mengemukakannya.",
+        "id": "sns.sa.mind.mia_appeal_to_authority.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mia_appeal_to_authority",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mia_appeal_to_authority.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pernyataan 'ahli utama mengatakan bahwa hal itu aman' merupakan rujukan kepada otoritas karena tidak disertai bukti.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mia_appeal_to_authority.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Şef mühendisin sistem güvenli olduğunu söylemesi, ortada kanıt olmadığı hâlde otoriteye başvuruydu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mia_appeal_to_authority.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คำกล่าวว่าเหตุการณ์นี้ปลอดภัยโดยวิศวกรหัวหน้า เป็นการอ้างอำนาจ เพราะไม่ได้แสดงหลักฐาน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mia_appeal_to_authority.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Aceitar a afirmação do chefe engenheiro porque ele é uma autoridade, sem examinar as evidências, é um apelo à autoridade.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mia_appeal_to_authority.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "총공기사가 안전하다고 말했으므로 안전하다는 것은 권위에 호소하는 논증일 뿐이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mia_appeal_to_authority.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "主任技術者が安全だと言うから安全だとするのは、根拠を示すInstead of、権威への訴求です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mia_appeal_to_authority.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The chief engineer says it is safe was an appeal to authority, because no evidence was shown.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "729cd87c6329408e2bbfea0e2055404969539832af12773b558aca625ccc9041": [
+      {
+        "forms": [
+          "Tap",
+          "tap"
+        ],
+        "id": "lex.sa.kids_home.tap",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Tap",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_home.tap.alt",
+          "sns.sa.kids_home.tap.alt.ja",
+          "sns.sa.kids_home.tap.alt.ko",
+          "sns.sa.kids_home.tap.alt.pt_br",
+          "sns.sa.kids_home.tap.alt.id",
+          "sns.sa.kids_home.tap.alt.th",
+          "sns.sa.kids_home.tap.alt.tr"
+        ]
+      },
+      {
+        "definition": "The small handle or knob that turns the water on and off.",
+        "exampleIds": [
+          "exm.sa.kids_home.tap.1.1"
+        ],
+        "gloss": "The small handle or knob that turns the water on and off.",
+        "id": "sns.sa.kids_home.tap.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_home.tap",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "水道水の出し入れ manipulえるために回す、小さなハンドルやノブ。蛇口ともいう。",
+        "exampleIds": [
+          "exm.sa.kids_home.tap.1.1.ja"
+        ],
+        "gloss": "水の出し入れに使う、小さなハンドルやノブ。",
+        "id": "sns.sa.kids_home.tap.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_home.tap",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "수도에서 물이 나오게 하거나 멈추게 하는 작은 손잡이나 돌을 가리킨다. 물을 두드리는 동작을 뜻하기도 한다.",
+        "exampleIds": [
+          "exm.sa.kids_home.tap.1.1.ko"
+        ],
+        "gloss": "물을 틀거나 잠그는 작은 손잡이.",
+        "id": "sns.sa.kids_home.tap.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_home.tap",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pequena peça que controla a passagem da água, normalmente por meio de uma manivela ou botão.",
+        "exampleIds": [
+          "exm.sa.kids_home.tap.1.1.pt_br"
+        ],
+        "gloss": "Pequeno comando que abre e fecha a saída de água.",
+        "id": "sns.sa.kids_home.tap.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_home.tap",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tuas atau tombol kecil pada keran yang digunakan untuk menyalakan dan mematikan aliran air.",
+        "exampleIds": [
+          "exm.sa.kids_home.tap.1.1.id"
+        ],
+        "gloss": "Tuas kecil untuk menyalakan dan mematikan air.",
+        "id": "sns.sa.kids_home.tap.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_home.tap",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ด้ามหรือปุ่มเล็ก ๆ บริเวณอ่างล้างที่ใช้ควบคุมการไหลของน้ำ",
+        "exampleIds": [
+          "exm.sa.kids_home.tap.1.1.th"
+        ],
+        "gloss": "ก้อกหรือปุ่มเล็ก ๆ ที่ใช้เปิดและปิดน้ำ",
+        "id": "sns.sa.kids_home.tap.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_home.tap",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Suyun akışını açıp kapatan küçük tutamak veya düğme. Türkçede musluğun kendisi için de bu ad kullanılır.",
+        "exampleIds": [
+          "exm.sa.kids_home.tap.1.1.tr"
+        ],
+        "gloss": "Suyun akışını açıp kapatan küçük tutamak veya düğme.",
+        "id": "sns.sa.kids_home.tap.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_home.tap",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_home.tap.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Turn the tap off when you finish washing.",
+        "translation": "Yıkamayı bitirince musluğu kapat.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_home.tap.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Turn the tap off when you finish washing.",
+        "translation": "พอล้างเสร็จแล้วให้ปิดก้อกน้ำ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_home.tap.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Turn the tap off when you finish washing.",
+        "translation": "Matikan keran setelah selesai mencuci.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_home.tap.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Turn the tap off when you finish washing.",
+        "translation": "Feche a torneira quando terminar de lavar a louça.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_home.tap.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Turn the tap off when you finish washing.",
+        "translation": "손 씻은 뒤에는 수도꼭지를 잠가 주세요.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_home.tap.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Turn the tap off when you finish washing.",
+        "translation": "手洗いを終えたら蛇口をしめてください。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_home.tap.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Turn the tap off when you finish washing.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "72a29c03d8c3731c9480b1a426ce8c1c9dd5fef317cd8230af58203a03f21acb": [
+      {
+        "forms": [
+          "My name is",
+          "my_name_is"
+        ],
+        "id": "lex.sa.kids_daily.my_name_is",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "My name is",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_daily.my_name_is.alt",
+          "sns.sa.kids_daily.my_name_is.alt.ja",
+          "sns.sa.kids_daily.my_name_is.alt.ko",
+          "sns.sa.kids_daily.my_name_is.alt.pt_br",
+          "sns.sa.kids_daily.my_name_is.alt.id",
+          "sns.sa.kids_daily.my_name_is.alt.th",
+          "sns.sa.kids_daily.my_name_is.alt.tr"
+        ]
+      },
+      {
+        "definition": "The words you use to tell somebody your own name.",
+        "exampleIds": [
+          "exm.sa.kids_daily.my_name_is.1.1"
+        ],
+        "gloss": "The words you use to tell somebody your own name.",
+        "id": "sns.sa.kids_daily.my_name_is.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_daily.my_name_is",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "初対面の人などに、自分の名前を知らせる时候に使う表現。",
+        "exampleIds": [
+          "exm.sa.kids_daily.my_name_is.1.1.ja"
+        ],
+        "gloss": "自分の名前を伝えるために使う言葉。",
+        "id": "sns.sa.kids_daily.my_name_is.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_daily.my_name_is",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자신의 이름을 말할 때 쓰는 표현이다. 뒤에 자신의 이름이 온다.",
+        "exampleIds": [
+          "exm.sa.kids_daily.my_name_is.1.1.ko"
+        ],
+        "gloss": "자신의 이름을 상대에게 알려 주는 말.",
+        "id": "sns.sa.kids_daily.my_name_is.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_daily.my_name_is",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Expressão usada para apresentar seu próprio nome a outra pessoa.",
+        "exampleIds": [
+          "exm.sa.kids_daily.my_name_is.1.1.pt_br"
+        ],
+        "gloss": "Palavras usadas para dizer o próprio nome.",
+        "id": "sns.sa.kids_daily.my_name_is.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_daily.my_name_is",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ungkapan yang dipakai saat memperkenalkan diri kepada orang lain. Ungkapan ini diikuti dengan nama Anda.",
+        "exampleIds": [
+          "exm.sa.kids_daily.my_name_is.1.1.id"
+        ],
+        "gloss": "Ungkapan yang digunakan untuk.memberitahu nama oneself.",
+        "id": "sns.sa.kids_daily.my_name_is.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_daily.my_name_is",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ใช้เมื่อต้องการแนะนำตัวหรือบอกให้ผู้อื่นทราบว่าคุณชื่ออะไร",
+        "exampleIds": [
+          "exm.sa.kids_daily.my_name_is.1.1.th"
+        ],
+        "gloss": "วลีที่ใช้บอกชื่อของตนเอง",
+        "id": "sns.sa.kids_daily.my_name_is.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_daily.my_name_is",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tanışma sırasında adını söylemek için kullanılan ifade. Bu ifade, karşındaki kişinin seni adınla tanımasını sağlar.",
+        "exampleIds": [
+          "exm.sa.kids_daily.my_name_is.1.1.tr"
+        ],
+        "gloss": "Kendi adını birine tanıtırken kullandığın ifade.",
+        "id": "sns.sa.kids_daily.my_name_is.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_daily.my_name_is",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_daily.my_name_is.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My name is Lan, and I am seven.",
+        "translation": "Benim adım Lan ve yedi yaşındayım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_daily.my_name_is.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My name is Lan, and I am seven.",
+        "translation": "ฉันชื่อล้าน และฉันอายุเจ็ดขวบ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_daily.my_name_is.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My name is Lan, and I am seven.",
+        "translation": "Nama saya Lan dan saya berumur tujuh tahun.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_daily.my_name_is.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My name is Lan, and I am seven.",
+        "translation": "Meu nome é Lan, e eu tenho sete anos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_daily.my_name_is.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My name is Lan, and I am seven.",
+        "translation": "제 이름은 란이고, 일곱 살이에요.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_daily.my_name_is.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My name is Lan, and I am seven.",
+        "translation": "私の名前はランで、七歳です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_daily.my_name_is.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My name is Lan, and I am seven.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "72b8a41e193857d9deb2160127ec87faef9835da155c64281d8ee0975c715a59": [
+      {
+        "forms": [
+          "Brake light",
+          "brake_light"
+        ],
+        "id": "lex.sa.en.brake.light",
+        "kind": "lexeme",
+        "lemma": "Brake light",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.brake.light.alt"
+        ]
+      },
+      {
+        "definition": "The brake light is on. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The brake light is on.",
+        "id": "sns.sa.en.brake.light.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.brake.light",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "72d691e945cbd85c183be63139353d7c393eca4726a74618c2f8c98638639fe6": [
+      {
+        "forms": [
+          "Exit line",
+          "exit_line"
+        ],
+        "id": "lex.sa.social.exit_line",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Exit line",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.exit_line.alt",
+          "sns.sa.social.exit_line.alt.ja",
+          "sns.sa.social.exit_line.alt.ko",
+          "sns.sa.social.exit_line.alt.pt_br",
+          "sns.sa.social.exit_line.alt.id",
+          "sns.sa.social.exit_line.alt.th",
+          "sns.sa.social.exit_line.alt.tr"
+        ]
+      },
+      {
+        "definition": "A prepared sentence that ends a conversation politely while leaving the door open for another meeting.",
+        "exampleIds": [
+          "exm.sa.social.exit_line.1.1"
+        ],
+        "gloss": "A prepared sentence that ends a conversation politely while leaving the door open for another meeting.",
+        "id": "sns.sa.social.exit_line.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.exit_line",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "その場の会話を礼貌的に終わらせるsfn，目的是将来の再開や再会の可能性も残す点にある。拒絶を告げる定型的な別れの言葉とは異なる。",
+        "exampleIds": [
+          "exm.sa.social.exit_line.1.1.ja"
+        ],
+        "gloss": "会話を丁重に終えるための決好了の一言。",
+        "id": "sns.sa.social.exit_line.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.exit_line",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "대화를 정중하게 마무리하면서 나중에 다시 연락하거나 만날 수 있다고 암시하는 미리 준비한 문장이다. 거절을 완전하게 표현하는 말과는 다르다.",
+        "exampleIds": [
+          "exm.sa.social.exit_line.1.1.ko"
+        ],
+        "gloss": "대화를 부드럽게 끝내면서 다시 만날 가능성을 남기는 말.",
+        "id": "sns.sa.social.exit_line.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.exit_line",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Expressão ensaiada para terminar um diálogo de maneira educada, sem impedir que as partes se reencontrem. Pode ser usada em despedidas profissionais ou pessoais.",
+        "exampleIds": [
+          "exm.sa.social.exit_line.1.1.pt_br"
+        ],
+        "gloss": "Frase preparada para encerrar uma conversa com cortesia e deixar aberta a possibilidade de outro encontro.",
+        "id": "sns.sa.social.exit_line.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.exit_line",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Frasa yang prepared untuk mengakhiri percakapan dengan sopan, tetapi tetap memberi kesempatan untuk bertemu atau berkomunikasi lagi.",
+        "exampleIds": [
+          "exm.sa.social.exit_line.1.1.id"
+        ],
+        "gloss": "Kalimat penutup percakapan yang sopan sekaligus membuka kemungkinan pertemuan lagi.",
+        "id": "sns.sa.social.exit_line.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.exit_line",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ประโยคที่ใช้จบการสนทนาอย่างสุภาพ แต่ยังเปิดโอกาสให้พบหรือติดต่อกันใหม่ได้",
+        "exampleIds": [
+          "exm.sa.social.exit_line.1.1.th"
+        ],
+        "gloss": "ประโยคที่เตรียมไว้เพื่อจบการสนทนาอย่างสุภาพ",
+        "id": "sns.sa.social.exit_line.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.exit_line",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir konuşmayı veya tanışmayı kibarca sonlandırmak ve ileride yeniden görüşebileceğinizi ima eden hazır söz.",
+        "exampleIds": [
+          "exm.sa.social.exit_line.1.1.tr"
+        ],
+        "gloss": "Görüşmeyi nazikçe bitirip yeniden buluşmaya kapıyı açık bırakan hazır cümle.",
+        "id": "sns.sa.social.exit_line.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.exit_line",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.exit_line.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was really nice meeting you — see you around.",
+        "translation": "Tanıştığımıza memnun oldum — görüşmek üzere.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.exit_line.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was really nice meeting you — see you around.",
+        "translation": "วลีจบการสนทนาของฉันคือ “ดีใจที่ได้รู้จักคุณ—แล้วเจอกันใหม่นะ”",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.exit_line.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was really nice meeting you — see you around.",
+        "translation": "Senang bertemu Anda — sampai jumpa lagi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.exit_line.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was really nice meeting you — see you around.",
+        "translation": "Foi muito bom conhecer você — até a próxima.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.exit_line.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was really nice meeting you — see you around.",
+        "translation": "만나서 정말 좋았어요 — 나중에 또 봬요.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.exit_line.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was really nice meeting you — see you around.",
+        "translation": "締めの挨拶は「今日はありがとうございました。また近い将来に話しましょう」でした。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.exit_line.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "It was really nice meeting you — see you around.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "72f6e505776f494e434dbfde3a468aff1f4151fe8e63c09828cccbb41dbfa7b4": [
+      {
+        "forms": [
+          "Judgement",
+          "spec_judgement"
+        ],
+        "id": "lex.sa.mind.spec_judgement",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Judgement",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.spec_judgement.alt",
+          "sns.sa.mind.spec_judgement.alt.ja",
+          "sns.sa.mind.spec_judgement.alt.ko",
+          "sns.sa.mind.spec_judgement.alt.pt_br",
+          "sns.sa.mind.spec_judgement.alt.id",
+          "sns.sa.mind.spec_judgement.alt.th",
+          "sns.sa.mind.spec_judgement.alt.tr"
+        ]
+      },
+      {
+        "definition": "The ability to form an opinion from experience and to defend it.",
+        "exampleIds": [
+          "exm.sa.mind.spec_judgement.1.1"
+        ],
+        "gloss": "The ability to form an opinion from experience and to defend it.",
+        "id": "sns.sa.mind.spec_judgement.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.spec_judgement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "経験に基づいて意見を立て、その根拠を示せる能力。",
+        "exampleIds": [
+          "exm.sa.mind.spec_judgement.1.1.ja"
+        ],
+        "gloss": "経験に基づいて意見を立て、それを.back? 説明できる能力。",
+        "id": "sns.sa.mind.spec_judgement.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.spec_judgement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "경험과 지식을 바탕으로 판단을 내리고 그 판단을 논리적으로 설명할 수 있는 능력입니다. 단순히 결정한다는 뜻이 아니라 왜 그런 판단을 했는지 설명할 수 있어야 합니다.",
+        "exampleIds": [
+          "exm.sa.mind.spec_judgement.1.1.ko"
+        ],
+        "gloss": "경험을 바탕으로 Opinions을 세우고 그것을 뒤받침할 수 있는 능력.",
+        "id": "sns.sa.mind.spec_judgement.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.spec_judgement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A capacidade de avaliar uma situação, formar uma opinião com base na experiência e justificar essa decisão.",
+        "exampleIds": [
+          "exm.sa.mind.spec_judgement.1.1.pt_br"
+        ],
+        "gloss": "A capacidade de formar uma opinião com base na experiência e defender essa opinião.",
+        "id": "sns.sa.mind.spec_judgement.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.spec_judgement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kemampuan membentuk pendapat berdasarkan pengalaman danMonkey(TEST)Dummy(TEST) TEST TEST.",
+        "exampleIds": [
+          "exm.sa.mind.spec_judgement.1.1.id"
+        ],
+        "gloss": "Kemampuan membentuk pendapat berdasarkan pengalaman dan mempertahankannya.",
+        "id": "sns.sa.mind.spec_judgement.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.spec_judgement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสามารถในการตัดสินจากประสบการณ์และโต้แย้งเหตุผลได้ ใช้เมื่อต้องตัดสินใจภายใต้ข้อมูลที่ไม่ครบถ้วน",
+        "exampleIds": [
+          "exm.sa.mind.spec_judgement.1.1.th"
+        ],
+        "gloss": "ความสามารถในการตัดสินจากประสบการณ์และโต้แย้งเหตุผลได้",
+        "id": "sns.sa.mind.spec_judgement.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.spec_judgement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Deneyim ve bilgiye dayanarak bir konuda karar verme, görüş oluşturma ve bu görüşü gerekçeleriyle savunma yeteneği.",
+        "exampleIds": [
+          "exm.sa.mind.spec_judgement.1.1.tr"
+        ],
+        "gloss": "Deneyime dayanarak görüş oluşturma ve bu görüşü savunma yeteneği.",
+        "id": "sns.sa.mind.spec_judgement.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.spec_judgement",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.spec_judgement.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Üretim hattını durdurma kararını verecek kadar yargıya sahip olmak, şirketin bu kişiye ödediği işin bir parçasıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.spec_judgement.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การตัดสินใจหยุดสายการผลิตเป็นส่วนหนึ่งของงานที่บริษัทจ่ายค่าตอบแทน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.spec_judgement.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Penilaian untuk menghentikan lini produksi merupakan bagian dari yang dibayarkan perusahaan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.spec_judgement.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Fazer o julgamento de interromper a linha faz parte do que a empresa paga para ele.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.spec_judgement.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "라인을 중단하는 판단은 회사가 비용을 지불하고 구매하는 능력 중 하나다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.spec_judgement.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ラインを止める判断力こそ、会社が費用を払って求めるものである。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.spec_judgement.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The judgement to stop the line is part of what the company pays for.",
+        "translation": "Phán đoán để dừng dây chuyền là một phần trong số tiền công ty trả.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "72f9497ec7d235e68e445d5a2841109f90d8a847d5887dfbaed56c5cf424ce50": [
+      {
+        "forms": [
+          "Circuit breaker",
+          "wh_circuit_breaker"
+        ],
+        "id": "lex.sa.daily_skills.wh_circuit_breaker",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Circuit breaker",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.wh_circuit_breaker.alt",
+          "sns.sa.daily_skills.wh_circuit_breaker.alt.ja",
+          "sns.sa.daily_skills.wh_circuit_breaker.alt.ko",
+          "sns.sa.daily_skills.wh_circuit_breaker.alt.pt_br",
+          "sns.sa.daily_skills.wh_circuit_breaker.alt.id",
+          "sns.sa.daily_skills.wh_circuit_breaker.alt.th",
+          "sns.sa.daily_skills.wh_circuit_breaker.alt.tr"
+        ]
+      },
+      {
+        "definition": "A device that opens a circuit when the current is higher than the circuit is rated for.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_circuit_breaker.1.1"
+        ],
+        "gloss": "A device that opens a circuit when the current is higher than the circuit is rated for.",
+        "id": "sns.sa.daily_skills.wh_circuit_breaker.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.wh_circuit_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "回路に定格を超える電流が流れたとき、自動的に回路を開いて電流を遮断する保護装置。漏電保護付きの製品もある。",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_circuit_breaker.1.1.ja"
+        ],
+        "gloss": "電流が定格を超えたときに回路を開く保護装置。",
+        "id": "sns.sa.daily_skills.wh_circuit_breaker.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.wh_circuit_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "회로의 정격 전류를 초과하면 자동으로 회로를 끊는 안전 장치이다. 과전류로부터 배선과 기기를 보호하며 단 차단기라고도 한다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_circuit_breaker.1.1.ko"
+        ],
+        "gloss": "전류가 허용치를 넘으면 회로를 끊는 안전 장치.",
+        "id": "sns.sa.daily_skills.wh_circuit_breaker.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.wh_circuit_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dispositivo de proteção que abre o circuito quando a corrente supera o limite nominal, evitando sobrecarga e curtos-circuitos.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_circuit_breaker.1.1.pt_br"
+        ],
+        "gloss": "Dispositivo que interrompe o circuito quando a corrente excede a nominal.",
+        "id": "sns.sa.daily_skills.wh_circuit_breaker.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.wh_circuit_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Perangkat yang memutus rangkaian ketika arus listrik melebihi nilai yang diizinkan oleh rangkaian tersebut.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_circuit_breaker.1.1.id"
+        ],
+        "gloss": "Perangkat yang memutus rangkaian ketika arus melebihi nilai yang diizinkan.",
+        "id": "sns.sa.daily_skills.wh_circuit_breaker.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.wh_circuit_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "อุปกรณ์ป้องกันไฟฟ้าที่เปิดวงจรขึ้นเพื่อตัดกระแสเมื่อกระแสเกินค่าที่วงจรรองรับ มักมีค่ากำหนด เช่น 16 A",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_circuit_breaker.1.1.th"
+        ],
+        "gloss": "อุปกรณ์ที่ตัดวงจรเมื่อกระแสไฟฟ้าเกินค่าที่วงจรรองรับ",
+        "id": "sns.sa.daily_skills.wh_circuit_breaker.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.wh_circuit_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Akımın devrenin anma değerini aşması hâlinde devreyi otomatik olarak açarak aşırı akım ve yangın riskini önleyen cihaz.",
+        "exampleIds": [
+          "exm.sa.daily_skills.wh_circuit_breaker.1.1.tr"
+        ],
+        "gloss": "Akımın güvenli sınırı aştığında devreyi kesen koruma cihazı.",
+        "id": "sns.sa.daily_skills.wh_circuit_breaker.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.wh_circuit_breaker",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_circuit_breaker.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Devre kesici, panoda bulunan 16 A değerindeki koruma cihazıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_circuit_breaker.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เบรกเกอร์วงจรเป็นอุปกรณ์ขนาด 16 A บนแผงไฟฟ้า",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_circuit_breaker.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pemutus sirkuit 16 A itu terpasang pada papan listrik.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_circuit_breaker.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O disjuntor é o dispositivo de 16 A no quadro elétrico.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_circuit_breaker.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "배전반의 차단기는 16 A 정격 장치이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_circuit_breaker.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "遮断器は分電盤にある16 Aの装置である。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.wh_circuit_breaker.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The circuit breaker is the 16 A device on the board.",
+        "translation": "Bộ ngắt mạch là thiết bị 16 A trên tủ điện.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "72fe6313068efe9baf291c4a1cd127e0bda2362851c2e7c7b008653b01becfbe": [
+      {
+        "forms": [
+          "Emotional maturity",
+          "gem_emotional_maturity"
+        ],
+        "id": "lex.sa.social.gem_emotional_maturity",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Emotional maturity",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gem_emotional_maturity.alt",
+          "sns.sa.social.gem_emotional_maturity.alt.ja",
+          "sns.sa.social.gem_emotional_maturity.alt.ko",
+          "sns.sa.social.gem_emotional_maturity.alt.pt_br",
+          "sns.sa.social.gem_emotional_maturity.alt.id",
+          "sns.sa.social.gem_emotional_maturity.alt.th",
+          "sns.sa.social.gem_emotional_maturity.alt.tr"
+        ]
+      },
+      {
+        "definition": "The capacity to stay in charge of your own reactions when the other person is difficult.",
+        "exampleIds": [
+          "exm.sa.social.gem_emotional_maturity.1.1"
+        ],
+        "gloss": "The capacity to stay in charge of your own reactions when the other person is difficult.",
+        "id": "sns.sa.social.gem_emotional_maturity.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gem_emotional_maturity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "_ADD.",
+        "exampleIds": [
+          "exm.sa.social.gem_emotional_maturity.1.1.ja"
+        ],
+        "gloss": "相手が elusiveGQでも、自分の反応を制御できる能力。",
+        "id": "sns.sa.social.gem_emotional_maturity.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gem_emotional_maturity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "상대가 비난적이거나 coop하기 어려워도 자신의 감정과 행동을 조절하는 능력이다. 감정을 느끼지 못하게 만드는 것이 아니라, 그에 좌우되지 않게 자신을 다스리는 것을 뜻한다.",
+        "exampleIds": [
+          "exm.sa.social.gem_emotional_maturity.1.1.ko"
+        ],
+        "gloss": "어려운 상대 앞에서도 자신의 감정 반응을 다스리는 능력.",
+        "id": "sns.sa.social.gem_emotional_maturity.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gem_emotional_maturity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A capacidade de compreender e administrar as próprias emoções, especialmente em situações de conflito, frustração ou provocação.",
+        "exampleIds": [
+          "exm.sa.social.gem_emotional_maturity.1.1.pt_br"
+        ],
+        "gloss": "Manter o controle das próprias reações diante de pessoas difíceis.",
+        "id": "sns.sa.social.gem_emotional_maturity.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gem_emotional_maturity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kematangan emosional ditandai oleh kemampuan tetap mengendalikan reaksi saat menghadapi orang yangGUARDrails. Hal ini bukan berarti tidak merasa kesal, melainkan memilih respons yang sesuai.",
+        "exampleIds": [
+          "exm.sa.social.gem_emotional_maturity.1.1.id"
+        ],
+        "gloss": "Kemampuan mengendalikan reaksi sendiri ketika orang lain sulit ditangani.",
+        "id": "sns.sa.social.gem_emotional_maturity.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gem_emotional_maturity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสามารถทางอารมณ์ในการยับยั้งปฏิกิริยาและตอบสนองอย่างเหมาะสมเมื่อพบคนที่ยากจะร่วมงาน มิใช่การยอมทุกอย่างหรือไม่มีปฏิกิริยา",
+        "exampleIds": [
+          "exm.sa.social.gem_emotional_maturity.1.1.th"
+        ],
+        "gloss": "ความสามารถในการควบคุมปฏิกิริยาของตนเองเมื่อต้องรับมือกับคนที่ยากจะร่วมงาน",
+        "id": "sns.sa.social.gem_emotional_maturity.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gem_emotional_maturity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Zorluk çıkaran biri karşısında duygularını yönetme, tepkisini dizginleme ve uygun biçimde yanıt verme kapasitesi.",
+        "exampleIds": [
+          "exm.sa.social.gem_emotional_maturity.1.1.tr"
+        ],
+        "gloss": "Zor bir kişi karşısında tepkilerini kontrolde tutma kapasitesi.",
+        "id": "sns.sa.social.gem_emotional_maturity.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gem_emotional_maturity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gem_emotional_maturity.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Duygusal olgunluğu, yanıtından önce verdiği bir duraklamada görüldü.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gem_emotional_maturity.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "วุฒิภาวทางอารมณ์ของเธอปรากฏในช่วงหยุดคิดก่อนตอบ มากกว่าที่จะเห็นได้จากคำตอบของเธอ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gem_emotional_maturity.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kematangan emosionalnya terlihat dari jeda sebelum ia menjawab, bukan dari jawaban itu sendiri.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gem_emotional_maturity.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A maturidade emocional dela apareceu na pausa antes da resposta, e não na hardening das palavras.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gem_emotional_maturity.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "화가 나더라도 잠시 침묵하고 차분히 대답한 데서 그녀의 감정적 성숙이 드러났다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gem_emotional_maturity.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女は返事の前のpauseIFYによって、情緒的成熟度を示した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gem_emotional_maturity.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her emotional maturity showed in the pause before she answered, not in the answer itself.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,215 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_abs_braking",
+  "objectives": [
+    "Descreva como funciona um sistema de freios antitravamento e qual é a função de suas partes.",
+    "Denomine os termos de frenagem: distância de frenagem, aderência, travamento das rodas, frenagem no limiar de aderência e fade da frenagem.",
+    "Explique onde o ABS não ajuda e por que a superfície decide a resposta.",
+    "Compare a frenagem no limiar de aderência, a frenagem progressiva, a frenagem de motor e a frenagem com ABS.",
+    "Use o método de frenagem correto em uma superfície firme, em solo solto e no gelo.",
+    "Siga os passos de frear bem em um carro com ABS e em um carro sem ABS.",
+    "Diga o que fazer quando a luz de aviso do ABS acender."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "O sistema de freios antibloqueante é um sistema nos freios de um carro. Ele observa as rodas e as mantém girando quando o motorista freia com força suficiente para travar uma delas. Uma roda travada derrapa: o pneu escorrega em vez de agarrar, o carro não freia tão bem quanto poderia e a direção perde a resposta. Com o freio antitravamento, a roda continua girando, permitindo que o motorista dirija o carro ao redor de um obstáculo enquanto o veículo desacelera.\n\nCinco palavras carregam o assunto. A **distância de frenagem** é a distância percorrida pelo carro desde o momento em que o motorista toca no freio até o momento em que o carro para. **A aderência** é o contato entre o pneu e a pista, e é o que transforma a velocidade do carro em uma parada. **Lock-up** é o momento em que uma roda para de girar enquanto o carro ainda está em movimento. **Freada no limite** é a maneira do próprio motorista de frear no limite, logo antes do travamento total, pressionando e soltando o pedal. **Fade do freio** é a perda de potência de frenagem quando os freios esquentam, fazendo o pedal ficar macio e o carro levar mais tempo para parar.\n\nO que o sistema não faz é reduzir a distância de frenagem em todas as superfícies. Em uma pista firme, o sistema antitravamento normalmente para o carro em uma distância menor do que uma roda travada faria. Em cascalho solto, areia, lama, neve ou folhas, uma roda travada pode afundar na superfície e proporcionar a parada mais curta, e o sistema, que insiste em manter a roda girando, pode deixar o carro rolando além do que o motorista espera.\n\nO sistema foi desenvolvido para manter a roda girando, para que o motorista possa dirigir. Essa é a totalidade. Não é uma promessa de que o carro sempre vai parar na mesma distância, e nunca oferece ao motorista mais aderência do que a pista tem.",
+      "examples": [
+        "O sistema antitravamento mantém a roda girando, para que eu possa direcionar o carro enquanto ele desacelera.",
+        "A distância de frenagem é a distância do pedal até a parada; o tempo anterior a isso é o tempo de reação.",
+        "No cascalho, uma roda travada pode ser a parada mais curta, então eu alleviatei o freio ali.",
+        "O freio esquenta e perde eficácia, e o pedal fica mole."
+      ],
+      "heading": "O que é o freio antibloqueio e o que ele não é",
+      "terms": [
+        {
+          "example": "O carro tem um sistema de freios antibloqueante, então eu pressiono o pedal e o mantenho pressionado.",
+          "gloss": "Um sistema nos freios que mantém as rodas girando quando o motorista freia com força, para que o carro ainda possa ser direcionado."
+        },
+        {
+          "example": "Em uma pista molhada, a distância de frenagem é maior do que em uma pista seca.",
+          "gloss": "A distância que o carro percorre desde o momento em que o motorista toca no freio até o momento em que o carro para."
+        },
+        {
+          "example": "Há pouca tração no gelo, então o carro escorrega mesmo em baixa velocidade.",
+          "gloss": "A aderência entre o pneu e a pista, e é o que transforma a velocidade do carro em uma parada."
+        },
+        {
+          "example": "A roda dianteira travou e o volante ficou leve.",
+          "gloss": "O momento em que uma roda para de girar enquanto o carro ainda está em movimento."
+        },
+        {
+          "example": "Sem ABS, o motorista precisa usar threshold braking.",
+          "gloss": "Freando no limite de aderência ao pressionar e soltar o pedal antes que a trava bloqueie."
+        },
+        {
+          "example": "Depois da longa descida, os freios perderam a eficiência e o pedal pareceu fraco.",
+          "gloss": "A perda da força de frenagem quando os freios estão quentes, fazendo com que o pedal fique macio."
+        }
+      ]
+    },
+    {
+      "body": "Quatro partes fazem o trabalho: um sensor em cada roda, uma unidade de controle, um modulador e o próprio freio. O **sensor** é uma pequena parte em cada roda que informa a velocidade com que essa roda está girando. A **unidade de controle** compara a rotação das quatro rodas entre si e também compara com a velocidade do carro. Quando uma roda está girando muito mais lentamente que as outras enquanto o carro ainda está em movimento, essa roda está a caminho de travar.\n\nA unidade de controle então informa ao **modulador** que altere a pressão do freio naquela roda. A pressão pode ser reduzida, de modo que a roda gire novamente, mantida, de modo que a roda permaneça exatamente no limite do travamento, ou aumentada, de modo que o freio assuma mais do trabalho. O modulador faz isso repetidamente, muitas vezes por segundo, e o driver nunca vê isso.\n\nO freio nunca é desligado. Este é o ponto que costuma ser mal interpretado: o sistema controla a pressão, ele não retira o freio. O pedal permanece pressionado, o freio permanece acionado e o sistema mantém a roda girando dentro desse freio acionado. Portanto, o motorista deve manter o pedal pressionado com firmeza e manter a direção estável.\n\nO pedal informa ao motorista o que está acontecendo. Em uma parada brusca com o sistema funcionando, o pedal pulsa sob o pé. Esse pulso é o modulador que altera a pressão. Não é uma falha, e não é motivo para deixar o pedal suspenso.",
+      "examples": [
+        "O sensor em cada roda informa a rotação, e a unidade de controle compara as rodas entre si.",
+        "O modulador reduz a pressão na roda que está prestes a travar.",
+        "O freio permanece acionado: o sistema controla a pressão, ele não desliga o freio."
+      ],
+      "heading": "Como o sistema decide a intensidade da frenagem",
+      "terms": [
+        {
+          "example": "Um sensor danificado em uma das rodas pode desligar o ABS.",
+          "gloss": "Uma pequena parte em cada roda que informa a velocidade de rotação dessa roda."
+        },
+        {
+          "example": "O modulador mantém a pressão na roda que está prestes a travar.",
+          "gloss": "A parte do freio que altera a pressão do freio em uma roda quando o sistema solicita."
+        }
+      ]
+    },
+    {
+      "body": "O freio antitravamento é um sistema para uma superfície firme. Em cascalho solto, areia, lama, neve e folhas caídas, o material sob o pneu se move e o pneu afunda nele. Uma roda travada corta o material solto e abre uma vala; nessas superfícies, ela pode parar o carro em uma distância menor do que uma roda que continua girando, de modo que o sistema pode deixar o carro avançar mais do que o motorista espera. Um pneu danificado também muda a resposta: um pneu com um corte profundo, uma bolha ou um corte no flanco pode perder a aderência ou se romper sob carga, e um pneu com pressão insuficiente não consegue manter toda a banda de rodagem em contato com a pista. O sistema não é capaz de reparar um pneu; ele gerencia a pressão do freio em torno do que quer que o pneu esteja fazendo.\n\nNo gelo, o limite é a força de atrito entre o pneu e a pista, e não o sistema de freios. Tanto uma roda travada quanto uma roda girante só podem pedir ao gelo o que o gelo tem. O freio antibloqueio ajuda o motorista a manter a direção e não acrescenta aderência que não existe.\n\nUma motocicleta é uma máquina diferente. O freio dianteiro carrega a maior parte do trabalho, o equilíbrio doPiloto importa, e a técnica de moto não é a técnica de carro. Algumas motos têm sistema de freio antitravamento e outras não; para o motociclista, as respostas são o treinamento e o manual da moto.\n\nUma longa descida é um problema térmico. Um freio desacelera um carro convertendo o movimento em calor, e o calor que fica no freio não tem para onde ir. Quando o freio fica muito quente, a atrito diminui e o pedal fica mole: isso é fade do freio. O motor e a caixa de câmbio podem desacelerar o carro sem esse calor, e o freio de mão mantém o carro em uma ladeira. Um motorista que acredita que o ABS para o carro em todas as condições vai frear tarde demais, porque o sistema não faz nada com um freio quente.",
+      "examples": [
+        "Em cascalho solto, uma roda travada afunda na superfície, portanto o ABS nem sempre representa a frenagem mais curta.",
+        "No gelo, o limite é o atrito, não o sistema de freios.",
+        "Um pneu com um corte profundo é motivo para trocar o pneu, não para confiar no ABS.",
+        "Em uma descida longa, uso uma marcha baixa, porque os freios aquecidos perdem eficiência."
+      ],
+      "heading": "Onde o ABS não ajuda",
+      "terms": [
+        {
+          "example": "A superfície da pista era de cascalho solto, então uma roda travada foi a parada mais curta.",
+          "gloss": "O material sob o pneu: asfalto, concreto, cascalho, areia, lama, neve, gelo ou folhas."
+        }
+      ]
+    },
+    {
+      "body": "Cinco métodos de frenagem são utilizados na condução comum, e cada um deles resolve problemas diferentes. A freada no limiar e o sistema antibloqueio tentam manter a roda girando no limite de aderência; a diferença é que uma é realizada pelo motorista e a outra pelo sistema. A frenagem progressiva exige uma parada suave e antecipada. A frenagem do motor com uma marcha baixa exige que o motor e a caixa demarchas reduzam a velocidade do carro. Em uma descida, o quinto método combina o motor e o freio de modo que os freios permanecem frios.\n\nA coluna que mais importa ao motorista é a última. Todo método tem uma superfície sobre a qual é fraco, e a superfície à frente do carro determina qual método usar. Um método que funciona bem em uma estrada seca não necessariamente funciona bem em cascalho ou no gelo, e nenhum método funciona bem em todas as superfícies.\n\nUm motorista que conhece esta tabela não escolhe um método por hábito. O motorista verifica asurface, os pneus e a carga do carro e, em seguida, faz a escolha. O manual do carro diz o que os freios desse modelo podem aguentar.",
+      "examples": [
+        "A frenagem no limiar é a versão do próprio motorista daquilo que o ABS faz automaticamente.",
+        "Eu uso a frenagem progressiva no trânsito, porque a parada é suave e os pneus continuam girando.",
+        "Na descida, uso uma marcha reduzida para que os freios não superaquecem.",
+        "Todo método tem uma superfície sobre a qual é fraco."
+      ],
+      "heading": "Os métodos de frenagem, lado a lado",
+      "table": {
+        "headers": [
+          "Method",
+          "How it is done",
+          "Where it is strong",
+          "Where it is weak"
+        ],
+        "rows": [
+          [
+            "Threshold braking (stamping) is braking at the limit of grip.",
+            "The driver presses the pedal hard and releases it as soon as the wheel starts to lock.",
+            "It keeps the wheel turning on a firm surface in a car without ABS, and it keeps the steering alive.",
+            "It needs the right timing, and on a loose surface it is easy to lock the wheel and lose the steering."
+          ],
+          [
+            "Anti-lock braking (ABS) is the system that manages the brake pressure.",
+            "The driver keeps the pedal down and the system reduces, holds or raises the brake pressure by itself.",
+            "It is strong on a firm or slippery surface, because it stops the wheel from locking without the driver having to guess.",
+            "It is weak on loose gravel, sand, mud, snow and leaves, where a locked wheel can be the shorter stop."
+          ],
+          [
+            "Progressive braking is a smooth and early stop.",
+            "The driver increases the pressure on the pedal steadily, without a sudden push.",
+            "It is strong in normal traffic and in rain, where it gives a smooth stop and keeps the tyres rolling.",
+            "It is weak in an emergency, because it takes too long to reach the full pressure."
+          ],
+          [
+            "Engine braking with a low gear is slowing the car with the engine.",
+            "The driver selects a low gear and lets the engine slow the car with the accelerator closed.",
+            "It is strong on a long descent, because it takes the heat out of the brakes.",
+            "It cannot stop the car quickly, and it does almost nothing at a low speed."
+          ],
+          [
+            "Braking on a descent with the engine is the way down a long hill.",
+            "The driver chooses a low gear before the descent, lets the engine hold the speed and uses the brake in short pushes.",
+            "It is strong on a long, steep descent, because it keeps the brakes from overheating and fading.",
+            "On a short descent it is unnecessary, and it takes attention and a low gear."
+          ]
+        ]
+      },
+      "terms": [
+        {
+          "example": "Em um trânsito intenso, ela utilizou frenagem progressiva e a parada foi suave.",
+          "gloss": "Aplicar o freio com pressão cada vez maior, em vez de uma única pressão repentina."
+        },
+        {
+          "example": "Na longa descida, ele usou o freio-motor e os freios permaneceram frios.",
+          "gloss": "Desacelerando o carro com o motor e a caixa de câmbio em vez do pedal do freio."
+        }
+      ]
+    },
+    {
+      "body": "Frear bem é um hábito de olhar adiante, não um reflexo no último momento. A distância que o carro precisa percorrer depende da velocidade, da pista, dos pneus, da carga do carro e do tempo que o corpo do motorista leva para reagir. Uma pista molhada, uma pista coberta de cascalho e uma pista com gelo exigem mais distância do que uma pista seca e limpa. O motorista que conhece isso mantém uma distância capaz de absorver um erro.\n\nEm um carro com freios antitravantes, a técnica é simples, e é uma técnica de compromisso: pise no pedal e mantenha-o pressionado. O sistema faz o trabalho minucioso de não travar a roda. A única coisa que o motorista não deve fazer é bombear o pedal, pois cada soltura informa ao sistema que deve permitir que a roda gire e que a pressão diminua.\n\nEm um carro sem freio antitravamento, o motorista faz esse trabalho delicado em vez disso. O sinal está no pedal: quando o pedal começa a perder pressão, a roda está próxima de travar, e um pequeno alívio a traz de volta. As etapas abaixo terminam com essa jogada, de modo que o leitor possa usar a mesma lista em qualquer um dos carros.",
+      "examples": [
+        "Mantenho a distância do carro da frente para que eu possa parar na pista que vejo.",
+        "Eu pressiono o pedal e o mantenho pressionado; não bombeio.",
+        "O pedal estava morrendo, então eu aliviai um pouco e pressionsei de novo.",
+        "Manobro em torno do obstáculo enquanto o carro ainda está desacelerando."
+      ],
+      "heading": "Como frear bem em um carro com ABS",
+      "steps": [
+        "Mantenha uma distância em relação ao carro à frente que lhe permita parar dentro da pista que você consegue ver.",
+        "Olhe para frente e decida onde a parada vai acontecer, antes que o perigo chegue até você.",
+        "Aperte o pedal com firmeza e mantenha pressionado.",
+        "Não bombeie o pedal você mesmo; segure-o e deixe o sistema funcionar.",
+        "Desvie do obstáculo enquanto o carro desacelera e mantenha o pedal pressionado.",
+        "Depois que o carro parar, deixe o pedal subir e verifique a via e o trânsito antes de dar a partida.",
+        "Em um carro sem ABS, pressione o pedal e, se ele começar a ficar morto, alivie um pouco e pressione novamente."
+      ],
+      "terms": [
+        {
+          "example": "O tempo de reação do motorista faz parte da distância que o carro percorre antes de os freios funcionarem.",
+          "gloss": "O tempo entre a visão de um perigo e o movimento do pedal do freio."
+        }
+      ]
+    },
+    {
+      "body": "O freio de mão ainda tem uma função. No gelo ou em cascalho solto, um motorista que precisa fazer uma curva fechada no carro pode puxar o freio de mão para travar as rodas traseiras e deixar o carro girar. No cascalho, a roda travada afunda na superfície e o carro desacelera. Esta é uma técnica que exige prática e não substitui um bom pneu e uma boa folga.\n\nEm uma descida longa, o freio-motor é a maneira mais segura de perder velocidade, porque o motor e o câmbio seguram o carro, e os freios permanecem frios. O freio de mão também é a última opção quando o pedal de freio não faz nada: ele ainda pode parar o carro, lentamente.\n\nDuas coisas decidem o que está correto: o manual do carro e a estrada. O manual diz o que o freio de mão e a caixa de câmbio fazem naquele modelo. A estrada diz o que a superfície pode suportar. O treinamento importa mais do que o emblema na roda. Um motorista que praticou uma técnica a utilizationá bem, enquanto um motorista que apenas leu o emblema não a utilizará.",
+      "examples": [
+        "No gelo, puxei o freio de mão para travar as rodas traseiras.",
+        "Em uma descida longa, uso uma marcha reduzida para que os freios não superaquecem.",
+        "Se o pedal não funcionar, o freio de mão é a última opção.",
+        "O manual do carro e da estrada decidem, não o emblema na roda."
+      ],
+      "heading": "Para que os métodos antigos ainda servem",
+      "terms": [
+        {
+          "example": "Ela puxou o freio de mão para travar as rodas traseiras no gelo.",
+          "gloss": "A alavanca ao lado do banco do motorista que mantém o carro parado; também é chamada de freio de estacionamento."
+        }
+      ]
+    },
+    {
+      "body": "A maior parte do que um motorista precisa neste ofício é a linguagem da estrada e da oficina. Diga o que o carro fez, diga como o pedal pareceu e diga o que deseja que seja verificado. Não diagnostique a falha por conta própria; descreva o sintoma e deixe o mecânico decidir a causa.\n\nUm instrutor de direção precisa saber o que você sentiu e onde. Um colega precisa da regra e do motivo. Um mecânico precisa do sintoma na ordem em que aconteceu, e do barulho, do cheiro ou da luz de advertência que veio junto.",
+      "examples": [
+        "Quando eu freio com força, o pedal começa a pulsar sob o meu pé. Isso é normal?",
+        "A luz do ABS acendeu ontem. O carro ainda freia, mas estou mantendo um espaço maior.",
+        "Na estrada de cascalho, eu freio soltando o pedal, porque uma roda travada afunda.",
+        "Eu piso no pedal deste carro ou ele é equipado com ABS?",
+        "O pedal ficou leve na longa descida. Acho que os freios perderam eficiência.",
+        "Senti o pedal ficar mole pouco antes de a roda travar, então soltei e pressionei de novo.",
+        "Ao frear, qual é o primeiro a travar: o freio dianteiro ou o traseiro?",
+        "Meu instrutor me disse para olhar mais à frente e frear mais cedo em uma pista molhada."
+      ],
+      "heading": "Frases que você pode usar"
+    },
+    {
+      "body": "A luz de alerta do ABS no painel diz uma coisa: o sistema de freios antitravamento não está funcionando como deveria. A falha pode estar em um sensor, em um circuito de fiação ou na unidade de controle. A luz não significa que o carro não tem freios, e também não significa que o carro não pode ser dirigido.\n\nA frenagem comum ainda funciona. O pedal ainda aciona os freios e o carro ainda para. O que o motorista perdeu foi a assistência que impede a roda de travar, permitindo que o carro seja conduzido ao redor de um obstáculo enquanto reduz a velocidade. Em alguns carros, outros recursos de frenagem também são desligados quando a luz está acesa, e o pedal pode ter uma sensação diferente. O manual do carro diz o que acontece com aquele modelo.\n\nO motorista tem que mudar a maneira como o carro é dirigido. A distância para o carro da frente deve ser maior, e a frenagem deve começar mais cedo e ser feita com mais suavidade, porque o motorista pode ter que soltar o pedal e pressioná-lo novamente com a mão quando uma das rodas começar a travar. A velocidade em uma pista molhada deve diminuir. O carro deve ser reservado para uma vistoria, e a vistoria é feita antes de uma longa viagem.\n\nDuas coisas estão erradas: ignorar a luz e dirigir como se o sistema estivesse funcionando, e manter a velocidade habitual em uma pista molhada quando o carro já não pode ser direcionado para evitar um perigo. Um carro com a luz acesa ainda é um carro que freia, mas é um carro que precisa de uma oficina e de um intervalo maior.",
+      "examples": [
+        "A luz do ABS está acesa, então reservei o carro para uma verificação e estou mantendo um espaço maior.",
+        "O carro ainda freia normalmente; o sistema que impede o travamento das rodas é a peça que falhou.",
+        "Eu freio mais cedo e com mais suavidade até que o carro seja verificado.",
+        "Eu não ignorei a luz e não dirigi na rodovia molhada na minha velocidade habitual."
+      ],
+      "heading": "O que fazer quando a luz de alerta do ABS acender"
+    }
+  ],
+  "summary": "Um sistema antibloqueio de freios (ABS) é frequentemente considerado uma promessa de que o carro sempre para na mesma distância. Não é. Depois de ler este texto, você poderá descrever como o sistema funciona, explicar em que situações ele não ajuda, escolher entre frenagem de limiar, frenagem progressiva e frenagem com o motor, frear bem com ou sem ABS e dizer o que fazer quando a luz de advertência acender.",
+  "title": "O ABS não é a verdade absoluta: os limites do freio antibloqueio"
+}

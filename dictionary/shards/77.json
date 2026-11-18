@@ -1,0 +1,1288 @@
+{
+  "records": {
+    "772c6953848bf5b19aedf9a34ccb066f31eacca29bdbfcb1b9821765f1060149": [
+      {
+        "forms": [
+          "observation",
+          "observations"
+        ],
+        "id": "lex.sa.en.observation.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "observation",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.observation.noun.1",
+          "sns.sa.en.observation-noun.alt"
+        ]
+      },
+      {
+        "definition": "Giá trị thu được khi quan sát một hiện tượng.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "số đo",
+        "id": "sns.sa.vi.observation.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.observation.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A recorded value from watching a phenomenon.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "A value recorded while a phenomenon is watched.",
+        "id": "sns.sa.en.observation-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.observation.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "773bdab460981134c6486f03ce165a568092f4538c0ff2894c2593230679232f": [
+      {
+        "forms": [
+          "Overdue fee",
+          "overdue_fee"
+        ],
+        "id": "lex.sa.money.overdue_fee",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Overdue fee",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.overdue_fee.alt",
+          "sns.sa.money.overdue_fee.alt.ja",
+          "sns.sa.money.overdue_fee.alt.ko",
+          "sns.sa.money.overdue_fee.alt.pt_br",
+          "sns.sa.money.overdue_fee.alt.id",
+          "sns.sa.money.overdue_fee.alt.th",
+          "sns.sa.money.overdue_fee.alt.tr"
+        ]
+      },
+      {
+        "definition": "The charge the bank makes for a late payment, on top of any penalty rate and any loss of your good history.",
+        "exampleIds": [
+          "exm.sa.money.overdue_fee.1.1"
+        ],
+        "gloss": "The charge the bank makes for a late payment, on top of any penalty rate and any loss of your good history.",
+        "id": "sns.sa.money.overdue_fee.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.overdue_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "期限内に支払われなかった場合に課される追加料金で、延滞利率とは別にCohortされる。支払い履歴にも悪residuals。",
+        "exampleIds": [
+          "exm.sa.money.overdue_fee.1.1.ja"
+        ],
+        "gloss": "支払い遅延に対して銀行が課す手数料。",
+        "id": "sns.sa.money.overdue_fee.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.overdue_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "지급 기한을 넘긴 거래에 대해 은행이 부과하는 추가 비용이다. 연체 이자가 함께 발생할 수 있으며, 신용 기록에도 영향을 줄 수 있다.",
+        "exampleIds": [
+          "exm.sa.money.overdue_fee.1.1.ko"
+        ],
+        "gloss": "늦게 낸 금액에 대해 은행이 부과하는 별도 수수료이다.",
+        "id": "sns.sa.money.overdue_fee.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.overdue_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Taxa cobrada por um pagamento realizado após o prazo limite. Ela pode se somar aos juros e à perda de-parser?",
+        "exampleIds": [
+          "exm.sa.money.overdue_fee.1.1.pt_br"
+        ],
+        "gloss": "É a cobrança aplicada pelo banco quando um pagamento atrasa.",
+        "id": "sns.sa.money.overdue_fee.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.overdue_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Biaya yang dikenakan bank ketika pembayaran用户提供 terlambat, selain kemungkinan kenaikan suku bunga atau penurunan riwayat kredit.",
+        "exampleIds": [
+          "exm.sa.money.overdue_fee.1.1.id"
+        ],
+        "gloss": "Biaya tambahan yang dikenakan bank karena pembayaran terlambat.",
+        "id": "sns.sa.money.overdue_fee.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.overdue_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ค่าธรรมเนียมที่ธนาคารเรียกเก็บเมื่อชำระเงินล่าช้า โดยคิดเพิ่มจากอัตราดอกเบี้ยปรับและอาจทำให้ประวัติการชำระเงินของลูกค้าแย่ลง",
+        "exampleIds": [
+          "exm.sa.money.overdue_fee.1.1.th"
+        ],
+        "gloss": "ค่าปรับที่ธนาคารเรียกเก็บเพราะชำระเงินล่าช้า",
+        "id": "sns.sa.money.overdue_fee.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.overdue_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ödemenin son tarihe yapılmaması nedeniyle banka tarafından alınan ücret. Gecikme faizine ek olarak tahsil edilebilir ve iyi ödeme geçmişinin etkilenmesine yol açabilir.",
+        "exampleIds": [
+          "exm.sa.money.overdue_fee.1.1.tr"
+        ],
+        "gloss": "Bankanın geç ödeme için tahsil ettiği ek ücret.",
+        "id": "sns.sa.money.overdue_fee.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.overdue_fee",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.overdue_fee.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+        "translation": "Geç ödeme nedeniyle 35 dolarlık gecikme ücreti ödedim ve standart faizim yükseldi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.overdue_fee.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+        "translation": "การชำระเงินล่าช้าทำให้ฉันเสียค่าปรับกรณีผิดนัด 35 บาท และอัตราดอกเบี้ยมาตรฐานก็เพิ่มขึ้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.overdue_fee.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+        "translation": "Pembayaran terlambat imposing biaya 35 dolar dan suku bunga standarku naik.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.overdue_fee.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+        "translation": "O pagamento atrasado me custou uma taxa de R$ 35 e meu juros padrão aumentou.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.overdue_fee.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+        "translation": "늦게 낸 금액으로 35달러의 연체료가 부과되었고 기본 요율도 올라갔다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.overdue_fee.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+        "translation": "支払いが遅れて35ドルの延滞手数料が課され，通常の金利率も上がりました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.overdue_fee.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "7748e134faaf66f730abfa7ee612180842e9ddc34469bf34e858b0defc57292a": [
+      {
+        "forms": [
+          "choice set",
+          "msa_choice_set"
+        ],
+        "id": "lex.sa.social.msa_choice_set",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "choice set",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.msa_choice_set.alt",
+          "sns.sa.social.msa_choice_set.alt.ko",
+          "sns.sa.social.msa_choice_set.alt.pt_br",
+          "sns.sa.social.msa_choice_set.alt.id",
+          "sns.sa.social.msa_choice_set.alt.th",
+          "sns.sa.social.msa_choice_set.alt.tr",
+          "sns.sa.social.msa_choice_set.alt.ja"
+        ]
+      },
+      {
+        "definition": "The people who are actually available to you to choose from at a given time.",
+        "exampleIds": [
+          "exm.sa.social.msa_choice_set.1.1"
+        ],
+        "gloss": "The people who are actually available to you to choose from at a given time.",
+        "id": "sns.sa.social.msa_choice_set.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.msa_choice_set",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "그 시점에 실제로 만나거나 연애할 수 있는 사람들로 이루어진 후보 집단을 가리킨다. 마음에 드는 사람이나 상상하는 상대가 모두 포함되는 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.social.msa_choice_set.1.1.ko"
+        ],
+        "gloss": "특정 시점에 실제로 만날 수 있는 선택 가능한 상대들.",
+        "id": "sns.sa.social.msa_choice_set.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.msa_choice_set",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Conjunto concreto de pessoas que você poderia encontrar e escolher em determinado momento, distinto das pessoas que você apenas gosta em teoria.",
+        "exampleIds": [
+          "exm.sa.social.msa_choice_set.1.1.pt_br"
+        ],
+        "gloss": "As pessoas que estão de fato disponíveis para você escolher em um dado momento.",
+        "id": "sns.sa.social.msa_choice_set.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.msa_choice_set",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kumpulan orang yang sedang menjadi pilihan nyata bagi seseorang pada waktu tertentu, bukan semua orang yang hanya pernahbayangan.",
+        "exampleIds": [
+          "exm.sa.social.msa_choice_set.1.1.id"
+        ],
+        "gloss": "Orang-orang yang benar-benar tersedia untuk kamu pilih saat ini.",
+        "id": "sns.sa.social.msa_choice_set.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.msa_choice_set",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กลุ่มคนที่บุคคลหนึ่งสามารถพบและเลือกเป็นคู่ครองได้จริง ณ เวลานั้น ไม่ใช่ทุกคนที่บุคคลนั้นแค่คิดอยู่ในใจ",
+        "exampleIds": [
+          "exm.sa.social.msa_choice_set.1.1.th"
+        ],
+        "gloss": "บุคคลที่มีโอกาสเลือกได้จริงในเวลาหนึ่ง",
+        "id": "sns.sa.social.msa_choice_set.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.msa_choice_set",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin o sırada ulaşabildiği ve eş olarak değerlendirebileceği kişilerden oluşan küme. İlgi duyulan ancak gerçekte seçilebilir olmayan kişiler bu kümeye girmez.",
+        "exampleIds": [
+          "exm.sa.social.msa_choice_set.1.1.tr"
+        ],
+        "gloss": "Belirli bir anda gerçekten eş olarak seçebileceğin kişiler.",
+        "id": "sns.sa.social.msa_choice_set.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.msa_choice_set",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "その時点でchoosable人であり、_commitment__や交 Gel可能である Partner。",
+        "exampleIds": [
+          "exm.sa.social.msa_choice_set.1.1.ja"
+        ],
+        "gloss": "その時点で実際に選べる相手となる人の集合。",
+        "id": "sns.sa.social.msa_choice_set.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.msa_choice_set",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.msa_choice_set.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "restaurant",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.msa_choice_set.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Gerçekten karşına çıkan kişiler seçim havuzunu oluşturur, zihninde düşündüğün herkes değil.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.msa_choice_set.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ตัวเลือกของคุณคือคนที่คุณพบจริง ไม่ใช่ทุกคนที่คุณชอบในความคิด",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.msa_choice_set.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kumpulan pilihanmu adalah orang-orang yang benar-benar kamu temui, bukan semua orang yang kamu bayangkan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.msa_choice_set.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Seu conjunto de escolhas são as pessoas que você realmente encontra, e não todas as que você gostaria de idealizar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.msa_choice_set.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "당신이 실제로 만날 수 있는 사람들이 선택 가능한 후보이며, 상상하기만 하는 사람은 포함되지 않는다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.msa_choice_set.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Your choice set is the people you actually meet, not everybody you like the idea of.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "775cf3abc9be6786654245ad5389334705a826507743882cd3f472acd308dbba": [
+      {
+        "forms": [
+          "Favourite",
+          "favourite"
+        ],
+        "id": "lex.sa.kids_food.favourite",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Favourite",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_food.favourite.alt",
+          "sns.sa.kids_food.favourite.alt.ja",
+          "sns.sa.kids_food.favourite.alt.pt_br",
+          "sns.sa.kids_food.favourite.alt.id",
+          "sns.sa.kids_food.favourite.alt.th",
+          "sns.sa.kids_food.favourite.alt.tr",
+          "sns.sa.kids_food.favourite.alt.ko"
+        ]
+      },
+      {
+        "definition": "The one you like most of all, the one you hope to see on the table.",
+        "exampleIds": [
+          "exm.sa.kids_food.favourite.1.1"
+        ],
+        "gloss": "The one you like most of all, the one you hope to see on the table.",
+        "id": "sns.sa.kids_food.favourite.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_food.favourite",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "いくつある選択肢の中で、最も好きなもの。食物や色などを指す。",
+        "exampleIds": [
+          "exm.sa.kids_food.favourite.1.1.ja"
+        ],
+        "gloss": "その中で一番好きなもの。",
+        "id": "sns.sa.kids_food.favourite.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_food.favourite",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Coisa, pessoa ou atividade preferida por alguém. Como substantivo, pode designar o item escolhido entre outros.",
+        "exampleIds": [
+          "exm.sa.kids_food.favourite.1.1.pt_br"
+        ],
+        "gloss": "Aquilo que uma pessoa gosta mais do que as outras opções.",
+        "id": "sns.sa.kids_food.favourite.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_food.favourite",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Orang, benda, atau makanan yang paling disukai di antara pilihan yang lain.",
+        "exampleIds": [
+          "exm.sa.kids_food.favourite.1.1.id"
+        ],
+        "gloss": "Hal yang paling disukai.",
+        "id": "sns.sa.kids_food.favourite.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_food.favourite",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คน สัตว์ หรือสิ่งที่คุณชอบที่สุด เมื่อใช้เป็นคำนามจะหมายถึงสิ่งที่คุณเลือกและอยากได้มากที่สุด",
+        "exampleIds": [
+          "exm.sa.kids_food.favourite.1.1.th"
+        ],
+        "gloss": "ของที่ชอบที่สุดคือสิ่งที่คุณชอบมากกว่าสิ่งอื่นทั้งหมด",
+        "id": "sns.sa.kids_food.favourite.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_food.favourite",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin seçenekler arasında en çok sevdiği şeyi anlatır; yemek, oyun veya eşya gibi olabilir.",
+        "exampleIds": [
+          "exm.sa.kids_food.favourite.1.1.tr"
+        ],
+        "gloss": "En çok sevdiğin ve en çok görmek istediğin şeydir.",
+        "id": "sns.sa.kids_food.favourite.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_food.favourite",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "여러 사람이나 음식 가운데 네가 가장 좋아하는 것을 가리킨다.",
+        "exampleIds": [
+          "exm.sa.kids_food.favourite.1.1.ko"
+        ],
+        "gloss": "여러 것 중 가장 좋아하는 것이나 음식.",
+        "id": "sns.sa.kids_food.favourite.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_food.favourite",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_food.favourite.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My favourite food is spring rolls.",
+        "translation": "내가 가장 좋아하는 음식은spring rolls이야.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_food.favourite.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My favourite food is spring rolls.",
+        "translation": "En sevdiğim yemek pirinç sarmalıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_food.favourite.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My favourite food is spring rolls.",
+        "translation": "ของที่ฉันชอบที่สุดคือสปริงโรล",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_food.favourite.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My favourite food is spring rolls.",
+        "translation": "Makanan yang paling saya suka adalah Lumpia.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_food.favourite.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My favourite food is spring rolls.",
+        "translation": "Minha comida favorita é o macarrão.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_food.favourite.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My favourite food is spring rolls.",
+        "translation": "私の一番好きな食べ物は春巻きだ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_food.favourite.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My favourite food is spring rolls.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "77ab67f64940e66399728adcf5339213fd8d067a4c6360b7ed2183b32fd3e2a4": [
+      {
+        "forms": [
+          "voltage",
+          "voltages"
+        ],
+        "id": "lex.sa.en.voltage.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "voltage",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.voltage.noun.us",
+          "prn.sa.en.voltage.noun.gb"
+        ],
+        "senseIds": [
+          "sns.sa.en.voltage.noun.elec",
+          "sns.sa.en.voltage-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.audio.solution",
+        "id": "prn.sa.en.voltage.noun.us",
+        "ipa": "/ˈvoʊltɪdʒ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.voltage.noun.gb",
+        "ipa": "/ˈvəʊltɪdʒ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Hiệu điện thế giữa hai điểm; đơn vị SI là volt.",
+        "domain": [
+          "electrical"
+        ],
+        "exampleIds": [
+          "exm.sa.en.voltage.noun.01",
+          "exm.sa.en.voltage.noun.02",
+          "exm.sa.en.voltage-noun.more.01",
+          "exm.sa.en.voltage-noun.more.02"
+        ],
+        "gloss": "điện áp",
+        "id": "sns.sa.en.voltage.noun.elec",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.voltage.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.link.voltage.wiki",
+          "res.sa.cover.pack",
+          "res.sa.img.voltage-noun",
+          "res.sa.aud.voltage-noun",
+          "res.sa.lnk.voltage-noun",
+          "res.sa.vid.voltage-noun"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "The push of electric charge that drives a current.",
+        "exampleIds": [
+          "exm.sa.en.voltage.noun.01",
+          "exm.sa.en.voltage.noun.02"
+        ],
+        "gloss": "The push of electric charge that drives a current.",
+        "id": "sns.sa.en.voltage-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.voltage.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.voltage.noun.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The voltage across the cell is 12 V.",
+        "translation": "Điện áp trên pin là 12 V.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.voltage.noun.02",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "High voltage needs insulation.",
+        "translation": "Điện áp cao cần cách điện.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.link.voltage.wiki",
+        "kind": "resource",
+        "offlinePolicy": "never",
+        "sources": [
+          {
+            "kind": "remote",
+            "locator": "https://en.wikipedia.org/wiki/Voltage",
+            "mime": "text/html"
+          }
+        ],
+        "title": "Wikipedia · Voltage",
+        "type": "link"
+      },
+      {
+        "id": "res.sa.cover.pack",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://5e2d14ebf107ed8c94d8fe613b407b9ecc5ad6bb1824d692cb7a337c135794a8",
+            "mime": "image/png"
+          }
+        ],
+        "title": "Pack cover",
+        "type": "image"
+      },
+      {
+        "fromId": "sns.sa.en.voltage.noun.elec",
+        "id": "lnk.sa.en.voltage.to.circuit",
+        "kind": "relation",
+        "toId": "sns.sa.en.circuit.noun.elec",
+        "type": "related_to"
+      },
+      {
+        "id": "res.sa.audio.solution",
+        "kind": "resource",
+        "offlinePolicy": "required",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://dd5456092332d5012e2e3e3e338962a92b652773ee1e0ac21124d78d5b7cb72b",
+            "mime": "audio/wav"
+          }
+        ],
+        "title": "solution en-US",
+        "type": "audio"
+      }
+    ],
+    "77b6b45328c17658ab35d34b71d27a6d73cacf0a3eeb465d60ffb3c9b36beb08": [
+      {
+        "forms": [
+          "expectation mismatch",
+          "er_expectation_mismatch"
+        ],
+        "id": "lex.sa.social.er_expectation_mismatch",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "expectation mismatch",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.er_expectation_mismatch.alt",
+          "sns.sa.social.er_expectation_mismatch.alt.ja",
+          "sns.sa.social.er_expectation_mismatch.alt.ko",
+          "sns.sa.social.er_expectation_mismatch.alt.pt_br",
+          "sns.sa.social.er_expectation_mismatch.alt.id",
+          "sns.sa.social.er_expectation_mismatch.alt.th",
+          "sns.sa.social.er_expectation_mismatch.alt.tr"
+        ]
+      },
+      {
+        "definition": "The gap between what two people in a relationship each expect, when neither has said it aloud.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1"
+        ],
+        "gloss": "The gap between what two people in a relationship each expect, when neither has said it aloud.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "関係する二人が各々ROID checklistについて口头で伝え合っていない場合に、その違いから生まれる不満やkfriction。通常は「期待の不一致」と呼ばれる。",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.ja"
+        ],
+        "gloss": "関係する二人がそれぞれ期待するものの差。",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기대 불일치란 관계에 있는 두 사람이 각자 다르게 기대하는바를 직접 밝히지 않아 생기는 간극이다. 서로의 기대를 잘못 짐작해 실망하거나 갈등이 생길 수 있다.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.ko"
+        ],
+        "gloss": "관계에 있는 두 사람이 서로 말하지 않은 채 기대하는 것 사이의 차이.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Desencontro entre as expectativas não declaradas de duas pessoas que se relacionam. O problema pode surgir quando cada uma pressupõe behaves de maneira diferente sem comunicar o que espera.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.pt_br"
+        ],
+        "gloss": "A diferença entre o que cada pessoa em um relacionamento espera, sem que isso seja dito.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ketidakcocokan ekspektasi terjadi ketika dua orang haben różneksa apa yang diharapkan dari hubungan mereka, terutama jika expectations itu belum dibicarakan secara terbuka. Asumsi tentang ekspektasi masing-masing perlu diperiksa melalui komunikasi.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.id"
+        ],
+        "gloss": "Celah antara apa yang diharapkan masing-masing pihak dalam suatu hubungan.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความไม่สอดคล้องกันระหว่างความคาดหมายของแต่ละบุคคล ซึ่งอาจเกิดจากสมมติฐานที่ไม่เคยพูดออกมาและนำไปสู่ความขัดแย้ง",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.th"
+        ],
+        "gloss": "ช่องว่างระหว่างสิ่งที่แต่ละฝ่ายในความสัมพันธ์คาดหวังไว้",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tarafların birbirinden ne beklediğine dair varsayımları arasında açıklanmamış bir uyuşmazlığın bulunmasıdır. Sorun, çoğu zaman beklentilerin açıkça konuşulmamasından doğar.",
+        "exampleIds": [
+          "exm.sa.social.er_expectation_mismatch.1.1.tr"
+        ],
+        "gloss": "İlişkideki iki kişinin karşılıklı beklentileri arasındaki fark.",
+        "id": "sns.sa.social.er_expectation_mismatch.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.er_expectation_mismatch",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Beklenti uyuşmazlığı telefon aramalarıyla ilgiliydi ve aylardır sürüyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความไม่สอดคล้องระหว่างความคาดหวังเกี่ยวกับการโทรศัพท์เกิดขึ้นมาหลายเดือน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ketidakcocokan ekspektasi mereka tentang panggilan telepon sudah berlangsung selama berbulan-bulan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O desencontro entre expectativas era sobre telefonemas e já durava meses.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "기대 불일치는 전화 횟수에 관한 것이었고, 그 차이는 몇 달이나 이어졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "電話の頻度についての期待の不一致は、数か月もの間続いていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.er_expectation_mismatch.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The expectation mismatch was about phone calls, and it had been there for months.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "77c1f0ad5be9d1388324a5c46aa14923f6baa71d48b1a1a629808a13f2028ce6": [
+      {
+        "forms": [
+          "torque",
+          "torques"
+        ],
+        "id": "lex.sa.en.torque.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "torque",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.torque.noun.gb",
+          "prn.sa.en.torque.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.torque.noun.mech",
+          "sns.sa.en.torque-noun.alt"
+        ]
+      },
+      {
+        "definition": "Mô-men làm vật quay; lực nhân với cánh tay đòn.",
+        "domain": [
+          "mechanical"
+        ],
+        "exampleIds": [
+          "exm.sa.en.torque.noun.01",
+          "exm.sa.en.torque.noun.02",
+          "exm.sa.en.torque-noun.more.01",
+          "exm.sa.en.torque-noun.more.02"
+        ],
+        "gloss": "mô-men xoắn",
+        "id": "sns.sa.en.torque.noun.mech",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.torque.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.link.torque.wiki",
+          "res.sa.img.torque-noun",
+          "res.sa.aud.torque-noun",
+          "res.sa.lnk.torque-noun",
+          "res.sa.vid.torque-noun"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "The turning effect of a force about an axis.",
+        "exampleIds": [
+          "exm.sa.en.torque.noun.01",
+          "exm.sa.en.torque.noun.02"
+        ],
+        "gloss": "The turning effect of a force about an axis.",
+        "id": "sns.sa.en.torque-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.torque.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.torque.noun.gb",
+        "ipa": "/tɔːk/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.torque.noun.us",
+        "ipa": "/tɔrk/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.torque.noun.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Tighten the bolt to the specified torque.",
+        "translation": "Siết bu-lông đúng mô-men xoắn quy định.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.torque.noun.02",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Engine torque peaks at low rpm.",
+        "translation": "Mô-men xoắn động cơ đạt đỉnh ở vòng tua thấp.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.link.torque.wiki",
+        "kind": "resource",
+        "offlinePolicy": "never",
+        "sources": [
+          {
+            "kind": "remote",
+            "locator": "https://en.wikipedia.org/wiki/Torque",
+            "mime": "text/html"
+          }
+        ],
+        "title": "Wikipedia · Torque",
+        "type": "link"
+      }
+    ],
+    "77ce419e37967f51c5ef78147b25876af706ec4a9159731b7347e6a85afaf485": [
+      {
+        "forms": [
+          "One-off adjustment",
+          "one_off_adjustment"
+        ],
+        "id": "lex.sa.work.one_off_adjustment",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "One-off adjustment",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.one_off_adjustment.alt",
+          "sns.sa.work.one_off_adjustment.alt.ja",
+          "sns.sa.work.one_off_adjustment.alt.ko",
+          "sns.sa.work.one_off_adjustment.alt.pt_br",
+          "sns.sa.work.one_off_adjustment.alt.id",
+          "sns.sa.work.one_off_adjustment.alt.th",
+          "sns.sa.work.one_off_adjustment.alt.tr"
+        ]
+      },
+      {
+        "definition": "A single increase to pay that does not change your base salary.",
+        "exampleIds": [
+          "exm.sa.work.one_off_adjustment.1.1"
+        ],
+        "gloss": "A single increase to pay that does not change your base salary.",
+        "id": "sns.sa.work.one_off_adjustment.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.one_off_adjustment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "heridaの salary amountを一時的に増やす措置です。跨国给与 PATHways。基本给や将来の基本给は変更されません。",
+        "exampleIds": [
+          "exm.sa.work.one_off_adjustment.1.1.ja"
+        ],
+        "gloss": "基本給を変えない一時的な給与増加。",
+        "id": "sns.sa.work.one_off_adjustment.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.one_off_adjustment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "기본급이나 Regular pay에는 영향을 주지 않고 특정 시기에만 지급되는 일회성 급여 조정이다.",
+        "exampleIds": [
+          "exm.sa.work.one_off_adjustment.1.1.ko"
+        ],
+        "gloss": "기본급을 바꾸지 않고 한 번만 지급하는 급여 인상.",
+        "id": "sns.sa.work.one_off_adjustment.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.one_off_adjustment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Ajuste feito uma única vez no pagamento, que não se repete nem modifica o salário-base do empregado.",
+        "exampleIds": [
+          "exm.sa.work.one_off_adjustment.1.1.pt_br"
+        ],
+        "gloss": "Aumento eventual na remuneração, sem alteração do salário-base.",
+        "id": "sns.sa.work.one_off_adjustment.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.one_off_adjustment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Peningkatan hanya untuk satu periode atau pembayaran tertentu yang tidak mengubah gaji pokok. Tambahan ini tidak otomatis berlaku pada bulan-bulan berikutnya.",
+        "exampleIds": [
+          "exm.sa.work.one_off_adjustment.1.1.id"
+        ],
+        "gloss": "Kenaikan gaji satu kali tanpa mengubah gaji pokok.",
+        "id": "sns.sa.work.one_off_adjustment.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.one_off_adjustment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เงินเพิ่มหรือส่วนต่างค่าจ้างที่ให้เพียงครั้งเดียวและไม่ถูกนำไปปรับเป็นเงินเดือนฐาน",
+        "exampleIds": [
+          "exm.sa.work.one_off_adjustment.1.1.th"
+        ],
+        "gloss": "การปรับค่าจ้างครั้งเดียวที่ไม่เปลี่ยนเงินเดือนฐาน",
+        "id": "sns.sa.work.one_off_adjustment.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.one_off_adjustment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yalnızca bir kez yapılan ve temel maaşın değişmesine yol açmayan ödeme artışıdır. Genellikle ek ödeme veya özel bir düzeltme olarak kullanılır.",
+        "exampleIds": [
+          "exm.sa.work.one_off_adjustment.1.1.tr"
+        ],
+        "gloss": "Temel ücreti değiştirmeyen tek seferlik bir ücret artışıdır.",
+        "id": "sns.sa.work.one_off_adjustment.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.one_off_adjustment",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.one_off_adjustment.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They offered a one-off adjustment of $150 for this year.",
+        "translation": "Bu yıl için bana 150 dolarlık tek seferlik ücret artışı teklif ettiler.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.one_off_adjustment.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They offered a one-off adjustment of $150 for this year.",
+        "translation": "บริษัทเสนอการปรับค่าจ้างครั้งเดียวจำนวน 150 ดอลลาร์สำหรับปีนี้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.one_off_adjustment.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They offered a one-off adjustment of $150 for this year.",
+        "translation": "They menawarkan penyesuaian satu kali sebesar 150 dolar untuk tahun ini.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.one_off_adjustment.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They offered a one-off adjustment of $150 for this year.",
+        "translation": "A empresa ofereceu um ajuste eventual de R$ 150 para este ano.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.one_off_adjustment.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They offered a one-off adjustment of $150 for this year.",
+        "translation": "그들은 올해 한 번만 150달러를 추가로 지급한다는 제안을 했습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.one_off_adjustment.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They offered a one-off adjustment of $150 for this year.",
+        "translation": "Sha‘unid they offered me a one-off adjustment of 150 dollars for this year.",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.one_off_adjustment.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They offered a one-off adjustment of $150 for this year.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "77f1f8064536f2f3499c98dd55fed1e1fd7310f46d6558957d4b5c24dabe2d08": [
+      {
+        "forms": [
+          "equal",
+          "equals",
+          "equaled",
+          "equalled",
+          "equaling"
+        ],
+        "id": "lex.sa.en.equals.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "equals",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.equals.verb",
+          "prn.sa.en.equals.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.equals.verb.1",
+          "sns.sa.en.equals-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.equals-verb",
+        "id": "prn.sa.en.equals.verb",
+        "ipa": "/ˈiːkwəlz/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.equals.verb.us",
+        "ipa": "/ˈiː.kwəlz/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Hai vế có cùng giá trị; ký hiệu =.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.equals.verb.1.1",
+          "exm.sa.en.equals-verb.more.01",
+          "exm.sa.en.equals-verb.more.02"
+        ],
+        "gloss": "bằng",
+        "id": "sns.sa.vi.equals.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.equals.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.equals-verb",
+          "res.sa.aud.equals-verb",
+          "res.sa.lnk.equals-verb",
+          "res.sa.vid.equals-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The relation written with the sign =.",
+        "exampleIds": [
+          "exm.sa.en.equals.verb.1.1"
+        ],
+        "gloss": "The relation written with the sign =.",
+        "id": "sns.sa.en.equals-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.equals.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.equals.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Two plus two equals four.",
+        "translation": "Hai cộng hai bằng bốn.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.equals.verb.1",
+        "id": "lnk.sa.en.glossary.013",
+        "kind": "relation",
+        "toId": "sns.sa.vi.equation.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.equals.verb.1",
+        "id": "lnk.sa.en.glossary.014",
+        "kind": "relation",
+        "toId": "sns.sa.vi.sign.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.equals.verb.1",
+        "id": "lnk.sa.en.glossary.015",
+        "kind": "relation",
+        "toId": "sns.sa.vi.balanced.adjective.1",
+        "type": "related_to"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,79 @@
+{
+  "language": "id",
+  "lessonId": "article_ai_agents",
+  "objectives": [
+    "Definisikan agen AI dan sistem multiagen.",
+    "Jelaskan apa yang diubah oleh otomasi multi-agent dalam hal produktivitas.",
+    "Jelaskan di mana kendali mutu gagal dalam alur kerja agen.",
+    "Berpikirlah tentang tanggung jawab atas karya yang dihasilkan oleh agen.",
+    "Jelaskan keterampilan baru dalam mengawasi kerja mesin."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Agen AI adalah sistem yang tidak hanya menjawab, tetapi juga bertindak: ia merencanakan langkah-langkah, menggunakan alat, menulis berkas, memanggil layanan lain, dan terus bekerja hingga suatu tujuan tercapai atau ia dihentikan. Satu prompt menjadi sebuah proyek. Sistem multi-agent melangkah lebih jauh: beberapa agen khusus bekerja sama — satu meneliti, satu menyusun draf, satu mengkritik, satu memverifikasi — sedangkan manusia menetapkan tujuan dan menerima hasilnya.\n\nLompatan produktivitas itu nyata. Tugas yang duluan membutuhkan satu minggu kerja manusia — riset pasar, migrasi kode, laporan panjang — dapat selesai dalam hitungan jam. Satu orang dengan kumpulan agen dapat mencoba proyek-proyek yang sebelumnya membutuhkan tim kecil, dan pendiri yang bekerja sendirian dapat bottlen dengan kecepatan sebuah departemen.\n\nNamun, struktur yang sama yang menghasilkan kecepatan juga menciptakan masalah baru: manusia hanya melihat tujuan dan hasilnya, tanpa apa pun di antaranya. Pekerjaan berlangsung di dalam sebuah pipeline yang tidak diawasi manusia dan juga tidak dapat diawasi sepenuhnya meskipun ia berusaha.",
+      "examples": [
+        "Ia memberikan pertanyaan riset kepada tim agen saat sarapan; saat makan siang sudah ada laporan empat puluh halaman dengan sitasi — dan ia belum membaca satu pun sumber."
+      ],
+      "heading": "Dari alat menjadi rekan kerja"
+    },
+    {
+      "body": "Dalam tim manusia, kendali mutu bergantung pada konteks bersama: peninjau mengetahui apa yang disampaikan kepada peneliti, apa yang membuat tenggat waktu memaksa mereka melewati, dan bagaimana mereka biasanya bekerja. Alur kerja agen secara bawaan tidak memiliki konteks ini. Setiap agen mempercayai keluaran agen sebelumnya seperti karyawan yang lelah mempercayai surel yang Written dengan percaya diri.\n\nMode kegagalan menyusul. **Propagasi kesalahan**: kesalahan pada langkah pertama dipoles, bukan ditangkap, oleh langkah kedua hingga kelima. **Kutipan yang masuk akal**: agen menciptakan rujukan yang tampak persis seperti rujukan nyata, dan tidak ada agen dalam rangkaian yang memeriksanya terhadap kenyataan. **Penyimpangan tujuan**: setelah banyak langkah, keluaranrumsah yang dapat diukur — jumlah kata, pengujian yang lulus — alih-alih yang diinginkan. Dan **pengabaian diam-diam**: alur kerja tidak menghasilkan peringatan tentang apa yang tidak dil-overlay.\n\nKarena itu, verifikasi tidak dapat menjadi agen lain dengan jenis yang sama. Pemeriksaan yang penting harus mencapai kenyataan: membuka sumber yang dikutip, menjalankan kode pada data nyata, serta menampilkan draf kepada ahli manusia. Alur kerja mengotomatiskan produksi; alur kerja tidak mengotomatiskan akuntabilitas.",
+      "examples": [
+        "Laporan itu lancar, terstruktur, dan meyakinkan; setiap kutipan ketiga menunjuk pada studi yang tidak ada."
+      ],
+      "heading": "Tempat kendali mutu terganggu"
+    },
+    {
+      "body": "Delegasi kepada manusia memiliki ethic yang telah disepakati: manajer memiliki hasil akhirnya. Delegasi kepada agents mewarisi hal tersebut. Jika nama Anda, perusahaan Anda, atau keputusan Anda bergantung pada output seorang agent, output itu menjadi milik Anda — fakta bahwa machine yangWx produzinya mengubah tenaga kerja, bukan accountability.\n\nHal ini memiliki practical yang nyata. Menerbitkan klaim yang ditulis agent tanpa memeriksanya merupakan misinformation dengan langkah tambahan. Mengirim code yang ditulis agent tanpa membacanya merupakan negligence dengan license. Membiarkan agents bertindak atas nama Anda — mengirim messages, melakukan purchases — berarti kesalahan mereka menjadi transactions Anda.\n\nRule yang workable adalah skala supervision yang disesuaikan dengan stakes. Stakes rendah, actions yang reversible dapat berjalan dengan sampling checks: audit satu dari sepuluh outputs. Stakes tinggi, actions yang irreversible — money, health, reputation, data milik orang lain — membutuhkan human gates: seorang person membaca, memverifikasi, dan menyetujui sebelum apa pun dikirim. Biaya gate adalah harga dari speed.",
+      "examples": [
+        "Agent tersebut mengirim dua hundred personalized emails sebelum ada yang menyadari bahwa ia telah mengarang discount yang tidak pernah disetujui perusahaan."
+      ],
+      "heading": "Tanggung jawab dalam pipeline yang tidak Anda jalankan"
+    },
+    {
+      "body": "Istilah-istilah ini menggambarkan struktur kerja yang baru.",
+      "heading": "Kosakata tim machine",
+      "terms": [
+        {
+          "example": "AI agent membaca log error, mengedit file config, dan me-restart service tanpa diberi tahu setiap step.",
+          "gloss": "Sistem AI yang membuat rencana dan bertindak menuju suatu goal dengan menggunakan tools dan intermediate steps, bukan menjawab dalam satu kali."
+        },
+        {
+          "example": "Dalam multi-agent system, satu agent mengumpulkan sumber, satu menulis, satu melakukan critiques, dan satu memformats laporan final.",
+          "gloss": "Setup ketika beberapa agent AI khusus membagi task di antara mereka sendiri dan meneruskan pekerjaan satu sama lain."
+        },
+        {
+          "example": "Skill Orchestration-nya terlihat dari cara dia membagi task research sehingga tidak ada agent yang menunggu agent lain.",
+          "gloss": "Koordinasi beberapa agent: menentukan roles, urutan, tools, dan stopping conditions mereka."
+        },
+        {
+          "example": "Human in the loop berarti agent menyusun draft reply, tetapi hanya dia yang dapat menekan send.",
+          "gloss": "Desain ketika seorang person meninjau dan menyetujui pekerjaan agent sebelum hasilnya berlaku."
+        },
+        {
+          "example": "Quality control mereka menangkap statistik yang dikarang sebelum artikel dikirim ke client.",
+          "gloss": "Proses memeriksa apakah output memenuhi requirements sebelum digunakan atau dikirim."
+        },
+        {
+          "example": "Delegation kepada agent bekerja seperti delegation kepada juniors: goals yang jelas, limits yang jelas, dan senior memiliki hasilnya.",
+          "gloss": "Penugasan sebuah task beserta authority untuk menyelesaikannya; pada agent, responsibility tetap berada pada delegator."
+        }
+      ]
+    },
+    {
+      "body": "Agents membuat production hampir gratis, yang memindahkan hambatan ke judgment: memutuskan apa yang layak dibuat, dan memeriksa apa yang telah dibuat. Workflows yang lupa hal ini akan ship garbage dengan speed yang belum pernah terjadi. Resource yang scarce di era agent bukan output, melainkan attention yang spent pada checks yang tepat.",
+      "heading": "Kecepatan bukan hambatannya"
+    },
+    {
+      "body": "Mengawasi agen merupakan keahlian yang dapat dipelajari dengan keterampilan yang mudah dikenali. **Spesifikasi** kini lebih penting daripada sebelumnya: agen melakukan persis seperti yang tertulis, termasuk kelemahannya. **Pengambilan sampel** menggantikan tinjauan yang exhaustive: periksa keluaran ketika kesalahan paling mudah ditemukan dan paling mahal untuk released. **Disiplin Provenance** menyimpan catatan tentang apa yang dilakukan setiap agen, sehingga ketika ada yang salah, perbaikan langsung diterapkan pada langkah yang menyebabkannya. Dan **aturan penghentian** menentukan kapan al kerja harus dihentikan dan meminta bantuan manusia.\n\nOrang-orang yang menguasai keahlian ini akan sangat produktif, karena mereka menggabungkan throughput mesin dengan judgment manusia. Orang-orang yang melewatinya akan sibuk dan malu, menemukan kesalahan mereka di depan publik, satu artefak yang telah dibuat pada satu waktu.\n\nAda juga pergeseran yang lebih tenang. Ketika satu orang dapat mengarahkan banyak pikiran, definisi profesional senior berubah: tidak lagi terutama tentang apa yang dapat Anda hasilkan secara pribadi, melainkan tentang apa yang dapat Anda arahkan, verifikasi, dan pertanggungjawabkan. Bagan organisasi masa depan mungkin mencantumkan satu manusia dan seratus agen — dan pekerjaan manusia itu adalah pekerjaan tertua dalam manajemen: judgment tentang pekerjaan yang dilakukan oleh orang lain.",
+      "examples": [
+        "Alur riset dua agen miliknya menyusun draf dalam satu jam yang sebelumnya memakan waktu berhari-hari; pekerjaan sebenarnya adalah memeriksa pada sore hari apa yang pantas ada."
+      ],
+      "heading": "Keahli baru: mengawasi pikiran yang tidak Anda rekrut"
+    }
+  ],
+  "summary": "Sekarang, satu orang dapat memimpin tim agen AI yang saling meneliti, menulis, memrogram, dan memeriksa pekerjaan masing-masing. Artikel ini membahas otomasi multiagen: dampaknya terhadap produktivitas, di mana kontrol kualitas terganggu, siapa yang bertanggung jawab atas keluarannya, serta apa artinya “mengelola” pekerjaan yang tidak dikerjakan sendiri.",
+  "title": "Zaman Agen AI: Satu Manusia, Banyak Pikiran"
+}

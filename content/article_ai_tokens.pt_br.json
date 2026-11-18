@@ -1,0 +1,135 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_ai_tokens",
+  "objectives": [
+    "Explicar o que é um token e por que os modelos funcionam em tokens em vez de letras.",
+    "Descrever como o texto se torna tokens e como retorna.",
+    "Estimar quantos tokens um texto utiliza.",
+    "Explicar o que limita a janela de contexto e o que acontece quando ela se enche.",
+    "Escrever um prompt que dê ao modelo o contexto necessário.",
+    "Reconhecer quando uma longa conversa se torna não confiável e iniciar uma nova.",
+    "Explicar o custo de uma mensagem em termos práticos."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Um token é a unidade de texto que um modelo de linguagem realmente lê e escreve. Não é uma palavra, nem é um caractere. É um pedaço, geralmente entre um caractere e uma palavra, escolhido para que as partes mais comuns de texto possam ser armazenadas de forma eficiente.\n\nA palavra \"incredível\" pode ser dividida em vários tokens. A palavra \"the\" geralmente é um único token. Um espaço é frequentemente anexado à próxima palavra, então \"the\" é um único token, não dois. Isso significa que a mesma frase pode custar mais ou menos, dependendo das palavras que ela contém, e significa que o texto em uma língua com formas de palavra diferentes custa de forma diferente em relação ao inglês.\n\nO motivo dos tokens é a aritmética. Um modelo transforma texto em números e então trabalha com esses números. A unidade tem que ser grande o suficiente para que o vocabulário permaneça gerenciável, e pequena o suficiente para que a sequência não se torne enorme. De forma aproximada, **um token é cerca de quatro caracteres de inglês**, ou cerca de três quartos de uma palavra. Uma página de prosa em inglês é de cerca de 500 a 700 tokens.\n\nTudo o resto segue disso. A **janela de contexto** é o número de tokens que um modelo pode reter ao mesmo tempo: sua mensagem, a conversa até agora, qualquer documento que você tenha enviado e as instruções que ele recebeu. Quando a conversa cresce além desse limite, as partes mais antigas são empurradas para fora. O modelo não esquece porque está distraído. Ele esquece porque os tokens literalmente não existem mais.\n\nEste único fato explica a maioria dos comportamentos estranhos que as pessoas percebem. Um chatbot que parece ter perdido o fio da meada no meio de uma longa conversa geralmente não o perdeu; o início foi empurrado para fora da janela. Um chatbot que não consegue ler seu PDF de 40 páginas não recusa; o arquivo é maior que a janela. Um chatbot que se contradiz tem duas sequências de tokens diferentes para trabalhar com, e ele respondeu àquele que estava à sua frente.\n\nE um ponto final que importa comercialmente: os tokens também são a unidade de faturamento. Quando um provedor cota um preço por token, ele está dizendo a você o que custa para alimentar texto e obter texto de volta. Entender os tokens transforma um preço opaco em uma quantidade que você pode medir.",
+      "examples": [
+        "O documento não foi muito difícil. Era 90.000 tokens, e a janela é 8.000.",
+        "Ele não ficou confuso. A primeira parte da nossa conversa já havia saído da janela."
+      ],
+      "heading": "O que é um token e por que tudo é medido neles"
+    },
+    {
+      "body": "Cada mensagem passa pelos mesmos quatro passos. Conhecer esses passos transforma um resultado estranho em algo diagnosticável.\n\n**Primeiro passo, tokenização.** Seu texto é dividido em tokens por um tokenizador, um vocabulário fixo construído para o modelo. Isso é mecânico e é aqui que o custo é calculado.\n\n**Segundo passo, embedding.** Cada token é convertido em uma lista de números, um vetor, que captura o que o trecho de texto significa em relação a todo o outro. Tokens com significado similar ficam próximos um do outro nesse espaço. \"Banco\" (instituição financeira) e \"banco\" (rio) acabam em lugares diferentes.\n\n**Terceiro passo, previsão.** O modelo percorre toda a sequência de uma vez, camada por camada, e determina o que deve vir a seguir. Ele faz isso para cada posição em paralelo, o que permite que lide com milhares de tokens de uma vez e por que ele não lê seu texto da maneira como você lê uma página.\n\n**Quarto passo, decodificação.** Os tokens escolhidos são convertidos de volta em texto e enviados para você. Se você pediu uma resposta mais curta ou um formato diferente, essa instrução é parte da própria sequência de entrada, e o modelo tenta honrá-la da mesma maneira que tenta honrar tudo o mais.\n\nDuas consequências seguem desse pipeline. A primeira é que **o modelo não tem memória fora da janela**. Não há um armazenamento oculto da sua conversa. Quando um serviço diz que te lembra, essa memória vive em um banco de dados de seu lado e é colada de volta como parte da entrada.\n\nA segunda é que **instruções competem com o conteúdo**. Tudo o que você envia ocupa o mesmo orçamento: as instruções do sistema, o histórico da conversa, seus documentos e sua pergunta. Quando um serviço esgota o espaço, ele descarta algo, e não sempre descarta o que você teria escolhido.",
+      "examples": [
+        "Cada mensagem vira tokens, depois números, depois uma previsão, depois texto novamente.",
+        "O modelo não tem memória da nossa conversa, exceto o que está na janela agora.",
+        "As instruções do sistema ocupam o mesmo espaço que minha pergunta, e o espaço é finito."
+      ],
+      "heading": "O que acontece entre sua mensagem e a resposta"
+    },
+    {
+      "body": "Raramente você precisa de uma contagem exata. O que você precisa saber é, de forma aproximada, se um texto vai caber, e as regras aproximadas são simples o suficiente para serem memorizadas.\n\n**Regra um: divida a contagem de caracteres por quatro.** Uma mensagem de 4.000 caracteres em inglês equivale a cerca de 1.000 tokens. Isso funciona bem para prosa comum, porque o inglês tem em média um pouco menos de quatro caracteres por token.\n\n**Regra dois: conte as palavras, depois adicione um terço.** Uma palavra equivale a aproximadamente 1,3 tokens, porque espaços e sufixos comuns de palavras tornam-se seus próprios tokens. Um e-mail de 300 palavras equivale a aproximadamente 400 tokens.\n\n**Regra três: espere que outros idiomas e formatos custem mais.** Textos vietnamitas, com suas palavras de múltiplos sílabos e acentos completos, tendem a ser tokenizados de forma menos eficiente que o inglês. Tabelas, código e JSON são densos em símbolos, e os símbolos são frequentemente seus próprios tokens. Uma planilha colada pode custar várias vezes mais do que sua contagem de palavras sugere.\n\n**Regra quatro: a entrada e a saída são contadas separadamente.** Pedir uma resposta longa custa duas vezes: uma vez para ler seu prompt e outra para gerar a resposta. Um pedido por uma resposta de 2.000 palavras custa cerca de 2.600 tokens de saída, mais o que o prompt usou.\n\nEssas regras são suficientes para decisões diárias. Quando uma tarefa está genuinamente perto do limite, a maioria das interfaces mostra uma contagem de tokens ou um indicador de progresso, e algumas permitem que você veja o orçamento. Use esses dados em vez de estimar quando o número exato importa, porque uma única tabela colada pode alterar a contagem em milhares.\n\nUm hábito economiza problemas: coloque a instrução primeiro e o material segundo. Se um documento é longo, peça ao modelo para processá-lo em partes nomeadas e dê um resumo curto de cada. Você mantém o resumo, você mantém as partes, e as partes permanecem dentro da janela.",
+      "examples": [
+        "Regra aproximada: 4.000 caracteres equivalem a cerca de 1.000 tokens, então preciso cortar o documento em três.",
+        "Um e-mail de 300 palavras equivale a aproximadamente 400 tokens, e a resposta será da mesma ordem.",
+        "Peço uma seção de cada vez, e cada resposta fica dentro da janela."
+      ],
+      "heading": "Como estimar a contagem de tokens de uma mensagem"
+    },
+    {
+      "body": "A janela de contexto é a memória de trabalho do modelo para uma única conversa. Ela é medida em tokens e representa o limite mais difícil de todo o sistema, pois determina o que o modelo pode saber ao responder a você.\n\nAs janelas variam amplamente. Um modelo pequeno pode conter alguns milhares de tokens. Um assistente geral atual pode conter dezenas de milhares, e algumas ferramentas podem conter centenas de milhares ou mais. Um milhão de tokens é aproximadamente o comprimento de um romance longo, o que soa generoso até você lembrar que a janela deve conter sua pergunta, a resposta, qualquer arquivo carregado e as instruções do sistema ao mesmo tempo.\n\nQuando a janela se enche, algo precisa sair. Mais comumente, o sistema descarta as turmas mais antigas da conversa. Às vezes, ele as resume e mantém o resumo. De qualquer forma, o modelo agora responde com uma versão ligeiramente incorreta do passado e não tem como te dizer que o passado está incompleto.\n\nOs sintomas são reconhecíveis. O modelo começa a esquecer uma instrução que você deu no início. Ele começa a contradizer um fato que estabeleceu há vinte turmas. Ele perde o arquivo que você carregou. Ele começa a se repetir no final. Em todos os quatro casos, a causa é geralmente a mesma, e nenhum deles é uma falha do modelo em si.\n\nUma longa conversa parece ser progresso porque contém muito trabalho. Dentro do modelo, é apenas uma longa sequência de tokens, e além de um certo tamanho, a parte inicial desaparece. Dois hábitos seguem. Após cada poucos turnos úteis, peça um resumo curto em um formato fixo: decisões, perguntas em aberto, fatos para manter e a tarefa atual. Em seguida, inicie o próximo chat com esse resumo colado no topo. Custa um minuto e lhe compra um contexto limpo.\n\nA solução prática é, portanto, **iniciar uma conversa nova e levar um resumo adiante**. Isso parece desperdiçador, porque você investiu vinte turnos. É mais barato que a alternativa, porque, caso contrário, você está pagando por um contexto longo em que seu material inicial é invisível.\n\nA outra solução prática é **manter o conjunto de trabalho pequeno**. Peça respostas curtas, peça listas numeradas, peça que ele diga qual parte do documento ele usou. Quando o contexto permanece pequeno, a qualidade da resposta geralmente sobe, não desce.",
+      "examples": [
+        "Vamos iniciar um novo chat. Vou colar um resumo de onde chegamos.",
+        "Esqueceu o formato que pedi no início, porque isso foi empurrado há muito tempo.",
+        "Mantenho o conjunto de trabalho pequeno agora: um documento, uma pergunta, respostas curtas."
+      ],
+      "heading": "A janela de contexto e o que acontece quando ela se enche"
+    },
+    {
+      "body": "Um prompt é o texto que se torna a primeira parte da janela de contexto. Vale a pena dedicar dois minutos de reflexão, porque tudo o que você deixar de fora é o orçamento que você reserva para a resposta.\n\nPrimeiro, coloque a tarefa na primeira frase. O modelo lê toda a janela, mas uma instrução clara no topo é a menos provável de ser ofuscada.\n\nSegundo, indique o público-alvo e o formato. \"Explique para um novo supervisor de armazém\" e \"me dê cinco pontos de lista\" eliminam a maioria das suposições e removem a necessidade de uma longa troca de mensagens que consumiria a janela.\n\nTerceiro, forneça as restrições que você normalmente seria solicitado a fornecer: comprimento, tom, idioma, o que fazer quando as informações estão faltando.\n\nQuarto, coloque o material longo após a instrução e marque-o claramente. Colocar o material de origem entre colchetes torna óbvio o que são dados e o que é um pedido, o que reduz o risco do modelo tratar uma frase dentro do seu documento como uma instrução.\n\nQuinto, peça a razão necessária apenas quando necessário, não sempre. Um pedido para mostrar os passos consome tokens e pode adicionar erros confiantes. Um pedido por uma resposta curta com a suposição declarada é frequentemente melhor.\n\nSexto, e por último, peça ao modelo para dizer o que ele não sabe. É barato e transforma uma suposição confiante em uma lacuna visível.",
+      "examples": [
+        "Aqui está um documento entre colchetes. Responda apenas a partir dele e diga quando ele não responde.",
+        "Explique para um novo supervisor de armazém, em cinco pontos de lista, com menos de 150 palavras.",
+        "Me dê a resposta curta primeiro, depois a razão, e marque qualquer coisa que tenha que assumir."
+      ],
+      "heading": "Como escrever um prompt que aproveite bem a janela de contexto",
+      "steps": [
+        "Coloque a tarefa na primeira frase.",
+        "Indique o público-alvo, o formato e o comprimento.",
+        "Forneça as restrições que você normalmente seria solicitado a fornecer.",
+        "Coloque o material de origem longo após a instrução, claramente marcado.",
+        "Peça a razão apenas onde você precisa verificá-la.",
+        "Pergunte o que ele está incerto sobre e trate isso como parte da resposta."
+      ]
+    },
+    {
+      "body": "Estes são os termos que você encontra na documentação de modelos, em páginas de preços e em discussões de desenvolvedores.\n\n**Token** é o pedaço de texto que um modelo lê ou escreve, geralmente uma palavra, uma parte de uma palavra ou um símbolo comum.\n\n**Tokenizer** é a lista fixa de tokens que um modelo usa, e a regra que transforma texto neles e os transforma de volta.\n\n**Janela de contexto** é o número máximo de tokens que o modelo pode reter ao mesmo tempo, contando a pergunta, o histórico, os documentos e as instruções juntos.\n\n**Prompt** é a instrução e o contexto que você fornece ao modelo. Ele se torna os primeiros tokens da sequência.\n\n**Completamento** é o que o modelo produz. Na terminologia mais antiga, o prompt é a entrada e o completamento é a saída.\n\n**Tokens de entrada** e **tokens de saída** são os dois lados da conta. Os preços são citados para cada um.\n\n**Prompt do sistema** é a instrução padrão que define o comportamento do assistente, o tom, os limites. É um custo de token como qualquer outro.\n\n**Temperatura** é a configuração que controla o quanto de aleatoriedade o modelo usa ao escolher o próximo token. Valores baixos dão respostas repetitivas, valores altos dão respostas variadas e menos confiáveis.\n\n**Truncamento** é o que acontece quando a entrada é mais longa que a janela: o excesso é cortado, geralmente a partir da parte mais antiga.\n\n**Deriva de contexto** é a mudança gradual nas respostas de um modelo ao longo de uma longa conversa, à medida que o contexto de trabalho enche-se de material antigo e empurra para fora as instruções originais.",
+      "heading": "As palavras dos tokens, um por um",
+      "terms": [
+        {
+          "example": "A palavra \"the\" é um token, e uma palavra longa pode ser três.",
+          "gloss": "O pedaço de texto que um modelo lê ou escreve. Geralmente uma palavra, uma parte de uma palavra ou um símbolo comum."
+        },
+        {
+          "example": "Um tokenizer diferente significa que o mesmo texto custa um número diferente de tokens.",
+          "gloss": "O vocabulário fixo que um modelo usa, mais a regra que divide o texto em tokens e os junta de volta."
+        },
+        {
+          "example": "Com uma janela de 8.000 tokens, uma solicitação de 9.000 tokens precisa ser cortada.",
+          "gloss": "O número máximo de tokens que um modelo pode reter ao mesmo tempo, contando a pergunta, o histórico, os documentos e as instruções juntos."
+        },
+        {
+          "example": "Um bom prompt gasta seu orçamento no que o modelo não pode adivinhar.",
+          "gloss": "A instrução e o contexto que você fornece ao modelo. Ele se torna os primeiros tokens da sequência."
+        },
+        {
+          "example": "Enviar o mesmo arquivo duas vezes cobra os tokens de entrada duas vezes.",
+          "gloss": "Os tokens que você envia, contados e cobrados no caminho de entrada. Documentos e histórico de chat contam aqui."
+        },
+        {
+          "example": "Pedir 2.000 palavras dobra o custo de saída de pedir 200.",
+          "gloss": "Os tokens que o modelo gera, contados e cobrados no caminho de saída. Respostas longas custam mais que respostas curtas."
+        },
+        {
+          "example": "Para extrair dados de um documento, mantenha a temperatura baixa.",
+          "gloss": "A configuração que controla o quão aleatória é a escolha do próximo token. Valores mais baixos são mais repetíveis, valores mais altos são mais variados e menos confiáveis."
+        },
+        {
+          "example": "O truncamento é o motivo pelo qual o modelo nunca menciona a primeira página que você enviou.",
+          "gloss": "O corte automático da entrada que é mais longa que a janela de contexto, geralmente removendo a parte mais antiga."
+        }
+      ]
+    },
+    {
+      "body": "Os preços são citados por token, o que esconde mais do que revela. Dois modelos podem custar quantias muito diferentes para a mesma tarefa, porque o preço por token, o número de tokens que seu texto produz e o número de tokens que a resposta consome variam.\n\nA comparação prática é o **custo da tarefa**, não o preço por token. Um modelo barato que precisa de quatro tentativas porque suas respostas eram inutilizáveis é mais caro do que um modelo mais caro que funciona na primeira tentativa. Um modelo que lê um documento de 50.000 tokens toda vez que você faz uma pergunta é caro de uma forma que um modelo que lê um resumo de 2.000 tokens não é.\n\nTrês hábitos mantêm o custo previsível. **Resuma uma vez, reutilize muitas vezes.** Cole o documento longo uma vez, obtenha um resumo estruturado e trabalhe a partir do resumo. **Mantenha o histórico curto.** Cada turno anterior é um conjunto de tokens de entrada que você paga novamente em cada mensagem. **Peça pelo comprimento que você precisa.** Os tokens de saída são cobrados por token, então \"em cinco pontos de lista\" é uma instrução real com um preço real.\n\nTambém há um custo para colar sem cuidado. Enviar um documento grande com dados pessoais nele custa dinheiro, coloca esses dados em um sistema de outra pessoa e leva muito tempo. Ler os dois primeiros parágrafos e colá-los é frequentemente tanto mais barato quanto melhor.\n\nUma última coisa vale a pena dizer claramente: os preços dos tokens continuam caindo, e a maneira como as pessoas precificam seu próprio trabalho muda com isso. Uma tarefa que era precificada por hora torna-se uma tarefa precificada por uso. A habilidade que importa move-se em direção a decidir o que pedir, como verificá-lo e quando fazer manualmente.",
+      "examples": [
+        "Resumi o contrato uma vez e agora estou trabalhando a partir de quatro páginas em vez de quarenta.",
+        "É mais barato pagar pelo modelo melhor uma vez do que corrigir três vezes a resposta do modelo barato.",
+        "Peço cinco pontos de lista porque a saída é precificada por token."
+      ],
+      "heading": "O que um token custa, na prática"
+    },
+    {
+      "body": "Essas frases explicam o comportamento que as pessoas acham confuso, e são úteis com um colega, um professor ou uma linha de suporte. Use-as como estão e altere os detalhes para se adequar à sua própria situação.",
+      "examples": [
+        "Ele não lê cartas. Ele lê tokens, que são pedaços de texto.",
+        "Quatro caracteres é uma boa estimativa aproximada de um token em inglês.",
+        "O arquivo era muito grande para a janela, então foi truncado, não recusado.",
+        "Seu histórico de chat não é memória. É contexto, e ele tem um limite de tamanho.",
+        "Eu mantenho um resumo no topo de um novo chat para que a janela permaneça útil.",
+        "O preço é por token, então uma conversa longa é paga em cada mensagem.",
+        "Peça o formato que você quer na primeira frase, não na décima."
+      ],
+      "heading": "Frases que você pode reutilizar ao falar sobre tokens"
+    },
+    {
+      "body": "A maioria das reclamações sobre chatbots diz respeito à forma como o pedido foi formulado, não ao modelo. Quatro hábitos recuperam a maior parte dessa diferença. Coloque a tarefa em primeiro lugar, em uma única frase, e diga como uma boa resposta parece. Mantenha o conjunto de trabalho pequeno: um documento, uma pergunta, uma tarefa de cada vez, e peça a resposta em um formato curto. Leve o contexto consigo quando iniciar um novo chat, em um modelo fixo de decisões, perguntas abertas e fatos a serem mantidos. E verifique as partes que importam: os números, os nomes, as citações. Um modelo é rápido em produzir algo plausível e lento em confirmá-lo, então a verificação fica com você. Esses quatro hábitos funcionam com todo modelo que você encontrará, incluindo os que chegarão no próximo ano.",
+      "heading": "Obter mais do mesmo modelo"
+    }
+  ],
+  "summary": "Um chatbot não lê sua mensagem; ele lê tokens, e os limites sobre quantos tokens ele pode reter explicam a maioria do que parece estranho nele. Após ler isso, você poderá explicar o que é um token, julgar se uma mensagem caberá na janela de contexto, contar tokens aproximadamente, escrever prompts que geram melhores respostas e reconhecer o momento em que uma longa conversa deixa de ser confiável.",
+  "title": "Entendendo Tokens de IA e Como os Chatbots Funcionam"
+}

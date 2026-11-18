@@ -1,0 +1,637 @@
+{
+  "records": {
+    "b229003f1ecb0c224a4278d996786da6734355f9a3cc20ce222e8383785b2a38": [
+      {
+        "forms": [
+          "divide",
+          "divides",
+          "divided",
+          "dividing"
+        ],
+        "id": "lex.sa.en.divide.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "divide",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.divide.verb",
+          "prn.sa.en.divide.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.divide.verb.1",
+          "sns.sa.en.divide-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.divide-verb",
+        "id": "prn.sa.en.divide.verb",
+        "ipa": "/dɪˈvaɪd/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.divide.verb.us",
+        "ipa": "/dɪˈvaɪd/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Tách thành các phần bằng nhau; phép toán ngược với nhân.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.divide.verb.1.1",
+          "exm.sa.en.divide-verb.more.01",
+          "exm.sa.en.divide-verb.more.02"
+        ],
+        "gloss": "chia",
+        "id": "sns.sa.vi.divide.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.divide.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.divide-verb",
+          "res.sa.aud.divide-verb",
+          "res.sa.lnk.divide-verb",
+          "res.sa.vid.divide-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Undo multiplication by the same non-zero number on both sides.",
+        "exampleIds": [
+          "exm.sa.en.divide.verb.1.1"
+        ],
+        "gloss": "Undo multiplication by the same non-zero number on both sides.",
+        "id": "sns.sa.en.divide-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.divide.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.divide.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Divide both sides by 2 to isolate x.",
+        "translation": "Chia cả hai vế cho 2 để cô lập x.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.divide.verb.1",
+        "id": "lnk.sa.en.glossary.037",
+        "kind": "relation",
+        "toId": "sns.sa.vi.isolate.verb.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.divide.verb.1",
+        "id": "lnk.sa.en.glossary.038",
+        "kind": "relation",
+        "toId": "sns.sa.vi.sides.noun.1",
+        "type": "related_to"
+      }
+    ],
+    "b23a6a8439c0dde5515893e7c90c1e3233b8616e634470f20dc4928bcf3609bc": [
+      {
+        "forms": [
+          "unknown",
+          "unknowns"
+        ],
+        "id": "lex.sa.en.unknown.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "unknown",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.unknown.noun",
+          "prn.sa.en.unknown.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.unknown.noun.1",
+          "sns.sa.en.unknown-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.unknown-noun",
+        "id": "prn.sa.en.unknown.noun",
+        "ipa": "/ˌʌnˈnəʊn/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.unknown.noun.us",
+        "ipa": "/ʌnˈnoʊn/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Giá trị chưa biết cần tìm trong phương trình.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.unknown.noun.1.1",
+          "exm.sa.en.unknown-noun.more.01",
+          "exm.sa.en.unknown-noun.more.02"
+        ],
+        "gloss": "ẩn số",
+        "id": "sns.sa.vi.unknown.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.unknown.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.unknown-noun",
+          "res.sa.aud.unknown-noun",
+          "res.sa.lnk.unknown-noun",
+          "res.sa.vid.unknown-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "The number the variable stands for, before it is found.",
+        "exampleIds": [
+          "exm.sa.en.unknown.noun.1.1"
+        ],
+        "gloss": "The number the variable stands for, before it is found.",
+        "id": "sns.sa.en.unknown-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.unknown.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.unknown.noun.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A linear equation in one unknown has one solution.",
+        "translation": "Phương trình tuyến tính một ẩn có một nghiệm.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.unknown.noun.1",
+        "id": "lnk.sa.en.glossary.052",
+        "kind": "relation",
+        "toId": "sns.sa.vi.variable.noun.1",
+        "type": "related_to"
+      },
+      {
+        "forms": [
+          "unknown"
+        ],
+        "id": "lex.sa.en.unknown.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "unknown",
+        "pos": "adjective",
+        "pronunciationIds": [
+          "prn.sa.en.unknown.adjective",
+          "prn.sa.en.unknown.adjective.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.unknown.adjective.1",
+          "sns.sa.en.unknown-adjective.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.unknown-adjective",
+        "id": "prn.sa.en.unknown.adjective",
+        "ipa": "/ˌʌnˈnəʊn/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.unknown.adjective.us",
+        "ipa": "/ʌnˈnoʊn/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Chưa được xác định.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sa.en.unknown.adjective.1.1",
+          "exm.sa.en.unknown-adjective.more.01",
+          "exm.sa.en.unknown-adjective.more.02"
+        ],
+        "gloss": "chưa biết",
+        "id": "sns.sa.vi.unknown.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.unknown.adjective",
+        "pos": "adjective",
+        "resourceIds": [
+          "res.sa.img.unknown-adjective",
+          "res.sa.aud.unknown-adjective",
+          "res.sa.lnk.unknown-adjective",
+          "res.sa.vid.unknown-adjective"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Not known yet; not yet worked out.",
+        "exampleIds": [
+          "exm.sa.en.unknown.adjective.1.1"
+        ],
+        "gloss": "Not known yet; not yet worked out.",
+        "id": "sns.sa.en.unknown-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.unknown.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.unknown.adjective.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The unknown quantity is x.",
+        "translation": "Đại lượng chưa biết là x.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.vid.unknown-adjective",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "unknown clip",
+        "type": "video"
+      }
+    ],
+    "b2dd9c5c30ae70ad4a112ea7961e127a4e575bda47eda91efee0dcf1ddeea8f4": [
+      {
+        "forms": [
+          "reappraisal",
+          "er_reappraisal"
+        ],
+        "id": "lex.sa.social.er_reappraisal",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "reappraisal",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.er_reappraisal.alt",
+          "sns.sa.social.er_reappraisal.alt.ja",
+          "sns.sa.social.er_reappraisal.alt.ko",
+          "sns.sa.social.er_reappraisal.alt.pt_br",
+          "sns.sa.social.er_reappraisal.alt.id",
+          "sns.sa.social.er_reappraisal.alt.th",
+          "sns.sa.social.er_reappraisal.alt.tr"
+        ]
+      },
+      {
+        "definition": "Changing the story you tell about an event so that the feeling loses its grip.",
+        "exampleIds": [
+          "exm.sa.social.er_reappraisal.1.1"
+        ],
+        "gloss": "Changing the story you tell about an event so that the feeling loses its grip.",
+        "id": "sns.sa.social.er_reappraisal.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.er_reappraisal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "目の前の出来事を別の意味づけで語り直すことで、感情に支配されなくなる過程をいう。事実そのものを否定するのではなく、物語の書き換えを指す。",
+        "exampleIds": [
+          "exm.sa.social.er_reappraisal.1.1.ja"
+        ],
+        "gloss": "同じ出来事の言い方を変えて、感情の力を弱めること。",
+        "id": "sns.sa.social.er_reappraisal.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.er_reappraisal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 사건에 대해 telling the story you tell about an event so that the feeling loses its grip.",
+        "exampleIds": [
+          "exm.sa.social.er_reappraisal.1.1.ko"
+        ],
+        "gloss": "어떤 사건에 대해 Telling the story you tell about an event so that the feeling loses its grip.",
+        "id": "sns.sa.social.er_reappraisal.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.er_reappraisal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O processo de mudar a história que se conta sobre um evento, deixando de lado a leitura que alimenta uma reação emocional intensa. Não é negar o que aconteceu, mas reinterpretá-lo.",
+        "exampleIds": [
+          "exm.sa.social.er_reappraisal.1.1.pt_br"
+        ],
+        "gloss": "Mudar a interpretação de um evento para enfraquecer o sentimento associado a ele.",
+        "id": "sns.sa.social.er_reappraisal.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.er_reappraisal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Perubahan cara memahami atau Bloody terhadap suatu peristiwa sehingga emosi yang menyertainya tidak lagiBegitu kuat. Kata ini sering digunakan untuk menunjukkan bahwa seseorang melihat kembali suatu pengalaman dari sudut pandang yang berbeda.",
+        "exampleIds": [
+          "exm.sa.social.er_reappraisal.1.1.id"
+        ],
+        "gloss": "Perubahan sudut pandang terhadap suatu peristiwa sehingga perasaannya tidak lagi dominates.",
+        "id": "sns.sa.social.er_reappraisal.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.er_reappraisal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การเปลี่ยนวิธีเล่าเหตุการณ์หรือมุมมองต่อเหตุการณ์เพื่อให้อารมณ์ไม่ครอบครองตัวเราอีกต่อไป ไม่ใช่เพียงเปลี่ยนความคิดเห็นทั่วไป",
+        "exampleIds": [
+          "exm.sa.social.er_reappraisal.1.1.th"
+        ],
+        "gloss": "การตีความเหตุการณ์ใหม่จนอารมณ์ที่เกาะติดลดลง",
+        "id": "sns.sa.social.er_reappraisal.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.er_reappraisal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yaşanan bir olayın anlatısını değiştirerek ona ilişkin duyguyu yeniden değerlendirmek. Böylece duygu o kadar güçlü biçimde etkilemez.",
+        "exampleIds": [
+          "exm.sa.social.er_reappraisal.1.1.tr"
+        ],
+        "gloss": "Bir olayı yeniden yorumlayarak duygusunun üzerindeki hâkimiyeti gevşetmek.",
+        "id": "sns.sa.social.er_reappraisal.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.er_reappraisal",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.er_reappraisal.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dürüst bir yeniden değerlendirmeydi: mesaj geç gönderilmişti ve onunla ilgili değildi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.er_reappraisal.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การประเมินใหม่ของเขาอยู่บนความจริงว่าข้อความส่งช้าและไม่ได้เกี่ยวกับเธอ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.er_reappraisal.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Reappraisal-nya jujur: pesan itu terlambat terkirim, dan bukan tentang dia.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.er_reappraisal.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A reinterpretação dele foi honesta: a mensagem havia sido enviada com atraso e não falava dela.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.er_reappraisal.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "His reappraisal was honest: the message had been sent late, and it was not about her.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.er_reappraisal.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼の再評価は正直なものだった。メッセージは遅れて届いただけで、彼女のことではなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.er_reappraisal.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "His reappraisal was honest: the message had been sent late, and it was not about her.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b2f5e2e21758c5c25bdc061699f1d360475516f308aaaa3c054fb54aa1c212d4": [
+      {
+        "forms": [
+          "Jealous",
+          "jealous"
+        ],
+        "id": "lex.sa.kids_stories.jealous",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Jealous",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_stories.jealous.alt",
+          "sns.sa.kids_stories.jealous.alt.ja",
+          "sns.sa.kids_stories.jealous.alt.ko",
+          "sns.sa.kids_stories.jealous.alt.pt_br",
+          "sns.sa.kids_stories.jealous.alt.id",
+          "sns.sa.kids_stories.jealous.alt.th",
+          "sns.sa.kids_stories.jealous.alt.tr"
+        ]
+      },
+      {
+        "definition": "The sad feeling you get when someone else has something you want. It is a feeling, not a plan.",
+        "exampleIds": [
+          "exm.sa.kids_stories.jealous.1.1"
+        ],
+        "gloss": "The sad feeling you get when someone else has something you want. It is a feeling, not a plan.",
+        "id": "sns.sa.kids_stories.jealous.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_stories.jealous",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自分の欲しいものを他人が持っていると、羨ましさや寂しさを感じる気分です。行動や計画ではなく、ponguent Diagnosis気持ちCompetitorを表します。",
+        "exampleIds": [
+          "exm.sa.kids_stories.jealous.1.1.ja"
+        ],
+        "gloss": "他人が持っているものをうやましく感じる気持ち。",
+        "id": "sns.sa.kids_stories.jealous.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_stories.jealous",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "질투는 다른 사람이 원하는 물건이나 행복을 누리는的样子에서 들 수 있는 감정이다. 단순히 물건이나 행동을 원한다는 뜻은 아니다.",
+        "exampleIds": [
+          "exm.sa.kids_stories.jealous.1.1.ko"
+        ],
+        "gloss": "남이 가진 것을 원할 때 슬퍼서 드는 감정이다.",
+        "id": "sns.sa.kids_stories.jealous.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_stories.jealous",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É a sensação triste de querer algo que pertence a outra pessoa; não é uma decisão ou um plano de ação.",
+        "exampleIds": [
+          "exm.sa.kids_stories.jealous.1.1.pt_br"
+        ],
+        "gloss": "O sentimento de ciúme diante do que outra pessoa possui.",
+        "id": "sns.sa.kids_stories.jealous.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_stories.jealous",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam konteks ini, kata ini menyatakan perasaan sedih atau kesal ketika orang lain memiliki sesuatu yang kita inginkan. Kata ini menggambarkan perasaan, bukan tindakan atau rencana.",
+        "exampleIds": [
+          "exm.sa.kids_stories.jealous.1.1.id"
+        ],
+        "gloss": "Cemburu karena orang lain memiliki sesuatu yang Anda inginkan.",
+        "id": "sns.sa.kids_stories.jealous.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_stories.jealous",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความรู้สึกเศร้าหรือไม่พอใจเมื่อเห็นว่าผู้อื่นมีสิ่งที่ตนต้องการ เป็นความรู้สึก ไม่ใช่แผนการกระทำ",
+        "exampleIds": [
+          "exm.sa.kids_stories.jealous.1.1.th"
+        ],
+        "gloss": "ความอิจฉาที่เกิดจากอยากได้สิ่งของผู้อื่น",
+        "id": "sns.sa.kids_stories.jealous.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_stories.jealous",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kıskanç olmak, başkasının sahip olduğu bir şeyi istemek ve bundan üzülmektir. Bu, bir eylem veya plan değil, bir duygudur.",
+        "exampleIds": [
+          "exm.sa.kids_stories.jealous.1.1.tr"
+        ],
+        "gloss": "Başkasının istediğiniz bir şeye sahip olmasıyla oluşan üzüntülü duygu.",
+        "id": "sns.sa.kids_stories.jealous.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_stories.jealous",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_stories.jealous.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bo was jealous of Foxy's warm coat.",
+        "translation": "Fey'in sıcak ceketini gören Beren çok kıskançtı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_stories.jealous.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bo was jealous of Foxy's warm coat.",
+        "translation": "โบรู้สึกอิจฉาเสื้อคลุมที่อุ่นของฟ็อกซี",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_stories.jealous.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bo was jealous of Foxy's warm coat.",
+        "translation": "Bo merasa cemburu dengan mantel Foxy yang hangat.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_stories.jealous.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bo was jealous of Foxy's warm coat.",
+        "translation": "Bo estava com ciúme do casaco quente de Foxy.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_stories.jealous.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bo was jealous of Foxy's warm coat.",
+        "translation": "누나가 따뜻한 외투를 입는 것을 보고 질투가났다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_stories.jealous.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bo was jealous of Foxy's warm coat.",
+        "translation": "ボはフォキシの温かいコートをねやんでいました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_stories.jealous.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Bo was jealous of Foxy's warm coat.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

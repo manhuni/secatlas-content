@@ -1,0 +1,215 @@
+{
+  "language": "id",
+  "lessonId": "article_abs_braking",
+  "objectives": [
+    "Jelaskan cara kerja sistem pengereman rem anti-lock (ABS) dan fungsi komponen-komponennya.",
+    "Sebutkan istilah pengereman: jarak pengereman, traksi, kunci roda, pengereman ambang, dan pelonggaran daya rem.",
+    "Jelaskan di mana ABS tidak membantu, dan mengapa permukaan menentukan jawabannya.",
+    "Bandingkan rem titik, rem progresif, rem mesin, dan pengereman dengan ABS.",
+    "Gunakan cara pengereman yang tepat pada permukaan keras, tanah longgar, dan es.",
+    "Ikuti langkah pengereman dengan baik di mobil yang dilengkapi ABS dan mobil tanpa ABS.",
+    "Katakan apa yang harus dilakukan ketika lampu peringatan ABS menyala."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Rem anti-lock adalah sistem pada rem mobil. Iniazan roda dan membuatnya terus berputar ketika pengereman EVERITEK518 cukup kuat untuk mengunci salah satu rodanya. Roda yang terkunci tergelincir: ban meluncur alih-alih mencengkeram permukaan, mobil tidak melambat sebaik mungkin, dan kemudi menjadi tidak responsif. Dengan rem antiblok, roda tetap berputar sehingga pengemudi dapat-steer mobil melewati rintangan selambat mobil melambat.\n\nLima kata membawa subjek. **Jarak pengereman** adalah jarak yang ditempuh mobil sejak driver menyentuh rem hingga mobil berhenti. **Traksi** adalah cengkeraman antara ban dan jalan, dan itulah yang mengubah kecepatan mobil menjadi berhenti. **Penguncian** adalah momen ketika roda berhenti berputar sementara mobil masih bergerak. **Pengereman ambang** adalah cara driver's sendiri dalam mengerem pada batas maksimum, tepat sebelum terkunci, dengan menekan dan melepaskan pedal. **Brake fade** adalah kehilangan daya pengereman ketika rem menjadi panas, sehingga pedal rem terasa empuk dan mobil membutuhkan waktu lebih lama untuk berhenti.\n\nYang tidak dilakukan oleh sistem adalah memperpendek jarak pengereman pada setiap permukaan. Di jalan yang rata, sistem anti-lock biasanya menghentikan mobil dalam jarak yang lebih pendek daripada jika roda terkunci. Di atas kerikil longgar, pasir, lumpur, salju, atau daun, roda yang terkunci dapat menggali permukaan dan menghasilkan berhenti yang lebih singkat, sedangkan sistem yang bersikapse terus membuat roda berputar dapat meninggalkan mobil melaju lebih jauh daripada yang diharapkan pengemudi.\n\nSistem ini dikembangkan untuk menjaga roda tetap berputar sehingga pengemudi dapat mengendarai. Itulah seluruhnya. Ini bukan jaminan bahwa mobil selalu berhenti dalam jarak yang sama, dan mobil tidak pernah memberi driver lebih banyak cengkeraman daripada yang tersedia di jalan.",
+      "examples": [
+        "Sistem anti-lock menjaga roda tetap berputar, sehingga saya dapat kemudi mobil sambil melambat.",
+        "Jarak pengereman adalah jarak dari pedal hingga berhenti; waktu sebelum itu disebut waktu reaksi.",
+        "Di jalan kerikil, roda yang terkunci justru bisa membuat kendaraan berhenti lebih cepat, sehingga saya melonggarkan rem di sana.",
+        "Rem panas menjadi lunak, dan pedal terasa empuk."
+      ],
+      "heading": "Apa itu rem anti-lock, dan apa yang bukan",
+      "terms": [
+        {
+          "example": "Mobil ini memiliki sistem pengereman anti-lock, jadi saya menekan pedal dan menahannya.",
+          "gloss": "Sistem pada rem yang menjaga roda tetap berputar saat pengemudi pengerem keras, sehingga mobil tetap dapat dikendalikan."
+        },
+        {
+          "example": "Di jalan basah, jarak pengereman lebih panjang daripada di jalan kering.",
+          "gloss": "Jarak yang ditempuh mobil sejakdriver menyentuh rem hingga mobil berhenti."
+        },
+        {
+          "example": "Ada sedikit cengkeraman di es, sehingga mobil meluncur meskipun dengan kecepatan rendah.",
+          "gloss": "Cengkeraman antara ban dan permukaan jalan, dan itulah yang mengubah kecepatan mobil menjadi berhenti."
+        },
+        {
+          "example": "Roda depan terkunci dan kemudi terasa ringan.",
+          "gloss": "Momen ketika roda berhenti berputar sementara mobil masih bergerak."
+        },
+        {
+          "example": "Tanpa ABS, driver's brake harus menggunakan pengereman berbasis ambang batas.",
+          "gloss": "Mengerem pada batas cengkeraman dengan menekan dan melepaskan pedal sebelum roda terkunci."
+        },
+        {
+          "example": "Setelah turun jauh, rem terasa pudar dan pedal terasa lemah.",
+          "gloss": "Kehilangan daya rem ketika rem sudah panas, sehingga pedal rem terasa lembek."
+        }
+      ]
+    },
+    {
+      "body": "Empat bagian melakukan pekerjaan tersebut: sensor pada setiap roda, unit kendali, modulator, dan rem itu sendiri. **Sensor** adalah bagian kecil pada setiap roda yang melaporkan seberapa cepat roda itu berputar. Unit **pengendali** membandingkan rotasi keempat roda satu sama lain, dan membandingkannya dengan kecepatan mobil. Ketika satu roda berputar jauh lebih lambat daripada roda lainnya sementara mobil masih bergerak, roda tersebut sedang dalam proses mengunci.\n\nUnit kendali kemudian memberi tahu **modulator** untuk mengubah tekanan rem pada roda tersebut. Tekanan dapat dikurangi, sehingga roda berputar kembali, tertahan, sehingga roda tetap tepat pada batas penguncian, atau$dinaikkan, sehingga rem mengambil lebih banyak kerja. Modulator melakukan ini berulang kali, banyak kali dalam satu detik, dan driver tidak pernah melihatnya.\n\nRem tidak pernah dimatikan. Inilah titik yang sering misunderstood: sistem mengelola tekanan, sistem tersebut tidak menghilangkan rem. Pedal tetap tertekan, rem tetap aktif, dan sistem terus membuat roda berputar di dalam rem yang sedang ditekan. Karena itu,SangSopir harus menjaga pedal tetap ditekan dengan kuat dan menjaga kemudi tetap stabil.\n\nPedal memberi tahutrm kepada pengemudi apa yang terjadi. Dalam pengereman mendadak dengan sistem berfungsi, pedal berdenyut di bawah kaki. denyut itu adalah modulator yang mengubah tekanan. Itu bukan kesalahan, dan bukan alasan untuk melepaskan pedal.",
+      "examples": [
+        "Sensor pada setiap roda melaporkan putaran, dan unit kontrol membandingkan satu sama lain.",
+        "Modulator mengurangi tekanan pada roda yang hendak mengunci.",
+        "Rem tetap terpasang: sistem mengelola tekanan, tetapi tidak mematikan rem."
+      ],
+      "heading": "Cara sistem menentukan kekuatan pengereman",
+      "terms": [
+        {
+          "example": "Sensor yang rusak pada salah satu roda dapat mematikan ABS.",
+          "gloss": "Bagian kecil pada setiap roda yang menunjukkan seberapa cepat roda itu berputar."
+        },
+        {
+          "example": "Modulator menahan tekanan pada roda yang akan segera terkunci.",
+          "gloss": "Bagian rem yang mengubah tekanan rem pada roda ketika sistem memintainya untuk melakukannya."
+        }
+      ]
+    },
+    {
+      "body": "Sistem rem antiblok adalah sistem untuk permukaan yang keras (kering dan rata). Pada kerikil longgar, pasir, lumpur, salju, dan daun kering, material di bawah ban bergerak dan ban terbenam ke dalamnya. Rod-roda yang terkunci menggemburkan material lepas dan menggali parit, dan pada permukaan seperti ini, roda tersebut dapat menghentikan mobil dalam jarak yang lebih pendek daripada roda yang terus berputar, sehingga sistem dapat membuat mobil melaju lebih jauh daripada yang diharapkan pengemudi. Ban yang rusak juga mengubah jawabannya: ban dengan belahan dalam, tonjolan, atau goresan pada dinding samping dapat kehilangan cengkeramannya atau terpisah saat menahan beban, sedangkan ban yang kurang tekanan tidak dapat membuat seluruh alurnya menyentuh jalan. Sistem tidak dapat memperbaiki ban; sistem mengatur tekanan rem di sekitar apa pun yang sedang dilakukan ban.\n\nDi es, pembatasannya adalah gesekan antara ban dan jalan, bukan sistem pengereman. Ba roda yang terkunci maupun roda yang berputar hanya dapat meminta es untuk apa yang ada pada es. Rem antiblok membantu Sang pengemudi mempertahankan kendali, dan tidak menambah cengkeraman yang tidak ada.\n\nSepeda motor adalah mesin yang berbeda. Rem depan menanggung lebih banyak beban, keseimbangan penunggang penting, dan teknik bersepeda tidak sama dengan teknik/drive mobil. Beberapa sepeda motor memiliki pengereman antiblok dan sebagian lainnya tidak; bagi pengendaranya, jawabannya adalah pelatihan dan buku panduan kendaraan.\n\nTurun panjang adalah masalah panas. Rem melambatkan mobil dengan mengubah gerakan menjadi panas, dan panas yang tertahan di dalam rem tidak punya tempat untuk pergi. Ketika rem terlalu panas, gaya gesekannya berkurang dan pedal menjadi lembut: ini disebut rem fade. Mesin dan transmisi dapat memperlambat mobil tanpa panas ini, dan rem tangan menahan mobil di lereng. PengSopir yang ABS menghentikan mobil dalam segala kondisi akan/rem terlalu lambat, karena sistem tidak melakukan apa pun terhadap rem yang panas.",
+      "examples": [
+        "Pada kerikil longgar, roda yang terkunci menggali ke dalam permukaan, sehingga ABS tidak selalu merupakan berhenti yang lebih singkat.",
+        "Di atas es, pembatasnya adalah gesekan, bukan sistem pengereman.",
+        "Ban yangteilung dalam adalah alasan untuk mengganti ban, bukan untuk mengandalkan ABS.",
+        "Pada turunan panjang saya menggunakan gigi rendah, karena rem yang panas(DEFAULT) akan kehilangan efektivitasnya."
+      ],
+      "heading": "Di mana ABS tidak membantu",
+      "terms": [
+        {
+          "example": "Permukaan jalan consisting of kerikil lepas, sehingga roda yang terkunci merupakan perhentian yang lebih singkat.",
+          "gloss": "Material di bawah ban: aspal, beton, kerikil, pasir, lumpur, salju, es, atau daun kering."
+        }
+      ]
+    },
+    {
+      "body": "Lima metode pengereman digunakan dalam-driving biasa, dan masing-masing mengatasi masalah yang berbeda. Rem Threshold dan sistem anti-lock sama-sama endeavor menjaga roda tetap berputar pada batas daya cengkeram; perbedaan terletak pada keduanya: satu dilakukan oleh pengemudi, sedangkan yang lain oleh sistem. Rem progresif menuntut menghentikan yang halus dan awal. Rem mesin pada gigi rendah mendorong mesin dan transmisi untuk memperlambat mobil. Pada turunan, metode kelima menggabungkan mesin dan rem sehingga rem tetap dingin.\n\nKolom yang paling penting bagi pengandar adalah kolom terakhir. Setiap metode memiliki permukaan di mana metode itu lemah, dan permukaan di depan mobil menentukan metode mana yang harus digunakan. Metode yang bagus di jalan kering belum tentu bagus di jalan kerikil atau di atas es, dan tidak ada metode yang bagus di setiap permukaan.\n\nSopir yang memahami tabel ini tidak memilih metode berdasarkan kebiasaan. Pengipage memeriksa permukaan jalan, ban, dan beban mobil, lalu memilih. Buku panduan mobil itu menyebutkan apa yang dapat ditanggung rem pada model tersebut.",
+      "examples": [
+        "Rem berbentuk threshold merupakan versi alamiAPH yang dilakukan sendiri oleh pengemudi, seperti apa yang dilakukan ABS secara otomatis.",
+        "Saya menggunakan pengereman progresif dalam lalu lintas, karena berhenti secara halus dan ban tetap tergulir.",
+        "Saat menuruni, saya menggunakan gigi rendah sehingga rem tidak cepat habis.",
+        "Setiap metode memiliki bidang weaknesses."
+      ],
+      "heading": "Metode pengereman berdampingan",
+      "table": {
+        "headers": [
+          "Method",
+          "How it is done",
+          "Where it is strong",
+          "Where it is weak"
+        ],
+        "rows": [
+          [
+            "Threshold braking (stamping) is braking at the limit of grip.",
+            "The driver presses the pedal hard and releases it as soon as the wheel starts to lock.",
+            "It keeps the wheel turning on a firm surface in a car without ABS, and it keeps the steering alive.",
+            "It needs the right timing, and on a loose surface it is easy to lock the wheel and lose the steering."
+          ],
+          [
+            "Anti-lock braking (ABS) is the system that manages the brake pressure.",
+            "The driver keeps the pedal down and the system reduces, holds or raises the brake pressure by itself.",
+            "It is strong on a firm or slippery surface, because it stops the wheel from locking without the driver having to guess.",
+            "It is weak on loose gravel, sand, mud, snow and leaves, where a locked wheel can be the shorter stop."
+          ],
+          [
+            "Progressive braking is a smooth and early stop.",
+            "The driver increases the pressure on the pedal steadily, without a sudden push.",
+            "It is strong in normal traffic and in rain, where it gives a smooth stop and keeps the tyres rolling.",
+            "It is weak in an emergency, because it takes too long to reach the full pressure."
+          ],
+          [
+            "Engine braking with a low gear is slowing the car with the engine.",
+            "The driver selects a low gear and lets the engine slow the car with the accelerator closed.",
+            "It is strong on a long descent, because it takes the heat out of the brakes.",
+            "It cannot stop the car quickly, and it does almost nothing at a low speed."
+          ],
+          [
+            "Braking on a descent with the engine is the way down a long hill.",
+            "The driver chooses a low gear before the descent, lets the engine hold the speed and uses the brake in short pushes.",
+            "It is strong on a long, steep descent, because it keeps the brakes from overheating and fading.",
+            "On a short descent it is unnecessary, and it takes attention and a low gear."
+          ]
+        ]
+      },
+      "terms": [
+        {
+          "example": "Dalam lalu lintas padat, ia menggunakan pengereman bertahap dan berhenti dengan halus.",
+          "gloss": "Menerapkan rem dengan tekanan yang secara konsisten meningkat alih-alih satu tekanan mendadak."
+        },
+        {
+          "example": "Pada turunan panjang, ia menggunakan rem mesin dan rem tetap dingin.",
+          "gloss": "Mengerem mobil dengan mesin dan transmisi, bukan dengan pedal rem."
+        }
+      ]
+    },
+    {
+      "body": "Mengerem dengan baik adalah kebiasaan melihat ke depan, bukan respons spontan di menit terakhir. Jarak yang dibutuhkan mobil bergantung pada kecepatan, permukaan jalan, ban, beban mobil, dan waktu yang dibutuhkan tubuh pengemudi untuk bereaksi. Jalan basah, jalan yang tertutup kerikil, dan jalan yang berlapis es masing-masing membutuhkan jarak lebih jauh daripada jalan kering dan bersih. Sopir yang mengetahui hal ini menyisakan jarak yang bisa menyerap kesalahan.\n\nPada mobil yang dilengkapi rem anti-lock, tekniknya sederhana, dan merupakan teknik yang membutuhkan komitmen: tekan pedal dan terus tekan. Sistem ini berperan secara halus dalam tidak mengunci roda. Hal yang paling penting untuk tidak dilakukangendearelddriver adalah memompa pedal, karena setiap kali pedal dilepaskan, sistem memberi tahu untuk membiarkan roda berputar dan menurunkan tekanan.\n\nPada mobil tanpa sistem pengeremanABS, pengemudi melakukan pekerjaan bagus itu sebagai gantinya. Sinyal ada di pedal: ketika pedal mulai mati, roda hampir terkunci, dan pelepasan kecil membuatnya kembali aktif. Langkah-langkah di bawah ini diakhiri dengan gerakan tersebut sehingga pembaca dapat menggunakan daftar yang sama untuk kedua mobil.",
+      "examples": [
+        "Saya menjaga jarak dengan mobil di depan agar saya bisa berhenti di jalan yang bisa saya lihat.",
+        "Saya menekan pedal dan menahannya; saya tidak memompanya.",
+        "Pedalnya mulai mati, jadi saya melepaskannya sedikit dan menekan lagi.",
+        "Saya kemudikan mengelilingi rintangan itu sambil mobil masih melambat."
+      ],
+      "heading": "Cara mengerem dengan baik pada mobil dengan ABS",
+      "steps": [
+        "Pertahankan jarak dari mobil di depan agar Anda dapat berhenti dalam batas jalan yang terlihat.",
+        "Lihat ke depan dan tentukan di mana perhentian akan terjadi, sebelum bahaya menghampiri Anda.",
+        "Tekan pedal dengan kuat dan terus menahannya.",
+        "Jangan sendiri memompa pedal; tahan pedal itu dan biarkan sistem bekerja.",
+        "Beloklah menghindari rintangan saat mobil sedang melambat, dan tetaplah menekan pedal.",
+        "Setelah mobil berhenti, biarkan pedal naik dan periksa jalan serta lalu lintas sebelum Anda bergerak.",
+        "Pada mobil tanpa ABS, tekan pedal dan, jika mulai terasa tidak responsif, lepaskan sedikit lalu tekan kembali."
+      ],
+      "terms": [
+        {
+          "example": "Waktu reaksi pengemudi merupakan bagian dari jarak yang ditempuh mobil sebelum rem bekerja.",
+          "gloss": "Waktu antara melihat bahaya dan depressing rem."
+        }
+      ]
+    },
+    {
+      "body": "Rem tangan masih punya tugas. Di atas es atau kerikil longgar, pengemudi yang perlu memutar mobil tajam dapat menarik rem tangan untuk mengunci roda belakang dan membiarkan mobil berputar. Di atas kerikil, roda yang terkunci menggali permukaan dan mobil melambat. Ini adalah teknik yang perlu dilatih, dan ini bukan pengganti ban yang baik serta celah yang cukup.\n\nDalam turunan panjang, rem mesin adalah cara teraman untuk mengurangi kecepatan karena mesin dan transmisi menahan mobil serta rem tetap tidak panas. Rem tangan juga merupakan pilihan terakhir ketika pedal rem tidak berfungsi: mobil masih bisa dihentikan, meskipun perlahan.\n\nDua hal menentukan apa yang benar: manual mobil dan jalan. Manual tersebut menjelaskan fungsi rem tangan dan kotak gigi pada model itu. Jalan itu menunjukkan beban yang dapat ditahan oleh permukaannya. Pelatihan lebih penting daripada lencana di setir. Seorang pengemudi yang telah berlatih menggunakan suatu teknik akanxsdalam menggunakannya, sedangkan seorang pengemudi yang hanya membaca lencana tidak akanxdalam menggunakannya.",
+      "examples": [
+        "Di atas es, saya menekan rem tangan untuk mengunci roda belakang.",
+        "Pada turunan panjang saya menggunakan gigi rendah, sehingga rem tidak memanas.",
+        "Jika pedal tidak berfungsi, rem tangan adalah pilihan terakhir.",
+        "Manual mobil dan jalan yang menentukan, bukan lencana di(setir) roda."
+      ],
+      "heading": "Apa yang masih berguna dari metode-metode lama",
+      "terms": [
+        {
+          "example": "Dia menarik tuas rem tangan untuk mengunci roda belakang di atas es.",
+          "gloss": "Tuas di sebelah tempat duduk pengemudi yang menahan mobil agar tidak bergerak; alat ini juga disebut rem tangan."
+        }
+      ]
+    },
+    {
+      "body": "Sebagian besar yang dibutuhkan pengemudi dalam perdagangan ini adalah bahasa jalan dan bahasa bengkel. Uraikan tindakan mobil tersebut, jelaskan perasaan pedalnya, dan sampaikan hal yang ingin Anda periksa. Jangan diagnosis sendiri kelainannya; jelaskan gejalanya dan biarkan mekanik menentukan penyebabnya.\n\nInstruktur mengzemahi perlu tahu apa yang Anda rasakan dan di mana. Seorang rekan kerja membutuhkan aturan dan alasan tersebut. seorang mekanik membutuhkan gejala dalam urutan kejadian, serta kebISINGan, bau, atau lampu peringatan yang menyertainya.",
+      "examples": [
+        "Ketika saya pengerem dengan kuat, pedal mulai berdenyut di bawah kaki saya. Apakah itu normal?",
+        "Lampu ABS menyala kemarin. Mobil masih bisa berhenti, tetapi saya menjaga jarak yang lebih jauh.",
+        "Di jalan kerikil, saya mengerem dengan melepaskan pedal, karena roda yang terkunci terjebak di dalamnya.",
+        "Apakah saya harus menginjak pedal mobil ini dengan kuat, atau mobil ini sudah dilengkapi ABS?",
+        "Pedal terasa ringan saat turunan panjang. Saya kira remnya mulai kehilangan daya.",
+        "Saya merasakan pedal mati tepat sebelum roda terkunci, jadi saya melepaskannya dan menekan lagi.",
+        "Apakah rem depan atau rem belakang yang terkunci lebih dahulu saat saya berhenti?",
+        "Instruktur saya menyuruh saya untuk melihat lebih jauh ke depan dan mengerem lebih awal di jalan basah."
+      ],
+      "heading": "Kalimat yang dapat Anda gunakan"
+    },
+    {
+      "body": "Lampu peringatan ABS di dasbor mengatakan satu hal: sistem pengereman anti-lock tidak berfungsi sebagaimana mestinya. Kesalahannya bisa berada pada sensor, pada sirkuit kabel, atau pada unit kendali. Lampu tersebut tidak berarti bahwa mobil itu tidak mempunyai rem, dan tidak berarti bahwa mobil itu tidak dapat dikendarai.\n\nRem biasa masih berfungsi. Pedal masih berfungsi untuk mengerem, dan mobil tetap berhenti. Yang hilang dari pengemudi adalah bantuan yang menjaga roda agar tidak terkunci, sehingga mobil dapat diarahkan melewati rintangan sambil melambat. Pada beberapa mobil, alat bantu rem lainnya juga dinonaktifkan saat lampu menyala, dan pedal dapat terasa berbeda. Manual mobil itu menyebutkan apa yang terjadi pada model tersebut.\n\nSopir harus mengubah cara mengendarai mobil. Jarak ke mobil di depan harus lebih besar, dan pengereman harus dimulai lebih awal serta dilakukan dengan lebih halus, karena pengemudi mungkin harus melepaskan pedal dan menekan kembali secara manual ketika roda mulai terkunci. Kecepatan di jalan basah harus diturunkan. Mobil harus dipesan untuk pemeriksaan, dan pemeriksaan dilakukan sebelum perjalanan jauh.\n\nAda dua hal yang salah: mengabaikan lampu dan berperilaku seolah sistemnya masih berfungsi, serta mempertahankan kecepatan biasa di jalan basah ketika mobil tidak lagi dapat dikendalikan untuk menghindari bahaya. Mobil dengan lampu menyala tetap merupakan mobil yang berhenti, tetapi mobil tersebut membutuhkan bengkel dan jarak yang lebih jauh.",
+      "examples": [
+        "Lampu ABS menyala, jadi saya telah memesan mobil untuk diperiksa dan saya sedang menjaga jarak yang lebih jauh.",
+        "Mobil masih pengeremnya bekerja secara normal; sistem yang mencegah roda terkunci adalah komponen yang mengalami kegagalan.",
+        "Saya mengerem lebih awal dan lebih perlahan hingga mobil diperiksa.",
+        "Saya tidak mengabaikan lampu lalu lintas, dan saya tidak-driving di jalan raya yang basah dengan kecepatan seperti biasa."
+      ],
+      "heading": "Apa yang harus dilakukan ketika lampu peringatan ABS menyala"
+    }
+  ],
+  "summary": "Sistem pengereman anti-lock sering dianggap sebagai janji bahwa mobil akan selalu berhenti dalam jarak yang sama. Padahal tidak demikian. Setelah membaca ini, Anda dapat menjelaskan cara kerja sistem tersebut, kapan sistem ini tidak membantu, memilih antara pengereman mendadak, pengereman bertahap, dan pengereman mesin, melakukan pengereman dengan benar baik dengan maupun tanpa ABS, serta mengatakan apa yang harus dilakukan ketika lampu peringatan menyala.",
+  "title": "ABS Bukan Kebenaran Absolut: Batas-Batas Sistem Pengereman Anti-Blokir"
+}

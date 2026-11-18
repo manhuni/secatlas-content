@@ -1,0 +1,467 @@
+{
+  "records": {
+    "6d71cfa0eb6ef3d9f795591e7eeb9f626d213c7a90682b54887914c11ead53aa": [
+      {
+        "forms": [
+          "solve",
+          "solves",
+          "solved",
+          "solving"
+        ],
+        "id": "lex.sa.en.solve.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "solve",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.solve.verb",
+          "prn.sa.en.solve.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.solve.verb.1",
+          "sns.sa.en.solve-verb.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.aud.solve-verb",
+        "id": "prn.sa.en.solve.verb",
+        "ipa": "/sɒlv/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.solve.verb.us",
+        "ipa": "/sɑːlv/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Tìm giá trị biến làm phương trình đúng.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.solve.verb.1.1",
+          "exm.sa.en.solve-verb.more.01",
+          "exm.sa.en.solve-verb.more.02",
+          "exm.sa.en.showcase.39"
+        ],
+        "gloss": "giải",
+        "id": "sns.sa.vi.solve.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.solve.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.solve-verb",
+          "res.sa.aud.solve-verb",
+          "res.sa.lnk.solve-verb",
+          "res.sa.vid.solve-verb"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Find the value of the variable.",
+        "exampleIds": [
+          "exm.sa.en.solve.verb.1.1",
+          "exm.sa.en.showcase.39"
+        ],
+        "gloss": "Find the value of the variable.",
+        "id": "sns.sa.en.solve-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.solve.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.solve.verb.1.1",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Solve for x by isolating the variable.",
+        "translation": "Giải theo x bằng cách cô lập biến.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.showcase.39",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Solve 2x + 1 = 7.",
+        "translation": "Giải 2x + 1 = 7.",
+        "translationLanguage": "vi"
+      },
+      {
+        "fromId": "sns.sa.vi.solve.verb.1",
+        "id": "lnk.sa.en.glossary.050",
+        "kind": "relation",
+        "toId": "sns.sa.vi.solution.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.vi.solve.verb.1",
+        "id": "lnk.sa.en.glossary.051",
+        "kind": "relation",
+        "toId": "sns.sa.vi.isolate.verb.1",
+        "type": "related_to"
+      }
+    ],
+    "6d75f0b5c429f0c774bd7bec3945d1a5ee609cce8ad0ff6f0930d86a0caaf176": [
+      {
+        "forms": [
+          "CV (curriculum vitae)",
+          "cv"
+        ],
+        "id": "lex.sa.work.cv",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "CV (curriculum vitae)",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.cv.alt",
+          "sns.sa.work.cv.alt.ja",
+          "sns.sa.work.cv.alt.ko",
+          "sns.sa.work.cv.alt.pt_br",
+          "sns.sa.work.cv.alt.id",
+          "sns.sa.work.cv.alt.th",
+          "sns.sa.work.cv.alt.tr"
+        ]
+      },
+      {
+        "definition": "The document that lists your education and work history. In the United States it is usually called a résumé.",
+        "exampleIds": [
+          "exm.sa.work.cv.1.1"
+        ],
+        "gloss": "The document that lists your education and work history. In the United States it is usually called a résumé.",
+        "id": "sns.sa.work.cv.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.cv",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "就職活動などでFaithfulnesscreening 用に、学历や職歴をまとめた文書です。アメリカでは通常、レジュメとも呼ばれます。",
+        "exampleIds": [
+          "exm.sa.work.cv.1.1.ja"
+        ],
+        "gloss": "学歴や職歴をまとめた履歴書。",
+        "id": "sns.sa.work.cv.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.cv",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "학력, 경력, 주요 경력과 능력을 적어求人하는 문서이다. 미국에서는 보통 이력서라고 부르며, 입사 지원서에 함께 넣는 자기소개서와는 구분된다.",
+        "exampleIds": [
+          "exm.sa.work.cv.1.1.ko"
+        ],
+        "gloss": "자신의 학력과 경력을 정리해 employer에게 제출하는 문서이다.",
+        "id": "sns.sa.work.cv.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.cv",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Documento que apresenta a formação acadêmica, os conhecimentos e a experiência de trabalho de uma pessoa, normalmente usado em uma candidatura. O termo_currículo é amplamente usado no Brasil.",
+        "exampleIds": [
+          "exm.sa.work.cv.1.1.pt_br"
+        ],
+        "gloss": "Documento queresume a formação e a experiência profissional de uma pessoa.",
+        "id": "sns.sa.work.cv.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.cv",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "CV adalah dokumen yang merangkum pendidikan, pengalaman kerja, dan keterampilan seorang pelamar. Di Amerika Serikat, istilah yang lebih umum digunakan adalah resume.",
+        "exampleIds": [
+          "exm.sa.work.cv.1.1.id"
+        ],
+        "gloss": "Dokumen yang mencantumkan riwayat pendidikan dan pekerjaan Anda.",
+        "id": "sns.sa.work.cv.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.cv",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เอกสารที่เรียงข้อมูลการศึกษา ประสบการณ์การทำงาน ทักษะ และผลงานที่เกี่ยวข้อง มักใช้สมัครงานหรือสมัครการศึกษา ในสหรัฐอเมริกามักเรียกว่า résumé",
+        "exampleIds": [
+          "exm.sa.work.cv.1.1.th"
+        ],
+        "gloss": "เอกสารประวัติการศึกษาและประสบการณ์การทำงาน",
+        "id": "sns.sa.work.cv.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.cv",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "İş başvurusunda eğitim, deneyim ve becerilerin özetlendiği belgedir. Amerika Birleşik Devletleri'nde bu belge genellikle farklı bir adla anılır.",
+        "exampleIds": [
+          "exm.sa.work.cv.1.1.tr"
+        ],
+        "gloss": "Eğitimini ve iş geçmişini listeleyen belge.",
+        "id": "sns.sa.work.cv.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.cv",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.cv.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I sent my CV and my cover letter on Monday morning.",
+        "translation": "CV'mi ve ön yazımı pazartesi sabahı gönderdim.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.cv.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I sent my CV and my cover letter on Monday morning.",
+        "translation": "ฉันส่งประวัติการศึกษาและการทำงานพร้อมจดหมายแนะนำตัวไปในวันจันทร์ตอนเช้า",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.cv.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I sent my CV and my cover letter on Monday morning.",
+        "translation": "Saya mengirim CV dan surat pengantar pada Senin pagi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.cv.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I sent my CV and my cover letter on Monday morning.",
+        "translation": "Enviei meu currículo e a carta de apresentação na segunda-feira de manhã.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.cv.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I sent my CV and my cover letter on Monday morning.",
+        "translation": "월요일 오전에 CV와 자기소개서를 보냈다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.cv.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I sent my CV and my cover letter on Monday morning.",
+        "translation": "月曜日の朝に履歴書（CV）とカバーレターを送りました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.cv.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I sent my CV and my cover letter on Monday morning.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6dc39fd19ca021e1f4bc6e71237055f5793a9392a3cf3412a8ec5b9cb1287ae2": [
+      {
+        "forms": [
+          "Launch pad",
+          "launch_pad"
+        ],
+        "id": "lex.sa.kids_adventure.launch_pad",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Launch pad",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_adventure.launch_pad.alt",
+          "sns.sa.kids_adventure.launch_pad.alt.ja",
+          "sns.sa.kids_adventure.launch_pad.alt.ko",
+          "sns.sa.kids_adventure.launch_pad.alt.pt_br",
+          "sns.sa.kids_adventure.launch_pad.alt.id",
+          "sns.sa.kids_adventure.launch_pad.alt.th",
+          "sns.sa.kids_adventure.launch_pad.alt.tr"
+        ]
+      },
+      {
+        "definition": "The platform where the rocket stands and waits before it flies.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.launch_pad.1.1"
+        ],
+        "gloss": "The platform where the rocket stands and waits before it flies.",
+        "id": "sns.sa.kids_adventure.launch_pad.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_adventure.launch_pad",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ロケット乗って出発を待つ、地上の構造物。",
+        "exampleIds": [
+          "exm.sa.kids_adventure.launch_pad.1.1.ja"
+        ],
+        "gloss": "ロケットが打ち上げられる前に立つ台。",
+        "id": "sns.sa.kids_adventure.launch_pad.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_adventure.launch_pad",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "로켓을 올려 놓고 발사를 준비하는 평지나 구조물이다.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.launch_pad.1.1.ko"
+        ],
+        "gloss": "로켓이 이륙하기 전에 놓이고 기다리는 발사대이다.",
+        "id": "sns.sa.kids_adventure.launch_pad.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_adventure.launch_pad",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estrutura onde o foguete fica antes de entrar no ar durante um lançamento.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.launch_pad.1.1.pt_br"
+        ],
+        "gloss": "Plataforma de onde um foguete é lançado.",
+        "id": "sns.sa.kids_adventure.launch_pad.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_adventure.launch_pad",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Platform khusus tempat roket ditocked danECTED sebelum launching ke luar angkasa.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.launch_pad.1.1.id"
+        ],
+        "gloss": "Platform tempat roket berada sebelum terbang.",
+        "id": "sns.sa.kids_adventure.launch_pad.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_adventure.launch_pad",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "แท่นหรือโครงสร้างที่จรวดตั้งอยู่และรอการปล่อยขึ้นสู่อวกาศ",
+        "exampleIds": [
+          "exm.sa.kids_adventure.launch_pad.1.1.th"
+        ],
+        "gloss": "ฐานปล่อยจรวดที่จรวดยืนรอการปล่อย",
+        "id": "sns.sa.kids_adventure.launch_pad.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_adventure.launch_pad",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Roketin fırlatılmadan önce durduğu ve desteklendiği platform.",
+        "exampleIds": [
+          "exm.sa.kids_adventure.launch_pad.1.1.tr"
+        ],
+        "gloss": "Roketin kalkıştan önce durduğu platform.",
+        "id": "sns.sa.kids_adventure.launch_pad.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_adventure.launch_pad",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_adventure.launch_pad.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Everybody watched from the launch pad.",
+        "translation": "Herkes fırlatma rampasından izledi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_adventure.launch_pad.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Everybody watched from the launch pad.",
+        "translation": "ทุกคนจับตาเฝ้าดูการปล่อยจรวดจากฐานปล่อย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_adventure.launch_pad.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Everybody watched from the launch pad.",
+        "translation": "Semua orang menonton dari platform peluncuran.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_adventure.launch_pad.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Everybody watched from the launch pad.",
+        "translation": "Todos assistiram ao lançamento da plataforma.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_adventure.launch_pad.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Everybody watched from the launch pad.",
+        "translation": "모든 사람들이 발사대에서 지켜보았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_adventure.launch_pad.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Everybody watched from the launch pad.",
+        "translation": "みんな発射台から眺めていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_adventure.launch_pad.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Everybody watched from the launch pad.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

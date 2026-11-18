@@ -1,0 +1,1380 @@
+{
+  "records": {
+    "b90a045e0ef7b6c88f0cf819b12d745b9b8308ca369d2cc0d124428c107dc6fa": [
+      {
+        "forms": [
+          "Attention span",
+          "attention_span"
+        ],
+        "id": "lex.sa.technology.attention_span",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Attention span",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.attention_span.alt",
+          "sns.sa.technology.attention_span.alt.ja",
+          "sns.sa.technology.attention_span.alt.ko",
+          "sns.sa.technology.attention_span.alt.pt_br",
+          "sns.sa.technology.attention_span.alt.id",
+          "sns.sa.technology.attention_span.alt.th",
+          "sns.sa.technology.attention_span.alt.tr"
+        ]
+      },
+      {
+        "definition": "The length of time you can hold focus on one task. It depends on the task and on your state, not on a fixed personal rating.",
+        "exampleIds": [
+          "exm.sa.technology.attention_span.1.1"
+        ],
+        "gloss": "The length of time you can hold focus on one task. It depends on the task and on your state, not on a fixed personal rating.",
+        "id": "sns.sa.technology.attention_span.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.attention_span",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "集中持続時間とは、一つのことに集中を保ち続ける時間の長さである。課題の内容や体調によって変わるもので、好奇心や能力のように固定された値ではない。",
+        "exampleIds": [
+          "exm.sa.technology.attention_span.1.1.ja"
+        ],
+        "gloss": "一つの作業に集中を続けるできる時間。",
+        "id": "sns.sa.technology.attention_span.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.attention_span",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사람이 한 가지 활동에 집중을 유지할 수 있는 시간을 뜻한다. 고정된个人의 능력 등급이 아니라 과업의 종류와 당시의 상태에 따라 달라진다.",
+        "exampleIds": [
+          "exm.sa.technology.attention_span.1.1.ko"
+        ],
+        "gloss": "하나의 과업에 집중을 유지할 수 있는 시간이다.",
+        "id": "sns.sa.technology.attention_span.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.attention_span",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o tempo que uma pessoa consegue sustainuar a concentração em uma atividade. Ele varia conforme a tarefa e o estado mental, e não corresponde a uma característica pessoal fixa.",
+        "exampleIds": [
+          "exm.sa.technology.attention_span.1.1.pt_br"
+        ],
+        "gloss": "Período durante o qual uma pessoa consegue manter o foco em uma só tarefa.",
+        "id": "sns.sa.technology.attention_span.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.attention_span",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rentang perhatian adalah lama waktu seseorang dapat tetap fokus pada satu tugas. Lamanya bergantung pada jenis tugas dan kondisi saat itu, bukan pada nilai pribadi yang tetap.",
+        "exampleIds": [
+          "exm.sa.technology.attention_span.1.1.id"
+        ],
+        "gloss": "Lama waktu seseorang dapat mempertahankan fokus pada satu tugas.",
+        "id": "sns.sa.technology.attention_span.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.attention_span",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความยาวเวลาที่บุคคลหนึ่งรักษาความสนใจกับงานเดียวได้ ระยะเวลานี้เปลี่ยนตามลักษณะงานและสภาพของผู้ทำ ไม่ใช่คะแนนความสนใจที่ตายตัว",
+        "exampleIds": [
+          "exm.sa.technology.attention_span.1.1.th"
+        ],
+        "gloss": "ช่วงเวลาที่คุณรักษาความสนใจอยู่กับงานเดียวได้",
+        "id": "sns.sa.technology.attention_span.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.attention_span",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin aynı iş üzerinde kesintisiz odaklanabileceği süre. Bu süre işin türüne ve kişinin o anki durumuna göre değişir; sabit bir kişisel puan değildir.",
+        "exampleIds": [
+          "exm.sa.technology.attention_span.1.1.tr"
+        ],
+        "gloss": "Tek bir göreve odaklanabilme süresi.",
+        "id": "sns.sa.technology.attention_span.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.attention_span",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.attention_span.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+        "translation": "Elektronik tabloya odaklanabiliyorum; dikkatimi dağıtan şey telefon.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.attention_span.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+        "translation": "ช่วงความสนใจของฉันกับงานสเปรดชีตยังดีอยู่ สิ่งที่ทำให้มันหลุดคือโทรศัพท์",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.attention_span.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+        "translation": "Rentang perhatian saya pada lembar kerja masih baik; gangguan dari telepon yang membuatnya terputus.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.attention_span.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+        "translation": "Meu tempo de concentração em uma planilha é suficiente; o problema é o celular.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.attention_span.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+        "translation": "스프레드시트에는 내 집중 지속 시간이 충분하지만, 휴대폰을 보면 금방 끊긴다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.attention_span.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+        "translation": "表計算に集中する時間は問題ないが、電話が鳴ると集中持続時間が途切れる。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.attention_span.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Attention span"
+        ],
+        "id": "lex.sa.mind.attention_span",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Attention span",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.attention_span.en",
+          "sns.sa.mind.attention_span.vi"
+        ]
+      },
+      {
+        "definition": "The length of time a person can stay focused on one task before the mind pulls away.",
+        "exampleIds": [],
+        "gloss": "The length of time a person can stay focused on one task before the mind pulls away.",
+        "id": "sns.sa.mind.attention_span.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.attention_span",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Khoảng thời gian một người giữ tập trung vào một việc trước khi tâm trí kéo đi chỗ khác.",
+        "id": "sns.sa.mind.attention_span.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.attention_span",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "b92495d4aa4b1c9924b6fe0848f3dfffd5b0c113ad030e5042f678bfd862e8d2": [
+      {
+        "forms": [
+          "bargaining power",
+          "dm_bargaining_power"
+        ],
+        "id": "lex.sa.social.dm_bargaining_power",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "bargaining power",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.dm_bargaining_power.alt",
+          "sns.sa.social.dm_bargaining_power.alt.ja",
+          "sns.sa.social.dm_bargaining_power.alt.ko",
+          "sns.sa.social.dm_bargaining_power.alt.pt_br",
+          "sns.sa.social.dm_bargaining_power.alt.id",
+          "sns.sa.social.dm_bargaining_power.alt.th",
+          "sns.sa.social.dm_bargaining_power.alt.tr"
+        ]
+      },
+      {
+        "definition": "The capacity to say no without losing the chance of the thing you want.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1"
+        ],
+        "gloss": "The capacity to say no without losing the chance of the thing you want.",
+        "id": "sns.sa.social.dm_bargaining_power.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "交渉で不利な条件を拒絶しても、求めるものを得る機会を失わない_versions?",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.ja"
+        ],
+        "gloss": "欲しいものを手にする機会を失うことなく、条件を受け入れられる力。",
+        "id": "sns.sa.social.dm_bargaining_power.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "거절하더라도 원하는 결과를 포기하지 않아도 되는 여지. 다른 선택이나 대안이 많을수록 강해지며, 대체 길이 없는 상황에서는 약해진다.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.ko"
+        ],
+        "gloss": "원하는 것을 잃지 않고 거절할 수 있는 힘.",
+        "id": "sns.sa.social.dm_bargaining_power.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Capacidade de negociar termos e recusar uma proposta sem abrir mão da possibilidade de obter o que se quer. Vem da existência de alternativas ou de um bom desempenho em uma área que aumenta sua atratividade.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.pt_br"
+        ],
+        "gloss": "Poder de negociação para recusar uma proposta sem perder o que se deseja.",
+        "id": "sns.sa.social.dm_bargaining_power.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kekuatan yang tersedia bagi seseorang saat bernegosiasi untuk menentukan syarat atau hasil. Daya tawar bergantung pada kekuatan alternatif yang dimiliki, bukan sekadar keinginan tinggi.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.id"
+        ],
+        "gloss": "Kemampuan menolak tanpa kehilangan peluang mendapatkan sesuatu yang diinginkan.",
+        "id": "sns.sa.social.dm_bargaining_power.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงความสามารถในการปฏิเสธข้อเสนอโดยยังมีโอกาสได้สิ่งที่ต้องการ ซึ่งช่วยเพิ่มความได้เปรียบในการเจรจา",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.th"
+        ],
+        "gloss": "อำนาจในการปฏิเสธหรือต่อรองข้อเสนอ",
+        "id": "sns.sa.social.dm_bargaining_power.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pazarlıkta taraflardan birinin taleplerini kabul ettirme veya kendi isteğini başkasına yaptırma gücü. Bu, salt direnç göstermekten farklı olarak başka seçenekleri olmasıyla güçlenir.",
+        "exampleIds": [
+          "exm.sa.social.dm_bargaining_power.1.1.tr"
+        ],
+        "gloss": "İstediği şeyi elde etme şansını kaybetmeden hayır diyebilme kapasitesi.",
+        "id": "sns.sa.social.dm_bargaining_power.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.dm_bargaining_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O hafta başka planları olduğu için pazarlık gücü daha yüksekti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "อำนาจต่อรองของเธอมาจากการมีแผนอื่นในสัปดาห์นั้น จึงปฏิเสธข้อเสนอเดิมได้โดยไม่กังวล",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Daya tawarnya berasal dari adanya rencana lain pada minggu itu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O poder de negociação da empresa aumentou após ela ter assinado outro contrato.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 주에 다른 계획이 있었기 때문에 그녀에게는 협상력이 생겼다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "その週には別の選択肢もあったため、彼女には強い交渉力があった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.dm_bargaining_power.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Her bargaining power came from having other plans that week.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b947c29f154dddfb5503f4ac4651439a8bc84200b16d2249b1a54bb9ae029a10": [
+      {
+        "forms": [
+          "Logical deduction",
+          "mathlit_deduction"
+        ],
+        "id": "lex.sa.mind.mathlit_deduction",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Logical deduction",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mathlit_deduction.alt",
+          "sns.sa.mind.mathlit_deduction.alt.ko",
+          "sns.sa.mind.mathlit_deduction.alt.pt_br",
+          "sns.sa.mind.mathlit_deduction.alt.id",
+          "sns.sa.mind.mathlit_deduction.alt.th",
+          "sns.sa.mind.mathlit_deduction.alt.tr",
+          "sns.sa.mind.mathlit_deduction.alt.ja"
+        ]
+      },
+      {
+        "definition": "The step that carries you from what is already accepted to what follows from it.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_deduction.1.1"
+        ],
+        "gloss": "The step that carries you from what is already accepted to what follows from it.",
+        "id": "sns.sa.mind.mathlit_deduction.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mathlit_deduction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "전제라고 부르는 이미 받아들인 명제에서 논리적으로 따라 나오는 결론으로 나아가는 추론이다. 결론은 주어진 전제들만으로 정당화되며, 새로운 사실이 추가될 필요가 없다.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_deduction.1.1.ko"
+        ],
+        "gloss": "이미 받아들인 명제에서 그것에 따르는 결론으로 나아가는 단계이다.",
+        "id": "sns.sa.mind.mathlit_deduction.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mathlit_deduction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Processo de concluir algo a partir de afirmações ou premissas já aceitas como verdade. A conclusão deve seguir logicamente das premissas, sem acrescentar information beyond what they support.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_deduction.1.1.pt_br"
+        ],
+        "gloss": "Etapa que leva do que já é aceito ao que daí decorre.",
+        "id": "sns.sa.mind.mathlit_deduction.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mathlit_deduction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Langkah yang membawa kita dari pernyataan yang sudah diterima ke pernyataan yang mengikutinya. Penalaran logis concluding menghasilkan konsekuensi yang harus benar jika premis-premisnya benar.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_deduction.1.1.id"
+        ],
+        "gloss": "Langkah yang membawa kita dari pernyataan yang sudah diterima ke pernyataan yang mengikutinya.",
+        "id": "sns.sa.mind.mathlit_deduction.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mathlit_deduction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ขั้นตอนที่พาจากสิ่งที่ยอมรับแล้วไปสู่สิ่งที่เป็นผลตามมาโดยใช้ตรรกะ โดยทั่วไปใช้เมื่อข้อสรุปจำเป็นต้องอาศัยข้อตั้งต้นและกฎที่รับรองแล้ว",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_deduction.1.1.th"
+        ],
+        "gloss": "ขั้นตอนที่พาจากสิ่งที่ยอมรับแล้วไปสู่สิ่งที่เป็นผลตามมา",
+        "id": "sns.sa.mind.mathlit_deduction.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mathlit_deduction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Öncüllerde kabul edilen bilgilerden yararlanarak zorunlu olarak varılan sonuca ulaşma işlemi. Sonuç, öncüllerin ötesinde ek bir varsayım olmadan elde edilir.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_deduction.1.1.tr"
+        ],
+        "gloss": "Kabul edilmiş olandan sonuçlanan sonuca geçiş adımı.",
+        "id": "sns.sa.mind.mathlit_deduction.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mathlit_deduction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "すでに受け入れられている前提から、それが必然的に従う結論へ至る推論。帰納法とは区別される。",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_deduction.1.1.ja"
+        ],
+        "gloss": "既知の前提から結論へ至る推論の過程。",
+        "id": "sns.sa.mind.mathlit_deduction.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mathlit_deduction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mathlit_deduction.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "論理的演繹により、結論は前提から従い、それ以上のものは要らない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_deduction.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Mantıksal çıkarımda sonuç, öncüllerden başka bir şeye gerek kalmadan elde edilir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_deduction.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ด้วยการอนุมานทางตรรกะ ข้อสรุปจึงตามมาจากข้อตั้งต้นโดยไม่ต้องใช้ข้อมูลอื่น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_deduction.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dengan penalaran logis, simpulan mengikuti dari premis, dan tidak diperlukan langkah lain.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_deduction.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Por dedução lógica, a conclusão decorre das premissas, sem necessidade de nenhuma outra informação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_deduction.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "논리적 귀납으로 결론은 전제들에서 따라 나오며 다른 것은 필요하지 않다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_deduction.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "By logical deduction, the conclusion follows from the premises, and nothing else is needed.",
+        "translation": "Bằng suy luận logic, kết luận là hệ quả của các tiền đề, và không cần điều gì khác.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b9493abe435378af39d142edfe9c4f110cbe8bd2980832c1fce646e750de15e4": [
+      {
+        "forms": [
+          "Grand strategy",
+          "war_grand_strategy"
+        ],
+        "id": "lex.sa.mind.war_grand_strategy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Grand strategy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_grand_strategy.alt",
+          "sns.sa.mind.war_grand_strategy.alt.ja",
+          "sns.sa.mind.war_grand_strategy.alt.ko",
+          "sns.sa.mind.war_grand_strategy.alt.pt_br",
+          "sns.sa.mind.war_grand_strategy.alt.id",
+          "sns.sa.mind.war_grand_strategy.alt.th",
+          "sns.sa.mind.war_grand_strategy.alt.tr"
+        ]
+      },
+      {
+        "definition": "Strategy at the level of a whole state: how a country uses its power over years to reach a political aim.",
+        "exampleIds": [
+          "exm.sa.mind.war_grand_strategy.1.1"
+        ],
+        "gloss": "Strategy at the level of a whole state: how a country uses its power over years to reach a political aim.",
+        "id": "sns.sa.mind.war_grand_strategy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_grand_strategy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一国全体レベルの戦略であり、長年にわたり政治的な目的へ到達するために国の力をどう用いるかを示す。個別の戦術や軍事行動より広い概念である。",
+        "exampleIds": [
+          "exm.sa.mind.war_grand_strategy.1.1.ja"
+        ],
+        "gloss": "国全体の水準で Checkerlong years reach a political aim のために国の力を用いられる戦略。",
+        "id": "sns.sa.mind.war_grand_strategy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_grand_strategy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "국가의 정치적 목표를 위해 여러 해에 걸쳐 어떤 수단으로 국력을 활용할지 정하는 장기 전략이다. 개별 전투의 방법보다 넓은 수준의 정책에 해당한다.",
+        "exampleIds": [
+          "exm.sa.mind.war_grand_strategy.1.1.ko"
+        ],
+        "gloss": "국가 전체 차원에서 수년간 권력을 활용해 정치적 목표를 추구하는 전략.",
+        "id": "sns.sa.mind.war_grand_strategy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_grand_strategy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A grande estratégia define como um país usará seu poder em longo prazo para atingir um objetivo político. Ela ocupa um nível superior ao da estratégia de uma campanha específica.",
+        "exampleIds": [
+          "exm.sa.mind.war_grand_strategy.1.1.pt_br"
+        ],
+        "gloss": "A estratégia de um Estado para alcançar uma finalidade política ao longo de anos.",
+        "id": "sns.sa.mind.war_grand_strategy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_grand_strategy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Strategi yang mencakup penggunaan kekuatan negara selama bertahun-tahun untuk mencapai tujuan politik. Strategi ini menjadi dasar bagi berbagai keputusan besar dalam kebijakan negara.",
+        "exampleIds": [
+          "exm.sa.mind.war_grand_strategy.1.1.id"
+        ],
+        "gloss": "Strategi tingkat negara untuk menggunakan kekuatannya dalam jangka panjang demi mencapai tujuan politik.",
+        "id": "sns.sa.mind.war_grand_strategy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_grand_strategy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กลยุทธ์ที่วางไว้ในระดับประเทศ โดยกำหนดวิธีใช้อำนาจและทรัพยากรตลอดหลายปีเพื่อบรรลุเป้าหมายทางการเมือง",
+        "exampleIds": [
+          "exm.sa.mind.war_grand_strategy.1.1.th"
+        ],
+        "gloss": "กลยุทธ์ระดับรัฐที่ใช้อำนาจในระยะยาวเพื่อบรรลุเป้าหมายทางการเมือง",
+        "id": "sns.sa.mind.war_grand_strategy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_grand_strategy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Büyük strateji, bir devletin uzun vadeli siyasi amacına ulaşmak için gücünü ve kaynaklarını yıllar boyunca nasıl yönettiğidir.",
+        "exampleIds": [
+          "exm.sa.mind.war_grand_strategy.1.1.tr"
+        ],
+        "gloss": "Bir ülkenin yıllar boyunca gücünü siyasi bir amaca ulaşmak için nasıl kullandığı plan.",
+        "id": "sns.sa.mind.war_grand_strategy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_grand_strategy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_grand_strategy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Yayılmayı önleme büyük stratejiydi; caydırma ise bu stratejinin araçlarından biriydi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_grand_strategy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การปิดล้อมเป็นยุทธศาสตร์ใหญ่ ส่วนการข่าต่อรองเป็นเพียงเครื่องมือหนึ่งของยุทธศาสตร์นั้น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_grand_strategy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pembatasan ekspansi menjadi strategi besarnya, sedangkan ancaman untuk mencegah serangan menjadi salah satu alatnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_grand_strategy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A contenção era a grande estratégia, e a deterrência era uma de suas ferramentas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_grand_strategy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 나라의 대전략은 봉쇄였고, 억지는 그 수단 중 하나였다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_grand_strategy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "封じ込めがその大戦略であり、抑止はその道具の一つであった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_grand_strategy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Containment was the grand strategy, and deterrence was one of its tools.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b96514cf056d2000c68de57b2640c5b86bda27c7ea26762320ab056c202be4ee": [
+      {
+        "forms": [
+          "Whataboutism",
+          "mia_whataboutism"
+        ],
+        "id": "lex.sa.mind.mia_whataboutism",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Whataboutism",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mia_whataboutism.alt",
+          "sns.sa.mind.mia_whataboutism.alt.ko",
+          "sns.sa.mind.mia_whataboutism.alt.pt_br",
+          "sns.sa.mind.mia_whataboutism.alt.id",
+          "sns.sa.mind.mia_whataboutism.alt.th",
+          "sns.sa.mind.mia_whataboutism.alt.tr",
+          "sns.sa.mind.mia_whataboutism.alt.ja"
+        ]
+      },
+      {
+        "definition": "The turning of an answer into an answer about somebody else.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1"
+        ],
+        "gloss": "The turning of an answer into an answer about somebody else.",
+        "id": "sns.sa.mind.mia_whataboutism.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "비난을 받으면 질문에 답하지 않고 다른 사람의 잘못이나 행적을 지적하는 수법이다. 상대의 행동을 문제 삼는 것과, 그 행동을 이용해 자기 비난을 피하는 것은 다르다.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.ko"
+        ],
+        "gloss": "비난을 상대방의 잘못으로 돌리는 반박.",
+        "id": "sns.sa.mind.mia_whataboutism.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Recurso de responder a uma pergunta com uma acusação sobre outra pessoa, em vez de responder ao que foi perguntado; não resolve nada.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.pt_br"
+        ],
+        "gloss": "A transformação de uma resposta em uma resposta sobre outra pessoa.",
+        "id": "sns.sa.mind.mia_whataboutism.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Taktik mengubah atau mengalihkan jawaban dengan membicarakan orang atau hal lain. Taktik ini sering digunakan untuk menghindari pertanyaan yang sedang dibahas.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.id"
+        ],
+        "gloss": "Mengalihkan jawaban dengan membicarakan orang lain.",
+        "id": "sns.sa.mind.mia_whataboutism.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การตอบคำถามโดยหันกลับไปกล่าวหาหรือชี้ข้อผิดของอีกฝ่ายแทนที่จะตอบ ซึ่งมักเป็นการหลบเลี่ยงประเด็นเดิม",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.th"
+        ],
+        "gloss": "การเบี่ยงประเด็นไปกล่าวหาอีกฝ่าย",
+        "id": "sns.sa.mind.mia_whataboutism.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Soruya karşılık, başkasının da aynı davranışta bulunduğunu belirterek verilen yanıt. Asıl soruyu yanıtlamaz ve konuyu başka bir kişiye kaydırır.",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.tr"
+        ],
+        "gloss": "Bir soruya yanıt vermek yerine karşı tarafın davranışını gösterme yöntemi.",
+        "id": "sns.sa.mind.mia_whataboutism.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "名詞。「君もだ」などの言葉で相手の同罪を強調することで、問いかけを自分への攻撃へ変える論法。",
+        "exampleIds": [
+          "exm.sa.mind.mia_whataboutism.1.1.ja"
+        ],
+        "gloss": "元の問いに答えず、相手の過ちを話題にして自分の責任を回避する論法。",
+        "id": "sns.sa.mind.mia_whataboutism.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mia_whataboutism",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "「去年は同じことをしただろ」はなつもり論で、元の問いには答えていない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "“Geçen yıl sen de aynısını yaptın” demek whataboutism örneğidir; çünkü soruyu yanıtlamaz.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คำตอบว่า “เมื่อปีที่แล้วคุณก็ทำแบบเดียวกัน” เป็นการเบี่ยงประเด็นที่ไม่ได้ตอบคำถาม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kamu melakukan hal yang sama tahun lalu adalah pengalihan karena tidak menjawab pertanyaan yang diberikan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "\"Você fez a mesma coisa no ano passado\" é whataboutism: não responde a nada.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "‘작년에 너도 같은 실수를 했잖아’는 비난을 상대에게로 돌리는 반박이어서 원래 질문에는 답하지 않았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mia_whataboutism.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You did the same thing last year is whataboutism: it answers nothing.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0": [
+      {
+        "forms": [
+          "the"
+        ],
+        "id": "lex.sa.en.the.article",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "the",
+        "pos": "article",
+        "senseIds": [
+          "sns.sa.vi.the.article.1",
+          "sns.sa.en.the-article.alt"
+        ]
+      },
+      {
+        "definition": "Mạo từ xác định, dùng trước danh từ đã biết.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "(mạo từ xác định)",
+        "id": "sns.sa.vi.the.article.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.the.article",
+        "pos": "article",
+        "revision": 1
+      },
+      {
+        "definition": "The article that marks a known noun.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "The definite article, used before a known noun.",
+        "id": "sns.sa.en.the-article.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.the.article",
+        "pos": "article",
+        "revision": 1
+      }
+    ],
+    "b9a16025518347233133c662283cb6c4bb33a0f9b8bf65e660429cbd168761bb": [
+      {
+        "duplicateIntoShards": [
+          0,
+          1
+        ],
+        "forms": [
+          "bank",
+          "banks"
+        ],
+        "id": "lex.sa.en.bank.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "bank",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.bank.us",
+          "prn.sa.en.bank.gb"
+        ],
+        "senseIds": [
+          "sns.sa.en.bank.noun.finance",
+          "sns.sa.en.bank.noun.river",
+          "sns.sa.en.bank-noun.alt"
+        ]
+      },
+      {
+        "audioResourceId": "res.sa.audio.bank.us",
+        "id": "prn.sa.en.bank.us",
+        "ipa": "/bæŋk/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "audioResourceId": "res.sa.aud.bank-noun",
+        "id": "prn.sa.en.bank.gb",
+        "ipa": "/bæŋk/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Tổ chức nhận tiền gửi và cho vay.",
+        "domain": [
+          "finance"
+        ],
+        "exampleIds": [
+          "exm.sa.en.bank.finance.01",
+          "exm.sa.en.bank-noun.more.01",
+          "exm.sa.en.bank-noun.more.02"
+        ],
+        "gloss": "ngân hàng",
+        "id": "sns.sa.en.bank.noun.finance",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.bank.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.diagram.line",
+          "res.sa.video.line",
+          "res.sa.img.bank-noun",
+          "res.sa.aud.bank-noun",
+          "res.sa.lnk.bank-noun",
+          "res.sa.vid.bank-noun"
+        ],
+        "revision": 6
+      },
+      {
+        "definition": "Đất dốc dọc theo sông hoặc hồ.",
+        "domain": [
+          "geography"
+        ],
+        "exampleIds": [
+          "exm.sa.en.bank.river.01",
+          "exm.sa.en.bank-noun.more.01",
+          "exm.sa.en.bank-noun.more.02"
+        ],
+        "gloss": "bờ (sông)",
+        "id": "sns.sa.en.bank.noun.river",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.bank.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.bank-noun",
+          "res.sa.aud.bank-noun",
+          "res.sa.lnk.bank-noun",
+          "res.sa.vid.bank-noun"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "A financial institution that takes deposits and makes loans; also the land beside a river.",
+        "exampleIds": [
+          "exm.sa.en.bank.finance.01",
+          "exm.sa.en.bank.river.01"
+        ],
+        "gloss": "A financial institution that takes deposits and makes loans; also the land beside a river.",
+        "id": "sns.sa.en.bank-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.bank.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.bank.finance.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "She opened an account at the bank.",
+        "translation": "Cô ấy mở tài khoản tại ngân hàng.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.bank.river.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "We sat on the bank of the river.",
+        "translation": "Chúng tôi ngồi trên bờ sông.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.diagram.line",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://ddc67689924cc303da14f2af9cc4c658adbefd3ea1c0de254f48bd9483724239",
+            "mime": "image/png"
+          }
+        ],
+        "title": "Straight line diagram",
+        "type": "image"
+      },
+      {
+        "id": "res.sa.video.line",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "Straight line clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.en.bank.noun.finance",
+        "id": "lnk.sa.en.bank.finance.related.river",
+        "kind": "relation",
+        "toId": "sns.sa.en.bank.noun.river",
+        "type": "related_to"
+      },
+      {
+        "id": "res.sa.audio.bank.us",
+        "kind": "resource",
+        "offlinePolicy": "required",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://f19fa5874925de439821202ae90d0c3ea0e065f96fe2457aa731292505f45159",
+            "mime": "audio/wav"
+          }
+        ],
+        "title": "bank /bæŋk/ US",
+        "type": "audio"
+      },
+      {
+        "forms": [
+          "bank",
+          "banks",
+          "banked",
+          "banking"
+        ],
+        "id": "lex.sa.en.bank.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "bank",
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.bank.us",
+          "prn.sa.en.bank.verb.gb"
+        ],
+        "senseIds": [
+          "sns.sa.en.bank.verb.tilt",
+          "sns.sa.en.bank-verb.alt"
+        ]
+      },
+      {
+        "id": "prn.sa.en.bank.verb.gb",
+        "ipa": "/bæŋk/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "definition": "Nghiêng một phía khi đổi hướng.",
+        "domain": [
+          "aviation"
+        ],
+        "exampleIds": [
+          "exm.sa.en.bank-verb.more.01",
+          "exm.sa.en.bank-verb.more.02"
+        ],
+        "gloss": "nghiêng (máy bay)",
+        "id": "sns.sa.en.bank.verb.tilt",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.bank.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.bank-verb",
+          "res.sa.aud.bank-verb",
+          "res.sa.lnk.bank-verb",
+          "res.sa.vid.bank-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To tilt a vehicle or aircraft so that it leans or turns.",
+        "gloss": "To tilt a vehicle or aircraft so that it leans or turns.",
+        "id": "sns.sa.en.bank-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.bank.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "b9b07c930150fa2fdddb01efbf9dd45df2580e3243f1b4aa0ff69a13344a245d": [
+      {
+        "forms": [
+          "Kilocalorie (kcal)",
+          "kilocalorie"
+        ],
+        "id": "lex.sa.daily_skills.kilocalorie",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Kilocalorie (kcal)",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.kilocalorie.alt",
+          "sns.sa.daily_skills.kilocalorie.alt.ja",
+          "sns.sa.daily_skills.kilocalorie.alt.ko",
+          "sns.sa.daily_skills.kilocalorie.alt.pt_br",
+          "sns.sa.daily_skills.kilocalorie.alt.id",
+          "sns.sa.daily_skills.kilocalorie.alt.th",
+          "sns.sa.daily_skills.kilocalorie.alt.tr"
+        ]
+      },
+      {
+        "definition": "A unit of energy in food. One gram of fat holds about 9 kcal, a gram of carbohydrate or protein about 4.",
+        "exampleIds": [
+          "exm.sa.daily_skills.kilocalorie.1.1"
+        ],
+        "gloss": "A unit of energy in food. One gram of fat holds about 9 kcal, a gram of carbohydrate or protein about 4.",
+        "id": "sns.sa.daily_skills.kilocalorie.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.kilocalorie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "食品がitzer方面体内的にもたらすエネルギーを表す単位。1キロカロリーは1kcalで、脂質1グラムは約9kcal、炭水化物やタンパク質1グラムは約4kcalに相当する。",
+        "exampleIds": [
+          "exm.sa.daily_skills.kilocalorie.1.1.ja"
+        ],
+        "gloss": "食品の&Ienergy量を表す単位。",
+        "id": "sns.sa.daily_skills.kilocalorie.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.kilocalorie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "식품의 열량을 나타내는 에너지 단위이다. 지방 1그램은 약 9킬로칼로리, 탄수화물이나 단백질 1그램은 각각 약 4킬로칼로리를 제공한다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.kilocalorie.1.1.ko"
+        ],
+        "gloss": "음식에 들어 있는 에너지를 나타내는 단위인 킬로칼로리(kcal)이다.",
+        "id": "sns.sa.daily_skills.kilocalorie.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.kilocalorie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Quilocaloria, abreviada como kcal, é uma unidade de energia aplicada à alimentação. Um grama de gordura fornece cerca de 9 kcal, enquanto um grama de carboidrato ou proteína fornece aproximadamente 4 kcal.",
+        "exampleIds": [
+          "exm.sa.daily_skills.kilocalorie.1.1.pt_br"
+        ],
+        "gloss": "Unidade de energia usada para medir o valor energético dos alimentos.",
+        "id": "sns.sa.daily_skills.kilocalorie.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.kilocalorie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kilokalori (kcal) setara dengan 1.000 kalori dan digunakan untuk mengukur energi makanan. Setiap gram lemak menyediakan sekitar 9 kcal, sedangkan每 gram karbohidrat atau protein sekitar 4 kcal.",
+        "exampleIds": [
+          "exm.sa.daily_skills.kilocalorie.1.1.id"
+        ],
+        "gloss": "Satuan energi yang digunakan untuk menyatakan jumlah energi dalam makanan.",
+        "id": "sns.sa.daily_skills.kilocalorie.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.kilocalorie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ใช้บอกปริมาณพลังงานจากอาหาร โดยคาร์โบไฮเดรตหรือโปรตีน 1 กรัมให้พลังงานประมาณ 4 kcal",
+        "exampleIds": [
+          "exm.sa.daily_skills.kilocalorie.1.1.th"
+        ],
+        "gloss": "หน่วยพลังงานของอาหาร โดยไขมัน 1 กรัมให้พลังงานประมาณ 9 kcal",
+        "id": "sns.sa.daily_skills.kilocalorie.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.kilocalorie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir gram yağ yaklaşık 9, bir gram karbonhidrat veya protein ise yaklaşık 4 kilokalori enerji sağlar. Günlük enerji gereksinimi genellikle toplam olarak ifade edilir.",
+        "exampleIds": [
+          "exm.sa.daily_skills.kilocalorie.1.1.tr"
+        ],
+        "gloss": "Yiyeceklerdeki enerjiyi ölçmek için kullanılan birim.",
+        "id": "sns.sa.daily_skills.kilocalorie.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.kilocalorie",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.kilocalorie.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
+        "translation": "Bu çubuk 250 kcal içeriyor; bu, günlük enerji ihtiyacının yaklaşık onda biri.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.kilocalorie.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
+        "translation": "แท่งนี้ให้พลังงาน 250 กิโลแคลอรี ซึ่งประมาณหนึ่งในสิบของพลังงานที่ควรได้รับต่อวัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.kilocalorie.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
+        "translation": "Batang makanan ini mengandung 250 kcal, sekitar seperempat dari kebutuhan energi harian saya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.kilocalorie.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
+        "translation": "Esta barra contém 250 kcal, cerca de um décimo das necessidades diárias de energia.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.kilocalorie.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
+        "translation": "이 바에는 250kcal가 들어 있어 하루 필요 에너지의 약 10분의 1에 해당한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.kilocalorie.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
+        "translation": "このバーには250キロカロリーが calmlyudyopiXAされています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.kilocalorie.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

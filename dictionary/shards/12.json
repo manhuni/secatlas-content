@@ -1,0 +1,1290 @@
+{
+  "records": {
+    "1210b43690fd523dd84fc0491a673a7e0dec3281f423abf90a9779e135b4e1a6": [
+      {
+        "forms": [
+          "Traffic sign recognition",
+          "sign_recognition"
+        ],
+        "id": "lex.sa.en.sign.recognition",
+        "kind": "lexeme",
+        "lemma": "Traffic sign recognition",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.sign.recognition.alt"
+        ]
+      },
+      {
+        "definition": "The camera reads road signs and shows them on the display. Severity level 1 — Information / Status. Action: Nothing to do. The sign on the road always wins..",
+        "gloss": "The camera reads road signs and shows them on the display.",
+        "id": "sns.sa.en.sign.recognition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.sign.recognition",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "121552335d36c93fc8373292d61494a35f1843508426ecac85f4d868045c7d2d": [
+      {
+        "forms": [
+          "life course",
+          "mt_life_course"
+        ],
+        "id": "lex.sa.social.mt_life_course",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "life course",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.mt_life_course.alt",
+          "sns.sa.social.mt_life_course.alt.ja",
+          "sns.sa.social.mt_life_course.alt.ko",
+          "sns.sa.social.mt_life_course.alt.pt_br",
+          "sns.sa.social.mt_life_course.alt.id",
+          "sns.sa.social.mt_life_course.alt.th",
+          "sns.sa.social.mt_life_course.alt.tr"
+        ]
+      },
+      {
+        "definition": "The sequence of roles and stages people are expected to move through, in the usual order.",
+        "exampleIds": [
+          "exm.sa.social.mt_life_course.1.1"
+        ],
+        "gloss": "The sequence of roles and stages people are expected to move through, in the usual order.",
+        "id": "sns.sa.social.mt_life_course.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.mt_life_course",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "~~~~~~~~~~~~~~~~~~~~~~。~~~~~~~~~~~~~~~~~~~~~~。",
+        "exampleIds": [
+          "exm.sa.social.mt_life_course.1.1.ja"
+        ],
+        "gloss": "~~~~~~~~~~~~~~~~~~~~~~~~。",
+        "id": "sns.sa.social.mt_life_course.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.mt_life_course",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사람들이 살아가면서 거치게 되는 역할과 단계가 통상적인 순서로 배열된 lifes의 과정을 뜻한다. 모든 사람에게 같은 순서가 적용되는 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.social.mt_life_course.1.1.ko"
+        ],
+        "gloss": "사람들이 일반적으로 거치는 역할과 단계의 순서.",
+        "id": "sns.sa.social.mt_life_course.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.mt_life_course",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Curso da vida é o percurso social e pessoal que inclui etapas como estudo, trabalho, formação de família e parentalidade. Embora haja uma ordem comum, cada pessoa pode follow um percurso diferente.",
+        "exampleIds": [
+          "exm.sa.social.mt_life_course.1.1.pt_br"
+        ],
+        "gloss": "A sequência de papéis e fases que as pessoas costumam atravessar em uma determinada ordem.",
+        "id": "sns.sa.social.mt_life_course.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.mt_life_course",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Urutan peran dan tahap dalam kehidupan yang diharapkan orang umum tempuh, seperti belajar, bekerja, lalu menjadi orang tua. Urutannya dapat berbeda antara satu orang dan orang lain.",
+        "exampleIds": [
+          "exm.sa.social.mt_life_course.1.1.id"
+        ],
+        "gloss": "Urutan peran dan tahap kehidupan yang biasanya dilalui manusia.",
+        "id": "sns.sa.social.mt_life_course.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.mt_life_course",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เส้นทางการดำเนินชีวิตที่ประกอบด้วยบทบาทและช่วงต่าง ๆ เช่น การศึกษา การทำงาน และการเป็นพ่อหรือแม่ ลำดับของแต่ละบุคคลอาจแตกต่างกัน",
+        "exampleIds": [
+          "exm.sa.social.mt_life_course.1.1.th"
+        ],
+        "gloss": "ลำดับบทบาทและช่วงชีวิตที่ผู้คนคาดว่าจะผ่านไปตามแบบแผนที่คุ้นเคย",
+        "id": "sns.sa.social.mt_life_course.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.mt_life_course",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Hayat yolu, eğitim, iş, evlilik ve çocukluk gibi aşamaların oluşturduğu sıralı yaşam örüntüsüdür; herkes için aynı sırayı zorunlu kılmaz.",
+        "exampleIds": [
+          "exm.sa.social.mt_life_course.1.1.tr"
+        ],
+        "gloss": "İnsanların toplumca beklenen roller ve evreleri genellikle hangi sırayla yaşadığı.",
+        "id": "sns.sa.social.mt_life_course.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.mt_life_course",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.mt_life_course.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Çoğu kişide hayat yolu, çocuk sahibi olmadan önce öğrenimi ve işi içerir; başkalarında sıra farklıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.mt_life_course.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เส้นทางชีวิตของคนส่วนใหญ่วางการศึกษาและการทำงานไว้ก่อนการมีบุตร แต่บางคนเรียงลำดับต่างออกไป",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.mt_life_course.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kursus kehidupan biasanya menempatkan belajar dan bekerja sebelum memiliki anak, tetapi urutannya bisa berbeda bagi orang lain.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.mt_life_course.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O curso da vida põe o estudo e o trabalho antes dos filhos para a maioria das pessoas, mas não para todos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.mt_life_course.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "대부분의 사람에게 삶의 과정에서는 공부와 일이 일보다 앞서지만, 다른 순서로 사는 사람들도 있습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.mt_life_course.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "~~~~~~~~~~~~~~~~~~~~；~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.mt_life_course.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "A life course puts study and work before children for most people, and in a different order for others.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "1216b2a88975f9d3c0ba5e043bae1803d4f0f1cfab98eeccb800fdd82fff9aca": [
+      {
+        "forms": [
+          "without"
+        ],
+        "id": "lex.sa.en.without.preposition",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "without",
+        "pos": "preposition",
+        "senseIds": [
+          "sns.sa.vi.without.preposition.1",
+          "sns.sa.en.without-preposition.alt"
+        ]
+      },
+      {
+        "definition": "Không kèm theo; thiếu.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "không có",
+        "id": "sns.sa.vi.without.preposition.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.without.preposition",
+        "pos": "preposition",
+        "revision": 1
+      },
+      {
+        "definition": "Not with; missing something.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "Not having; lacking.",
+        "id": "sns.sa.en.without-preposition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.without.preposition",
+        "pos": "preposition",
+        "revision": 1
+      }
+    ],
+    "123fd666aa39d376690cfa6570426d3585c188b291bc87acf47b84e3fe822102": [
+      {
+        "forms": [
+          "danger"
+        ],
+        "id": "lex.sa.en.danger.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "danger",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.danger.noun.1",
+          "sns.sa.en.danger-noun.alt"
+        ]
+      },
+      {
+        "definition": "Trạng thái có thể gây hại cho người hoặc thiết bị.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.57"
+        ],
+        "gloss": "nguy hiểm",
+        "id": "sns.sa.vi.danger.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.danger.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A state in which harm is possible.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.57"
+        ],
+        "gloss": "A state in which harm may come to a person or equipment.",
+        "id": "sns.sa.en.danger-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.danger.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.57",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A danger callout uses the red error container.",
+        "translation": "Hộp chú ý nguy hiểm dùng khung chứa lỗi màu đỏ.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "1241936d4dd3aad68fe7bfbdfe854b935926bc678fc72377e15166078916227a": [
+      {
+        "forms": [
+          "Proxy",
+          "intelill_proxy"
+        ],
+        "id": "lex.sa.mind.intelill_proxy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Proxy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intelill_proxy.alt",
+          "sns.sa.mind.intelill_proxy.alt.ja",
+          "sns.sa.mind.intelill_proxy.alt.ko",
+          "sns.sa.mind.intelill_proxy.alt.pt_br",
+          "sns.sa.mind.intelill_proxy.alt.id",
+          "sns.sa.mind.intelill_proxy.alt.th",
+          "sns.sa.mind.intelill_proxy.alt.tr"
+        ]
+      },
+      {
+        "definition": "A measurable stand-in for something you cannot see directly, such as a score standing in for ability.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_proxy.1.1"
+        ],
+        "gloss": "A measurable stand-in for something you cannot see directly, such as a score standing in for ability.",
+        "id": "sns.sa.mind.intelill_proxy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intelill_proxy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "能力など直接測定できないものに対して、その代理として用いる測定可能な指標。",
+        "exampleIds": [
+          "exm.sa.mind.intelill_proxy.1.1.ja"
+        ],
+        "gloss": "直接測れないものを代弁する、測定可能な指標。",
+        "id": "sns.sa.mind.intelill_proxy.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.intelill_proxy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "직접 측정하기 어려운 대상을 대신 나타내는 측정 가능한 지표. 예를 들어 점수가 능력을 대신할 수 있지만, 점수 자체가 능력과 같지는 않다.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_proxy.1.1.ko"
+        ],
+        "gloss": "직접 볼 수 없는 것을 대신하여 측정하는 지표.",
+        "id": "sns.sa.mind.intelill_proxy.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.intelill_proxy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Medida substituta que representa indiretamente uma característica não observável, como uma nota usada como indicador de capacidade. Não deve ser confundida com a própria característica.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_proxy.1.1.pt_br"
+        ],
+        "gloss": "Indicador mensurável usado no lugar de algo que não pode ser observado diretamente.",
+        "id": "sns.sa.mind.intelill_proxy.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.intelill_proxy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pengganti yang dapat diukur untuk sesuatu yang tidak terlihat langsung, seperti nilai yang mewakili kemampuan. Proxy bukan ukuran itu sendiri, melainkan pendah thereof.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_proxy.1.1.id"
+        ],
+        "gloss": "Pengganti yang dapat diukur untuk sesuatu yang tidak terlihat langsung, seperti nilai yang mewakili kemampuan.",
+        "id": "sns.sa.mind.intelill_proxy.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.intelill_proxy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ตัวบ่งชี้ที่วัดได้และใช้แทนสิ่งอื่น เช่น คะแนนที่ใช้แทนความสามารถ ต้องระวังว่าตัวแทนไม่ใช่ตัวสิ่งที่ต้องการวัดจริง",
+        "exampleIds": [
+          "exm.sa.mind.intelill_proxy.1.1.th"
+        ],
+        "gloss": "ตัวแทนที่วัดได้ ใช้แทนสิ่งที่มองไม่เห็นโดยตรง",
+        "id": "sns.sa.mind.intelill_proxy.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.intelill_proxy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Doğrudan ölçülemeyen bir özelliği temsil eden puan veya başka bir ölçüt. Örneğin test puanı, yeteneğin bir göstergesi olabilir; yeteneğin kendisi değildir.",
+        "exampleIds": [
+          "exm.sa.mind.intelill_proxy.1.1.tr"
+        ],
+        "gloss": "Doğrudan görülemeyen bir şeyi temsil eden ölçülebilir gösterge.",
+        "id": "sns.sa.mind.intelill_proxy.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.intelill_proxy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.intelill_proxy.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Bu puan yalnızca bir göstergedir; işverenin ihtiyağı olan şey yeteneğin kendisidir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.intelill_proxy.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คะแนนเป็นเพียงตัวแทนเท่านั้น สิ่งที่ผู้จ้างต้องการคือความสามารถจริง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.intelill_proxy.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Nilai itu hanya sebuah pengganti; kemampuan itu sendiri yang dibutuhkan pemberi kerja.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.intelill_proxy.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A nota é apenas um indicador; a capacidade em si é o que o empregador precisa avaliar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.intelill_proxy.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "점수는 단지 대리 지표일 뿐이며, 고용주가 필요한 것은 실제 능력이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.intelill_proxy.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "得点は能力の代理指標にすぎず、雇い主が必要とするのは能力そのものだ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.intelill_proxy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The score is only a proxy; the ability itself is what the employer needs.",
+        "translation": "Điểm số chỉ là một đại diện; chính năng lực mới là điều nhà tuyển dụng cần.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "12423e0482f3e81cb1d23230664e95bb3d11b9f34f06fc199e588d4cdab6e4d4": [
+      {
+        "forms": [
+          "Consent",
+          "consent"
+        ],
+        "id": "lex.sa.social.consent",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Consent",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.consent.alt",
+          "sns.sa.social.consent.alt.ja",
+          "sns.sa.social.consent.alt.ko",
+          "sns.sa.social.consent.alt.pt_br",
+          "sns.sa.social.consent.alt.id",
+          "sns.sa.social.consent.alt.th",
+          "sns.sa.social.consent.alt.tr"
+        ]
+      },
+      {
+        "definition": "Everyone agreeing freely to something, every time. A clear no is a complete answer that needs no follow-up.",
+        "exampleIds": [
+          "exm.sa.social.consent.1.1"
+        ],
+        "gloss": "Everyone agreeing freely to something, every time. A clear no is a complete answer that needs no follow-up.",
+        "id": "sns.sa.social.consent.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある行為や処理について相手が自由意思に基づいて示す同意。明確な拒絶はそれ以上追问 NEITHER? no.",
+        "exampleIds": [
+          "exm.sa.social.consent.1.1.ja"
+        ],
+        "gloss": "本人が自由意思に基づいて示す同意。",
+        "id": "sns.sa.social.consent.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "참여자가 자신의 의사에 따라 언제나 자원적으로 동의하는 것을 뜻한다. 명확한 거절은 다른 설명이나 재협상 없이 받아들여야 하는 완전한 답이다.",
+        "exampleIds": [
+          "exm.sa.social.consent.1.1.ko"
+        ],
+        "gloss": "모두가 자유롭게 어떤 행동에 동의하는 상태.",
+        "id": "sns.sa.social.consent.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Aceitação livre e manifestada de todas as pessoas envolvidas, válido para cada situação. Um “não” claro é uma resposta completa: não convém insistir, insistir de novo nem pressionar a pessoa.",
+        "exampleIds": [
+          "exm.sa.social.consent.1.1.pt_br"
+        ],
+        "gloss": "Acordo livre e claro de todas as partes, a cada vez.",
+        "id": "sns.sa.social.consent.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Persetujuan tanpa paksaan terhadap suatu tindakan atau keputusan. Penolakan yang jelas sudah merupakan jawaban lengkap dan tidak memerlukan alasan maupun permintaan tambahan.",
+        "exampleIds": [
+          "exm.sa.social.consent.1.1.id"
+        ],
+        "gloss": "Persetujuan yang diberikan secara bebas dan jelas.",
+        "id": "sns.sa.social.consent.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การยินยอมที่ต้องเกิดขึ้นอย่างอิสระและชัดเจนทุกครั้ง คำปฏิเสธที่ชัดเจนถือเป็นคำตอบที่สมบูรณ์และไม่ต้องการคำอธิบายเพิ่ม",
+        "exampleIds": [
+          "exm.sa.social.consent.1.1.th"
+        ],
+        "gloss": "การยินยอมอย่างอิสระและชัดเจน",
+        "id": "sns.sa.social.consent.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rıza, bir kişinin bir şeye özgür ve bilinçli olarak katılmasıdır. Açık bir hayır eksiksiz bir yanıttır; ek açıklama ya da ikna istenmez.",
+        "exampleIds": [
+          "exm.sa.social.consent.1.1.tr"
+        ],
+        "gloss": "Bir şeye özgür ve bilinçli olarak katılma durumudur.",
+        "id": "sns.sa.social.consent.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.consent.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Consent has to be clear on both sides, and a no is always a complete answer.",
+        "translation": "Rıza her iki taraftan da açık olmalıdır ve hayır her zaman eksiksiz bir yanıttır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.consent.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Consent has to be clear on both sides, and a no is always a complete answer.",
+        "translation": "การยินยอมต้องชัดเจนทั้งสองฝ่าย และคำว่าไม่ก็ถือเป็นคำตอบสมบูรณ์เสมอ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.consent.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Consent has to be clear on both sides, and a no is always a complete answer.",
+        "translation": "Persetujuan harus diberikan secara bebas, dan jawaban tidak selalu sudah cukup untuk membatalkan persetujuan sebelumnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.consent.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Consent has to be clear on both sides, and a no is always a complete answer.",
+        "translation": "O consentimento precisa ser claro dos dois lados, e um “não” é sempre uma resposta completa.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.consent.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Consent has to be clear on both sides, and a no is always a complete answer.",
+        "translation": "양쪽 모두 동의가 분명해야 하며, 거절은 언제나 충분한 답이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.consent.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Consent has to be clear on both sides, and a no is always a complete answer.",
+        "translation": "同意は双方から明確にし、拒絶はいつでもそれだけで完全な答えになります。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.consent.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Consent has to be clear on both sides, and a no is always a complete answer.",
+        "translation": "",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Consent",
+          "psy_consent"
+        ],
+        "id": "lex.sa.mind.psy_consent",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Consent",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.psy_consent.alt",
+          "sns.sa.mind.psy_consent.alt.ja",
+          "sns.sa.mind.psy_consent.alt.ko",
+          "sns.sa.mind.psy_consent.alt.pt_br",
+          "sns.sa.mind.psy_consent.alt.id",
+          "sns.sa.mind.psy_consent.alt.th",
+          "sns.sa.mind.psy_consent.alt.tr"
+        ]
+      },
+      {
+        "definition": "Agreement that is free, informed, and given by a person who is still able to say no.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1"
+        ],
+        "gloss": "Agreement that is free, informed, and given by a person who is still able to say no.",
+        "id": "sns.sa.mind.psy_consent.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "本人の自由意思と十分な情報に基づいて与えられる同意。拒むこともできたという状態であることが前提で、書式に署名しただけでは足りない。",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.ja"
+        ],
+        "gloss": "自由で、十分な情報を得て、なお「いや」と言える状態での同意。",
+        "id": "sns.sa.mind.psy_consent.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "강요받지 않고 필요한 정보를 바탕으로 자발적으로 표현한 동의이다. 어느 때든 거절할 수 있는 상태에서 이루어져야 한다.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.ko"
+        ],
+        "gloss": "자유롭고 정보에 근거해__, 그리고 거부할 수 있는 상태에서 이루어지는 동의.",
+        "id": "sns.sa.mind.psy_consent.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ConcordânciaManifestada de maneira livre e compreendida, sem pressão ou ameaça, por uma pessoa capaz de aceitar ou recusar a proposta.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.pt_br"
+        ],
+        "gloss": "Acordo livre, informado e dado por quem ainda pode dizer não.",
+        "id": "sns.sa.mind.psy_consent.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Persetujuan yang diberikan tanpa paksaan, setelah memahami informasi yang relevan, dan tetap dapat ditarik kembali ketika orang tersebut mampu berkata tidak.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.id"
+        ],
+        "gloss": "Kesepakatan yang diberikan secara bebas dan penuh informasi.",
+        "id": "sns.sa.mind.psy_consent.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความยินยอมที่เกิดจากการเลือกอย่างอิสระ มีข้อมูลเพียงพอ และยังสามารถพูดว่าไม่ได้ การเงียบหรือการเซ็นแบบฟอร์มโดยไม่มีความยินยอมดังกล่าวจึงไม่เพียงพอ",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.th"
+        ],
+        "gloss": "ความยินยอมที่เสรี เต็มทราบ และสามารถปฏิเสธได้",
+        "id": "sns.sa.mind.psy_consent.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Rıza, baskı veya yanıltma olmadan verilmiş olmalı; kişi onaylamaktan vazgeçebilmelidir.",
+        "exampleIds": [
+          "exm.sa.mind.psy_consent.1.1.tr"
+        ],
+        "gloss": "Kişinin özgür ve bilgilendirilmiş biçimde, hayır deme şansı varken verdiği onay.",
+        "id": "sns.sa.mind.psy_consent.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.psy_consent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Rıza olmadan verilen sipariş, yazılı biçimde böyle görünse de sözleşme değildir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "คำสั่งซื้อที่ไม่มีความยินยอมที่เสรีและเต็มทราบไม่ถือเป็นสัญญา แม้ในแบบฟอร์มจะเขียนว่าเป็นยินยอมก็ตาม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tanpa persetujuan, pesanan itu bukan kontrak, apa pun yang tertulis di dalam formulir.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sem consentimento, a ordem não constitui um contrato, qualquer que seja o que diga o formulário.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "동의가 없으면 서류에 어떤 내용이 적혀 있더라도 그 주문은 계약이 아니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "同意なしなら契約ではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.psy_consent.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Without consent the order is not a contract, whatever the form says.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "124330000b440c180e4e22fe161e56912edda6ec34167292aea9bb76b24ec9b7": [
+      {
+        "forms": [
+          "Means",
+          "dual_means"
+        ],
+        "id": "lex.sa.mind.dual_means",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Means",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.dual_means.alt",
+          "sns.sa.mind.dual_means.alt.ja",
+          "sns.sa.mind.dual_means.alt.ko",
+          "sns.sa.mind.dual_means.alt.pt_br",
+          "sns.sa.mind.dual_means.alt.id",
+          "sns.sa.mind.dual_means.alt.th",
+          "sns.sa.mind.dual_means.alt.tr"
+        ]
+      },
+      {
+        "definition": "The way an aim is carried out: the tools, the words and the methods used.",
+        "exampleIds": [
+          "exm.sa.mind.dual_means.1.1"
+        ],
+        "gloss": "The way an aim is carried out: the tools, the words and the methods used.",
+        "id": "sns.sa.mind.dual_means.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.dual_means",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "目的を NAMING するために使う道具、言葉、方法 collectively のこと。手段そのものは、その Moral とは切り離して、達成の道具として扱われる。",
+        "exampleIds": [
+          "exm.sa.mind.dual_means.1.1.ja"
+        ],
+        "gloss": "目的を達成するための手段・道具・言葉・方法。",
+        "id": "sns.sa.mind.dual_means.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.dual_means",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 목적을 이루기 위해 사용하는 수단이나 방법이다. 도구, 말, 절차 등이 모두 포함되며, 목적 자체와 구별된다.",
+        "exampleIds": [
+          "exm.sa.mind.dual_means.1.1.ko"
+        ],
+        "gloss": "목적을 달성하기 위해 쓰는 도구와 언어와 방법.",
+        "id": "sns.sa.mind.dual_means.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.dual_means",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O conjunto de recursos, métodos ou procedimentos usados para alcançar um objetivo. Aqui, o termo é usado no singular para indicar uma maneira de realizar algo.",
+        "exampleIds": [
+          "exm.sa.mind.dual_means.1.1.pt_br"
+        ],
+        "gloss": "O modo de alcançar um objetivo por meio de ferramentas, palavras e métodos.",
+        "id": "sns.sa.mind.dual_means.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.dual_means",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Alat, kata-kata, dan metode yang digunakan untuk mencapai suatu tujuan. Istilah ini merujuk pada cara prouvé, bukan tujuan itu sendiri.",
+        "exampleIds": [
+          "exm.sa.mind.dual_means.1.1.id"
+        ],
+        "gloss": "Cara untuk mencapai suatu tujuan melalui alat, kata-kata, dan metode.",
+        "id": "sns.sa.mind.dual_means.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.dual_means",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "วิธีดำเนินการเพื่อบรรลุเป้าหมาย รวมถึงเครื่องมือ คำพูด และวิธีการที่ใช้",
+        "exampleIds": [
+          "exm.sa.mind.dual_means.1.1.th"
+        ],
+        "gloss": "วิธีและเครื่องมือที่ใช้บรรลุเป้าหมาย",
+        "id": "sns.sa.mind.dual_means.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.dual_means",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir amacın gerçekleştirilmesinde kullanılan araçlar, yöntemler ve sözler; bu anlamda “araç” anlamına gelir.",
+        "exampleIds": [
+          "exm.sa.mind.dual_means.1.1.tr"
+        ],
+        "gloss": "Bir amaca ulaşmak için kullanılan yollar ve araçlar.",
+        "id": "sns.sa.mind.dual_means.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.dual_means",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.dual_means.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Araçlar sıradan aletlerdi ve sıradan bir biçimde kullanıldı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.dual_means.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เครื่องมือที่ใช้เป็นของธรรมดา และวิธีใช้ก็เป็นแบบธรรมดา",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.dual_means.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Alat yang digunakan adalah alat biasa yang digunakan dengan cara biasa.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.dual_means.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Os meios eram ferramentas comuns usadas de maneira comum.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.dual_means.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그 수단은 평범한 도구를 평범한 방식으로 사용한 것이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.dual_means.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "手段は普通の道具を普通に使っただけだった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.dual_means.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The means were ordinary tools used in an ordinary way.",
+        "translation": "Phương tiện chỉ là những công cụ thông thường được sử dụng theo cách thông thường.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "12886f9d00055adf24c40579e22d31b2b45f2023f892954ffd5567beb60825f8": [
+      {
+        "forms": [
+          "number",
+          "numbered"
+        ],
+        "id": "lex.sa.en.number.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "number",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.number.noun.1",
+          "sns.sa.en.number-noun.alt"
+        ]
+      },
+      {
+        "definition": "Giá trị đếm được; có số thứ tự ở trước.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "số; được đánh số",
+        "id": "sns.sa.vi.number.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.number.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A mathematical count; marked with an order number.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "A count or numeral; carrying an order number.",
+        "id": "sns.sa.en.number-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.number.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "12926012a364636a95a61a11e0d38b2aff19c6640cd39229672c6dcb785348f5": [
+      {
+        "forms": [
+          "Enamel",
+          "enamel"
+        ],
+        "id": "lex.sa.kids_science.enamel",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Enamel",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.enamel.alt",
+          "sns.sa.kids_science.enamel.alt.ja",
+          "sns.sa.kids_science.enamel.alt.pt_br",
+          "sns.sa.kids_science.enamel.alt.id",
+          "sns.sa.kids_science.enamel.alt.th",
+          "sns.sa.kids_science.enamel.alt.tr",
+          "sns.sa.kids_science.enamel.alt.ko"
+        ]
+      },
+      {
+        "definition": "The hard outer coat of a tooth. It is the hardest part of your body.",
+        "exampleIds": [
+          "exm.sa.kids_science.enamel.1.1"
+        ],
+        "gloss": "The hard outer coat of a tooth. It is the hardest part of your body.",
+        "id": "sns.sa.kids_science.enamel.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.enamel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "歯の表面を覆う硬く丈夫な層で、人体の中で最も硬い部分である。",
+        "exampleIds": [
+          "exm.sa.kids_science.enamel.1.1.ja"
+        ],
+        "gloss": "歯の表面を覆う、体で最も硬い部分。",
+        "id": "sns.sa.kids_science.enamel.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.enamel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Revestimento duro que cobre a coroa do dente. É a parte mais resistente do corpo humano.",
+        "exampleIds": [
+          "exm.sa.kids_science.enamel.1.1.pt_br"
+        ],
+        "gloss": "Capa dura e externa do dente, a parte mais resistente do corpo.",
+        "id": "sns.sa.kids_science.enamel.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.enamel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Lapisan keras yang menutupi permukaan gigi dan merupakan bagian tubuh yang paling keras.",
+        "exampleIds": [
+          "exm.sa.kids_science.enamel.1.1.id"
+        ],
+        "gloss": "Lapisan keras paling luar pada gigi.",
+        "id": "sns.sa.kids_science.enamel.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.enamel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ชั้นแข็งที่ครอบผิวฟัน เป็นส่วนที่แข็งที่สุดของร่างกายมนุษย์",
+        "exampleIds": [
+          "exm.sa.kids_science.enamel.1.1.th"
+        ],
+        "gloss": "เคลือบฟันคือส่วนแข็งที่ครอบผิวฟัน",
+        "id": "sns.sa.kids_science.enamel.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.enamel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dişin vücudun en sert bölümü olan dış tabakasıdır; dişte görülen beyaz veya krem rengi kısımı oluşturur.",
+        "exampleIds": [
+          "exm.sa.kids_science.enamel.1.1.tr"
+        ],
+        "gloss": "Dişin sert ve parlak dış tabakasıdır.",
+        "id": "sns.sa.kids_science.enamel.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.enamel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "법랑이라고도 하며 이의 표면을 덮는 단단한 층이다. 충치로 쉽게 상할 수 있지만 몸에서 가장 단단한 부분이다.",
+        "exampleIds": [
+          "exm.sa.kids_science.enamel.1.1.ko"
+        ],
+        "gloss": "이 표면을 덮고 있는 매우 단단한 층.",
+        "id": "sns.sa.kids_science.enamel.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.enamel",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.enamel.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The enamel is the shiny white part you can see.",
+        "translation": "치아의 에나멜은 광택 나는 흰색 부분이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.enamel.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The enamel is the shiny white part you can see.",
+        "translation": "Mine, dişte görülen parlak beyaz kısımdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.enamel.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The enamel is the shiny white part you can see.",
+        "translation": "เคลือบฟันเป็นส่วนเงาสีขาวที่เรามองเห็นได้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.enamel.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The enamel is the shiny white part you can see.",
+        "translation": "Enamel adalah bagian putih mengkilap yang dapat kita lihat pada gigi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.enamel.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The enamel is the shiny white part you can see.",
+        "translation": "O esmalte é a parte branca e brilhante que podemos ver.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.enamel.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The enamel is the shiny white part you can see.",
+        "translation": "BNIの白い打过.Pathは目に見える歯のエナメルだ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.enamel.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The enamel is the shiny white part you can see.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "12f3f98593098df1fa59da6471b1956ebac657d847a91f8253d1b3039bd8bdd3": [
+      {
+        "forms": [
+          "both sides"
+        ],
+        "id": "exp.sa.en.both-sides",
+        "kind": "expression",
+        "language": "en",
+        "pronunciationIds": [
+          "prn.sa.en.both-sides.gb",
+          "prn.sa.en.both-sides.us"
+        ],
+        "senseIds": [
+          "sns.sa.vi.both.sides.1",
+          "sns.sa.en.both.sides.alt"
+        ],
+        "text": "both sides",
+        "type": "mwe"
+      },
+      {
+        "definition": "Vế trái và vế phải của một phương trình.",
+        "gloss": "cả hai vế",
+        "id": "sns.sa.vi.both.sides.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "exp.sa.en.both-sides",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The left expression and the right expression.",
+        "gloss": "both sides",
+        "id": "sns.sa.en.both.sides.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "exp.sa.en.both-sides",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.both-sides.gb",
+        "ipa": "/bəʊθ saɪdz/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.both-sides.us",
+        "ipa": "/boʊθ saɪdz/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

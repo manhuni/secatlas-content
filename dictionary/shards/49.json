@@ -1,0 +1,852 @@
+{
+  "records": {
+    "49002d515d1605d8e4928cdccea435328773268fb951e9dae201212284d374a5": [
+      {
+        "forms": [
+          "hurt"
+        ],
+        "id": "lex.sa.en.hurt.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "hurt",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.hurt.verb.1",
+          "sns.sa.en.hurt-verb.alt"
+        ]
+      },
+      {
+        "definition": "Gây đau hoặc làm hỏng.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "làm tổn thương",
+        "id": "sns.sa.vi.hurt.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.hurt.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To cause pain or damage to something.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "To cause pain or damage.",
+        "id": "sns.sa.en.hurt-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.hurt.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "490949e4a66ebfce0bdd8b213ded7afbb0d0840c370c6a30f466a94a59de2955": [
+      {
+        "forms": [
+          "Leakage current",
+          "elec_leakage_current"
+        ],
+        "id": "lex.sa.daily_skills.elec_leakage_current",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Leakage current",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.elec_leakage_current.alt",
+          "sns.sa.daily_skills.elec_leakage_current.alt.ja",
+          "sns.sa.daily_skills.elec_leakage_current.alt.ko",
+          "sns.sa.daily_skills.elec_leakage_current.alt.pt_br",
+          "sns.sa.daily_skills.elec_leakage_current.alt.id",
+          "sns.sa.daily_skills.elec_leakage_current.alt.th",
+          "sns.sa.daily_skills.elec_leakage_current.alt.tr"
+        ]
+      },
+      {
+        "definition": "Current that escapes from the live part of a cable or a pump through damaged insulation.",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_leakage_current.1.1"
+        ],
+        "gloss": "Current that escapes from the live part of a cable or a pump through damaged insulation.",
+        "id": "sns.sa.daily_skills.elec_leakage_current.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.elec_leakage_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ケーブルやポンプの帯電部から、損傷した絶縁を通じて漏れる電流です。通常は小さくても、安全上の点検や測定の対象になります。",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_leakage_current.1.1.ja"
+        ],
+        "gloss": "損傷した绝缘体leinを流れる漏电流。",
+        "id": "sns.sa.daily_skills.elec_leakage_current.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.elec_leakage_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "절연 손상 등의 이유로 대전 부분에서 외부로 흘러나가는 전류. 정상적인 회로 전류와는 구별된다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_leakage_current.1.1.ko"
+        ],
+        "gloss": "손상된 절연재를 통해 케이블이나 펌프의 대전 부분에서 빠져나가는 전류.",
+        "id": "sns.sa.daily_skills.elec_leakage_current.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.elec_leakage_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Corrente elétrica que flui indevidamente de uma parte energizada para a terra, um equipamento ou outra parte do sistema por causa de isolamento danificado. Indica defeito na instalação e pode provocar choques.",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_leakage_current.1.1.pt_br"
+        ],
+        "gloss": "Corrente que escapa da parte energizada por meio de um isolamento danificado.",
+        "id": "sns.sa.daily_skills.elec_leakage_current.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.elec_leakage_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Arus listrik yang bocor dari bagian hidup kabel atau pompa melalui isolasi yang rusak. Arus bocor ini berbahaya karena dapat mengalir ke tanah dan menyentuh orang.",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_leakage_current.1.1.id"
+        ],
+        "gloss": "Arus listrik yang bocor dari bagian hidup kabel atau pompa melalui isolasi yang rusak.",
+        "id": "sns.sa.daily_skills.elec_leakage_current.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.elec_leakage_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กระแสรั่วคือกระแสที่หลุดออกจากส่วนที่มีไฟฟ้าอยู่ไปตามทางที่ฉนวนเสียหายหรือชำรุด แทนที่จะไหลกลับตามวงจร โดยมักมีค่าเล็กน้อยแต่ไม่เป็นศูนย์ จึงต้องวัดและเฝ้าระวัง",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_leakage_current.1.1.th"
+        ],
+        "gloss": "กระแสที่รั่วออกจากส่วนที่มีไฟฟ้าของสายเคเบิลหรือปั๊ม ผ่านฉนวนที่เสียหาย",
+        "id": "sns.sa.daily_skills.elec_leakage_current.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.elec_leakage_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kablonun veya cihazın canlı bölümünden hasarlı yalıtım yoluyla çevreye sızan akımdır. Normal çalışma akımından farklı, genellikle küçük bir akımdır.",
+        "exampleIds": [
+          "exm.sa.daily_skills.elec_leakage_current.1.1.tr"
+        ],
+        "gloss": "Hasarlı yalıtım nedeniyle kablo veya pompadan kaçan akımdır.",
+        "id": "sns.sa.daily_skills.elec_leakage_current.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.elec_leakage_current",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_leakage_current.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Elektrikçi, pompayı yeniden çalıştırmadan önce kaçak akımı ölçtü.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_leakage_current.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ช่างไฟฟ้าวัดกระแสรั่วก่อนที่จะใช้ปั๊มอีกครั้ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_leakage_current.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Elektrisi mengukur arus bocor sebelum menjalankan pompa itu lagi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_leakage_current.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O eletricista mediu a corrente de fuga antes de ligar a bomba novamente.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_leakage_current.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "전기 technician은 펌프를 다시 돌리기 전에 누설 전류를 측정했다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_leakage_current.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "電気技師はポンプを再運転する前に漏電流を測定した。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.elec_leakage_current.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The electrician measured the leakage current before he ran the pump again.",
+        "translation": "Thợ điện đã đo dòng rò trước khi chạy lại bơm.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "4953a58e240ef1f2d61c0c4ab668c34a5296f2a3cec5f77f391379912484c4f0": [
+      {
+        "forms": [
+          "Front windscreen defroster",
+          "front_defrost"
+        ],
+        "id": "lex.sa.en.front.defrost",
+        "kind": "lexeme",
+        "lemma": "Front windscreen defroster",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.front.defrost.alt"
+        ]
+      },
+      {
+        "definition": "The front windscreen heater or the demister is working. Severity level 2 — Caution. Action: Nothing urgent. Clear the windscreen before driving off..",
+        "gloss": "The front windscreen heater or the demister is working.",
+        "id": "sns.sa.en.front.defrost.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.front.defrost",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "496aca80e4d8f29fb8e8cd816c3afb48d3f103970b3a2ee1600c08ca67326dee": [
+      {
+        "forms": [
+          "block"
+        ],
+        "id": "lex.sa.en.block.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "block",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.block.noun.1",
+          "sns.sa.en.block-noun.alt"
+        ]
+      },
+      {
+        "definition": "Một đơn vị nội dung có kiểu riêng, ví dụ đoạn văn hay thư viện ảnh.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [],
+        "gloss": "khối nội dung",
+        "id": "sns.sa.vi.block.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.block.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "One piece of content, such as a prose or gallery block.",
+        "domain": [
+          "publishing"
+        ],
+        "exampleIds": [],
+        "gloss": "A unit of content with its own type, such as prose or a gallery.",
+        "id": "sns.sa.en.block-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.block.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "496dffcac4f571a5018cf12cd61bcdabd477c78dc2d3b1ea74e02cad813a4021": [
+      {
+        "forms": [
+          "Heated steering wheel",
+          "heated_steering"
+        ],
+        "id": "lex.sa.en.heated.steering",
+        "kind": "lexeme",
+        "lemma": "Heated steering wheel",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.heated.steering.alt"
+        ]
+      },
+      {
+        "definition": "The steering wheel heater is on. Severity level 1 — Information / Status. Action: Nothing to do..",
+        "gloss": "The steering wheel heater is on.",
+        "id": "sns.sa.en.heated.steering.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.heated.steering",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "49827f5d3e81d0eff2f4424cc243dfd47183175f912bc6aedcff9c0048d282c3": [
+      {
+        "forms": [
+          "Voluntary singleness",
+          "lts_voluntary_singleness"
+        ],
+        "id": "lex.sa.social.lts_voluntary_singleness",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Voluntary singleness",
+        "pos": "phrase",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_voluntary_singleness.alt",
+          "sns.sa.social.lts_voluntary_singleness.alt.ja",
+          "sns.sa.social.lts_voluntary_singleness.alt.ko",
+          "sns.sa.social.lts_voluntary_singleness.alt.pt_br",
+          "sns.sa.social.lts_voluntary_singleness.alt.th",
+          "sns.sa.social.lts_voluntary_singleness.alt.tr",
+          "sns.sa.social.lts_voluntary_singleness.alt.id"
+        ]
+      },
+      {
+        "definition": "Being single because that is the arrangement the person has chosen.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1"
+        ],
+        "gloss": "Being single because that is the arrangement the person has chosen.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "自分の意思で選択して独身でいること。的事情などの結果として独身になっている場合とは区別する。",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.ja"
+        ],
+        "gloss": "自分で選んだ配偶lessnessによって独身でいること。",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "배우자나 파트너 없이 혼자 살기를 자신의 선택으로 삼은 상태를 뜻한다. 이혼이나 사별 뒤의 일시적인 미혼 상태와는 다르다.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.ko"
+        ],
+        "gloss": "혼자 살기를 스스로 선택한 상태이다.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Solteiridão adotada deliberadamente pela pessoa, e não imposta por circumstances como a falta de um parceiro.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.pt_br"
+        ],
+        "gloss": "Estado de quem é solteiro por escolha própria.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "สถานะการเป็นโสดที่บุคคลเลือกเป็นการจัดการชีวิตของตน ไม่ใช่ผลจากการสูญเสียคู่ครอง",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.th"
+        ],
+        "gloss": "การเป็นโสดโดยเจตนา",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Evlenmeyi veya ilişki kurmayı bilinçli olarak tercih ederek tek başına yaşama durumu; kişinin kendi kararı olarak görülür.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.tr"
+        ],
+        "gloss": "Kişinin tek başına yaşamayı bilinçli olarak seçmesi.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "definition": "Berstatus-single karena memilih atau patteskan untuk hidup sendiri, bukan karena kehilangan pasangan atau belum mendapat pasangan.",
+        "exampleIds": [
+          "exm.sa.social.lts_voluntary_singleness.1.1.id"
+        ],
+        "gloss": "Menyepi karena keadaan tersebut telah dipilih sendiri.",
+        "id": "sns.sa.social.lts_voluntary_singleness.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_voluntary_singleness",
+        "pos": "phrase",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ia menyebut pekerjaannya sebagai menyepi secara sukarela karena Hydup sendirinya telah ia pilih.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Gönüllü bekarlık, yaşamını kendi isteğiyle böyle düzenlemesinden ibarettir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เขาเรียกการเป็นโสดของตนว่าการเป็นโสดโดยเจตนา เพราะเป็นการตัดสินใจของเขาเอง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ele chama isso de solteiridão voluntária e deixa claro que se trata de uma decisão, não de um consolo.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그는 이를 자발적 독신 생활이라고 부르며, 위로받아 견디는 상태가 아니라 스스로 내린 결정이라고 말한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼はこれを自発的な独身と呼び、慰めではなく自分の選択だという意味で話しています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_voluntary_singleness.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He calls it voluntary singleness, and he means it as a decision rather than a consolation.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "49acfbc83ad77a0764cde2cf9191adb221044556b5f2a163676c7f9312bd25b1": [
+      {
+        "forms": [
+          "Recovery vehicle",
+          "recovery_vehicle"
+        ],
+        "id": "lex.sa.daily_skills.recovery_vehicle",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Recovery vehicle",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.recovery_vehicle.alt",
+          "sns.sa.daily_skills.recovery_vehicle.alt.ja",
+          "sns.sa.daily_skills.recovery_vehicle.alt.ko",
+          "sns.sa.daily_skills.recovery_vehicle.alt.pt_br",
+          "sns.sa.daily_skills.recovery_vehicle.alt.id",
+          "sns.sa.daily_skills.recovery_vehicle.alt.th",
+          "sns.sa.daily_skills.recovery_vehicle.alt.tr"
+        ]
+      },
+      {
+        "definition": "The van or truck sent to collect the car. Some can lift a car and some can only tow it on a wheel.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1"
+        ],
+        "gloss": "The van or truck sent to collect the car. Some can lift a car and some can only tow it on a wheel.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "故障した車 Prairie 回収するための車両で、車を持ち上げるタイプと、輪 onto 引いて搬送するタイプがある。",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.ja"
+        ],
+        "gloss": "故障した車を回収するバンやトラック。",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자동차를 들어 올리거나 바퀴째로 견인하는 트럭이나 승용차를 말한다. 어떤 차량은 들어 올리고, 어떤 차량은 견인만 할 수 있다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.ko"
+        ],
+        "gloss": "고장 난 자동차를 수거하거나 견인해 주는 차량.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É um veículo usado para recolher carros parados na via. Alguns içam o carro, enquanto outros o rebocam, levantando apenas uma das rodas.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.pt_br"
+        ],
+        "gloss": "Veículo enviado para buscar um carro após uma pane ou acidente.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Biasanya berupa mobil van atau truk; sebagian dapat mengangkat mobil, sedangkan sebagian hanya menariknya menggunakan pengait.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.id"
+        ],
+        "gloss": "Kendaraan yang datang menjemput mobil yang rusak.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "รถตู้หรือรถบรรทุกที่มาให้ความช่วยเหลือรถเสียทาง บางคันสามารถยกรถขึ้นได้ ขณะที่บางคันสามารถเพียงลากรถให้ไปต่อทาง",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.th"
+        ],
+        "gloss": "รถกู้ภัยที่มาให้ความช่วยเหลือรถเสียทาง",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Arıza yapan aracı almak için gönderilen van veya kamyon. Bazıları aracı kaldırabilir, bazıları yalnızca tekerleğinden çekebilir.",
+        "exampleIds": [
+          "exm.sa.daily_skills.recovery_vehicle.1.1.tr"
+        ],
+        "gloss": "Arıza yapan bir aracı almak için gönderilen van veya kamyon.",
+        "id": "sns.sa.daily_skills.recovery_vehicle.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.recovery_vehicle",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "Kurtarma aracı arabayı kaldıracağı için bagajı boşaltmam gerekmiyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "รถกู้ภัยจะยกรถขึ้นได้ ผมจึงไม่ต้องถอดสิ่งของออกจากที่เก็บ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "Kendaraan penolong akan mengangkat mobil itu, jadi saya tidak perlu mengosongkan bagasi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "O veículo de reboque vai içar o carro, então não preciso esvaziar o porta-malas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "구조 차량이 자동차를 들어 올려 주므로 트렁크의 짐을 모두 꺼낼 필요가 없습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "回収車両は車を積み上げられるので、後部座席の荷物を抜く必要はありません。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.recovery_vehicle.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "49cee3ca14b8e6c7916894010a5fc21fb98bf0c4af13a5d1c719c48a975ad452": [
+      {
+        "forms": [
+          "Band-aid",
+          "band_aid"
+        ],
+        "id": "lex.sa.work.band_aid",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Band-aid",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.band_aid.alt",
+          "sns.sa.work.band_aid.alt.ja",
+          "sns.sa.work.band_aid.alt.ko",
+          "sns.sa.work.band_aid.alt.pt_br",
+          "sns.sa.work.band_aid.alt.id",
+          "sns.sa.work.band_aid.alt.th",
+          "sns.sa.work.band_aid.alt.tr"
+        ]
+      },
+      {
+        "definition": "A temporary fix that makes a problem go away without solving it.",
+        "exampleIds": [
+          "exm.sa.work.band_aid.1.1"
+        ],
+        "gloss": "A temporary fix that makes a problem go away without solving it.",
+        "id": "sns.sa.work.band_aid.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.band_aid",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "racineの問題の根本を解決するのではなく、急difficultをしのぐために行う臨時の対策。",
+        "exampleIds": [
+          "exm.sa.work.band_aid.1.1.ja"
+        ],
+        "gloss": "問題を一時的に隠すための_DAT表_WINNER。",
+        "id": "sns.sa.work.band_aid.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.band_aid",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "문제의 증상을 잠시 누그러뜨리는 임시적인 해결책이다. 실제로 원인을 고친 것은 아니므로 장기적인 방편이 될 수 없다.",
+        "exampleIds": [
+          "exm.sa.work.band_aid.1.1.ko"
+        ],
+        "gloss": "근본 원인은 해결하지 않고 일시적으로 문제를 완화하는 조치.",
+        "id": "sns.sa.work.band_aid.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.band_aid",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Providência improvisada que reduz ou mascara o problema por algum tempo, mas não elimina sua causa. Também pode ser usada como crítica a uma correção incompleta.",
+        "exampleIds": [
+          "exm.sa.work.band_aid.1.1.pt_br"
+        ],
+        "gloss": "Uma solução rápida e temporária para um problema.",
+        "id": "sns.sa.work.band_aid.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.band_aid",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Solusi sementara yang meredam masalah tanpa menyelesaikan penyebab sebenarnya.",
+        "exampleIds": [
+          "exm.sa.work.band_aid.1.1.id"
+        ],
+        "gloss": "Perbaikan sementara yang membuat masalah tampak hilang.",
+        "id": "sns.sa.work.band_aid.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.band_aid",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การแก้ไขที่ทำให้ปัญหาเบาลงชั่วคราวแต่ไม่ได้แก้ต้นเหตุ ใช้เมื่อยังไม่มีวิธีแก้ปัญหาอย่างถาวร",
+        "exampleIds": [
+          "exm.sa.work.band_aid.1.1.th"
+        ],
+        "gloss": "การแก้ปัญหาเฉพาะหน้าด้วยวิธีชั่วคราว",
+        "id": "sns.sa.work.band_aid.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.band_aid",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir sorunun belirtilerini geçici olarak gideren ancak temel nedeni çözmeyen önlemdir. Kalıcı bir çözüm yerine kullanıldığında olumsuzluk gösterir.",
+        "exampleIds": [
+          "exm.sa.work.band_aid.1.1.tr"
+        ],
+        "gloss": "Sorunu geçici olarak gideren, kalıcı çözüm sağlamayan yamadanır.",
+        "id": "sns.sa.work.band_aid.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.band_aid",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.band_aid.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
+        "translation": "Ödeme sürecine geçici bir yama uyguladık, ancak asıl sorun muhasebe sisteminde.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.band_aid.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
+        "translation": "เราใช้การแก้ปัญหาเฉพาะหน้ากับขั้นตอนการชำระเงิน แต่การแก้จริงต้องทำที่ระบบบัญชี",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.band_aid.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
+        "translation": "Kami menerapkan perbaikan sementara pada proses pembayaran, tetapi masalah sebenarnya ada pada sistem akuntansi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.band_aid.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
+        "translation": "Aplicamos uma correção temporária no sistema de pagamentos, mas o problema principal ainda está no setor de contabilidade.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.band_aid.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
+        "translation": "결제 절차에 임시 방편으로 손봤지만, 진짜 해결책은 회계 시스템에 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.band_aid.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
+        "translation": "支払い手順には応急的な対策öttanisしたが本当の問題は経理システムにあります。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.band_aid.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

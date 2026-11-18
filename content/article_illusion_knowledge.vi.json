@@ -1,0 +1,91 @@
+{
+  "language": "vi",
+  "lessonId": "article_illusion_knowledge",
+  "objectives": [
+    "Giải thích được ảo tưởng hiểu biết là gì và bắt nguồn từ đâu.",
+    "Mô tả được hiệu ứng Dunning–Kruger và tự nhận ra nó ở bản thân.",
+    "Chỉ ra công cụ tìm kiếm và AI khuếch đại ảo tưởng này ra sao.",
+    "Giải thích thiên kiến xác nhận và vì sao nó cảm giác như bằng chứng.",
+    "Thực hành các cách kiểm tra phân biệt thông tin với hiểu biết thật."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Ảo tưởng hiểu biết là khoảng cách giữa mức bạn nghĩ mình biết về một chủ đề và mức bạn thật sự biết. Nó lớn lên trong một môi trường cụ thể: nơi câu trả lời luôn cách một lượt tìm kiếm. Khi thông tin rẻ, bộ não ngừng phân biệt 'tôi biết cái này' với 'tôi biết tìm cái này ở đâu'.\n\nCác nhà tâm lý chứng minh hiệu ứng bằng một mẹo đơn giản. Họ cho người tham gia tra cứu internet khi trả lời câu hỏi, rồ i sau đó hỏi lại khi không có mạng. Những người đã tra cứu luôn đánh giá kiến thức của mình cao hơn, kể cả về những chủ đề họ chưa từng tra. Chỉ cần tiếp cận được câu trả lời đã thổi phồng cảm giác 'biết'.\n\nTrợ lý AI đưa hiệu ứng xa hơn: chúng không chỉ cung cấp câu trả lời mà còn trả lời trôi chảy, tự tin. Sự trôi chảy bị đọc là chuyên môn, và một câu trả lời sai mà trôi chảy là loại nguy hiểm nhất.",
+      "examples": [
+        "Sau khi nhờ AI giải thích lạm phát, bạn cảm thấy mình hiểu lạm phát — nhưng thử tự viết lại lời giải thích xem, cảm giác đó sụp đổ ngay."
+      ],
+      "heading": "Câu trả lời dễ nhất là câu nghe giống sự thật nhất"
+    },
+    {
+      "body": "Hiệu ứng Dunning–Kruger mô tả một quy luật đau: càng ít hiểu biết về một lĩnh vực, người ta càng dễ đánh giá quá cao năng lực của mình. Người mới bắt đầu đã thấy mặt nước của lĩnh vực — đủ để cảm nhận hình dáng nó — và chưa thấy gì của độ sâu để biết mình còn thiếu bao nhiêu.\n\nHai cơ chế điều khiển hiệu ứng này. Thứ nhất, kỹ năng để phán xét câu trả lời chính là kỹ năng để đưa ra câu trả lời đó. Người không nhận ra lập luận tệ không thể đếm được mình đang tin bao nhiêu lập luận tệ. Thứ hai, giai đoạn đầu học thật sự rất phấn khích: bạn đi từ không biết gì sang biết một cái gì đó, và độ dốc ấy cảm giác rất dốc. Chỉ sau đó bạn mới phát hiện bản đồ lớn hơn hẳn phần mình đã đi.\n\nMôi trường thông tin hiện nại nuôi đường cong này. Một tuần xem video hay hai mươi câu hỏi với AI có thể khiến người mới thấy mình như người tương đối am hiểu. Trong khi đó chuyên gia thật đã thấy đủ các trường hợp ngoại lệ để tự nghi ngờ mình. Tiếng nói to nhất trong phòng hiếm khi là chính xác nhất.",
+      "examples": [
+        "Một người xem năm video về dinh dưỡng tranh luận rất tự tin với chuyên gia dinh dưỡng — và không giải thích nổi thế nào là thử nghiệm có đối chứng."
+      ],
+      "heading": "Dunning–Kruger và cơn say của người mới bắt đầu"
+    },
+    {
+      "body": "Thiên kiến xác nhận là xu hướng tìm, nhớ và tin những thông tin ủng hộ điều mình đã tin, đồng thời giảm giá trị phần còn lại. Bên trong đầu mình, nó không cảm giác như một thiên kiến. Nó cảm giác như thế giới cứ đồng ý với mình.\n\nCông cụ tìm kiếm âm thầm khuếch đại điều này. Chúng xếp hạng kết quả theo thứ mọi người hay bấm, và người ta bấm vào thứ họ đã đồng ý. Gõ một khẳng định dưới dạng câu hỏi, máy trả về bằng chứng ủng hộ nó. Gõ khẳng định ngược lại, máy cũng trả về bằng chứng cho phía đó. Công cụ là tấm gương đội lớp áo blouse trắng của nhà khoa học.\n\nTrợ lý AI thêm một lớp nữa: chúng được huấn luyện để chiều theo. Hỏi theo hướng dẫn dắt, chúng có xu hướng bám vào khung bạn đưa. Một phiên với AI có thể khiến bạn chắc chắn hơn mà không đúng hơn tí nào — sự chắc chắn đi vay từ độ trôi chảy của máy, chứ không phải từ bằng chứng bạn đã tự xem.",
+      "examples": [
+        "Tìm 'vì sao cà phê tốt' và 'vì sao cà phê có hại' đều trả về hàng trăm bài viết tự tin."
+      ],
+      "heading": "Thiên kiến xác nhận: cuộc tìm kiếm không bao giờ là tìm kiếm"
+    },
+    {
+      "body": "Những thuật ngữ này đặt tên từng bộ phận của ảo tưởng. Học chúng, bạn sẽ thấy cỗ máy đang chạy trong chính đầu mình.",
+      "heading": "Từ vựng của sự hiểu biết",
+      "terms": [
+        {
+          "example": "Anh ấy ảo tưởng hiểu biết về sửa ống nước cho đến khi cái ống 'đã sửa' làm ngập nhà tắm.",
+          "gloss": "Cảm giác hiểu sai về một chủ đề, đến từ việc dễ dàng tra được câu trả lời chứ không phải từ sự hiểu biết thật.",
+          "term": "Ảo tưởng hiểu biết",
+          "termId": "illusion_of_knowledge"
+        },
+        {
+          "example": "Hiệu ứng Dunning–Kruger giải thích vì sao nhân viên mới là người chắc chắn nhất rằng hệ thống sẽ không bao giờ lỗi.",
+          "gloss": "Quy luật mà người kém kỹ năng trong một lĩnh vực lại tự đánh giá cao khả năng của mình, vì kỹ năng phán xét câu trả lời chính là kỹ năng đưa ra câu trả lời.",
+          "term": "Hiệu ứng Dunning–Kruger",
+          "termId": "dunning_kruger_effect"
+        },
+        {
+          "example": "Thiên kiến xác nhận khiến anh ấy đọc ba bài khen chiếc xe và phớt lờ ba mươi bài kể lỗi động cơ.",
+          "gloss": "Xu hướng tìm, nhớ và tin thông tin ủng hộ niềm tin sẵn có đồng thời giảm giá trị phần còn lại.",
+          "term": "Thiên kiến xác nhận",
+          "termId": "confirmation_bias"
+        },
+        {
+          "example": "Hiệu ứng Google là lý do không ai ở cuộc họp nhớ ngày chính xác, nhưng ai cũng biết trang nào có.",
+          "gloss": "Xu hướng quên thông tin dễ tìm trên mạng, trong khi nhớ cách tìm nó.",
+          "term": "Hiệu ứng Google",
+          "termId": "google_effect"
+        },
+        {
+          "example": "Khiêm tốn trí tuệ là nói 'tôi đã sai về điều đó' trước đám đông mà không thấy đó là thất bại.",
+          "gloss": "Thói quen giữ niềm tin với mức độ tự tin đúng mực: mạnh khi bằng chứng mạnh, yếu khi bằng chứng yếu.",
+          "term": "Khiêm tốn trí tuệ",
+          "termId": "intellectual_humility"
+        },
+        {
+          "example": "Hiểu biết về thông tin là kiểm tra xem tựa đề gây sốc dẫn tới một nghiên cứu hay tới một tựa đề khác.",
+          "gloss": "Kỹ năng tìm, phán đoán và dùng thông tin: phân biệt nguồn sơ cấp với ý kiến, bằng chứng với giai thoại.",
+          "term": "Hiểu biết về thông tin",
+          "termId": "information_literacy"
+        }
+      ]
+    },
+    {
+      "body": "Giải dộc nhanh nhất cho ảo tưởng hiểu biết là tự thu hồi kiến thức. Sau khi học một điều gì đó, đóng hết lại và giải thích nó thành tiếng bằng lời mình, tốt nhất trước mặt một người thật hoặc một trang giấy trắng. Những lỗ hổng bạn không biết là mình có lộ ra ngay. Nếu không tự đưa ra được lời giải thích mà không có công cụ, thì kiến thức đó chưa bao giờ là của bạn.",
+      "heading": "Bài kiểm tra 'giải thích lại'"
+    },
+    {
+      "body": "Không phải vì thế mà công cụ là kẻ thù. Công cụ tìm kiếm và AI là những bộ khuếch đại phi thường — với người biết phân biệt đi vay câu trả lời với sở hữu nó. Những thực hành giữ ranh giới này luôn cũ kỹ và rẻ.\n\n**Tự kiểm tra trước khi tin mình.** Sau khi đọc, đóng tab lại và viết ý chính từ trí nhớ. **Săn phản biện mạnh nhất**, không phải yếu nhất: nếu bạn chỉ thử ý tưởng mình trên đối thủ giấy, nó sẽ không bao giờ thất bại. **Hỏi tuyên bố đến từ đâu**: một nghiên cứu, một nhân chứng, hay một chuỗi bài chia sẻ lại? **Cập nhật thành lời**: nói hoặc viết ra khi mình đổ i ý, để việc đổ i ý trở thành chuyện bình thường chứ không phải thất bại.\n\nCảm giác 'biết' là một niềm vui mà thế giới hiện đại phát miễn phí. Tri thức thật vẫn đòi giá cũ: sự chú ý, nỗ lực, và sẵn lòng sai trong ngắn hạn để đúng trong dài hạn.",
+      "examples": [
+        "Trước lần tranh luận tới, dành mười phút viết phiên bản hay nhất của luận điểm phía bên kia. Thắng hay thua, bạn biết nhiều hơn lúc bắt đầu."
+      ],
+      "heading": "Từ cảm giác được thông báo đến thật sự được thông báo"
+    }
+  ],
+  "summary": "Càng dễ tìm thấy câu trả lời, con người càng tin rằng mình vốn đã biết. Bài viết giải thích ảo tưởng hiểu biết: công cụ tìm kiếm và AI nuôi lớn hiệu ứng Dunning–Kruger thế nào, tại sao thiên kiến xác nhận lại giống 'đúng', và làm sao phân biệt có thông tin với có hiểu biết.",
+  "title": "Ảo tưởng hiểu biết: Vì sao câu trả lời dễ dàng giống sự thật đến thế"
+}

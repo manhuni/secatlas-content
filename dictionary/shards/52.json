@@ -1,0 +1,974 @@
+{
+  "records": {
+    "5214bf637717ddb480ecc554b2ec4c3f9a0b4205efcb2714d4a2da6ad4f6bb1a": [
+      {
+        "forms": [
+          "Delegation"
+        ],
+        "id": "lex.sa.mind.delegation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Delegation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.delegation.en",
+          "sns.sa.mind.delegation.vi"
+        ]
+      },
+      {
+        "definition": "Assigning a task and the authority to complete it; with agents, the responsibility still stays with the delegator.",
+        "exampleIds": [],
+        "gloss": "Assigning a task and the authority to complete it; with agents, the responsibility still stays with the delegator.",
+        "id": "sns.sa.mind.delegation.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.delegation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Giao một nhiệm vụ kèm quyền hoàn thành nó; với agent, trách nhiệm vẫn ở lại với người ủy quyền.",
+        "id": "sns.sa.mind.delegation.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.delegation",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "52155200669b887c39cac50a8f838d46b9ef94965c154d5ccabf4929ff475151": [
+      {
+        "forms": [
+          "Audience",
+          "cs_audience"
+        ],
+        "id": "lex.sa.mind.cs_audience",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Audience",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.cs_audience.alt",
+          "sns.sa.mind.cs_audience.alt.ja",
+          "sns.sa.mind.cs_audience.alt.ko",
+          "sns.sa.mind.cs_audience.alt.pt_br",
+          "sns.sa.mind.cs_audience.alt.id",
+          "sns.sa.mind.cs_audience.alt.th",
+          "sns.sa.mind.cs_audience.alt.tr"
+        ]
+      },
+      {
+        "definition": "The people who are present and watching; in a status attack the audience is what makes the move cheap.",
+        "exampleIds": [
+          "exm.sa.mind.cs_audience.1.1"
+        ],
+        "gloss": "The people who are present and watching; in a status attack the audience is what makes the move cheap.",
+        "id": "sns.sa.mind.cs_audience.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.cs_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "発言や行為を見ているEFLople。地位を操作する場面では、観客がいることでその手が安っぽくなる。",
+        "exampleIds": [
+          "exm.sa.mind.cs_audience.1.1.ja"
+        ],
+        "gloss": "その場にいて人の所做を見ている人々。",
+        "id": "sns.sa.mind.cs_audience.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.cs_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 장소에 함께 있어 그 상황을 지켜보는 사람들. 특히 지위 경쟁에서는 관찰자들 덕분에 행동을 값싸게 둘 수 있다는 점이 중요하다.",
+        "exampleIds": [
+          "exm.sa.mind.cs_audience.1.1.ko"
+        ],
+        "gloss": "자리에서 지켜보며 행동을 지켜보는 사람들.",
+        "id": "sns.sa.mind.cs_audience.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.cs_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Conjunto de pessoas presentes que acompanham e avaliam uma interação. Em um ataque de status, a audiência torna a estratégia mais fácil e inexpensive.",
+        "exampleIds": [
+          "exm.sa.mind.cs_audience.1.1.pt_br"
+        ],
+        "gloss": "Pessoas presentes que observam uma interação ou hierarquia.",
+        "id": "sns.sa.mind.cs_audience.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.cs_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Orang-orang yang hadir dan menonton suatu peristiwa atau tindakan. Dalam serangan status, Audiens membuat gerakan terlihat penting sekaligus mudah dilakukan karena mendapat perhatian.",
+        "exampleIds": [
+          "exm.sa.mind.cs_audience.1.1.id"
+        ],
+        "gloss": "Orang-orang yang hadir dan menonton; dalam serangan status, mereka yang membuat gerakan itu murah.",
+        "id": "sns.sa.mind.cs_audience.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.cs_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ผู้ที่เข้ามาเป็นพยานหรือกำลังมองและฟังเหตุการณ์นั้นอยู่ ในการโจมตีสถานะ ผู้ชมจะทำให้การกระทำนั้นดูมีน้ำหนักและกดดันผู้ถูกโจมตีได้",
+        "exampleIds": [
+          "exm.sa.mind.cs_audience.1.1.th"
+        ],
+        "gloss": "กลุ่มผู้ที่อยู่ต่อหน้าและกำลังมองหรือฟังอยู่",
+        "id": "sns.sa.mind.cs_audience.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.cs_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir davranışı gören, izleyen kişiler topluluğu. Statü saldırısında seyirciler, hamlenin ucuz ve kolay gerçekleşmesini sağlar.",
+        "exampleIds": [
+          "exm.sa.mind.cs_audience.1.1.tr"
+        ],
+        "gloss": "Orada bulunan ve izleyen kişiler topluluğu.",
+        "id": "sns.sa.mind.cs_audience.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.cs_audience",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.cs_audience.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Seyirci olmadığında ortada değiştirilecek bir sıralama da olmadı; bu yüzden soru koridorda kaldı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.cs_audience.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "หากไม่มีผู้ชม ก็ไม่มีการจัดอันดับให้เปลี่ยน คำถามจึงยังค้างอยู่ในทางเดิน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.cs_audience.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Tanpa audiens, tidak ada peringkat yang bisa digeser, sehingga pertanyaannya tetap dibicarakan di koridor.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.cs_audience.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sem audiência, não há hierarquia a alterar, então a questão ficou no corredor.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.cs_audience.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "구경하는 사람이 없었다면 바꿀 순위도 없었을 테니, 그 질문은 복도에 남았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.cs_audience.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "観客がいなければ序列を動かしづらく、問題はそのまま廊下に残った。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.cs_audience.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Without an audience there is no ranking to shift, so the question stayed in the corridor.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "523411ab0c9834e6277483bdc4b8c93ed01d7b01016290f3a454be43d4fe7907": [
+      {
+        "forms": [
+          "sentence",
+          "sentences"
+        ],
+        "id": "lex.sa.en.sentence.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "sentence",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.sentence.noun.1",
+          "sns.sa.en.sentence-noun.alt"
+        ]
+      },
+      {
+        "definition": "Nhóm từ diễn đạt trọn ý.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "câu",
+        "id": "sns.sa.vi.sentence.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.sentence.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A complete statement in writing.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "A group of words expressing a complete thought.",
+        "id": "sns.sa.en.sentence-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.sentence.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "52367a6622b19f08825e915fad80c542ad4f4c34dbcebad9f5007994b3e39208": [
+      {
+        "forms": [
+          "Reference",
+          "reference"
+        ],
+        "id": "lex.sa.work.reference",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Reference",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.reference.alt",
+          "sns.sa.work.reference.alt.ja",
+          "sns.sa.work.reference.alt.ko",
+          "sns.sa.work.reference.alt.pt_br",
+          "sns.sa.work.reference.alt.id",
+          "sns.sa.work.reference.alt.th",
+          "sns.sa.work.reference.alt.tr"
+        ]
+      },
+      {
+        "definition": "A person your former employer allows a new employer to contact to check your work history.",
+        "exampleIds": [
+          "exm.sa.work.reference.1.1"
+        ],
+        "gloss": "A person your former employer allows a new employer to contact to check your work history.",
+        "id": "sns.sa.work.reference.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.reference",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "以前の雇用主が新しい雇用主の連絡に応じられるように指定した人物。勤務経歴や職務内容を確認するための照会先として紹介される。",
+        "exampleIds": [
+          "exm.sa.work.reference.1.1.ja"
+        ],
+        "gloss": "経歴確認のため_fraction contact \"new employer\" person。",
+        "id": "sns.sa.work.reference.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.reference",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "이전 직장에서 새 직장인에게 근무 경력을 확인해 주는 사람이다. 본인의 동의가 있어야 연락할 수 있다.",
+        "exampleIds": [
+          "exm.sa.work.reference.1.1.ko"
+        ],
+        "gloss": "경력 확인을 위해 연락할 수 있는 추천인.",
+        "id": "sns.sa.work.reference.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.reference",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Contato profissional indicado por um empregador anterior para que um novo empregador verifique o desempenho e a trajetória do candidato.",
+        "exampleIds": [
+          "exm.sa.work.reference.1.1.pt_br"
+        ],
+        "gloss": "Pessoa que pode confirmar o histórico profissional de alguém.",
+        "id": "sns.sa.work.reference.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.reference",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Orang yang menjadi rujukan dari pemberi kerja sebelumnya dan dapat dihubungi oleh pemberi kerja baru untuk memeriksa riwayat kerja. Hubungan ini berbeda dari surat rekomendasi.",
+        "exampleIds": [
+          "exm.sa.work.reference.1.1.id"
+        ],
+        "gloss": "Orang yang dapat dihubungi untuk memeriksa riwayat kerjaSomeone.",
+        "id": "sns.sa.work.reference.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.reference",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "บุคคลที่นายจ้างเดิมอนุญาตให้นายจ้างใหม่ติดต่อเพื่อตรวจสอบประวัติและผลงานของผู้สมัคร",
+        "exampleIds": [
+          "exm.sa.work.reference.1.1.th"
+        ],
+        "gloss": "ผู้อ้างอิงด้านประวัติการทำงาน",
+        "id": "sns.sa.work.reference.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.reference",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Genellikle önceki işverenin, çalışanın deneyimi ve performansı hakkında bilgi vermesi üzere belirlediği kişi.",
+        "exampleIds": [
+          "exm.sa.work.reference.1.1.tr"
+        ],
+        "gloss": "Çalışanın iş geçmişini doğrulamak amacıyla yeni işverenin görüşebileceği referans kişi.",
+        "id": "sns.sa.work.reference.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.reference",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.reference.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could you give me a reference from your last manager?",
+        "translation": "Bana son müdürünüzden bir referans verebilir misiniz?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.reference.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could you give me a reference from your last manager?",
+        "translation": "คุณช่วยให้ผู้อ้างอิงจากหัวหน้าเดิมของคุณได้ไหม",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.reference.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could you give me a reference from your last manager?",
+        "translation": "Bisakah Anda memberi saya rujukan dari manajer terakhir Anda?",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.reference.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could you give me a reference from your last manager?",
+        "translation": "Você poderia me indicar uma referência do seu último gerente?",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.reference.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could you give me a reference from your last manager?",
+        "translation": "마지막 상사에게 추천인을 부탁할 수 있을까요?",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.reference.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could you give me a reference from your last manager?",
+        "translation": "以前の上司を経歴確認の照会先として紹介していただけますか。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.reference.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Could you give me a reference from your last manager?",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "525eca1d5089dbdcbb6700d910c5e0bc23fbaa23ee026c0e224c2b45490e5f29": [
+      {
+        "forms": [
+          "Star",
+          "star"
+        ],
+        "id": "lex.sa.kids_science.star",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Star",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.star.alt",
+          "sns.sa.kids_science.star.alt.ja",
+          "sns.sa.kids_science.star.alt.ko",
+          "sns.sa.kids_science.star.alt.pt_br",
+          "sns.sa.kids_science.star.alt.id",
+          "sns.sa.kids_science.star.alt.th",
+          "sns.sa.kids_science.star.alt.tr"
+        ]
+      },
+      {
+        "definition": "A ball of hot gas that makes its own light. The Sun is a star.",
+        "exampleIds": [
+          "exm.sa.kids_science.star.1.1"
+        ],
+        "gloss": "A ball of hot gas that makes its own light. The Sun is a star.",
+        "id": "sns.sa.kids_science.star.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.star",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自ら熱を出し、定義的に発光する天体のこと。太陽も星の一つ。",
+        "exampleIds": [
+          "exm.sa.kids_science.star.1.1.ja"
+        ],
+        "gloss": "自ら光る、高温の気体でできた天体。",
+        "id": "sns.sa.kids_science.star.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.star",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "뜨거운 기체로 이루어져 스스로 빛을 내는 하늘의 천체이다. 태양도 별이며, 연예인을 뜻할 때는 다른 의미로 쓰인다.",
+        "exampleIds": [
+          "exm.sa.kids_science.star.1.1.ko"
+        ],
+        "gloss": "스스로 빛을 내는 천체.",
+        "id": "sns.sa.kids_science.star.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.star",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Um corpo celeste formado por gases quentes que emite luz por meio de suas próprias reações. O Sol é uma estrela.",
+        "exampleIds": [
+          "exm.sa.kids_science.star.1.1.pt_br"
+        ],
+        "gloss": "Grande esfera de gás quente que produz a própria luz.",
+        "id": "sns.sa.kids_science.star.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.star",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam astronomi, bintang adalah bola gas panas yang menghasilkan cahaya sendiri. Matahari juga merupakan bintang.",
+        "exampleIds": [
+          "exm.sa.kids_science.star.1.1.id"
+        ],
+        "gloss": "Benda gas panas yang menghasilkan cahayanya sendiri.",
+        "id": "sns.sa.kids_science.star.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.star",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ดาวฤกษ์เป็นกลุ่มก๊าซร้อนที่เปล่งแสงได้เอง ดวงอาทิตย์ก็เป็นดาวฤกษ์ด้วย",
+        "exampleIds": [
+          "exm.sa.kids_science.star.1.1.th"
+        ],
+        "gloss": "กลุ่มก๊าซร้อนที่ส่งแสงได้เอง",
+        "id": "sns.sa.kids_science.star.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.star",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kendi ışığını üreten, sıcak gazlardan oluşan gök cismi. Güneş de bir yıldızdır.",
+        "exampleIds": [
+          "exm.sa.kids_science.star.1.1.tr"
+        ],
+        "gloss": "Kendi ışığını üreten, sıcak gazlardan oluşan gök cismi.",
+        "id": "sns.sa.kids_science.star.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.star",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.star.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That bright dot is a star, shining all by itself.",
+        "translation": "O parlak nokta, kendi ışığını yayan bir yıldızdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.star.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That bright dot is a star, shining all by itself.",
+        "translation": "จุดสว่างนั้นเป็นดาวฤกษ์ที่ส่งแสงเป็นของตัวเอง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.star.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That bright dot is a star, shining all by itself.",
+        "translation": "Titik terang itu adalah bintang yang cahayanya sendiri.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.star.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That bright dot is a star, shining all by itself.",
+        "translation": "Aquele ponto brilhante é uma estrela, que brilha por si só.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.star.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That bright dot is a star, shining all by itself.",
+        "translation": "하늘에 밝게 빛나는 점이 바로 별이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.star.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That bright dot is a star, shining all by itself.",
+        "translation": "あの明るい点は、ひとりでに輝いている星です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.star.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That bright dot is a star, shining all by itself.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "52703b0605cda357694788203d7877db2ab0efe78ce9fcfd524b311c9d313479": [
+      {
+        "forms": [
+          "Household labour",
+          "gre_household_labour"
+        ],
+        "id": "lex.sa.social.gre_household_labour",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Household labour",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gre_household_labour.alt",
+          "sns.sa.social.gre_household_labour.alt.ja",
+          "sns.sa.social.gre_household_labour.alt.ko",
+          "sns.sa.social.gre_household_labour.alt.pt_br",
+          "sns.sa.social.gre_household_labour.alt.id",
+          "sns.sa.social.gre_household_labour.alt.th",
+          "sns.sa.social.gre_household_labour.alt.tr"
+        ]
+      },
+      {
+        "definition": "The work of running the house: cleaning, shopping, cooking, laundry and bills.",
+        "exampleIds": [
+          "exm.sa.social.gre_household_labour.1.1"
+        ],
+        "gloss": "The work of running the house: cleaning, shopping, cooking, laundry and bills.",
+        "id": "sns.sa.social.gre_household_labour.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gre_household_labour",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "家庭を維持するための家事労働。掃除、買い物、料理、洗濯、光熱費の支払いなど有偿Recognize 家族 Portrait とも-labeled に必需される in the family.",
+        "exampleIds": [
+          "exm.sa.social.gre_household_labour.1.1.ja"
+        ],
+        "gloss": "家事: 掃除|GEW shopping、料理、洗濯、支払など。",
+        "id": "sns.sa.social.gre_household_labour.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gre_household_labour",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "집안일은 집을 청소하고 장을 보며 요리하고 빨래하고 공과금까지 내는 집안 운영에 관한 일을 가리킵니다. 대개 임금 없이 하는 가정의 노동을 뜻합니다.",
+        "exampleIds": [
+          "exm.sa.social.gre_household_labour.1.1.ko"
+        ],
+        "gloss": "집안일: 청소, 장보기, 요리, 세탁, 공과금 납부 등 집을 운영하는 일.",
+        "id": "sns.sa.social.gre_household_labour.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gre_household_labour",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Tarefas de limpeza, compras, culinária, roupas, contas e manutenção do lar. Muitas vezes são realizadas sem reconhecimento ou remuneração.",
+        "exampleIds": [
+          "exm.sa.social.gre_household_labour.1.1.pt_br"
+        ],
+        "gloss": "Trabalho necessário para organizar e manter uma casa.",
+        "id": "sns.sa.social.gre_household_labour.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gre_household_labour",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pekerjaan yang mencakup membersihkan rumah, belanja, memasak, mencuci pakaian, dan mengurus tagihan. Pekerjaan ini sering tidak dimasukkan ke dalam calculations pekerjaan yang dilConventionally reported.",
+        "exampleIds": [
+          "exm.sa.social.gre_household_labour.1.1.id"
+        ],
+        "gloss": "Pekerjaan untuk menjalankan rumah danmeet kebutuhan anggotanya.",
+        "id": "sns.sa.social.gre_household_labour.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gre_household_labour",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "งานที่ทำให้บ้านดำเนินไปได้ ครอบคลุมงานบ้านที่ไม่ได้รับค่าจ้าง มักเป็นงานที่มองข้ามและไม่ปรากฏในบัญชีหรือรายงานทางการ",
+        "exampleIds": [
+          "exm.sa.social.gre_household_labour.1.1.th"
+        ],
+        "gloss": "งานจัดการบ้าน ทั้งการทำความสะอาด ซื้อของ ทำอาหาร ซักผ้า และจ่ายค่าใช้จ่าย",
+        "id": "sns.sa.social.gre_household_labour.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gre_household_labour",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Evin günlük işlerini yürüten temizlik, alışveriş, yemek pişirme, çamaşır ve fatura ödeme gibi emek. Bu iş çoğu zaman görünmez olduğu için ücretli çalışma gibi değerlendirilmez.",
+        "exampleIds": [
+          "exm.sa.social.gre_household_labour.1.1.tr"
+        ],
+        "gloss": "Temizlik, yemek, çamaşır ve faturalarla evin yürütülmesini sağlayan iş.",
+        "id": "sns.sa.social.gre_household_labour.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gre_household_labour",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gre_household_labour.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ev emeği, haftanın raporlarda hiç görünmeyen bölümünü oluşturur.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gre_household_labour.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "งานบ้านคือส่วนของสัปดาห์ที่ไม่เคยปรากฏในรายงาน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gre_household_labour.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pekerjaan rumah tangga adalah bagian pekerjaan mingguan yang tidak pernah dicantumkan dalam laporan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gre_household_labour.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O trabalho doméstico ocupava parte importante da rotina dela, mas raramente era mencionado.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gre_household_labour.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "주말에는 가사노동이 늘어서 보고서에는 늘 빠진다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gre_household_labour.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "家事労働とは、週のうちに一度も報告に 现れない time 部分のこともある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gre_household_labour.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Household labour is the part of the week that never appears on a report.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "52a0ab62594d9922cd2a566de26546d83e3aad568c9d43dd9cb842a421a2151d": [
+      {
+        "forms": [
+          "Reciprocity",
+          "dpn_reciprocity"
+        ],
+        "id": "lex.sa.work.dpn_reciprocity",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Reciprocity",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.dpn_reciprocity.alt",
+          "sns.sa.work.dpn_reciprocity.alt.ja",
+          "sns.sa.work.dpn_reciprocity.alt.ko",
+          "sns.sa.work.dpn_reciprocity.alt.pt_br",
+          "sns.sa.work.dpn_reciprocity.alt.id",
+          "sns.sa.work.dpn_reciprocity.alt.th",
+          "sns.sa.work.dpn_reciprocity.alt.tr"
+        ]
+      },
+      {
+        "definition": "The pressure to return a favour that the other side has given you.",
+        "exampleIds": [
+          "exm.sa.work.dpn_reciprocity.1.1"
+        ],
+        "gloss": "The pressure to return a favour that the other side has given you.",
+        "id": "sns.sa.work.dpn_reciprocity.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.dpn_reciprocity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "相手から好意や便宜を受けたあと、それを返さなければと $|、}$ feels pressure。恩返しへの義務感とは限らず、相手と同じuptakeを返したい気持ちも含む。",
+        "exampleIds": [
+          "exm.sa.work.dpn_reciprocity.1.1.ja"
+        ],
+        "gloss": "对方から受けた恩を返さなければと感じる圧力。",
+        "id": "sns.sa.work.dpn_reciprocity.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.dpn_reciprocity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "호감성이란 상대가 베풀어 준 호의를 받으면 그만큼 갚아야 한다는 압박을 느끼는 현상이다. 단순한 호의와 달리 다시 행동해야 한다는 도덕적 의무감을 포함한다.",
+        "exampleIds": [
+          "exm.sa.work.dpn_reciprocity.1.1.ko"
+        ],
+        "gloss": "상대에게 받은 호의를 되갚으려는 마음.",
+        "id": "sns.sa.work.dpn_reciprocity.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.dpn_reciprocity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pressão social para devolver uma gentileza ou um benefício recebido. Esse sentimento pode influenciar decisões eibaba as­­alisões, embora não seja uma obrigação formal.",
+        "exampleIds": [
+          "exm.sa.work.dpn_reciprocity.1.1.pt_br"
+        ],
+        "gloss": "A tendência de retribuir uma gentileza ou um favorecimento recebido.",
+        "id": "sns.sa.work.dpn_reciprocity.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.dpn_reciprocity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Resiproitas adalah kewajiban sosial untuk membalas kebaikan orang lain, meskipunbalas-balasan itu tidak diminta secara langsung. Tekanan ini dapat muncul ketika seseorang merasa sudah berutang budi.",
+        "exampleIds": [
+          "exm.sa.work.dpn_reciprocity.1.1.id"
+        ],
+        "gloss": "Tekanan untuk membalas kebaikan yang telah diterima dari orang lain.",
+        "id": "sns.sa.work.dpn_reciprocity.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.dpn_reciprocity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เมื่อได้รับความช่วยเหลือหรือของแถม ผู้รับอาจรู้สึกว่าต้องตอบแทน ความรู้สึกนี้ไม่จำเป็นต้องกลายเป็นพันธะทางกฎหมาย",
+        "exampleIds": [
+          "exm.sa.work.dpn_reciprocity.1.1.th"
+        ],
+        "gloss": "แรงกดดันให้ตอบแทนความช่วยเหลือที่ได้รับ",
+        "id": "sns.sa.work.dpn_reciprocity.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.dpn_reciprocity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir kişinin, başkasının kendisine yaptığı iyiliğe karşılık verme ya da karşılığını isteme eğilimidir. Bu karşılıklılık duygusu, çoğu zaman sözleşmeden doğan bir yükümlülük hissidir.",
+        "exampleIds": [
+          "exm.sa.work.dpn_reciprocity.1.1.tr"
+        ],
+        "gloss": "Karşı tarafın verdiği iyiliğin karşılığını verme baskısı.",
+        "id": "sns.sa.work.dpn_reciprocity.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.dpn_reciprocity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.dpn_reciprocity.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "İndirim bir iyilikti, aynı fiyata yenilemek ise bu iyiliğin karşılığıydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.dpn_reciprocity.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ส่วนลดเป็นความช่วยเหลือ ส่วนการต่ออายุด้วยราคาเดิมคือการตอบแทน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.dpn_reciprocity.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Diskon itu adalah kebaikan, dan perpanjangan langganan dengan harga sama merupakan balasannya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.dpn_reciprocity.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O desconto foi o favor, e a renovação pelo mesmo preço foi a retribuição.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.dpn_reciprocity.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "할인을 받은 뒤에는 같은 가격으로 갱신해야 할 것 같은 호감이 생겼다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.dpn_reciprocity.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "割引が相手からの便宜で、同じ価格での更新が恩返しの形になっていた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.dpn_reciprocity.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The discount was the favour, and the renewal at the same price was the bill.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

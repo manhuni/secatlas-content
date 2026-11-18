@@ -1,0 +1,239 @@
+{
+  "records": {
+    "6b9832180c09e9bb93ddb220102fc8aa79d6c259118f7adddfaeeedc13cf1b44": [
+      {
+        "forms": [
+          "pictogram"
+        ],
+        "id": "lex.sa.en.pictogram.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "pictogram",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.pictogram.noun.1",
+          "sns.sa.en.pictogram-noun.alt"
+        ]
+      },
+      {
+        "definition": "Hình nhỏ kèm nhãn để biểu thị một đại lượng.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.50"
+        ],
+        "gloss": "pictogram",
+        "id": "sns.sa.vi.pictogram.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.pictogram.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A picture that stands for a thing.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.50"
+        ],
+        "gloss": "A small picture with a label standing for a quantity.",
+        "id": "sns.sa.en.pictogram-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.pictogram.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.50",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "Each pictogram renders as a card with a label and a meaning line.",
+        "translation": "Mỗi pictogram hiển thị thành một thẻ có nhãn và một dòng giải thích.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6bd0744f8e45f479defe9ba3c0adbdba4c25c96dd841cec7d2aa9109705f704d": [
+      {
+        "forms": [
+          "Assertiveness",
+          "gem_assertiveness"
+        ],
+        "id": "lex.sa.social.gem_assertiveness",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Assertiveness",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gem_assertiveness.alt",
+          "sns.sa.social.gem_assertiveness.alt.ja",
+          "sns.sa.social.gem_assertiveness.alt.ko",
+          "sns.sa.social.gem_assertiveness.alt.pt_br",
+          "sns.sa.social.gem_assertiveness.alt.id",
+          "sns.sa.social.gem_assertiveness.alt.th",
+          "sns.sa.social.gem_assertiveness.alt.tr"
+        ]
+      },
+      {
+        "definition": "Stating your need, your limit or your disagreement without wrapping it in blame.",
+        "exampleIds": [
+          "exm.sa.social.gem_assertiveness.1.1"
+        ],
+        "gloss": "Stating your need, your limit or your disagreement without wrapping it in blame.",
+        "id": "sns.sa.social.gem_assertiveness.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gem_assertiveness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "自分の要望や限界、不同意を、責めらずに misunderstanding しない形で表現する態度や行動。相手に blamed するのではなく、必要なことを明確に伝える。",
+        "exampleIds": [
+          "exm.sa.social.gem_assertiveness.1.1.ja"
+        ],
+        "gloss": "自分の要望や限界、不同意を責めずに misunderstanding せずに伝えること。",
+        "id": "sns.sa.social.gem_assertiveness.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gem_assertiveness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "자신의 필요·한계·이의만을 비난 없이 분명히 전달하는 태도다. 말의 내용이 강한 것과 말하는 방식이 공격적인 것은 다르다.",
+        "exampleIds": [
+          "exm.sa.social.gem_assertiveness.1.1.ko"
+        ],
+        "gloss": "자신의 필요와 한계, 이의를 비난 없이 분명히 말하는 태도.",
+        "id": "sns.sa.social.gem_assertiveness.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gem_assertiveness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A assertividade é a maneira de comunicar necessidades, limites e discordâncias de forma clara e respeitosa, sem agressividade nem culpa. Diferentemente da passividade, ela não evita o conflito, mas também não o provoca.",
+        "exampleIds": [
+          "exm.sa.social.gem_assertiveness.1.1.pt_br"
+        ],
+        "gloss": "Exprimir sua necessidade, seu limite ou sua discordância sem culpar o outro.",
+        "id": "sns.sa.social.gem_assertiveness.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gem_assertiveness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sifat atau cara menyampaikan kebutuhan, batas, atau ketidaksetujuan secara tegas tanpa menyalahkan orang lain. Dalam konteks ini, hal yang ditegaskan adalah cara berkomunikasi, bukan sifat yang menghakimi orang lain.",
+        "exampleIds": [
+          "exm.sa.social.gem_assertiveness.1.1.id"
+        ],
+        "gloss": "Menyatakan kebutuhan, batas, atau ketidaksetujuan tanpa menyalahkan orang lain.",
+        "id": "sns.sa.social.gem_assertiveness.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gem_assertiveness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การแสดงความต้องการ ข้อจำกัด หรือความไม่เห็นด้วยของตนอย่างชัดเจนโดยไม่กล่าวโทษหรือโทษผู้อื่น แต่ไม่ใช่การแสดงออกอย่างรุนแรง",
+        "exampleIds": [
+          "exm.sa.social.gem_assertiveness.1.1.th"
+        ],
+        "gloss": "การแสดงความต้องการ ข้อจำกัด หรือความไม่เห็นด้วยอย่างตรงไปตรงมาโดยไม่กล่าวโทษ",
+        "id": "sns.sa.social.gem_assertiveness.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gem_assertiveness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kendi ihtiyacını, sınırını veya karşıtlığını açıkça ortaya koyma biçimi; suçlama, saldırganlık ya da sessiz kalma biçiminde değildir.",
+        "exampleIds": [
+          "exm.sa.social.gem_assertiveness.1.1.tr"
+        ],
+        "gloss": "İhtiyacını, sınırını ya da karşıtlığını suçlamaya bulaştırmadan açıkça belirtme.",
+        "id": "sns.sa.social.gem_assertiveness.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gem_assertiveness",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gem_assertiveness.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Girişken davranarak raporun geciktiğini söyledi ve ihtiyacını açıkça belirtti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gem_assertiveness.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ความเด็ดเดี่ยวในการแสดงความคิดเห็นคือการบอกว่ารายงานมาช้าและระบุว่าต้องการอะไร แทนการกล่าวโทษผู้อื่น",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gem_assertiveness.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Asertivitas terlihat ketika dia mengatakan bahwa laporan terlambat dan menyebutkan apa yang dibutuhkannya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gem_assertiveness.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ela foi assertiva: disse que o relatório estava atrasado e explicou o que precisava sem acusar ninguém.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gem_assertiveness.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "보고서가 늦었다고 분명히 말한 뒤 필요한 시간을 요청하는 것은 자기주장이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gem_assertiveness.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "”是指すのは、報告書が遅れていると言い、必要なことをContribution として伝えることだ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gem_assertiveness.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Assertiveness is saying the report is late and then saying what you need instead.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,92 @@
+{
+  "items": {
+    "action_item": {
+      "definition": "A task that a named person has agreed to do. In longer emails these are listed explicitly.",
+      "dictionaryId": "lex.sa.work.action_item",
+      "example": "There are two action items: sending the figures and confirming the date.",
+      "fieldId": "work",
+      "id": "action_item",
+      "lessonIds": [
+        "article_professional_emails"
+      ],
+      "packs": [
+        "knw.work.emails"
+      ],
+      "term": "Action item"
+    },
+    "disagreement": {
+      "definition": "A situation where two people hold different views and are still talking. The other person is not automatically an enemy.",
+      "dictionaryId": "lex.sa.social.disagreement",
+      "example": "It was a disagreement about the schedule, not a fight.",
+      "fieldId": "social",
+      "id": "disagreement",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Disagreement"
+    },
+    "elec_insulation": {
+      "definition": "The material around the live part of a cable that keeps the current inside it.",
+      "dictionaryId": "lex.sa.daily_skills.elec_insulation",
+      "example": "The insulation on the cable is cracked where it passes over the edge of the pit.",
+      "fieldId": "daily_skills",
+      "id": "elec_insulation",
+      "lessonIds": [
+        "article_pump_electrical_safety",
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety",
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Insulation"
+    },
+    "ma_remainder": {
+      "definition": "The part of a number that is left over when the division does not come out exactly.",
+      "dictionaryId": "lex.sa.mathematics.ma_remainder",
+      "example": "87 divided by 7 gives the quotient 12 and the remainder 3.",
+      "fieldId": "mathematics",
+      "id": "ma_remainder",
+      "lessonIds": [
+        "article_mental_arithmetic"
+      ],
+      "packs": [
+        "knw.math.mental_arithmetic"
+      ],
+      "term": "Remainder"
+    },
+    "marketing_authorisation_number": {
+      "definition": "The licence number under which the medicine is sold. It identifies the pack in the regulator's records.",
+      "dictionaryId": "lex.sa.health.marketing_authorisation_number",
+      "example": "The marketing authorisation number is printed at the bottom of the carton, and I quoted it in the report.",
+      "fieldId": "health",
+      "id": "marketing_authorisation_number",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Marketing authorisation number"
+    },
+    "msa_compatibility": {
+      "definition": "How well two people fit together in ordinary daily life.",
+      "dictionaryId": "lex.sa.social.msa_compatibility",
+      "example": "Compatibility showed up in the small things: the pace, the money, the quiet.",
+      "fieldId": "social",
+      "id": "msa_compatibility",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "compatibility"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

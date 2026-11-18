@@ -1,0 +1,79 @@
+{
+  "language": "id",
+  "lessonId": "article_ai_programmer",
+  "objectives": [
+    "Jelaskan apa yang sebenarnya diotomatisasi oleh pembuatan kode AI.",
+    "Jelaskan peralihan dari menulis kode ke mendefinisikan masalah.",
+    "Bedakan otomatisasi sintaks dari otomatisasi penilaian.",
+    "Identifikasi keterampilan yang semakin bernilai seiring otomatisasi pemrograman.",
+    "Berpikirlah tentang apa arti \"insinyur\" ketika mesin menulis kode."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Setiap gelombang otomatisasi pemrograman telah menghilangkan satu lapisan pengetikan danEAU Sama’ve revealed satu lapisan berpikir yang lebih mendalam di baliknya. Kompilator menghilangkan kode mesin; kerangka kerja menghilangkan kode berulang; layanan komputasi awan menghilangkan administration server. Setiap kali, ramalannya sama — pemrograman sudah mati — dan setiap kali pekerjaannya naik ke tingkat abstraksi yang lebih tinggi.\n\nPembangkitan kode dengan AI adalah lompatan terbesar seperti itu. Fungsi rutin, pengujian, migrasi, dan kode perekat kini selesai dalam hitungan detik. Jika diukur dengan jumlah karakter yang diketik, sebagian besar pekerjaan yang dilakukan pemrogram pada 2020 dapat diotomatisasi. Jika diukur dengan apa yang membuat pekerjaan itu berarti, hampir tidak ada.\n\nInti pekerjaan yang bertahan tidak pernahalah sintaksis. Yang utama adalah penerjemahan situasi manusia yang berantakan — aturan bisnis, kebutuhan pengguna, batasan fisik — menjadi pernyataan yang presisi dan dapat dijalankan mesin, serta penilaian untuk mengetahui apakah hasilnya benar. Sintaksis adalah lapisan terakhir, yang paling terlihat, dan juga yang paling tidak penting.",
+      "examples": [
+        "AI menulis fungsi tersebut dalam empat detik; menentukan apa yang sebenarnya harus dilakukan fungsi itu membutuhkan dua rapat tim."
+      ],
+      "heading": "Men ketik memang tidak pernah menjadi pekerjaannya"
+    },
+    {
+      "body": "Ketika generasi menjadi murah, keterampilan yang langka adalah spesifikasi: should've dengan jelas, untuk siapa, dengan batasan apa, dan apa arti 'benar'. Prompt yang kabur menghasilkan kode yang masuk akal, tetapi menyelesaikan masalah yang salah dengan sangat indah. Spesifikasi yang presisi mengubah mesin yang sama menjadi pembangun yang andal.\n\nIni lebih sulit daripada yang terdengar. Venezuelan masalah nyata datang sebagai perasaan — 'proses checkout terasa membingungkan', 'laporan memerlukan waktu terlalu lama' — dan tugas pertama insinyur adalah mengubahnya menjadi struktur: apa datanya, apa langkah-langkahnya, apa yang bisa salah, dan apa yang diukur oleh keberhasilan. Kegiatan ini, kadang disebut dekomposisi masalah, adalah tempat proyek-proyek dimenangkan atau kalah, dan seluruhnya berlangsung di luar kode.\n\nPemrogram di masa depan yang dekat tidak lagi terlihat seperti operator mesin ketik, melainkan seperti arsitek yang sekaligus memiliki proyek konstruksi: menentukan struktur, memeriksa bahan/material, dan menerima tanggung jawab atas bangunan. Alat-alat mengubah rasio pekerjaan, bukan realitas tanggung jawab.",
+      "examples": [
+        "Dua tim menggunakan asisten AI yang sama; tim yang menulis spesifikasi satu halaman lebih dahulu thrice lebih cepat."
+      ],
+      "heading": "Dari menulis kode hingga mendefinisikan masalah"
+    },
+    {
+      "body": "Sebagian pekerjaan perangkat lunak tahan terhadap automation karena alasan structural. **Context** adalah salah satunya: sebuah system hidup di dalam sebuah company, sebuah law, dan sejarah decisions, sedangkan machines hanya melihat fragments yang ditunjukkan kepada mereka. **Consequences** adalah hal lain: memilih antara feature yang lebih cepat dan design yang lebih safer merupakan keputusan tentang values, dan values tidak dapat di-compile. **Trust** adalah hal ketiga: users menyalahkan dan memberi credit kepada people, bukan kepada models.\n\nEngineering judgment adalah nama untuk kombinasi tersebut: mempertahankan context, menimbang consequences, dan berdiri di belakang result. Hal ini menjadi lebih valuable seiring generation semakin cheap, karena setiap piece of kode yang cheap meningkatkan jumlah decisions per day. Ketika menghasilkan option tidak|biaya apa pun, memilih antara options adalah keseluruhan pekerjaannya.\n\nInilah sebabnya boundary automation terus moving dan tidak pernah tiba: setiap capability baru menyerap tasks yang sudah routine dan menunjukkan, lebih jelas daripada sebelumnya, judgment yang selalu menjadi pekerjaan sebenarnya.",
+      "examples": [
+        "Nilai seorang senior engineer bukan terletak pada fact bahwa ia mengode lebih cepat, melainkan pada fact bahwa ia menghentikan tiga plausible features yang akan merusak product."
+      ],
+      "heading": "Apa yang tidak dapat ditugaskan kepada mesin"
+    },
+    {
+      "body": "Istilah-istilah ini menggambarkan apa yang diautomasi dan apa yang tidak.",
+      "heading": "Kosakata bagi peran yang terus berubah",
+      "terms": [
+        {
+          "example": "Dengan Partner Pemrogram AI, ia menyusun pengujian dalam hitungan detik dan menghabiskan waktunya untuk pertanyaan desain yang sulit.",
+          "gloss": "Asisten AI yang terintegrasi ke dalam proses pengembangan dan menulis, melengkapi, serta menjelaskan kode sesuai permintaan."
+        },
+        {
+          "example": "Pembuatan kode mengubah spesifikasinya menjadi dua ratus baris kode layanan yang berfungsi.",
+          "gloss": "Pembuatan kode program secara otomatis dari deskripsi bahasa alami atau sebuah contoh."
+        },
+        {
+          "example": "Penguraian masalah mengubah 'memperbaiki proses orientasi' menjadi enam layar konkret dengan tujuan yang dapat diukur.",
+          "gloss": "Mengubah masalah besar dan kabur menjadi bagian-bagian kecil, presisi, dan dapat diselesaikan dengan kondisi keberhasilan yang jelas."
+        },
+        {
+          "example": "Berpikir sistemmeans menyadari bahwa lapisan cache, yang dimaksudkan untuk mempercepat proses, juga menunda pesan kesalahan.",
+          "gloss": "Berpikir tentang bagaimana bagian-bagian sebuah sistem memengaruhi satu sama lain, termasuk dampak yang muncul jauh dalam waktu atau struktur."
+        },
+        {
+          "example": "Penilaian teknik meminta penolakan terhadap solusi elegan yang tidak dapat dipelihara oleh siapa pun dalam tim.",
+          "gloss": "Kemampuan membuat keputusan teknis yang baik dalam kondisi tidak pasti dengan menimbang kompromi yang tidak dapat diselesaikan oleh satu aturan."
+        },
+        {
+          "example": "Sebagian besar biaya perangkat lunak adalah pemeliharaan, sebab itu kode yang tidak dipahami siapa pun menjadi beban.",
+          "gloss": "Kerja berkelanjutan untuk menjaga perangkat lunak tetap berfungsi: memperbaikinya, menyesuaikannya, dan menjelaskannya selama bertahun-tahun dalam kondisi yang terus berubah."
+        }
+      ]
+    },
+    {
+      "body": "Tanyakan kepada pengembang senior apa yang mereka lakukan sepanjang hari, dan jawaban jujurnya sekarang mencakup: mereview kode yang ditulis mesin, memutuskan apa yang seharusnya ada, dan menjelaskan sistem kepada manusia. Perusahaan yang merekrut berdasarkan kecepatan mengetik sedang merekrut untuk lapisan yang baru saja menjadi gratis.",
+      "heading": "Tes wawancara sudah berubah."
+    },
+    {
+      "body": "Bagi orang yang baru entering the field, jalannya telah berubah tetapi tidak vanished. Learn membaca code sebelum menulisnya — tinjau, debug, dan explain existing systems, karena verification kini menjadi bulk dari pekerjaannya. Pelajari satu domain secara deeply; machines mengetahui syntax, tetapi mereka tidak mengetahui warehouse pengguna Anda, aturan clinic Anda, atau habits market Anda. Dan latih specification: untuk setiap feature, tuliskan statement singkat tentang problem, constraints, serta test of success.\n\nBagi experienced engineers, premium-nya bergerak ke dua hal yang diamplify oleh machines, bukan replaced: **taste** — kemampuan menilai apa yang worth building — dan **trust** — track record untuk berdiri di belakang decisions. Machine dapat menghasilkan seribu options. Profesi adalah disiplin untuk memilih, serta bertanggung jawab atas pilihan tersebut.\n\nProgrammer tidak sedang disappearing. Programmer sedang becoming apa yang sebenarnya selalu contained dalam kata itu: bukan orang yang mengetik, melainkan orang yang responsible atas system.",
+      "examples": [
+        "Engineer paling valued di tim menulis code paling sedikit — dan design notes satu paragraf miliknya mencegah rewrites terbanyak."
+      ],
+      "heading": "Tetap bernilai ketika code gratis"
+    }
+  ],
+  "summary": "Mesin menulis kode yang berfungsi dalam hitungan detik, lalu apa yang tersisa dari seorang pemrogram? Artikel ini membahas bagaimana perannya bergeser: dari mengetik kode hingga mendefinisikan masalah, dari menghafal sintaks hingga menilai sistem, serta mengapa batas antara otomatisasi dan keahlian rekayasa terus bergeser, bukan menghilang.",
+  "title": "Ketika AI Menulis Kode: Apa Harga Sebuah Programer?"
+}

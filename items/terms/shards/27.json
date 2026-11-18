@@ -1,0 +1,65 @@
+{
+  "items": {
+    "band_aid": {
+      "definition": "A temporary fix that makes a problem go away without solving it.",
+      "dictionaryId": "lex.sa.work.band_aid",
+      "example": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
+      "fieldId": "work",
+      "id": "band_aid",
+      "lessonIds": [
+        "article_workplace_expressions"
+      ],
+      "packs": [
+        "knw.work.expressions"
+      ],
+      "term": "Band-aid"
+    },
+    "notification_fatigue": {
+      "conflict": true,
+      "definition": "The habit of ignoring alerts on purpose, so that the one alert that mattered gets ignored too.",
+      "dictionaryId": "lex.sa.technology.notification_fatigue",
+      "example": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
+      "fieldId": "technology",
+      "id": "notification_fatigue",
+      "lessonIds": [
+        "article_attention_death",
+        "article_brainrot"
+      ],
+      "packs": [
+        "knw.mind.attention_death",
+        "knw.tech.brainrot"
+      ],
+      "term": "Notification fatigue"
+    },
+    "trade": {
+      "definition": "To give one thing away and get a different thing back.",
+      "dictionaryId": "lex.sa.kids_feelings.trade",
+      "example": "I trade my ball for your dinosaur.",
+      "fieldId": "kids_feelings",
+      "id": "trade",
+      "lessonIds": [
+        "article_sharing_and_turns"
+      ],
+      "packs": [
+        "knw.kids.feelings.sharing"
+      ],
+      "term": "Trade"
+    },
+    "transfer": {
+      "definition": "A connection between two flights at the same airport, without going through the city in between.",
+      "dictionaryId": "lex.sa.travel.transfer",
+      "example": "I have a two-hour transfer in Singapore.",
+      "fieldId": "travel",
+      "id": "transfer",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Transfer"
+    }
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

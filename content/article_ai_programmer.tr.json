@@ -1,0 +1,79 @@
+{
+  "language": "tr",
+  "lessonId": "article_ai_programmer",
+  "objectives": [
+    "Yapay zekâ kod üretiminin gerçekte neyi otomatikleştirdiğini açıklayın.",
+    "Kod yazmaktan problem tanımlamaya geçişi açıklayın.",
+    "Sözdiziminin otomasyonunu, yargının otomasyonundan ayırt edin.",
+    "Kodlamanın otomatikleştirildiği sürece değeri artan becerileri belirleyin.",
+    "Makineler kod yazdığında 'mühendis'in ne anlama geldiğini düşünün."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Programlama otomasyonunun her dalgası, bir yazma katmanını ortadan kaldırırken altında daha derin bir düşünme katmanını ortaya çıkardı. Compilers makine kodunu ortadan kaldırdı; frameworks tekrarlayan boilerplate kodunu; cloud services ise server yönetimini ortadan kaldırdı. Her seferinde tahmin aynıydı — programlama öldü — ve her seferinde iş bir soyutlama düzeyi daha yukarı taşındı.\n\nAI code generation bunun en büyük sıçramasıdır. Routine functions, tests, migrations ve glue code artık saniyeler içinde hazır geliyor. Yazılan karakter sayısına göre ölçüldüğünde, programların 2020 yılında yaptığı işlerin çoğu otomatikleştirilebilir. İşin önemli olmasını sağlayan şeye göre ölçüldüğünde ise neredeyse hiçbir şey otomatikleştirilebilir değildir.\n\nİşin değişmez çekirdeği hiçbir zaman syntax değildi. Dağınık bir insan durumunu — bir iş kuralını, bir kullanıcı ihtiyacını, fiziksel bir kısıtı — bir makinenin çalıştırabileceği kesin bir ifadeye dönüştürmek ve sonucun doğru olup olmadığını bilme yargısıydı. Syntax, en üstte, en görünür ve en az önemli katmandı.",
+      "examples": [
+        "AI, fonksiyonu dört saniyede yazdı; fonksiyonun gerçekte ne yapması gerektiğine karar vermek ise ekibe iki toplantı sürdü."
+      ],
+      "heading": "Yazmak hiçbir zaman asıl iş değildi"
+    },
+    {
+      "body": "Üretim ucuzladıkça kıt hale gelen beceri belirtme yazmaktır: neyin, kimin için, hangi kısıtlamalar altında inşa edilmesi gerektiğini ve 'doğru'nun ne anlama geldiğini açıkça söylemek. Belirsiz bir prompt, yanlış problemi görkemli biçimde çözen makul kod üretir. Kesin bir belirtme ise aynı makineyi güvenilir bir inşa ediciye dönüştürür.\n\nBu, göründüğünden daha zordur. Gerçek problemlerin çoğu duygu olarak gelir — 'checkout kafa karıştırıcı', 'raporlar çok uzun sürüyor' — ve mühendisin ilk işi bunları yapıya dönüştürmektir: veri nedir, adımlar nelerdir, ne ters gidebilir, başarıyı ne ölçer. Bu etkinlik bazen problem çözümlemesi olarak adlandırılır; projelerin kazanılıp kaybedildiği yer burasıdır ve tamamen kodun dışında gerçekleşir.\n\nYakın geleceğin programcısı bir klavyeciğe olduğundan çok, inşaatın sorumluluğunu da üstlenen bir mimara benzer. Araçlar işin oranını değiştirir, sorumluluğun gerçeğini değil.",
+      "examples": [
+        "İki ekip aynı yapay zekâ asistanını kullandı; önce bir sayfalık belirtme yazan ekip üç kat daha hızlı biçimde ürünü yayına aldı."
+      ],
+      "heading": "Kod yazmaktan problemleri tanımlamaya"
+    },
+    {
+      "body": "Yazılımın bazı bölümleri yapısal nedenlerle otomasyona direnir. **Bağlam** bunlardan biridir: bir sistem, bir şirketin, bir yasanın ve kararlar tarihinin içinde yaşar; makineler ise yalnızca kendilerine gösterilen parçaları görür. **Sonuçlar** da bir diğeridir: daha hızlı bir özellik ile daha güvenli bir tasarım arasında seçim yapmak, bir değerler kararıdır; değerler ise derlenmez. **Güven** üçüncüsüdür: kullanıcılar, modelleri değil, insanları suçlar ve başarılarını verir.\n\nMühendislik yargısı ise bu bileşimin adıdır: bağlamı elde tutmak, sonuçları tartmak ve sonucun arkasında durmak. Üretim daha ucuz hâle geldikçe bu yargı daha değerli hâle gelir; çünkü her ucuz kod parçası, günde alınan karar sayısını artırır. Bir seçeneği üretmenin hiçbir maliyeti olmadığında, seçenekler arasında seçim yapmak işin tamamıdır.\n\nOtomasyonun sınırının bu nedenle sürekli hareket edip hiçbir zaman ulaşmamasının nedeni budur: her yeni yetenek, zaten rutin hâle gelmiş işleri üstlenir ve her zamankinden daha net biçimde, aslında her zaman asıl iş olan yargıyı ortaya çıkarır.",
+      "examples": [
+        "Kıdemli mühendisin değeri, daha hızlı kod yazmasında değil, ürüne zarar verecek üç olası özelliği durdurmasındaydı."
+      ],
+      "heading": "Makinenin atanamayacağı işler"
+    },
+    {
+      "body": "Bu terimler, nelerin otomatikleştirildiğini ve nelerin otomatikleştirilmediğini tanımlar.",
+      "heading": "Değişen rolün sözlüğü",
+      "terms": [
+        {
+          "example": "Yapay zekâ eş programcıyla, testleri saniyeler içinde taslak olarak hazırlıyor ve zamanını zor tasarım sorularına ayırıyor.",
+          "gloss": "İstek üzerine kod yazan, tamamlayan ve açıklayan; geliştirme sürecine entegre edilmiş bir yapay zekâ asistanı."
+        },
+        {
+          "example": "Kod üretimi, onun belirtimini çalışan servis kodundan iki yüz satıra dönüştürdü.",
+          "gloss": "Program kodunun doğal dildeki bir açıklamadan veya bir örnekten otomatik olarak üretilmesi."
+        },
+        {
+          "example": "Problem ayrıştırma, “kullanıcı işe alımını iyileştir” ifadesini ölçülebilir hedeflere sahip altı somut ekrana dönüştürdü.",
+          "gloss": "Büyük ve belirsiz bir problemi, açık başarı koşullarına sahip küçük, kesin ve çözülebilir parçalara bölme."
+        },
+        {
+          "example": "Sistem düşüncesi, işleri hızlandırmak için tasarlanmış önbelle katmanının hata mesajlarını da geciktirdiğini fark etmektir.",
+          "gloss": "Bir sistemin parçalarının birbirini nasıl etkilediğini; zaman veya yapı bakımından uzakta ortaya çıkan etkiler dâhil, akıl yürüterek değerlendirme."
+        },
+        {
+          "example": "Mühendislik yargısı, ekibin hiçbir üyesinin bakımını yapamadığı şık çözümü reddetmeyi önerdi.",
+          "gloss": "Belirsizlik koşullarında iyi teknik kararlar verme; hiçbir kuralın çözemediği trade-offs’ı değerlendirme kapasitesi."
+        },
+        {
+          "example": "Yazılım maliyetinin büyük bölümü bakımdır; bu yüzden kimsenin anlamadığı kod bir yükümlülüktür.",
+          "gloss": "Yazılımı yıllar boyunca değişen koşullarda ayakta tutma, uyarlama ve açıklama işinin sürekli yürütülmesi."
+        }
+      ]
+    },
+    {
+      "body": "Üst düzey bir geliştiriciye günün tamamında ne yaptığını sorun; dürüst cevap artık şunları içeriyor: makine tarafından yazılmış kodu incelemek, neyin var olması gerektiğine karar vermek ve sistemleri insanlara açıklamak. Dakikaları hızlı yazma hızına göre işe alan şirketler, az önce bedava hâle gelen katmanı satın alıyor.",
+      "heading": "Mülakat sınavı zaten değişti"
+    },
+    {
+      "body": "Bu alana giren insanlar için yol değişti ama ortadan kalkmadı. Kodu yazmadan önce okumayı öğrenin; mevcut sistemleri gözden geçirin, hata ayıklayın ve açıklayın, çünkü doğrulama artık işin büyük bölümü. Bir alanı derinlemesine öğrenin; makineler sözdizimini bilir, ancak kullanıcınızın deposunu, kliniğinizin kurallarını, pazarınızın alışkanlıklarını bilmezler. Ayrıca belirtim pratiği yapın: her özellik için sorunu, kısıtları ve başarının testini içeren kısa bir ifade yazın.\n\nDeneyimli mühendisler için prim, makinelerin yerine geçtiği iki şeye değil, güçlendirdiği iki şeye kayar: **zevk** — neyi inşa etmeye değer olduğuna dair duygu — ve **güven** — kararların arkasında durma geçmişi. Bir makine bin seçenek üretebilir. Meslek, seçme ve seçimden sorumlu olma disiplinidir.\n\nProgramcı ortadan kalkmıyor. Programcı, sözcüğün her zaman gizlice barındırdığı şeye dönüşüyor: tuşlara basan kişi değil, sistemden sorumlu olan kişi.",
+      "examples": [
+        "Ekipte en değerli görülen mühendis en az kodu yazar — ve tek paragraflık tasarım notları en çok yeniden yazımı önler."
+      ],
+      "heading": "Kod bedava olduğunda değerli kalmak"
+    }
+  ],
+  "summary": "Makine saniyeler içinde çalışan kod yazıyor; o hâlde programcıdan ne kalıyor? Bu makale, rolün nasıl değiştiğine bakıyor: kod yazmaktan sorunları tanımlamaya, sözdizimini bilmekten sistemleri değerlendirmeye; ve otomasyon ile mühendislik becerisi arasındaki sınırın neden kaybolmak yerine kaydığını ele alıyor.",
+  "title": "Yapay Zeka Kod Yazarken: Bir Programcının Değeri Nedir?"
+}

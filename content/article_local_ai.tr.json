@@ -1,0 +1,79 @@
+{
+  "language": "tr",
+  "lessonId": "article_local_ai",
+  "objectives": [
+    "Yerel bir AI modeli çalıştırmanın size aslında ne sağladığını açıklayın.",
+    "Ağırlıklara sahip olmak ile teknolojiye sahip olmayı birbirinden ayırın.",
+    "Yapay zekânın dayandığı gizli altyapıyı açıklayın.",
+    "Satıcı kilitlenmesini ve ekosistem bağımlılığını tanımlayın.",
+    "Yapay zekânın bağımsızlığı iddialarını gerçekçi bir şekilde değerlendirin."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Local AI, bir şirketin API'sini çağırmak yerine bir dil modelini kendi donanımınızda çalıştırmak anlamına gelir. Model dosyası — yani 'weights' — diskte durur, promptlarınız evde kalır ve hiçbir subscription sayacı çalışmaz. Privacy, offline kullanım ve tinkering için bu gerçek bir kazançtır; arkasındaki open-weights topluluğu da modern software dünyasındaki en üretken hareketlerden biridir.\n\nAncak model dosyası bir stack'in yalnızca bir component'idir. Sahibi olmadığınız hardware üzerinde, inceleyemediğiniz datasets kullanılarak, sizin yazmadığınız tooling ile eğitilmiştir ve az sayıdaki şirketin tasarladığı chips üzerinde çalışır. Weights'e sahip olmak, teknolojinin tamamına değil, yalnızca önemli olan bir layer'a gerçek bir ownership demektir.\n\nBu ikisini karıştırmak belirli bir yanılsama yaratır: büyük tech'in üzerine dökülmüş zemin üzerinde dururken büyük tech'den bağımsızlık hissi. Mesele, local AI'nin çalıştırılmaya değip değermeyeceği değil — birçok kullanım için buna açıkça değerdir — başka insanların ellerinden gerçekte neyi kaldırdığıdır.",
+      "examples": [
+        "Offline assistant, sinyalin olmadığı bir dağda çalışır; aynı zamanda sessizce tek bir chip üreticisinin drivers'ına ve hiçbir zaman göremeyeceği bir training pipeline'a bağımlıdır."
+      ],
+      "heading": "Diskteki model"
+    },
+    {
+      "body": "Ücretsiz yapay zekâ birkaç katmandan oluşur ve bu katmanları ayırmak kolaydır. **Fiyat bakımından ücretsiz**: abonelik yok. **Ağırlıklar bakımından ücretsiz**: model dosyasını indirebilir ve çalıştırabilirsiniz. **Kod bakımından ücretsiz**: çevresindeki yazılım açık kaynaklıdır. **Veri ve eğitim bakımından ücretsiz**: modern olanların neredeyse hiçbiri bu koşulları karşılamaz — veri kümeleri, hesaplama kümeleri ve eğitim tarifleri endüstriyel işletmelerdir.\n\nHer katmanın değerlidir. Birinin iznini istemeden yetenekli bir modeli çalıştırma becerisi, beş yıl önce var olmayan gerçek bir güç biçimidir. Topluluklar bu modelleri geliştirir, denetler ve büyük laboratuvarların göz ardı ettiği dillere uyarlar.\n\nAncak her katmanın bir sınırı da vardır. Ağırlıklar ücretsizdir; yeni ağırlıklar üretme araçları ise yoğunlaşmıştır. Ücretsiz ağırlıklara sahip bir kullanıcı, mükemmel bir koltukta oturan bir yolcu gibidir — daha önceki her koltuktan daha iyidir, ama yine de uçak kabini değildir. Hangi özgürlüklere gerçekten sahip olduğunuzu bilmek, hem kayıtsızlığı hem de çaresizliği önler: API müşterisinden daha bağımsız, mitolojinin ima ettiğinden daha az bağımsızsınız.",
+      "examples": [
+        "Ücretsiz modeli gururla çalıştırıyor — ve dokümanları okurken, tek bir şirketin çip mimarisi olmadan bunun var olamayacağını fark ediyor."
+      ],
+      "heading": "“Ücretsiz”in gerçekte ne anlama geldiği"
+    },
+    {
+      "body": "Her AI modelinin altında, nerede çalışırsa çalışsın, hiçbir kullanıcının kontrol etmediği bir bağımlılıklar yığını bulunur. Çipler az sayıda üreticiden gelir. Onları üreten fabs daha da azdır. Modelleri eğiten framework'ler, onları çalıştıran libraries, onları dağıtan app store'lar: her katmanın sahipleri kısa bir listedir.\n\nBağımlılık otomatik olarak kötü değildir; karmaşık teknoloji böyle çalışır. Bir şehir güç grid'ine bağımlıdır. Mesele farkındalık ve alternatives'tır. Bildiğiniz bir bağımlılığın etrafında planlanabilir, ona karşı lobicilik yapılabilir ya da yıllar içinde ortadan kaldırılabilir. Bir bağımlılığı görmezden geldiğinizde, tam da supplier'in koşullarını, prices'ını ya da availability'sini değiştirdiği anda savunmasız kalırsınız; supplier'ler bunu eventually yapar.\n\nBu nedenle özgür AI'ya karşı sağlıklı tutum ne worship ne de cynicism'dir. Özgürlükleri eksiksiz kullanın: yerel olarak çalıştırın, verileri private tutun, behavior'ı denetleyin. Ve bağımlılıkları dürüstçen sayın; böylece biri size bağımsız olup olmadığınızı sorduğunda, hangi parçalara kontrol ettiğinizi ve hangi parçaları kiraladığınızı precisely belirtebilirsiniz.",
+      "examples": [
+        "API price bir gecede tripled olduğunda, local-model kullanıcıları çalışmaya devam etti; ama 'independence'larının hâlâ tek bir GPU vendor'inin stock'una bağlı olduğunu keşfetti."
+      ],
+      "heading": "Görünmez altyapı"
+    },
+    {
+      "body": "Bu terimler, bir modelin sahibi olmakla bir teknolojinin sahibi olmak arasındaki katmanları adlandırır.",
+      "heading": "Bağımsızlığın sözlüğü",
+      "terms": [
+        {
+          "example": "Yerel yapay zekâ düzeni, uçuşlarda internet ve veri dizüstü bilgisayardan çıkmadan soruları yanıtlıyor.",
+          "gloss": "Bir yapay zekâ modelini, şirketin sunduğu hizmet yerine kendi donanımında çalıştırmak."
+        },
+        {
+          "example": "Açık ağırlıklar sayesinde ekip, modeli kendi kılavuzları üzerinde kimseye sormadan fine-tuned yaptı.",
+          "gloss": "Eğitilmiş model parametrelerini yayımlayarak herkesin bunu indirmesine, çalıştırmasına ve değiştirmesine imkân vermek."
+        },
+        {
+          "example": "Inference, evde dizüstü bilgisayarında ve daha fazla hıza ihtiyaç duyduğunda kiraladığı sunucuda gerçekleşiyor.",
+          "gloss": "Eğitilmiş bir modeli çalıştırarak yanıt üretme süreci; yapay zekânın günlük işleyişi."
+        },
+        {
+          "example": "Modern yapay zekânın arkasındaki Compute infrastructure, milyarlarca dolarlık çiplerle ölçülüyor.",
+          "gloss": "Büyük modellerin eğitilmesini ve çalıştırılmasını mümkün kılan çipler, veri merkezleri ve enerji arzı."
+        },
+        {
+          "example": "Yıllık API faturasının üç katı tutarında migration teklifleri geldiğinde Vendor lock-in durumları açıkça ortaya çıktı.",
+          "gloss": "Tedarikçileri değiştirmek o kadar maliyetli olduğunda fiyat veya kaliteden bağımsız olarak bağımlılığın sürdüğü durum."
+        },
+        {
+          "example": "Bir model, yalnızca çalıştığı ecosystem kadar özgürdür: çipler, sürücüler, biçimler ve depolar.",
+          "gloss": "Bir teknolojinin işlevini sürdürmek için bağımlı olduğu donanım, yazılım, standartlar ve hizmetler ağı."
+        }
+      ]
+    },
+    {
+      "body": "Bağımsızlıkla ilgili her teknoloji iddiası için faydalı bir denetim: her tedarikçi ortadan kalkarsa neyin bozulacağını listeleyin — çip üreticisi, model sağlayıcı, uygulama mağazası, bulut bölgesi, elektrik. Alternatifi olmayan her şey bir bağımlılıktır; kutunun üzerindeki etiket ne derse desin.",
+      "heading": "Bağımlılıklarınızı sayın"
+    },
+    {
+      "body": "Faydalı soru \"Bağımsız mıyım?\" değil, \"Tam olarak neyden ve hangi maliyetle bağımsızım?\" sorusudur. Local AI gerçek özgürlükler satın alır: taranmaktan gizlilik, fiyat şoklarına karşı resilience, değiştirme ve audit yapma hakkı. Bunlara sahip olmak ve savunmak değerlidir.\n\nAncak compute stack'ten, çiplerin fiziğinden veya birkaç laboratuvar yoğunlaşmış bilgiden bağımsızlık satın almaz. Hiçbir kişinin laptop'u bu bağımsızlığı herhangi bir fiyata içermez.\n\nOlgun teknolojik autonomy, bir kale gibi değil, çeşitlendirilmiş bir portfolio gibi görünür: bir kısmı local, bir kısmı hosted, bir kısmı open, bir kısmı proprietary — ve her parçanın nerede durduğunu, onu kimlerin alabileceğini gösteren, güncel tutulan bilgiyle. Bu bilgi, tek bir tool'dan daha çok, teknolojinin bir kişinin gerçekten sahibi olabileceği kısımdır.",
+      "examples": [
+        "She runs local models for private work, a hosted model for heavy jobs, and keeps a written map of every dependency — and sleeps well."
+      ],
+      "heading": "Gerçek autonomy, dürüstçe ölçülmüş"
+    }
+  ],
+  "summary": "Kendi makinende ücretsiz bir model çalıştır, ağırlıklara sahip ol, verilerini koru — artık bağımsızsın, değil mi? Bu makale, teknolojik kendi kendine yeterlilik illüzyonunu inceliyor: yerel yapay zekâ sizi gerçekte nelerden kurtarıyor, nelerden kurtarmıyor ve neden modeliniz diskteki sürümden daha önemli olan altındaki ekosistemdir.",
+  "title": "Ücretsiz Yapay Zeka ve Kontrol Yanılsaması"
+}

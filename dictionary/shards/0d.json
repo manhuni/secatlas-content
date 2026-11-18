@@ -1,0 +1,663 @@
+{
+  "records": {
+    "0d00a53b5550a5f409891471880956f3a4b060c31b7a73c15149e051e5c24ce5": [
+      {
+        "forms": [
+          "Consistency",
+          "mathlit_consistency"
+        ],
+        "id": "lex.sa.mind.mathlit_consistency",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Consistency",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mathlit_consistency.alt",
+          "sns.sa.mind.mathlit_consistency.alt.ko",
+          "sns.sa.mind.mathlit_consistency.alt.pt_br",
+          "sns.sa.mind.mathlit_consistency.alt.id",
+          "sns.sa.mind.mathlit_consistency.alt.th",
+          "sns.sa.mind.mathlit_consistency.alt.tr",
+          "sns.sa.mind.mathlit_consistency.alt.ja"
+        ]
+      },
+      {
+        "definition": "The property of a set of axioms that do not contradict one another.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1"
+        ],
+        "gloss": "The property of a set of axioms that do not contradict one another.",
+        "id": "sns.sa.mind.mathlit_consistency.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "하나의 명제 집합에 속한 명제들이 서로 논리적으로 모순되지 않는 성질이다. 모순이 없으면 그 명제들로부터 논리적으로 타당한 결론을 얻을 수 있다.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.ko"
+        ],
+        "gloss": "어떤 공리 집합의 명제들이 서로 모순되지 않는 성질이다.",
+        "id": "sns.sa.mind.mathlit_consistency.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Propriedade de um conjunto de axiomas ou regras em que nenhum deles contradiz os demais. Um conjunto inconsistente pode levar a qualquer conclusão, sem valor demonstrativo.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.pt_br"
+        ],
+        "gloss": "Propriedade de um conjunto de axiomas que não se contradizem entre si.",
+        "id": "sns.sa.mind.mathlit_consistency.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sifat suatu himpunan aksioma yang tidak saling bertentangan. Jika dua pernyataan dalam himpunan itu saling meniadakan, himpunan tersebut tidak konsisten.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.id"
+        ],
+        "gloss": "Sifat suatu himpunan aksioma yang tidak saling bertentangan.",
+        "id": "sns.sa.mind.mathlit_consistency.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "คุณสมบัติของชุดบทสมมติฐานหรือกฎที่ไม่ขัดแย้งกัน หากข้อความสองข้อที่ต่างกันขัดแย้งกัน ชุดนั้นจะไม่สอดคล้องกัน",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.th"
+        ],
+        "gloss": "คุณสมบัติของชุดบทสมมติฐานที่ไม่ขัดแย้งกัน",
+        "id": "sns.sa.mind.mathlit_consistency.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir aksiyom kümesinde hiçbir önermenin başka bir önermeyle çelişmemesi hâli. Çelişki varsa küme tutarlı değildir.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.tr"
+        ],
+        "gloss": "Birbirleriyle çelişmeyen aksiyomlardan oluşan bir kümenin özelliği.",
+        "id": "sns.sa.mind.mathlit_consistency.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "一連の公理や規則の間で矛盾が生じないという性質。矛盾があれば、それらすべてを同時に真とはできない。",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_consistency.1.1.ja"
+        ],
+        "gloss": "複数の公理や規則が互いに矛盾しない性質。",
+        "id": "sns.sa.mind.mathlit_consistency.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mathlit_consistency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "二つの規則が同時に真でありえないなら、その規則の集合は整合的ではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "İki kural aynı anda doğru olamaz; bu yüzden kural kümesi tutarlı değildir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "กฎสองข้อไม่อาจเป็นจริงพร้อมกันได้ ดังนั้นชุดกฎนี้จึงไม่สอดคล้องกัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kedua aturan itu tidak mungkin sama-sama benar, sehingga himpunan aturan tersebut tidak konsisten.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "As duas regras não podem ser verdadeiras ao mesmo tempo, portanto o conjunto de regras não é consistente.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "두 규칙이 동시에 참일 수 없으므로 그 규칙 집합은 일관적이지 않다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_consistency.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The two rules cannot both be true, so the set of rules is not consistent.",
+        "translation": "Hai quy tắc không thể cùng đúng, nên tập hợp các quy tắc đó không nhất quán.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "0d31bc618d289b7eda5d413aa5f44ef7e618b0732556a9df39c22d8a21d8ef75": [
+      {
+        "forms": [
+          "multiply",
+          "multiplies"
+        ],
+        "id": "lex.sa.en.multiply.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "multiply",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.multiply.verb.1",
+          "sns.sa.en.multiply-verb.alt"
+        ]
+      },
+      {
+        "definition": "Tính tích của hai đại lượng.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "nhân",
+        "id": "sns.sa.vi.multiply.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.multiply.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To compute the product of two numbers.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [],
+        "gloss": "To compute the product of two quantities.",
+        "id": "sns.sa.en.multiply-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.multiply.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "0d4fc4a78d3706edccafb665a8b2fdd9309e82c78625bb0f2b8e7bb9e1c4d21c": [
+      {
+        "forms": [
+          "table"
+        ],
+        "id": "lex.sa.en.table.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "table",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.table.noun.1",
+          "sns.sa.en.table-noun.alt"
+        ]
+      },
+      {
+        "definition": "Bảng dữ liệu gồm các hàng và cột.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.48"
+        ],
+        "gloss": "bảng",
+        "id": "sns.sa.vi.table.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.table.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A set of data arranged in rows and columns.",
+        "domain": [
+          "computing"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.48"
+        ],
+        "gloss": "A grid of rows and columns of data.",
+        "id": "sns.sa.en.table-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.table.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.48",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A section may carry a two-column data table with a tinted header row.",
+        "translation": "Một mục có thể mang một bảng dữ liệu hai cột với hàng tiêu đề được tô màu.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "0d72a832f3b84f6c49a1513e77c17bdcd4f548fcd3e2de0370fa008c7de0620e": [
+      {
+        "forms": [
+          "Main beam (high beam)",
+          "high_beam"
+        ],
+        "id": "lex.sa.en.high.beam",
+        "kind": "lexeme",
+        "lemma": "Main beam (high beam)",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.high.beam.alt"
+        ]
+      },
+      {
+        "definition": "The main beam is on. Switch it off when other drivers can be dazzled. Severity level 1 — Information / Status. Action: Nothing to do, unless the beam dazzles someone..",
+        "gloss": "The main beam is on. Switch it off when other drivers can be dazzled.",
+        "id": "sns.sa.en.high.beam.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.high.beam",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "0d8101f9fe6a2cd3fa5e5cbb8b9ed616681a59886de70aa9f0ddcb8c99682cdd": [
+      {
+        "forms": [
+          "Sleep debt",
+          "sleep_debt"
+        ],
+        "id": "lex.sa.health.sleep_debt",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Sleep debt",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.health.sleep_debt.alt",
+          "sns.sa.health.sleep_debt.alt.ja",
+          "sns.sa.health.sleep_debt.alt.ko",
+          "sns.sa.health.sleep_debt.alt.pt_br",
+          "sns.sa.health.sleep_debt.alt.id",
+          "sns.sa.health.sleep_debt.alt.th",
+          "sns.sa.health.sleep_debt.alt.tr"
+        ]
+      },
+      {
+        "definition": "The accumulated gap between the sleep you have had and the sleep you need. It can be partly repaid, but slowly.",
+        "exampleIds": [
+          "exm.sa.health.sleep_debt.1.1"
+        ],
+        "gloss": "The accumulated gap between the sleep you have had and the sleep you need. It can be partly repaid, but slowly.",
+        "id": "sns.sa.health.sleep_debt.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.health.sleep_debt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "本来必要な睡眠時間よりVolt眠れた時間の不足が累積したものを指す。多少は回復できるものの、alignmentに時間がかかる。",
+        "exampleIds": [
+          "exm.sa.health.sleep_debt.1.1.ja"
+        ],
+        "gloss": "必要な睡眠量との差が積み重なった状態。",
+        "id": "sns.sa.health.sleep_debt.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.health.sleep_debt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "필요한 수면량에 비해 부족한 수면이 시간으로 누적된 상태다. 더 긴 잠으로 일부 회복할 수 있지만 완전히 메우기는 어렵다.",
+        "exampleIds": [
+          "exm.sa.health.sleep_debt.1.1.ko"
+        ],
+        "gloss": "쌓인 수면 부족의 정도.",
+        "id": "sns.sa.health.sleep_debt.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.health.sleep_debt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Representa a falta de sono acumulada ao longo do tempo. Pode ser recuperada, mas normalmente de forma gradual.",
+        "exampleIds": [
+          "exm.sa.health.sleep_debt.1.1.pt_br"
+        ],
+        "gloss": "Acúmulo da diferença entre a quantidade de sono desejada e a quantidade efetivamente dormida.",
+        "id": "sns.sa.health.sleep_debt.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.health.sleep_debt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Utang tidur terbentuk ketika kebutuhan tidur tidak terpenuhi secara terus-menerus. Kekurangannya dapat dipulihkan secara bertahap, tetapi biasanya tidak dapat dihilangkan dengan satu malam tidur panjang.",
+        "exampleIds": [
+          "exm.sa.health.sleep_debt.1.1.id"
+        ],
+        "gloss": "Akumulasi kekurangan tidur dibandingkan dengan jumlah tidur yang dibutuhkan.",
+        "id": "sns.sa.health.sleep_debt.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.health.sleep_debt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ระยะเวลาการนอนที่ควรได้รับแต่ไม่ได้นอนจนสะสมขึ้น สามารถทยอยชดเชยได้ แต่ต้องใช้เวลา",
+        "exampleIds": [
+          "exm.sa.health.sleep_debt.1.1.th"
+        ],
+        "gloss": "ภาวะสะสมจากการนอนไม่พอตามที่ร่างกายต้องการ",
+        "id": "sns.sa.health.sleep_debt.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.health.sleep_debt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uyku eksikliğinin zamanla birikmesidir; yeterli uyku alarak kısmen giderilebilir, ancak bu süreç yavaştır.",
+        "exampleIds": [
+          "exm.sa.health.sleep_debt.1.1.tr"
+        ],
+        "gloss": "Gerçekleşen uyku ile ihtiyaç duyulan uyku arasındaki biriken farktır.",
+        "id": "sns.sa.health.sleep_debt.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.health.sleep_debt",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.health.sleep_debt.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have been building up sleep debt for three weeks of early starts.",
+        "translation": "Üç haftadır erken kalktığım için uyku borcum birikiyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.health.sleep_debt.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have been building up sleep debt for three weeks of early starts.",
+        "translation": "ฉันตื่นนอนตั้งแต่ตีห้าเป็นประจำสามสัปดาห์ ทำให้ภาวะการนอนไม่พอสะสมขึ้นเรื่อย ๆ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.health.sleep_debt.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have been building up sleep debt for three weeks of early starts.",
+        "translation": "Saya mengumpulkan utang tidur selama tiga minggu karena harus bangun pagi-pagi.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.health.sleep_debt.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have been building up sleep debt for three weeks of early starts.",
+        "translation": "Passei três semanasstarting cedo e acumulando dívida de sono.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.health.sleep_debt.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have been building up sleep debt for three weeks of early starts.",
+        "translation": "세 주 연속 일찍 일어나면서 수면 부족이 쌓였습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.health.sleep_debt.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have been building up sleep debt for three weeks of early starts.",
+        "translation": "三週間朝が早いため、睡眠負債が積み重なっています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.health.sleep_debt.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I have been building up sleep debt for three weeks of early starts.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "0df74358b94108e9fd1a07e5cc603cb3f397bdb6ea97182dba4547e2bbf65566": [
+      {
+        "forms": [
+          "ovarian reserve",
+          "bc_ovarian_reserve"
+        ],
+        "id": "lex.sa.social.bc_ovarian_reserve",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "ovarian reserve",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.bc_ovarian_reserve.alt",
+          "sns.sa.social.bc_ovarian_reserve.alt.ja",
+          "sns.sa.social.bc_ovarian_reserve.alt.ko",
+          "sns.sa.social.bc_ovarian_reserve.alt.id",
+          "sns.sa.social.bc_ovarian_reserve.alt.th",
+          "sns.sa.social.bc_ovarian_reserve.alt.tr",
+          "sns.sa.social.bc_ovarian_reserve.alt.pt_br"
+        ]
+      },
+      {
+        "definition": "An estimate of how many eggs remain in the ovaries, built from hormone measurements and sometimes a scan.",
+        "exampleIds": [
+          "exm.sa.social.bc_ovarian_reserve.1.1"
+        ],
+        "gloss": "An estimate of how many eggs remain in the ovaries, built from hormone measurements and sometimes a scan.",
+        "id": "sns.sa.social.bc_ovarian_reserve.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.bc_ovarian_reserve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ホルモン値や卵巣の画像検査をもとに、卵巣予備能を推定する指標。卵の数や妊娠確率そのものを直接示すわけではない。",
+        "exampleIds": [
+          "exm.sa.social.bc_ovarian_reserve.1.1.ja"
+        ],
+        "gloss": "卵巣に残っている卵の数を、ホルモン検査や画像検査から推定した値。",
+        "id": "sns.sa.social.bc_ovarian_reserve.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.bc_ovarian_reserve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "호르몬 검사와 필요할 경우 초음파를 바탕으로 난소 예비력을 추정한다. 난자의 현재 재고를 가늠하는 값이며 임신 확률 자체를 나타내는 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.social.bc_ovarian_reserve.1.1.ko"
+        ],
+        "gloss": "난소에 남아 있는 난자의 양을 추정한 값.",
+        "id": "sns.sa.social.bc_ovarian_reserve.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.bc_ovarian_reserve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Cadangan ovarium adalah perkiraan jumlah sel telur yang tersisa, yang biasanya dihitung dari pengukuran hormon dan kadang pemindaian. Perkiraan ini menggambarkan jumlah cadangan, bukan peluang hamil.",
+        "exampleIds": [
+          "exm.sa.social.bc_ovarian_reserve.1.1.id"
+        ],
+        "gloss": "Perkiraan jumlah sel telur yang masih tersisa di ovarium.",
+        "id": "sns.sa.social.bc_ovarian_reserve.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.bc_ovarian_reserve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ค่าประเมินที่แสดงประมาณจำนวนไข่ที่เหลือในรังไข่ คำนวณจากค่าฮอร์โมนและบางครั้งอาจใช้ภาพสแกนร่วมด้วย ค่านี้ไม่ใช่โอกาสตั้งครรภ์โดยตรง",
+        "exampleIds": [
+          "exm.sa.social.bc_ovarian_reserve.1.1.th"
+        ],
+        "gloss": "การประเมินปริมาณไข่ที่เหลืออยู่ในรังไข่",
+        "id": "sns.sa.social.bc_ovarian_reserve.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.bc_ovarian_reserve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yumurtalık rezervi, hormon ölçümlerinden ve bazen bir görüntülemeden yararlanılarak kalan yumurta miktarının tahmin edilmesidir. Gerçek yumurta sayısını doğrudan göstermez ve gebe kalma olasılığı anlamına gelmez.",
+        "exampleIds": [
+          "exm.sa.social.bc_ovarian_reserve.1.1.tr"
+        ],
+        "gloss": "Yumurtalıklarda yaklaşık olarak kaç yumurta kaldığının tahmini.",
+        "id": "sns.sa.social.bc_ovarian_reserve.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.bc_ovarian_reserve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Estimativa baseada em dosagens hormonais e, às vezes, em ultrassonografia para avaliar a quantidade de óvulos restantes nos ovários. Não indica diretamente a chance de engravidar.",
+        "exampleIds": [
+          "exm.sa.social.bc_ovarian_reserve.1.1.pt_br"
+        ],
+        "gloss": "Estimativa da quantidade de óvulos que ainda permanecem nos ovários.",
+        "id": "sns.sa.social.bc_ovarian_reserve.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.bc_ovarian_reserve",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.bc_ovarian_reserve.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A estimativa da reserva ovariana descreve a quantidade provável de óvulos restantes, mas não a chance de engravidar.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.bc_ovarian_reserve.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Yumurtalık rezervi tahmini bir stok betimler; gebe kalma olasılığını söylemez.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.bc_ovarian_reserve.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ผลประเมินปริมาณไข่ที่เหลือในรังไข่บอกขนาดคลังไข่ แต่ไม่ได้บอกว่าจะตั้งครรภ์ได้แน่นอน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.bc_ovarian_reserve.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Perkiraan cadangan ovarium menggambarkan jumlah cadangan sel telur, bukan peluang mendapat kehamilan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.bc_ovarian_reserve.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "검사로 난소 예비력을 추정했지만 임신 확률은 별도로 알려 주었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.bc_ovarian_reserve.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "卵巣予備能の推定値は在庫のようなもので、妊娠確率をそのまま示すものではない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.bc_ovarian_reserve.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The ovarian reserve estimate describes a stock; it is not a statement about the odds.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

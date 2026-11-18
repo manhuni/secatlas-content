@@ -1,0 +1,623 @@
+{
+  "records": {
+    "9c0b85d6954b9b37944b54e32753ca0b70315916b4dfd1893e1955211aa3ab55": [
+      {
+        "id": "exp.sa.en.linear-equation",
+        "kind": "expression",
+        "language": "en",
+        "pronunciationIds": [
+          "prn.sa.en.linear-equation.gb",
+          "prn.sa.en.linear-equation.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.linear-equation.math",
+          "sns.sa.en.linear-equation.alt"
+        ],
+        "text": "linear equation",
+        "type": "mwe"
+      },
+      {
+        "definition": "Phương trình bậc nhất ax + b = 0 với a ≠ 0; đồ thị là một đường thẳng.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.linear-equation.01",
+          "exm.sa.en.linear-equation.02"
+        ],
+        "gloss": "phương trình tuyến tính",
+        "id": "sns.sa.en.linear-equation.math",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "exp.sa.en.linear-equation",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.diagram.line",
+          "res.sa.video.line"
+        ],
+        "revision": 2
+      },
+      {
+        "definition": "An equation that can be written as ax + b = 0, with a not equal to zero.",
+        "exampleIds": [
+          "exm.sa.en.linear-equation.01",
+          "exm.sa.en.linear-equation.02"
+        ],
+        "gloss": "An equation that can be written as ax + b = 0, with a not equal to zero.",
+        "id": "sns.sa.en.linear-equation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "exp.sa.en.linear-equation",
+        "pos": "",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.linear-equation.gb",
+        "ipa": "/ˈlɪn.i.ər ɪˈkweɪ.ʒən/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.linear-equation.us",
+        "ipa": "/ˈlɪn.i.ɚ ɪˈkweɪ.ʒən/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "id": "exm.sa.en.linear-equation.01",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "2x + 3 = 11 is a linear equation in one unknown.",
+        "translation": "2x + 3 = 11 là phương trình tuyến tính một ẩn.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "exm.sa.en.linear-equation.02",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "The graph of a linear equation is a straight line.",
+        "translation": "Đồ thị của phương trình tuyến tính là một đường thẳng.",
+        "translationLanguage": "vi"
+      },
+      {
+        "id": "res.sa.diagram.line",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://ddc67689924cc303da14f2af9cc4c658adbefd3ea1c0de254f48bd9483724239",
+            "mime": "image/png"
+          }
+        ],
+        "title": "Straight line diagram",
+        "type": "image"
+      },
+      {
+        "id": "res.sa.video.line",
+        "kind": "resource",
+        "offlinePolicy": "optional",
+        "sources": [
+          {
+            "kind": "cloud",
+            "locator": "asset://055e09c89ab608e493916d37a8ccdf3e2b3cc24e22649909a9dbb8ec4484ab59",
+            "mime": "video/mp4"
+          }
+        ],
+        "title": "Straight line clip",
+        "type": "video"
+      },
+      {
+        "fromId": "sns.sa.en.linear-equation.math",
+        "id": "lnk.sa.en.linear-equation.to.linear",
+        "kind": "relation",
+        "toId": "sns.sa.vi.linear.adjective.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.en.linear-equation.math",
+        "id": "lnk.sa.en.linear-equation.to.equation",
+        "kind": "relation",
+        "toId": "sns.sa.vi.equation.noun.1",
+        "type": "related_to"
+      },
+      {
+        "fromId": "sns.sa.en.linear-equation.math",
+        "id": "lnk.sa.en.linear-eq.see.wiki",
+        "kind": "relation",
+        "toId": "res.sa.link.linear-eq.wiki",
+        "type": "see_also"
+      }
+    ],
+    "9c2bcd1b4613dacf5695086d7f71f4aa213f85b5edc1d2f9edc193c579eae751": [
+      {
+        "forms": [
+          "Deskilling"
+        ],
+        "id": "lex.sa.mind.deskilling",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Deskilling",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.deskilling.en",
+          "sns.sa.mind.deskilling.vi"
+        ]
+      },
+      {
+        "definition": "The gradual loss of a skill when it is no longer practiced because a machine performs it instead.",
+        "exampleIds": [],
+        "gloss": "The gradual loss of a skill when it is no longer practiced because a machine performs it instead.",
+        "id": "sns.sa.mind.deskilling.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.deskilling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Sự mất dần một kỹ năng khi nó không còn được luyện tập vì máy móc đã làm thay.",
+        "id": "sns.sa.mind.deskilling.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.deskilling",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "9c6725dc269a48ce4b5bc78b580ccab2efbe6f3ccae64b1d44839f0cebd92fbe": [
+      {
+        "forms": [
+          "through"
+        ],
+        "id": "lex.sa.en.through.preposition",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "through",
+        "pos": "preposition",
+        "senseIds": [
+          "sns.sa.vi.through.preposition.1",
+          "sns.sa.en.through-preposition.alt"
+        ]
+      },
+      {
+        "definition": "Từ một bên sang bên kia; trong suốt một khoảng thời gian.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "xuyên qua; suốt trong",
+        "id": "sns.sa.vi.through.preposition.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.through.preposition",
+        "pos": "preposition",
+        "revision": 1
+      },
+      {
+        "definition": "Moving in one side and out of the other.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "From one side to the other; during a period.",
+        "id": "sns.sa.en.through-preposition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.through.preposition",
+        "pos": "preposition",
+        "revision": 1
+      }
+    ],
+    "9c6e04dd0216be22d579d65873edd7424db1e7d622492c002defe18d53e97500": [
+      {
+        "forms": [
+          "Engine oil level",
+          "oil_level"
+        ],
+        "id": "lex.sa.en.oil.level",
+        "kind": "lexeme",
+        "lemma": "Engine oil level",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.oil.level.alt"
+        ]
+      },
+      {
+        "definition": "The oil level is too low. Severity level 2 — Caution. Action: Top up the oil at the next opportunity, following the manual..",
+        "gloss": "The oil level is too low.",
+        "id": "sns.sa.en.oil.level.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.oil.level",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "9cafdabbf414fed039158202d1dad2105fb2f7c9a21d393d6c07155d9e26b920": [
+      {
+        "forms": [
+          "Main beam (high beam)",
+          "high_beam"
+        ],
+        "id": "lex.sa.en.high.beam",
+        "kind": "lexeme",
+        "lemma": "Main beam (high beam)",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.high.beam.alt"
+        ]
+      },
+      {
+        "definition": "The main beam is on. Switch it off when other drivers can be dazzled. Severity level 1 — Information / Status. Action: Nothing to do, unless the beam dazzles someone..",
+        "gloss": "The main beam is on. Switch it off when other drivers can be dazzled.",
+        "id": "sns.sa.en.high.beam.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.high.beam",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "9cbdc5d27cd575f2c2392858f0f40f6c76a7f0e4739059ae75c41cd303b45ce9": [
+      {
+        "forms": [
+          "Power",
+          "pd_power"
+        ],
+        "id": "lex.sa.mind.pd_power",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Power",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.pd_power.alt",
+          "sns.sa.mind.pd_power.alt.ja",
+          "sns.sa.mind.pd_power.alt.ko",
+          "sns.sa.mind.pd_power.alt.pt_br",
+          "sns.sa.mind.pd_power.alt.id",
+          "sns.sa.mind.pd_power.alt.th",
+          "sns.sa.mind.pd_power.alt.tr"
+        ]
+      },
+      {
+        "definition": "The ability to make things happen, whether or not the people affected agree.",
+        "exampleIds": [
+          "exm.sa.mind.pd_power.1.1"
+        ],
+        "gloss": "The ability to make things happen, whether or not the people affected agree.",
+        "id": "sns.sa.mind.pd_power.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.pd_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "同意の有无にかかわらず-INFECTEDorphic-INFECTED desired results uric 結果を生じさせる能力。着他influence を受ける会带来 結果 change な 結果をもたらす能力。",
+        "exampleIds": [
+          "exm.sa.mind.pd_power.1.1.ja"
+        ],
+        "gloss": "物事を結果へ導く力。",
+        "id": "sns.sa.mind.pd_power.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.pd_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "영향을 받는 사람들이 동의하든 하지 않든 어떤 결과를-inducing 능력이다. 단순히 허락을 받아 행사하는 권위와는 다르다.",
+        "exampleIds": [
+          "exm.sa.mind.pd_power.1.1.ko"
+        ],
+        "gloss": "다른 사람의 동의와 관계없이 일을 이루어 내는 능력.",
+        "id": "sns.sa.mind.pd_power.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.pd_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Capacidade de fazer com que algo aconteça, mesmo sem a concordância das pessoas afetadas. Em contexto político, pode designar o poder de governar ou de influenciar as decisões de um país.",
+        "exampleIds": [
+          "exm.sa.mind.pd_power.1.1.pt_br"
+        ],
+        "gloss": "Capacidade de fazer com que algo aconteça, mesmo sem a concordância das pessoas afetadas.",
+        "id": "sns.sa.mind.pd_power.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.pd_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kemampuan untuk membuat sesuatu terjadi, dengan atau tanpa persetujuan pihak yang terdampak.",
+        "exampleIds": [
+          "exm.sa.mind.pd_power.1.1.id"
+        ],
+        "gloss": "Kemampuan membuat sesuatu terjadi, dengan atau tanpa persetujuan orang lain.",
+        "id": "sns.sa.mind.pd_power.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.pd_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความสามารถที่ทำให้เหตุการณ์หรือการเปลี่ยนแปลงเกิดขึ้นได้ อาจมาจากตำแหน่ง ทรัพยากร หรือการควบคุม และไม่จำเป็นต้องได้รับความยินยอมจากผู้ได้รับผลกระทบ",
+        "exampleIds": [
+          "exm.sa.mind.pd_power.1.1.th"
+        ],
+        "gloss": "ความสามารถในการทำให้สิ่งต่าง ๆ เกิดขึ้น ไม่ว่าผู้ได้รับผลกระทบจะเห็นด้วยหรือไม่",
+        "id": "sns.sa.mind.pd_power.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.pd_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Güç, etkilenen kişilerin rızasına bağlı olmaksızın bir şeyi gerçekleştirebilme ve başkalarının davranışını yönlendirebilme kapasitesidir. Yetki veya rıza kazanma anlamına gelmez.",
+        "exampleIds": [
+          "exm.sa.mind.pd_power.1.1.tr"
+        ],
+        "gloss": "Güç, bir şeyin olmasını sağlama ve gerçekleştirme yeteneğidir.",
+        "id": "sns.sa.mind.pd_power.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.pd_power",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.pd_power.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Hattı kapatma gücü ondaydı; bunun için kimsenin iznine gerek yoktu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.pd_power.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "อำนาจในการปิดสายการผลิตอยู่ในมือของเขา และไม่ต้องขออนุญาตจากใคร",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.pd_power.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Kewenangan untuk menghentikan jalur itu ada di tangannya, tanpa memerlukan izin siapa pun.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.pd_power.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O governo tinha o poder de encerrar a linha de produção sem pedir autorização a ninguém.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.pd_power.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "회선을 폐쇄할 권력은 그에게 있었고, 다른 사람의 허락은 필요하지 않았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.pd_power.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "操業を停止させる力は彼の手中にあり、誰の許可も必要とされなかった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.pd_power.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The power to shut the line down was in his hands, and it did not need anybody's permission.",
+        "translation": "Quyền đóng cắt tuyến đường nằm trong tay anh, và điều đó không cần sự cho phép của bất kỳ ai.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "9cdda61ed35e93c4d103b3bba8b8a8e8707bf3ea5f6af9b32e683eb61ee5add6": [
+      {
+        "forms": [
+          "Ad hominem",
+          "mia_ad_hominem"
+        ],
+        "id": "lex.sa.mind.mia_ad_hominem",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Ad hominem",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mia_ad_hominem.alt",
+          "sns.sa.mind.mia_ad_hominem.alt.ja",
+          "sns.sa.mind.mia_ad_hominem.alt.ko",
+          "sns.sa.mind.mia_ad_hominem.alt.pt_br",
+          "sns.sa.mind.mia_ad_hominem.alt.th",
+          "sns.sa.mind.mia_ad_hominem.alt.tr",
+          "sns.sa.mind.mia_ad_hominem.alt.id"
+        ]
+      },
+      {
+        "definition": "An attack on the person instead of on the claim.",
+        "exampleIds": [
+          "exm.sa.mind.mia_ad_hominem.1.1"
+        ],
+        "gloss": "An attack on the person instead of on the claim.",
+        "id": "sns.sa.mind.mia_ad_hominem.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mia_ad_hominem",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "相手の主張の妥当性を論じずに、その人或いは人格などを攻撃すること。結論の誤りを示す討論とは区別する。",
+        "exampleIds": [
+          "exm.sa.mind.mia_ad_hominem.1.1.ja"
+        ],
+        "gloss": "主張ではなく相手を攻撃する論法。",
+        "id": "sns.sa.mind.mia_ad_hominem.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mia_ad_hominem",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "논쟁에서 상대의 성격이나 행태를 공격하여 주장의 타당성을 무너뜨리는 논증이다. 상대방이 말한 내용 자체에는 답하지 않는다는 점이 문제이다.",
+        "exampleIds": [
+          "exm.sa.mind.mia_ad_hominem.1.1.ko"
+        ],
+        "gloss": "주장이 아니라 상대를 공격하는 논증이다.",
+        "id": "sns.sa.mind.mia_ad_hominem.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mia_ad_hominem",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Argumento que ataca a caráter, asenue ou a credibilidade de quem sustenta uma tese, sem refutar a própria tese.",
+        "exampleIds": [
+          "exm.sa.mind.mia_ad_hominem.1.1.pt_br"
+        ],
+        "gloss": "Ataque dirigido à pessoa, em vez de responder à afirmação.",
+        "id": "sns.sa.mind.mia_ad_hominem.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mia_ad_hominem",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การโจมตีคุณสมบัติหรือพฤติกรรมของผู้พูดแทนการตอบคำถามหรือโต้แย้งเรื่องที่ถกเถียง",
+        "exampleIds": [
+          "exm.sa.mind.mia_ad_hominem.1.1.th"
+        ],
+        "gloss": "การโจมตีตัวบุคคลแทนการตอบข้อโต้แย้ง",
+        "id": "sns.sa.mind.mia_ad_hominem.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mia_ad_hominem",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Argümanın kendisini ele almak yerine savunucusunu kişisel olarak hedef alan usul. Böyle bir saldırı, iddianın doğruluğunu çürütmüş olmaz.",
+        "exampleIds": [
+          "exm.sa.mind.mia_ad_hominem.1.1.tr"
+        ],
+        "gloss": "Bir iddiye değil, onu savunan kişiye saldırarak yapılan çürütme.",
+        "id": "sns.sa.mind.mia_ad_hominem.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mia_ad_hominem",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Istilah untukSERangan yang menyerang pribadi seseorang daripada menolak klaim atau argumen yang dikemukakannya. Perhatikan bahwa nama latinnya tetap dipakai dalam bahasa Indonesia.",
+        "exampleIds": [
+          "exm.sa.mind.mia_ad_hominem.1.1.id"
+        ],
+        "gloss": "Serangan terhadap orang, bukan terhadap argumennya.",
+        "id": "sns.sa.mind.mia_ad_hominem.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mia_ad_hominem",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mia_ad_hominem.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ucapan bahwa seseorang tidak pernah membaca laporan merupakan serangan ad hominem karena tidak menjawab isi argumennya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mia_ad_hominem.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Raporu okumadığın için fikrinin değeri yoktur demek, bir ad hominem saldırısıdır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mia_ad_hominem.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การบอกว่าเธอไม่ได้อ่านรายงานจึงไม่มีสิทธิ์มีความเห็น เป็นการโจมตีตัวบุคคลแทนการตอบข้อโต้แย้ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mia_ad_hominem.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Seu argumento é um ad hominem, pois ataca o autor do relatório em vez de responder ao que ele afirma.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mia_ad_hominem.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "보고서를 읽지 않았다는 이유로 상대방을 무시하는 것은 인신공격이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mia_ad_hominem.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "報告書を読んでいないから意見には価値がないと言うのは、主張ではなく相手を攻撃する人身攻撃です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mia_ad_hominem.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "You did not read the report, so your opinion does not count is an ad hominem.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

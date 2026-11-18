@@ -1,0 +1,1030 @@
+{
+  "records": {
+    "9016a9b1d469c33c0cde51a45c253cdf1fa9fd47dd41b863fbe29549a8e47ba2": [
+      {
+        "forms": [
+          "Sign-off",
+          "sign_off"
+        ],
+        "id": "lex.sa.work.sign_off",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Sign-off",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.sign_off.alt",
+          "sns.sa.work.sign_off.alt.ja",
+          "sns.sa.work.sign_off.alt.ko",
+          "sns.sa.work.sign_off.alt.pt_br",
+          "sns.sa.work.sign_off.alt.id",
+          "sns.sa.work.sign_off.alt.th",
+          "sns.sa.work.sign_off.alt.tr"
+        ]
+      },
+      {
+        "definition": "The closing line of an email, such as \"Kind regards\", followed by your name.",
+        "exampleIds": [
+          "exm.sa.work.sign_off.1.1"
+        ],
+        "gloss": "The closing line of an email, such as \"Kind regards\", followed by your name.",
+        "id": "sns.sa.work.sign_off.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.sign_off",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "電子メールの本文末尾に記す、敬意を表す言葉や署名の総称で、本文の締めくくりに当たる。",
+        "exampleIds": [
+          "exm.sa.work.sign_off.1.1.ja"
+        ],
+        "gloss": "電子メールを終えるときの挨拶と名前。",
+        "id": "sns.sa.work.sign_off.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.sign_off",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "전자 메일의 마지막에 예를 들어 ‘안부 인사’처럼 쓰고 자신의 이름과 직책을 덧붙이는 부분이다. 단순히 메일을 끝맺는 문장만 말하는 것은 아니다.",
+        "exampleIds": [
+          "exm.sa.work.sign_off.1.1.ko"
+        ],
+        "gloss": "전자 메일 끝에 쓰는 격식 있는 인사말.",
+        "id": "sns.sa.work.sign_off.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.sign_off",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É o encerramento de uma mensagem de e-mail, geralmente seguido de uma fórmula de despedida, como “Atenciosamente”, e do nome do remetente.",
+        "exampleIds": [
+          "exm.sa.work.sign_off.1.1.pt_br"
+        ],
+        "gloss": "Parte final de um e-mail em que se despede e se identifica o remetente.",
+        "id": "sns.sa.work.sign_off.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.sign_off",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Penutup surel merupakan bagian akhir pesan untuk menunjukkansfn态度 dan identitas pengirim, misalnya denganUcapan hormat. Baris ini berbeda dari tanda tangan pada dokumen yang dicetak.",
+        "exampleIds": [
+          "exm.sa.work.sign_off.1.1.id"
+        ],
+        "gloss": "Baris penutup yang sopan pada surel, biasanya diikuti nama dan jabatan pengirim.",
+        "id": "sns.sa.work.sign_off.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.sign_off",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ข้อความสั้น ๆ ที่ใช้ปิดอีเมล เช่น คำแสดงความนับถือ แล้วตามด้วยชื่อและบรรดาศักดิ์ของผู้ส่ง",
+        "exampleIds": [
+          "exm.sa.work.sign_off.1.1.th"
+        ],
+        "gloss": "ข้อความลงท้ายอีเมลก่อนลงชื่อผู้ส่ง",
+        "id": "sns.sa.work.sign_off.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.sign_off",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "E-postanın sonundaki “Saygılarımla” gibi kapanış ifadesini ve ardından gelen ad ile unvanı kapsar.",
+        "exampleIds": [
+          "exm.sa.work.sign_off.1.1.tr"
+        ],
+        "gloss": "E-postanın sonunda, selamlaşmadan sonra adın yazıldığı kapanış bölümüdür.",
+        "id": "sns.sa.work.sign_off.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.sign_off",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.sign_off.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Use a plain sign-off: Kind regards, then your name and title.",
+        "translation": "E-postanın kapanışında “Saygılarımla” yazdıktan sonra adınızı ve unvanınızı ekleyin.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.sign_off.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Use a plain sign-off: Kind regards, then your name and title.",
+        "translation": "ลงท้ายอีเมลอย่างเรียบง่ายด้วยคำว่า “ขอแสดงความนับถือ” แล้วตามด้วยชื่อและตำแหน่ง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.sign_off.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Use a plain sign-off: Kind regards, then your name and title.",
+        "translation": "Gunakan penutup surel yang sederhana: Hormat saya, lalu nama dan jabatan saya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.sign_off.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Use a plain sign-off: Kind regards, then your name and title.",
+        "translation": "Use um fecho simples: Atenciosamente, seguido do seu nome e cargo.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.sign_off.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Use a plain sign-off: Kind regards, then your name and title.",
+        "translation": "간단한 마무리 인사를 쓰고 이름과 직책을 적으면 됩니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.sign_off.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Use a plain sign-off: Kind regards, then your name and title.",
+        "translation": "電子メールは「敬礼」で終え、その後に自分の名前を書きます。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.sign_off.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Use a plain sign-off: Kind regards, then your name and title.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "904c4a358b376780404d07a51285cd9c619b5a555e4baabc346bba42bdc25897": [
+      {
+        "forms": [
+          "Passenger airbag switched off",
+          "airbag_off"
+        ],
+        "id": "lex.sa.en.airbag.off",
+        "kind": "lexeme",
+        "lemma": "Passenger airbag switched off",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.airbag.off.alt"
+        ]
+      },
+      {
+        "definition": "The front passenger airbag is switched off, usually because a child seat is fitted. Severity level 1 — Information / Status. Action: Nothing to do, as long as you meant to switch it off..",
+        "gloss": "The front passenger airbag is switched off, usually because a child seat is fitted.",
+        "id": "sns.sa.en.airbag.off.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.airbag.off",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "905301bf736f9b791431037c6c25dc9980a03873a1c1b2fba3f38be9c8e9dd69": [
+      {
+        "forms": [
+          "usual"
+        ],
+        "id": "lex.sa.en.usual.adjective",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "usual",
+        "pos": "adjective",
+        "senseIds": [
+          "sns.sa.vi.usual.adjective.1",
+          "sns.sa.en.usual-adjective.alt"
+        ]
+      },
+      {
+        "definition": "Như mọi khi; theo thông lệ.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "thông thường",
+        "id": "sns.sa.vi.usual.adjective.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.usual.adjective",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Common and to be expected.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "Ordinary and expected.",
+        "id": "sns.sa.en.usual-adjective.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.usual.adjective",
+        "pos": "adjective",
+        "revision": 1
+      }
+    ],
+    "9061d0cabdfaab16f9ec43a4df8d397fa3986e80bfd5a49b0a39ac2bb615d885": [
+      {
+        "forms": [
+          "Set menu",
+          "set_menu"
+        ],
+        "id": "lex.sa.travel.set_menu",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Set menu",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.set_menu.alt",
+          "sns.sa.travel.set_menu.alt.ja",
+          "sns.sa.travel.set_menu.alt.ko",
+          "sns.sa.travel.set_menu.alt.pt_br",
+          "sns.sa.travel.set_menu.alt.id",
+          "sns.sa.travel.set_menu.alt.th",
+          "sns.sa.travel.set_menu.alt.tr"
+        ]
+      },
+      {
+        "definition": "A starter, a main course and a dessert sold together at a single price. Often the cheapest and most predictable choice.",
+        "exampleIds": [
+          "exm.sa.travel.set_menu.1.1"
+        ],
+        "gloss": "A starter, a main course and a dessert sold together at a single price. Often the cheapest and most predictable choice.",
+        "id": "sns.sa.travel.set_menu.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.set_menu",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "前菜、主菜、デザートが一つの値段で提供されるメニュー。 Wigコースより one'sVioletFyreで選びやすく、predictable な選択肢になることが多い。",
+        "exampleIds": [
+          "exm.sa.travel.set_menu.1.1.ja"
+        ],
+        "gloss": "前菜、主菜、デザートを一つの値段で 提供される定型メニュー。",
+        "id": "sns.sa.travel.set_menu.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.set_menu",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "여러 요리를 따로 고르는 대신 하나로 묶어 판매하는 메뉴입니다. 가격이 비교적 저렴하고 무엇이 나오는지도 예측하기 쉬워 선택하기 편합니다.",
+        "exampleIds": [
+          "exm.sa.travel.set_menu.1.1.ko"
+        ],
+        "gloss": "앞菜, 본 요리와 후식을 한꺼번에 한 가격으로 판매하는 메뉴이다.",
+        "id": "sns.sa.travel.set_menu.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.set_menu",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "O menu fechado reúne normalmente uma entrada, um prato principal e uma sobremesa. É uma opção prática, costuma ter preço previsível e, em geral, sai mais barato do que pedir cada prato separadamente.",
+        "exampleIds": [
+          "exm.sa.travel.set_menu.1.1.pt_br"
+        ],
+        "gloss": "Cardápio com entrada, prato principal e sobremesa por um preço único.",
+        "id": "sns.sa.travel.set_menu.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.set_menu",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Paket makanan yang mencakup hidangan pembuka, hidangan utama, dan penutup dengan satu harga tetap. Menu ini sering menjadi pilihan termurah dan paling mudah diprediksi.",
+        "exampleIds": [
+          "exm.sa.travel.set_menu.1.1.id"
+        ],
+        "gloss": "Hidangan pembuka, hidangan utama, dan penutup yang dijual bersama dengan satu harga.",
+        "id": "sns.sa.travel.set_menu.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.set_menu",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ชุดอาหารรวมอาหารหลายรายการและขายด้วยราคาเดียว โดยทั่วไปเป็นทางเลือกที่ถูกและคาดเดาได้ว่าจะได้อะไร",
+        "exampleIds": [
+          "exm.sa.travel.set_menu.1.1.th"
+        ],
+        "gloss": "ชุดอาหารที่มีอาหารเริ่มต้น อาหารหลัก และของหวาน ขายในราคาเดียว",
+        "id": "sns.sa.travel.set_menu.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.set_menu",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Başlangıç, ana yemek ve tatlıdan oluşan, tek bir fiyatla satılan menüdür. Genellikle daha ucuz ve seçimleri önceden belli olduğu için pratik bir seçenektir.",
+        "exampleIds": [
+          "exm.sa.travel.set_menu.1.1.tr"
+        ],
+        "gloss": "Başlangıç, ana yemek ve tatlının birlikte sunulduğu sabit fiyatlı menü.",
+        "id": "sns.sa.travel.set_menu.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.set_menu",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.set_menu.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will take the set menu, please.",
+        "translation": "Set menüyü alacağım, lütfen.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.set_menu.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will take the set menu, please.",
+        "translation": "ขอชุดอาหารไปด้วยครับ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.set_menu.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will take the set menu, please.",
+        "translation": "Saya akan mengambil menu paket, tolong.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.set_menu.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will take the set menu, please.",
+        "translation": "Vou querer o menu fechado, por favor.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.set_menu.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will take the set menu, please.",
+        "translation": "세트 메뉴로 주세요.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.set_menu.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will take the set menu, please.",
+        "translation": "セットメニューをください。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.set_menu.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "I will take the set menu, please.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "908aa2ab7e52f4cf73863142ae6fa08b5408bfb1602557d21de526ef79350fd2": [
+      {
+        "forms": [
+          "sweep",
+          "sweeping"
+        ],
+        "id": "lex.sa.en.sweep.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "sweep",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.sweep.verb.1",
+          "sns.sa.en.sweep-verb.alt"
+        ]
+      },
+      {
+        "definition": "Chạy qua một khoảng bằng một đường cong liên tục.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [],
+        "gloss": "quét",
+        "id": "sns.sa.vi.sweep.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.sweep.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To move in a wide continuous curve.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [],
+        "gloss": "To move across an arc in one continuous motion.",
+        "id": "sns.sa.en.sweep-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.sweep.verb",
+        "pos": "verb",
+        "revision": 1
+      }
+    ],
+    "909802b269dee093387e26c6c7ace636f180eac29f58c7d8009b637c4babf1ce": [
+      {
+        "forms": [
+          "Spread",
+          "mon_spread"
+        ],
+        "id": "lex.sa.money.mon_spread",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Spread",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_spread.alt",
+          "sns.sa.money.mon_spread.alt.ja",
+          "sns.sa.money.mon_spread.alt.ko",
+          "sns.sa.money.mon_spread.alt.pt_br",
+          "sns.sa.money.mon_spread.alt.id",
+          "sns.sa.money.mon_spread.alt.th",
+          "sns.sa.money.mon_spread.alt.tr"
+        ]
+      },
+      {
+        "definition": "The difference between the price a shop buys at and the price it sells at.",
+        "exampleIds": [
+          "exm.sa.money.mon_spread.1.1"
+        ],
+        "gloss": "The difference between the price a shop buys at and the price it sells at.",
+        "id": "sns.sa.money.mon_spread.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_spread",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "同じ品物を買い値と売値で奥地利ときの差のこと。的这一 差は既に小売価格に含まれている。",
+        "exampleIds": [
+          "exm.sa.money.mon_spread.1.1.ja"
+        ],
+        "gloss": "店の仕入れ価格と販売価格との差。",
+        "id": "sns.sa.money.mon_spread.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.money.mon_spread",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "도매 가격이나 매입 가격과 최종 소비자가 지불하는 판매 가격 사이의 차이를 말한다. 이 차이는 판매 가격에 이미 포함되어 있다.",
+        "exampleIds": [
+          "exm.sa.money.mon_spread.1.1.ko"
+        ],
+        "gloss": "상점이 물건을 매입하는 가격과 판매하는 가격의 차이.",
+        "id": "sns.sa.money.mon_spread.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.money.mon_spread",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Distância entre o preço que uma empresa paga ao comprar um produto ou serviço e o preço pelo qual o vende.",
+        "exampleIds": [
+          "exm.sa.money.mon_spread.1.1.pt_br"
+        ],
+        "gloss": "Diferença entre o preço de compra e o preço de venda.",
+        "id": "sns.sa.money.mon_spread.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.money.mon_spread",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Selisih harga adalah perbedaan antara harga pembelian dan harga penjualan. Selisih tersebut menjadi bagian dari harga yang dibayar konsumen.",
+        "exampleIds": [
+          "exm.sa.money.mon_spread.1.1.id"
+        ],
+        "gloss": "Selisih harga adalah perbedaan antara harga pembelian dan harga penjualan.",
+        "id": "sns.sa.money.mon_spread.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.money.mon_spread",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความต่างระหว่างราคาที่ร้านค้าซื้อสินค้าและราคาที่ร้านค้าขายสินค้านั้น",
+        "exampleIds": [
+          "exm.sa.money.mon_spread.1.1.th"
+        ],
+        "gloss": "ส่วนต่างระหว่างราคาที่ซื้อกับราคาที่ขาย",
+        "id": "sns.sa.money.mon_spread.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.money.mon_spread",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir malın alıcıdan alındığı fiyat ile satıcıya satıldığı fiyat arasındaki fark.",
+        "exampleIds": [
+          "exm.sa.money.mon_spread.1.1.tr"
+        ],
+        "gloss": "Alış fiyatı ile satış fiyatı arasındaki fark.",
+        "id": "sns.sa.money.mon_spread.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.money.mon_spread",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_spread.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Üretici fiyatı ile raf fiyatı arasındaki makas, ödediğiniz tutarın içinde yer alır.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.money.mon_spread.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ส่วนต่างราคาระหว่างราคาที่ผู้ผลิตได้รับกับราคาบนชั้นวางถูกรวมอยู่ในราคาที่คุณจ่ายแล้ว",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.money.mon_spread.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Selisih antara harga dari produsen dan harga di rak sudah termasuk dalam yang Anda bayar.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.money.mon_spread.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A margem entre o preço do produtor e o preço nas prateleiras já está incluída no que você paga.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.money.mon_spread.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "생산자 가격과 판매대 가격의 차이는 이미 고객이 지불하는 금액에 들어 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.money.mon_spread.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "生産者の価格と店頭価格との差はAlready支払額に含まれている。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.money.mon_spread.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The spread between the producer's price and the shelf price is already inside what you pay.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "90a522ee8b1f526454ff67b3567d276e7752e758c85e162bf9fa617ed31a220b": [
+      {
+        "forms": [
+          "Culture shock",
+          "culture_shock"
+        ],
+        "id": "lex.sa.culture.culture_shock",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Culture shock",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.culture.culture_shock.alt",
+          "sns.sa.culture.culture_shock.alt.ja",
+          "sns.sa.culture.culture_shock.alt.ko",
+          "sns.sa.culture.culture_shock.alt.pt_br",
+          "sns.sa.culture.culture_shock.alt.id",
+          "sns.sa.culture.culture_shock.alt.th",
+          "sns.sa.culture.culture_shock.alt.tr"
+        ]
+      },
+      {
+        "definition": "The disorientation you feel when the everyday rules of a place stop matching the ones you grew up with.",
+        "exampleIds": [
+          "exm.sa.culture.culture_shock.1.1"
+        ],
+        "gloss": "The disorientation you feel when the everyday rules of a place stop matching the ones you grew up with.",
+        "id": "sns.sa.culture.culture_shock.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.culture.culture_shock",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "その場所の日常のルールが、育った頃の自分の日常のルールと合わなくなったときに感じる混乱や不安です。",
+        "exampleIds": [
+          "exm.sa.culture.culture_shock.1.1.ja"
+        ],
+        "gloss": "慣れた生活環境が変わったときに生じるoriented 不安。",
+        "id": "sns.sa.culture.culture_shock.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.culture.culture_shock",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "그동안 accustomed한 사회 관습이나 생활 규칙이 갑자기 달라졌을 때 방향을 잃고 혼란을 느끼는 현상이다.",
+        "exampleIds": [
+          "exm.sa.culture.culture_shock.1.1.ko"
+        ],
+        "gloss": "익숙한 지역의 생활 방식과 다른 환경에 적응하지 못해 생기는 혼란이다.",
+        "id": "sns.sa.culture.culture_shock.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.culture.culture_shock",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Confusão e desconforto tweaked ao se deparar com hábitos, regras ou padrões sociais diferentes daqueles com os quais se está acostumado. É comum quando alguém se muda para um país ou uma região com outra cultura.",
+        "exampleIds": [
+          "exm.sa.culture.culture_shock.1.1.pt_br"
+        ],
+        "gloss": "Desorientação causada por costumes e regras diferentes dos que você conhece.",
+        "id": "sns.sa.culture.culture_shock.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.culture.culture_shock",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kejutan mental yang muncul ketika cara hidup, kebiasaan, atau aturan di suatu tempat tidak sesuai dengan yang Anda kenal sejak kecil.",
+        "exampleIds": [
+          "exm.sa.culture.culture_shock.1.1.id"
+        ],
+        "gloss": "Perasaan bingung dan tidak adjusts ketika aturan kebiasaan di tempat lain berbeda.",
+        "id": "sns.sa.culture.culture_shock.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.culture.culture_shock",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความรู้สึกหลงและสับสนเมื่อพบวิธีใช้ชีวิตและกฎทางสังคมของสถานที่หนึ่งแตกต่างจากสิ่งที่เติบโตมากำเนิด",
+        "exampleIds": [
+          "exm.sa.culture.culture_shock.1.1.th"
+        ],
+        "gloss": "ความสับสนที่เกิดขึ้นเมื่อกฎขนบธรรมเนียมของท้องถิ่นต่างจากที่คุ้นเคย",
+        "id": "sns.sa.culture.culture_shock.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.culture.culture_shock",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yaşanılan yerdeki günlük kurallar ve alışkanlıklar önceki yaşam alışkanlıklarından farklıysa ortaya çıkan tedirginliktir. Yalnızca bir yeri beğenmemek değil, günlük yaşamı sürdürmekte zorlanmaktır.",
+        "exampleIds": [
+          "exm.sa.culture.culture_shock.1.1.tr"
+        ],
+        "gloss": "Bir yere taşındıktan sonra alışıldık kuralların artık kendi alışkanlıklarına uymadığı hissi.",
+        "id": "sns.sa.culture.culture_shock.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.culture.culture_shock",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.culture.culture_shock.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Culture shock hit me the week I could not find a supermarket open after six.",
+        "translation": "Altıdan sonra açık bir market bulamayınca kültür şoku yaşadım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.culture.culture_shock.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Culture shock hit me the week I could not find a supermarket open after six.",
+        "translation": "สัปดาห์ที่ฉันหาร้านสุปpermarket ที่ยังเปิดหลังหกโมงไม่พบ ฉันรู้สึกช็อกทางวัฒนธรรมมาก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.culture.culture_shock.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Culture shock hit me the week I could not find a supermarket open after six.",
+        "translation": "Saya mengalami guncangan budaya pada minggu ketika saya tidak menemukan supermarket yang buka setelah pukul enam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.culture.culture_shock.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Culture shock hit me the week I could not find a supermarket open after six.",
+        "translation": "O choque cultural começou na semana em que não encontrei nenhum supermercado aberto depois das seis.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.culture.culture_shock.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Culture shock hit me the week I could not find a supermarket open after six.",
+        "translation": "저녁 여섯 시 이후에 문을 여는 곳을 찾지 못했을 때 culture shock을 느꼈다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.culture.culture_shock.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Culture shock hit me the week I could not find a supermarket open after six.",
+        "translation": "午後6時以降営業しているスーパーを見つけられなかった週、文化ショックを感じました。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.culture.culture_shock.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Culture shock hit me the week I could not find a supermarket open after six.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "90a6c018c2caea1c5e8bd27d5fc6ae3c3780f600cd3109f24e60056c05a3571e": [
+      {
+        "forms": [
+          "Divorced",
+          "lts_divorced"
+        ],
+        "id": "lex.sa.social.lts_divorced",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Divorced",
+        "pos": "adjective",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_divorced.alt",
+          "sns.sa.social.lts_divorced.alt.ja",
+          "sns.sa.social.lts_divorced.alt.ko",
+          "sns.sa.social.lts_divorced.alt.pt_br",
+          "sns.sa.social.lts_divorced.alt.id",
+          "sns.sa.social.lts_divorced.alt.th",
+          "sns.sa.social.lts_divorced.alt.tr"
+        ]
+      },
+      {
+        "definition": "Describing a person whose marriage has ended legally.",
+        "exampleIds": [
+          "exm.sa.social.lts_divorced.1.1"
+        ],
+        "gloss": "Describing a person whose marriage has ended legally.",
+        "id": "sns.sa.social.lts_divorced.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_divorced",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "離婚によって婚姻が法律上終了している人を表す。",
+        "exampleIds": [
+          "exm.sa.social.lts_divorced.1.1.ja"
+        ],
+        "gloss": "婚姻が法律上終了した人の。",
+        "id": "sns.sa.social.lts_divorced.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_divorced",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "법적 절차로 혼인 관계가 종료된 사람을 뜻한다. 이혼한 사람과 현재 혼인 중인 사람을 구별하는 표현이다.",
+        "exampleIds": [
+          "exm.sa.social.lts_divorced.1.1.ko"
+        ],
+        "gloss": "결혼이 법적으로 끝난 사람을 뜻하는.",
+        "id": "sns.sa.social.lts_divorced.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_divorced",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Adjetivo usado para indicar que uma pessoa está divorciada, isto é, seu casamento foi encerrado pela via legal.",
+        "exampleIds": [
+          "exm.sa.social.lts_divorced.1.1.pt_br"
+        ],
+        "gloss": "Que descreve uma pessoa cujo casamento terminou legalmente.",
+        "id": "sns.sa.social.lts_divorced.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_divorced",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Dipakai sebagai keterangan untuk orang yang sudah tidak berstatus menikah karena perceraian yang sah. Keadaan ini tidak otomatis berarti orang tersebut tidak memiliki pasangan saat ini.",
+        "exampleIds": [
+          "exm.sa.social.lts_divorced.1.1.id"
+        ],
+        "gloss": "Seseorang yang perkawinannya telah berakhir secara resmi melalui perceraian.",
+        "id": "sns.sa.social.lts_divorced.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_divorced",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "เป็นลักษณะของบุคคลที่การสมรสสิ้นสุดลงอย่างถูกต้องตามกฎหมาย ไม่ได้หมายถึงผู้ที่เพิ่งแต่งงานและยังไม่เคยมีการสมรส",
+        "exampleIds": [
+          "exm.sa.social.lts_divorced.1.1.th"
+        ],
+        "gloss": "เป็นผู้ที่เคยแต่งงานแล้วเลิกกันโดยชอบด้วยกฎหมาย",
+        "id": "sns.sa.social.lts_divorced.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_divorced",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Evliliği resmî olarak sona erdiği için evli olmayan kişiyi anlatır. Daha sonra yeniden evlenebilir.",
+        "exampleIds": [
+          "exm.sa.social.lts_divorced.1.1.tr"
+        ],
+        "gloss": "Evliliği yasal olarak sona ermiş kişiyi belirtir.",
+        "id": "sns.sa.social.lts_divorced.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_divorced",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_divorced.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Boşanmış biri olarak çocuklarıyla haftada bir hafta geçiriyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_divorced.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "เขาเป็นผู้หย่าร้าง และลูก ๆ ใช้เวลาสัปดาห์อยู่กับเขา",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_divorced.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ia sudah cerai, dan anak-anak menghabiskan akhir pekan bersamanya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_divorced.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ele é divorciado, e as crianças passam a semana com ele.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_divorced.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그는 이혼했고, 아이들은 매주 그의 집에서 지낸다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_divorced.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼は離婚済みで、子どもたちは一週間を彼と過ごす。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_divorced.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He is divorced, and the children spend the week with him.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "90d8eb36590f8e8e3a33fbc2197e10f362cafaebbf09d6c40471f251924206de": [
+      {
+        "forms": [
+          "Cross traffic alert",
+          "cross_traffic"
+        ],
+        "id": "lex.sa.en.cross.traffic",
+        "kind": "lexeme",
+        "lemma": "Cross traffic alert",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.cross.traffic.alt"
+        ]
+      },
+      {
+        "definition": "The system has seen traffic crossing your path, for example when reversing out of a parking space. Severity level 2 — Caution. Action: Stop and look before moving..",
+        "gloss": "The system has seen traffic crossing your path, for example when reversing out of a parking space.",
+        "id": "sns.sa.en.cross.traffic.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.cross.traffic",
+        "pos": "noun",
+        "revision": 1
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

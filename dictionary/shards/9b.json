@@ -1,0 +1,385 @@
+{
+  "records": {
+    "9b3c58a64a7793ca1f3677c8099b6dd49f7c6b0de14052024a4d51120000253e": [
+      {
+        "forms": [
+          "Transit area",
+          "transit_area"
+        ],
+        "id": "lex.sa.travel.transit_area",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Transit area",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.travel.transit_area.alt",
+          "sns.sa.travel.transit_area.alt.ja",
+          "sns.sa.travel.transit_area.alt.ko",
+          "sns.sa.travel.transit_area.alt.pt_br",
+          "sns.sa.travel.transit_area.alt.id",
+          "sns.sa.travel.transit_area.alt.th",
+          "sns.sa.travel.transit_area.alt.tr"
+        ]
+      },
+      {
+        "definition": "The secure part of the airport where you wait for a connecting flight. You cannot leave it without a new ticket.",
+        "exampleIds": [
+          "exm.sa.travel.transit_area.1.1"
+        ],
+        "gloss": "The secure part of the airport where you wait for a connecting flight. You cannot leave it without a new ticket.",
+        "id": "sns.sa.travel.transit_area.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.travel.transit_area",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "搭乗中の便を待つため、制御区域内に留まる場所であり、新しい切符なしには出られない。",
+        "exampleIds": [
+          "exm.sa.travel.transit_area.1.1.ja"
+        ],
+        "gloss": "空港で次の便を待っている区域。",
+        "id": "sns.sa.travel.transit_area.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.travel.transit_area",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "공항의 보안 구역 안에서 다음 항공편을 기다리는 환승 구역이다. 이 구역을 벗어나면 다시 탑승권을 사야 할 수 있다.",
+        "exampleIds": [
+          "exm.sa.travel.transit_area.1.1.ko"
+        ],
+        "gloss": "공항에서 환승편을 기다리는 보안 구역.",
+        "id": "sns.sa.travel.transit_area.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.travel.transit_area",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Nessa área, o passageiro precisa permanecer no ambiente controlado do aeroporto. Em geral, não pode sair para a cidade sem uma nova autorização de embarque.",
+        "exampleIds": [
+          "exm.sa.travel.transit_area.1.1.pt_br"
+        ],
+        "gloss": "Área segura do aeroporto onde se espera pelo voo de conexão.",
+        "id": "sns.sa.travel.transit_area.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.travel.transit_area",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Area transit merupakan bagian aman udara yang dikendalikan ketat. Penumpang tidak boleh-storage leaving area tanpa memperoleh tiket baru.",
+        "exampleIds": [
+          "exm.sa.travel.transit_area.1.1.id"
+        ],
+        "gloss": "Area投稿者 di bandara untuk menunggu penerbangan penerusan.",
+        "id": "sns.sa.travel.transit_area.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.travel.transit_area",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "พื้นที่ควบคุมภายในสนามบินที่ผู้โดยสารรอเที่ยวบินต่อเครื่อง โดยทั่วไปไม่สามารถออกจากพื้นที่นี้ได้หากไม่ซื้อตั๋วใหม่",
+        "exampleIds": [
+          "exm.sa.travel.transit_area.1.1.th"
+        ],
+        "gloss": "พื้นที่รับต่อเครื่องภายในสนามบิน",
+        "id": "sns.sa.travel.transit_area.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.travel.transit_area",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Havalimanında bağlantı uçuşunu bekleyen kişilerin bulunduğu güvenli bölüm. Yeni bir bilet almadan bu bölümden çıkılamaz.",
+        "exampleIds": [
+          "exm.sa.travel.transit_area.1.1.tr"
+        ],
+        "gloss": "Havalimanında bağlantı uçuşunu bekleyen kişilerin bulunduğu güvenli bölüm.",
+        "id": "sns.sa.travel.transit_area.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.travel.transit_area",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.travel.transit_area.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My flight is delayed, so I am stuck in the transit area.",
+        "translation": "Uçuşum gecikti, bu yüzden aktarma alanında mahsur kaldım.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.travel.transit_area.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My flight is delayed, so I am stuck in the transit area.",
+        "translation": "เที่ยวบินของผมล่าช้า ผมจึงติดอยู่ในพื้นที่รับต่อเครื่อง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.travel.transit_area.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My flight is delayed, so I am stuck in the transit area.",
+        "translation": "Penerbangan saya tertunda, jadi saya terkunci di area transit.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.travel.transit_area.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My flight is delayed, so I am stuck in the transit area.",
+        "translation": "Meu voo está atrasado, então estou preso na área de conexão.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.travel.transit_area.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My flight is delayed, so I am stuck in the transit area.",
+        "translation": "비행기가 연착되어 환승 구역에서 꼼짝할 수 없습니다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.travel.transit_area.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My flight is delayed, so I am stuck in the transit area.",
+        "translation": "便が遅れているため、私は乗継エリアに閉じ込められています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.travel.transit_area.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "My flight is delayed, so I am stuck in the transit area.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "9b7644767d9700a0e11cd726258d1b5776ff4c483a0b000d39876db6313befd4": [
+      {
+        "forms": [
+          "Electronic stability control",
+          "stability_control"
+        ],
+        "id": "lex.sa.en.stability.control",
+        "kind": "lexeme",
+        "lemma": "Electronic stability control",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.stability.control.alt"
+        ]
+      },
+      {
+        "definition": "The stability control has a fault, or it has intervened and the car lost grip. Severity level 3 — Warning. Action: Drive carefully and have the system checked..",
+        "gloss": "The stability control has a fault, or it has intervened and the car lost grip.",
+        "id": "sns.sa.en.stability.control.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.stability.control",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "9bef6754a810d4eb6c73e5b4ca466296a45c7fe585eecae3f4567eca3269ea3e": [
+      {
+        "forms": [
+          "Pupa (chrysalis)",
+          "pupa"
+        ],
+        "id": "lex.sa.kids_animals.pupa",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Pupa (chrysalis)",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_animals.pupa.alt",
+          "sns.sa.kids_animals.pupa.alt.ja",
+          "sns.sa.kids_animals.pupa.alt.ko",
+          "sns.sa.kids_animals.pupa.alt.pt_br",
+          "sns.sa.kids_animals.pupa.alt.id",
+          "sns.sa.kids_animals.pupa.alt.th",
+          "sns.sa.kids_animals.pupa.alt.tr"
+        ]
+      },
+      {
+        "definition": "The resting stage, when the insect changes its body. A butterfly's pupa is a chrysalis.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pupa.1.1"
+        ],
+        "gloss": "The resting stage, when the insect changes its body. A butterfly's pupa is a chrysalis.",
+        "id": "sns.sa.kids_animals.pupa.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_animals.pupa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "幼虫から成虫になる間の、形態が大きく変化する段階です。蝶の蛹は、さrage，通常「蛹」と呼ばれます。",
+        "exampleIds": [
+          "exm.sa.kids_animals.pupa.1.1.ja"
+        ],
+        "gloss": "昆虫が成虫になるまでの、休止する変態の段階。",
+        "id": "sns.sa.kids_animals.pupa.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_animals.pupa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "곤충이 번데기 안에서 성충으로 자라는 동안의 resting 단계이다. 나비의 번데기는 특히 체르잘이라고 부른다.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pupa.1.1.ko"
+        ],
+        "gloss": "곤충이 몸을 바꾸어 Transformation하는 동안의 단계.",
+        "id": "sns.sa.kids_animals.pupa.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_animals.pupa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A pupa é o estágio de descanso e transformação de muitos insetos, como lagartas e cascas de besouro. A pupa de uma borboleta é chamada de crisálida.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pupa.1.1.pt_br"
+        ],
+        "gloss": "Estágio em que o inseto passa por grandes mudanças no corpo.",
+        "id": "sns.sa.kids_animals.pupa.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_animals.pupa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Pupa merupakan tahap perkembangan serangga antara larva dan dewasa. Pada kupu-kupu, tahap pupa disebut kepompong.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pupa.1.1.id"
+        ],
+        "gloss": "Pupa atau kepompong adalah tahap diam ketika serangga mengubah bentuk tubuhnya.",
+        "id": "sns.sa.kids_animals.pupa.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_animals.pupa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ดักแดงเป็นระยะที่แมลงหยุดเคลื่อนไหวและเปลี่ยนโครงสร้างร่าง สำหรับผีเสื้อ ดักแดงเรียกว่าหีบผีเสื้อ",
+        "exampleIds": [
+          "exm.sa.kids_animals.pupa.1.1.th"
+        ],
+        "gloss": "ระยะที่แมลงเปลี่ยนร่างเป็นตัวเต็ม",
+        "id": "sns.sa.kids_animals.pupa.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_animals.pupa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Böceklerin tam başkalaşım sırasında vücutlarını değiştirdikleri, hareket etmeden geçirdikleri evre. Kelebeklerin bu evresine krizalit denir.",
+        "exampleIds": [
+          "exm.sa.kids_animals.pupa.1.1.tr"
+        ],
+        "gloss": "Böceğin vücudunu değiştirdiği dinlenme evresi; kelebeklerin pupası krizalit olarak da adlandırılır.",
+        "id": "sns.sa.kids_animals.pupa.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_animals.pupa",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_animals.pupa.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Inside the pupa, the caterpillar becomes a butterfly.",
+        "translation": "Pupa içinde tırtıl, kelebeğe dönüşür.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_animals.pupa.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Inside the pupa, the caterpillar becomes a butterfly.",
+        "translation": "ภายในดักแดง หนอนกำลังเปลี่ยนเป็นผีเสื้อ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_animals.pupa.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Inside the pupa, the caterpillar becomes a butterfly.",
+        "translation": "Di dalam kepompong, ulat berubah menjadi kupu-kupu.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_animals.pupa.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Inside the pupa, the caterpillar becomes a butterfly.",
+        "translation": "Dentro da pupa, a lagarta se transforma em borboleta.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_animals.pupa.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Inside the pupa, the caterpillar becomes a butterfly.",
+        "translation": "번데기 안에서 애벌레가 나비가 된다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_animals.pupa.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Inside the pupa, the caterpillar becomes a butterfly.",
+        "translation": "蛹の中で Caterpillar が蝶になります。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_animals.pupa.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Inside the pupa, the caterpillar becomes a butterfly.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

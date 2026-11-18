@@ -1,0 +1,91 @@
+{
+  "language": "vi",
+  "lessonId": "article_app_future",
+  "objectives": [
+    "Mô tả agent AI thay đổi cách dùng phần mềm thế nào.",
+    "Giải thích tương tác theo ý định khác tương tác theo lệnh ra sao.",
+    "Mô tả giao diện ứng dụng thay đổ i thế nào khi agent hành động thay người dùng.",
+    "Lý luận về quan hệ thay đổ i giữa con người và phần mềm.",
+    "Xác định điều gì người vẫn muốn tự mình làm."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Kỷ nguyên smartphone tổ chức mọi dịch vụ của thế giới thành các ứng dụng, và ứng dụng thành những màn hình điều khiển. Mọi mong muốn đều có một thủ tục: mở ứng dụng, tìm tính năng, điền mẫu, xác nhận. Con người học các thủ tục; phần mềm chờ họ.\n\nAgent AI đảo ngược sắp xếp đó. Người dùng nêu ý định — 'tìm cho tôi chuyến tàu về nhà trước bảy giờ tối và dưới hai mươ i đô' — và agent thực hiện thủ tục xuyên qua nhiều ứng dụng, đọc màn hình, điền mẫu, xác nhận chi tiết. Quan hệ giữa người dùng và phần mềm ngừng là thủ công.\n\nĐây không phải thay đổ i nhỏ về tương tác; nó là thay đổ i về ai vận hành ai. Lần đầu tiên kể từ khi máy tính ra đời, người dùng mặc định của phần mềm có thể là một phần mềm khác. Màn hình, được thiết kế cho ngón tay con người, trở thành kênh phụ mà agent đọc và người thỉnh thoảng kiểm.",
+      "examples": [
+        "Cô ấy nói 'đổ i lịch nha sĩ sang tháng sau'; agent mở ứng dụng đặt lịch, tìm lịch rảnh, và trả về ba lựa chọn."
+      ],
+      "heading": "Từ nút bấm tới ý định"
+    },
+    {
+      "body": "Nền kinh tế ứng dụng được xây trên nền tảng chộp lấy sự chú ý: mỗi công ty rào dịch vụ của mình trong giao diện riêng, vì giao diện là nơi quảng cáo, dữ liệu và lòng trung thành sống. Các agent phớt lờ hàng rào. Chúng đi xuyên qua các dịch vụ thay mặt người dùng, và biến mọi khu vườn có tường bao thành hành lang.\n\nĐiều này phá vỡ vài mô hình kinh doanh cùng lúc. Giao diện thiết kế để gây nghiện trở nên vô nghĩa khi không ai nhìn vào. Thông báo mất sức mạnh khi agent sàng lọc chúng. Khóa chặt suy yếu khi chi phí chuyển đổ i do phần mềm trả, không phải do con người học lại ứng dụng mới.\n\nPhản ứng đã thấy rõ: các dịch vụ mở cổng giao tiếp cho máy — API và truy cập có cấu trúc — cho agent, trong khi thiết kế hướng người lặng lẽ giảm tầm quan trọng. Về lâu dài, công ty thắng có thể là công ty có dịch vụ dễ cho agent dùng trung thực nhất, chứ không phải giao diện cuốn hút mắt người nhất. Phần mềm cạnh tranh để được máy chọn.",
+      "examples": [
+        "Ứng dụng giao đồ ăn nhận ra một nửa đơn hàng giờ đến qua trợ lý, và thiết kế lại quanh truy cập máy sạch sẽ thay vì biểu ngữ bắt mắt."
+      ],
+      "heading": "Vì sao mọi công ty xây tường, và cái gì sẽ vỡ"
+    },
+    {
+      "body": "Ủy quyền có một ranh giới, và với phần mềm nó chạy qua sở thích và trách nhiệm. Agent có thể so sánh phương án, nhưng chọn giữa chúng thường chứa những giá trị không mô hình nào nắm: Chuyến bay rẻ nhất có đáng với bốn giờ quá cảnh cùng đứa trẻ mệt không? Bác sĩ tiện nhất có phải người tôi tin không? Những sở thích như vậy được hình thành bằng cách sống, không phải bằng tối ưu.\n\nTrách nhiệm đặt một ranh giới cứng hơn. Khi agent đặt nhầm chuyến bay, gửi nhầm tin nhắn hay mua nhầm cổ phiếu, hậu quả thuộc về con người đã ủy quyền. Giữ kiểm soát có nghĩa là giữ khả năng hiển thị có nghĩa: biết agent đã làm gì, có thể ngắt giữa chừng, và dành phê duyệt cuối cho những điều quan trọng.\n\nMô hình lành mạnh đang nổ i lên là một sự phân công lao động: agent xử lý thủ tục, con người xử lý sở thích và trách nhiệm. Kỷ nguyên ứng dụng bắt người vận hành máy; kỷ nguyên agent đặt máy vận hành phần mềm — với con người làm những phần còn lại đặc thù của con người.",
+      "examples": [
+        "Agent xử lý ba ứng dụng đặt chỗ; anh ấy xử lý câu hỏi quyết định duy nhất: chuyến đi này có ổn cho cả nhà không?"
+      ],
+      "heading": "Con người giữ lại cái gì"
+    },
+    {
+      "body": "Những thuật ngữ này mô tả sự chuyển từ phần mềm do người vận hành sang phần mềm do agent vận hành.",
+      "heading": "Từ vựng của phần mềm biết phục vụ",
+      "terms": [
+        {
+          "example": "Ứng dụng agent không chờ được rao; nó nhận ra chuyến bay trễ và tự đặt lại chuyến nối.",
+          "gloss": "Phần mềm được thiết kế để hành động hướng tới mục tiêu với mức tự chủ nhất định thay vì chờ từng lệnh.",
+          "term": "Ứng dụng agent",
+          "termId": "agentic_app"
+        },
+        {
+          "example": "Giao diện thích ứng hiển thị bảng giờ bay đầu tiên vào ngày đi, và ghi chú họp vào mỗi thứ Hai.",
+          "gloss": "Giao diện thay đổ i theo ngữ cảnh, ý định và lịch sử thay vì hiển thị thực đơn cố định.",
+          "term": "Giao diện thích ứng",
+          "termId": "adaptive_interface"
+        },
+        {
+          "example": "Ý định của cô ấy là 'bàn yên tĩnh cho hai người thứ Sáu'; các lệnh liên quan tới ba ứng dụng và một cuộc gọi.",
+          "gloss": "Phát biểu về điều người dùng muốn đạt được, trái với các lệnh để đạt nó.",
+          "term": "Ý định",
+          "termId": "intent"
+        },
+        {
+          "example": "Tự động hoá tác vụ chuyển hoá đơn từ email sang kế toán rồ i sang xác nhận thanh toán trong lúc cô ấy uống cà phê.",
+          "gloss": "Việc thực hiện các quy trình nhiều bước bởi phần mềm mà không cần người thao tác từng bước.",
+          "term": "Tự động hoá tác vụ",
+          "termId": "task_automation"
+        },
+        {
+          "example": "Trợ lý dùng API của ngân hàng để kiểm tra số dư — không màn hình, không gõ mật khẩu.",
+          "gloss": "Giao diện lập trình ứng dụng: cách có cấu trúc để phần mềm dùng một dịch vụ khác, làm cho máy chứ không phải cho người.",
+          "term": "API",
+          "termId": "api"
+        },
+        {
+          "example": "Trong điện toán thấm khắp, ngôi nhà chỉnh nhiệt và agent chỉnh lịch, và không ai mở ứng dụng nào.",
+          "gloss": "Điện toán dệt vào môi trường để hoạt động ngầm mà không đò i sự chú ý.",
+          "term": "Điện toán thấm khắp",
+          "termId": "ambient_computing"
+        }
+      ]
+    },
+    {
+      "body": "Suốt hàng thập kỷ, phần mềm cho xem công việc của mình trên màn hình vì con người là người vận hành. Khi agent tiếp quản vận hành, giao diện co lại thành bản tóm tắt việc đã làm — một tờ hoá đơn để kiểm, không phải một cỗ máy để chạy. Thiết kế cho lòng tin lúc này quan trọng hơn thiết kế cho mức độ cuốn hút.",
+      "heading": "Màn hình đang trở thành hoá đơn"
+    },
+    {
+      "body": "Những kỹ năng kỷ nguyên ứng dụng đò i hỏi — thuộc thủ tục, điều hướng thực đơn, quản lý cả đống đăng nhập — đang mất giá. Những kỹ năng kỷ nguyên agent trả thưởng thì khác: nêu mục tiêu rõ ràng, chia việc giữa mình và phần mềm một cách khôn ngoan, kiểm toán kết quả, và biết khi nào cần cầm lại lái.\n\nCũng có một sự điều chỉnh về văn hoá. Phần mềm biết hành động có thể cảm giác như mất kiểm soát hay như được nhẹ gánh, tùy cách nó được xây và điều hành. Yêu cầu sẽ định hình thập kỷ tới nói ra thì dễ mà làm được thì khó: những agent mạnh bên trong và trung thực bên ngoài, cho xem chúng đã làm gì bằng ngôn ngữ một con người mệt có thể kiểm trong một cái nhìn.\n\nQuan hệ giữa con người và phần mềm đang trở thành điều nó có lẽ luôn nên thế: con người mang ý định và phán đoán, phần mềm mang trí nhớ và tốc độ, và sự phân công lao động được thoả thuận công kha i. Ứng dụng đã dạy ta phục vụ giao diện. Agent hứa điều ngược lại — và giữ được lời hứa đó sẽ là công việc của nhiều năm.",
+      "examples": [
+        "Anh ấy kiểm bản tóm tắt của agent mỗi tối hai phút — không để vận hành ngày sống, mà để làm chủ nó."
+      ],
+      "heading": "Học sống với phần mềm biết hành động"
+    }
+  ],
+  "summary": "Suốt mười lăm năm, phần mềm nghĩa là màn hình: bấm đây, cuộn đó, thuộc thực đơn từng ứng dụng. Bài viết xem cuộc chuyển dịch đang diễn ra: agent AI điều khiển ứng dụng thay ta, giao diện thích nghi theo ý định, và kết thúc kỷ nguyên mọi tác vụ đều cần ngón tay người nhấn nút.",
+  "title": "Tương la i của ứng dụng di động: Khi AI dùng phần mềm thay ta"
+}

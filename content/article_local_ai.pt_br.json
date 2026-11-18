@@ -1,0 +1,79 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_local_ai",
+  "objectives": [
+    "Explique o que realmente oferece a execução de um modelo de IA local.",
+    "Distinguir a propriedade dos pesos da propriedade da tecnologia.",
+    "Descreva a infraestrutura oculta da qual a IA depende.",
+    "Defina lock-in de fornecedores e dependência do ecossistema.",
+    "Avalie de forma realista as alegações de independência da IA."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "AI local significa rodar um modelo de linguagem no seu próprio hardware em vez de chamar a API de uma empresa. O arquivo do modelo — os \"pesos\" — fica no seu disco, seus prompts permanecem na sua casa, e nenhum medidor de assinatura está rodando. Para privacidade, para uso offline e para mexer, isso é um ganho genuíno, e a comunidade de open-weights por trás é um dos movimentos mais produtivos do software moderno.\n\nMas o arquivo do modelo é apenas um componente de uma stack. Ele foi treinado em hardware que você não possui, usando datasets que você não pode inspecionar, com tooling que você não escreveu, e roda em chips projetados por um punhado de empresas. Ter os pesos em mãos é posse real de uma camada — uma camada importante — não da tecnologia.\n\nConfundir as duas produz uma ilusão específica: a sensação de independência das big techs enquanto se está de pé em chão derramado por elas. A questão não é se vale a pena rodar AI local — para muitos usos, claramente vale — mas o que ela de fato tira das mãos de outras pessoas.",
+      "examples": [
+        "O assistente offline funciona numa montanha sem sinal; ele também depende discretamente dos drivers de um único fornecedor de chips e de um pipeline de treinamento que ele nunca vai ver."
+      ],
+      "heading": "O modelo no seu disco"
+    },
+    {
+      "body": "A AI free vem em várias camadas, e é fácil confundi-las. **Free quanto ao preço**: sem assinatura. **Free quanto aos weights**: você pode baixar e executar o arquivo do model. **Free quanto ao code**: o software que envolve tudo é open source. **Free quanto aos data e ao training**: quase nada do mundo modern se qualifica — os datasets, os clusters de compute e as receitas de training são operações industrial.\n\nCada camada vale a pena ter. A ability de executar um model capaz sem pedir permissão a ninguém é uma forma real de power que não existia há five anos. Communities melhoram esses models, fazem audit neles e os adaptam a languages que os grandes labs ignoram.\n\nMas cada camada também tem um boundary. Os weights são free; os meios de criar novos weights estão concentrados. Um user com weights free é um passenger com um excellent seat — melhor do que qualquer seat anterior, mas ainda não é o cockpit. Saber quais freedoms você realmente tem evita tanto a complacency quanto o despair: você é mais independent do que o customer de API e menos independent do que a mythology sugere.",
+      "examples": [
+        "Ele executa o model free com orgulho — e percebe, ao ler os docs, que ele não pode existir sem a chip architecture de uma única company."
+      ],
+      "heading": "O que 'free' realmente significa"
+    },
+    {
+      "body": "Abaixo de cada modelo de AI, onde quer que ele seja executado, existe uma stack de dependências que nenhum usuário controla. Os chips vêm de um pequeno número de fabricantes. As fabs que os imprimem são ainda menos. Os frameworks que treinam os modelos, as libraries que os executam, as app stores que os distribuem — cada camada tem uma lista curta de proprietários.\n\nA dependência não é automaticamente ruim; é assim que a tecnologia complexa funciona. Uma cidade depende de sua power grid. A questão é a consciência e as alternatives. Uma dependência que você conhece pode ser planejada, contrariada em lobbies ou eliminada pela engenharia ao longo de anos. Uma dependência que você nega deixa você exposto exatamente quando o supplier muda os termos, os preços ou a availability — algo que os suppliers eventualmente fazem.\n\nÉ por isso que a postura saudável em relação à AI livre não é nem worship nem cinismo. Use as freedoms por completo: execute localmente, mantenha os data privados, audite o behavior. E conte as dependências honestamente, para que, quando alguém perguntar se você é independent, você possa responder com precisão quais partes você controla e quais partes você aluga.",
+      "examples": [
+        "Quando o preço da API triplicou da noite para o dia, os usuários de local-model continuaram trabalhando — e descobriram que sua 'independência' ainda dependia do estoque de um único fornecedor de GPU."
+      ],
+      "heading": "A infraestrutura invisível"
+    },
+    {
+      "body": "Estes termos nomeiam as camadas entre ser dono de um model e ser dono de uma technology.",
+      "heading": "O vocabulário da independência",
+      "terms": [
+        {
+          "example": "O setup local AI dela responde a perguntas durante voos, sem internet e sem que os data saiam do laptop.",
+          "gloss": "Executar um model de AI no hardware de alguém, em vez de usar um service hospedado por uma company."
+        },
+        {
+          "example": "Graças aos open weights, a equipe fez fine-tuning do model com os próprios manuais, sem precisar perguntar a ninguém.",
+          "gloss": "Publicar os parâmetros treinados de um model para que qualquer pessoa possa fazer download, executar e modify."
+        },
+        {
+          "example": "A Inference acontece no laptop dela, em casa, e em um server alugado quando ela precisa de mais speed.",
+          "gloss": "O processo de executar um model treinado para produzir respostas; a operação everyday da AI."
+        },
+        {
+          "example": "A compute infrastructure por trás da AI modern é measured em bilhões de dollars de chips.",
+          "gloss": "Os chips, data centers e o supply de energy que tornam possible o training e a execução de models large."
+        },
+        {
+          "example": "O vendor lock-in deles ficou obvious quando as propostas de migration voltaram pelo triple da fatura annual de API.",
+          "gloss": "A condition em que trocar de suppliers é tão caro que a dependence continua, independentemente de price ou quality."
+        },
+        {
+          "example": "Um model é tão free quanto o ecosystem em que runs: chips, drivers, formats e stores.",
+          "gloss": "O network de hardware, software, standards e services do qual uma technology depende para function."
+        }
+      ]
+    },
+    {
+      "body": "Uma auditoria útil para qualquer alegação de independência tecnológica: liste o que deixa de funcionar se cada fornecedor desaparecer — o fabricante dos chips, o provedor do modelo, a loja de aplicativos, a região da nuvem, a energia elétrica. Aquilo que não tiver alternativa é uma dependência, qualquer que seja o rótulo na caixa.",
+      "heading": "Conte suas dependências"
+    },
+    {
+      "body": "A pergunta útil não é \"sou independente?\", mas \"independente de quê, exatamente, e a que custo?\" A Local AI compra Liberdades reais: privacidade contra a varredura, resiliência contra choques de preço e o direito de modificar e fazer auditoria. Vale a pena tê-las e vale a pena defendê-las.\n\nEla não compra independência da pilha de computação, da física dos chips ou do conhecimento concentrado em poucos laboratórios. Nenhum notebook contém essa independência, a nenhum preço.\n\nAutonomia tecnológica madura parece uma carteira diversificada, não uma fortaleza: parte Local, parte hospedada, parte open, parte proprietary — com o conhecimento, mantido atualizado, de onde fica cada peça e quem pode tirá-la. Esse conhecimento, mais do que qualquer ferramenta, é a parte da tecnologia que uma pessoa pode realmente possuir.",
+      "examples": [
+        "Ela roda modelos locais para trabalho privado, um modelo hospedado para trabalhos pesados e mantém um mapa escrito de cada dependência — e dorme bem."
+      ],
+      "heading": "Autonomia real, honestamente mensurada"
+    }
+  ],
+  "summary": "Execute um modelo gratuito em sua própria máquina, possua os pesos, mantenha seus dados — então agora você é independente, certo? Este artigo examina a ilusão da autossuficiência tecnológica: o que a IA local realmente liberta você, o que não liberta e por que o ecossistema subjacente importa mais do que o modelo em seu disco.",
+  "title": "IA gratuita e a ilusão de controle"
+}

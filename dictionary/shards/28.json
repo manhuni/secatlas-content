@@ -1,0 +1,1446 @@
+{
+  "records": {
+    "282bcbc3f0a34a8a4ac6f00c276fcf66cf3757a3332e83d92208e5079af46922": [
+      {
+        "forms": [
+          "Intent"
+        ],
+        "id": "lex.sa.mind.intent",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Intent",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.intent.en",
+          "sns.sa.mind.intent.vi"
+        ]
+      },
+      {
+        "definition": "A statement of what the user wants to achieve, as opposed to the commands that achieve it.",
+        "exampleIds": [],
+        "gloss": "A statement of what the user wants to achieve, as opposed to the commands that achieve it.",
+        "id": "sns.sa.mind.intent.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.intent",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Phát biểu về điều người dùng muốn đạt được, trái với các lệnh để đạt nó.",
+        "id": "sns.sa.mind.intent.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.intent",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624": [
+      {
+        "forms": [
+          "of"
+        ],
+        "id": "lex.sa.en.of.preposition",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "of",
+        "pos": "preposition",
+        "senseIds": [
+          "sns.sa.vi.of.preposition.1",
+          "sns.sa.en.of-preposition.alt"
+        ]
+      },
+      {
+        "definition": "Chỉ quan hệ sở hữu, thuộc về hoặc xuất phát từ.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "của",
+        "id": "sns.sa.vi.of.preposition.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.of.preposition",
+        "pos": "preposition",
+        "revision": 1
+      },
+      {
+        "definition": "Showing relation or possession.",
+        "domain": [
+          "grammar"
+        ],
+        "exampleIds": [],
+        "gloss": "Belonging to, relating to, or coming from.",
+        "id": "sns.sa.en.of-preposition.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.of.preposition",
+        "pos": "preposition",
+        "revision": 1
+      }
+    ],
+    "283bb9deef02e6843abfb538efa1eca70801bd8a701c3f98191e123496339247": [
+      {
+        "forms": [
+          "go",
+          "goes",
+          "went",
+          "gone",
+          "going"
+        ],
+        "id": "lex.sa.en.go.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "go",
+        "morphology": {
+          "irregular": true,
+          "tense": {
+            "past": "went",
+            "pastParticiple": "gone"
+          }
+        },
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.go.verb.gb",
+          "prn.sa.en.go.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.go.verb.move",
+          "sns.sa.en.go-verb.alt"
+        ]
+      },
+      {
+        "definition": "Di chuyển khỏi vị trí hiện tại.",
+        "exampleIds": [
+          "exm.sa.en.go-verb.more.01",
+          "exm.sa.en.go-verb.more.02"
+        ],
+        "gloss": "đi",
+        "id": "sns.sa.en.go.verb.move",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.go.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.go-verb",
+          "res.sa.aud.go-verb",
+          "res.sa.lnk.go-verb",
+          "res.sa.vid.go-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To move or travel from one place to another.",
+        "gloss": "To move or travel from one place to another.",
+        "id": "sns.sa.en.go-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.go.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.go.verb.gb",
+        "ipa": "/ɡəʊ/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.go.verb.us",
+        "ipa": "/ɡoʊ/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      }
+    ],
+    "284e92d435df19e474061a947f15e005de0a7524396e3a518022a6b861be3806": [
+      {
+        "forms": [
+          "Goalpost shifting",
+          "mia_goalpost_shifting"
+        ],
+        "id": "lex.sa.mind.mia_goalpost_shifting",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Goalpost shifting",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mia_goalpost_shifting.alt",
+          "sns.sa.mind.mia_goalpost_shifting.alt.ja",
+          "sns.sa.mind.mia_goalpost_shifting.alt.ko",
+          "sns.sa.mind.mia_goalpost_shifting.alt.pt_br",
+          "sns.sa.mind.mia_goalpost_shifting.alt.th",
+          "sns.sa.mind.mia_goalpost_shifting.alt.tr",
+          "sns.sa.mind.mia_goalpost_shifting.alt.id"
+        ]
+      },
+      {
+        "definition": "The moving of the criterion after the other side has met it.",
+        "exampleIds": [
+          "exm.sa.mind.mia_goalpost_shifting.1.1"
+        ],
+        "gloss": "The moving of the criterion after the other side has met it.",
+        "id": "sns.sa.mind.mia_goalpost_shifting.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mia_goalpost_shifting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "議論の途中で目標や評価基準を変え、对方が条件をAffiliate后又満たさなくすること。最初から曖昧な基準だった場合は含まれない。",
+        "exampleIds": [
+          "exm.sa.mind.mia_goalpost_shifting.1.1.ja"
+        ],
+        "gloss": "条件を満たした後に評価基準をずらすこと。",
+        "id": "sns.sa.mind.mia_goalpost_shifting.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mia_goalpost_shifting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "처음 제시한 조건이나 평가 기준을 상대방이 만족한 뒤 변경하는 논증이다. 결과가 마음에 들지 않다는 이유로 기준을 바꾸는 데 문제가 있다.",
+        "exampleIds": [
+          "exm.sa.mind.mia_goalpost_shifting.1.1.ko"
+        ],
+        "gloss": "상대가 기준을 충족한 뒤 기준을 바꾸는 행위이다.",
+        "id": "sns.sa.mind.mia_goalpost_shifting.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mia_goalpost_shifting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Mudança das condições exigidas para aceitar uma conclusão depois de a outra parte ter cumprido as condições anteriores.",
+        "exampleIds": [
+          "exm.sa.mind.mia_goalpost_shifting.1.1.pt_br"
+        ],
+        "gloss": "Alteração do critério após a outra parte já ter atendido a ele.",
+        "id": "sns.sa.mind.mia_goalpost_shifting.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mia_goalpost_shifting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การเปลี่ยนเกณฑ์หรือมาตรฐานหลังจากผู้อยู่ฝ่ายหนึ่งทำตามเกณฑ์เดิมแล้ว ทำให้ข้อตกลงเดิมไม่มีผล",
+        "exampleIds": [
+          "exm.sa.mind.mia_goalpost_shifting.1.1.th"
+        ],
+        "gloss": "การเปลี่ยนเกณฑ์หลังผู้อยู่ฝ่ายหนึ่งทำตามเกณฑ์แล้ว",
+        "id": "sns.sa.mind.mia_goalpost_shifting.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mia_goalpost_shifting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Başlangıçta belirlenen koşulu karşılayan tarafın başarısı kabul edildikten sonra ölçütün değiştirilmesi. Böylece karşı tarafın yerine getiremediği yeni bir koşul oluşturulur.",
+        "exampleIds": [
+          "exm.sa.mind.mia_goalpost_shifting.1.1.tr"
+        ],
+        "gloss": "Ölçüt, taraflar karşıladıktan sonra değiştirilerek zorluğun artırılması.",
+        "id": "sns.sa.mind.mia_goalpost_shifting.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mia_goalpost_shifting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Peralihan kriteria atau standar setelah pihak yang opposed telah terpenuhinya, sehinggaEPH itu sendiri tidak dapat diuji.",
+        "exampleIds": [
+          "exm.sa.mind.mia_goalpost_shifting.1.1.id"
+        ],
+        "gloss": "Peralihan kriteria setelah pihak yang opposed telah terpenuhinya.",
+        "id": "sns.sa.mind.mia_goalpost_shifting.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mia_goalpost_shifting",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mia_goalpost_shifting.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Awalnya diperlukan tiga sumber, lalu suddenly sumber eksternal tertulis diminta; itu merupakan pergeseran garis finis.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mia_goalpost_shifting.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Başlangıçta üç kaynak istendi, sonra yazılı dış kaynaklar istendi; bu, hedef ölçütünü kaydırmaktı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mia_goalpost_shifting.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การกำหนดให้ใช้แหล่งข้อมูลสามแหล่ง แล้วเปลี่ยนเป็นต้องเป็นแหล่งข้อมูลภายนอกที่เขียนไว้ นั่นเป็นการเปลี่ยนเกณฑ์",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mia_goalpost_shifting.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Exigir primeiro três fontes e depois apenas fontes escritas foi uma mudança do critério.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mia_goalpost_shifting.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "처음에는 출처 세 개를 요구했다가 외부 서지 자료까지 요구한 것은 기준점 이동이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mia_goalpost_shifting.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "出典が三件必要だと言，随后 amount of 书面の外部出典まで求めたのは、ゴールポストの移動です。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mia_goalpost_shifting.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Three sources were required, then written external sources were required: that was goalpost shifting.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "28532912de030c99c9f6ef8eb386917cb4f4ae4338f81d7df8aedf96827ea55f": [
+      {
+        "forms": [
+          "Allergen",
+          "allergen"
+        ],
+        "id": "lex.sa.daily_skills.allergen",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Allergen",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.daily_skills.allergen.alt",
+          "sns.sa.daily_skills.allergen.alt.ja",
+          "sns.sa.daily_skills.allergen.alt.ko",
+          "sns.sa.daily_skills.allergen.alt.pt_br",
+          "sns.sa.daily_skills.allergen.alt.id",
+          "sns.sa.daily_skills.allergen.alt.th",
+          "sns.sa.daily_skills.allergen.alt.tr"
+        ]
+      },
+      {
+        "definition": "A substance in food that can cause a serious allergic reaction in some people. There are fourteen that have to be declared.",
+        "exampleIds": [
+          "exm.sa.daily_skills.allergen.1.1"
+        ],
+        "gloss": "A substance in food that can cause a serious allergic reaction in some people. There are fourteen that have to be declared.",
+        "id": "sns.sa.daily_skills.allergen.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.daily_skills.allergen",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "アレルゲンは、食物cellularによって重篤なアレルギー反応を起こす物質で、表示が必要とされる品目がある。",
+        "exampleIds": [
+          "exm.sa.daily_skills.allergen.1.1.ja"
+        ],
+        "gloss": "食べ物に含まれる_celgeme アレルゲンは、人によって Graz seriouslyな allergic reaction を起こす物質。",
+        "id": "sns.sa.daily_skills.allergen.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.daily_skills.allergen",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "식원에 들어 있는 물질 중 일부 사람에게 심한 알레르기 반응을 일으키는 물질이다. 현재는 14가지가 표시 대상으로 정해져 있다.",
+        "exampleIds": [
+          "exm.sa.daily_skills.allergen.1.1.ko"
+        ],
+        "gloss": "식원에서 일부 사람의 심한 알레르기 반응을 일으킬 수 있는 물질이다.",
+        "id": "sns.sa.daily_skills.allergen.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.daily_skills.allergen",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É um alérgeno: uma substância presente em um alimento que pode provocar uma reação alérgica grave em algumas pessoas. Catorze alérgenos precisam ser declarados nos rótulos.",
+        "exampleIds": [
+          "exm.sa.daily_skills.allergen.1.1.pt_br"
+        ],
+        "gloss": "Substância presente em alimentos que pode provocar uma reação alérgica grave em algumas pessoas.",
+        "id": "sns.sa.daily_skills.allergen.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.daily_skills.allergen",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Alergen adalah zat dalam makanan yang dapat menyebabkan reaksi alergi serius pada sebagian orang. Ada empat belas alergen yang harus dideklarasikan pada label makanan.",
+        "exampleIds": [
+          "exm.sa.daily_skills.allergen.1.1.id"
+        ],
+        "gloss": "Zat dalam makanan yang dapat memicu reaksi alergi serius pada sebagian orang.",
+        "id": "sns.sa.daily_skills.allergen.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.daily_skills.allergen",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สารในอาหารที่อาจทำให้บางคนเกิดอาการแพ้รุนแรง โดยมีสารก่อแพ้ 14 ชนิดที่ต้องระบุไว้บนฉลาก",
+        "exampleIds": [
+          "exm.sa.daily_skills.allergen.1.1.th"
+        ],
+        "gloss": "สารก่อแพ้ในอาหารที่อาจทำให้บางคนมีอาการแพ้รุนแรง",
+        "id": "sns.sa.daily_skills.allergen.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.daily_skills.allergen",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Yiyeceklerde bulunan ve bazı kişilerde ciddi alerjik tepki oluşturabilen madde. Bildirilmesi gereken on dört alerjen vardır.",
+        "exampleIds": [
+          "exm.sa.daily_skills.allergen.1.1.tr"
+        ],
+        "gloss": "Bazı kişilerde ciddi alerjik tepkiye yol açabilen gıda maddesi.",
+        "id": "sns.sa.daily_skills.allergen.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.daily_skills.allergen",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.daily_skills.allergen.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The allergen box says it contains peanuts and soya.",
+        "translation": "Alerjen bilgisinde fıstık ve soya içerdiği yazıyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.daily_skills.allergen.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The allergen box says it contains peanuts and soya.",
+        "translation": "กล่องของฉันระบุว่ามีสารก่อแพ้ ได้แก่ ถั่วลิสงและถั่วเหลือง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.daily_skills.allergen.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The allergen box says it contains peanuts and soya.",
+        "translation": "Kemasan itu mencantumkan kacang tanah dan kedelai sebagai alergen.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.daily_skills.allergen.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The allergen box says it contains peanuts and soya.",
+        "translation": "O rótulo informa que o produto contém amendoim e soja, dois alérgenos.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.daily_skills.allergen.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The allergen box says it contains peanuts and soya.",
+        "translation": "알레르기 표시 칸에는 땅콩과 대두가 들어 있다고 적혀 있다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.daily_skills.allergen.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The allergen box says it contains peanuts and soya.",
+        "translation": "この食品のアレルゲン表示には、ピーナッツと大豆が記載されている。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.daily_skills.allergen.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The allergen box says it contains peanuts and soya.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "28671baa28dadfa0efd531aa15d97f3dd30136547be47d66ed59886b5e0ccb76": [
+      {
+        "forms": [
+          "Lines of communication",
+          "war_lines_of_communication"
+        ],
+        "id": "lex.sa.mind.war_lines_of_communication",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Lines of communication",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.war_lines_of_communication.alt",
+          "sns.sa.mind.war_lines_of_communication.alt.ja",
+          "sns.sa.mind.war_lines_of_communication.alt.ko",
+          "sns.sa.mind.war_lines_of_communication.alt.pt_br",
+          "sns.sa.mind.war_lines_of_communication.alt.id",
+          "sns.sa.mind.war_lines_of_communication.alt.th",
+          "sns.sa.mind.war_lines_of_communication.alt.tr"
+        ]
+      },
+      {
+        "definition": "The routes along which orders, reports and supplies travel to the fighting units.",
+        "exampleIds": [
+          "exm.sa.mind.war_lines_of_communication.1.1"
+        ],
+        "gloss": "The routes along which orders, reports and supplies travel to the fighting units.",
+        "id": "sns.sa.mind.war_lines_of_communication.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.war_lines_of_communication",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "指揮命令や情報、補給物が部隊間を往復するための通信路・補給路。物資の輸送経路も含まれる。",
+        "exampleIds": [
+          "exm.sa.mind.war_lines_of_communication.1.1.ja"
+        ],
+        "gloss": "命令・報告・物資が戦闘部隊まで届く経路。",
+        "id": "sns.sa.mind.war_lines_of_communication.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.war_lines_of_communication",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "전투 부대 사이에 명령과 정보를 전달하고 식량·탄약 등 보급품을 운반하는 경로이다. 이 통로가 끊기면 부대의 작전과 공급에 큰 문제가 생긴다.",
+        "exampleIds": [
+          "exm.sa.mind.war_lines_of_communication.1.1.ko"
+        ],
+        "gloss": "명령과 보고, 보급품이 오가는 경로.",
+        "id": "sns.sa.mind.war_lines_of_communication.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.war_lines_of_communication",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Em contexto militar, o termo designa as rotas que ligam uma força às suas unidades, aos comandos e às fontes de abastecimento. A interrupção dessas linhas pode comprometer o desempenho da operação.",
+        "exampleIds": [
+          "exm.sa.mind.war_lines_of_communication.1.1.pt_br"
+        ],
+        "gloss": "Os caminhos por onde ordens, relatórios e suprimentos chegam às unidades em combate.",
+        "id": "sns.sa.mind.war_lines_of_communication.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.war_lines_of_communication",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Jejak dan jaringan yang menghubungkan unit pertempur dengan komando serta sumber persediaan. Jalur ini penting karena putus-putusnya jalur komunikasi dapat menghambat perintah dan pengiriman bekal.",
+        "exampleIds": [
+          "exm.sa.mind.war_lines_of_communication.1.1.id"
+        ],
+        "gloss": "Jalur yang digunakan untuk mengirim perintah, laporan, dan persediaan kepada unit yang bertempur.",
+        "id": "sns.sa.mind.war_lines_of_communication.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.war_lines_of_communication",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เส้นทางหรือช่องทางที่ใช้ส่งคำสั่ง รายงาน และจัดส่งเสบียงไปยังหน่วยรบ การตัดขาดเส้นทางเหล่านี้อาจทำให้การสู้รบลำบาก",
+        "exampleIds": [
+          "exm.sa.mind.war_lines_of_communication.1.1.th"
+        ],
+        "gloss": "เส้นทางที่คำสั่ง รายงาน และเสบียงเดินทางไปยังหน่วยที่ร่วมรบ",
+        "id": "sns.sa.mind.war_lines_of_communication.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.war_lines_of_communication",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Haberleşme hatları, emirlerin, raporların ve erzakın savaş birliklerine ulaştığı bağlantı yollarıdır.",
+        "exampleIds": [
+          "exm.sa.mind.war_lines_of_communication.1.1.tr"
+        ],
+        "gloss": "Emir, haber ve ikmalin birliklere ulaştığı yollar.",
+        "id": "sns.sa.mind.war_lines_of_communication.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.war_lines_of_communication",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.war_lines_of_communication.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sel, birliklerin haberleşme hatlarını kesti.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.war_lines_of_communication.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "น้ำท่วมตัดเส้นทางการติดต่อสื่อสารระหว่างกองทัพ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.war_lines_of_communication.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Banjir memutus jalur komunikasi antara markas dan pasukan di garis depan.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.war_lines_of_communication.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A enxurrada interrompeu as linhas de comunicação.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.war_lines_of_communication.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "홍수로 작전 통신로가 끊겼다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.war_lines_of_communication.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "洪水によって通信路が切断された。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.war_lines_of_communication.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The lines of communication were cut by the flood.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "28720365c5e7476a011e4f43ac003ee5f16247a263b9d623aa85ed311d73bf39": [
+      {
+        "forms": [
+          "top"
+        ],
+        "id": "lex.sa.en.top.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "top",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.top.noun.1",
+          "sns.sa.en.top-noun.alt"
+        ]
+      },
+      {
+        "definition": "Phần ở trên cùng của màn hình.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [],
+        "gloss": "phía trên",
+        "id": "sns.sa.vi.top.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.top.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "The highest part of something.",
+        "domain": [
+          "interface"
+        ],
+        "exampleIds": [],
+        "gloss": "The upper part of the screen.",
+        "id": "sns.sa.en.top-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.top.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "288dbcffd1c131fffe2851c277f61ad9377dce8e1218db34746f0e9a19ed6ecf": [
+      {
+        "forms": [
+          "Framing",
+          "dpn_framing"
+        ],
+        "id": "lex.sa.work.dpn_framing",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Framing",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.dpn_framing.alt",
+          "sns.sa.work.dpn_framing.alt.ja",
+          "sns.sa.work.dpn_framing.alt.ko",
+          "sns.sa.work.dpn_framing.alt.pt_br",
+          "sns.sa.work.dpn_framing.alt.id",
+          "sns.sa.work.dpn_framing.alt.th",
+          "sns.sa.work.dpn_framing.alt.tr"
+        ]
+      },
+      {
+        "definition": "The choice of words around a fact, which changes how the fact feels.",
+        "exampleIds": [
+          "exm.sa.work.dpn_framing.1.1"
+        ],
+        "gloss": "The choice of words around a fact, which changes how the fact feels.",
+        "id": "sns.sa.work.dpn_framing.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.dpn_framing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "同じ事実でも、述べ方によって印象や評価が変わる現象。表現EfECTS変わるだけで、事実そのdatasetsや金額が変わるわけではない。",
+        "exampleIds": [
+          "exm.sa.work.dpn_framing.1.1.ja"
+        ],
+        "gloss": "事実をどの言葉で述べるかによって、その事実の受け止め方が変わること。",
+        "id": "sns.sa.work.dpn_framing.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.dpn_framing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사실의 내용은 그대로 두고 그 사실을 설명하는 말이나 기준을 바꾸는 방법이다. 같은 조건도 표현 방식에 따라 다르게 받아들여질 수 있다.",
+        "exampleIds": [
+          "exm.sa.work.dpn_framing.1.1.ko"
+        ],
+        "gloss": "같은 사실을 표현하는 방식이 그 사실의 느낌을 바꾸는 것.",
+        "id": "sns.sa.work.dpn_framing.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.dpn_framing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Modo de apresentar uma informação: a mesma pode soar como ganho ou como perda conforme o enquadramento. Muda a percepção do interlocutor, mas não o conteúdo do fato nem o valor da oferta.",
+        "exampleIds": [
+          "exm.sa.work.dpn_framing.1.1.pt_br"
+        ],
+        "gloss": "A escolha das palavras em torno de um fato, que muda como esse fato parece.",
+        "id": "sns.sa.work.dpn_framing.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.dpn_framing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Cara menentukan haltanyaANGnan memberi ENTER. RUJUKAN MEJA ENTER.",
+        "exampleIds": [
+          "exm.sa.work.dpn_framing.1.1.id"
+        ],
+        "gloss": "Cara menentukan haltanyaANGnan memberi ENTER.",
+        "id": "sns.sa.work.dpn_framing.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.dpn_framing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "หมายถึงการนำเสนอข้อเท็จจริงเดียวกันผ่านถ้อยคำหรือกรอบความคิดที่ต่างกัน เพื่อให้ผู้ฟังรู้สึกต่างกัน โดยไม่ได้เปลี่ยนข้อเท็จจริง",
+        "exampleIds": [
+          "exm.sa.work.dpn_framing.1.1.th"
+        ],
+        "gloss": "การเลือกคำหรือมุมมองรอบข้อเท็จจริง จนเปลี่ยนความรู้สึกที่ผู้ฟังรับรู้",
+        "id": "sns.sa.work.dpn_framing.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.dpn_framing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Aynı olguyu etkileyen sözcükler ve sunulma biçimiyle kişide farklı bir izlenim uyandırma yöntemidir; olgunun kendisini değiştirmez.",
+        "exampleIds": [
+          "exm.sa.work.dpn_framing.1.1.tr"
+        ],
+        "gloss": "Bir olgunun sunulma biçiminin kişinin ona bakışını değiştirmesi.",
+        "id": "sns.sa.work.dpn_framing.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.dpn_framing",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.dpn_framing.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Çerçeveleme hiçbir şeyi değiştirmemişti: aylık 400 TL, yıllık 4.800 TL ile aynı paraydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.dpn_framing.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การกำหนดกรอบเปลี่ยนไม่ได้ข้อเท็จจริง เพราะ 400 ต่อเดือนก็ยังเท่ากับ 4,800 ต่อปี",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.dpn_framing.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "BINGKA MEMBUATNYA HAMPIR UNTUK SEMUA ENTER DI ATAS MEJA. MEMBAWA MEMASUKKAN.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.dpn_framing.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O framing não mudou nada: 400 por mês é o mesmo dinheiro que 4.800 por ano.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.dpn_framing.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "표현만 바꾼 것은 달랐다. 월 40만 원은 연 480만 원과 같은 돈이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.dpn_framing.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "表現を変えても実態は変わらず、月額400円は年額4800日とSame数额である。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.dpn_framing.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The framing changed nothing: 400 a month is the same money as 4,800 a year.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "28b192191729d95e9da9390926b3fa8b9fb8196be2fd9a8e3306be6242d84837": [
+      {
+        "forms": [
+          "Evaporation",
+          "evaporation"
+        ],
+        "id": "lex.sa.kids_science.evaporation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Evaporation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_science.evaporation.alt",
+          "sns.sa.kids_science.evaporation.alt.ja",
+          "sns.sa.kids_science.evaporation.alt.pt_br",
+          "sns.sa.kids_science.evaporation.alt.id",
+          "sns.sa.kids_science.evaporation.alt.th",
+          "sns.sa.kids_science.evaporation.alt.tr",
+          "sns.sa.kids_science.evaporation.alt.ko"
+        ]
+      },
+      {
+        "definition": "When liquid water warms up, turns into vapour, and rises into the air.",
+        "exampleIds": [
+          "exm.sa.kids_science.evaporation.1.1"
+        ],
+        "gloss": "When liquid water warms up, turns into vapour, and rises into the air.",
+        "id": "sns.sa.kids_science.evaporation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_science.evaporation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "液体の水が熱によって蒸気へ変わり、空気中へ移る現象である。",
+        "exampleIds": [
+          "exm.sa.kids_science.evaporation.1.1.ja"
+        ],
+        "gloss": "水が温められて蒸気となり、空へ上がる現象。",
+        "id": "sns.sa.kids_science.evaporation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_science.evaporation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Processo pelo qual um líquido, como a água, passa para o estado gasoso. Ocorre quando o líquido recebe calor ou fica exposto ao ar.",
+        "exampleIds": [
+          "exm.sa.kids_science.evaporation.1.1.pt_br"
+        ],
+        "gloss": "Transformação de um líquido em vapor.",
+        "id": "sns.sa.kids_science.evaporation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_science.evaporation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Proses ketika air cair menjadi uap lalu naik ke udara, terutama karena dipanaskan oleh matahari.",
+        "exampleIds": [
+          "exm.sa.kids_science.evaporation.1.1.id"
+        ],
+        "gloss": "Perubahan air cair menjadi uap karena pemanasan.",
+        "id": "sns.sa.kids_science.evaporation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_science.evaporation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "กระบวนการที่น้ำเปลี่ยนเป็นไอน้ำและเข้าสู่อากาศ โดยมักเกิดเมื่อน้ำได้รับความร้อน",
+        "exampleIds": [
+          "exm.sa.kids_science.evaporation.1.1.th"
+        ],
+        "gloss": "การระเหยคือการเปลี่ยนของเหลวเป็นไอแล้วเข้าสู่อากาศ",
+        "id": "sns.sa.kids_science.evaporation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_science.evaporation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Suyun sıvı hâlden gaz hâline geçerek yükselmesi olayıdır; özellikle sıcak suyun yüzeyinden gerçekleşir.",
+        "exampleIds": [
+          "exm.sa.kids_science.evaporation.1.1.tr"
+        ],
+        "gloss": "Sıvı suyun ısıtıldığında buhara dönüşüp havaya yükselmesidir.",
+        "id": "sns.sa.kids_science.evaporation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_science.evaporation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "물이 데워지면 수증기로 변해 공기 속으로 올라가는 현상이다. 증발이라고 하며 남은 물의 양이 줄어든다.",
+        "exampleIds": [
+          "exm.sa.kids_science.evaporation.1.1.ko"
+        ],
+        "gloss": "액체 상태의 물이 기체로 변하는 현상.",
+        "id": "sns.sa.kids_science.evaporation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_science.evaporation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_science.evaporation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Evaporation dried the wet clothes on the line.",
+        "translation": "바람에 의해 젖은 옷이 마르는 것은 물이 증발하기 때문이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_science.evaporation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Evaporation dried the wet clothes on the line.",
+        "translation": "Buharlaşma, ipte asılı ıslak giysileri kuruttu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_science.evaporation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Evaporation dried the wet clothes on the line.",
+        "translation": "การระเหยทำให้เสื้อผ้าที่แช่น้ำแห้งบนราวได้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_science.evaporation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Evaporation dried the wet clothes on the line.",
+        "translation": "Penguapan mengeringkan pakaian basah yang digantung di jemuran.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_science.evaporation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Evaporation dried the wet clothes on the line.",
+        "translation": "A evaporação secou as roupas molhadas no varal.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_science.evaporation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Evaporation dried the wet clothes on the line.",
+        "translation": "蒸発によって、竿に干した洗濯物が乾いた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_science.evaporation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Evaporation dried the wet clothes on the line.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "28f7d813a04b0795a81dbb37b28dee68dc5aa29ec95785bb1d31054f0ff8bf52": [
+      {
+        "forms": [
+          "Market correction",
+          "market_correction"
+        ],
+        "id": "lex.sa.work.market_correction",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Market correction",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.market_correction.alt",
+          "sns.sa.work.market_correction.alt.ja",
+          "sns.sa.work.market_correction.alt.ko",
+          "sns.sa.work.market_correction.alt.pt_br",
+          "sns.sa.work.market_correction.alt.th",
+          "sns.sa.work.market_correction.alt.tr",
+          "sns.sa.work.market_correction.alt.id"
+        ]
+      },
+      {
+        "definition": "An increase given to bring pay in line with the market, framed as a fix rather than a reward.",
+        "exampleIds": [
+          "exm.sa.work.market_correction.1.1"
+        ],
+        "gloss": "An increase given to bring pay in line with the market, framed as a fix rather than a reward.",
+        "id": "sns.sa.work.market_correction.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.market_correction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "-<pay>を-<market>の水準に合わせるための調整。",
+        "exampleIds": [
+          "exm.sa.work.market_correction.1.1.ja"
+        ],
+        "gloss": "-<pay>を-<market>に合わせるための調整。",
+        "id": "sns.sa.work.market_correction.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.market_correction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "급여를 시장 수준에 맞추기 위해 주는 인상분을 뜻합니다. 보상이나 승진이 아니라 시장을 바로잡는 조정으로 제시되지만, 결과적으로는 급여 인상입니다.",
+        "exampleIds": [
+          "exm.sa.work.market_correction.1.1.ko"
+        ],
+        "gloss": "시장 기준에 맞추기 위해 지급하는 급여 인상.",
+        "id": "sns.sa.work.market_correction.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.market_correction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Aumento concedido afim de alinhar o salário às condições do mercado, embora a empresa o apresente como mero ajuste e não como recompensa.",
+        "exampleIds": [
+          "exm.sa.work.market_correction.1.1.pt_br"
+        ],
+        "gloss": "Reajuste salarial apresentado como correção para acompanhar o mercado.",
+        "id": "sns.sa.work.market_correction.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.market_correction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การเพิ่มค่าจ้างเพื่อให้สอดคล้องกับเงินเดือนและค่าจ้างในตลาด แม้ผู้จ่ายค่าจ้างจะเรียกว่าเป็นการปรับแก้ไข แต่ในทางปฏิบัติก็ถือเป็นการขึ้นค่าจ้าง",
+        "exampleIds": [
+          "exm.sa.work.market_correction.1.1.th"
+        ],
+        "gloss": "การปรับค่าจ้างให้สอดคล้องกับระดับตลาด",
+        "id": "sns.sa.work.market_correction.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.market_correction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Çalışanın ücretini piyasa düzeyine yaklaştırmak amacıyla yapılan ücret artışıdır. Şirketler bunu genellikle ödül veya zam yerine bir düzeltme olarak ifade eder.",
+        "exampleIds": [
+          "exm.sa.work.market_correction.1.1.tr"
+        ],
+        "gloss": "Ücreti piyasa düzeyine getirmek için yapılan ve düzeltme olarak sunulan zam.",
+        "id": "sns.sa.work.market_correction.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.market_correction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam konteks ketenagakerjaan, istilah iniозначает kenaikan gaji yang dijelaskan sebagai penyesuaian agar acero sesuai kondisi pasar, bukan sebagai penghargaan atau Bonus.",
+        "exampleIds": [
+          "exm.sa.work.market_correction.1.1.id"
+        ],
+        "gloss": "Penyesuaian gaji yang disebut perusahaan sebagai koreksi terhadap kondisi pasar.",
+        "id": "sns.sa.work.market_correction.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.market_correction",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.market_correction.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The company called it a market correction, which is still a pay rise.",
+        "translation": "Perusahaan menyebut kenaikan gaji itu sebagai koreksi pasar, meskipun sebenarnya tetap merupakan kenaikan gaji.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.market_correction.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The company called it a market correction, which is still a pay rise.",
+        "translation": "Şirket buna piyasa düzeltmesi dedi, ancak sonuçta yine bir ücret artışıydı.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.market_correction.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The company called it a market correction, which is still a pay rise.",
+        "translation": "บริษัทเรียกการเพิ่มค่าจ้างครั้งนี้ว่าการปรับค่าจ้างตามตลาด ซึ่งยังถือเป็นการขึ้นเงินเดือนอยู่ดี",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.market_correction.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The company called it a market correction, which is still a pay rise.",
+        "translation": "A empresa chamou de correção de mercado, mas, na prática, foi um aumento salarial.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.market_correction.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The company called it a market correction, which is still a pay rise.",
+        "translation": "회사는 이를 시장 조정이라고 불렀지만, 결국에는 급여 인상이었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.market_correction.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The company called it a market correction, which is still a pay rise.",
+        "translation": "-<company>は-<market correction>と呼んだが、結局は-<pay rise>だ。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.market_correction.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The company called it a market correction, which is still a pay rise.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "28fcc4572ac6fdf602bb48dcf8770152081b93ff0e05a4d10d6c1d364af8ef30": [
+      {
+        "forms": [
+          "Stereotype",
+          "gem_stereotype"
+        ],
+        "id": "lex.sa.social.gem_stereotype",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Stereotype",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gem_stereotype.alt",
+          "sns.sa.social.gem_stereotype.alt.ja",
+          "sns.sa.social.gem_stereotype.alt.ko",
+          "sns.sa.social.gem_stereotype.alt.pt_br",
+          "sns.sa.social.gem_stereotype.alt.id",
+          "sns.sa.social.gem_stereotype.alt.th",
+          "sns.sa.social.gem_stereotype.alt.tr"
+        ]
+      },
+      {
+        "definition": "A belief about a group that is applied to a person without looking at that person.",
+        "exampleIds": [
+          "exm.sa.social.gem_stereotype.1.1"
+        ],
+        "gloss": "A belief about a group that is applied to a person without looking at that person.",
+        "id": "sns.sa.social.gem_stereotype.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gem_stereotype",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある集団を特徴づける固定的な考えを、実際には確かめずに個人へ当てはめることである。",
+        "exampleIds": [
+          "exm.sa.social.gem_stereotype.1.1.ja"
+        ],
+        "gloss": "ある集団についての一般的考えを Critique個人にそのまま適用すること。",
+        "id": "sns.sa.social.gem_stereotype.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.gem_stereotype",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "어떤 집단의 모든 사람을 특징짓는다고 믿는 일반화된 생각이다. 실제 개인의 특성을 확인하지 않고 그 집단에 속한다는 이유만으로 적용한다는 점이 문제다.",
+        "exampleIds": [
+          "exm.sa.social.gem_stereotype.1.1.ko"
+        ],
+        "gloss": "한 집단에 대한 신념을 개별인을 보지 않고 적용하는 고정관념.",
+        "id": "sns.sa.social.gem_stereotype.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.gem_stereotype",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Uma ideia simplificada e generalizada sobre um grupo, atribuída a cada um de seus membros sem considerar suas características individuais.",
+        "exampleIds": [
+          "exm.sa.social.gem_stereotype.1.1.pt_br"
+        ],
+        "gloss": "Aplicar a uma pessoa uma crença geral sobre um grupo.",
+        "id": "sns.sa.social.gem_stereotype.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.gem_stereotype",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Stereotipe merupakan generalisasi yang dianggap berlaku bagi semua anggota sebuah kelompok. Keyakinan tersebut dapat mendistorsi penilaian terhadap orang sebagai individu.",
+        "exampleIds": [
+          "exm.sa.social.gem_stereotype.1.1.id"
+        ],
+        "gloss": "Keyakinan tentang suatu kelompok yang diterapkan kepada individu tanpa menilainya secara pribadi.",
+        "id": "sns.sa.social.gem_stereotype.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.gem_stereotype",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความเชื่อเกี่ยวกับกลุ่มหนึ่งที่นำไปใช้กับบุคคลโดยไม่พิจารณาตัวบุคคลนั้น อคติทั่วไปจึงอาจทำให้ตัดสินคนจากข้อมูลไม่เพียงพอ",
+        "exampleIds": [
+          "exm.sa.social.gem_stereotype.1.1.th"
+        ],
+        "gloss": "ความเชื่อที่เหมารวมคนทั้งกลุ่มโดยไม่ดูความแตกต่างของแต่ละคน",
+        "id": "sns.sa.social.gem_stereotype.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.gem_stereotype",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir grup hakkındaki genellemenin, kişinin bireysel özellikleri incelenmeden ona uygulanması. Karşıdaki kişi hakkında kesinlikle doğru bilgi vermez.",
+        "exampleIds": [
+          "exm.sa.social.gem_stereotype.1.1.tr"
+        ],
+        "gloss": "Bir gruba ilişkin inancı, tek bir kişiye bakılmadan ona uygulama.",
+        "id": "sns.sa.social.gem_stereotype.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.gem_stereotype",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gem_stereotype.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Erkekler ve kadınlar hakkında söylediği cümle bir kalıp yargıydı ve karşısındaki erkeğin özellikleri hakkında hiçbir şey söylemiyordu.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.gem_stereotype.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "ประโยคเกี่ยวกับผู้ชายและผู้หญิงเป็นแบบคิดเหมารวมต่อกลุ่ม และไม่ได้บอกอะไรเกี่ยวกับผู้ชายที่อยู่ตรงหน้าเลย",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.gem_stereotype.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Pernyataan tentangpria dan wanita itu merupakan stereotipe dan tidak menjelaskan apa pun tentang pria yang ada di depannya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.gem_stereotype.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Dizer que todos os homens são iguais é um estereótipo e não diz nada sobre o homem à sua frente.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.gem_stereotype.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "남성과 여성을 한 문장으로 단정하는 것은 고정관념일 뿐, 눈앞의 한 사람을 설명해 주지 않는다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.gem_stereotype.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "男性と女性についての発言は固定観念であり、目の前の男性について何も解決しない。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.gem_stereotype.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That sentence about men and women is a stereotype, and it settles nothing about the man in front of you.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

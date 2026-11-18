@@ -1,0 +1,1776 @@
+{
+  "records": {
+    "6e00cd562cc2d88e238dfb81d9439de7ec843ee9d0c9879d549cb1436786f975": [
+      {
+        "forms": [
+          "matrix",
+          "matrices"
+        ],
+        "id": "lex.sa.en.matrix.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "matrix",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.matrix.noun.1",
+          "sns.sa.en.matrix-noun.alt"
+        ]
+      },
+      {
+        "definition": "Bảng số hình chữ nhật dùng để biểu diễn một phép biến đổi tuyến tính.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.26"
+        ],
+        "gloss": "ma trận",
+        "id": "sns.sa.vi.matrix.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.matrix.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "A rectangular array of numbers for linear transformations.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.showcase.26"
+        ],
+        "gloss": "A rectangular array of numbers used in linear transformations.",
+        "id": "sns.sa.en.matrix-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.matrix.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.en.showcase.26",
+        "kind": "example",
+        "sourceLanguage": "en",
+        "text": "A 2×2 matrix multiplies a column.",
+        "translation": "Một ma trận 2×2 nhân với một cột.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6e0534af16e1fe990db04f7be375d4a0d743a315cbc9866523cec7c15d253c62": [
+      {
+        "forms": [
+          "Interpretation",
+          "mathlit_interpretation"
+        ],
+        "id": "lex.sa.mind.mathlit_interpretation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Interpretation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mathlit_interpretation.alt",
+          "sns.sa.mind.mathlit_interpretation.alt.ja",
+          "sns.sa.mind.mathlit_interpretation.alt.ko",
+          "sns.sa.mind.mathlit_interpretation.alt.pt_br",
+          "sns.sa.mind.mathlit_interpretation.alt.id",
+          "sns.sa.mind.mathlit_interpretation.alt.th",
+          "sns.sa.mind.mathlit_interpretation.alt.tr"
+        ]
+      },
+      {
+        "definition": "The meaning a reader gives a result in their own work once they have understood it.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_interpretation.1.1"
+        ],
+        "gloss": "The meaning a reader gives a result in their own work once they have understood it.",
+        "id": "sns.sa.mind.mathlit_interpretation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mathlit_interpretation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "計算や推論の結果を理解したうえで、読み手がその結果に与える意味や位置づけ。数値の正しさとは別に、結果をどのように理解するかを指す。",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_interpretation.1.1.ja"
+        ],
+        "gloss": "結果を理解した読み手が、その結果に与える意味。",
+        "id": "sns.sa.mind.mathlit_interpretation.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.mathlit_interpretation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "계산이나 결과를 이해한 뒤 자신의 작업에 맞게 그 의미를 해석하는 단계이다. 결과 자체와 해석은 구별된다.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_interpretation.1.1.ko"
+        ],
+        "gloss": "결과를 이해한 뒤 작업 안에서 그 결과에 부여하는 의미.",
+        "id": "sns.sa.mind.mathlit_interpretation.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.mathlit_interpretation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Significado que o leitor atribui a um resultado em seu próprio trabalho depois de compreendê-lo.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_interpretation.1.1.pt_br"
+        ],
+        "gloss": "Significado que o leitor atribui a um resultado depois de compreendê-lo.",
+        "id": "sns.sa.mind.mathlit_interpretation.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.mathlit_interpretation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Makna yang diberikan pembaca terhadap suatu hasil setelah memahaminya. Kata ini menekankan pemahaman pribadi pembaca, bukan hasil perhitungan itu sendiri.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_interpretation.1.1.id"
+        ],
+        "gloss": "Makna yang diberikan pembaca terhadap suatu hasil setelah memahaminya.",
+        "id": "sns.sa.mind.mathlit_interpretation.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.mathlit_interpretation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ความหมายที่ผู้อ่านให้กับผลลัพธ์หลังทำความเข้าใจ เป็นขั้นตอนที่พิจารณาว่าตัวเลขหรือข้อสรุปมีความสำคัญอย่างไร",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_interpretation.1.1.th"
+        ],
+        "gloss": "ความหมายที่ผู้อ่านให้กับผลลัพธ์หลังทำความเข้าใจ",
+        "id": "sns.sa.mind.mathlit_interpretation.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.mathlit_interpretation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir sonucun, okuyucu onu anladıktan sonra kendi çalışmasında verdiği anlam. Yorum, hesaplamanın kendisinden ayrı ve sonradan ortaya konan bir adımdır.",
+        "exampleIds": [
+          "exm.sa.mind.mathlit_interpretation.1.1.tr"
+        ],
+        "gloss": "Bir sonucun, okuyucu onu anladıktan sonra kendi çalışmasında verdiği anlam.",
+        "id": "sns.sa.mind.mathlit_interpretation.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.mathlit_interpretation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mathlit_interpretation.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Yorum son adımdır: sayı doğrudur ve şimdi gece vardiyasında ne anlama geldiğini açıklamak gerekir.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_interpretation.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การตีความเป็นขั้นตอนสุดท้าย เพราะตัวเลขถูกต้องแล้ว ต่อไปต้องอธิบายให้มีความหมายในกะดึก",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_interpretation.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Interpretasi merupakan langkah terakhir: angkanya sudah benar, dan sekarang harus bermakna bagi tim malam.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_interpretation.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "A interpretação é a última etapa: o número está correto, e agora é preciso que signifique algo no turno da noite.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_interpretation.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "해석은 마지막 단계이다. 숫자가 정확하면 이제 야간 근무에 맞게 그 의미를 찾아야 한다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_interpretation.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "解釈は最後の段階であり、数値は正しいので、夜勤でも意味 Sautillageを与える必要がある。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.mathlit_interpretation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The interpretation is the last step: the number is correct, and now it has to mean something on the night shift.",
+        "translation": "Diễn giải là bước cuối cùng: con số đã đúng, và giờ nó phải mang một ý nghĩa trong ca đêm.",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6e265e62746f8f8cad230fb4b488f68b63458c5f0fe98bc339337ac48ce1ea6a": [
+      {
+        "forms": [
+          "Widowed",
+          "lts_widowed"
+        ],
+        "id": "lex.sa.social.lts_widowed",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Widowed",
+        "pos": "adjective",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_widowed.alt",
+          "sns.sa.social.lts_widowed.alt.ja",
+          "sns.sa.social.lts_widowed.alt.ko",
+          "sns.sa.social.lts_widowed.alt.pt_br",
+          "sns.sa.social.lts_widowed.alt.th",
+          "sns.sa.social.lts_widowed.alt.tr",
+          "sns.sa.social.lts_widowed.alt.id"
+        ]
+      },
+      {
+        "definition": "Describing a person whose spouse has died.",
+        "exampleIds": [
+          "exm.sa.social.lts_widowed.1.1"
+        ],
+        "gloss": "Describing a person whose spouse has died.",
+        "id": "sns.sa.social.lts_widowed.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_widowed",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "夫または妻が死亡した状態を Kulott. 配偶者の死によって一人取り残された人を表す。",
+        "exampleIds": [
+          "exm.sa.social.lts_widowed.1.1.ja"
+        ],
+        "gloss": "配偶者を亡くした人について用いる語。",
+        "id": "sns.sa.social.lts_widowed.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_widowed",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "남편이나 아내가 죽은 뒤 혼자가 된 사람을 가리킨다. 단순히 미혼이거나 이혼한 상태와는 다르다.",
+        "exampleIds": [
+          "exm.sa.social.lts_widowed.1.1.ko"
+        ],
+        "gloss": "배우자가 죽어 혼자가 된 사람에게 쓰는 형용사이다.",
+        "id": "sns.sa.social.lts_widowed.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_widowed",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Adjetivo que descreve uma pessoa cujo marido ou esposa morreu, independentemente de seu estado civil atual.",
+        "exampleIds": [
+          "exm.sa.social.lts_widowed.1.1.pt_br"
+        ],
+        "gloss": "Que perdeu o cônjuge por morte.",
+        "id": "sns.sa.social.lts_widowed.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_widowed",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "ใช้เรียกหญิงที่สามีเสียชีวิตแล้ว โดยไม่ได้หมายถึงชายที่สามีภรรยาเสีย",
+        "exampleIds": [
+          "exm.sa.social.lts_widowed.1.1.th"
+        ],
+        "gloss": "ที่สามีผัวเสียแล้ว",
+        "id": "sns.sa.social.lts_widowed.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_widowed",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Eşinin ölümünden sonra evli olmayan kadın veya erkeği belirten sıfat; yalnız yaşamayı kendi seçen kişiler için kullanılmaz.",
+        "exampleIds": [
+          "exm.sa.social.lts_widowed.1.1.tr"
+        ],
+        "gloss": "Eşi ölmüş olan kişiyi belirtir.",
+        "id": "sns.sa.social.lts_widowed.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_widowed",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "definition": "Berkenaan dengan seseorang yang pasangannya telah meninggal dunia; istilah ini dapat mencakup duda maupun janda.",
+        "exampleIds": [
+          "exm.sa.social.lts_widowed.1.1.id"
+        ],
+        "gloss": "Menjelang pasangan-Medan Untuk pasangan pasangan yang meninggal dunia.",
+        "id": "sns.sa.social.lts_widowed.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_widowed",
+        "pos": "adjective",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_widowed.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Setelah suaminya meninggal, ia menjadi janda dan tetap memasang foto mereka di dinding.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_widowed.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Eşi öldükten sonra dul kalan Ayşe, birlikte çektirdikleri fotoğrafları hâlâ duvarda tutuyor.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_widowed.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "หลังสามีผัวเสีย เธอยังคงเก็บรูปถ่ายความทรงจำร่วมกันไว้แขวนกำแพง",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_widowed.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ela é viúva e ainda mantém as fotografias do casal na parede.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_widowed.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그녀는 과부이며, 여전히 함께 찍은 사진을 벽에 걸어 두었다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_widowed.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "彼女は夫を失った後も、二人で撮った写真を壁に飾っています。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_widowed.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "She is widowed, and she still keeps the shared photographs on the wall.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6e2eee0fd944992e5e77064bc464d6e4542b8dc186d81e670a5035567ca99848": [
+      {
+        "forms": [
+          "Foot in the door",
+          "psy_foot_in_the_door"
+        ],
+        "id": "lex.sa.mind.psy_foot_in_the_door",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Foot in the door",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.psy_foot_in_the_door.alt",
+          "sns.sa.mind.psy_foot_in_the_door.alt.ja",
+          "sns.sa.mind.psy_foot_in_the_door.alt.ko",
+          "sns.sa.mind.psy_foot_in_the_door.alt.pt_br",
+          "sns.sa.mind.psy_foot_in_the_door.alt.id",
+          "sns.sa.mind.psy_foot_in_the_door.alt.th",
+          "sns.sa.mind.psy_foot_in_the_door.alt.tr"
+        ]
+      },
+      {
+        "definition": "A small, easy agreement that is used later as the reason for a much larger one.",
+        "exampleIds": [
+          "exm.sa.mind.psy_foot_in_the_door.1.1"
+        ],
+        "gloss": "A small, easy agreement that is used later as the reason for a much larger one.",
+        "id": "sns.sa.mind.psy_foot_in_the_door.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.psy_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "先に小さく同意を取り、あとからその同意を理由として、より大きな約束まで引き出す手法。",
+        "exampleIds": [
+          "exm.sa.mind.psy_foot_in_the_door.1.1.ja"
+        ],
+        "gloss": "後からより大きな約束の理由として使われる、小さく同意しやすい約束。",
+        "id": "sns.sa.mind.psy_foot_in_the_door.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.mind.psy_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "쉽게 수락할 수 있는 작은 요청을 먼저 받아들인 뒤, 그 행동을 근거로 더 큰 요청을 받아내려는 수법이다.",
+        "exampleIds": [
+          "exm.sa.mind.psy_foot_in_the_door.1.1.ko"
+        ],
+        "gloss": "작은 동의를 먼저 받아들여 더 큰 동의를 유도하는 기법.",
+        "id": "sns.sa.mind.psy_foot_in_the_door.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.mind.psy_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Técnica de persuasão na qual uma pessoa aceita primeiro uma solicitação pequena e, em seguida, tende a aceitar outra maior por causa do primeiro compromisso.",
+        "exampleIds": [
+          "exm.sa.mind.psy_foot_in_the_door.1.1.pt_br"
+        ],
+        "gloss": "Pequeno acordo fácil usado depois como base para solicitar algo muito maior.",
+        "id": "sns.sa.mind.psy_foot_in_the_door.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.mind.psy_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Permintaan awal yang kecil dan mudah diterima, lalu dijadikan alasan untuk meminta persetujuan yang jauh lebih besar.",
+        "exampleIds": [
+          "exm.sa.mind.psy_foot_in_the_door.1.1.id"
+        ],
+        "gloss": "Kesepakatan kecil dan mudah yang_card_strengthPermintaan besar berikutnya.",
+        "id": "sns.sa.mind.psy_foot_in_the_door.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.mind.psy_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "สำนวนหมายถึงการยอมรับสิ่งเล็ก ๆ ที่ง่ายก่อน แล้วใช้สิ่งนั้นเป็นเหตุผลให้ยอมรับสิ่งที่ใหญ่กว่าในภายหลัง",
+        "exampleIds": [
+          "exm.sa.mind.psy_foot_in_the_door.1.1.th"
+        ],
+        "gloss": "ข้อตกลงเล็กที่ง่ายต่อการยอมรับและนำไปสู่ข้อตกลงใหญ่",
+        "id": "sns.sa.mind.psy_foot_in_the_door.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.mind.psy_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kapıyı aralık bırakma taktiğinde, kişinin verdiği kolay ve küçük onay sonradan daha büyük bir isteği kabul etmesinin gerekçesi sayılır.",
+        "exampleIds": [
+          "exm.sa.mind.psy_foot_in_the_door.1.1.tr"
+        ],
+        "gloss": "Küçük ve kolay bir evetin, daha sonra çok daha büyük bir evet için gerekçe olarak kullanılması.",
+        "id": "sns.sa.mind.psy_foot_in_the_door.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.mind.psy_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.psy_foot_in_the_door.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ücretsiz deneme, kapıyı aralık bırakma taktiğiydi; ardından yıllık sözleşme istendi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.mind.psy_foot_in_the_door.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การทดลองใช้ฟรีเป็นการเดินหางเสือเข้าบ้าน เพราะหลังจากนั้นก็มาถึงสัญญารายปี",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.mind.psy_foot_in_the_door.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Uji coba gratis menjadi kaki di ambang pintu: kontrak tahunan menyusul setelahnya.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.mind.psy_foot_in_the_door.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O período experimental gratuito foi o pé na porta: depois veio o contrato anual.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.mind.psy_foot_in_the_door.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "무료 체험은 문턱 효과를 이용한 것이었다. 곧바로 연간 계약이 이어졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.mind.psy_foot_in_the_door.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "無料トライアルが足元を乗り込んでいた。次に来たのは年単位の契約だった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.mind.psy_foot_in_the_door.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The free trial was the foot in the door: the yearly contract came next.",
+        "translation": "",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Foot in the door",
+          "dpn_foot_in_the_door"
+        ],
+        "id": "lex.sa.work.dpn_foot_in_the_door",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Foot in the door",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.work.dpn_foot_in_the_door.alt",
+          "sns.sa.work.dpn_foot_in_the_door.alt.ja",
+          "sns.sa.work.dpn_foot_in_the_door.alt.ko",
+          "sns.sa.work.dpn_foot_in_the_door.alt.pt_br",
+          "sns.sa.work.dpn_foot_in_the_door.alt.id",
+          "sns.sa.work.dpn_foot_in_the_door.alt.th",
+          "sns.sa.work.dpn_foot_in_the_door.alt.tr"
+        ]
+      },
+      {
+        "definition": "A small, easy agreement that becomes the reason for a much larger one.",
+        "exampleIds": [
+          "exm.sa.work.dpn_foot_in_the_door.1.1"
+        ],
+        "gloss": "A small, easy agreement that becomes the reason for a much larger one.",
+        "id": "sns.sa.work.dpn_foot_in_the_door.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.work.dpn_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "最初に拒否されにくい小さな要求に同意させてから、より大きな要求を出す手法。最初の一歩を衝動ではなく、大きい要求への布石として行う。",
+        "exampleIds": [
+          "exm.sa.work.dpn_foot_in_the_door.1.1.ja"
+        ],
+        "gloss": "小さな同意を得开后大きな要求へ进展させる手法。",
+        "id": "sns.sa.work.dpn_foot_in_the_door.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.work.dpn_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "먼저 거절하기 어려운 작은 요청에 동의하게 한 뒤 더 큰 요청을 제시하는 방식이다. 작은 동의를 시작점으로 이용해 단계적으로 조건을 확대한다.",
+        "exampleIds": [
+          "exm.sa.work.dpn_foot_in_the_door.1.1.ko"
+        ],
+        "gloss": "쉬운 작은 동의를 먼저 받아 더 큰 요구로 이어 가게 하는 기법.",
+        "id": "sns.sa.work.dpn_foot_in_the_door.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.work.dpn_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Um pequeno acordo fácil que se torna o motivo de outro muito maior. Em vendas, oferece-se primeiro uma condição simples para levar o cliente a aceitar um compromisso maior.",
+        "exampleIds": [
+          "exm.sa.work.dpn_foot_in_the_door.1.1.pt_br"
+        ],
+        "gloss": "Um pequeno acordo fácil que se torna o motivo de outro muito maior.",
+        "id": "sns.sa.work.dpn_foot_in_the_door.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.work.dpn_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Dalam teknik ini, pihak yang memintaMulailah dengan permintaan kecil dan mudah disetujui. Setelah itu, persetujuan awal tersebut digunakan untuk memperoleh permintaan yang lebih besar.",
+        "exampleIds": [
+          "exm.sa.work.dpn_foot_in_the_door.1.1.id"
+        ],
+        "gloss": "Permintaan kecil di awal adalah persetujuan mudah yang menjadi alasan bagi permintaan yang jauh lebih besar.",
+        "id": "sns.sa.work.dpn_foot_in_the_door.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.work.dpn_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เป็นกลวิธีที่เริ่มจากการขอประโยชน์หรือข้อตกลงเล็ก ๆ ซึ่งง่ายต่อการยอมรับ แล้วใช้ความยอมรับนั้นเป็นฐานขอข้อตกลงที่ใหญ่ขึ้น",
+        "exampleIds": [
+          "exm.sa.work.dpn_foot_in_the_door.1.1.th"
+        ],
+        "gloss": "การยอมรับข้อตกลงเล็กที่ง่ายก่อน เพื่อเปิดทางให้ข้อตกลงที่ใหญ่กว่า",
+        "id": "sns.sa.work.dpn_foot_in_the_door.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.work.dpn_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Önce küçük ve kolay kabul edilebilen bir istekle başlayıp ardından daha büyük bir istekte bulunma yöntemidir.",
+        "exampleIds": [
+          "exm.sa.work.dpn_foot_in_the_door.1.1.tr"
+        ],
+        "gloss": "Küçük ve kolay bir anlaşmayla daha büyük bir anlaşmayı sağlama.",
+        "id": "sns.sa.work.dpn_foot_in_the_door.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.work.dpn_foot_in_the_door",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.work.dpn_foot_in_the_door.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Ücretsiz deneme ayağını kapıya sokmuştu; sonra yıllık sözleşme geldi.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.work.dpn_foot_in_the_door.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "การทดลองใช้งานฟรีเป็นการเริ่มด้วยข้อตกลงเล็ก หลังจากนั้นจึงเสนอสัญญารายปี",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.work.dpn_foot_in_the_door.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Uji coba gratis merupakan permintaan kecil di awal, lalu kontrak tahunan menyusul.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.work.dpn_foot_in_the_door.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "O período experimental gratuito foi o pé na porta, e depois veio o contrato anual.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.work.dpn_foot_in_the_door.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "무료 체험이 작은 동의였고, 그다음으로 연간 계약이 이어졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.work.dpn_foot_in_the_door.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "無料トライアルが小さな突破口となり、続いて年間契約が求められた。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.work.dpn_foot_in_the_door.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The free trial was the foot in the door, and the yearly contract came next.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6e9b0ba72a10da90c46836963a10c5b7eee3db59bbe57090fb3fb8b5bbcb14d8": [
+      {
+        "forms": [
+          "Reverse light",
+          "reverse_light"
+        ],
+        "id": "lex.sa.en.reverse.light",
+        "kind": "lexeme",
+        "lemma": "Reverse light",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.en.reverse.light.alt"
+        ]
+      },
+      {
+        "definition": "The reverse light is on; the car is in reverse. Severity level 1 — Information / Status. Action: Nothing to do. Watch behind you..",
+        "gloss": "The reverse light is on; the car is in reverse.",
+        "id": "sns.sa.en.reverse.light.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.reverse.light",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "6ea42def547a5f954ae70f63dbafd5f4a19efd26fd526d07c97b168b7568819b": [
+      {
+        "forms": [
+          "Doomscrolling",
+          "doomscrolling"
+        ],
+        "id": "lex.sa.technology.doomscrolling",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Doomscrolling",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.technology.doomscrolling.alt",
+          "sns.sa.technology.doomscrolling.alt.ja",
+          "sns.sa.technology.doomscrolling.alt.ko",
+          "sns.sa.technology.doomscrolling.alt.pt_br",
+          "sns.sa.technology.doomscrolling.alt.id",
+          "sns.sa.technology.doomscrolling.alt.th",
+          "sns.sa.technology.doomscrolling.alt.tr"
+        ]
+      },
+      {
+        "definition": "Reading bad news repeatedly on purpose, because the subject holds your attention. A specific habit, not a synonym for scrolling.",
+        "exampleIds": [
+          "exm.sa.technology.doomscrolling.1.1"
+        ],
+        "gloss": "Reading bad news repeatedly on purpose, because the subject holds your attention. A specific habit, not a synonym for scrolling.",
+        "id": "sns.sa.technology.doomscrolling.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.technology.doomscrolling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ドームスクロールとは、内容的がinteresting悪い知らせ的现实からRealityや注意を引かず、繰り返し読み続ける習慣である。単なる画面natsuringPrivilege的区别。",
+        "exampleIds": [
+          "exm.sa.technology.doomscrolling.1.1.ja"
+        ],
+        "gloss": "悪い知らせを繰り返し読むため、集团的に.Scrollしてしまう習慣。",
+        "id": "sns.sa.technology.doomscrolling.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.technology.doomscrolling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "내용 때문에 빠져나오기 어려운 나쁜 소식을 일부러 반복해서 읽고 스크롤하는 습관을 뜻한다. 단순히 화면을 위아래로 움직이는 행위와는 구별된다.",
+        "exampleIds": [
+          "exm.sa.technology.doomscrolling.1.1.ko"
+        ],
+        "gloss": "나쁜 소식에 끌려 일부러 계속 확인하며 스크롤하는 행동이다.",
+        "id": "sns.sa.technology.doomscrolling.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.technology.doomscrolling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Prática de consultar continuamente conteúdos perturbadores ou deprimentes, muitas vezes porque o assunto prende a atenção. É um hábito específico, e não apenas a ação de rolar a tela.",
+        "exampleIds": [
+          "exm.sa.technology.doomscrolling.1.1.pt_br"
+        ],
+        "gloss": "Ação de rolar o feed repetidamente para acompanhar notícias ruins.",
+        "id": "sns.sa.technology.doomscrolling.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.technology.doomscrolling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Istilah ini menunjuk pada kebiasaan membaca kabar buruk berulang-ulang secara sengaja, bukan pada kegiatan menggulir layar secara umum.",
+        "exampleIds": [
+          "exm.sa.technology.doomscrolling.1.1.id"
+        ],
+        "gloss": "Kebiasaan membaca kabar buruk secara berulang-ulang dengan sengaja karena topik itu menarik perhatian.",
+        "id": "sns.sa.technology.doomscrolling.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.technology.doomscrolling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "การอ่านข่าวร้ายซ้ำ ๆ โดยตั้งใจเพราะหัวข้อนั้นดึงความสนใจ เป็นนิสัยเฉพาะของการอ่านข่าวร้าย ไม่ใช่คำทั่วไปสำหรับการเลื่อนฟีด",
+        "exampleIds": [
+          "exm.sa.technology.doomscrolling.1.1.th"
+        ],
+        "gloss": "การเลื่อนดูข่าวร้ายซ้ำ ๆ เพราะเนื้อหาดึงความสนใจ",
+        "id": "sns.sa.technology.doomscrolling.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.technology.doomscrolling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Bir konu dikkatini çektiği için kötü haberleri bilerek tekrar tekrar okuma davranışı. Sıradan ekran kaydırmadan farklı olarak kişiyi kasıtlı biçimde olumsuz duygulara sürükler.",
+        "exampleIds": [
+          "exm.sa.technology.doomscrolling.1.1.tr"
+        ],
+        "gloss": "Kötü haberleri ilgi çekici bulduğu için tekrar tekrar okuma alışkanlığı.",
+        "id": "sns.sa.technology.doomscrolling.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.technology.doomscrolling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.technology.doomscrolling.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+        "translation": "Bir saat boyunca kötü haberlere kaydırdım ve her kontrolde kendimi daha kötü hissettim.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.technology.doomscrolling.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+        "translation": "ฉันเสียเวลาหนึ่งชั่วโมงกับการเลื่อนดูข่าวร้ายวนซ้ำ และรู้สึกแย่ลงทุกครั้งที่เปิดดู",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.technology.doomscrolling.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+        "translation": "Saya menghabiskan satu jam untuk membaca kabar buruk secara berulang, dan setiap kali mengecek berita, saya merasa lebih buruk.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.technology.doomscrolling.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+        "translation": "Fiquei uma hora fazendo rolagem de más notícias e me senti pior a cada consulta.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.technology.doomscrolling.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+        "translation": "한 시간 동안 나쁜 소식을 계속 확인하는 두스크롤링을 했고, 볼 때마다 기분이 더 나빠졌다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.technology.doomscrolling.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+        "translation": "一時間ドームスクロールをしていたが、確認するたびに気分悪くなった。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.technology.doomscrolling.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+        "translation": "",
+        "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Doomscrolling"
+        ],
+        "id": "lex.sa.mind.doomscrolling",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Doomscrolling",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.doomscrolling.en",
+          "sns.sa.mind.doomscrolling.vi"
+        ]
+      },
+      {
+        "definition": "The habit of continuously consuming negative news, especially in a feed, long past the point of usefulness.",
+        "exampleIds": [],
+        "gloss": "The habit of continuously consuming negative news, especially in a feed, long past the point of usefulness.",
+        "id": "sns.sa.mind.doomscrolling.en",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.doomscrolling",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "exampleIds": [],
+        "gloss": "Thói quen liên tục tiêu thụ tin xấu, đặc biệt trên bảng tin, kéo dài quá mức hữu ích.",
+        "id": "sns.sa.mind.doomscrolling.vi",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.mind.doomscrolling",
+        "pos": "danh từ",
+        "revision": 1
+      }
+    ],
+    "6ecbb0daedd4b6d3ed9e1d363c3b23b8d77d4e5faeed1307fb64ad6d8611f49f": [
+      {
+        "forms": [
+          "Social norm",
+          "social_norm"
+        ],
+        "id": "lex.sa.culture.social_norm",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Social norm",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.culture.social_norm.alt",
+          "sns.sa.culture.social_norm.alt.ja",
+          "sns.sa.culture.social_norm.alt.ko",
+          "sns.sa.culture.social_norm.alt.pt_br",
+          "sns.sa.culture.social_norm.alt.id",
+          "sns.sa.culture.social_norm.alt.th",
+          "sns.sa.culture.social_norm.alt.tr"
+        ]
+      },
+      {
+        "definition": "A rule everybody follows without discussing it, such as removing shoes before entering a home.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1"
+        ],
+        "gloss": "A rule everybody follows without discussing it, such as removing shoes before entering a home.",
+        "id": "sns.sa.culture.social_norm.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ある社会や共同体で、通常每个人都遵守すると考えられる行動の基準。法的な規則とは限らない。",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.ja"
+        ],
+        "gloss": "誰も明示的に定めないまま誰もが従う、社会的な行動の決まり。",
+        "id": "sns.sa.culture.social_norm.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "집에 들어갈 때 신발을 벗는 것처럼 모두가 당연히 지키는 사회 규칙이다. 반대로 일부는 따르지 않을 수도 있다.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.ko"
+        ],
+        "gloss": "사람들이 말로 설명하지 않고 자연스럽게 따르는 사회 규범이다.",
+        "id": "sns.sa.culture.social_norm.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Regra de convivência esperada pelas pessoas, que em geral é cumprida sem precisar ser explicada. Não se limita a uma lei formal.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.pt_br"
+        ],
+        "gloss": "Regra compartilhada por um grupo e seguida sem discussão, como tirar os sapatos antes de entrar em uma casa.",
+        "id": "sns.sa.culture.social_norm.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Norma sosial adalah expectation atau kebiasaan yang berlaku dalam suatu kelompok dan biasanya tidak perlu dibicarakan. Aturan ini dapat berbeda menurut budaya dan situasi serta tidak selalu merupakan hukum resmi.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.id"
+        ],
+        "gloss": "Norma sosial adalah aturan tak tertulis yang dianut bersama.",
+        "id": "sns.sa.culture.social_norm.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "เช่น การถอดรองเท้าก่อนเข้าบ้าน มารยาททางสังคมอาจเปลี่ยนแปลงได้ตามวัฒนธรรมและสถานที่",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.th"
+        ],
+        "gloss": "กฎหรือความคาดหมายที่คนทั่วไปปฏิบัติตามโดยไม่ต้องตกลงกัน",
+        "id": "sns.sa.culture.social_norm.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Evde ayakkabıları çıkarmak gibi herkesin tartışmadan uyduğu toplumsal kural.",
+        "exampleIds": [
+          "exm.sa.culture.social_norm.1.1.tr"
+        ],
+        "gloss": "Herkesin tartışmadan uyduğu toplumsal kural.",
+        "id": "sns.sa.culture.social_norm.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.culture.social_norm",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "Buradaki norm ona on dakika geç gelmektir ve herkes saati farklı okur.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "มารยาททางสังคมของสถานที่นี้คือมาสายสิบนาที และทุกคนต่างก็อ่านเวลาไม่เหมือนกัน",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "Di rumah itu, guests expected untuk melepas sepatu sebelum masuk.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "A norma social daqui é chegar dez minutos atrasado, e todos interpretam o horário de maneira diferente.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "한국에서는 집에 들어갈 때 신발을 벗는 것이 사회 규범이다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "ここでは10分遅刻することが社会規範好几个，因此大家即使看了时间也会表现得不一样。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.culture.social_norm.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The norm here is to arrive ten minutes late, and everyone reads the time differently.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6ed0337140bd32b4adc5000f76333bd8ca6b2b2c9e0bc354335cf341456290e8": [
+      {
+        "forms": [
+          "Who",
+          "who"
+        ],
+        "id": "lex.sa.kids_daily.who",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Who",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.kids_daily.who.alt",
+          "sns.sa.kids_daily.who.alt.ja",
+          "sns.sa.kids_daily.who.alt.ko",
+          "sns.sa.kids_daily.who.alt.pt_br",
+          "sns.sa.kids_daily.who.alt.id",
+          "sns.sa.kids_daily.who.alt.th",
+          "sns.sa.kids_daily.who.alt.tr"
+        ]
+      },
+      {
+        "definition": "The question word that asks for a person.",
+        "exampleIds": [
+          "exm.sa.kids_daily.who.1.1"
+        ],
+        "gloss": "The question word that asks for a person.",
+        "id": "sns.sa.kids_daily.who.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.kids_daily.who",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "「誰ですか」「誰がTownhallか」のように、人を質問する語。物ではなく人间を指して尋ねる。",
+        "exampleIds": [
+          "exm.sa.kids_daily.who.1.1.ja"
+        ],
+        "gloss": "人を指名して尋ねる疑問詞。",
+        "id": "sns.sa.kids_daily.who.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.kids_daily.who",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "사람의 이름이나 신분을 물어볼 때 사용하는 말이다. 단순히 ‘무엇’이나 ‘어디’라고 묻는 것과 구별된다.",
+        "exampleIds": [
+          "exm.sa.kids_daily.who.1.1.ko"
+        ],
+        "gloss": "어떤 사람인지 묻는 의문사.",
+        "id": "sns.sa.kids_daily.who.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.kids_daily.who",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "É usada para identificar ou perguntar a identidade de alguém ou de um grupo de pessoas.",
+        "exampleIds": [
+          "exm.sa.kids_daily.who.1.1.pt_br"
+        ],
+        "gloss": "Palavra interrogativa usada para perguntar sobre uma pessoa.",
+        "id": "sns.sa.kids_daily.who.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.kids_daily.who",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kata tanya yang digunakan untuk mengetahui siapa seseorang atau siapa yang melakukan sesuatu.",
+        "exampleIds": [
+          "exm.sa.kids_daily.who.1.1.id"
+        ],
+        "gloss": "Kata tanya untuk menanyakan orang.",
+        "id": "sns.sa.kids_daily.who.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.kids_daily.who",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "ใช้เมื่อต้องการทราบว่าบุคคลที่กำลังพูดถึงเป็นใคร",
+        "exampleIds": [
+          "exm.sa.kids_daily.who.1.1.th"
+        ],
+        "gloss": "คำถามที่ใช้ถามถึงบุคคล",
+        "id": "sns.sa.kids_daily.who.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.kids_daily.who",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Kim? diye sorulur ve bir kişinin adını, kimliğini veya görevini öğrenmek için kullanılır.",
+        "exampleIds": [
+          "exm.sa.kids_daily.who.1.1.tr"
+        ],
+        "gloss": "Bir kişiyi soran soru sözcüğü.",
+        "id": "sns.sa.kids_daily.who.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.kids_daily.who",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.kids_daily.who.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Who is your new teacher?",
+        "translation": "Yeni öğretmeniniz kim?",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.kids_daily.who.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Who is your new teacher?",
+        "translation": "ใครเป็นครูคนใหม่ของเธอ",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.kids_daily.who.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Who is your new teacher?",
+        "translation": "Siapa guru barumu?",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.kids_daily.who.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Who is your new teacher?",
+        "translation": "Quem é seu novo professor?",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.kids_daily.who.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Who is your new teacher?",
+        "translation": "당신의 새 선생님은 누구입니까?",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.kids_daily.who.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Who is your new teacher?",
+        "translation": "新しい担任の先生は誰ですか。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.kids_daily.who.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Who is your new teacher?",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6ed18a07e813e30228bf3b14f7ab7d43a3a99da9268d35f1019ffe88969ea0de": [
+      {
+        "forms": [
+          "Cohabit",
+          "lts_cohabit"
+        ],
+        "id": "lex.sa.social.lts_cohabit",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Cohabit",
+        "pos": "verb",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.lts_cohabit.alt",
+          "sns.sa.social.lts_cohabit.alt.ja",
+          "sns.sa.social.lts_cohabit.alt.ko",
+          "sns.sa.social.lts_cohabit.alt.pt_br",
+          "sns.sa.social.lts_cohabit.alt.id",
+          "sns.sa.social.lts_cohabit.alt.th",
+          "sns.sa.social.lts_cohabit.alt.tr"
+        ]
+      },
+      {
+        "definition": "To live with a partner in the same home without being married to that person.",
+        "exampleIds": [
+          "exm.sa.social.lts_cohabit.1.1"
+        ],
+        "gloss": "To live with a partner in the same home without being married to that person.",
+        "id": "sns.sa.social.lts_cohabit.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.lts_cohabit",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "恋人や Restore：結婚していない事実。",
+        "exampleIds": [
+          "exm.sa.social.lts_cohabit.1.1.ja"
+        ],
+        "gloss": "結婚せずに同じ家号码。",
+        "id": "sns.sa.social.lts_cohabit.alt.ja",
+        "kind": "sense",
+        "language": "ja",
+        "lexemeId": "lex.sa.social.lts_cohabit",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "결혼하지 않은 연인이나 배우자와 한 집에서 함께 사는 것을 뜻한다. 반드시 법률상 혼인 상태일 필요는 없다.",
+        "exampleIds": [
+          "exm.sa.social.lts_cohabit.1.1.ko"
+        ],
+        "gloss": "결혼하지 않은 연인과 같은 집에 사는 것을 뜻한다.",
+        "id": "sns.sa.social.lts_cohabit.alt.ko",
+        "kind": "sense",
+        "language": "ko",
+        "lexemeId": "lex.sa.social.lts_cohabit",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "Verbo usado quando duas pessoas mantêm uma relação amorosa e moram juntas, embora não sejam casadas.",
+        "exampleIds": [
+          "exm.sa.social.lts_cohabit.1.1.pt_br"
+        ],
+        "gloss": "Viver com um parceiro na mesma casa sem ser casado com essa pessoa.",
+        "id": "sns.sa.social.lts_cohabit.alt.pt_br",
+        "kind": "sense",
+        "language": "pt_br",
+        "lexemeId": "lex.sa.social.lts_cohabit",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "Dipakai ketika seorang pasangan kekasih tinggal di satu rumah meskipun belum menikah. Keadaan ini tidak otomatis berarti mereka telah Pertaining atas hak dan kewajiban perkawinan.",
+        "exampleIds": [
+          "exm.sa.social.lts_cohabit.1.1.id"
+        ],
+        "gloss": "Tinggal bersama pasangan kekasih di satu rumah tanpa status perkawinan.",
+        "id": "sns.sa.social.lts_cohabit.alt.id",
+        "kind": "sense",
+        "language": "id",
+        "lexemeId": "lex.sa.social.lts_cohabit",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "อาศัยอยู่ในบ้านเดียวกันกับคู่โดยไม่ได้แต่งงานกัน โดยทั่วไปหมายถึงการอยู่ร่วมกันในฐานะคู่รัก",
+        "exampleIds": [
+          "exm.sa.social.lts_cohabit.1.1.th"
+        ],
+        "gloss": "อาศัยร่วมบ้านกับคู่โดยไม่ได้แต่งงาน",
+        "id": "sns.sa.social.lts_cohabit.alt.th",
+        "kind": "sense",
+        "language": "th",
+        "lexemeId": "lex.sa.social.lts_cohabit",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "Evli olmadığı bir sevgiliyle aynı evde yaşamak. Bu ifade, birlikte yaşamanın evlilikle aynı şey olmadığını belirtir.",
+        "exampleIds": [
+          "exm.sa.social.lts_cohabit.1.1.tr"
+        ],
+        "gloss": "Evlenmeden bir sevgiliyle aynı evde yaşamak.",
+        "id": "sns.sa.social.lts_cohabit.alt.tr",
+        "kind": "sense",
+        "language": "tr",
+        "lexemeId": "lex.sa.social.lts_cohabit",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.lts_cohabit.1.1.tr",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Sevgilisiyle üç yıldır birlikte yaşıyorlar ama evli değiller.",
+        "translationLanguage": "tr"
+      },
+      {
+        "id": "exm.sa.social.lts_cohabit.1.1.th",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "พวกเขาอาศัยร่วมบ้านกันมาสามปีแล้วแต่ยังคงมีบ้านคู่ของตัวเองไว้",
+        "translationLanguage": "th"
+      },
+      {
+        "id": "exm.sa.social.lts_cohabit.1.1.id",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Mereka sudah tinggal bersama selama tiga tahun dan tetap menyimpan dua rumah.",
+        "translationLanguage": "id"
+      },
+      {
+        "id": "exm.sa.social.lts_cohabit.1.1.pt_br",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "Eles coabitam há três anos e ainda mantêm duas casas.",
+        "translationLanguage": "pt_br"
+      },
+      {
+        "id": "exm.sa.social.lts_cohabit.1.1.ko",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "그들은 결혼하지 않은 채 삼 년 동안 함께 살았다.",
+        "translationLanguage": "ko"
+      },
+      {
+        "id": "exm.sa.social.lts_cohabit.1.1.ja",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "",
+        "translation": "二人は三年間一緒に暮らしているが、今も二つの家を維持している。",
+        "translationLanguage": "ja"
+      },
+      {
+        "id": "exm.sa.social.lts_cohabit.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "They have cohabited for three years and still keep two homes.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "6ed8919ce20490a5e3ad8630a4fab69475297abd07db73918dd5f36fcfaeb11b": [
+      {
+        "forms": [
+          "audio"
+        ],
+        "id": "lex.sa.en.audio.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "audio",
+        "pos": "noun",
+        "senseIds": [
+          "sns.sa.vi.audio.noun.1",
+          "sns.sa.en.audio-noun.alt"
+        ]
+      },
+      {
+        "definition": "Phần âm thanh của một nội dung.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "âm thanh",
+        "id": "sns.sa.vi.audio.noun.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.audio.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "definition": "Sound as part of a recording.",
+        "domain": [
+          "media"
+        ],
+        "exampleIds": [],
+        "gloss": "The sound part of a recording or pack.",
+        "id": "sns.sa.en.audio-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.audio.noun",
+        "pos": "noun",
+        "revision": 1
+      }
+    ],
+    "6ee0eb490ff832101cf82a3d387c35f29e4230be786978f7acf9e811febf6723": [
+      {
+        "forms": [
+          "set",
+          "sets",
+          "setting"
+        ],
+        "id": "lex.sa.en.set.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "set",
+        "morphology": {
+          "irregular": true,
+          "tense": {
+            "past": "set",
+            "pastParticiple": "set"
+          }
+        },
+        "pos": "verb",
+        "pronunciationIds": [
+          "prn.sa.en.set.verb.gb",
+          "prn.sa.en.set.verb.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.set.verb.place",
+          "sns.sa.en.set-verb.alt"
+        ]
+      },
+      {
+        "definition": "Đưa vật vào một vị trí.",
+        "exampleIds": [
+          "exm.sa.en.set-verb.more.01",
+          "exm.sa.en.set-verb.more.02"
+        ],
+        "gloss": "đặt",
+        "id": "sns.sa.en.set.verb.place",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.set.verb",
+        "pos": "verb",
+        "resourceIds": [
+          "res.sa.img.set-verb",
+          "res.sa.aud.set-verb",
+          "res.sa.lnk.set-verb",
+          "res.sa.vid.set-verb"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "To put something in a particular place or position.",
+        "gloss": "To put something in a particular place or position.",
+        "id": "sns.sa.en.set-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.set.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.set.verb.gb",
+        "ipa": "/set/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.set.verb.us",
+        "ipa": "/set/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      },
+      {
+        "forms": [
+          "set",
+          "sets"
+        ],
+        "id": "lex.sa.en.set.noun",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "set",
+        "pos": "noun",
+        "pronunciationIds": [
+          "prn.sa.en.set.noun.gb",
+          "prn.sa.en.set.noun.us"
+        ],
+        "senseIds": [
+          "sns.sa.en.set.noun.collection",
+          "sns.sa.en.set-noun.alt"
+        ]
+      },
+      {
+        "definition": "Nhóm các phần tử được xem là một đơn vị.",
+        "domain": [
+          "mathematics"
+        ],
+        "exampleIds": [
+          "exm.sa.en.set-noun.more.01",
+          "exm.sa.en.set-noun.more.02"
+        ],
+        "gloss": "tập hợp",
+        "id": "sns.sa.en.set.noun.collection",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.set.noun",
+        "pos": "noun",
+        "resourceIds": [
+          "res.sa.img.set-noun",
+          "res.sa.aud.set-noun",
+          "res.sa.lnk.set-noun",
+          "res.sa.vid.set-noun"
+        ],
+        "revision": 5
+      },
+      {
+        "definition": "A group of distinct things that belong together.",
+        "gloss": "A group of distinct things that belong together.",
+        "id": "sns.sa.en.set-noun.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.set.noun",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "prn.sa.en.set.noun.gb",
+        "ipa": "/set/",
+        "kind": "pronunciation",
+        "locale": "en-GB",
+        "notation": "ipa"
+      },
+      {
+        "id": "prn.sa.en.set.noun.us",
+        "ipa": "/set/",
+        "kind": "pronunciation",
+        "locale": "en-US",
+        "notation": "ipa"
+      }
+    ],
+    "6ef49cacb4c39f8fe29c3573df5bf9b82e8bc61270396824a830717c038583ec": [
+      {
+        "forms": [
+          "carry"
+        ],
+        "id": "lex.sa.en.carry.verb",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "carry",
+        "pos": "verb",
+        "senseIds": [
+          "sns.sa.vi.carry.verb.1",
+          "sns.sa.en.carry-verb.alt"
+        ]
+      },
+      {
+        "definition": "Chở hoặc gánh một vật.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [],
+        "gloss": "mang",
+        "id": "sns.sa.vi.carry.verb.1",
+        "kind": "sense",
+        "language": "vi",
+        "lexemeId": "lex.sa.en.carry.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "definition": "To bear or transport something.",
+        "domain": [
+          "general"
+        ],
+        "exampleIds": [
+          "exm.sns.sa.en.carry-verb.alt.1.1"
+        ],
+        "gloss": "To transport or bear something.",
+        "id": "sns.sa.en.carry-verb.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.en.carry.verb",
+        "pos": "verb",
+        "revision": 1
+      },
+      {
+        "id": "exm.sns.sa.en.carry-verb.alt.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "In 8 + 7 you write 5 and carry 1 to the next column.",
+        "translation": "Trong 8 + 7, bạn viết 5 và chuyển số nhớ 1 sang cột tiếp theo.",
+        "translationLanguage": "vi"
+      }
+    ]
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}
