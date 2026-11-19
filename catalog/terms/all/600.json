@@ -1,567 +1,565 @@
 {
   "items": [
     {
-      "definition": "The chips, data centers and energy supply that make training and running large models possible.",
-      "dictionaryId": "lex.sa.mind.compute_infrastructure",
-      "example": "",
+      "definition": "The refusal to accept a shared account, said in a way that does not change when the evidence appears.",
+      "dictionaryId": "lex.sa.mind.gd_denial",
+      "example": "The denial was said the same way every time, and the message did not change it.",
       "fieldId": "mind",
-      "id": "compute_infrastructure",
+      "id": "gd_denial",
       "lessonIds": [
-        "article_local_ai"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.local_ai"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Compute infrastructure"
+      "term": "Denial"
     },
     {
-      "definition": "The condition in which switching suppliers is so costly that dependence continues regardless of price or quality.",
-      "dictionaryId": "lex.sa.mind.vendor_lock_in",
-      "example": "",
+      "definition": "The move that turns on the person who holds the account, so that the person becomes the problem.",
+      "dictionaryId": "lex.sa.mind.gd_attack",
+      "example": "The attack moved the talk from the handover to her tone.",
       "fieldId": "mind",
-      "id": "vendor_lock_in",
+      "id": "gd_attack",
       "lessonIds": [
-        "article_local_ai"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.local_ai"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Vendor lock-in"
+      "term": "Attack"
     },
     {
-      "definition": "The network of hardware, software, standards and services that a technology depends on to function.",
-      "dictionaryId": "lex.sa.mind.ecosystem",
-      "example": "",
+      "definition": "The move that puts the two sides in the wrong places, crediting the harm to the person who suffered it.",
+      "dictionaryId": "lex.sa.mind.gd_reverse",
+      "example": "The reversal put the person who caused the harm in the place of the person who suffered it.",
       "fieldId": "mind",
-      "id": "ecosystem",
+      "id": "gd_reverse",
       "lessonIds": [
-        "article_local_ai"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.local_ai"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Ecosystem"
-    },
-    {
-      "definition": "The use of pressure, ambiguity or emotion to move a person into a decision that does not serve them, without giving a real choice.",
-      "dictionaryId": "lex.sa.mind.psy_manipulation",
-      "example": "It was manipulation: he offered her two options and made the wrong one impossible.",
-      "fieldId": "mind",
-      "id": "psy_manipulation",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Manipulation"
-    },
-    {
-      "definition": "An honest attempt to win agreement, in which the other person is free to say no.",
-      "dictionaryId": "lex.sa.mind.psy_persuasion",
-      "example": "That was persuasion, not pressure: he explained the plan and left the decision to her.",
-      "fieldId": "mind",
-      "id": "psy_persuasion",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Persuasion"
-    },
-    {
-      "definition": "A push applied to a decision, usually through time or emotion, that makes the choice harder to refuse.",
-      "dictionaryId": "lex.sa.mind.psy_pressure",
-      "example": "The deadline is pressure, but you can still say that you need more time.",
-      "fieldId": "mind",
-      "id": "psy_pressure",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Pressure"
-    },
-    {
-      "definition": "The removal of a real choice by force or by the threat of harm.",
-      "dictionaryId": "lex.sa.mind.psy_coercion",
-      "example": "Sign the form today or lose the job — that is coercion, not persuasion.",
-      "fieldId": "mind",
-      "id": "psy_coercion",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Coercion"
-    },
-    {
-      "definition": "A pressure tactic that presents the decisions of other people as evidence for your own.",
-      "dictionaryId": "lex.sa.mind.psy_social_proof",
-      "example": "The offer came with social proof: nine out of ten customers chose the larger plan.",
-      "fieldId": "mind",
-      "id": "psy_social_proof",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Social proof"
-    },
-    {
-      "definition": "A pressure tactic that puts the decision in the hands of an expert, real or claimed.",
-      "dictionaryId": "lex.sa.mind.psy_authority",
-      "example": "It used authority: the technician said the part was safe, and showed no manual.",
-      "fieldId": "mind",
-      "id": "psy_authority",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Authority"
-    },
-    {
-      "definition": "A pressure tactic that claims the supply is limited, so that waiting looks like a loss.",
-      "dictionaryId": "lex.sa.mind.psy_scarcity",
-      "example": "The scarcity was easy to check: the shelf held six, not two.",
-      "fieldId": "mind",
-      "id": "psy_scarcity",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Scarcity"
-    },
-    {
-      "definition": "A pressure tactic that shortens the time available for checking and deciding.",
-      "dictionaryId": "lex.sa.mind.psy_urgency",
-      "example": "The urgency was built to stop a phone call: sign tonight or the price changes.",
-      "fieldId": "mind",
-      "id": "psy_urgency",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Urgency"
-    },
-    {
-      "definition": "A pressure tactic that raises the cost of a slow decision, so that speed feels like safety.",
-      "dictionaryId": "lex.sa.mind.psy_fear",
-      "example": "The fear in the message was plain: if you wait, you are the one who pays.",
-      "fieldId": "mind",
-      "id": "psy_fear",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Fear"
-    },
-    {
-      "definition": "Money, time or effort that has already been spent, and which is used as a reason to continue.",
-      "dictionaryId": "lex.sa.mind.psy_sunk_cost",
-      "example": "The sunk cost of the training was the argument for staying in the job.",
-      "fieldId": "mind",
-      "id": "psy_sunk_cost",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Sunk cost"
-    },
-    {
-      "definition": "Attention, affection and gifts given far faster and further than the situation deserves.",
-      "dictionaryId": "lex.sa.mind.psy_love_bombing",
-      "example": "The love bombing was hard to refuse: every message came with a declaration.",
-      "fieldId": "mind",
-      "id": "psy_love_bombing",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Love bombing"
-    },
-    {
-      "definition": "A repeated attack on a person's memory and judgement, so that they stop trusting what they remember.",
-      "dictionaryId": "lex.sa.mind.psy_gaslighting",
-      "example": "It was gaslighting: she was told her own account of the meeting was wrong.",
-      "fieldId": "mind",
-      "id": "psy_gaslighting",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Gaslighting"
-    },
-    {
-      "definition": "A small, easy agreement that is used later as the reason for a much larger one.",
-      "dictionaryId": "lex.sa.mind.psy_foot_in_the_door",
-      "example": "The free trial was the foot in the door: the yearly contract came next.",
-      "fieldId": "mind",
-      "id": "psy_foot_in_the_door",
-      "lessonIds": [
-        "article_psychological_manipulation"
-      ],
-      "packs": [
-        "knw.mind.manipulation"
-      ],
-      "term": "Foot in the door"
+      "term": "Reverse victim and offender"
     },
     {
       "conflict": true,
-      "definition": "Being cut off from other people without choosing it, and without the comfort that solitude brings.",
-      "dictionaryId": "lex.sa.culture.isolation",
-      "example": "Working from home every day turned into isolation by February.",
+      "definition": "Turning a question back on the person who asked it, so that the original question is never answered.",
+      "dictionaryId": "lex.sa.mind.cs_deflection",
+      "example": "The deflection worked once, and I still had not answered what was wrong with the drawing.",
       "fieldId": "mind",
-      "id": "psy_isolation",
+      "id": "gd_deflection",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Isolation"
+      "term": "Deflection"
     },
     {
-      "definition": "Pressure strong enough to take away a person's freedom to decide, in the sense used in law and in medical consent.",
-      "dictionaryId": "lex.sa.mind.psy_undue_influence",
-      "example": "The form said the signature was voluntary; the manager's tone made that undue influence.",
+      "definition": "Putting your own act on the other person, and calling it the other person's character.",
+      "dictionaryId": "lex.sa.mind.gd_projection",
+      "example": "It was projection: the person who had been aggressive called the other one aggressive.",
       "fieldId": "mind",
-      "id": "psy_undue_influence",
+      "id": "gd_projection",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Undue influence"
+      "term": "Projection"
     },
     {
-      "definition": "One move made to push a decision, such as a deadline, a discount or a display of authority.",
-      "dictionaryId": "lex.sa.mind.psy_pressure_tactic",
-      "example": "The second call was a pressure tactic: it moved the deadline by one hour.",
+      "definition": "Bringing a third person into a dispute between two, so that the two cannot settle it themselves.",
+      "dictionaryId": "lex.sa.mind.gd_triangulation",
+      "example": "Triangulation brought a third person into a dispute between two people.",
       "fieldId": "mind",
-      "id": "psy_pressure_tactic",
+      "id": "gd_triangulation",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Pressure tactic"
+      "term": "Triangulation"
     },
     {
-      "conflict": true,
-      "definition": "Everyone agreeing freely to something, every time. A clear no is a complete answer that needs no follow-up.",
-      "dictionaryId": "lex.sa.social.consent",
-      "example": "Consent has to be clear on both sides, and a no is always a complete answer.",
+      "definition": "The written record that keeps a shared account alive when memory is attacked.",
+      "dictionaryId": "lex.sa.mind.gd_documentation",
+      "example": "The documentation was a handover note, a date and a message.",
       "fieldId": "mind",
-      "id": "psy_consent",
+      "id": "gd_documentation",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Consent"
+      "term": "Documentation"
     },
     {
-      "conflict": true,
-      "definition": "A line you draw around your time, energy, body or values, and say out loud so other people can respect it.",
-      "dictionaryId": "lex.sa.social.boundary",
-      "example": "Her boundary was simple: no phone calls after ten.",
+      "definition": "The small set of fixed sentences used to rewrite an account, at work and at home.",
+      "dictionaryId": "lex.sa.mind.gd_gaslighting_vocabulary",
+      "example": "The gaslighting vocabulary is short: you are misremembering, I never said that.",
       "fieldId": "mind",
-      "id": "psy_boundary",
+      "id": "gd_gaslighting_vocabulary",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Boundary"
+      "term": "Gaslighting vocabulary"
     },
     {
-      "definition": "A pattern in which one person keeps control over another by limiting their money, their time or their contact with other people.",
-      "dictionaryId": "lex.sa.mind.psy_coercive_control",
-      "example": "The pattern of coercive control is recognised by what it restricts, not by what it says.",
-      "fieldId": "mind",
-      "id": "psy_coercive_control",
+      "definition": "One only; not multiple.",
+      "dictionaryId": "lex.sa.en.single.adjective",
+      "example": "A single file is a gallery of one.",
+      "fieldId": "social",
+      "id": "lts_single",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Coercive control"
+      "term": "single"
     },
     {
-      "definition": "Agreement produced not by open discussion but by arranging the information environment so one conclusion appears natural.",
-      "dictionaryId": "lex.sa.mind.manufactured_consent",
-      "example": "",
-      "fieldId": "mind",
-      "id": "manufactured_consent",
+      "definition": "The situation of being without a romantic partner, seen as a general condition rather than one person's story.",
+      "dictionaryId": "lex.sa.social.lts_singleness",
+      "example": "Long-term singleness has its own vocabulary, and its own pressures.",
+      "fieldId": "social",
+      "id": "lts_singleness",
       "lessonIds": [
-        "article_manufactured_consent"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.manufactured_consent"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Manufactured consent"
+      "term": "Singleness"
     },
     {
-      "definition": "The power to decide which topics the public thinks about, exercised through selection and emphasis in coverage.",
-      "dictionaryId": "lex.sa.mind.agenda_setting",
-      "example": "",
-      "fieldId": "mind",
-      "id": "agenda_setting",
+      "definition": "Describing a person who has no romantic partner, without saying whether that is a choice.",
+      "dictionaryId": "lex.sa.social.lts_unpartnered",
+      "example": "He said he was unpartnered, and he said it without any apology in his voice.",
+      "fieldId": "social",
+      "id": "lts_unpartnered",
       "lessonIds": [
-        "article_manufactured_consent"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.manufactured_consent"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Agenda-setting"
+      "term": "Unpartnered"
     },
     {
-      "definition": "Influence over how a topic is understood: which frames, words and experts define it.",
-      "dictionaryId": "lex.sa.mind.opinion_shaping",
-      "example": "",
-      "fieldId": "mind",
-      "id": "opinion_shaping",
+      "definition": "The repeated sense that a status such as being single is a condition to be explained, corrected or ended.",
+      "dictionaryId": "lex.sa.social.lts_social_pressure",
+      "example": "The social pressure arrives in small questions, not in one cruel remark.",
+      "fieldId": "social",
+      "id": "lts_social_pressure",
       "lessonIds": [
-        "article_manufactured_consent"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.manufactured_consent"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Opinion shaping"
+      "term": "Social pressure"
     },
     {
-      "definition": "Influence achieved through attraction and information rather than force or payment.",
-      "dictionaryId": "lex.sa.mind.soft_power",
-      "example": "",
-      "fieldId": "mind",
-      "id": "soft_power",
+      "definition": "A mark of disgrace that a group attaches to a status, so that the status itself becomes hard to show.",
+      "dictionaryId": "lex.sa.social.lts_stigma",
+      "example": "In some offices there is a stigma against a long single life, and in others there is none.",
+      "fieldId": "social",
+      "id": "lts_stigma",
       "lessonIds": [
-        "article_manufactured_consent"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.manufactured_consent"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Soft power"
+      "term": "Stigma"
     },
     {
-      "definition": "Withholding one's own views to avoid social, professional or legal consequences.",
-      "dictionaryId": "lex.sa.mind.self_censorship",
-      "example": "",
-      "fieldId": "mind",
-      "id": "self_censorship",
+      "definition": "A settled sense that a situation is acceptable, without the need for it to be improved first.",
+      "dictionaryId": "lex.sa.social.lts_contentment",
+      "example": "Her contentment with the arrangement was visible in the way she answered people.",
+      "fieldId": "social",
+      "id": "lts_contentment",
       "lessonIds": [
-        "article_manufactured_consent"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.manufactured_consent"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Self-censorship"
+      "term": "Contentment"
     },
     {
-      "definition": "The tendency of a cohesive group to converge on one view and suppress doubt in order to preserve harmony.",
-      "dictionaryId": "lex.sa.mind.groupthink",
-      "example": "",
-      "fieldId": "mind",
-      "id": "groupthink",
+      "definition": "Describing a person who has a romantic relationship, whether or not they live with the other person.",
+      "dictionaryId": "lex.sa.social.lts_partnered",
+      "example": "She is partnered, and her partner works in another city.",
+      "fieldId": "social",
+      "id": "lts_partnered",
       "lessonIds": [
-        "article_manufactured_consent"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.manufactured_consent"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Groupthink"
+      "term": "Partnered"
     },
     {
-      "definition": "A statement that fixes the exact meaning of a word, so that everybody uses it the same way.",
-      "dictionaryId": "lex.sa.mind.mathlit_definition",
-      "example": "The definition of a tolerance is written at the top of the drawing, and every measurement follows it.",
-      "fieldId": "mind",
-      "id": "mathlit_definition",
+      "definition": "To live with a partner in the same home without being married to that person.",
+      "dictionaryId": "lex.sa.social.lts_cohabit",
+      "example": "They have cohabited for three years and still keep two homes.",
+      "fieldId": "social",
+      "id": "lts_cohabit",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Definition"
+      "term": "Cohabit"
     },
     {
-      "definition": "A statement that a system takes as true and never proves for itself.",
-      "dictionaryId": "lex.sa.mind.mathlit_axiom",
-      "example": "The axioms are the starting points of the proof, and everything after them is derived.",
-      "fieldId": "mind",
-      "id": "mathlit_axiom",
+      "definition": "Describing a person whose marriage has ended legally.",
+      "dictionaryId": "lex.sa.social.lts_divorced",
+      "example": "He is divorced, and the children spend the week with him.",
+      "fieldId": "social",
+      "id": "lts_divorced",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Axiom"
+      "term": "Divorced"
     },
     {
-      "definition": "The step that carries you from what is already accepted to what follows from it.",
-      "dictionaryId": "lex.sa.mind.mathlit_deduction",
-      "example": "By logical deduction, the conclusion follows from the premises, and nothing else is needed.",
-      "fieldId": "mind",
-      "id": "mathlit_deduction",
+      "definition": "Describing a person whose spouse has died.",
+      "dictionaryId": "lex.sa.social.lts_widowed",
+      "example": "She is widowed, and she still keeps the shared photographs on the wall.",
+      "fieldId": "social",
+      "id": "lts_widowed",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Logical deduction"
+      "term": "Widowed"
     },
     {
-      "definition": "A working idea of how something behaves, kept by the writer and never written as a rule.",
-      "dictionaryId": "lex.sa.mind.mathlit_model",
-      "example": "The writer has a model of how a nervous engineer behaves, and every scene is built on it.",
-      "fieldId": "mind",
-      "id": "mathlit_model",
+      "definition": "Describing an ending in which the two people settle the practical matters and stay on speaking terms.",
+      "dictionaryId": "lex.sa.social.lts_amicable",
+      "example": "The separation was amicable, so the flat was sold without a lawyer's fight.",
+      "fieldId": "social",
+      "id": "lts_amicable",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Model"
+      "term": "Amicable"
     },
     {
-      "definition": "The written record of a reasoning, in which every line follows from the lines above it.",
-      "dictionaryId": "lex.sa.mind.mathlit_proof",
-      "example": "The proof is short, and any reader can check it line by line.",
-      "fieldId": "mind",
-      "id": "mathlit_proof",
+      "definition": "Being single because that is the arrangement the person has chosen.",
+      "dictionaryId": "lex.sa.social.lts_voluntary_singleness",
+      "example": "He calls it voluntary singleness, and he means it as a decision rather than a consolation.",
+      "fieldId": "social",
+      "id": "lts_voluntary_singleness",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Proof"
+      "term": "Voluntary singleness"
     },
     {
-      "definition": "A statement that an argument starts from and takes as given.",
-      "dictionaryId": "lex.sa.mind.mathlit_premise",
-      "example": "The premise is wrong, so the conclusion is right only in the proof.",
-      "fieldId": "mind",
-      "id": "mathlit_premise",
+      "definition": "Being single because the wish for a partner has not been met, rather than by choice.",
+      "dictionaryId": "lex.sa.social.lts_involuntary_singleness",
+      "example": "She calls it involuntary singleness, and she has stopped apologising for it.",
+      "fieldId": "social",
+      "id": "lts_involuntary_singleness",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Premise"
+      "term": "Involuntary singleness"
     },
     {
-      "definition": "The property of a set of axioms that do not contradict one another.",
-      "dictionaryId": "lex.sa.mind.mathlit_consistency",
-      "example": "The two rules cannot both be true, so the set of rules is not consistent.",
-      "fieldId": "mind",
-      "id": "mathlit_consistency",
+      "definition": "The state of being open to a relationship and willing to say yes to the right one.",
+      "dictionaryId": "lex.sa.social.lts_romantic_availability",
+      "example": "His romantic availability changed when he moved to another city, and he says so openly.",
+      "fieldId": "social",
+      "id": "lts_romantic_availability",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Consistency"
+      "term": "Romantic availability"
     },
     {
-      "definition": "The quality of a situation that could happen, even when it did not.",
-      "dictionaryId": "lex.sa.mind.mathlit_plausibility",
-      "example": "The story has plausibility, and the details of the rule are still missing.",
-      "fieldId": "mind",
-      "id": "mathlit_plausibility",
+      "definition": "A metaphor for the meeting of people who are looking for a partner.",
+      "dictionaryId": "lex.sa.social.dm_dating_market",
+      "example": "They talked about the dating market for an hour without saying anything about either of them.",
+      "fieldId": "social",
+      "id": "dm_dating_market",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.dating_market"
       ],
-      "term": "Plausibility"
+      "term": "dating market"
     },
     {
-      "definition": "The point of view a story is told from, which decides what the reader can and cannot see.",
-      "dictionaryId": "lex.sa.mind.mathlit_perspective",
-      "example": "From the perspective of the night engineer, the quiet building is the whole story.",
-      "fieldId": "mind",
-      "id": "mathlit_perspective",
+      "definition": "The group of people who are available to be chosen, counted as a group and not as individuals.",
+      "dictionaryId": "lex.sa.social.dm_supply",
+      "example": "The supply was small where she lived, and the same people kept appearing.",
+      "fieldId": "social",
+      "id": "dm_supply",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.dating_market"
       ],
-      "term": "Perspective"
+      "term": "supply"
     },
     {
-      "definition": "A place in a text where two meanings are held at once and the reader must choose one.",
-      "dictionaryId": "lex.sa.mind.mathlit_ambiguity",
-      "example": "The ambiguity in the last line is deliberate, and the reader has to settle it.",
-      "fieldId": "mind",
-      "id": "mathlit_ambiguity",
+      "definition": "The group of wishes that the people looking are trying to satisfy.",
+      "dictionaryId": "lex.sa.social.dm_demand",
+      "example": "The demand was for somebody who wanted a quiet life, and that changed who she met.",
+      "fieldId": "social",
+      "id": "dm_demand",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.dating_market"
       ],
-      "term": "Ambiguity"
+      "term": "demand"
     },
     {
-      "definition": "The meaning a reader gives a result in their own work once they have understood it.",
-      "dictionaryId": "lex.sa.mind.mathlit_interpretation",
-      "example": "The interpretation is the last step: the number is correct, and now it has to mean something on the night shift.",
-      "fieldId": "mind",
-      "id": "mathlit_interpretation",
+      "definition": "The treatment of a person as a product that can be valued and exchanged.",
+      "dictionaryId": "lex.sa.social.dm_commodification",
+      "example": "The whole conversation turned her into a commodity, and she left the table.",
+      "fieldId": "social",
+      "id": "dm_commodification",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.social.dating_market"
       ],
-      "term": "Interpretation"
+      "term": "commodification"
     },
     {
-      "definition": "Using external tools to store, compute or retrieve information so that your own mind does not have to.",
-      "dictionaryId": "lex.sa.mind.cognitive_offloading",
-      "example": "",
-      "fieldId": "mind",
-      "id": "cognitive_offloading",
+      "definition": "Acting in a planned way to produce a result, rather than acting in the way that comes naturally.",
+      "dictionaryId": "lex.sa.social.dm_strategic_behaviour",
+      "example": "Strategic behaviour won him the interview; it did not make him better at the work.",
+      "fieldId": "social",
+      "id": "dm_strategic_behaviour",
       "lessonIds": [
-        "article_outsourced_brain"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.outsourced_brain"
+        "knw.social.dating_market"
       ],
-      "term": "Cognitive offloading"
+      "term": "strategic behaviour"
+    },
+    {
+      "definition": "The number the market metaphor assigns to a person, as if it could be measured and compared.",
+      "dictionaryId": "lex.sa.social.dm_mate_value",
+      "example": "He talked about his mate value instead of asking what she wanted.",
+      "fieldId": "social",
+      "id": "dm_mate_value",
+      "lessonIds": [
+        "article_dating_market"
+      ],
+      "packs": [
+        "knw.social.dating_market"
+      ],
+      "term": "mate value"
+    },
+    {
+      "definition": "How many potential partners a person can actually meet, given where they live and how their life is arranged.",
+      "dictionaryId": "lex.sa.social.dm_market_thickness",
+      "example": "A thin market was the real problem: she kept meeting the same people.",
+      "fieldId": "social",
+      "id": "dm_market_thickness",
+      "lessonIds": [
+        "article_dating_market"
+      ],
+      "packs": [
+        "knw.social.dating_market"
+      ],
+      "term": "market thickness"
+    },
+    {
+      "definition": "The capacity to say no without losing the chance of the thing you want.",
+      "dictionaryId": "lex.sa.social.dm_bargaining_power",
+      "example": "Her bargaining power came from having other plans that week.",
+      "fieldId": "social",
+      "id": "dm_bargaining_power",
+      "lessonIds": [
+        "article_dating_market"
+      ],
+      "packs": [
+        "knw.social.dating_market"
+      ],
+      "term": "bargaining power"
+    },
+    {
+      "definition": "The state in which too many options make the choosing harder instead of easier.",
+      "dictionaryId": "lex.sa.social.dm_choice_overload",
+      "example": "Too many profiles, and the choosing turned into work rather than pleasure.",
+      "fieldId": "social",
+      "id": "dm_choice_overload",
+      "lessonIds": [
+        "article_dating_market"
+      ],
+      "packs": [
+        "knw.social.dating_market"
+      ],
+      "term": "choice overload"
+    },
+    {
+      "definition": "The effort a person pays to choose among the options available.",
+      "dictionaryId": "lex.sa.social.dm_price_of_choice",
+      "example": "The price of choice was an evening spent reading instead of meeting anybody.",
+      "fieldId": "social",
+      "id": "dm_price_of_choice",
+      "lessonIds": [
+        "article_dating_market"
+      ],
+      "packs": [
+        "knw.social.dating_market"
+      ],
+      "term": "price of choice"
+    },
+    {
+      "definition": "Pairing with a person who is similar in background, position or values.",
+      "dictionaryId": "lex.sa.social.dm_homogamy",
+      "example": "Homogamy is the word for the couple who grew up in the same kind of city.",
+      "fieldId": "social",
+      "id": "dm_homogamy",
+      "lessonIds": [
+        "article_dating_market"
+      ],
+      "packs": [
+        "knw.social.dating_market"
+      ],
+      "term": "homogamy"
+    },
+    {
+      "definition": "Pairing with a person who has less of a valued resource, such as income, education or position, than the chooser.",
+      "dictionaryId": "lex.sa.social.dm_hypogamy",
+      "example": "When one partner earns more, the pairing is hypogamy from one side and hypergamy from the other.",
+      "fieldId": "social",
+      "id": "dm_hypogamy",
+      "lessonIds": [
+        "article_dating_market"
+      ],
+      "packs": [
+        "knw.social.dating_market"
+      ],
+      "term": "hypogamy"
+    },
+    {
+      "definition": "Pairing with a person who has more of a valued resource, such as income, education or position, than the chooser.",
+      "dictionaryId": "lex.sa.social.dm_hypergamy",
+      "example": "Hypergamy names the direction of the pairing, and the direction can be read from either side.",
+      "fieldId": "social",
+      "id": "dm_hypergamy",
+      "lessonIds": [
+        "article_dating_market"
+      ],
+      "packs": [
+        "knw.social.dating_market"
+      ],
+      "term": "hypergamy"
+    },
+    {
+      "definition": "The ability to stay with a strong feeling and still choose what you do next.",
+      "dictionaryId": "lex.sa.social.er_emotional_regulation",
+      "example": "Her emotional regulation showed in the pause before she answered.",
+      "fieldId": "social",
+      "id": "er_emotional_regulation",
+      "lessonIds": [
+        "article_emotional_regulation_relationships"
+      ],
+      "packs": [
+        "knw.social.emotional_regulation_relationships"
+      ],
+      "term": "emotional regulation"
+    },
+    {
+      "definition": "The range of feeling intensity in which a person can hold the feeling and still think and speak plainly.",
+      "dictionaryId": "lex.sa.social.er_window_of_tolerance",
+      "example": "Outside his window of tolerance, every comment sounded like an accusation.",
+      "fieldId": "social",
+      "id": "er_window_of_tolerance",
+      "lessonIds": [
+        "article_emotional_regulation_relationships"
+      ],
+      "packs": [
+        "knw.social.emotional_regulation_relationships"
+      ],
+      "term": "window of tolerance"
+    },
+    {
+      "definition": "The set of rules a relationship runs on although nobody has written them down or said them aloud.",
+      "dictionaryId": "lex.sa.social.er_unspoken_contract",
+      "example": "Their unspoken contract said that the person who plans also drives.",
+      "fieldId": "social",
+      "id": "er_unspoken_contract",
+      "lessonIds": [
+        "article_emotional_regulation_relationships"
+      ],
+      "packs": [
+        "knw.social.emotional_regulation_relationships"
+      ],
+      "term": "unspoken contract"
+    },
+    {
+      "definition": "A belief about what will happen if you say nothing and do nothing about it.",
+      "dictionaryId": "lex.sa.social.er_expectation",
+      "example": "Her expectation was that a refusal would come with an alternative.",
+      "fieldId": "social",
+      "id": "er_expectation",
+      "lessonIds": [
+        "article_emotional_regulation_relationships"
+      ],
+      "packs": [
+        "knw.social.emotional_regulation_relationships"
+      ],
+      "term": "expectation"
+    },
+    {
+      "definition": "The raised state of the body that comes with a strong feeling, and that the other person can see.",
+      "dictionaryId": "lex.sa.social.er_activation",
+      "example": "Her activation was visible in the way she held the door open for too long.",
+      "fieldId": "social",
+      "id": "er_activation",
+      "lessonIds": [
+        "article_emotional_regulation_relationships"
+      ],
+      "packs": [
+        "knw.social.emotional_regulation_relationships"
+      ],
+      "term": "activation"
     }
   ],
   "nextCursor": "640",

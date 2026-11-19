@@ -1,570 +1,575 @@
 {
   "items": [
     {
-      "definition": "A formal conversation with your manager about your work and how you are doing, usually held before a pay review.",
-      "dictionaryId": "lex.sa.work.performance_review",
-      "example": "I had a strong performance review, and I want to use it in my pay case.",
-      "fieldId": "work",
-      "id": "performance_review",
+      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
+      "dictionaryId": "lex.sa.daily_skills.serving_size",
+      "example": "One serving is 30 g, which is much less than the bowl I had.",
+      "fieldId": "daily_skills",
+      "id": "serving_size",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_food_labels"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.foodlabels"
       ],
-      "term": "Performance review"
+      "term": "Serving size"
     },
     {
-      "definition": "The range a role is paid within, with a minimum, a midpoint and a maximum.",
-      "dictionaryId": "lex.sa.work.pay_band",
-      "example": "My band goes from $1,400 to $1,900, and I am currently below the midpoint.",
-      "fieldId": "work",
-      "id": "pay_band",
+      "definition": "A substance in food that can cause a serious allergic reaction in some people. There are fourteen that have to be declared.",
+      "dictionaryId": "lex.sa.daily_skills.allergen",
+      "example": "The allergen box says it contains peanuts and soya.",
+      "fieldId": "daily_skills",
+      "id": "allergen",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_food_labels"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.foodlabels"
       ],
-      "term": "Pay band"
+      "term": "Allergen"
     },
     {
-      "definition": "The middle figure of a pay band, usually the point where an employee is expected to be fully competent.",
-      "dictionaryId": "lex.sa.work.midpoint",
-      "example": "I am about $120 below the midpoint for my band.",
-      "fieldId": "work",
-      "id": "midpoint",
+      "definition": "The unbroken path a chilled product follows from the factory to your fridge. If the chain breaks, the use-by date stops meaning anything.",
+      "dictionaryId": "lex.sa.daily_skills.cold_chain",
+      "example": "The cold chain was broken, so the date on the pack means nothing.",
+      "fieldId": "daily_skills",
+      "id": "cold_chain",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_food_labels"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.foodlabels"
       ],
-      "term": "Midpoint"
+      "term": "Cold chain"
     },
     {
-      "definition": "A figure used to compare your pay with the market rate for the same role.",
-      "dictionaryId": "lex.sa.work.benchmark",
-      "example": "The benchmark for this role in Hanoi is around $1,750.",
-      "fieldId": "work",
-      "id": "benchmark",
+      "definition": "To put something that has thawed back into the freezer. For meat and fish this is a safety question, not a quality one.",
+      "dictionaryId": "lex.sa.daily_skills.refreeze",
+      "example": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+      "fieldId": "daily_skills",
+      "id": "refreeze",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_food_labels"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.foodlabels"
       ],
-      "term": "Benchmark"
+      "term": "Refreeze"
     },
     {
-      "definition": "Everything you receive from a job: salary, bonus, allowances and benefits, not only the monthly pay.",
-      "dictionaryId": "lex.sa.work.total_compensation",
-      "example": "My total compensation is $1,650, including the transport allowance.",
-      "fieldId": "work",
-      "id": "total_compensation",
+      "definition": "The flow of electricity, measured in amperes (A).",
+      "dictionaryId": "lex.sa.daily_skills.elec_electric_current",
+      "example": "The current went back through the earth conductor instead of through the motor.",
+      "fieldId": "daily_skills",
+      "id": "elec_electric_current",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_pump_electrical_safety",
+        "article_water_heater_safety"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.pump_electrical_safety",
+        "knw.daily.water_heater_safety"
       ],
-      "term": "Total compensation"
+      "term": "Electric current"
     },
     {
-      "definition": "A payment that depends on results, usually agreed at the start of the year.",
-      "dictionaryId": "lex.sa.work.bonus",
-      "example": "I asked whether a higher bonus could work instead of a permanent increase.",
-      "fieldId": "work",
-      "id": "bonus",
+      "definition": "A machine that moves water from one place to another.",
+      "dictionaryId": "lex.sa.daily_skills.pump_pump",
+      "example": "The pump in the sump moves the water up into the tank.",
+      "fieldId": "daily_skills",
+      "id": "pump_pump",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_pump_electrical_safety"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.pump_electrical_safety"
       ],
-      "term": "Bonus"
+      "term": "Pump"
     },
     {
-      "definition": "A single increase to pay that does not change your base salary.",
-      "dictionaryId": "lex.sa.work.one_off_adjustment",
-      "example": "They offered a one-off adjustment of $150 for this year.",
-      "fieldId": "work",
-      "id": "one_off_adjustment",
+      "definition": "A pump whose motor is sealed in a case that works under water.",
+      "dictionaryId": "lex.sa.daily_skills.pump_submersible_pump",
+      "example": "A submersible pump hangs on a cable inside the well.",
+      "fieldId": "daily_skills",
+      "id": "pump_submersible_pump",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_pump_electrical_safety"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.pump_electrical_safety"
       ],
-      "term": "One-off adjustment"
+      "term": "Submersible pump"
     },
     {
-      "definition": "An increase given to bring pay in line with the market, framed as a fix rather than a reward.",
-      "dictionaryId": "lex.sa.work.market_correction",
-      "example": "The company called it a market correction, which is still a pay rise.",
-      "fieldId": "work",
-      "id": "market_correction",
+      "definition": "The material around the live part of a cable that keeps the current inside it.",
+      "dictionaryId": "lex.sa.daily_skills.elec_insulation",
+      "example": "The insulation on the cable is cracked where it passes over the edge of the pit.",
+      "fieldId": "daily_skills",
+      "id": "elec_insulation",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_pump_electrical_safety",
+        "article_water_heater_safety"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.pump_electrical_safety",
+        "knw.daily.water_heater_safety"
       ],
-      "term": "Market correction"
+      "term": "Insulation"
     },
     {
-      "definition": "A change of level within the same job, which usually comes with a pay band change.",
-      "dictionaryId": "lex.sa.work.regrade",
-      "example": "They suggested a regrade to senior analyst.",
-      "fieldId": "work",
-      "id": "regrade",
+      "definition": "Current that escapes from the live part of a cable or a pump through damaged insulation.",
+      "dictionaryId": "lex.sa.daily_skills.elec_leakage_current",
+      "example": "The electrician measured the leakage current before he ran the pump again.",
+      "fieldId": "daily_skills",
+      "id": "elec_leakage_current",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_pump_electrical_safety",
+        "article_water_heater_safety"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.pump_electrical_safety",
+        "knw.daily.water_heater_safety"
       ],
-      "term": "Regrade"
+      "term": "Leakage current"
     },
     {
-      "definition": "A payment made to an employee when a job ends, often calculated by years of service.",
-      "dictionaryId": "lex.sa.work.severance",
-      "example": "The package included three months of salary as severance.",
-      "fieldId": "work",
-      "id": "severance",
+      "definition": "A deep hole dug in the ground that holds the water a pump lifts.",
+      "dictionaryId": "lex.sa.daily_skills.pump_well",
+      "example": "The pump hangs ten metres down inside the well.",
+      "fieldId": "daily_skills",
+      "id": "pump_well",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_pump_electrical_safety"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.pump_electrical_safety"
       ],
-      "term": "Severance"
+      "term": "Well"
     },
     {
-      "definition": "To respond to an offer with a different figure, as in a negotiation.",
-      "dictionaryId": "lex.sa.work.counter",
-      "example": "They offered $1,650, so I countered with $1,800.",
-      "fieldId": "work",
-      "id": "counter",
+      "definition": "A pit that collects water from a floor or a basement so that a pump can lift it.",
+      "dictionaryId": "lex.sa.daily_skills.pump_sump",
+      "example": "The sump in the basement pit fills when the floor drain backs up.",
+      "fieldId": "daily_skills",
+      "id": "pump_sump",
       "lessonIds": [
-        "article_ask_for_raise"
+        "article_pump_electrical_safety"
       ],
       "packs": [
-        "knw.work.raise"
+        "knw.daily.pump_electrical_safety"
       ],
-      "term": "Counter"
+      "term": "Sump"
     },
     {
-      "definition": "The first number of a negotiation, which every later number is measured against.",
-      "dictionaryId": "lex.sa.work.dpn_anchoring",
-      "example": "The seller opened at 120,000, and every figure after that was measured against it.",
-      "fieldId": "work",
-      "id": "dpn_anchoring",
+      "definition": "The green-and-yellow wire that connects the metal parts of an installation to the earth.",
+      "dictionaryId": "lex.sa.daily_skills.pump_earth_conductor",
+      "example": "The earth conductor was cut by a drill during the renovation.",
+      "fieldId": "daily_skills",
+      "id": "pump_earth_conductor",
       "lessonIds": [
-        "article_dark_psychology_negotiation"
+        "article_pump_electrical_safety"
       ],
       "packs": [
-        "knw.work.dark_psychology_negotiation"
+        "knw.daily.pump_electrical_safety"
       ],
-      "term": "Anchoring"
+      "term": "Earth conductor"
+    },
+    {
+      "definition": "The whole arrangement that connects the metal parts of an installation to the earth, so that a fault current has a safe way back.",
+      "dictionaryId": "lex.sa.daily_skills.elec_earthing",
+      "example": "The earthing of the pump was checked when the board was replaced.",
+      "fieldId": "daily_skills",
+      "id": "elec_earthing",
+      "lessonIds": [
+        "article_pump_electrical_safety",
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety",
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Earthing"
+    },
+    {
+      "definition": "A device that compares the current going out with the current coming back, and opens the circuit when they differ.",
+      "dictionaryId": "lex.sa.daily_skills.elec_residual_current_device_rcd",
+      "example": "The residual-current device is the wide switch on the board with the test button.",
+      "fieldId": "daily_skills",
+      "id": "elec_residual_current_device_rcd",
+      "lessonIds": [
+        "article_pump_electrical_safety",
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety",
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Residual-current device (RCD)"
+    },
+    {
+      "definition": "The IP code on the nameplate that says how well the casing keeps out solid objects and water.",
+      "dictionaryId": "lex.sa.daily_skills.pump_ip_rating",
+      "example": "The nameplate of this pump carries an ingress protection rating of IP68.",
+      "fieldId": "daily_skills",
+      "id": "pump_ip_rating",
+      "lessonIds": [
+        "article_pump_electrical_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety"
+      ],
+      "term": "Ingress protection rating"
+    },
+    {
+      "definition": "A switch on a float that starts or stops the pump when the water level rises or falls.",
+      "dictionaryId": "lex.sa.daily_skills.pump_float_switch",
+      "example": "The float switch in the tank stops the pump when the tank is empty.",
+      "fieldId": "daily_skills",
+      "id": "pump_float_switch",
+      "lessonIds": [
+        "article_pump_electrical_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety"
+      ],
+      "term": "Float switch"
+    },
+    {
+      "definition": "The pump turning without water around it, so that the motor has nothing to cool it.",
+      "dictionaryId": "lex.sa.daily_skills.pump_dry_run",
+      "example": "A dry run heats the motor of a submersible pump.",
+      "fieldId": "daily_skills",
+      "id": "pump_dry_run",
+      "lessonIds": [
+        "article_pump_electrical_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety"
+      ],
+      "term": "Dry run"
+    },
+    {
+      "definition": "Water moving in the wrong direction, back along the pipe towards the pump.",
+      "dictionaryId": "lex.sa.daily_skills.pump_backflow",
+      "example": "After the supply stops, backflow can leave the pump running with no water.",
+      "fieldId": "daily_skills",
+      "id": "pump_backflow",
+      "lessonIds": [
+        "article_pump_electrical_safety"
+      ],
+      "packs": [
+        "knw.daily.pump_electrical_safety"
+      ],
+      "term": "Backflow"
+    },
+    {
+      "definition": "The push of electric charge that drives a current.",
+      "dictionaryId": "lex.sa.en.voltage.noun",
+      "example": "The voltage across the cell is 12 V.",
+      "fieldId": "daily_skills",
+      "id": "wh_voltage",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "voltage"
+    },
+    {
+      "definition": "The green-and-yellow conductor that ties the metal case of an appliance to the earth bar in the board.",
+      "dictionaryId": "lex.sa.daily_skills.wh_earth_wire",
+      "example": "The earth wire was cut by a drill during the last renovation.",
+      "fieldId": "daily_skills",
+      "id": "wh_earth_wire",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Earth wire (ground wire)"
+    },
+    {
+      "definition": "A device that opens a circuit when the current is higher than the circuit is rated for.",
+      "dictionaryId": "lex.sa.daily_skills.wh_circuit_breaker",
+      "example": "The circuit breaker is the 16 A device on the board.",
+      "fieldId": "daily_skills",
+      "id": "wh_circuit_breaker",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Circuit breaker"
+    },
+    {
+      "definition": "Joining metal parts to each other so that they cannot sit at different voltages.",
+      "dictionaryId": "lex.sa.daily_skills.wh_bonding",
+      "example": "Bonding of the metal pipework is part of the installation.",
+      "fieldId": "daily_skills",
+      "id": "wh_bonding",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Bonding"
+    },
+    {
+      "definition": "To open the circuit by itself, because the device has found a fault or an overload.",
+      "dictionaryId": "lex.sa.daily_skills.wh_trip",
+      "example": "The RCD tripped when the heater was switched on.",
+      "fieldId": "daily_skills",
+      "id": "wh_trip",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Trip"
+    },
+    {
+      "definition": "A valve on the tank that opens and releases water if the pressure or the temperature inside becomes too high.",
+      "dictionaryId": "lex.sa.daily_skills.wh_safety_valve",
+      "example": "The safety valve is the small brass valve on the cold pipe.",
+      "fieldId": "daily_skills",
+      "id": "wh_safety_valve",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Safety valve"
+    },
+    {
+      "definition": "A rod of metal that corrodes instead of the tank, so that the tank wall is saved.",
+      "dictionaryId": "lex.sa.daily_skills.wh_anode_rod",
+      "example": "The anode rod is checked at every service and replaced when it is worn away.",
+      "fieldId": "daily_skills",
+      "id": "wh_anode_rod",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Anode rod"
+    },
+    {
+      "definition": "A burn caused by hot liquid or steam.",
+      "dictionaryId": "lex.sa.daily_skills.wh_scald",
+      "example": "Water at 60 °C can scald a child in a few seconds.",
+      "fieldId": "daily_skills",
+      "id": "wh_scald",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Scald"
+    },
+    {
+      "definition": "Removing the mineral scale that builds up inside a tank and on the heating element.",
+      "dictionaryId": "lex.sa.daily_skills.wh_descaling",
+      "example": "Descaling is done at the service interval in hard water areas.",
+      "fieldId": "daily_skills",
+      "id": "wh_descaling",
+      "lessonIds": [
+        "article_water_heater_safety"
+      ],
+      "packs": [
+        "knw.daily.water_heater_safety"
+      ],
+      "term": "Descaling"
+    },
+    {
+      "definition": "The substance in the medicine that produces the effect. Every other substance in the pack is only there to help it.",
+      "dictionaryId": "lex.sa.health.active_ingredient",
+      "example": "The active ingredient is the same in both packs, only the strength differs.",
+      "fieldId": "health",
+      "id": "active_ingredient",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Active ingredient"
+    },
+    {
+      "definition": "A condition in which the medicine must not be used, because the risk outweighs the benefit.",
+      "dictionaryId": "lex.sa.health.contraindication",
+      "example": "Pregnancy is a contraindication for this medicine, so I will ask about an alternative.",
+      "fieldId": "health",
+      "id": "contraindication",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Contraindication"
+    },
+    {
+      "definition": "Any effect the medicine has other than the one it is meant to produce.",
+      "dictionaryId": "lex.sa.health.side_effect",
+      "example": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+      "fieldId": "health",
+      "id": "side_effect",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Side effect"
+    },
+    {
+      "definition": "What happens when a medicine meets another medicine, or alcohol, or a particular food. Some are dangerous.",
+      "dictionaryId": "lex.sa.health.interaction",
+      "example": "There is an interaction with this antibiotic, so I will tell the pharmacist about everything I take.",
+      "fieldId": "health",
+      "id": "interaction",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Interaction"
+    },
+    {
+      "definition": "The last date on which the maker guarantees the medicine keeps its strength and its safety.",
+      "dictionaryId": "lex.sa.health.expiry_date",
+      "example": "The expiry date is on the strip, so I checked the one on the box too.",
+      "fieldId": "health",
+      "id": "expiry_date",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Expiry date"
+    },
+    {
+      "definition": "The licence number under which the medicine is sold. It identifies the pack in the regulator's records.",
+      "dictionaryId": "lex.sa.health.marketing_authorisation_number",
+      "example": "The marketing authorisation number is printed at the bottom of the carton, and I quoted it in the report.",
+      "fieldId": "health",
+      "id": "marketing_authorisation_number",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Marketing authorisation number"
     },
     {
       "conflict": true,
-      "definition": "A pressure tactic that claims the supply is limited, so that waiting looks like a loss.",
-      "dictionaryId": "lex.sa.mind.psy_scarcity",
-      "example": "The scarcity was easy to check: the shelf held six, not two.",
-      "fieldId": "work",
-      "id": "dpn_scarcity",
+      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
+      "dictionaryId": "lex.sa.daily_skills.serving_size",
+      "example": "One serving is 30 g, which is much less than the bowl I had.",
+      "fieldId": "health",
+      "id": "panel_serving_size",
       "lessonIds": [
-        "article_dark_psychology_negotiation"
+        "article_nutrition"
       ],
       "packs": [
-        "knw.work.dark_psychology_negotiation"
+        "knw.health.nutrition"
       ],
-      "term": "Scarcity"
+      "term": "Serving size"
     },
     {
-      "conflict": true,
-      "definition": "A pressure tactic that shortens the time available for checking and deciding.",
-      "dictionaryId": "lex.sa.mind.psy_urgency",
-      "example": "The urgency was built to stop a phone call: sign tonight or the price changes.",
-      "fieldId": "work",
-      "id": "dpn_urgency",
+      "definition": "A daily guide for an average adult, used as the yardstick the percentages on a panel are measured against.",
+      "dictionaryId": "lex.sa.health.daily_value",
+      "example": "One portion gives me 40 % of the daily value for salt.",
+      "fieldId": "health",
+      "id": "daily_value",
       "lessonIds": [
-        "article_dark_psychology_negotiation"
+        "article_nutrition"
       ],
       "packs": [
-        "knw.work.dark_psychology_negotiation"
+        "knw.health.nutrition"
       ],
-      "term": "Urgency"
+      "term": "Daily value"
     },
     {
-      "conflict": true,
-      "definition": "A pressure tactic that presents the decisions of other people as evidence for your own.",
-      "dictionaryId": "lex.sa.mind.psy_social_proof",
-      "example": "The offer came with social proof: nine out of ten customers chose the larger plan.",
-      "fieldId": "work",
-      "id": "dpn_social_proof",
+      "definition": "The average daily amount of energy or a nutrient for an adult. A guide, not a target.",
+      "dictionaryId": "lex.sa.health.reference_intake",
+      "example": "The reference intake for energy is about 2000 kilocalories a day.",
+      "fieldId": "health",
+      "id": "reference_intake",
       "lessonIds": [
-        "article_dark_psychology_negotiation"
+        "article_nutrition"
       ],
       "packs": [
-        "knw.work.dark_psychology_negotiation"
+        "knw.health.nutrition"
       ],
-      "term": "Social proof"
+      "term": "Reference intake"
     },
     {
-      "definition": "The pressure to return a favour that the other side has given you.",
-      "dictionaryId": "lex.sa.work.dpn_reciprocity",
-      "example": "The discount was the favour, and the renewal at the same price was the bill.",
-      "fieldId": "work",
-      "id": "dpn_reciprocity",
+      "definition": "One of the three nutrients the body needs in quantity: carbohydrate, fat and protein.",
+      "dictionaryId": "lex.sa.health.macronutrient",
+      "example": "The main macronutrient in this product is fat, not carbohydrate.",
+      "fieldId": "health",
+      "id": "macronutrient",
       "lessonIds": [
-        "article_dark_psychology_negotiation"
+        "article_nutrition"
       ],
       "packs": [
-        "knw.work.dark_psychology_negotiation"
+        "knw.health.nutrition"
       ],
-      "term": "Reciprocity"
+      "term": "Macronutrient"
     },
     {
-      "definition": "The pull of a person you like, used to move the decision away from the terms.",
-      "dictionaryId": "lex.sa.work.dpn_liking",
-      "example": "The liking did not change the price, but it changed who got the last word.",
-      "fieldId": "work",
-      "id": "dpn_liking",
+      "definition": "The saturated fats, which are the part of the fat that matters most for blood cholesterol.",
+      "dictionaryId": "lex.sa.health.saturated_fat",
+      "example": "It has 11 g of saturates, which is over half the daily reference.",
+      "fieldId": "health",
+      "id": "saturated_fat",
       "lessonIds": [
-        "article_dark_psychology_negotiation"
+        "article_nutrition"
       ],
       "packs": [
-        "knw.work.dark_psychology_negotiation"
+        "knw.health.nutrition"
       ],
-      "term": "Liking"
+      "term": "Saturates"
     },
     {
-      "definition": "The pressure to act in line with what you have already agreed or done.",
-      "dictionaryId": "lex.sa.work.dpn_commitment_consistency",
-      "example": "He had approved the budget, so the second approval came easier.",
-      "fieldId": "work",
-      "id": "dpn_commitment_consistency",
+      "definition": "Sugar the manufacturer added, as distinct from sugar that came with the fruit or the milk.",
+      "dictionaryId": "lex.sa.health.added_sugar",
+      "example": "Total sugars are 20 g, and added sugars are 15 g of that.",
+      "fieldId": "health",
+      "id": "added_sugar",
       "lessonIds": [
-        "article_dark_psychology_negotiation"
+        "article_nutrition"
       ],
       "packs": [
-        "knw.work.dark_psychology_negotiation"
+        "knw.health.nutrition"
       ],
-      "term": "Commitment and consistency"
+      "term": "Added sugar"
     },
     {
-      "definition": "The weight a loss carries compared with a gain of the same size.",
-      "dictionaryId": "lex.sa.work.dpn_loss_aversion",
-      "example": "The same 20,000 hurt as a loss and helped as a saving.",
-      "fieldId": "work",
-      "id": "dpn_loss_aversion",
+      "definition": "The element that makes salt salty. A label quoting salt is quoting sodium plus the chloride with it.",
+      "dictionaryId": "lex.sa.health.sodium",
+      "example": "This has 0.5 g of sodium per 100 g, which is low.",
+      "fieldId": "health",
+      "id": "sodium",
       "lessonIds": [
-        "article_dark_psychology_negotiation"
+        "article_nutrition"
       ],
       "packs": [
-        "knw.work.dark_psychology_negotiation"
+        "knw.health.nutrition"
       ],
-      "term": "Loss aversion"
-    },
-    {
-      "definition": "The choice of words around a fact, which changes how the fact feels.",
-      "dictionaryId": "lex.sa.work.dpn_framing",
-      "example": "The framing changed nothing: 400 a month is the same money as 4,800 a year.",
-      "fieldId": "work",
-      "id": "dpn_framing",
-      "lessonIds": [
-        "article_dark_psychology_negotiation"
-      ],
-      "packs": [
-        "knw.work.dark_psychology_negotiation"
-      ],
-      "term": "Framing"
-    },
-    {
-      "conflict": true,
-      "definition": "A small, easy agreement that is used later as the reason for a much larger one.",
-      "dictionaryId": "lex.sa.mind.psy_foot_in_the_door",
-      "example": "The free trial was the foot in the door: the yearly contract came next.",
-      "fieldId": "work",
-      "id": "dpn_foot_in_the_door",
-      "lessonIds": [
-        "article_dark_psychology_negotiation"
-      ],
-      "packs": [
-        "knw.work.dark_psychology_negotiation"
-      ],
-      "term": "Foot in the door"
-    },
-    {
-      "definition": "A large request made first, so that the smaller request looks reasonable.",
-      "dictionaryId": "lex.sa.work.dpn_door_in_the_face",
-      "example": "The full package at 200,000 was the door in the face, and the single machine was the real order.",
-      "fieldId": "work",
-      "id": "dpn_door_in_the_face",
-      "lessonIds": [
-        "article_dark_psychology_negotiation"
-      ],
-      "packs": [
-        "knw.work.dark_psychology_negotiation"
-      ],
-      "term": "Door in the face"
-    },
-    {
-      "definition": "The best deal you can make if the deal in front of you does not happen.",
-      "dictionaryId": "lex.sa.work.dpn_batna",
-      "example": "Before the meeting he wrote down his BATNA: the other supplier, the price and the date.",
-      "fieldId": "work",
-      "id": "dpn_batna",
-      "lessonIds": [
-        "article_dark_psychology_negotiation"
-      ],
-      "packs": [
-        "knw.work.dark_psychology_negotiation"
-      ],
-      "term": "BATNA"
-    },
-    {
-      "definition": "The price above which the deal is worse than your best alternative.",
-      "dictionaryId": "lex.sa.work.dpn_walk_away_price",
-      "example": "He set his walk-away price the week before, and he did not move it in the room.",
-      "fieldId": "work",
-      "id": "dpn_walk_away_price",
-      "lessonIds": [
-        "article_dark_psychology_negotiation"
-      ],
-      "packs": [
-        "knw.work.dark_psychology_negotiation"
-      ],
-      "term": "Walk-away price"
-    },
-    {
-      "conflict": true,
-      "definition": "Money, time or effort that has already been spent, and which is used as a reason to continue.",
-      "dictionaryId": "lex.sa.mind.psy_sunk_cost",
-      "example": "The sunk cost of the training was the argument for staying in the job.",
-      "fieldId": "work",
-      "id": "dpn_sunk_cost",
-      "lessonIds": [
-        "article_dark_psychology_negotiation"
-      ],
-      "packs": [
-        "knw.work.dark_psychology_negotiation"
-      ],
-      "term": "Sunk cost"
-    },
-    {
-      "definition": "The capacity to stay in charge of your own reactions when the other person is difficult.",
-      "dictionaryId": "lex.sa.social.gem_emotional_maturity",
-      "example": "Her emotional maturity showed in the pause before she answered, not in the answer itself.",
-      "fieldId": "social",
-      "id": "gem_emotional_maturity",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Emotional maturity"
-    },
-    {
-      "definition": "The capacity to hold a reaction and choose when to act on it.",
-      "dictionaryId": "lex.sa.social.gem_self_regulation",
-      "example": "He used self-regulation to stay in the room instead of walking out.",
-      "fieldId": "social",
-      "id": "gem_self_regulation",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Self-regulation"
-    },
-    {
-      "definition": "Reading what another person feels, and taking it seriously enough to act on it.",
-      "dictionaryId": "lex.sa.social.gem_empathy",
-      "example": "Her empathy showed in the question she asked instead of the advice she gave.",
-      "fieldId": "social",
-      "id": "gem_empathy",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Empathy"
-    },
-    {
-      "conflict": true,
-      "definition": "The answer you owe for an act, to the people affected and to the law.",
-      "dictionaryId": "lex.sa.mind.dual_accountability",
-      "example": "The mistake was hers, and the accountability was hers as well.",
-      "fieldId": "social",
-      "id": "gem_accountability",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Accountability"
-    },
-    {
-      "definition": "The capacity to stay with a delay, a refusal or a mistake without making the other person pay for it.",
-      "dictionaryId": "lex.sa.social.gem_frustration_tolerance",
-      "example": "Tolerance of frustration is what a good team leader buys with a calm answer on a Friday.",
-      "fieldId": "social",
-      "id": "gem_frustration_tolerance",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Tolerance of frustration"
-    },
-    {
-      "definition": "The leaning towards acting before you have looked at what the act will do.",
-      "dictionaryId": "lex.sa.social.gem_impulsivity",
-      "example": "The message went out in impatience, and the impulsivity cost him the job.",
-      "fieldId": "social",
-      "id": "gem_impulsivity",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Impulsivity"
-    },
-    {
-      "definition": "How strongly and how fast a person reacts to pressure; a tempo, not a character.",
-      "dictionaryId": "lex.sa.social.gem_stress_reactivity",
-      "example": "Her stress reactivity is high in meetings and low in front of a machine.",
-      "fieldId": "social",
-      "id": "gem_stress_reactivity",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Stress reactivity"
-    },
-    {
-      "definition": "The work of managing your own feelings and other people's feelings so that the situation keeps running.",
-      "dictionaryId": "lex.sa.social.gem_emotional_labour",
-      "example": "Emotional labour is the invisible work of keeping a meeting calm.",
-      "fieldId": "social",
-      "id": "gem_emotional_labour",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Emotional labour"
-    },
-    {
-      "definition": "The feeling part of empathy: catching what the other person feels.",
-      "dictionaryId": "lex.sa.social.gem_affective_empathy",
-      "example": "Affective empathy made her notice that the new engineer was frightened in the group.",
-      "fieldId": "social",
-      "id": "gem_affective_empathy",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Affective empathy"
-    },
-    {
-      "definition": "The thinking part of empathy: seeing the situation from the other person's side.",
-      "dictionaryId": "lex.sa.social.gem_cognitive_empathy",
-      "example": "Cognitive empathy is what lets you guess that the deadline was the real problem.",
-      "fieldId": "social",
-      "id": "gem_cognitive_empathy",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Cognitive empathy"
-    },
-    {
-      "definition": "Stating your need, your limit or your disagreement without wrapping it in blame.",
-      "dictionaryId": "lex.sa.social.gem_assertiveness",
-      "example": "Assertiveness is saying the report is late and then saying what you need instead.",
-      "fieldId": "social",
-      "id": "gem_assertiveness",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Assertiveness"
-    },
-    {
-      "definition": "The leaning that keeps the peace by not raising the issue at all.",
-      "dictionaryId": "lex.sa.social.gem_conflict_avoidance",
-      "example": "Conflict avoidance kept the meeting pleasant and the problem on the table.",
-      "fieldId": "social",
-      "id": "gem_conflict_avoidance",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Conflict avoidance"
-    },
-    {
-      "definition": "A belief about a group that is applied to a person without looking at that person.",
-      "dictionaryId": "lex.sa.social.gem_stereotype",
-      "example": "That sentence about men and women is a stereotype, and it settles nothing about the man in front of you.",
-      "fieldId": "social",
-      "id": "gem_stereotype",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Stereotype"
-    },
-    {
-      "definition": "The part of the value ranges of two groups that lies on top of each other.",
-      "dictionaryId": "lex.sa.social.gem_overlap",
-      "example": "The overlap between the two groups is wide, so the average says very little about one person.",
-      "fieldId": "social",
-      "id": "gem_overlap",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Overlap"
-    },
-    {
-      "definition": "The process of choosing a partner, from the first interest to the decision.",
-      "dictionaryId": "lex.sa.social.msa_mate_selection",
-      "example": "Mate selection was slow for her and quick for her brother.",
-      "fieldId": "social",
-      "id": "msa_mate_selection",
-      "lessonIds": [
-        "article_mate_selection_age"
-      ],
-      "packs": [
-        "knw.social.mate_selection_age"
-      ],
-      "term": "mate selection"
+      "term": "Sodium"
     }
   ],
   "nextCursor": "840",

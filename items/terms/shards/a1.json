@@ -63,11 +63,13 @@
       "dictionaryId": "lex.sa.en.ohm.noun",
       "example": "A 2 Ω resistor carries 3 A when V = 6 V.",
       "fieldId": "physics",
-      "hidden": true,
       "id": "ohm",
-      "lessonIds": [],
+      "lessonIds": [
+        "article_showcase"
+      ],
       "packs": [
-        "knw.article.showcase"
+        "knw.article.showcase",
+        "showcase"
       ],
       "term": "ohm"
     }

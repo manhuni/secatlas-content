@@ -1,564 +1,572 @@
 {
   "items": [
     {
-      "definition": "Doing a calculation in your head, without a calculator and without paper.",
-      "dictionaryId": "lex.sa.mathematics.ma_mental_arithmetic",
-      "example": "Mental arithmetic gave me the rough figure, and the check gave me the right one.",
-      "fieldId": "mathematics",
-      "id": "ma_mental_arithmetic",
+      "definition": "True to fact; not a simulation.",
+      "dictionaryId": "lex.sa.en.real.adjective",
+      "example": "With prices rising, the real value of the 2 000 $ falls while the ticket still says 2 000 $.",
+      "fieldId": "money",
+      "id": "mon_real",
       "lessonIds": [
-        "article_mental_arithmetic"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.math.mental_arithmetic"
+        "knw.money.what_money_is"
       ],
-      "term": "Mental arithmetic"
+      "term": "real"
     },
     {
-      "definition": "A rough number, close enough to show whether a real answer is possible.",
-      "dictionaryId": "lex.sa.mathematics.ma_estimate",
-      "example": "Before you multiply, estimate: about 50 times about 30 is about 1500.",
-      "fieldId": "mathematics",
-      "id": "ma_estimate",
+      "definition": "A tax that is already counted inside the price you read.",
+      "dictionaryId": "lex.sa.money.mon_tax_in_price",
+      "example": "The ticket at 11 $ includes 1 $ of tax in the price, and the receipt does not show it separately.",
+      "fieldId": "money",
+      "id": "mon_tax_in_price",
       "lessonIds": [
-        "article_mental_arithmetic"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.math.mental_arithmetic"
+        "knw.money.what_money_is"
       ],
-      "term": "Estimate"
+      "term": "Tax in the price"
     },
     {
-      "definition": "Writing a number as the nearest convenient value, usually the nearest ten, hundred or thousand.",
-      "dictionaryId": "lex.sa.mathematics.ma_rounding",
-      "example": "47 rounds to 50, and 42 rounds to 40.",
-      "fieldId": "mathematics",
-      "id": "ma_rounding",
+      "definition": "The difference between the price a shop buys at and the price it sells at.",
+      "dictionaryId": "lex.sa.money.mon_spread",
+      "example": "The spread between the producer's price and the shelf price is already inside what you pay.",
+      "fieldId": "money",
+      "id": "mon_spread",
       "lessonIds": [
-        "article_mental_arithmetic"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.math.mental_arithmetic"
+        "knw.money.what_money_is"
       ],
-      "term": "Rounding"
+      "term": "Spread"
     },
     {
-      "definition": "The correction you add or subtract after you have rounded a number.",
-      "dictionaryId": "lex.sa.mathematics.ma_compensation",
-      "example": "I rounded 19 up to 20, so the compensation is one lot of 24, and 480 − 24 = 456.",
-      "fieldId": "mathematics",
-      "id": "ma_compensation",
+      "definition": "A fixed charge for a service, such as a card payment or a bank transfer.",
+      "dictionaryId": "lex.sa.money.mon_fee",
+      "example": "The bank fee for the transfer is 2 $ every time, whatever the amount transferred.",
+      "fieldId": "money",
+      "id": "mon_fee",
       "lessonIds": [
-        "article_mental_arithmetic"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.math.mental_arithmetic"
+        "knw.money.what_money_is"
       ],
-      "term": "Compensation"
+      "term": "Fee"
     },
     {
-      "definition": "To bear or transport something.",
-      "dictionaryId": "lex.sa.en.carry.verb",
-      "example": "In 8 + 7 you write 5 and carry 1 to the next column.",
-      "fieldId": "mathematics",
-      "id": "ma_carry",
+      "definition": "The price of borrowing money, charged as a percentage of what you still owe.",
+      "dictionaryId": "lex.sa.money.mon_interest",
+      "example": "At 2 % a year on a debt of 1 000 $, the interest for the year is 20 $.",
+      "fieldId": "money",
+      "id": "mon_interest",
       "lessonIds": [
-        "article_mental_arithmetic"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.math.mental_arithmetic"
+        "knw.money.what_money_is"
       ],
-      "term": "carry"
+      "term": "Interest"
     },
     {
-      "definition": "The part of a number that is left over when the division does not come out exactly.",
-      "dictionaryId": "lex.sa.mathematics.ma_remainder",
-      "example": "87 divided by 7 gives the quotient 12 and the remainder 3.",
-      "fieldId": "mathematics",
-      "id": "ma_remainder",
+      "definition": "What you owe to somebody, and the amount the interest is charged on.",
+      "dictionaryId": "lex.sa.money.mon_debt",
+      "example": "The debt is 1 000 $, and the interest is charged on the part that is still left.",
+      "fieldId": "money",
+      "id": "mon_debt",
       "lessonIds": [
-        "article_mental_arithmetic"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.math.mental_arithmetic"
+        "knw.money.what_money_is"
       ],
-      "term": "Remainder"
+      "term": "Debt"
     },
     {
-      "definition": "The result of a division, without the part that is left over.",
-      "dictionaryId": "lex.sa.mathematics.ma_quotient",
-      "example": "The quotient of 87 and 7 is 12, with a remainder of 3.",
-      "fieldId": "mathematics",
-      "id": "ma_quotient",
+      "definition": "The money that comes in over a period minus the money that goes out over it.",
+      "dictionaryId": "lex.sa.money.mon_cash_flow",
+      "example": "Cash flow is positive, but the stock is not there.",
+      "fieldId": "money",
+      "id": "mon_cash_flow",
       "lessonIds": [
-        "article_mental_arithmetic"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.math.mental_arithmetic"
+        "knw.money.what_money_is"
       ],
-      "term": "Quotient"
+      "term": "Cash flow"
     },
     {
-      "definition": "The total of all the digits of a number, used to test whether it is a multiple of 9.",
-      "dictionaryId": "lex.sa.mathematics.ma_digit_sum",
-      "example": "The digit sum of 1296 is 1 + 2 + 9 + 6 = 18, a multiple of 9.",
-      "fieldId": "mathematics",
-      "id": "ma_digit_sum",
+      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
+      "dictionaryId": "lex.sa.technology.token",
+      "example": "The word \"the\" is one token, and a long word may be three.",
+      "fieldId": "technology",
+      "id": "aiw_token",
       "lessonIds": [
-        "article_mental_arithmetic"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.math.mental_arithmetic"
+        "knw.tech.howaiworks"
       ],
-      "term": "Digit sum"
+      "term": "Token"
     },
     {
-      "definition": "An AI system that plans and acts toward a goal, using tools and intermediate steps rather than answering in one shot.",
-      "dictionaryId": "lex.sa.mind.ai_agent",
-      "example": "",
-      "fieldId": "mind",
-      "id": "ai_agent",
+      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
+      "dictionaryId": "lex.sa.technology.training_data",
+      "example": "The model's weakness on local rules comes from what the training data never covered.",
+      "fieldId": "technology",
+      "id": "aiw_training_data",
       "lessonIds": [
-        "article_ai_agents"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.ai_agents"
+        "knw.tech.howaiworks"
       ],
-      "term": "AI agent"
+      "term": "Training data"
     },
     {
-      "definition": "A setup in which several specialized AI agents divide a task among themselves and pass work along.",
-      "dictionaryId": "lex.sa.mind.multi_agent_system",
-      "example": "",
-      "fieldId": "mind",
-      "id": "multi_agent_system",
+      "definition": "The numbers inside a model that hold what it learned. Each one is a weight that raises or lowers the chance of a continuation.",
+      "dictionaryId": "lex.sa.technology.aiw_parameters",
+      "example": "The model has billions of parameters, and not one of them is a sentence you can read.",
+      "fieldId": "technology",
+      "id": "aiw_parameters",
       "lessonIds": [
-        "article_ai_agents"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.ai_agents"
+        "knw.tech.howaiworks"
       ],
-      "term": "Multi-agent system"
+      "term": "Parameters"
     },
     {
-      "definition": "The coordination of multiple agents: deciding their roles, order, tools and stopping conditions.",
-      "dictionaryId": "lex.sa.mind.orchestration",
-      "example": "",
-      "fieldId": "mind",
-      "id": "orchestration",
+      "conflict": true,
+      "definition": "Running a trained model to produce one answer. Cheap and fast compared with training, and it is what happens when you press send.",
+      "dictionaryId": "lex.sa.technology.inference",
+      "example": "Training cost a fortune; inference is what you pay for every time you use it.",
+      "fieldId": "technology",
+      "id": "aiw_inference",
       "lessonIds": [
-        "article_ai_agents"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.ai_agents"
+        "knw.tech.howaiworks"
       ],
-      "term": "Orchestration"
+      "term": "Inference"
     },
     {
-      "definition": "A design in which a person reviews and approves an agent's work before it takes effect.",
-      "dictionaryId": "lex.sa.mind.human_in_the_loop",
-      "example": "",
-      "fieldId": "mind",
-      "id": "human_in_the_loop",
+      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+      "dictionaryId": "lex.sa.technology.context_window",
+      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
+      "fieldId": "technology",
+      "id": "aiw_context_window",
       "lessonIds": [
-        "article_ai_agents"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.ai_agents"
+        "knw.tech.howaiworks"
       ],
-      "term": "Human in the loop"
+      "term": "Context window"
     },
     {
-      "definition": "The process of checking that output meets its requirements before it is used or shipped.",
-      "dictionaryId": "lex.sa.mind.quality_control",
-      "example": "",
-      "fieldId": "mind",
-      "id": "quality_control",
+      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
+      "dictionaryId": "lex.sa.technology.prompt",
+      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
+      "fieldId": "technology",
+      "id": "aiw_prompt",
       "lessonIds": [
-        "article_ai_agents"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.ai_agents"
+        "knw.tech.howaiworks"
       ],
-      "term": "Quality control"
+      "term": "Prompt"
     },
     {
-      "definition": "Assigning a task and the authority to complete it; with agents, the responsibility still stays with the delegator.",
-      "dictionaryId": "lex.sa.mind.delegation",
-      "example": "",
-      "fieldId": "mind",
-      "id": "delegation",
+      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
+      "dictionaryId": "lex.sa.technology.hallucination",
+      "example": "It invented a reference that looks perfect and does not exist.",
+      "fieldId": "technology",
+      "id": "aiw_hallucination",
       "lessonIds": [
-        "article_ai_agents"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.ai_agents"
+        "knw.tech.howaiworks"
       ],
-      "term": "Delegation"
+      "term": "Hallucination"
     },
     {
-      "definition": "A period in which investment and valuations in AI exceed the technology's near-term economic value.",
-      "dictionaryId": "lex.sa.mind.ai_bubble",
-      "example": "",
-      "fieldId": "mind",
-      "id": "ai_bubble",
+      "definition": "The method of letting a system find patterns in data instead of following instructions a person wrote for every case.",
+      "dictionaryId": "lex.sa.technology.machine_learning",
+      "example": "Spam filtering was one of the first everyday uses of machine learning.",
+      "fieldId": "technology",
+      "id": "machine_learning",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.tech.revolution"
       ],
-      "term": "AI bubble"
+      "term": "Machine learning"
     },
     {
-      "definition": "The observed pattern in which new technologies pass through inflated expectations, disappointment, and eventual steady adoption.",
-      "dictionaryId": "lex.sa.mind.hype_cycle",
-      "example": "",
-      "fieldId": "mind",
-      "id": "hype_cycle",
+      "definition": "A layered structure of simple units whose connection strengths are tuned during training. The most common structure in modern AI.",
+      "dictionaryId": "lex.sa.technology.neural_network",
+      "example": "The translation and the image search both run on a neural network.",
+      "fieldId": "technology",
+      "id": "neural_network",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.tech.revolution"
       ],
-      "term": "Hype cycle"
+      "term": "Neural network"
     },
     {
-      "definition": "The total price investors place on a company or sector, reflecting expected future profits rather than current ones.",
-      "dictionaryId": "lex.sa.mind.market_valuation",
-      "example": "",
-      "fieldId": "mind",
-      "id": "market_valuation",
+      "definition": "One adjustable number inside a model. Models are described by how many parameters they have.",
+      "dictionaryId": "lex.sa.technology.parameter",
+      "example": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+      "fieldId": "technology",
+      "id": "parameter",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.tech.revolution"
       ],
-      "term": "Market valuation"
+      "term": "Parameter"
     },
     {
-      "definition": "The historical lag between the arrival of a transformative technology and its measurable effect on economic productivity.",
-      "dictionaryId": "lex.sa.mind.productivity_paradox",
-      "example": "",
-      "fieldId": "mind",
-      "id": "productivity_paradox",
+      "conflict": true,
+      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
+      "dictionaryId": "lex.sa.technology.training_data",
+      "example": "The model's weakness on local rules comes from what the training data never covered.",
+      "fieldId": "technology",
+      "id": "training_data",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.tech.revolution"
       ],
-      "term": "Productivity paradox"
+      "term": "Training data"
     },
     {
-      "definition": "The investigation of claims, numbers and risks before committing money or reputation.",
-      "dictionaryId": "lex.sa.mind.due_diligence",
-      "example": "",
-      "fieldId": "mind",
-      "id": "due_diligence",
+      "definition": "AI that produces new content such as text, images, audio or code, rather than only sorting or labelling.",
+      "dictionaryId": "lex.sa.technology.generative_ai",
+      "example": "Drafting the email was the easiest part of the job this week.",
+      "fieldId": "technology",
+      "id": "generative_ai",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.tech.revolution"
       ],
-      "term": "Due diligence"
+      "term": "Generative AI"
     },
     {
-      "definition": "The revenue and cost attached to one unit of a product — the arithmetic of whether a business model works.",
-      "dictionaryId": "lex.sa.mind.unit_economics",
-      "example": "",
-      "fieldId": "mind",
-      "id": "unit_economics",
+      "conflict": true,
+      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
+      "dictionaryId": "lex.sa.technology.hallucination",
+      "example": "It invented a reference that looks perfect and does not exist.",
+      "fieldId": "technology",
+      "id": "hallucination",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.tech.revolution"
       ],
-      "term": "Unit economics"
+      "term": "Hallucination"
     },
     {
-      "definition": "An AI assistant integrated into the development process that writes, completes and explains code on request.",
-      "dictionaryId": "lex.sa.mind.ai_pair_programmer",
-      "example": "",
-      "fieldId": "mind",
-      "id": "ai_pair_programmer",
+      "conflict": true,
+      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
+      "dictionaryId": "lex.sa.technology.prompt",
+      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
+      "fieldId": "technology",
+      "id": "prompt",
       "lessonIds": [
-        "article_ai_programmer"
+        "article_ai_revolution",
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.ai_programmer"
+        "knw.tech.revolution",
+        "knw.tech.tokens"
       ],
-      "term": "AI pair programmer"
+      "term": "Prompt"
     },
     {
-      "definition": "The automatic production of program code from a natural-language description or an example.",
-      "dictionaryId": "lex.sa.mind.code_generation",
-      "example": "",
-      "fieldId": "mind",
-      "id": "code_generation",
+      "conflict": true,
+      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
+      "dictionaryId": "lex.sa.technology.token",
+      "example": "The word \"the\" is one token, and a long word may be three.",
+      "fieldId": "technology",
+      "id": "token",
       "lessonIds": [
-        "article_ai_programmer"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.ai_programmer"
+        "knw.tech.tokens"
       ],
-      "term": "Code generation"
+      "term": "Token"
     },
     {
-      "definition": "Breaking a large, vague problem into small, precise, solvable parts with clear success conditions.",
-      "dictionaryId": "lex.sa.mind.problem_decomposition",
-      "example": "",
-      "fieldId": "mind",
-      "id": "problem_decomposition",
+      "definition": "The fixed vocabulary a model uses, plus the rule that splits text into tokens and joins them back.",
+      "dictionaryId": "lex.sa.technology.tokenizer",
+      "example": "A different tokenizer means the same text costs a different number of tokens.",
+      "fieldId": "technology",
+      "id": "tokenizer",
       "lessonIds": [
-        "article_ai_programmer"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.ai_programmer"
+        "knw.tech.tokens"
       ],
-      "term": "Problem decomposition"
+      "term": "Tokenizer"
     },
     {
-      "definition": "Reasoning about how the parts of a system affect each other, including effects that appear far away in time or structure.",
-      "dictionaryId": "lex.sa.mind.systems_thinking",
-      "example": "",
-      "fieldId": "mind",
-      "id": "systems_thinking",
+      "conflict": true,
+      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+      "dictionaryId": "lex.sa.technology.context_window",
+      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
+      "fieldId": "technology",
+      "id": "context_window",
       "lessonIds": [
-        "article_ai_programmer"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.ai_programmer"
+        "knw.tech.tokens"
       ],
-      "term": "Systems thinking"
+      "term": "Context window"
     },
     {
-      "definition": "The capacity to make good technical decisions under uncertainty, weighing trade-offs that no rule can settle.",
-      "dictionaryId": "lex.sa.mind.engineering_judgment",
-      "example": "",
-      "fieldId": "mind",
-      "id": "engineering_judgment",
+      "definition": "The tokens you send, counted and billed on the way in. Documents and chat history both count here.",
+      "dictionaryId": "lex.sa.technology.input_tokens",
+      "example": "Uploading the same file twice charges the input tokens twice.",
+      "fieldId": "technology",
+      "id": "input_tokens",
       "lessonIds": [
-        "article_ai_programmer"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.ai_programmer"
+        "knw.tech.tokens"
       ],
-      "term": "Engineering judgment"
+      "term": "Input tokens"
     },
     {
-      "definition": "The ongoing work of keeping software alive: fixing, adapting, and explaining it across years of changing conditions.",
-      "dictionaryId": "lex.sa.mind.maintenance",
-      "example": "",
-      "fieldId": "mind",
-      "id": "maintenance",
+      "definition": "The tokens the model generates, counted and billed on the way out. Long answers cost more than short ones.",
+      "dictionaryId": "lex.sa.technology.output_tokens",
+      "example": "Asking for 2,000 words doubles the output cost of asking for 200.",
+      "fieldId": "technology",
+      "id": "output_tokens",
       "lessonIds": [
-        "article_ai_programmer"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.ai_programmer"
+        "knw.tech.tokens"
       ],
-      "term": "Maintenance"
+      "term": "Output tokens"
     },
     {
-      "definition": "Software designed to act toward goals with a degree of autonomy rather than waiting for each command.",
-      "dictionaryId": "lex.sa.mind.agentic_app",
-      "example": "",
-      "fieldId": "mind",
-      "id": "agentic_app",
+      "definition": "The setting that controls how random the choice of the next token is. Lower values are more repeatable, higher values more varied and less reliable.",
+      "dictionaryId": "lex.sa.technology.temperature",
+      "example": "For extracting data from a document, keep the temperature low.",
+      "fieldId": "technology",
+      "id": "temperature",
       "lessonIds": [
-        "article_app_future"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.app_future"
+        "knw.tech.tokens"
       ],
-      "term": "Agentic app"
+      "term": "Temperature"
     },
     {
-      "definition": "A user interface that changes according to context, intent and history rather than showing fixed menus.",
-      "dictionaryId": "lex.sa.mind.adaptive_interface",
-      "example": "",
-      "fieldId": "mind",
-      "id": "adaptive_interface",
+      "definition": "The automatic cutting of input that is longer than the context window, usually removing the oldest part.",
+      "dictionaryId": "lex.sa.technology.truncation",
+      "example": "Truncation is why the model never mentions the first page you uploaded.",
+      "fieldId": "technology",
+      "id": "truncation",
       "lessonIds": [
-        "article_app_future"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.app_future"
+        "knw.tech.tokens"
       ],
-      "term": "Adaptive interface"
+      "term": "Truncation"
     },
     {
-      "definition": "A statement of what the user wants to achieve, as opposed to the commands that achieve it.",
-      "dictionaryId": "lex.sa.mind.intent",
-      "example": "",
-      "fieldId": "mind",
-      "id": "intent",
+      "definition": "The card or phone screen that lets you board the aircraft. It carries your name, the flight, the gate, the seat and the boarding time.",
+      "dictionaryId": "lex.sa.travel.boarding_pass",
+      "example": "Show your boarding pass at the gate and find your seat.",
+      "fieldId": "travel",
+      "id": "boarding_pass",
       "lessonIds": [
-        "article_app_future"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.app_future"
+        "knw.travel.airport"
       ],
-      "term": "Intent"
+      "term": "Boarding pass"
     },
     {
-      "definition": "The performance of multi-step procedures by software without human operation of each step.",
-      "dictionaryId": "lex.sa.mind.task_automation",
-      "example": "",
-      "fieldId": "mind",
-      "id": "task_automation",
+      "definition": "The secure part of the airport where you wait for a connecting flight. You cannot leave it without a new ticket.",
+      "dictionaryId": "lex.sa.travel.transit_area",
+      "example": "My flight is delayed, so I am stuck in the transit area.",
+      "fieldId": "travel",
+      "id": "transit_area",
       "lessonIds": [
-        "article_app_future"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.app_future"
+        "knw.travel.airport"
       ],
-      "term": "Task automation"
+      "term": "Transit area"
     },
     {
-      "definition": "Application programming interface: a structured way for software to use another service, made for machines rather than humans.",
-      "dictionaryId": "lex.sa.mind.api",
-      "example": "",
-      "fieldId": "mind",
-      "id": "api",
+      "definition": "The door onto the aircraft, identified by a letter and a number, for example B22. It is assigned late and can change.",
+      "dictionaryId": "lex.sa.travel.departure_gate",
+      "example": "My gate has changed from B22 to C4.",
+      "fieldId": "travel",
+      "id": "departure_gate",
       "lessonIds": [
-        "article_app_future"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.app_future"
+        "knw.travel.airport"
       ],
-      "term": "API"
+      "term": "Departure gate"
     },
     {
-      "definition": "Computing woven into the environment so that it acts in the background without demanding attention.",
-      "dictionaryId": "lex.sa.mind.ambient_computing",
-      "example": "",
-      "fieldId": "mind",
-      "id": "ambient_computing",
+      "definition": "The area where the belt for your flight delivers your suitcase. The belt number is shown on the screens above it.",
+      "dictionaryId": "lex.sa.travel.baggage_claim",
+      "example": "Your bag is on belt 7, and it has been there for ten minutes.",
+      "fieldId": "travel",
+      "id": "baggage_claim",
       "lessonIds": [
-        "article_app_future"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.app_future"
+        "knw.travel.airport"
       ],
-      "term": "Ambient computing"
+      "term": "Baggage claim"
     },
     {
-      "definition": "Professional or learning activity performed in a distraction-free state that pushes cognitive ability to its limit.",
-      "dictionaryId": "lex.sa.mind.deep_work",
-      "example": "",
-      "fieldId": "mind",
-      "id": "deep_work",
+      "definition": "A connection between two flights at the same airport, without going through the city in between.",
+      "dictionaryId": "lex.sa.travel.transfer",
+      "example": "I have a two-hour transfer in Singapore.",
+      "fieldId": "travel",
+      "id": "transfer",
       "lessonIds": [
-        "article_attention_death"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.travel.airport"
       ],
-      "term": "Deep work"
+      "term": "Transfer"
     },
     {
-      "definition": "The cycle in which unpredictable rewards (likes, new content) train the brain to seek the next stimulus repeatedly.",
-      "dictionaryId": "lex.sa.mind.dopamine_loop",
-      "example": "",
-      "fieldId": "mind",
-      "id": "dopamine_loop",
+      "definition": "The checkpoint where bags and people are checked before entering the secure part of the airport.",
+      "dictionaryId": "lex.sa.travel.security_screening",
+      "example": "Security screening starts at the end of this corridor.",
+      "fieldId": "travel",
+      "id": "security_screening",
       "lessonIds": [
-        "article_attention_death"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.travel.airport"
       ],
-      "term": "Dopamine loop"
+      "term": "Security screening"
     },
     {
-      "definition": "The preference for rewards that arrive immediately over larger rewards that require waiting and effort.",
-      "dictionaryId": "lex.sa.mind.instant_gratification",
-      "example": "",
-      "fieldId": "mind",
-      "id": "instant_gratification",
+      "definition": "The rule limiting containers of liquid in hand baggage, usually to 100 ml each in a clear bag.",
+      "dictionaryId": "lex.sa.travel.liquids_rule",
+      "example": "My bottle is 500 ml, so I have to empty it before screening.",
+      "fieldId": "travel",
+      "id": "liquids_rule",
       "lessonIds": [
-        "article_attention_death"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.travel.airport"
       ],
-      "term": "Instant gratification"
+      "term": "Liquids rule"
     },
     {
-      "definition": "The ability to stay with a difficult task through the uncomfortable period before progress appears.",
-      "dictionaryId": "lex.sa.mind.frustration_tolerance",
-      "example": "",
-      "fieldId": "mind",
-      "id": "frustration_tolerance",
+      "definition": "The border desk where an officer checks your passport and your right to enter or leave the country.",
+      "dictionaryId": "lex.sa.travel.passport_control",
+      "example": "Passport control is straight ahead, and baggage claim is on the left.",
+      "fieldId": "travel",
+      "id": "passport_control",
       "lessonIds": [
-        "article_attention_death"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.travel.airport"
       ],
-      "term": "Frustration tolerance"
+      "term": "Passport control"
     },
     {
-      "definition": "The pattern in which removing difficulty lowers the tolerance for difficulty, making life feel harder even as it gets easier.",
-      "dictionaryId": "lex.sa.mind.comfort_paradox",
-      "example": "",
-      "fieldId": "mind",
-      "id": "comfort_paradox",
+      "definition": "The place where you declare goods over the allowance. Most travellers use the green or white channel for nothing to declare.",
+      "dictionaryId": "lex.sa.travel.customs",
+      "example": "Do I go through the red channel if I bought two bottles of wine?",
+      "fieldId": "travel",
+      "id": "customs",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.travel.airport"
       ],
-      "term": "Paradox of comfort"
+      "term": "Customs"
     },
     {
-      "definition": "The capacity to recover quickly and fully after stress, failure or loss.",
-      "dictionaryId": "lex.sa.mind.resilience",
-      "example": "",
-      "fieldId": "mind",
-      "id": "resilience",
+      "definition": "The list of dishes a kitchen offers, with prices and short descriptions.",
+      "dictionaryId": "lex.sa.travel.menu",
+      "example": "Could we see the menu, please?",
+      "fieldId": "travel",
+      "id": "menu",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_ordering_food"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.travel.ordering"
       ],
-      "term": "Resilience"
+      "term": "Menu"
     },
     {
-      "definition": "Sustained effort toward long-term goals, maintained through boredom and setbacks.",
-      "dictionaryId": "lex.sa.mind.grit",
-      "example": "",
-      "fieldId": "mind",
-      "id": "grit",
+      "definition": "A starter, a main course and a dessert sold together at a single price. Often the cheapest and most predictable choice.",
+      "dictionaryId": "lex.sa.travel.set_menu",
+      "example": "I will take the set menu, please.",
+      "fieldId": "travel",
+      "id": "set_menu",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_ordering_food"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.travel.ordering"
       ],
-      "term": "Grit"
+      "term": "Set menu"
     },
     {
-      "definition": "The property of growing stronger under stress and disorder, beyond mere resistance to damage.",
-      "dictionaryId": "lex.sa.mind.antifragility",
-      "example": "",
-      "fieldId": "mind",
-      "id": "antifragility",
+      "definition": "The small first course, such as soup, a salad or fried snacks.",
+      "dictionaryId": "lex.sa.travel.starter",
+      "example": "As a starter, I will have the soup.",
+      "fieldId": "travel",
+      "id": "starter",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_ordering_food"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.travel.ordering"
       ],
-      "term": "Antifragility"
+      "term": "Starter"
     }
   ],
   "nextCursor": "520",

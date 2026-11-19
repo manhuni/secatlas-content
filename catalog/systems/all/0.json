@@ -1,103 +1,19 @@
 {
   "items": [
     {
-      "fieldId": "culture",
-      "id": "varieties_of_english",
-      "name": "Varieties of English around the world",
-      "order": 1,
-      "summary": "How one language split into British, American, Australian, Indian and Singapore English, and how to understand each of them.",
-      "topicIds": [
-        "article_varieties_of_english"
-      ]
-    },
-    {
-      "fieldId": "daily_skills",
-      "id": "car_breakdown",
-      "name": "Car breakdowns and roadside help",
-      "order": 1,
-      "summary": "What to say when the car stops, who to call, and how to bring the situation under control.",
-      "topicIds": [
-        "article_car_breakdown"
-      ]
-    },
-    {
-      "fieldId": "daily_skills",
-      "id": "food_labels",
-      "name": "Food labels and expiration dates",
-      "order": 1,
-      "summary": "The information on the outside of the package: what is in it, how long it keeps, and how to read the date.",
-      "topicIds": [
-        "article_food_labels"
-      ]
-    },
-    {
-      "fieldId": "health",
-      "id": "nutrition_facts",
-      "name": "Nutrition facts and food ingredients",
-      "order": 1,
-      "summary": "The nutrition panel, the serving size, the daily values and the ingredient list on the back of the pack.",
-      "topicIds": [
-        "article_nutrition"
-      ]
-    },
-    {
-      "fieldId": "health",
-      "id": "sleep",
-      "name": "Sleep and daily recovery",
-      "order": 1,
-      "summary": "How sleep works, how much you need, what breaks it, and how to build a routine that survives a busy week.",
-      "topicIds": [
-        "article_sleep"
-      ]
-    },
-    {
-      "fieldId": "kids_adventure",
-      "id": "adventures_and_imagination",
-      "name": "Adventures & imagination",
-      "order": 1,
-      "summary": "Big journeys for small readers: a beginning, a surprise in the middle, and one small lesson to keep.",
-      "topicIds": [
-        "article_flying_bicycle",
-        "article_magical_castle",
-        "article_dinosaur_land",
-        "article_secret_door",
-        "article_hidden_treasure",
-        "article_trip_to_the_moon",
-        "article_robot_wanted_a_friend",
-        "article_under_the_sea_adventure"
-      ]
-    },
-    {
-      "fieldId": "kids_animals",
-      "id": "animals_and_nature",
-      "name": "Animals and the places they live",
-      "order": 1,
-      "summary": "The living world around us: farm animals, wild animals and the habitats they share.",
-      "topicIds": [
-        "article_butterflies",
-        "article_kids_animals_nests",
-        "article_pets",
-        "article_kids_animals_savanna",
-        "article_what_animals_eat",
-        "article_kids_animals_farm",
-        "article_insects",
-        "article_kids_animals_ocean"
-      ]
-    },
-    {
       "fieldId": "kids_daily",
       "id": "daily_conversations",
       "name": "Daily conversations",
       "order": 1,
       "summary": "The small talks of a child's day: hello, food, friends, school, weather and bedtime.",
       "topicIds": [
-        "article_favourite_animals",
-        "article_getting_ready_for_bedtime",
         "article_asking_for_food",
-        "article_making_friends_at_school",
-        "article_asking_questions_in_class",
         "article_talking_about_family",
         "article_saying_hello",
+        "article_favourite_animals",
+        "article_getting_ready_for_bedtime",
+        "article_making_friends_at_school",
+        "article_asking_questions_in_class",
         "article_talking_about_the_weather"
       ]
     },
@@ -106,16 +22,16 @@
       "id": "feelings_and_friends",
       "name": "Feelings and friends",
       "order": 1,
-      "summary": "Naming what you feel, asking for help, being polite, sharing, and learning that mistakes are part of growing up.",
+      "summary": "Naming what you feel, waiting your turn, sharing and being kind with other children.",
       "topicIds": [
         "article_when_you_feel_angry",
         "article_sharing_and_turns",
         "article_please_and_thank_you",
         "article_how_do_you_feel",
-        "article_good_friend",
-        "article_asking_for_help",
         "article_being_kind",
-        "article_making_mistakes"
+        "article_making_mistakes",
+        "article_good_friend",
+        "article_asking_for_help"
       ]
     },
     {
@@ -123,16 +39,16 @@
       "id": "food_and_eating",
       "name": "Food and healthy eating",
       "order": 1,
-      "summary": "Where our food comes from, what it does inside us, and how to make it ourselves.",
+      "summary": "Where our food comes from, what it does for our bodies, and how we prepare it.",
       "topicIds": [
         "article_kids_food_fruits",
         "article_where_milk_comes_from",
         "article_healthy_snacks",
         "article_kids_food_vegetables",
-        "article_how_bread_is_made",
-        "article_kids_food_breakfast",
         "article_kids_food_favourite_foods",
-        "article_fruit_salad"
+        "article_fruit_salad",
+        "article_how_bread_is_made",
+        "article_kids_food_breakfast"
       ]
     },
     {
@@ -142,14 +58,14 @@
       "order": 1,
       "summary": "The things we use at home every day: kitchen things, bedroom things, school things and clothes.",
       "topicIds": [
-        "article_bathroom",
         "article_bedroom",
         "article_schoolbag",
-        "article_shapes",
-        "article_toys",
         "article_clothes",
         "article_day",
-        "article_kitchen"
+        "article_kitchen",
+        "article_bathroom",
+        "article_shapes",
+        "article_toys"
       ]
     },
     {
@@ -297,16 +213,6 @@
       ]
     },
     {
-      "fieldId": "formal_sciences",
-      "id": "article_layout",
-      "name": "Illustrated reading",
-      "order": 1,
-      "summary": "One article that shows every layout the reader can paint.",
-      "topicIds": [
-        "article_showcase"
-      ]
-    },
-    {
       "fieldId": "mathematics",
       "id": "math_algebra",
       "name": "Algebra",
@@ -314,96 +220,6 @@
       "summary": "English for equations, variables, and the steps that keep both sides equal.",
       "topicIds": [
         "math_linear_eq"
-      ]
-    },
-    {
-      "fieldId": "culture",
-      "id": "digital_nomads",
-      "name": "Digital nomads and remote work",
-      "order": 1,
-      "summary": "How people earn a living while moving between countries, and the practical rules that make it legal and sustainable.",
-      "topicIds": [
-        "article_digital_nomads"
-      ]
-    },
-    {
-      "fieldId": "culture",
-      "id": "culture_shock",
-      "name": "Culture shock and adaptation",
-      "order": 1,
-      "summary": "What changes when you move to another country, why it surprises you, and how to read the local rules without guessing.",
-      "topicIds": [
-        "article_culture_shock"
-      ]
-    },
-    {
-      "fieldId": "culture",
-      "id": "less_time_together",
-      "name": "Spending less time together",
-      "order": 1,
-      "summary": "Why shared time is disappearing from daily life, what it costs, and how to rebuild it deliberately.",
-      "topicIds": [
-        "article_less_time_together"
-      ]
-    },
-    {
-      "fieldId": "daily_skills",
-      "id": "abs_braking",
-      "name": "Braking systems and their limits",
-      "order": 1,
-      "summary": "What anti-lock braking does, what it cannot do, and how the older methods of braking still earn their place.",
-      "topicIds": [
-        "article_abs_braking"
-      ]
-    },
-    {
-      "fieldId": "daily_skills",
-      "id": "appliance_symbols",
-      "name": "Appliance symbols and programmes",
-      "order": 1,
-      "summary": "The pictures on washing machines, dishwashers and ovens, and what each one is asking you to do.",
-      "topicIds": [
-        "article_appliance_symbols"
-      ]
-    },
-    {
-      "fieldId": "daily_skills",
-      "id": "pump_electrical_safety",
-      "name": "Pumps, water and electric leakage",
-      "order": 1,
-      "summary": "Why a pump that moves water can move current too, and how a house is protected from it.",
-      "topicIds": [
-        "article_pump_electrical_safety"
-      ]
-    },
-    {
-      "fieldId": "daily_skills",
-      "id": "water_heater_safety",
-      "name": "Water heaters and electrical safety",
-      "order": 1,
-      "summary": "How a water heater can put current into the water or into a person, and how the installation is meant to stop it.",
-      "topicIds": [
-        "article_water_heater_safety"
-      ]
-    },
-    {
-      "fieldId": "health",
-      "id": "medicine_labels",
-      "name": "Medicine labels and dosage instructions",
-      "order": 1,
-      "summary": "The information printed on a medicine pack: names, strengths, timing, warnings and how to measure a dose.",
-      "topicIds": [
-        "article_medicine_labels"
-      ]
-    },
-    {
-      "fieldId": "health",
-      "id": "describing_symptoms",
-      "name": "Describing symptoms to a doctor",
-      "order": 1,
-      "summary": "The structured language of a symptom report: when, where, how it feels, what changes it, and what to say.",
-      "topicIds": [
-        "article_symptoms"
       ]
     },
     {
@@ -465,6 +281,177 @@
         "article_cyberchondria",
         "article_illusion_skill",
         "article_psychological_manipulation"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "inner_dual",
+      "name": "The good and the bad in one person",
+      "order": 9,
+      "summary": "Why kindness and harm come from the same source, and what that means when you decide.",
+      "topicIds": [
+        "article_inner_dual"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "intelligence_illusion",
+      "name": "The illusion of intelligence",
+      "order": 8,
+      "summary": "Why a score, a grade or a fast answer is weak evidence of thinking ability, and what stronger evidence looks like.",
+      "topicIds": [
+        "article_intelligence_illusion"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "intelligence_nature",
+      "name": "The nature of intelligence",
+      "order": 6,
+      "summary": "Why the same mind is strong in one field and weak in another, and what that means at work.",
+      "topicIds": [
+        "article_intelligence_nature"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "knowledge_paradox",
+      "name": "The paradox of knowledge",
+      "order": 10,
+      "summary": "Why more facts do not make a person understand more, and what understanding really is.",
+      "topicIds": [
+        "article_knowledge_paradox"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "mind_power",
+      "name": "Information, society and power",
+      "order": 4,
+      "summary": "How information shapes opinion, behavior and political life.",
+      "topicIds": [
+        "article_manufactured_consent",
+        "article_theory_of_war"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "math_and_literature",
+      "name": "Mathematics and literature: two ways of thinking",
+      "order": 7,
+      "summary": "How a proof reasons and how a story reasons, and why a team needs both.",
+      "topicIds": [
+        "article_math_and_literature"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "specialization_blindspot",
+      "name": "Specialisation and its blind spot",
+      "order": 11,
+      "summary": "Why deep skill in one field makes a person less able to judge another, and how to work around it.",
+      "topicIds": [
+        "article_specialization_blindspot"
+      ]
+    },
+    {
+      "fieldId": "money",
+      "id": "bills_and_statements",
+      "name": "Bills, receipts and bank statements",
+      "order": 1,
+      "summary": "The documents money comes in: how to read them, check them, keep them and dispute them.",
+      "topicIds": [
+        "article_bills_statements"
+      ]
+    },
+    {
+      "fieldId": "money",
+      "id": "what_money_is",
+      "name": "What money is",
+      "order": 1,
+      "summary": "Money as a promise, a tool and a record — and what it is not.",
+      "topicIds": [
+        "article_what_money_is"
+      ]
+    },
+    {
+      "fieldId": "technology",
+      "id": "how_ai_works",
+      "name": "How an AI model works",
+      "order": 1,
+      "summary": "Tokens, training, prediction and the limits of a model that answers in complete sentences.",
+      "topicIds": [
+        "article_how_ai_works"
+      ]
+    },
+    {
+      "fieldId": "technology",
+      "id": "ai_revolution",
+      "name": "The AI revolution",
+      "order": 1,
+      "summary": "Where artificial intelligence already works, what it still cannot do, and how it changes work, services and daily life.",
+      "topicIds": [
+        "article_ai_revolution"
+      ]
+    },
+    {
+      "fieldId": "technology",
+      "id": "ai_tokens",
+      "name": "AI tokens and chatbots",
+      "order": 1,
+      "summary": "The pieces a chatbot works with: tokens, context windows, prompts and the limits that follow from them.",
+      "topicIds": [
+        "article_ai_tokens"
+      ]
+    },
+    {
+      "fieldId": "travel",
+      "id": "airport_navigation",
+      "name": "Airport navigation and procedures",
+      "order": 1,
+      "summary": "Terminals, security, passport control, gates and transfers: the order of the journey and the words used at each step.",
+      "topicIds": [
+        "article_airport"
+      ]
+    },
+    {
+      "fieldId": "travel",
+      "id": "ordering_food",
+      "name": "Reading menus, ordering and paying",
+      "order": 1,
+      "summary": "Menus in another language, dietary needs, the words used at the table, tipping and paying.",
+      "topicIds": [
+        "article_ordering_food"
+      ]
+    },
+    {
+      "fieldId": "travel",
+      "id": "lost_passport",
+      "name": "Lost passports, consular help and travel documents",
+      "order": 1,
+      "summary": "Reporting a loss, embassy procedures, emergency travel documents, and what to do while you wait.",
+      "topicIds": [
+        "article_lost_passport"
+      ]
+    },
+    {
+      "fieldId": "work",
+      "id": "professional_emails",
+      "name": "Professional email writing",
+      "order": 1,
+      "summary": "How a professional email is built: the subject line, the structure, the register, and the words each kind of email needs.",
+      "topicIds": [
+        "article_professional_emails"
+      ]
+    },
+    {
+      "fieldId": "work",
+      "id": "job_interview",
+      "name": "Job interviews and self-introduction",
+      "order": 1,
+      "summary": "The professional register of a job interview: how to introduce yourself, describe your experience, answer questions and follow up.",
+      "topicIds": [
+        "article_job_interview"
       ]
     }
   ],

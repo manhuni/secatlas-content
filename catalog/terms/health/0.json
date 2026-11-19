@@ -1,6 +1,90 @@
 {
   "items": [
     {
+      "definition": "The substance in the medicine that produces the effect. Every other substance in the pack is only there to help it.",
+      "dictionaryId": "lex.sa.health.active_ingredient",
+      "example": "The active ingredient is the same in both packs, only the strength differs.",
+      "fieldId": "health",
+      "id": "active_ingredient",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Active ingredient"
+    },
+    {
+      "definition": "A condition in which the medicine must not be used, because the risk outweighs the benefit.",
+      "dictionaryId": "lex.sa.health.contraindication",
+      "example": "Pregnancy is a contraindication for this medicine, so I will ask about an alternative.",
+      "fieldId": "health",
+      "id": "contraindication",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Contraindication"
+    },
+    {
+      "definition": "Any effect the medicine has other than the one it is meant to produce.",
+      "dictionaryId": "lex.sa.health.side_effect",
+      "example": "Nausea is listed as a side effect, and it usually passes after the first few days.",
+      "fieldId": "health",
+      "id": "side_effect",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Side effect"
+    },
+    {
+      "definition": "What happens when a medicine meets another medicine, or alcohol, or a particular food. Some are dangerous.",
+      "dictionaryId": "lex.sa.health.interaction",
+      "example": "There is an interaction with this antibiotic, so I will tell the pharmacist about everything I take.",
+      "fieldId": "health",
+      "id": "interaction",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Interaction"
+    },
+    {
+      "definition": "The last date on which the maker guarantees the medicine keeps its strength and its safety.",
+      "dictionaryId": "lex.sa.health.expiry_date",
+      "example": "The expiry date is on the strip, so I checked the one on the box too.",
+      "fieldId": "health",
+      "id": "expiry_date",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Expiry date"
+    },
+    {
+      "definition": "The licence number under which the medicine is sold. It identifies the pack in the regulator's records.",
+      "dictionaryId": "lex.sa.health.marketing_authorisation_number",
+      "example": "The marketing authorisation number is printed at the bottom of the carton, and I quoted it in the report.",
+      "fieldId": "health",
+      "id": "marketing_authorisation_number",
+      "lessonIds": [
+        "article_medicine_labels"
+      ],
+      "packs": [
+        "knw.health.medicine"
+      ],
+      "term": "Marketing authorisation number"
+    },
+    {
       "conflict": true,
       "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
       "dictionaryId": "lex.sa.daily_skills.serving_size",
@@ -142,23 +226,6 @@
       "term": "Sleep efficiency"
     },
     {
-      "conflict": true,
-      "definition": "The dreaming stage of sleep, when memory is consolidated and emotional reactions are regulated.",
-      "dictionaryId": "lex.sa.health.rem_sleep",
-      "example": "Alcohol takes away REM sleep, so I wake up tired even after a long night.",
-      "fieldId": "health",
-      "id": "rem_sleep",
-      "lessonIds": [
-        "article_science_sleepneed",
-        "article_sleep"
-      ],
-      "packs": [
-        "knw.health.sleep",
-        "knw.kids.science.sleepneed"
-      ],
-      "term": "REM sleep"
-    },
-    {
       "definition": "The accumulated gap between the sleep you have had and the sleep you need. It can be partly repaid, but slowly.",
       "dictionaryId": "lex.sa.health.sleep_debt",
       "example": "I have been building up sleep debt for three weeks of early starts.",
@@ -199,90 +266,6 @@
         "knw.health.sleep"
       ],
       "term": "Sleep apnoea"
-    },
-    {
-      "definition": "The substance in the medicine that produces the effect. Every other substance in the pack is only there to help it.",
-      "dictionaryId": "lex.sa.health.active_ingredient",
-      "example": "The active ingredient is the same in both packs, only the strength differs.",
-      "fieldId": "health",
-      "id": "active_ingredient",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Active ingredient"
-    },
-    {
-      "definition": "A condition in which the medicine must not be used, because the risk outweighs the benefit.",
-      "dictionaryId": "lex.sa.health.contraindication",
-      "example": "Pregnancy is a contraindication for this medicine, so I will ask about an alternative.",
-      "fieldId": "health",
-      "id": "contraindication",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Contraindication"
-    },
-    {
-      "definition": "Any effect the medicine has other than the one it is meant to produce.",
-      "dictionaryId": "lex.sa.health.side_effect",
-      "example": "Nausea is listed as a side effect, and it usually passes after the first few days.",
-      "fieldId": "health",
-      "id": "side_effect",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Side effect"
-    },
-    {
-      "definition": "What happens when a medicine meets another medicine, or alcohol, or a particular food. Some are dangerous.",
-      "dictionaryId": "lex.sa.health.interaction",
-      "example": "There is an interaction with this antibiotic, so I will tell the pharmacist about everything I take.",
-      "fieldId": "health",
-      "id": "interaction",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Interaction"
-    },
-    {
-      "definition": "The last date on which the maker guarantees the medicine keeps its strength and its safety.",
-      "dictionaryId": "lex.sa.health.expiry_date",
-      "example": "The expiry date is on the strip, so I checked the one on the box too.",
-      "fieldId": "health",
-      "id": "expiry_date",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Expiry date"
-    },
-    {
-      "definition": "The licence number under which the medicine is sold. It identifies the pack in the regulator's records.",
-      "dictionaryId": "lex.sa.health.marketing_authorisation_number",
-      "example": "The marketing authorisation number is printed at the bottom of the carton, and I quoted it in the report.",
-      "fieldId": "health",
-      "id": "marketing_authorisation_number",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Marketing authorisation number"
     },
     {
       "definition": "Something you notice and describe yourself: pain, dizziness, a cough, a lump.",

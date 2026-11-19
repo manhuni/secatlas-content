@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "definition": "The rate of change of velocity with time.",
-      "dictionaryId": "lex.sa.en.acceleration.noun",
-      "example": "A car that speeds up from 0 to 100 km/h in 10 s has an acceleration of 2.78 m/s².",
-      "fieldId": "physics",
-      "hidden": true,
-      "id": "acceleration",
-      "lessonIds": [],
-      "packs": [
-        "knw.article.showcase"
-      ],
-      "term": "acceleration"
-    },
-    {
-      "definition": "The SI unit of electrical resistance.",
-      "dictionaryId": "lex.sa.en.ohm.noun",
-      "example": "A 2 Ω resistor carries 3 A when V = 6 V.",
-      "fieldId": "physics",
-      "hidden": true,
-      "id": "ohm",
-      "lessonIds": [],
-      "packs": [
-        "knw.article.showcase"
-      ],
-      "term": "ohm"
-    },
-    {
       "definition": "The unit of time equal to one sixtieth of a minute.",
       "dictionaryId": "lex.sa.en.second.noun",
       "example": "",
@@ -55,7 +29,6 @@
       "term": "newton"
     },
     {
-      "conflict": true,
       "definition": "The capacity to do work or cause change.",
       "dictionaryId": "lex.sa.en.energy.noun",
       "example": "",
@@ -126,6 +99,7 @@
       "term": "label"
     },
     {
+      "conflict": true,
       "definition": "A level of quality or a rule of conduct.",
       "dictionaryId": "lex.sa.en.standard.noun",
       "example": "",
@@ -166,6 +140,36 @@
         "knw.tech.units"
       ],
       "term": "figure"
+    },
+    {
+      "definition": "The rate of change of velocity with time.",
+      "dictionaryId": "lex.sa.en.acceleration.noun",
+      "example": "A car that speeds up from 0 to 100 km/h in 10 s has an acceleration of 2.78 m/s².",
+      "fieldId": "physics",
+      "id": "acceleration",
+      "lessonIds": [
+        "article_showcase"
+      ],
+      "packs": [
+        "knw.article.showcase",
+        "showcase"
+      ],
+      "term": "acceleration"
+    },
+    {
+      "definition": "The SI unit of electrical resistance.",
+      "dictionaryId": "lex.sa.en.ohm.noun",
+      "example": "A 2 Ω resistor carries 3 A when V = 6 V.",
+      "fieldId": "physics",
+      "id": "ohm",
+      "lessonIds": [
+        "article_showcase"
+      ],
+      "packs": [
+        "knw.article.showcase",
+        "showcase"
+      ],
+      "term": "ohm"
     }
   ],
   "nextCursor": null,

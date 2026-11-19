@@ -61,11 +61,13 @@
       "dictionaryId": "lex.sa.en.mole.noun",
       "example": "18 g of water is about one mole.",
       "fieldId": "chemistry",
-      "hidden": true,
       "id": "mole",
-      "lessonIds": [],
+      "lessonIds": [
+        "article_showcase"
+      ],
       "packs": [
-        "knw.article.showcase"
+        "knw.article.showcase",
+        "showcase"
       ],
       "term": "mole"
     },

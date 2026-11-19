@@ -1,186 +1,243 @@
 {
   "items": [
     {
-      "definition": "The state of being able to make the decision of commitment now, with the time, the wish and a picture of the cost.",
-      "dictionaryId": "lex.sa.social.lsc_commitment_readiness",
-      "example": "He has the wish and not the readiness, and he can tell the two apart.",
+      "definition": "Stating your need, your limit or your disagreement without wrapping it in blame.",
+      "dictionaryId": "lex.sa.social.gem_assertiveness",
+      "example": "Assertiveness is saying the report is late and then saying what you need instead.",
       "fieldId": "social",
-      "id": "lsc_commitment_readiness",
+      "id": "gem_assertiveness",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Commitment readiness"
+      "term": "Assertiveness"
     },
     {
-      "definition": "The willingness to be known by somebody new, which is wider than being selective or not.",
-      "dictionaryId": "lex.sa.social.lsc_openness",
-      "example": "Openness is not saying yes to everybody; it is letting one more person in.",
+      "definition": "The leaning that keeps the peace by not raising the issue at all.",
+      "dictionaryId": "lex.sa.social.gem_conflict_avoidance",
+      "example": "Conflict avoidance kept the meeting pleasant and the problem on the table.",
       "fieldId": "social",
-      "id": "lsc_openness",
+      "id": "gem_conflict_avoidance",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Openness"
+      "term": "Conflict avoidance"
     },
     {
-      "definition": "A strong dislike that turns a possible approach into an immediate withdrawal.",
-      "dictionaryId": "lex.sa.social.lsc_aversion",
-      "example": "Her aversion to that kind of meeting turned into a refusal before she had read the message.",
+      "conflict": true,
+      "definition": "A belief about a group that is applied to a person without looking at that person.",
+      "dictionaryId": "lex.sa.social.gem_stereotype",
+      "example": "That sentence about men and women is a stereotype, and it settles nothing about the man in front of you.",
       "fieldId": "social",
-      "id": "lsc_aversion",
+      "id": "gem_stereotype",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Aversion"
+      "term": "Stereotype"
     },
     {
-      "definition": "The state in which the same goal pulls you towards it and away from it at the same time.",
-      "dictionaryId": "lex.sa.social.lsc_approach_avoidance",
-      "example": "The approach-avoidance conflict is inside him, not in the other person.",
+      "definition": "The part of the value ranges of two groups that lies on top of each other.",
+      "dictionaryId": "lex.sa.social.gem_overlap",
+      "example": "The overlap between the two groups is wide, so the average says very little about one person.",
       "fieldId": "social",
-      "id": "lsc_approach_avoidance",
+      "id": "gem_overlap",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Approach-avoidance conflict"
+      "term": "Overlap"
     },
     {
-      "definition": "The question of when to marry, and the order of the events that answer it.",
-      "dictionaryId": "lex.sa.social.mt_marriage_timing",
-      "example": "Marriage timing is two questions: when the marriage happens, and when the life does.",
+      "definition": "The process of choosing a partner, from the first interest to the decision.",
+      "dictionaryId": "lex.sa.social.msa_mate_selection",
+      "example": "Mate selection was slow for her and quick for her brother.",
       "fieldId": "social",
-      "id": "mt_marriage_timing",
+      "id": "msa_mate_selection",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "marriage timing"
+      "term": "mate selection"
     },
     {
-      "definition": "The sequence of roles and stages people are expected to move through, in the usual order.",
-      "dictionaryId": "lex.sa.social.mt_life_course",
-      "example": "A life course puts study and work before children for most people, and in a different order for others.",
+      "definition": "The pull towards somebody, felt before any thought about the future.",
+      "dictionaryId": "lex.sa.social.msa_attraction",
+      "example": "The attraction was immediate, and that was not the same as choosing.",
       "fieldId": "social",
-      "id": "mt_life_course",
+      "id": "msa_attraction",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "life course"
+      "term": "attraction"
     },
     {
-      "definition": "The age or stage at which a milestone is expected in a given community.",
-      "dictionaryId": "lex.sa.social.mt_normative_timing",
-      "example": "The normative timing is what people assume when they do not ask.",
+      "definition": "What a person says they want, before any particular person comes along.",
+      "dictionaryId": "lex.sa.social.msa_preference",
+      "example": "My preference was somebody older; the person I chose was younger.",
       "fieldId": "social",
-      "id": "mt_normative_timing",
+      "id": "msa_preference",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "normative timing"
+      "term": "preference"
     },
     {
-      "definition": "The pattern in which the further a person goes in schooling, the later the marriage tends to arrive.",
-      "dictionaryId": "lex.sa.social.mt_education_gradient",
-      "example": "The education gradient is a pattern in a group, not a cause that works on one person.",
+      "definition": "A quality whose absence ends the possibility, as opposed to one that only lowers the score.",
+      "dictionaryId": "lex.sa.social.msa_deal_breaker",
+      "example": "Dishonesty was the deal-breaker, and the rest were preferences.",
       "fieldId": "social",
-      "id": "mt_education_gradient",
+      "id": "msa_deal_breaker",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "education gradient"
+      "term": "deal-breaker"
     },
     {
-      "definition": "Living together as a couple without being married.",
-      "dictionaryId": "lex.sa.social.mt_cohabitation",
-      "example": "Cohabitation moved their date, because the shared life came before the legal form.",
+      "definition": "The difference in age between two partners, and the direction of that difference.",
+      "dictionaryId": "lex.sa.social.msa_age_gap",
+      "example": "The age gap was four years, and she was the older one.",
       "fieldId": "social",
-      "id": "mt_cohabitation",
+      "id": "msa_age_gap",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "cohabitation"
+      "term": "age gap"
     },
     {
-      "definition": "The state of a group in which marriage is entered later than it used to be.",
-      "dictionaryId": "lex.sa.social.mt_deferred_marriage",
-      "example": "Deferred marriage is the name for a group-wide move to a later date.",
+      "definition": "The range of ages a person thinks of as suitable when choosing a partner.",
+      "dictionaryId": "lex.sa.social.msa_age_preference",
+      "example": "Her age preference was wide, and the people she chose were not.",
       "fieldId": "social",
-      "id": "mt_deferred_marriage",
+      "id": "msa_age_preference",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "deferred marriage"
+      "term": "age preference"
     },
     {
-      "definition": "The total of the ages in a group divided by the number of people in it.",
-      "dictionaryId": "lex.sa.social.mt_mean_age",
-      "example": "The mean age moved up, because a few people married much later than the rest.",
+      "definition": "A span with a lower and an upper bound, used here for the ages a person will consider.",
+      "dictionaryId": "lex.sa.social.msa_age_range",
+      "example": "Write your age range as two numbers, not as a feeling.",
       "fieldId": "social",
-      "id": "mt_mean_age",
+      "id": "msa_age_range",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "mean age"
+      "term": "age range"
     },
     {
-      "definition": "The age in the middle of a list: half the group is older and half is younger.",
-      "dictionaryId": "lex.sa.social.mt_median_age",
-      "example": "The median age stayed where the middle of the group was, even as the mean age rose.",
+      "definition": "The pattern in which partners tend to be similar to each other on age, schooling, place or work.",
+      "dictionaryId": "lex.sa.social.msa_assortative_mating",
+      "example": "Assortative mating was visible in the town: the teachers married teachers.",
       "fieldId": "social",
-      "id": "mt_median_age",
+      "id": "msa_assortative_mating",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "median age"
+      "term": "assortative mating"
     },
     {
-      "definition": "A planned event moved to a later date.",
-      "dictionaryId": "lex.sa.social.mt_postponement",
-      "example": "The postponement had a reason, and the reason was the contract.",
+      "definition": "How close two people are in space and time, and how often they meet.",
+      "dictionaryId": "lex.sa.social.msa_proximity",
+      "example": "Proximity did the work: they shared a shift and a bus stop.",
       "fieldId": "social",
-      "id": "mt_postponement",
+      "id": "msa_proximity",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "postponement"
+      "term": "proximity"
+    },
+    {
+      "definition": "What you give up in order to get something else you want more.",
+      "dictionaryId": "lex.sa.social.msa_trade_off",
+      "example": "The trade-off was time: more choice now, or a settled life sooner.",
+      "fieldId": "social",
+      "id": "msa_trade_off",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "trade-off"
+    },
+    {
+      "definition": "The period of getting to know somebody before a decision is made.",
+      "dictionaryId": "lex.sa.social.msa_courtship",
+      "example": "The courtship lasted a year, and most of it was conversation.",
+      "fieldId": "social",
+      "id": "msa_courtship",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "courtship"
+    },
+    {
+      "definition": "How well two people fit together in ordinary daily life.",
+      "dictionaryId": "lex.sa.social.msa_compatibility",
+      "example": "Compatibility showed up in the small things: the pace, the money, the quiet.",
+      "fieldId": "social",
+      "id": "msa_compatibility",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "compatibility"
+    },
+    {
+      "definition": "The people who are actually available to you to choose from at a given time.",
+      "dictionaryId": "lex.sa.social.msa_choice_set",
+      "example": "Your choice set is the people you actually meet, not everybody you like the idea of.",
+      "fieldId": "social",
+      "id": "msa_choice_set",
+      "lessonIds": [
+        "article_mate_selection_age"
+      ],
+      "packs": [
+        "knw.social.mate_selection_age"
+      ],
+      "term": "choice set"
     },
     {
       "conflict": true,
@@ -188,267 +245,217 @@
       "dictionaryId": "lex.sa.social.msa_readiness",
       "example": "Readiness was not there yet, and she said so plainly.",
       "fieldId": "social",
-      "id": "mt_readiness",
+      "id": "msa_readiness",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
       "term": "readiness"
     },
     {
-      "definition": "The money part of readiness: a steady income, some savings and a housing situation that holds.",
-      "dictionaryId": "lex.sa.social.mt_financial_readiness",
-      "example": "Financial readiness is the money part of readiness; the rest is not a number.",
-      "fieldId": "social",
-      "id": "mt_financial_readiness",
+      "definition": "The first number of a negotiation, which every later number is measured against.",
+      "dictionaryId": "lex.sa.work.dpn_anchoring",
+      "example": "The seller opened at 120,000, and every figure after that was measured against it.",
+      "fieldId": "work",
+      "id": "dpn_anchoring",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "financial readiness"
-    },
-    {
-      "definition": "How far ahead the decision can see, which decides how urgent it feels.",
-      "dictionaryId": "lex.sa.social.mt_decision_horizon",
-      "example": "Our decision horizons are different lengths, and that is the disagreement.",
-      "fieldId": "social",
-      "id": "mt_decision_horizon",
-      "lessonIds": [
-        "article_marriage_timing"
-      ],
-      "packs": [
-        "knw.social.marriage_timing"
-      ],
-      "term": "decision horizon"
-    },
-    {
-      "definition": "The timing of the people around you, used as a reference point for your own.",
-      "dictionaryId": "lex.sa.social.mt_peer_timing",
-      "example": "Peer timing says everybody my age is married; peer timing is not a measurement of me.",
-      "fieldId": "social",
-      "id": "mt_peer_timing",
-      "lessonIds": [
-        "article_marriage_timing"
-      ],
-      "packs": [
-        "knw.social.marriage_timing"
-      ],
-      "term": "peer timing"
-    },
-    {
-      "definition": "The pressure a family puts on the timing of its members.",
-      "dictionaryId": "lex.sa.social.mt_family_pressure",
-      "example": "Family pressure asks about grandchildren at the table, and the answer is a plan.",
-      "fieldId": "social",
-      "id": "mt_family_pressure",
-      "lessonIds": [
-        "article_marriage_timing"
-      ],
-      "packs": [
-        "knw.social.marriage_timing"
-      ],
-      "term": "family pressure"
-    },
-    {
-      "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
-      "dictionaryId": "lex.sa.money.mon_iso_code",
-      "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
-      "fieldId": "money",
-      "id": "mon_iso_code",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "ISO 4217 code"
-    },
-    {
-      "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
-      "dictionaryId": "lex.sa.money.mon_legal_tender",
-      "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
-      "fieldId": "money",
-      "id": "mon_legal_tender",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Legal tender"
-    },
-    {
-      "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
-      "dictionaryId": "lex.sa.money.mon_minor_unit",
-      "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
-      "fieldId": "money",
-      "id": "mon_minor_unit",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Minor unit"
-    },
-    {
-      "definition": "The value printed on a note or a coin, such as 20 or 500.",
-      "dictionaryId": "lex.sa.money.mon_denomination",
-      "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
-      "fieldId": "money",
-      "id": "mon_denomination",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Denomination"
-    },
-    {
-      "definition": "The price of one currency expressed in the money of another currency.",
-      "dictionaryId": "lex.sa.money.mon_exchange_rate",
-      "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
-      "fieldId": "money",
-      "id": "mon_exchange_rate",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Exchange rate"
-    },
-    {
-      "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
-      "dictionaryId": "lex.sa.money.mon_base_currency",
-      "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
-      "fieldId": "money",
-      "id": "mon_base_currency",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Base currency"
-    },
-    {
-      "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
-      "dictionaryId": "lex.sa.money.mon_quote_currency",
-      "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
-      "fieldId": "money",
-      "id": "mon_quote_currency",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Quote currency"
-    },
-    {
-      "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
-      "dictionaryId": "lex.sa.money.mon_currency_union",
-      "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
-      "fieldId": "money",
-      "id": "mon_currency_union",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Currency union"
-    },
-    {
-      "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
-      "dictionaryId": "lex.sa.money.mon_dollarization",
-      "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
-      "fieldId": "money",
-      "id": "mon_dollarization",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Dollarization"
+      "term": "Anchoring"
     },
     {
       "conflict": true,
-      "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
-      "dictionaryId": "lex.sa.mind.cs_devaluation",
-      "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
-      "fieldId": "money",
-      "id": "mon_devaluation",
+      "definition": "A pressure tactic that claims the supply is limited, so that waiting looks like a loss.",
+      "dictionaryId": "lex.sa.mind.psy_scarcity",
+      "example": "The scarcity was easy to check: the shelf held six, not two.",
+      "fieldId": "work",
+      "id": "dpn_scarcity",
       "lessonIds": [
-        "article_world_currencies"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "Devaluation"
+      "term": "Scarcity"
     },
     {
-      "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
-      "dictionaryId": "lex.sa.money.mon_cash_economy",
-      "example": "In a cash economy, a market stall may not have a machine at all.",
-      "fieldId": "money",
-      "id": "mon_cash_economy",
+      "conflict": true,
+      "definition": "A pressure tactic that shortens the time available for checking and deciding.",
+      "dictionaryId": "lex.sa.mind.psy_urgency",
+      "example": "The urgency was built to stop a phone call: sign tonight or the price changes.",
+      "fieldId": "work",
+      "id": "dpn_urgency",
       "lessonIds": [
-        "article_world_currencies"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "Cash economy"
+      "term": "Urgency"
     },
     {
-      "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
-      "dictionaryId": "lex.sa.money.mon_parallel_market",
-      "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
-      "fieldId": "money",
-      "id": "mon_parallel_market",
+      "conflict": true,
+      "definition": "A pressure tactic that presents the decisions of other people as evidence for your own.",
+      "dictionaryId": "lex.sa.mind.psy_social_proof",
+      "example": "The offer came with social proof: nine out of ten customers chose the larger plan.",
+      "fieldId": "work",
+      "id": "dpn_social_proof",
       "lessonIds": [
-        "article_world_currencies"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "Parallel market"
+      "term": "Social proof"
     },
     {
-      "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
-      "dictionaryId": "lex.sa.money.mon_tipping",
-      "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
-      "fieldId": "money",
-      "id": "mon_tipping",
+      "conflict": true,
+      "definition": "The pressure to return a favour that the other side has given you.",
+      "dictionaryId": "lex.sa.work.dpn_reciprocity",
+      "example": "The discount was the favour, and the renewal at the same price was the bill.",
+      "fieldId": "work",
+      "id": "dpn_reciprocity",
       "lessonIds": [
-        "article_world_currencies"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "Tipping"
+      "term": "Reciprocity"
     },
     {
-      "definition": "The money a person working abroad sends to the family at home.",
-      "dictionaryId": "lex.sa.money.mon_remittance",
-      "example": "He sends a remittance every month, and the rent is paid from it.",
-      "fieldId": "money",
-      "id": "mon_remittance",
+      "definition": "The pull of a person you like, used to move the decision away from the terms.",
+      "dictionaryId": "lex.sa.work.dpn_liking",
+      "example": "The liking did not change the price, but it changed who got the last word.",
+      "fieldId": "work",
+      "id": "dpn_liking",
       "lessonIds": [
-        "article_world_currencies"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "Remittance"
+      "term": "Liking"
+    },
+    {
+      "definition": "The pressure to act in line with what you have already agreed or done.",
+      "dictionaryId": "lex.sa.work.dpn_commitment_consistency",
+      "example": "He had approved the budget, so the second approval came easier.",
+      "fieldId": "work",
+      "id": "dpn_commitment_consistency",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Commitment and consistency"
+    },
+    {
+      "definition": "The weight a loss carries compared with a gain of the same size.",
+      "dictionaryId": "lex.sa.work.dpn_loss_aversion",
+      "example": "The same 20,000 hurt as a loss and helped as a saving.",
+      "fieldId": "work",
+      "id": "dpn_loss_aversion",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Loss aversion"
+    },
+    {
+      "conflict": true,
+      "definition": "The choice of words around a fact, which changes how the fact feels.",
+      "dictionaryId": "lex.sa.work.dpn_framing",
+      "example": "The framing changed nothing: 400 a month is the same money as 4,800 a year.",
+      "fieldId": "work",
+      "id": "dpn_framing",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Framing"
+    },
+    {
+      "conflict": true,
+      "definition": "A small, easy agreement that is used later as the reason for a much larger one.",
+      "dictionaryId": "lex.sa.mind.psy_foot_in_the_door",
+      "example": "The free trial was the foot in the door: the yearly contract came next.",
+      "fieldId": "work",
+      "id": "dpn_foot_in_the_door",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Foot in the door"
+    },
+    {
+      "definition": "A large request made first, so that the smaller request looks reasonable.",
+      "dictionaryId": "lex.sa.work.dpn_door_in_the_face",
+      "example": "The full package at 200,000 was the door in the face, and the single machine was the real order.",
+      "fieldId": "work",
+      "id": "dpn_door_in_the_face",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Door in the face"
+    },
+    {
+      "definition": "The best deal you can make if the deal in front of you does not happen.",
+      "dictionaryId": "lex.sa.work.dpn_batna",
+      "example": "Before the meeting he wrote down his BATNA: the other supplier, the price and the date.",
+      "fieldId": "work",
+      "id": "dpn_batna",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "BATNA"
+    },
+    {
+      "definition": "The price above which the deal is worse than your best alternative.",
+      "dictionaryId": "lex.sa.work.dpn_walk_away_price",
+      "example": "He set his walk-away price the week before, and he did not move it in the room.",
+      "fieldId": "work",
+      "id": "dpn_walk_away_price",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Walk-away price"
+    },
+    {
+      "conflict": true,
+      "definition": "Money, time or effort that has already been spent, and which is used as a reason to continue.",
+      "dictionaryId": "lex.sa.mind.psy_sunk_cost",
+      "example": "The sunk cost of the training was the argument for staying in the job.",
+      "fieldId": "work",
+      "id": "dpn_sunk_cost",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Sunk cost"
     }
   ],
   "nextCursor": null,

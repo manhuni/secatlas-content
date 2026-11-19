@@ -1,572 +1,570 @@
 {
   "items": [
     {
-      "definition": "The material around the live part of a cable that keeps the current inside it.",
-      "dictionaryId": "lex.sa.daily_skills.elec_insulation",
-      "example": "The insulation on the cable is cracked where it passes over the edge of the pit.",
-      "fieldId": "daily_skills",
-      "id": "elec_insulation",
+      "definition": "The people who are present and watching when you act.",
+      "dictionaryId": "lex.sa.mind.dual_audience",
+      "example": "With the customer in the room, the audience changed what he said.",
+      "fieldId": "mind",
+      "id": "dual_audience",
       "lessonIds": [
-        "article_pump_electrical_safety",
-        "article_water_heater_safety"
+        "article_inner_dual"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety",
-        "knw.daily.water_heater_safety"
+        "knw.mind.inner_dual"
       ],
-      "term": "Insulation"
+      "term": "Audience"
     },
     {
-      "definition": "Current that escapes from the live part of a cable or a pump through damaged insulation.",
-      "dictionaryId": "lex.sa.daily_skills.elec_leakage_current",
-      "example": "The electrician measured the leakage current before he ran the pump again.",
-      "fieldId": "daily_skills",
-      "id": "elec_leakage_current",
+      "definition": "Holding a decision back for a short time so that the second argument can be made.",
+      "dictionaryId": "lex.sa.mind.dual_self_control",
+      "example": "A little self-control before the reply is cheaper than a retraction later.",
+      "fieldId": "mind",
+      "id": "dual_self_control",
       "lessonIds": [
-        "article_pump_electrical_safety",
-        "article_water_heater_safety"
+        "article_inner_dual"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety",
-        "knw.daily.water_heater_safety"
+        "knw.mind.inner_dual"
       ],
-      "term": "Leakage current"
+      "term": "Self-control"
     },
     {
-      "definition": "A deep hole dug in the ground that holds the water a pump lifts.",
-      "dictionaryId": "lex.sa.daily_skills.pump_well",
-      "example": "The pump hangs ten metres down inside the well.",
-      "fieldId": "daily_skills",
-      "id": "pump_well",
+      "definition": "The sense that tells you an act would hurt somebody.",
+      "dictionaryId": "lex.sa.mind.dual_conscience",
+      "example": "His conscience told him the report would hurt the supplier.",
+      "fieldId": "mind",
+      "id": "dual_conscience",
       "lessonIds": [
-        "article_pump_electrical_safety"
+        "article_inner_dual"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety"
+        "knw.mind.inner_dual"
       ],
-      "term": "Well"
+      "term": "Conscience"
     },
     {
-      "definition": "A pit that collects water from a floor or a basement so that a pump can lift it.",
-      "dictionaryId": "lex.sa.daily_skills.pump_sump",
-      "example": "The sump in the basement pit fills when the floor drain backs up.",
-      "fieldId": "daily_skills",
-      "id": "pump_sump",
+      "definition": "The answer you owe for an act, to the people affected and to the law.",
+      "dictionaryId": "lex.sa.mind.dual_accountability",
+      "example": "The mistake was hers, and the accountability was hers as well.",
+      "fieldId": "mind",
+      "id": "dual_accountability",
       "lessonIds": [
-        "article_pump_electrical_safety"
+        "article_inner_dual"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety"
+        "knw.mind.inner_dual"
       ],
-      "term": "Sump"
+      "term": "Accountability"
     },
     {
-      "definition": "The green-and-yellow wire that connects the metal parts of an installation to the earth.",
-      "dictionaryId": "lex.sa.daily_skills.pump_earth_conductor",
-      "example": "The earth conductor was cut by a drill during the renovation.",
-      "fieldId": "daily_skills",
-      "id": "pump_earth_conductor",
+      "definition": "A rule that a group follows although nobody has written it down.",
+      "dictionaryId": "lex.sa.mind.dual_unwritten_rule",
+      "example": "The unwritten rule was that nobody questioned the schedule.",
+      "fieldId": "mind",
+      "id": "dual_unwritten_rule",
       "lessonIds": [
-        "article_pump_electrical_safety"
+        "article_inner_dual"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety"
+        "knw.mind.inner_dual"
       ],
-      "term": "Earth conductor"
+      "term": "Unwritten rule"
     },
     {
-      "definition": "The whole arrangement that connects the metal parts of an installation to the earth, so that a fault current has a safe way back.",
-      "dictionaryId": "lex.sa.daily_skills.elec_earthing",
-      "example": "The earthing of the pump was checked when the board was replaced.",
-      "fieldId": "daily_skills",
-      "id": "elec_earthing",
+      "definition": "A measurable stand-in for something you cannot see directly, such as a score standing in for ability.",
+      "dictionaryId": "lex.sa.mind.intelill_proxy",
+      "example": "The score is only a proxy; the ability itself is what the employer needs.",
+      "fieldId": "mind",
+      "id": "intelill_proxy",
       "lessonIds": [
-        "article_pump_electrical_safety",
-        "article_water_heater_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety",
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "Earthing"
+      "term": "Proxy"
     },
     {
-      "definition": "A device that compares the current going out with the current coming back, and opens the circuit when they differ.",
-      "dictionaryId": "lex.sa.daily_skills.elec_residual_current_device_rcd",
-      "example": "The residual-current device is the wide switch on the board with the test button.",
-      "fieldId": "daily_skills",
-      "id": "elec_residual_current_device_rcd",
+      "definition": "A fact that supports a claim, so that the claim does not rest on opinion alone.",
+      "dictionaryId": "lex.sa.mind.mind_evidence",
+      "example": "The temperature log is evidence that the pump ran hot.",
+      "fieldId": "mind",
+      "id": "mind_evidence",
       "lessonIds": [
-        "article_pump_electrical_safety",
-        "article_water_heater_safety"
+        "article_intelligence_illusion",
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety",
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_illusion",
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Residual-current device (RCD)"
+      "term": "Evidence"
     },
     {
-      "definition": "The IP code on the nameplate that says how well the casing keeps out solid objects and water.",
-      "dictionaryId": "lex.sa.daily_skills.pump_ip_rating",
-      "example": "The nameplate of this pump carries an ingress protection rating of IP68.",
-      "fieldId": "daily_skills",
-      "id": "pump_ip_rating",
+      "definition": "The capacity to do a task well, in a real situation, under real conditions.",
+      "dictionaryId": "lex.sa.mind.intelill_ability",
+      "example": "The ability to find the fault was there; the procedure had never been written down.",
+      "fieldId": "mind",
+      "id": "intelill_ability",
       "lessonIds": [
-        "article_pump_electrical_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "Ingress protection rating"
+      "term": "Ability"
     },
     {
-      "definition": "A switch on a float that starts or stops the pump when the water level rises or falls.",
-      "dictionaryId": "lex.sa.daily_skills.pump_float_switch",
-      "example": "The float switch in the tank stops the pump when the tank is empty.",
-      "fieldId": "daily_skills",
-      "id": "pump_float_switch",
+      "definition": "The quality of a test that asks whether it measures what it claims to measure.",
+      "dictionaryId": "lex.sa.mind.intelill_validity",
+      "example": "The test was reliable but not valid for the work we do.",
+      "fieldId": "mind",
+      "id": "intelill_validity",
       "lessonIds": [
-        "article_pump_electrical_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "Float switch"
+      "term": "Validity"
     },
     {
-      "definition": "The pump turning without water around it, so that the motor has nothing to cool it.",
-      "dictionaryId": "lex.sa.daily_skills.pump_dry_run",
-      "example": "A dry run heats the motor of a submersible pump.",
-      "fieldId": "daily_skills",
-      "id": "pump_dry_run",
+      "definition": "The quality of a measurement that gives a similar result when it is repeated.",
+      "dictionaryId": "lex.sa.mind.intelill_reliability",
+      "example": "Two markers gave the same result, so the marking was reliable.",
+      "fieldId": "mind",
+      "id": "intelill_reliability",
       "lessonIds": [
-        "article_pump_electrical_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "Dry run"
+      "term": "Reliability"
     },
     {
-      "definition": "Water moving in the wrong direction, back along the pipe towards the pump.",
-      "dictionaryId": "lex.sa.daily_skills.pump_backflow",
-      "example": "After the supply stops, backflow can leave the pump running with no water.",
-      "fieldId": "daily_skills",
-      "id": "pump_backflow",
+      "definition": "The ability to use what you learned in one situation in a different situation.",
+      "dictionaryId": "lex.sa.mind.intelill_transfer_of_learning",
+      "example": "The training transferred well: the same method worked on a new line.",
+      "fieldId": "mind",
+      "id": "intelill_transfer_of_learning",
       "lessonIds": [
-        "article_pump_electrical_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "Backflow"
+      "term": "Transfer of learning"
     },
     {
-      "definition": "The push of electric charge that drives a current.",
-      "dictionaryId": "lex.sa.en.voltage.noun",
-      "example": "The voltage across the cell is 12 V.",
-      "fieldId": "daily_skills",
-      "id": "wh_voltage",
+      "definition": "The rise in a test result that comes from having seen the material before.",
+      "dictionaryId": "lex.sa.mind.intelill_practice_effect",
+      "example": "The second attempt scored higher, and the practice effect explains much of it.",
+      "fieldId": "mind",
+      "id": "intelill_practice_effect",
       "lessonIds": [
-        "article_water_heater_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "voltage"
+      "term": "Practice effect"
     },
     {
-      "definition": "The green-and-yellow conductor that ties the metal case of an appliance to the earth bar in the board.",
-      "dictionaryId": "lex.sa.daily_skills.wh_earth_wire",
-      "example": "The earth wire was cut by a drill during the last renovation.",
-      "fieldId": "daily_skills",
-      "id": "wh_earth_wire",
+      "definition": "The usual result of a group, used as the point of comparison.",
+      "dictionaryId": "lex.sa.mind.intelill_norm",
+      "example": "Compare the mark with the norm for that group, not with the mark alone.",
+      "fieldId": "mind",
+      "id": "intelill_norm",
       "lessonIds": [
-        "article_water_heater_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "Earth wire (ground wire)"
+      "term": "Norm"
     },
     {
-      "definition": "A device that opens a circuit when the current is higher than the circuit is rated for.",
-      "dictionaryId": "lex.sa.daily_skills.wh_circuit_breaker",
-      "example": "The circuit breaker is the 16 A device on the board.",
-      "fieldId": "daily_skills",
-      "id": "wh_circuit_breaker",
+      "definition": "The power of a test to separate the people who know the material from those who do not.",
+      "dictionaryId": "lex.sa.mind.intelill_discriminability",
+      "example": "A test that everybody passes has poor discriminability.",
+      "fieldId": "mind",
+      "id": "intelill_discriminability",
       "lessonIds": [
-        "article_water_heater_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "Circuit breaker"
+      "term": "Discriminability"
     },
     {
-      "definition": "Joining metal parts to each other so that they cannot sit at different voltages.",
-      "dictionaryId": "lex.sa.daily_skills.wh_bonding",
-      "example": "Bonding of the metal pipework is part of the installation.",
-      "fieldId": "daily_skills",
-      "id": "wh_bonding",
+      "definition": "The test that says whether something is good enough, or true enough.",
+      "dictionaryId": "lex.sa.mind.mind_criterion",
+      "example": "The criterion for a useful fault report is not the length of it but the reason in it.",
+      "fieldId": "mind",
+      "id": "mind_criterion",
       "lessonIds": [
-        "article_water_heater_safety"
+        "article_intelligence_illusion",
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_illusion",
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Bonding"
+      "term": "Criterion"
     },
     {
-      "definition": "To open the circuit by itself, because the device has found a fault or an overload.",
-      "dictionaryId": "lex.sa.daily_skills.wh_trip",
-      "example": "The RCD tripped when the heater was switched on.",
-      "fieldId": "daily_skills",
-      "id": "wh_trip",
+      "definition": "Judging your own work or your own ability.",
+      "dictionaryId": "lex.sa.mind.intelill_self_assessment",
+      "example": "Self-assessment told him he was ready; the job in front of him said otherwise.",
+      "fieldId": "mind",
+      "id": "intelill_self_assessment",
       "lessonIds": [
-        "article_water_heater_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "Trip"
+      "term": "Self-assessment"
     },
     {
-      "definition": "A valve on the tank that opens and releases water if the pressure or the temperature inside becomes too high.",
-      "dictionaryId": "lex.sa.daily_skills.wh_safety_valve",
-      "example": "The safety valve is the small brass valve on the cold pipe.",
-      "fieldId": "daily_skills",
-      "id": "wh_safety_valve",
+      "definition": "Rating your ability above what it is.",
+      "dictionaryId": "lex.sa.mind.intelill_overestimation",
+      "example": "Her overestimation cost her the job she had already won in her head.",
+      "fieldId": "mind",
+      "id": "intelill_overestimation",
       "lessonIds": [
-        "article_water_heater_safety"
+        "article_intelligence_illusion"
       ],
       "packs": [
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_illusion"
       ],
-      "term": "Safety valve"
+      "term": "Overestimation"
     },
     {
-      "definition": "A rod of metal that corrodes instead of the tank, so that the tank wall is saved.",
-      "dictionaryId": "lex.sa.daily_skills.wh_anode_rod",
-      "example": "The anode rod is checked at every service and replaced when it is worn away.",
-      "fieldId": "daily_skills",
-      "id": "wh_anode_rod",
+      "definition": "The ability to reason, to solve a problem that is not written down, and to adapt when the situation changes.",
+      "dictionaryId": "lex.sa.mind.intel_intelligence",
+      "example": "Intelligence is what lets her find her way through a procedure she has never seen before.",
+      "fieldId": "mind",
+      "id": "intel_intelligence",
       "lessonIds": [
-        "article_water_heater_safety"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Anode rod"
+      "term": "Intelligence"
     },
     {
-      "definition": "A burn caused by hot liquid or steam.",
-      "dictionaryId": "lex.sa.daily_skills.wh_scald",
-      "example": "Water at 60 °C can scald a child in a few seconds.",
-      "fieldId": "daily_skills",
-      "id": "wh_scald",
+      "definition": "The work of working out a step-by-step path to an answer, and of checking that path.",
+      "dictionaryId": "lex.sa.mind.intel_reasoning",
+      "example": "Reasoning took her through the fault one step at a time until the cause was clear.",
+      "fieldId": "mind",
+      "id": "intel_reasoning",
       "lessonIds": [
-        "article_water_heater_safety"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Scald"
+      "term": "Reasoning"
     },
     {
-      "definition": "Removing the mineral scale that builds up inside a tank and on the heating element.",
-      "dictionaryId": "lex.sa.daily_skills.wh_descaling",
-      "example": "Descaling is done at the service interval in hard water areas.",
-      "fieldId": "daily_skills",
-      "id": "wh_descaling",
+      "definition": "The ability to handle an idea apart from the single case it came from, and to see the shape of it.",
+      "dictionaryId": "lex.sa.mind.intel_abstraction",
+      "example": "Abstraction is what let him see that the same fault on two machines had one cause.",
+      "fieldId": "mind",
+      "id": "intel_abstraction",
       "lessonIds": [
-        "article_water_heater_safety"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.daily.water_heater_safety"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Descaling"
+      "term": "Abstraction"
     },
     {
-      "definition": "The substance in the medicine that produces the effect. Every other substance in the pack is only there to help it.",
-      "dictionaryId": "lex.sa.health.active_ingredient",
-      "example": "The active ingredient is the same in both packs, only the strength differs.",
-      "fieldId": "health",
-      "id": "active_ingredient",
+      "definition": "The small amount of information a person can hold in mind for a short time and still use.",
+      "dictionaryId": "lex.sa.mind.intel_working_memory",
+      "example": "His working memory filled up with the five readings he was tracking, and he lost the first one.",
+      "fieldId": "mind",
+      "id": "intel_working_memory",
       "lessonIds": [
-        "article_medicine_labels"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.medicine"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Active ingredient"
+      "term": "Working memory"
     },
     {
-      "definition": "A condition in which the medicine must not be used, because the risk outweighs the benefit.",
-      "dictionaryId": "lex.sa.health.contraindication",
-      "example": "Pregnancy is a contraindication for this medicine, so I will ask about an alternative.",
-      "fieldId": "health",
-      "id": "contraindication",
+      "definition": "Deep skill and knowledge in one narrow field, built up over years of practice.",
+      "dictionaryId": "lex.sa.mind.intel_expertise",
+      "example": "Her expertise on the press line made her the only person who could set the machine up.",
+      "fieldId": "mind",
+      "id": "intel_expertise",
       "lessonIds": [
-        "article_medicine_labels"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.medicine"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Contraindication"
+      "term": "Expertise"
     },
     {
-      "definition": "Any effect the medicine has other than the one it is meant to produce.",
-      "dictionaryId": "lex.sa.health.side_effect",
-      "example": "Nausea is listed as a side effect, and it usually passes after the first few days.",
-      "fieldId": "health",
-      "id": "side_effect",
+      "definition": "The capacity to learn a particular kind of work quickly and well.",
+      "dictionaryId": "lex.sa.mind.intel_aptitude",
+      "example": "She had an aptitude for the work: she was accurate within a week of arriving.",
+      "fieldId": "mind",
+      "id": "intel_aptitude",
       "lessonIds": [
-        "article_medicine_labels"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.medicine"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Side effect"
+      "term": "Aptitude"
     },
     {
-      "definition": "What happens when a medicine meets another medicine, or alcohol, or a particular food. Some are dangerous.",
-      "dictionaryId": "lex.sa.health.interaction",
-      "example": "There is an interaction with this antibiotic, so I will tell the pharmacist about everything I take.",
-      "fieldId": "health",
-      "id": "interaction",
+      "definition": "The pattern of strengths and weaknesses a person shows across different kinds of thinking.",
+      "dictionaryId": "lex.sa.mind.intel_cognitive_profile",
+      "example": "Her cognitive profile is strong with people and weak with long tables of numbers.",
+      "fieldId": "mind",
+      "id": "intel_cognitive_profile",
       "lessonIds": [
-        "article_medicine_labels"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.medicine"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Interaction"
+      "term": "Cognitive profile"
     },
     {
-      "definition": "The last date on which the maker guarantees the medicine keeps its strength and its safety.",
-      "dictionaryId": "lex.sa.health.expiry_date",
-      "example": "The expiry date is on the strip, so I checked the one on the box too.",
-      "fieldId": "health",
-      "id": "expiry_date",
+      "definition": "The ability to follow and build an argument made of words.",
+      "dictionaryId": "lex.sa.mind.intel_verbal_reasoning",
+      "example": "His verbal reasoning was strong: he checked the contract clause by clause and found the gap.",
+      "fieldId": "mind",
+      "id": "intel_verbal_reasoning",
       "lessonIds": [
-        "article_medicine_labels"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.medicine"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Expiry date"
+      "term": "Verbal reasoning"
     },
     {
-      "definition": "The licence number under which the medicine is sold. It identifies the pack in the regulator's records.",
-      "dictionaryId": "lex.sa.health.marketing_authorisation_number",
-      "example": "The marketing authorisation number is printed at the bottom of the carton, and I quoted it in the report.",
-      "fieldId": "health",
-      "id": "marketing_authorisation_number",
+      "definition": "The ability to handle quantity, order and calculation.",
+      "dictionaryId": "lex.sa.mind.intel_numerical_reasoning",
+      "example": "Numerical reasoning is what she used to compare the two costs before signing.",
+      "fieldId": "mind",
+      "id": "intel_numerical_reasoning",
       "lessonIds": [
-        "article_medicine_labels"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.medicine"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Marketing authorisation number"
+      "term": "Numerical reasoning"
     },
     {
-      "definition": "Something you notice and describe yourself: pain, dizziness, a cough, a lump.",
-      "dictionaryId": "lex.sa.health.symptom",
-      "example": "The main symptom is the pain, and it has been there for three weeks.",
-      "fieldId": "health",
-      "id": "symptom",
+      "definition": "The ability to handle shapes, positions and how parts fit together.",
+      "dictionaryId": "lex.sa.mind.intel_spatial_reasoning",
+      "example": "Spatial reasoning is what let him find the leak from a drawing of the pipework.",
+      "fieldId": "mind",
+      "id": "intel_spatial_reasoning",
       "lessonIds": [
-        "article_symptoms"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Symptom"
+      "term": "Spatial reasoning"
     },
     {
-      "definition": "A written symbol such as = or +.",
-      "dictionaryId": "lex.sa.en.sign.noun",
-      "example": "The equals sign balances both sides.",
-      "fieldId": "health",
-      "id": "sign",
+      "definition": "The general ability that shows up across many different kinds of thinking, usually written g.",
+      "dictionaryId": "lex.sa.mind.intel_general_factor",
+      "example": "The general factor explains why a person who is good on one test is often good on others.",
+      "fieldId": "mind",
+      "id": "intel_general_factor",
       "lessonIds": [
-        "article_symptoms"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "sign"
+      "term": "General factor"
     },
     {
-      "definition": "Coming on quickly and lasting a short time, usually days.",
-      "dictionaryId": "lex.sa.health.acute",
-      "example": "This is an acute episode, and it started yesterday.",
-      "fieldId": "health",
-      "id": "acute",
+      "definition": "The share of the spread of scores inside a population that is attributable to genetic differences within that population.",
+      "dictionaryId": "lex.sa.mind.intel_heritability",
+      "example": "The heritability estimate for a group of students says nothing about the cause of one student's score.",
+      "fieldId": "mind",
+      "id": "intel_heritability",
       "lessonIds": [
-        "article_symptoms"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Acute"
+      "term": "Heritability"
     },
     {
-      "definition": "Long-standing, generally present for more than three months.",
-      "dictionaryId": "lex.sa.health.chronic",
-      "example": "It has become a chronic problem, so I have started to manage it differently.",
-      "fieldId": "health",
-      "id": "chronic",
+      "definition": "What a person has actually done, as distinct from what the person could have done.",
+      "dictionaryId": "lex.sa.mind.intel_achievement",
+      "example": "His achievement in the first two years came from long hours and good training, not from a rare ability.",
+      "fieldId": "mind",
+      "id": "intel_achievement",
       "lessonIds": [
-        "article_symptoms"
+        "article_intelligence_nature"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.mind.intelligence_nature"
       ],
-      "term": "Chronic"
+      "term": "Achievement"
     },
     {
-      "definition": "A period when the symptoms get noticeably worse than their usual level.",
-      "dictionaryId": "lex.sa.health.exacerbation",
-      "example": "The main exacerbation lasted about four days last month.",
-      "fieldId": "health",
-      "id": "exacerbation",
+      "definition": "A comparison that carries a case the reader knows into a case they do not know yet.",
+      "dictionaryId": "lex.sa.mind.mind_analogy",
+      "example": "The analogy is clear: the pipe is like a road, and the loss is the distance.",
+      "fieldId": "mind",
+      "id": "mind_analogy",
       "lessonIds": [
-        "article_symptoms"
+        "article_intelligence_nature",
+        "article_math_and_literature"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.mind.intelligence_nature",
+        "knw.mind.math_and_literature"
       ],
-      "term": "Exacerbation"
+      "term": "Analogy"
     },
     {
-      "definition": "The clinician's shortlist of possible causes, kept in mind while they examine you and order tests.",
-      "dictionaryId": "lex.sa.health.differential_diagnosis",
-      "example": "The doctor said the differential included three possibilities, and explained each one.",
-      "fieldId": "health",
-      "id": "differential_diagnosis",
+      "definition": "What a person has when they can recall facts, use them to answer a question, and say why they hold.",
+      "dictionaryId": "lex.sa.mind.kpar_knowledge",
+      "example": "He had the facts and the knowledge, because he could say why the pump behaved that way.",
+      "fieldId": "mind",
+      "id": "kpar_knowledge",
       "lessonIds": [
-        "article_symptoms"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Differential diagnosis"
+      "term": "Knowledge"
     },
     {
-      "definition": "A letter sending you to another service, such as a specialist, a physiotherapist or a scan.",
-      "dictionaryId": "lex.sa.health.referral",
-      "example": "I have a referral for a scan, and the appointment is in ten days.",
-      "fieldId": "health",
-      "id": "referral",
+      "definition": "The act of saying what makes two things different, so that the reader does not confuse them.",
+      "dictionaryId": "lex.sa.mind.kpar_distinction",
+      "example": "The distinction between the answer and the reason matters in every report.",
+      "fieldId": "mind",
+      "id": "kpar_distinction",
       "lessonIds": [
-        "article_symptoms"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Referral"
+      "term": "Distinction"
     },
     {
-      "definition": "An animal that lived a very long time ago, long before people. Dinosaurs are gone now, but their bones turn to stone under the ground.",
-      "dictionaryId": "lex.sa.kids_adventure.dinosaur",
-      "example": "The long-necked dinosaur pulled leaves from the treetop.",
-      "fieldId": "kids_adventure",
-      "id": "dinosaur",
+      "definition": "The ability to bring a fact back into the mind when it is needed, without looking it up.",
+      "dictionaryId": "lex.sa.mind.kpar_recall",
+      "example": "My recall of the formula is good; my recall of the reason behind it is not.",
+      "fieldId": "mind",
+      "id": "kpar_recall",
       "lessonIds": [
-        "article_dinosaur_land"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.dinos"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Dinosaur"
+      "term": "Recall"
     },
     {
-      "definition": "The hard part of an animal that turned to stone after a very long time. Fossils tell us what the animal looked like.",
-      "dictionaryId": "lex.sa.kids_adventure.fossil",
-      "example": "She found a yellow fossil under a huge leaf.",
-      "fieldId": "kids_adventure",
-      "id": "fossil",
+      "definition": "A link between two facts, so that one explains, limits or changes the other.",
+      "dictionaryId": "lex.sa.mind.kpar_connection",
+      "example": "There is a connection between the load on the pump and the life of the seal.",
+      "fieldId": "mind",
+      "id": "kpar_connection",
       "lessonIds": [
-        "article_dinosaur_land"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.dinos"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Fossil"
+      "term": "Connection"
     },
     {
-      "definition": "The mark a foot leaves in soft ground. Big animals leave big footprints, and they show which way the animal walked.",
-      "dictionaryId": "lex.sa.kids_adventure.footprint",
-      "example": "The footprints pointed deeper into the valley.",
-      "fieldId": "kids_adventure",
-      "id": "footprint",
+      "definition": "A shape that several facts share, which is easier to see than the facts themselves.",
+      "dictionaryId": "lex.sa.mind.kpar_pattern",
+      "example": "The same pattern is in all three faults: the seal starts to leak before the part fails.",
+      "fieldId": "mind",
+      "id": "kpar_pattern",
       "lessonIds": [
-        "article_dinosaur_land"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.dinos"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Footprint"
+      "term": "Pattern"
     },
     {
-      "definition": "A green climbing plant that grows up walls and trees. It holds on tightly and hides what is behind it.",
-      "dictionaryId": "lex.sa.kids_adventure.ivy",
-      "example": "Ivy grew across the green door.",
-      "fieldId": "kids_adventure",
-      "id": "ivy",
+      "definition": "An account that says why a fact holds, in words somebody else can follow.",
+      "dictionaryId": "lex.sa.mind.kpar_explanation",
+      "example": "The explanation of the fault was better than the manual, because it said why the seal failed.",
+      "fieldId": "mind",
+      "id": "kpar_explanation",
       "lessonIds": [
-        "article_secret_door"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.door"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Ivy"
+      "term": "Explanation"
     },
     {
-      "definition": "An open space in the middle of woods, where the trees step back and the sky reaches the ground.",
-      "dictionaryId": "lex.sa.kids_adventure.clearing",
-      "example": "The path led to a small clearing.",
-      "fieldId": "kids_adventure",
-      "id": "clearing",
+      "definition": "A set of steps written in an order that another person can follow.",
+      "dictionaryId": "lex.sa.mind.kpar_method",
+      "example": "The method is six steps, and any of us can run it on a new fact.",
+      "fieldId": "mind",
+      "id": "kpar_method",
       "lessonIds": [
-        "article_secret_door"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.door"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Clearing"
+      "term": "Method"
     },
     {
-      "definition": "To put a seed into the ground and look after it. Planting is a promise to come back.",
-      "dictionaryId": "lex.sa.kids_adventure.plant",
-      "example": "Bình planted the seed on the first of April.",
-      "fieldId": "kids_adventure",
-      "id": "plant",
+      "definition": "A statement of what to do in a case, written for the situation the author had in mind.",
+      "dictionaryId": "lex.sa.mind.kpar_rule",
+      "example": "The rule says to tighten the bolt to a stated torque, and it says nothing about the old bolt.",
+      "fieldId": "mind",
+      "id": "kpar_rule",
       "lessonIds": [
-        "article_secret_door"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.door"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "To plant"
+      "term": "Rule"
     },
     {
-      "definition": "Kept out of sight, so that people walk past without noticing.",
-      "dictionaryId": "lex.sa.kids_adventure.hidden",
-      "example": "The door was hidden under the ivy.",
-      "fieldId": "kids_adventure",
-      "id": "hidden",
+      "definition": "The case in which a rule does not hold, and the rule is not wrong.",
+      "dictionaryId": "lex.sa.mind.kpar_exception",
+      "example": "The exception is written under the rule: never on a seized bolt.",
+      "fieldId": "mind",
+      "id": "kpar_exception",
       "lessonIds": [
-        "article_secret_door"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.door"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Hidden"
+      "term": "Exception"
     }
   ],
   "nextCursor": "360",

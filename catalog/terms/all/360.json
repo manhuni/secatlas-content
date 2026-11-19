@@ -1,564 +1,569 @@
 {
   "items": [
     {
-      "definition": "Something you want very much and keep safe. It can be gold, but it can also be a letter or a photograph.",
-      "dictionaryId": "lex.sa.kids_adventure.treasure",
-      "example": "The box in the grass held the real treasure.",
-      "fieldId": "kids_adventure",
-      "id": "treasure",
+      "definition": "The situation in front of you, with its own conditions, not the generic one.",
+      "dictionaryId": "lex.sa.mind.kpar_case",
+      "example": "This case is not the case the manual was written for.",
+      "fieldId": "mind",
+      "id": "kpar_case",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Treasure"
+      "term": "Case"
     },
     {
-      "definition": "A drawing of a place, seen from above. A map shows you the way and shows you where things are.",
-      "dictionaryId": "lex.sa.kids_adventure.map",
-      "example": "Tuấn unfolded the old map on the kitchen table.",
-      "fieldId": "kids_adventure",
-      "id": "map",
+      "definition": "The situation around a fact that decides what the fact means.",
+      "dictionaryId": "lex.sa.mind.kpar_context",
+      "example": "In the context of a night shift, that warning means something different.",
+      "fieldId": "mind",
+      "id": "kpar_context",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Map"
+      "term": "Context"
     },
     {
-      "definition": "A small hint. Clues come one after another, and each one points to the next.",
-      "dictionaryId": "lex.sa.kids_adventure.clue",
-      "example": "The third clue was a picture of a bench and a nail.",
-      "fieldId": "kids_adventure",
-      "id": "clue",
+      "definition": "The way a fact bears on the question being asked.",
+      "dictionaryId": "lex.sa.mind.kpar_relevance",
+      "example": "The relevance of the log is clear once you know which question you are asking.",
+      "fieldId": "mind",
+      "id": "kpar_relevance",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_knowledge_paradox"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.mind.knowledge_paradox"
       ],
-      "term": "Clue"
+      "term": "Relevance"
     },
     {
-      "definition": "A small tool with a needle that points north. Explorers use a compass so they walk in a straight line.",
-      "dictionaryId": "lex.sa.kids_adventure.compass",
-      "example": "The compass needle spun because of the iron in the ground.",
-      "fieldId": "kids_adventure",
-      "id": "compass",
+      "definition": "Running an AI model on one's own hardware rather than through a company's hosted service.",
+      "dictionaryId": "lex.sa.mind.local_ai",
+      "example": "",
+      "fieldId": "mind",
+      "id": "local_ai",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_local_ai"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.mind.local_ai"
       ],
-      "term": "Compass"
+      "term": "Local AI"
     },
     {
-      "definition": "A small mountain, high in the middle and low at the edges. You can walk up a hill in a few minutes.",
-      "dictionaryId": "lex.sa.kids_adventure.hill",
-      "example": "They walked up the hill to look for the treasure.",
-      "fieldId": "kids_adventure",
-      "id": "hill",
+      "definition": "Publishing the trained parameters of a model so anyone may download, run and modify it.",
+      "dictionaryId": "lex.sa.mind.open_weights",
+      "example": "",
+      "fieldId": "mind",
+      "id": "open_weights",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_local_ai"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.mind.local_ai"
       ],
-      "term": "Hill"
+      "term": "Open weights"
     },
     {
-      "definition": "A machine that pushes itself up into the sky with fire and gas. It is how people reach space.",
-      "dictionaryId": "lex.sa.kids_adventure.rocket",
-      "example": "The rocket stood on the pad, white and tall.",
-      "fieldId": "kids_adventure",
-      "id": "rocket",
+      "conflict": true,
+      "definition": "Running a trained model to produce one answer. Cheap and fast compared with training, and it is what happens when you press send.",
+      "dictionaryId": "lex.sa.technology.inference",
+      "example": "Training cost a fortune; inference is what you pay for every time you use it.",
+      "fieldId": "mind",
+      "id": "inference",
       "lessonIds": [
-        "article_trip_to_the_moon"
+        "article_ai_revolution",
+        "article_local_ai"
       ],
       "packs": [
-        "knw.kids.adventure.moon"
+        "knw.mind.local_ai",
+        "knw.tech.revolution"
       ],
-      "term": "Rocket"
+      "term": "Inference"
     },
     {
-      "definition": "The platform where the rocket stands and waits before it flies.",
-      "dictionaryId": "lex.sa.kids_adventure.launch_pad",
-      "example": "Everybody watched from the launch pad.",
-      "fieldId": "kids_adventure",
-      "id": "launch_pad",
+      "definition": "The chips, data centers and energy supply that make training and running large models possible.",
+      "dictionaryId": "lex.sa.mind.compute_infrastructure",
+      "example": "",
+      "fieldId": "mind",
+      "id": "compute_infrastructure",
       "lessonIds": [
-        "article_trip_to_the_moon"
+        "article_local_ai"
       ],
       "packs": [
-        "knw.kids.adventure.moon"
+        "knw.mind.local_ai"
       ],
-      "term": "Launch pad"
+      "term": "Compute infrastructure"
     },
     {
-      "definition": "A person trained to fly into space. Astronauts wear a spacesuit because there is no air out there.",
-      "dictionaryId": "lex.sa.kids_adventure.astronaut",
-      "example": "The astronaut opened the hatch and stepped out.",
-      "fieldId": "kids_adventure",
-      "id": "astronaut",
+      "definition": "The condition in which switching suppliers is so costly that dependence continues regardless of price or quality.",
+      "dictionaryId": "lex.sa.mind.vendor_lock_in",
+      "example": "",
+      "fieldId": "mind",
+      "id": "vendor_lock_in",
       "lessonIds": [
-        "article_trip_to_the_moon"
+        "article_local_ai"
       ],
       "packs": [
-        "knw.kids.adventure.moon"
+        "knw.mind.local_ai"
       ],
-      "term": "Astronaut"
+      "term": "Vendor lock-in"
     },
     {
-      "definition": "The feeling of floating, with nothing pulling you down. Everything drifts in the ship.",
-      "dictionaryId": "lex.sa.kids_adventure.weightlessness",
-      "example": "In weightlessness, even a pencil can float.",
-      "fieldId": "kids_adventure",
-      "id": "weightlessness",
+      "definition": "The network of hardware, software, standards and services that a technology depends on to function.",
+      "dictionaryId": "lex.sa.mind.ecosystem",
+      "example": "",
+      "fieldId": "mind",
+      "id": "ecosystem",
       "lessonIds": [
-        "article_trip_to_the_moon"
+        "article_local_ai"
       ],
       "packs": [
-        "knw.kids.adventure.moon"
+        "knw.mind.local_ai"
       ],
-      "term": "Weightlessness"
+      "term": "Ecosystem"
     },
     {
-      "definition": "A small sense organ on a robot. It tells the robot what is around it, or how it feels.",
-      "dictionaryId": "lex.sa.kids_adventure.sensor",
-      "example": "Bit's sensor flashed red when he was worried.",
-      "fieldId": "kids_adventure",
-      "id": "sensor",
+      "definition": "The use of pressure, ambiguity or emotion to move a person into a decision that does not serve them, without giving a real choice.",
+      "dictionaryId": "lex.sa.mind.psy_manipulation",
+      "example": "It was manipulation: he offered her two options and made the wrong one impossible.",
+      "fieldId": "mind",
+      "id": "psy_manipulation",
       "lessonIds": [
-        "article_robot_wanted_a_friend"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.robot"
+        "knw.mind.manipulation"
       ],
-      "term": "Sensor"
+      "term": "Manipulation"
     },
     {
-      "definition": "The store of energy that makes a robot move. When it runs low, the robot has to plug in.",
-      "dictionaryId": "lex.sa.kids_adventure.battery",
-      "example": "Bit's battery was getting low by the afternoon.",
-      "fieldId": "kids_adventure",
-      "id": "battery",
+      "definition": "An honest attempt to win agreement, in which the other person is free to say no.",
+      "dictionaryId": "lex.sa.mind.psy_persuasion",
+      "example": "That was persuasion, not pressure: he explained the plan and left the decision to her.",
+      "fieldId": "mind",
+      "id": "psy_persuasion",
       "lessonIds": [
-        "article_robot_wanted_a_friend"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.robot"
+        "knw.mind.manipulation"
       ],
-      "term": "Battery"
+      "term": "Persuasion"
     },
     {
-      "definition": "A small switch you press to make something happen. Pressing a robot's button can wake it up.",
-      "dictionaryId": "lex.sa.kids_adventure.button",
-      "example": "He pressed the button on the old robot's chest.",
-      "fieldId": "kids_adventure",
-      "id": "button",
+      "definition": "A push applied to a decision, usually through time or emotion, that makes the choice harder to refuse.",
+      "dictionaryId": "lex.sa.mind.psy_pressure",
+      "example": "The deadline is pressure, but you can still say that you need more time.",
+      "fieldId": "mind",
+      "id": "psy_pressure",
       "lessonIds": [
-        "article_robot_wanted_a_friend"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.robot"
+        "knw.mind.manipulation"
       ],
-      "term": "Button"
+      "term": "Pressure"
     },
     {
-      "definition": "The place where a robot goes to fill its battery with energy.",
-      "dictionaryId": "lex.sa.kids_adventure.charging_post",
-      "example": "Bit climbed down from the charging post.",
-      "fieldId": "kids_adventure",
-      "id": "charging_post",
+      "definition": "The removal of a real choice by force or by the threat of harm.",
+      "dictionaryId": "lex.sa.mind.psy_coercion",
+      "example": "Sign the form today or lose the job — that is coercion, not persuasion.",
+      "fieldId": "mind",
+      "id": "psy_coercion",
       "lessonIds": [
-        "article_robot_wanted_a_friend"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.robot"
+        "knw.mind.manipulation"
       ],
-      "term": "Charging post"
+      "term": "Coercion"
     },
     {
-      "definition": "The room where a robot is built and repaired. It is full of tools and smells of metal and oil.",
-      "dictionaryId": "lex.sa.kids_adventure.workshop",
-      "example": "Bit found shiny silver paper in the workshop.",
-      "fieldId": "kids_adventure",
-      "id": "workshop",
+      "definition": "A pressure tactic that presents the decisions of other people as evidence for your own.",
+      "dictionaryId": "lex.sa.mind.psy_social_proof",
+      "example": "The offer came with social proof: nine out of ten customers chose the larger plan.",
+      "fieldId": "mind",
+      "id": "psy_social_proof",
       "lessonIds": [
-        "article_robot_wanted_a_friend"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.robot"
+        "knw.mind.manipulation"
       ],
-      "term": "Workshop"
+      "term": "Social proof"
     },
     {
-      "definition": "A cover for your eyes with glass in it. It lets you see under the water clearly.",
-      "dictionaryId": "lex.sa.kids_adventure.diving_mask",
-      "example": "She pulled the diving mask down over her nose.",
-      "fieldId": "kids_adventure",
-      "id": "diving_mask",
+      "definition": "A pressure tactic that puts the decision in the hands of an expert, real or claimed.",
+      "dictionaryId": "lex.sa.mind.psy_authority",
+      "example": "It used authority: the technician said the part was safe, and showed no manual.",
+      "fieldId": "mind",
+      "id": "psy_authority",
       "lessonIds": [
-        "article_under_the_sea_adventure"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.sea"
+        "knw.mind.manipulation"
       ],
-      "term": "Diving mask"
+      "term": "Authority"
     },
     {
-      "definition": "Flat rubber shoes for your feet. They push the water behind you so you swim faster.",
-      "dictionaryId": "lex.sa.kids_adventure.fins",
-      "example": "Her fins made a soft whirr in the water.",
-      "fieldId": "kids_adventure",
-      "id": "fins",
+      "definition": "A pressure tactic that claims the supply is limited, so that waiting looks like a loss.",
+      "dictionaryId": "lex.sa.mind.psy_scarcity",
+      "example": "The scarcity was easy to check: the shelf held six, not two.",
+      "fieldId": "mind",
+      "id": "psy_scarcity",
       "lessonIds": [
-        "article_under_the_sea_adventure"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.sea"
+        "knw.mind.manipulation"
       ],
-      "term": "Fins"
+      "term": "Scarcity"
     },
     {
-      "definition": "A bottle of compressed air that a diver carries on their back and breathes from.",
-      "dictionaryId": "lex.sa.kids_adventure.air_tank",
-      "example": "Her uncle checked the air tank before she jumped in.",
-      "fieldId": "kids_adventure",
-      "id": "air_tank",
+      "definition": "A pressure tactic that shortens the time available for checking and deciding.",
+      "dictionaryId": "lex.sa.mind.psy_urgency",
+      "example": "The urgency was built to stop a phone call: sign tonight or the price changes.",
+      "fieldId": "mind",
+      "id": "psy_urgency",
       "lessonIds": [
-        "article_under_the_sea_adventure"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.sea"
+        "knw.mind.manipulation"
       ],
-      "term": "Air tank"
+      "term": "Urgency"
     },
     {
-      "definition": "A hard, colourful structure built by tiny animals. It looks like a plant but it is alive, so never touch it.",
-      "dictionaryId": "lex.sa.kids_adventure.coral",
-      "example": "The orange coral stood up like a tree.",
-      "fieldId": "kids_adventure",
-      "id": "coral",
+      "definition": "A pressure tactic that raises the cost of a slow decision, so that speed feels like safety.",
+      "dictionaryId": "lex.sa.mind.psy_fear",
+      "example": "The fear in the message was plain: if you wait, you are the one who pays.",
+      "fieldId": "mind",
+      "id": "psy_fear",
       "lessonIds": [
-        "article_under_the_sea_adventure"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.sea"
+        "knw.mind.manipulation"
       ],
-      "term": "Coral"
+      "term": "Fear"
     },
     {
-      "definition": "A whole underwater city of coral. Thousands of kinds of fish live there.",
-      "dictionaryId": "lex.sa.kids_adventure.reef",
-      "example": "The reef was busy with small bright fish.",
-      "fieldId": "kids_adventure",
-      "id": "reef",
+      "definition": "Money, time or effort that has already been spent, and which is used as a reason to continue.",
+      "dictionaryId": "lex.sa.mind.psy_sunk_cost",
+      "example": "The sunk cost of the training was the argument for staying in the job.",
+      "fieldId": "mind",
+      "id": "psy_sunk_cost",
       "lessonIds": [
-        "article_under_the_sea_adventure"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.adventure.sea"
+        "knw.mind.manipulation"
       ],
-      "term": "Reef"
+      "term": "Sunk cost"
     },
     {
-      "definition": "The set of foods an animal eats. The diet can change with the season.",
-      "dictionaryId": "lex.sa.kids_animals.diet",
-      "example": "A bear's diet is berries, nuts and sometimes fish.",
-      "fieldId": "kids_animals",
-      "id": "diet",
+      "definition": "Attention, affection and gifts given far faster and further than the situation deserves.",
+      "dictionaryId": "lex.sa.mind.psy_love_bombing",
+      "example": "The love bombing was hard to refuse: every message came with a declaration.",
+      "fieldId": "mind",
+      "id": "psy_love_bombing",
       "lessonIds": [
-        "article_what_animals_eat"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.animals.eat"
+        "knw.mind.manipulation"
       ],
-      "term": "Diet"
+      "term": "Love bombing"
     },
     {
-      "definition": "An animal that eats both plants and animals, such as a bear, a pig or a person.",
-      "dictionaryId": "lex.sa.kids_animals.omnivore",
-      "example": "We are omnivores, so we eat rice and fish.",
-      "fieldId": "kids_animals",
-      "id": "omnivore",
+      "definition": "A repeated attack on a person's memory and judgement, so that they stop trusting what they remember.",
+      "dictionaryId": "lex.sa.mind.psy_gaslighting",
+      "example": "It was gaslighting: she was told her own account of the meeting was wrong.",
+      "fieldId": "mind",
+      "id": "psy_gaslighting",
       "lessonIds": [
-        "article_what_animals_eat"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.animals.eat"
+        "knw.mind.manipulation"
       ],
-      "term": "Omnivore"
+      "term": "Gaslighting"
     },
     {
-      "definition": "A predator hunts and eats other animals. The animal being hunted is the prey.",
-      "dictionaryId": "lex.sa.kids_animals.predator",
-      "example": "The fox is the predator and the mouse is the prey.",
-      "fieldId": "kids_animals",
-      "id": "predator",
+      "definition": "A small, easy agreement that is used later as the reason for a much larger one.",
+      "dictionaryId": "lex.sa.mind.psy_foot_in_the_door",
+      "example": "The free trial was the foot in the door: the yearly contract came next.",
+      "fieldId": "mind",
+      "id": "psy_foot_in_the_door",
       "lessonIds": [
-        "article_what_animals_eat"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.animals.eat"
+        "knw.mind.manipulation"
       ],
-      "term": "Predator and prey"
+      "term": "Foot in the door"
     },
     {
-      "definition": "Animals that a farmer keeps on purpose, for food, for work or for company.",
-      "dictionaryId": "lex.sa.kids_animals.livestock",
-      "example": "Cows, sheep and goats are all livestock on this farm.",
-      "fieldId": "kids_animals",
-      "id": "livestock",
+      "definition": "Being cut off from other people without choosing it, and without the comfort that solitude brings.",
+      "dictionaryId": "lex.sa.culture.isolation",
+      "example": "Working from home every day turned into isolation by February.",
+      "fieldId": "mind",
+      "id": "psy_isolation",
       "lessonIds": [
-        "article_kids_animals_farm"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.animals.farm"
+        "knw.mind.manipulation"
       ],
-      "term": "Livestock"
+      "term": "Isolation"
     },
     {
-      "definition": "The big building on a farm where animals sleep and where the hay is kept.",
-      "dictionaryId": "lex.sa.kids_animals.barn",
-      "example": "The ponies sleep in the barn on cold nights.",
-      "fieldId": "kids_animals",
-      "id": "barn",
+      "definition": "Pressure strong enough to take away a person's freedom to decide, in the sense used in law and in medical consent.",
+      "dictionaryId": "lex.sa.mind.psy_undue_influence",
+      "example": "The form said the signature was voluntary; the manager's tone made that undue influence.",
+      "fieldId": "mind",
+      "id": "psy_undue_influence",
       "lessonIds": [
-        "article_kids_animals_farm"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.animals.farm"
+        "knw.mind.manipulation"
       ],
-      "term": "Barn"
+      "term": "Undue influence"
     },
     {
-      "definition": "Eating grass that is growing out in a field.",
-      "dictionaryId": "lex.sa.kids_animals.grazing",
-      "example": "The sheep are grazing in the long grass by the gate.",
-      "fieldId": "kids_animals",
-      "id": "grazing",
+      "definition": "One move made to push a decision, such as a deadline, a discount or a display of authority.",
+      "dictionaryId": "lex.sa.mind.psy_pressure_tactic",
+      "example": "The second call was a pressure tactic: it moved the deadline by one hour.",
+      "fieldId": "mind",
+      "id": "psy_pressure_tactic",
       "lessonIds": [
-        "article_kids_animals_farm"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.animals.farm"
+        "knw.mind.manipulation"
       ],
-      "term": "Grazing"
+      "term": "Pressure tactic"
     },
     {
-      "definition": "Food given to farm animals, like hay, straw and roots.",
-      "dictionaryId": "lex.sa.kids_animals.fodder",
-      "example": "We carry two buckets of fodder to the cows.",
-      "fieldId": "kids_animals",
-      "id": "fodder",
+      "conflict": true,
+      "definition": "Everyone agreeing freely to something, every time. A clear no is a complete answer that needs no follow-up.",
+      "dictionaryId": "lex.sa.social.consent",
+      "example": "Consent has to be clear on both sides, and a no is always a complete answer.",
+      "fieldId": "mind",
+      "id": "psy_consent",
       "lessonIds": [
-        "article_kids_animals_farm"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.animals.farm"
+        "knw.mind.manipulation"
       ],
-      "term": "Fodder"
+      "term": "Consent"
     },
     {
-      "definition": "An animal with six legs and a body in three parts: head, thorax and abdomen.",
-      "dictionaryId": "lex.sa.kids_animals.insect",
-      "example": "An ant is an insect because it has six legs.",
-      "fieldId": "kids_animals",
-      "id": "insect",
+      "conflict": true,
+      "definition": "A line you draw around your time, energy, body or values, and say out loud so other people can respect it.",
+      "dictionaryId": "lex.sa.social.boundary",
+      "example": "Her boundary was simple: no phone calls after ten.",
+      "fieldId": "mind",
+      "id": "psy_boundary",
       "lessonIds": [
-        "article_insects"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.animals.insects"
+        "knw.mind.manipulation"
       ],
-      "term": "Insect"
+      "term": "Boundary"
     },
     {
-      "definition": "The hard outer shell of an insect. It protects the body but cannot stretch, so the insect must shed it to grow.",
-      "dictionaryId": "lex.sa.kids_animals.exoskeleton",
-      "example": "The empty shell of the cicada is left on the tree bark.",
-      "fieldId": "kids_animals",
-      "id": "exoskeleton",
+      "definition": "A pattern in which one person keeps control over another by limiting their money, their time or their contact with other people.",
+      "dictionaryId": "lex.sa.mind.psy_coercive_control",
+      "example": "The pattern of coercive control is recognised by what it restricts, not by what it says.",
+      "fieldId": "mind",
+      "id": "psy_coercive_control",
       "lessonIds": [
-        "article_insects"
+        "article_psychological_manipulation"
       ],
       "packs": [
-        "knw.kids.animals.insects"
+        "knw.mind.manipulation"
       ],
-      "term": "Exoskeleton"
+      "term": "Coercive control"
     },
     {
-      "definition": "The middle part of an insect's body. All six legs and the wings grow from it.",
-      "dictionaryId": "lex.sa.kids_animals.thorax",
-      "example": "All six legs are attached to the thorax.",
-      "fieldId": "kids_animals",
-      "id": "thorax",
+      "definition": "Agreement produced not by open discussion but by arranging the information environment so one conclusion appears natural.",
+      "dictionaryId": "lex.sa.mind.manufactured_consent",
+      "example": "",
+      "fieldId": "mind",
+      "id": "manufactured_consent",
       "lessonIds": [
-        "article_insects"
+        "article_manufactured_consent"
       ],
       "packs": [
-        "knw.kids.animals.insects"
+        "knw.mind.manufactured_consent"
       ],
-      "term": "Thorax"
+      "term": "Manufactured consent"
     },
     {
-      "definition": "The back part of an insect's body, where the stomach and the egg-making organs sit.",
-      "dictionaryId": "lex.sa.kids_animals.abdomen",
-      "example": "The wasp's abdomen is yellow and black.",
-      "fieldId": "kids_animals",
-      "id": "abdomen",
+      "definition": "The power to decide which topics the public thinks about, exercised through selection and emphasis in coverage.",
+      "dictionaryId": "lex.sa.mind.agenda_setting",
+      "example": "",
+      "fieldId": "mind",
+      "id": "agenda_setting",
       "lessonIds": [
-        "article_insects"
+        "article_manufactured_consent"
       ],
       "packs": [
-        "knw.kids.animals.insects"
+        "knw.mind.manufactured_consent"
       ],
-      "term": "Abdomen"
+      "term": "Agenda-setting"
     },
     {
-      "definition": "The one great body of salt water that covers most of the Earth.",
-      "dictionaryId": "lex.sa.kids_animals.ocean",
-      "example": "The ocean is one big connected sea, not many small ones.",
-      "fieldId": "kids_animals",
-      "id": "ocean",
+      "definition": "Influence over how a topic is understood: which frames, words and experts define it.",
+      "dictionaryId": "lex.sa.mind.opinion_shaping",
+      "example": "",
+      "fieldId": "mind",
+      "id": "opinion_shaping",
       "lessonIds": [
-        "article_kids_animals_ocean"
+        "article_manufactured_consent"
       ],
       "packs": [
-        "knw.kids.animals.ocean"
+        "knw.mind.manufactured_consent"
       ],
-      "term": "Ocean"
+      "term": "Opinion shaping"
     },
     {
-      "definition": "A structure built by coral animals out of limestone, full of holes where small fish hide.",
-      "dictionaryId": "lex.sa.kids_animals.coral_reef",
-      "example": "The coral reef grows a little slower every year.",
-      "fieldId": "kids_animals",
-      "id": "coral_reef",
+      "definition": "Influence achieved through attraction and information rather than force or payment.",
+      "dictionaryId": "lex.sa.mind.soft_power",
+      "example": "",
+      "fieldId": "mind",
+      "id": "soft_power",
       "lessonIds": [
-        "article_kids_animals_ocean"
+        "article_manufactured_consent"
       ],
       "packs": [
-        "knw.kids.animals.ocean"
+        "knw.mind.manufactured_consent"
       ],
-      "term": "Coral reef"
+      "term": "Soft power"
     },
     {
-      "definition": "Tiny living things that drift with the currents near the surface of the sea.",
-      "dictionaryId": "lex.sa.kids_animals.plankton",
-      "example": "The whale eats tonnes of plankton every day.",
-      "fieldId": "kids_animals",
-      "id": "plankton",
+      "definition": "Withholding one's own views to avoid social, professional or legal consequences.",
+      "dictionaryId": "lex.sa.mind.self_censorship",
+      "example": "",
+      "fieldId": "mind",
+      "id": "self_censorship",
       "lessonIds": [
-        "article_kids_animals_ocean"
+        "article_manufactured_consent"
       ],
       "packs": [
-        "knw.kids.animals.ocean"
+        "knw.mind.manufactured_consent"
       ],
-      "term": "Plankton"
+      "term": "Self-censorship"
     },
     {
-      "definition": "The word for your mother. Some families say mom or mommy instead.",
-      "dictionaryId": "lex.sa.kids_daily.mum",
-      "example": "My mum is a nurse. She works at a hospital.",
-      "fieldId": "kids_daily",
-      "id": "mum",
+      "definition": "The tendency of a cohesive group to converge on one view and suppress doubt in order to preserve harmony.",
+      "dictionaryId": "lex.sa.mind.groupthink",
+      "example": "",
+      "fieldId": "mind",
+      "id": "groupthink",
       "lessonIds": [
-        "article_talking_about_family"
+        "article_manufactured_consent"
       ],
       "packs": [
-        "knw.kids.daily.family"
+        "knw.mind.manufactured_consent"
       ],
-      "term": "Mum"
+      "term": "Groupthink"
     },
     {
-      "definition": "Your mum's mother or your dad's mother. You often call her grandma.",
-      "dictionaryId": "lex.sa.kids_daily.grandmother",
-      "example": "My grandmother grows vegetables in the garden.",
-      "fieldId": "kids_daily",
-      "id": "grandmother",
+      "definition": "A statement that fixes the exact meaning of a word, so that everybody uses it the same way.",
+      "dictionaryId": "lex.sa.mind.mathlit_definition",
+      "example": "The definition of a tolerance is written at the top of the drawing, and every measurement follows it.",
+      "fieldId": "mind",
+      "id": "mathlit_definition",
       "lessonIds": [
-        "article_talking_about_family"
+        "article_math_and_literature"
       ],
       "packs": [
-        "knw.kids.daily.family"
+        "knw.mind.math_and_literature"
       ],
-      "term": "Grandmother"
+      "term": "Definition"
     },
     {
-      "definition": "Your mum's sister, or the wife of your uncle. Sometimes a family friend is called an aunt too.",
-      "dictionaryId": "lex.sa.kids_daily.aunt",
-      "example": "My aunt lives in Da Nang.",
-      "fieldId": "kids_daily",
-      "id": "aunt",
+      "definition": "A statement that a system takes as true and never proves for itself.",
+      "dictionaryId": "lex.sa.mind.mathlit_axiom",
+      "example": "The axioms are the starting points of the proof, and everything after them is derived.",
+      "fieldId": "mind",
+      "id": "mathlit_axiom",
       "lessonIds": [
-        "article_talking_about_family"
+        "article_math_and_literature"
       ],
       "packs": [
-        "knw.kids.daily.family"
+        "knw.mind.math_and_literature"
       ],
-      "term": "Aunt"
+      "term": "Axiom"
     },
     {
-      "definition": "A child of your aunt or your uncle. A cousin is like a brother or sister, but not a real one.",
-      "dictionaryId": "lex.sa.kids_daily.cousin",
-      "example": "My cousin Mai is my age. We play together every weekend.",
-      "fieldId": "kids_daily",
-      "id": "cousin",
+      "definition": "The step that carries you from what is already accepted to what follows from it.",
+      "dictionaryId": "lex.sa.mind.mathlit_deduction",
+      "example": "By logical deduction, the conclusion follows from the premises, and nothing else is needed.",
+      "fieldId": "mind",
+      "id": "mathlit_deduction",
       "lessonIds": [
-        "article_talking_about_family"
+        "article_math_and_literature"
       ],
       "packs": [
-        "knw.kids.daily.family"
+        "knw.mind.math_and_literature"
       ],
-      "term": "Cousin"
+      "term": "Logical deduction"
     },
     {
-      "definition": "The word for your mum and your dad together.",
-      "dictionaryId": "lex.sa.kids_daily.parents",
-      "example": "My parents work at the weekend too.",
-      "fieldId": "kids_daily",
-      "id": "parents",
+      "definition": "A working idea of how something behaves, kept by the writer and never written as a rule.",
+      "dictionaryId": "lex.sa.mind.mathlit_model",
+      "example": "The writer has a model of how a nervous engineer behaves, and every scene is built on it.",
+      "fieldId": "mind",
+      "id": "mathlit_model",
       "lessonIds": [
-        "article_talking_about_family"
+        "article_math_and_literature"
       ],
       "packs": [
-        "knw.kids.daily.family"
+        "knw.mind.math_and_literature"
       ],
-      "term": "Parents"
+      "term": "Model"
     },
     {
-      "definition": "The word you say when you meet somebody. You can use it all day long.",
-      "dictionaryId": "lex.sa.kids_daily.hello",
-      "example": "Hello, I am Minh.",
-      "fieldId": "kids_daily",
-      "id": "hello",
+      "definition": "The written record of a reasoning, in which every line follows from the lines above it.",
+      "dictionaryId": "lex.sa.mind.mathlit_proof",
+      "example": "The proof is short, and any reader can check it line by line.",
+      "fieldId": "mind",
+      "id": "mathlit_proof",
       "lessonIds": [
-        "article_saying_hello"
+        "article_math_and_literature"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.mind.math_and_literature"
       ],
-      "term": "Hello"
+      "term": "Proof"
     },
     {
-      "definition": "A short and casual way to say hello, used with people you already know.",
-      "dictionaryId": "lex.sa.kids_daily.hi",
-      "example": "Hi Bao, are you ready?",
-      "fieldId": "kids_daily",
-      "id": "hi",
+      "definition": "A statement that an argument starts from and takes as given.",
+      "dictionaryId": "lex.sa.mind.mathlit_premise",
+      "example": "The premise is wrong, so the conclusion is right only in the proof.",
+      "fieldId": "mind",
+      "id": "mathlit_premise",
       "lessonIds": [
-        "article_saying_hello"
+        "article_math_and_literature"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.mind.math_and_literature"
       ],
-      "term": "Hi"
+      "term": "Premise"
     }
   ],
   "nextCursor": "400",

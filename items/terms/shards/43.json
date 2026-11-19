@@ -19,11 +19,13 @@
       "dictionaryId": "lex.sa.en.equilibrium.noun",
       "example": "At equilibrium, the concentrations stay constant.",
       "fieldId": "chemistry",
-      "hidden": true,
       "id": "equilibrium",
-      "lessonIds": [],
+      "lessonIds": [
+        "article_showcase"
+      ],
       "packs": [
-        "knw.article.showcase"
+        "knw.article.showcase",
+        "showcase"
       ],
       "term": "equilibrium"
     },

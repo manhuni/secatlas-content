@@ -15,6 +15,27 @@
       "term": "Fruit"
     },
     {
+      "conflict": true,
+      "definition": "The small beginning of a plant. A seed is tiny and quiet, but if you plant it and water it, it grows.",
+      "dictionaryId": "lex.sa.kids_adventure.seed",
+      "example": "In the clay pot there was a seed with a green shoot coming out.",
+      "fieldId": "kids_food",
+      "id": "seed",
+      "lessonIds": [
+        "article_kids_food_fruits",
+        "article_magical_castle",
+        "article_secret_door",
+        "article_tiny_seed"
+      ],
+      "packs": [
+        "knw.kids.adventure.castle",
+        "knw.kids.adventure.door",
+        "knw.kids.food.fruits",
+        "knw.kids.stories.seed"
+      ],
+      "term": "Seed"
+    },
+    {
       "definition": "Ready to eat, sweet and soft. A green mango is not ripe yet.",
       "dictionaryId": "lex.sa.kids_food.ripe",
       "example": "This banana is yellow and ripe.",
@@ -272,6 +293,104 @@
       "term": "Stir-fry"
     },
     {
+      "definition": "The one you like most of all, the one you hope to see on the table.",
+      "dictionaryId": "lex.sa.kids_food.favourite",
+      "example": "My favourite food is spring rolls.",
+      "fieldId": "kids_food",
+      "id": "favourite",
+      "lessonIds": [
+        "article_kids_food_favourite_foods"
+      ],
+      "packs": [
+        "knw.kids.food.favourites"
+      ],
+      "term": "Favourite"
+    },
+    {
+      "definition": "To not like something. Nobody is wrong for disliking a food.",
+      "dictionaryId": "lex.sa.kids_food.dislike",
+      "example": "I dislike the smell of fish.",
+      "fieldId": "kids_food",
+      "id": "dislike",
+      "lessonIds": [
+        "article_kids_food_favourite_foods"
+      ],
+      "packs": [
+        "knw.kids.food.favourites"
+      ],
+      "term": "Dislike"
+    },
+    {
+      "definition": "What your tongue tells you when you eat. Sweet, sour, salty and bitter are the four main tastes.",
+      "dictionaryId": "lex.sa.kids_food.taste",
+      "example": "The taste of this mango is very sweet.",
+      "fieldId": "kids_food",
+      "id": "taste",
+      "lessonIds": [
+        "article_kids_food_favourite_foods"
+      ],
+      "packs": [
+        "knw.kids.food.favourites"
+      ],
+      "term": "Taste"
+    },
+    {
+      "definition": "To cut something into thin, flat pieces.",
+      "dictionaryId": "lex.sa.kids_food.slice",
+      "example": "I slice the banana and put it on top.",
+      "fieldId": "kids_food",
+      "id": "slice",
+      "lessonIds": [
+        "article_fruit_salad"
+      ],
+      "packs": [
+        "knw.kids.food.salad"
+      ],
+      "term": "Slice"
+    },
+    {
+      "definition": "To cut something into small cubes.",
+      "dictionaryId": "lex.sa.kids_food.dice",
+      "example": "Please dice the mango for the salad.",
+      "fieldId": "kids_food",
+      "id": "dice",
+      "lessonIds": [
+        "article_fruit_salad"
+      ],
+      "packs": [
+        "knw.kids.food.salad"
+      ],
+      "term": "Dice"
+    },
+    {
+      "definition": "The liquid water inside a fruit.",
+      "dictionaryId": "lex.sa.kids_food.juice",
+      "example": "I squeeze some lime juice over the fruit.",
+      "fieldId": "kids_food",
+      "id": "juice",
+      "lessonIds": [
+        "article_fruit_salad"
+      ],
+      "packs": [
+        "knw.kids.food.salad"
+      ],
+      "term": "Juice"
+    },
+    {
+      "definition": "To make something cold so it tastes fresh.",
+      "dictionaryId": "lex.sa.kids_food.chill",
+      "example": "We chill the salad in the fridge for one hour.",
+      "fieldId": "kids_food",
+      "id": "chill",
+      "lessonIds": [
+        "article_fruit_salad"
+      ],
+      "packs": [
+        "knw.kids.food.salad"
+      ],
+      "term": "Chill"
+    },
+    {
       "definition": "Wheat grain ground into a fine powder. It is the main part of the bread.",
       "dictionaryId": "lex.sa.kids_food.flour",
       "example": "Flour is made from wheat at the mill.",
@@ -398,6 +517,7 @@
       "term": "Toast"
     },
     {
+      "conflict": true,
       "definition": "The capacity to do work or cause change.",
       "dictionaryId": "lex.sa.en.energy.noun",
       "example": "",
@@ -410,104 +530,6 @@
         "knw.kids.food.breakfast"
       ],
       "term": "energy"
-    },
-    {
-      "definition": "The one you like most of all, the one you hope to see on the table.",
-      "dictionaryId": "lex.sa.kids_food.favourite",
-      "example": "My favourite food is spring rolls.",
-      "fieldId": "kids_food",
-      "id": "favourite",
-      "lessonIds": [
-        "article_kids_food_favourite_foods"
-      ],
-      "packs": [
-        "knw.kids.food.favourites"
-      ],
-      "term": "Favourite"
-    },
-    {
-      "definition": "To not like something. Nobody is wrong for disliking a food.",
-      "dictionaryId": "lex.sa.kids_food.dislike",
-      "example": "I dislike the smell of fish.",
-      "fieldId": "kids_food",
-      "id": "dislike",
-      "lessonIds": [
-        "article_kids_food_favourite_foods"
-      ],
-      "packs": [
-        "knw.kids.food.favourites"
-      ],
-      "term": "Dislike"
-    },
-    {
-      "definition": "What your tongue tells you when you eat. Sweet, sour, salty and bitter are the four main tastes.",
-      "dictionaryId": "lex.sa.kids_food.taste",
-      "example": "The taste of this mango is very sweet.",
-      "fieldId": "kids_food",
-      "id": "taste",
-      "lessonIds": [
-        "article_kids_food_favourite_foods"
-      ],
-      "packs": [
-        "knw.kids.food.favourites"
-      ],
-      "term": "Taste"
-    },
-    {
-      "definition": "To cut something into thin, flat pieces.",
-      "dictionaryId": "lex.sa.kids_food.slice",
-      "example": "I slice the banana and put it on top.",
-      "fieldId": "kids_food",
-      "id": "slice",
-      "lessonIds": [
-        "article_fruit_salad"
-      ],
-      "packs": [
-        "knw.kids.food.salad"
-      ],
-      "term": "Slice"
-    },
-    {
-      "definition": "To cut something into small cubes.",
-      "dictionaryId": "lex.sa.kids_food.dice",
-      "example": "Please dice the mango for the salad.",
-      "fieldId": "kids_food",
-      "id": "dice",
-      "lessonIds": [
-        "article_fruit_salad"
-      ],
-      "packs": [
-        "knw.kids.food.salad"
-      ],
-      "term": "Dice"
-    },
-    {
-      "definition": "The liquid water inside a fruit.",
-      "dictionaryId": "lex.sa.kids_food.juice",
-      "example": "I squeeze some lime juice over the fruit.",
-      "fieldId": "kids_food",
-      "id": "juice",
-      "lessonIds": [
-        "article_fruit_salad"
-      ],
-      "packs": [
-        "knw.kids.food.salad"
-      ],
-      "term": "Juice"
-    },
-    {
-      "definition": "To make something cold so it tastes fresh.",
-      "dictionaryId": "lex.sa.kids_food.chill",
-      "example": "We chill the salad in the fridge for one hour.",
-      "fieldId": "kids_food",
-      "id": "chill",
-      "lessonIds": [
-        "article_fruit_salad"
-      ],
-      "packs": [
-        "knw.kids.food.salad"
-      ],
-      "term": "Chill"
     }
   ],
   "nextCursor": null,

@@ -127,27 +127,6 @@
       "term": "Garden"
     },
     {
-      "conflict": true,
-      "definition": "The small beginning of a plant. A seed is tiny and quiet, but if you plant it and water it, it grows.",
-      "dictionaryId": "lex.sa.kids_adventure.seed",
-      "example": "In the clay pot there was a seed with a green shoot coming out.",
-      "fieldId": "kids_adventure",
-      "id": "seed",
-      "lessonIds": [
-        "article_kids_food_fruits",
-        "article_magical_castle",
-        "article_secret_door",
-        "article_tiny_seed"
-      ],
-      "packs": [
-        "knw.kids.adventure.castle",
-        "knw.kids.adventure.door",
-        "knw.kids.food.fruits",
-        "knw.kids.stories.seed"
-      ],
-      "term": "Seed"
-    },
-    {
       "definition": "An animal that lived a very long time ago, long before people. Dinosaurs are gone now, but their bones turn to stone under the ground.",
       "dictionaryId": "lex.sa.kids_adventure.dinosaur",
       "example": "The long-necked dinosaur pulled leaves from the treetop.",
@@ -188,6 +167,44 @@
         "knw.kids.adventure.dinos"
       ],
       "term": "Footprint"
+    },
+    {
+      "conflict": true,
+      "definition": "An animal that eats plants, such as a zebra, a giraffe or an elephant.",
+      "dictionaryId": "lex.sa.kids_animals.herbivore",
+      "example": "The elephant is a herbivore, so it eats grass and leaves.",
+      "fieldId": "kids_adventure",
+      "id": "herbivore",
+      "lessonIds": [
+        "article_dinosaur_land",
+        "article_kids_animals_savanna",
+        "article_what_animals_eat"
+      ],
+      "packs": [
+        "knw.kids.adventure.dinos",
+        "knw.kids.animals.eat",
+        "knw.kids.animals.savanna"
+      ],
+      "term": "Herbivore"
+    },
+    {
+      "conflict": true,
+      "definition": "An animal that eats other animals. Carnivores are often the strong, heavy ones.",
+      "dictionaryId": "lex.sa.kids_adventure.carnivore",
+      "example": "The heavy animal with the thick tail was a carnivore.",
+      "fieldId": "kids_adventure",
+      "id": "carnivore",
+      "lessonIds": [
+        "article_dinosaur_land",
+        "article_kids_animals_savanna",
+        "article_what_animals_eat"
+      ],
+      "packs": [
+        "knw.kids.adventure.dinos",
+        "knw.kids.animals.eat",
+        "knw.kids.animals.savanna"
+      ],
+      "term": "Carnivore"
     },
     {
       "definition": "A green climbing plant that grows up walls and trees. It holds on tightly and hides what is behind it.",

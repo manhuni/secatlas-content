@@ -1,320 +1,173 @@
 {
   "items": [
     {
-      "definition": "The money that comes in over a period minus the money that goes out over it.",
-      "dictionaryId": "lex.sa.money.mon_cash_flow",
-      "example": "Cash flow is positive, but the stock is not there.",
+      "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+      "dictionaryId": "lex.sa.money.mon_minor_unit",
+      "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
       "fieldId": "money",
-      "id": "mon_cash_flow",
+      "id": "mon_minor_unit",
       "lessonIds": [
-        "article_what_money_is"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.money.what_money_is"
+        "knw.money.currencies"
       ],
-      "term": "Cash flow"
+      "term": "Minor unit"
     },
     {
-      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
-      "dictionaryId": "lex.sa.technology.token",
-      "example": "The word \"the\" is one token, and a long word may be three.",
-      "fieldId": "technology",
-      "id": "aiw_token",
+      "definition": "The value printed on a note or a coin, such as 20 or 500.",
+      "dictionaryId": "lex.sa.money.mon_denomination",
+      "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+      "fieldId": "money",
+      "id": "mon_denomination",
       "lessonIds": [
-        "article_how_ai_works"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.howaiworks"
+        "knw.money.currencies"
       ],
-      "term": "Token"
+      "term": "Denomination"
     },
     {
-      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
-      "dictionaryId": "lex.sa.technology.training_data",
-      "example": "The model's weakness on local rules comes from what the training data never covered.",
-      "fieldId": "technology",
-      "id": "aiw_training_data",
+      "definition": "The price of one currency expressed in the money of another currency.",
+      "dictionaryId": "lex.sa.money.mon_exchange_rate",
+      "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+      "fieldId": "money",
+      "id": "mon_exchange_rate",
       "lessonIds": [
-        "article_how_ai_works"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.howaiworks"
+        "knw.money.currencies"
       ],
-      "term": "Training data"
+      "term": "Exchange rate"
     },
     {
-      "definition": "The numbers inside a model that hold what it learned. Each one is a weight that raises or lowers the chance of a continuation.",
-      "dictionaryId": "lex.sa.technology.aiw_parameters",
-      "example": "The model has billions of parameters, and not one of them is a sentence you can read.",
-      "fieldId": "technology",
-      "id": "aiw_parameters",
+      "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+      "dictionaryId": "lex.sa.money.mon_base_currency",
+      "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+      "fieldId": "money",
+      "id": "mon_base_currency",
       "lessonIds": [
-        "article_how_ai_works"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.howaiworks"
+        "knw.money.currencies"
       ],
-      "term": "Parameters"
+      "term": "Base currency"
     },
     {
-      "conflict": true,
-      "definition": "Running a trained model to produce one answer. Cheap and fast compared with training, and it is what happens when you press send.",
-      "dictionaryId": "lex.sa.technology.inference",
-      "example": "Training cost a fortune; inference is what you pay for every time you use it.",
-      "fieldId": "technology",
-      "id": "aiw_inference",
+      "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+      "dictionaryId": "lex.sa.money.mon_quote_currency",
+      "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+      "fieldId": "money",
+      "id": "mon_quote_currency",
       "lessonIds": [
-        "article_how_ai_works"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.howaiworks"
+        "knw.money.currencies"
       ],
-      "term": "Inference"
+      "term": "Quote currency"
     },
     {
-      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
-      "dictionaryId": "lex.sa.technology.context_window",
-      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
-      "fieldId": "technology",
-      "id": "aiw_context_window",
+      "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+      "dictionaryId": "lex.sa.money.mon_currency_union",
+      "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+      "fieldId": "money",
+      "id": "mon_currency_union",
       "lessonIds": [
-        "article_how_ai_works"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.howaiworks"
+        "knw.money.currencies"
       ],
-      "term": "Context window"
+      "term": "Currency union"
     },
     {
-      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
-      "dictionaryId": "lex.sa.technology.prompt",
-      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
-      "fieldId": "technology",
-      "id": "aiw_prompt",
+      "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+      "dictionaryId": "lex.sa.money.mon_dollarization",
+      "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+      "fieldId": "money",
+      "id": "mon_dollarization",
       "lessonIds": [
-        "article_how_ai_works"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.howaiworks"
+        "knw.money.currencies"
       ],
-      "term": "Prompt"
-    },
-    {
-      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
-      "dictionaryId": "lex.sa.technology.hallucination",
-      "example": "It invented a reference that looks perfect and does not exist.",
-      "fieldId": "technology",
-      "id": "aiw_hallucination",
-      "lessonIds": [
-        "article_how_ai_works"
-      ],
-      "packs": [
-        "knw.tech.howaiworks"
-      ],
-      "term": "Hallucination"
-    },
-    {
-      "definition": "The method of letting a system find patterns in data instead of following instructions a person wrote for every case.",
-      "dictionaryId": "lex.sa.technology.machine_learning",
-      "example": "Spam filtering was one of the first everyday uses of machine learning.",
-      "fieldId": "technology",
-      "id": "machine_learning",
-      "lessonIds": [
-        "article_ai_revolution"
-      ],
-      "packs": [
-        "knw.tech.revolution"
-      ],
-      "term": "Machine learning"
-    },
-    {
-      "definition": "A layered structure of simple units whose connection strengths are tuned during training. The most common structure in modern AI.",
-      "dictionaryId": "lex.sa.technology.neural_network",
-      "example": "The translation and the image search both run on a neural network.",
-      "fieldId": "technology",
-      "id": "neural_network",
-      "lessonIds": [
-        "article_ai_revolution"
-      ],
-      "packs": [
-        "knw.tech.revolution"
-      ],
-      "term": "Neural network"
-    },
-    {
-      "definition": "One adjustable number inside a model. Models are described by how many parameters they have.",
-      "dictionaryId": "lex.sa.technology.parameter",
-      "example": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
-      "fieldId": "technology",
-      "id": "parameter",
-      "lessonIds": [
-        "article_ai_revolution"
-      ],
-      "packs": [
-        "knw.tech.revolution"
-      ],
-      "term": "Parameter"
+      "term": "Dollarization"
     },
     {
       "conflict": true,
-      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
-      "dictionaryId": "lex.sa.technology.training_data",
-      "example": "The model's weakness on local rules comes from what the training data never covered.",
-      "fieldId": "technology",
-      "id": "training_data",
+      "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+      "dictionaryId": "lex.sa.mind.cs_devaluation",
+      "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+      "fieldId": "money",
+      "id": "mon_devaluation",
       "lessonIds": [
-        "article_ai_revolution"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.revolution"
+        "knw.money.currencies"
       ],
-      "term": "Training data"
+      "term": "Devaluation"
     },
     {
-      "definition": "AI that produces new content such as text, images, audio or code, rather than only sorting or labelling.",
-      "dictionaryId": "lex.sa.technology.generative_ai",
-      "example": "Drafting the email was the easiest part of the job this week.",
-      "fieldId": "technology",
-      "id": "generative_ai",
+      "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+      "dictionaryId": "lex.sa.money.mon_cash_economy",
+      "example": "In a cash economy, a market stall may not have a machine at all.",
+      "fieldId": "money",
+      "id": "mon_cash_economy",
       "lessonIds": [
-        "article_ai_revolution"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.revolution"
+        "knw.money.currencies"
       ],
-      "term": "Generative AI"
+      "term": "Cash economy"
     },
     {
-      "conflict": true,
-      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
-      "dictionaryId": "lex.sa.technology.hallucination",
-      "example": "It invented a reference that looks perfect and does not exist.",
-      "fieldId": "technology",
-      "id": "hallucination",
+      "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+      "dictionaryId": "lex.sa.money.mon_parallel_market",
+      "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+      "fieldId": "money",
+      "id": "mon_parallel_market",
       "lessonIds": [
-        "article_ai_revolution"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.revolution"
+        "knw.money.currencies"
       ],
-      "term": "Hallucination"
+      "term": "Parallel market"
     },
     {
-      "conflict": true,
-      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
-      "dictionaryId": "lex.sa.technology.prompt",
-      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
-      "fieldId": "technology",
-      "id": "prompt",
+      "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+      "dictionaryId": "lex.sa.money.mon_tipping",
+      "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+      "fieldId": "money",
+      "id": "mon_tipping",
       "lessonIds": [
-        "article_ai_revolution",
-        "article_ai_tokens"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.revolution",
-        "knw.tech.tokens"
+        "knw.money.currencies"
       ],
-      "term": "Prompt"
+      "term": "Tipping"
     },
     {
-      "conflict": true,
-      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
-      "dictionaryId": "lex.sa.technology.token",
-      "example": "The word \"the\" is one token, and a long word may be three.",
-      "fieldId": "technology",
-      "id": "token",
+      "definition": "The money a person working abroad sends to the family at home.",
+      "dictionaryId": "lex.sa.money.mon_remittance",
+      "example": "He sends a remittance every month, and the rent is paid from it.",
+      "fieldId": "money",
+      "id": "mon_remittance",
       "lessonIds": [
-        "article_ai_tokens"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.tech.tokens"
+        "knw.money.currencies"
       ],
-      "term": "Token"
-    },
-    {
-      "definition": "The fixed vocabulary a model uses, plus the rule that splits text into tokens and joins them back.",
-      "dictionaryId": "lex.sa.technology.tokenizer",
-      "example": "A different tokenizer means the same text costs a different number of tokens.",
-      "fieldId": "technology",
-      "id": "tokenizer",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Tokenizer"
-    },
-    {
-      "conflict": true,
-      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
-      "dictionaryId": "lex.sa.technology.context_window",
-      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
-      "fieldId": "technology",
-      "id": "context_window",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Context window"
-    },
-    {
-      "definition": "The tokens you send, counted and billed on the way in. Documents and chat history both count here.",
-      "dictionaryId": "lex.sa.technology.input_tokens",
-      "example": "Uploading the same file twice charges the input tokens twice.",
-      "fieldId": "technology",
-      "id": "input_tokens",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Input tokens"
-    },
-    {
-      "definition": "The tokens the model generates, counted and billed on the way out. Long answers cost more than short ones.",
-      "dictionaryId": "lex.sa.technology.output_tokens",
-      "example": "Asking for 2,000 words doubles the output cost of asking for 200.",
-      "fieldId": "technology",
-      "id": "output_tokens",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Output tokens"
-    },
-    {
-      "definition": "The setting that controls how random the choice of the next token is. Lower values are more repeatable, higher values more varied and less reliable.",
-      "dictionaryId": "lex.sa.technology.temperature",
-      "example": "For extracting data from a document, keep the temperature low.",
-      "fieldId": "technology",
-      "id": "temperature",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Temperature"
-    },
-    {
-      "definition": "The automatic cutting of input that is longer than the context window, usually removing the oldest part.",
-      "dictionaryId": "lex.sa.technology.truncation",
-      "example": "Truncation is why the model never mentions the first page you uploaded.",
-      "fieldId": "technology",
-      "id": "truncation",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Truncation"
+      "term": "Remittance"
     },
     {
       "definition": "The unit of time equal to one sixtieth of a minute.",
@@ -345,7 +198,6 @@
       "term": "newton"
     },
     {
-      "conflict": true,
       "definition": "The capacity to do work or cause change.",
       "dictionaryId": "lex.sa.en.energy.noun",
       "example": "",
@@ -416,6 +268,7 @@
       "term": "label"
     },
     {
+      "conflict": true,
       "definition": "A level of quality or a rule of conduct.",
       "dictionaryId": "lex.sa.en.standard.noun",
       "example": "",
@@ -458,116 +311,260 @@
       "term": "figure"
     },
     {
-      "definition": "The card or phone screen that lets you board the aircraft. It carries your name, the flight, the gate, the seat and the boarding time.",
-      "dictionaryId": "lex.sa.travel.boarding_pass",
-      "example": "Show your boarding pass at the gate and find your seat.",
-      "fieldId": "travel",
-      "id": "boarding_pass",
+      "definition": "The rate of change of velocity with time.",
+      "dictionaryId": "lex.sa.en.acceleration.noun",
+      "example": "A car that speeds up from 0 to 100 km/h in 10 s has an acceleration of 2.78 m/s².",
+      "fieldId": "physics",
+      "id": "acceleration",
       "lessonIds": [
-        "article_airport"
+        "article_showcase"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.article.showcase",
+        "showcase"
       ],
-      "term": "Boarding pass"
+      "term": "acceleration"
     },
     {
-      "definition": "The secure part of the airport where you wait for a connecting flight. You cannot leave it without a new ticket.",
-      "dictionaryId": "lex.sa.travel.transit_area",
-      "example": "My flight is delayed, so I am stuck in the transit area.",
-      "fieldId": "travel",
-      "id": "transit_area",
+      "definition": "The SI unit of amount of substance.",
+      "dictionaryId": "lex.sa.en.mole.noun",
+      "example": "18 g of water is about one mole.",
+      "fieldId": "chemistry",
+      "id": "mole",
       "lessonIds": [
-        "article_airport"
+        "article_showcase"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.article.showcase",
+        "showcase"
       ],
-      "term": "Transit area"
+      "term": "mole"
     },
     {
-      "definition": "The door onto the aircraft, identified by a letter and a number, for example B22. It is assigned late and can change.",
-      "dictionaryId": "lex.sa.travel.departure_gate",
-      "example": "My gate has changed from B22 to C4.",
-      "fieldId": "travel",
-      "id": "departure_gate",
+      "definition": "A dynamic state in which the forward and reverse rates are equal.",
+      "dictionaryId": "lex.sa.en.equilibrium.noun",
+      "example": "At equilibrium, the concentrations stay constant.",
+      "fieldId": "chemistry",
+      "id": "equilibrium",
       "lessonIds": [
-        "article_airport"
+        "article_showcase"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.article.showcase",
+        "showcase"
       ],
-      "term": "Departure gate"
+      "term": "equilibrium"
     },
     {
-      "definition": "The area where the belt for your flight delivers your suitcase. The belt number is shown on the screens above it.",
-      "dictionaryId": "lex.sa.travel.baggage_claim",
-      "example": "Your bag is on belt 7, and it has been there for ten minutes.",
-      "fieldId": "travel",
-      "id": "baggage_claim",
+      "definition": "The SI unit of electrical resistance.",
+      "dictionaryId": "lex.sa.en.ohm.noun",
+      "example": "A 2 Ω resistor carries 3 A when V = 6 V.",
+      "fieldId": "physics",
+      "id": "ohm",
       "lessonIds": [
-        "article_airport"
+        "article_showcase"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.article.showcase",
+        "showcase"
       ],
-      "term": "Baggage claim"
+      "term": "ohm"
     },
     {
-      "definition": "A connection between two flights at the same airport, without going through the city in between.",
-      "dictionaryId": "lex.sa.travel.transfer",
-      "example": "I have a two-hour transfer in Singapore.",
-      "fieldId": "travel",
-      "id": "transfer",
+      "definition": "A form of English used by a particular group in a particular place, with its own vocabulary, grammar and pronunciation.",
+      "dictionaryId": "lex.sa.culture.english_variety",
+      "example": "Singapore English is a variety of English, not a broken version of it.",
+      "fieldId": "culture",
+      "id": "english_variety",
       "lessonIds": [
-        "article_airport"
+        "article_varieties_of_english"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.culture.englishes"
       ],
-      "term": "Transfer"
+      "term": "Variety of English"
     },
     {
-      "definition": "The checkpoint where bags and people are checked before entering the secure part of the airport.",
-      "dictionaryId": "lex.sa.travel.security_screening",
-      "example": "Security screening starts at the end of this corridor.",
-      "fieldId": "travel",
-      "id": "security_screening",
+      "definition": "The way the sounds of a language are pronounced by a speaker, independent of which words they use.",
+      "dictionaryId": "lex.sa.culture.accent",
+      "example": "He has a strong Glasgow accent but standard vocabulary.",
+      "fieldId": "culture",
+      "id": "accent",
       "lessonIds": [
-        "article_airport"
+        "article_varieties_of_english"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.culture.englishes"
       ],
-      "term": "Security screening"
+      "term": "Accent"
     },
     {
-      "definition": "The rule limiting containers of liquid in hand baggage, usually to 100 ml each in a clear bag.",
-      "dictionaryId": "lex.sa.travel.liquids_rule",
-      "example": "My bottle is 500 ml, so I have to empty it before screening.",
-      "fieldId": "travel",
-      "id": "liquids_rule",
+      "definition": "Whether a speaker pronounces the r sound at the end of a word. American English is rhotic; British English is not.",
+      "dictionaryId": "lex.sa.culture.rhoticity",
+      "example": "The difference between *car* and *cah* is rhoticity.",
+      "fieldId": "culture",
+      "id": "rhoticity",
       "lessonIds": [
-        "article_airport"
+        "article_varieties_of_english"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.culture.englishes"
       ],
-      "term": "Liquids rule"
+      "term": "Rhoticity"
     },
     {
-      "definition": "The border desk where an officer checks your passport and your right to enter or leave the country.",
-      "dictionaryId": "lex.sa.travel.passport_control",
-      "example": "Passport control is straight ahead, and baggage claim is on the left.",
-      "fieldId": "travel",
-      "id": "passport_control",
+      "definition": "The level of formality a speaker chooses for a situation, from casual to formal.",
+      "dictionaryId": "lex.sa.culture.register",
+      "example": "Switching register, he changed *Could you pass the salt* to *Pass the salt*.",
+      "fieldId": "culture",
+      "id": "register",
       "lessonIds": [
-        "article_airport"
+        "article_varieties_of_english"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.culture.englishes"
       ],
-      "term": "Passport control"
+      "term": "Register"
+    },
+    {
+      "definition": "Moving between two languages, or two varieties of one language, inside a single conversation.",
+      "dictionaryId": "lex.sa.culture.code_switching",
+      "example": "Code-switching between English and Tamil is normal in Chennai offices.",
+      "fieldId": "culture",
+      "id": "code_switching",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Code-switching"
+    },
+    {
+      "definition": "A shared language used between people whose first languages differ. English is the most common one in international business.",
+      "dictionaryId": "lex.sa.culture.lingua_franca",
+      "example": "English works as the lingua franca, so nobody has to learn three languages for one meeting.",
+      "fieldId": "culture",
+      "id": "lingua_franca",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Lingua franca"
+    },
+    {
+      "definition": "The individual version of a language: one speaker's own habits of words and grammar.",
+      "dictionaryId": "lex.sa.culture.idiolect",
+      "example": "Every email you write becomes part of your idiolect.",
+      "fieldId": "culture",
+      "id": "idiolect",
+      "lessonIds": [
+        "article_varieties_of_english"
+      ],
+      "packs": [
+        "knw.culture.englishes"
+      ],
+      "term": "Idiolect"
+    },
+    {
+      "definition": "Someone who earns income that does not depend on one country and who lives in several places over a year.",
+      "dictionaryId": "lex.sa.culture.digital_nomad",
+      "example": "As a digital nomad, I move when the client contract ends.",
+      "fieldId": "culture",
+      "id": "digital_nomad",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Digital nomad"
+    },
+    {
+      "definition": "A residence permit for people who work remotely for foreign employers or clients without a local work permit.",
+      "dictionaryId": "lex.sa.culture.nomad_visa",
+      "example": "The nomad visa requires proof of income above a monthly threshold.",
+      "fieldId": "culture",
+      "id": "nomad_visa",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Nomad visa"
+    },
+    {
+      "definition": "The status that decides which country has a claim to tax your income, usually based on where you spend most of your time.",
+      "dictionaryId": "lex.sa.culture.tax_residency",
+      "example": "Tax residency is the part nobody checks before they book the flight.",
+      "fieldId": "culture",
+      "id": "tax_residency",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Tax residency"
+    },
+    {
+      "definition": "A building where residents rent a room and share a kitchen and common areas, and where nomads often find a community.",
+      "dictionaryId": "lex.sa.culture.coliving",
+      "example": "I took a room in a coliving for a month and made friends in a week.",
+      "fieldId": "culture",
+      "id": "coliving",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Coliving"
+    },
+    {
+      "definition": "A paid workspace where people work in the same room, usually by the day or the month, with a desk and reliable internet.",
+      "dictionaryId": "lex.sa.culture.coworking",
+      "example": "A co-working space costs less than the coffee I would buy sitting in a café all day.",
+      "fieldId": "culture",
+      "id": "coworking",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Co-working space"
+    },
+    {
+      "definition": "Staying in one place for weeks or months instead of moving on every few days, which is what makes long-term work possible.",
+      "dictionaryId": "lex.sa.culture.slow_travel",
+      "example": "Slow travel costs less and lets you actually know the place.",
+      "fieldId": "culture",
+      "id": "slow_travel",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Slow travel"
+    },
+    {
+      "definition": "Working from a shared space other than your own home, which many employers offer or pay for.",
+      "dictionaryId": "lex.sa.culture.offsiting",
+      "example": "My company gave me an offsiting budget of two hundred dollars a month.",
+      "fieldId": "culture",
+      "id": "offsiting",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Offsiting"
     }
   ],
   "nextCursor": "760",

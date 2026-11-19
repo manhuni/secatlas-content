@@ -1,563 +1,564 @@
 {
   "items": [
     {
-      "conflict": true,
-      "definition": "The habit of ignoring alerts on purpose, so that the one alert that mattered gets ignored too.",
-      "dictionaryId": "lex.sa.technology.notification_fatigue",
-      "example": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
-      "fieldId": "technology",
-      "id": "notification_fatigue",
+      "definition": "To bite something again and again until it breaks.",
+      "dictionaryId": "lex.sa.kids_stories.gnaw",
+      "example": "Mimi gnawed the rope until it broke.",
+      "fieldId": "kids_stories",
+      "id": "gnaw",
       "lessonIds": [
-        "article_attention_death",
-        "article_brainrot"
+        "article_lion_and_mouse"
       ],
       "packs": [
-        "knw.mind.attention_death",
-        "knw.tech.brainrot"
+        "knw.kids.stories.mouse"
       ],
-      "term": "Notification fatigue"
+      "term": "Gnaw"
     },
     {
-      "definition": "A fraudulent message, usually by email, designed to steal credentials or money by pretending to be someone you trust.",
-      "dictionaryId": "lex.sa.technology.phishing",
-      "example": "That email about a locked account was phishing, and it used our bank's real logo.",
-      "fieldId": "technology",
-      "id": "phishing",
+      "definition": "The deep loud sound a lion makes. It travels a long way.",
+      "dictionaryId": "lex.sa.kids_stories.roar",
+      "example": "Leo's roar woke the whole meadow.",
+      "fieldId": "kids_stories",
+      "id": "roar",
       "lessonIds": [
-        "article_online_scams"
+        "article_lion_and_mouse"
       ],
       "packs": [
-        "knw.tech.scams"
+        "knw.kids.stories.mouse"
       ],
-      "term": "Phishing"
+      "term": "Roar"
     },
     {
-      "definition": "Phishing carried out by text message. Short, urgent, and arriving on the phone you are holding.",
-      "dictionaryId": "lex.sa.technology.smishing",
-      "example": "The message about a parcel was smishing, and the link was not the courier's website.",
-      "fieldId": "technology",
-      "id": "smishing",
+      "definition": "A kind thing you do for someone. You can do it without being paid back at once.",
+      "dictionaryId": "lex.sa.kids_stories.favour",
+      "example": "Mimi did Leo a favour that night.",
+      "fieldId": "kids_stories",
+      "id": "favour",
       "lessonIds": [
-        "article_online_scams"
+        "article_lion_and_mouse"
       ],
       "packs": [
-        "knw.tech.scams"
+        "knw.kids.stories.mouse"
       ],
-      "term": "Smishing"
+      "term": "Favour"
     },
     {
-      "definition": "Phishing carried out by a phone call, usually with a claim of authority from a bank, a police force or a support line.",
-      "dictionaryId": "lex.sa.technology.vishing",
-      "example": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
-      "fieldId": "technology",
-      "id": "vishing",
+      "definition": "The small happy sound an animal makes when it feels comfortable.",
+      "dictionaryId": "lex.sa.kids_stories.purr",
+      "example": "Mimi purred when Leo lay down to sleep.",
+      "fieldId": "kids_stories",
+      "id": "purr",
       "lessonIds": [
-        "article_online_scams"
+        "article_lion_and_mouse"
       ],
       "packs": [
-        "knw.tech.scams"
+        "knw.kids.stories.mouse"
       ],
-      "term": "Vishing"
+      "term": "Purr"
     },
     {
-      "definition": "Presenting a false sender identity so that a call or a message appears to come from a number or address that belongs to someone else.",
-      "dictionaryId": "lex.sa.technology.spoofing",
-      "example": "The message showed my brother's name, but the number was spoofed.",
-      "fieldId": "technology",
-      "id": "spoofing",
+      "definition": "A baby plant that has just come out of the soil. Very small, very green.",
+      "dictionaryId": "lex.sa.kids_stories.sprout",
+      "example": "A green sprout appeared above the soil.",
+      "fieldId": "kids_stories",
+      "id": "sprout",
       "lessonIds": [
-        "article_online_scams"
+        "article_tiny_seed"
       ],
       "packs": [
-        "knw.tech.scams"
+        "knw.kids.stories.seed"
       ],
-      "term": "Spoofing"
+      "term": "Sprout"
     },
     {
-      "definition": "The short number a bank sends to confirm a login or a payment. Anyone who holds it can complete the action.",
-      "dictionaryId": "lex.sa.technology.one_time_code",
-      "example": "I gave them the one-time code, and that was the moment the account was theirs.",
-      "fieldId": "technology",
-      "id": "one_time_code",
+      "definition": "The soft earth where plants grow. It holds water and food for the roots.",
+      "dictionaryId": "lex.sa.kids_stories.soil",
+      "example": "The seed fell into the soft brown soil.",
+      "fieldId": "kids_stories",
+      "id": "soil",
       "lessonIds": [
-        "article_online_scams"
+        "article_tiny_seed"
       ],
       "packs": [
-        "knw.tech.scams"
+        "knw.kids.stories.seed"
       ],
-      "term": "One-time code"
+      "term": "Soil"
     },
     {
-      "definition": "A bank account used to receive and pass on criminal money, sometimes opened by someone who believes they are helping a company or a cause.",
-      "dictionaryId": "lex.sa.technology.mule_account",
-      "example": "They asked me to receive money and pass it on. That makes my account a mule account and the money is stolen.",
-      "fieldId": "technology",
-      "id": "mule_account",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Mule account"
-    },
-    {
-      "definition": "A reversal of a card payment requested from the bank, usually because the transaction was not authorised or the goods never arrived.",
-      "dictionaryId": "lex.sa.technology.chargeback",
-      "example": "The bank raised a chargeback and returned the money five days later.",
-      "fieldId": "technology",
-      "id": "chargeback",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Chargeback"
-    },
-    {
-      "definition": "Money demanded before a service is delivered. Common in fake job offers, fake investments and fake love interests.",
-      "dictionaryId": "lex.sa.technology.advance_fee",
-      "example": "They wanted a small fee before the equipment arrived, and then a larger one.",
-      "fieldId": "technology",
-      "id": "advance_fee",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Advance fee"
-    },
-    {
-      "definition": "The moment you take the room, normally from 14:00 or 15:00. Before it, the hotel usually stores your luggage free of charge.",
-      "dictionaryId": "lex.sa.travel.check_in",
-      "example": "Check-in is from 14:00, but I can leave my bags with you in the morning.",
-      "fieldId": "travel",
-      "id": "check_in",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Check-in"
-    },
-    {
-      "definition": "The card or fob that opens your door. In many hotels it also works as your room number, your lift pass and your breakfast voucher.",
-      "dictionaryId": "lex.sa.travel.room_key",
-      "example": "Could I have a second key card for my colleague?",
-      "fieldId": "travel",
-      "id": "room_key",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Room key"
-    },
-    {
-      "definition": "A sum held on your card, or taken in cash, to cover extras and damage. It is released after you leave.",
-      "dictionaryId": "lex.sa.travel.deposit",
-      "example": "We hold a deposit of 200 on your card for the minibar and the safe.",
-      "fieldId": "travel",
-      "id": "deposit",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Deposit"
-    },
-    {
-      "definition": "Giving the room back and paying the final bill, usually between 10:00 and 12:00. Late check-out can often be arranged.",
-      "dictionaryId": "lex.sa.travel.checkout",
-      "example": "Can I check out at 14:00 instead of 11:00? My flight is at 17:00.",
-      "fieldId": "travel",
-      "id": "checkout",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Check-out"
-    },
-    {
-      "definition": "Free storage of bags before check-in or after check-out, which lets you use the city without carrying a suitcase.",
-      "dictionaryId": "lex.sa.travel.luggage_storage",
-      "example": "Could you store my luggage until my flight in the evening?",
-      "fieldId": "travel",
-      "id": "luggage_storage",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Luggage storage"
-    },
-    {
-      "definition": "The team that cleans the rooms, changes the linen and takes away used towels.",
-      "dictionaryId": "lex.sa.travel.housekeeping",
-      "example": "Could housekeeping bring two more towels, please?",
-      "fieldId": "travel",
-      "id": "housekeeping",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Housekeeping"
-    },
-    {
-      "definition": "The staff member who arranges tickets, tours, taxis, doctors and anything else the hotel does not sell itself.",
-      "dictionaryId": "lex.sa.travel.concierge",
-      "example": "The concierge booked a table at a restaurant that was fully booked.",
-      "fieldId": "travel",
-      "id": "concierge",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Concierge"
-    },
-    {
-      "definition": "A temporary fix that makes a problem go away without solving it.",
-      "dictionaryId": "lex.sa.work.band_aid",
-      "example": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
-      "fieldId": "work",
-      "id": "band_aid",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Band-aid"
-    },
-    {
-      "definition": "A way of working around a problem instead of fixing its cause.",
-      "dictionaryId": "lex.sa.work.workaround",
-      "example": "The manual workaround is for us to check the total by hand every Friday.",
-      "fieldId": "work",
-      "id": "workaround",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Workaround"
-    },
-    {
-      "definition": "To return to a topic later. Often used to postpone a decision.",
-      "dictionaryId": "lex.sa.work.circle_back",
-      "example": "Let us circle back to the budget question after lunch.",
-      "fieldId": "work",
-      "id": "circle_back",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Circle back"
-    },
-    {
-      "definition": "To have a short conversation with someone about something.",
-      "dictionaryId": "lex.sa.work.touch_base",
-      "example": "Can we touch base on Thursday for fifteen minutes?",
-      "fieldId": "work",
-      "id": "touch_base",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Touch base"
-    },
-    {
-      "definition": "To move a discussion out of the meeting into a smaller group.",
-      "dictionaryId": "lex.sa.work.take_offline",
-      "example": "Let us take this offline and I will send you the figures.",
-      "fieldId": "work",
-      "id": "take_offline",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Take offline"
-    },
-    {
-      "definition": "To raise an issue or a risk so that people notice it early.",
-      "dictionaryId": "lex.sa.work.flag",
-      "example": "I want to flag a risk in the schedule before it becomes a problem.",
-      "fieldId": "work",
-      "id": "flag",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Flag"
-    },
-    {
-      "definition": "To take a matter to a more senior person because it has not moved.",
-      "dictionaryId": "lex.sa.work.escalate",
-      "example": "If we do not hear back by Friday, we will need to escalate this.",
-      "fieldId": "work",
-      "id": "escalate",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Escalate"
-    },
-    {
-      "definition": "To give formal permission for something to go ahead.",
-      "dictionaryId": "lex.sa.work.green_light",
-      "example": "Legal has green-lighted the launch for June.",
-      "fieldId": "work",
-      "id": "green_light",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Green-light"
-    },
-    {
-      "definition": "The closing line of an email, such as \"Kind regards\", followed by your name.",
-      "dictionaryId": "lex.sa.work.sign_off",
-      "example": "Use a plain sign-off: Kind regards, then your name and title.",
-      "fieldId": "work",
-      "id": "sign_off",
-      "lessonIds": [
-        "article_professional_emails",
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.emails",
-        "knw.work.expressions"
-      ],
-      "term": "Sign-off"
-    },
-    {
-      "definition": "Agreement and active support for a plan from the people who must carry it out.",
-      "dictionaryId": "lex.sa.work.buy_in",
-      "example": "I spent two weeks getting buy-in from the regional teams.",
-      "fieldId": "work",
-      "id": "buy_in",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Buy-in"
-    },
-    {
-      "definition": "A force working against you, such as a rule change or a weak market.",
-      "dictionaryId": "lex.sa.work.headwind",
-      "example": "We are facing a headwind from the new import regulations.",
-      "fieldId": "work",
-      "id": "headwind",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Headwind"
-    },
-    {
-      "definition": "The easy results, available with little effort before the harder work.",
-      "dictionaryId": "lex.sa.work.low_hanging_fruit",
-      "example": "We picked the low-hanging fruit first and delivered in three weeks.",
-      "fieldId": "work",
-      "id": "low_hanging_fruit",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Low-hanging fruit"
-    },
-    {
-      "definition": "To increase activity, output or capability, often over a planned period.",
-      "dictionaryId": "lex.sa.work.ramp_up",
-      "example": "We are ramping up production ahead of the festival season.",
-      "fieldId": "work",
-      "id": "ramp_up",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Ramp up"
-    },
-    {
-      "definition": "A long, detailed examination of one subject.",
-      "dictionaryId": "lex.sa.work.deep_dive",
-      "example": "We did a deep dive on the churn numbers before the review.",
-      "fieldId": "work",
-      "id": "deep_dive",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Deep dive"
-    },
-    {
-      "definition": "A rough approximate number, given before the real figure is known.",
-      "dictionaryId": "lex.sa.work.ballpark",
-      "example": "Could you give me a ballpark figure for the full build?",
-      "fieldId": "work",
-      "id": "ballpark",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Ballpark figure"
-    },
-    {
-      "definition": "The capacity a person or team has to take on more work.",
-      "dictionaryId": "lex.sa.work.bandwidth",
-      "example": "I do not have the bandwidth this week, but I can do it next month.",
-      "fieldId": "work",
-      "id": "bandwidth",
-      "lessonIds": [
-        "article_workplace_expressions"
-      ],
-      "packs": [
-        "knw.work.expressions"
-      ],
-      "term": "Bandwidth"
-    },
-    {
-      "definition": "A symbol, often x, whose value is found by solving.",
-      "dictionaryId": "lex.sa.en.variable.noun",
-      "example": "Let x be the unknown variable.",
+      "definition": "Doing a calculation in your head, without a calculator and without paper.",
+      "dictionaryId": "lex.sa.mathematics.ma_mental_arithmetic",
+      "example": "Mental arithmetic gave me the rough figure, and the check gave me the right one.",
       "fieldId": "mathematics",
-      "hidden": true,
-      "id": "variable",
-      "lessonIds": [],
-      "packs": [
-        "knw.article.showcase",
-        "knw.solving.linear"
-      ],
-      "term": "variable"
-    },
-    {
-      "definition": "The rate of change of velocity with time.",
-      "dictionaryId": "lex.sa.en.acceleration.noun",
-      "example": "A car that speeds up from 0 to 100 km/h in 10 s has an acceleration of 2.78 m/s².",
-      "fieldId": "physics",
-      "hidden": true,
-      "id": "acceleration",
-      "lessonIds": [],
-      "packs": [
-        "knw.article.showcase"
-      ],
-      "term": "acceleration"
-    },
-    {
-      "definition": "The SI unit of amount of substance.",
-      "dictionaryId": "lex.sa.en.mole.noun",
-      "example": "18 g of water is about one mole.",
-      "fieldId": "chemistry",
-      "hidden": true,
-      "id": "mole",
-      "lessonIds": [],
-      "packs": [
-        "knw.article.showcase"
-      ],
-      "term": "mole"
-    },
-    {
-      "definition": "A dynamic state in which the forward and reverse rates are equal.",
-      "dictionaryId": "lex.sa.en.equilibrium.noun",
-      "example": "At equilibrium, the concentrations stay constant.",
-      "fieldId": "chemistry",
-      "hidden": true,
-      "id": "equilibrium",
-      "lessonIds": [],
-      "packs": [
-        "knw.article.showcase"
-      ],
-      "term": "equilibrium"
-    },
-    {
-      "definition": "The SI unit of electrical resistance.",
-      "dictionaryId": "lex.sa.en.ohm.noun",
-      "example": "A 2 Ω resistor carries 3 A when V = 6 V.",
-      "fieldId": "physics",
-      "hidden": true,
-      "id": "ohm",
-      "lessonIds": [],
-      "packs": [
-        "knw.article.showcase"
-      ],
-      "term": "ohm"
-    },
-    {
-      "definition": "An equation that can be written as ax + b = 0, with a not equal to zero.",
-      "dictionaryId": "exp.sa.en.linear-equation",
-      "example": "2x + 3 = 11 is a linear equation in one unknown.",
-      "fieldId": "mathematics",
-      "hidden": true,
-      "id": "linear_equation",
-      "lessonIds": [],
-      "packs": [
-        "knw.solving.linear"
-      ],
-      "term": "linear equation"
-    },
-    {
-      "definition": "How steep the line is; the coefficient of x.",
-      "dictionaryId": "lex.sa.en.slope.noun",
-      "example": "A horizontal line has slope zero.",
-      "fieldId": "mathematics",
-      "hidden": true,
-      "id": "slope",
-      "lessonIds": [],
-      "packs": [
-        "knw.solving.linear"
-      ],
-      "term": "slope"
-    },
-    {
-      "definition": "Someone who earns income that does not depend on one country and who lives in several places over a year.",
-      "dictionaryId": "lex.sa.culture.digital_nomad",
-      "example": "As a digital nomad, I move when the client contract ends.",
-      "fieldId": "culture",
-      "id": "digital_nomad",
+      "id": "ma_mental_arithmetic",
       "lessonIds": [
-        "article_digital_nomads"
+        "article_mental_arithmetic"
       ],
       "packs": [
-        "knw.culture.nomads"
+        "knw.math.mental_arithmetic"
       ],
-      "term": "Digital nomad"
+      "term": "Mental arithmetic"
+    },
+    {
+      "definition": "A rough number, close enough to show whether a real answer is possible.",
+      "dictionaryId": "lex.sa.mathematics.ma_estimate",
+      "example": "Before you multiply, estimate: about 50 times about 30 is about 1500.",
+      "fieldId": "mathematics",
+      "id": "ma_estimate",
+      "lessonIds": [
+        "article_mental_arithmetic"
+      ],
+      "packs": [
+        "knw.math.mental_arithmetic"
+      ],
+      "term": "Estimate"
+    },
+    {
+      "definition": "Writing a number as the nearest convenient value, usually the nearest ten, hundred or thousand.",
+      "dictionaryId": "lex.sa.mathematics.ma_rounding",
+      "example": "47 rounds to 50, and 42 rounds to 40.",
+      "fieldId": "mathematics",
+      "id": "ma_rounding",
+      "lessonIds": [
+        "article_mental_arithmetic"
+      ],
+      "packs": [
+        "knw.math.mental_arithmetic"
+      ],
+      "term": "Rounding"
+    },
+    {
+      "definition": "The correction you add or subtract after you have rounded a number.",
+      "dictionaryId": "lex.sa.mathematics.ma_compensation",
+      "example": "I rounded 19 up to 20, so the compensation is one lot of 24, and 480 − 24 = 456.",
+      "fieldId": "mathematics",
+      "id": "ma_compensation",
+      "lessonIds": [
+        "article_mental_arithmetic"
+      ],
+      "packs": [
+        "knw.math.mental_arithmetic"
+      ],
+      "term": "Compensation"
+    },
+    {
+      "definition": "To bear or transport something.",
+      "dictionaryId": "lex.sa.en.carry.verb",
+      "example": "In 8 + 7 you write 5 and carry 1 to the next column.",
+      "fieldId": "mathematics",
+      "id": "ma_carry",
+      "lessonIds": [
+        "article_mental_arithmetic"
+      ],
+      "packs": [
+        "knw.math.mental_arithmetic"
+      ],
+      "term": "carry"
+    },
+    {
+      "definition": "The part of a number that is left over when the division does not come out exactly.",
+      "dictionaryId": "lex.sa.mathematics.ma_remainder",
+      "example": "87 divided by 7 gives the quotient 12 and the remainder 3.",
+      "fieldId": "mathematics",
+      "id": "ma_remainder",
+      "lessonIds": [
+        "article_mental_arithmetic"
+      ],
+      "packs": [
+        "knw.math.mental_arithmetic"
+      ],
+      "term": "Remainder"
+    },
+    {
+      "definition": "The result of a division, without the part that is left over.",
+      "dictionaryId": "lex.sa.mathematics.ma_quotient",
+      "example": "The quotient of 87 and 7 is 12, with a remainder of 3.",
+      "fieldId": "mathematics",
+      "id": "ma_quotient",
+      "lessonIds": [
+        "article_mental_arithmetic"
+      ],
+      "packs": [
+        "knw.math.mental_arithmetic"
+      ],
+      "term": "Quotient"
+    },
+    {
+      "definition": "The total of all the digits of a number, used to test whether it is a multiple of 9.",
+      "dictionaryId": "lex.sa.mathematics.ma_digit_sum",
+      "example": "The digit sum of 1296 is 1 + 2 + 9 + 6 = 18, a multiple of 9.",
+      "fieldId": "mathematics",
+      "id": "ma_digit_sum",
+      "lessonIds": [
+        "article_mental_arithmetic"
+      ],
+      "packs": [
+        "knw.math.mental_arithmetic"
+      ],
+      "term": "Digit sum"
+    },
+    {
+      "definition": "An AI system that plans and acts toward a goal, using tools and intermediate steps rather than answering in one shot.",
+      "dictionaryId": "lex.sa.mind.ai_agent",
+      "example": "",
+      "fieldId": "mind",
+      "id": "ai_agent",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "AI agent"
+    },
+    {
+      "definition": "A setup in which several specialized AI agents divide a task among themselves and pass work along.",
+      "dictionaryId": "lex.sa.mind.multi_agent_system",
+      "example": "",
+      "fieldId": "mind",
+      "id": "multi_agent_system",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "Multi-agent system"
+    },
+    {
+      "definition": "The coordination of multiple agents: deciding their roles, order, tools and stopping conditions.",
+      "dictionaryId": "lex.sa.mind.orchestration",
+      "example": "",
+      "fieldId": "mind",
+      "id": "orchestration",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "Orchestration"
+    },
+    {
+      "definition": "A design in which a person reviews and approves an agent's work before it takes effect.",
+      "dictionaryId": "lex.sa.mind.human_in_the_loop",
+      "example": "",
+      "fieldId": "mind",
+      "id": "human_in_the_loop",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "Human in the loop"
+    },
+    {
+      "definition": "The process of checking that output meets its requirements before it is used or shipped.",
+      "dictionaryId": "lex.sa.mind.quality_control",
+      "example": "",
+      "fieldId": "mind",
+      "id": "quality_control",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "Quality control"
+    },
+    {
+      "definition": "Assigning a task and the authority to complete it; with agents, the responsibility still stays with the delegator.",
+      "dictionaryId": "lex.sa.mind.delegation",
+      "example": "",
+      "fieldId": "mind",
+      "id": "delegation",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "Delegation"
+    },
+    {
+      "definition": "A period in which investment and valuations in AI exceed the technology's near-term economic value.",
+      "dictionaryId": "lex.sa.mind.ai_bubble",
+      "example": "",
+      "fieldId": "mind",
+      "id": "ai_bubble",
+      "lessonIds": [
+        "article_ai_bubble"
+      ],
+      "packs": [
+        "knw.mind.ai_bubble"
+      ],
+      "term": "AI bubble"
+    },
+    {
+      "definition": "The observed pattern in which new technologies pass through inflated expectations, disappointment, and eventual steady adoption.",
+      "dictionaryId": "lex.sa.mind.hype_cycle",
+      "example": "",
+      "fieldId": "mind",
+      "id": "hype_cycle",
+      "lessonIds": [
+        "article_ai_bubble"
+      ],
+      "packs": [
+        "knw.mind.ai_bubble"
+      ],
+      "term": "Hype cycle"
+    },
+    {
+      "definition": "The total price investors place on a company or sector, reflecting expected future profits rather than current ones.",
+      "dictionaryId": "lex.sa.mind.market_valuation",
+      "example": "",
+      "fieldId": "mind",
+      "id": "market_valuation",
+      "lessonIds": [
+        "article_ai_bubble"
+      ],
+      "packs": [
+        "knw.mind.ai_bubble"
+      ],
+      "term": "Market valuation"
+    },
+    {
+      "definition": "The historical lag between the arrival of a transformative technology and its measurable effect on economic productivity.",
+      "dictionaryId": "lex.sa.mind.productivity_paradox",
+      "example": "",
+      "fieldId": "mind",
+      "id": "productivity_paradox",
+      "lessonIds": [
+        "article_ai_bubble"
+      ],
+      "packs": [
+        "knw.mind.ai_bubble"
+      ],
+      "term": "Productivity paradox"
+    },
+    {
+      "definition": "The investigation of claims, numbers and risks before committing money or reputation.",
+      "dictionaryId": "lex.sa.mind.due_diligence",
+      "example": "",
+      "fieldId": "mind",
+      "id": "due_diligence",
+      "lessonIds": [
+        "article_ai_bubble"
+      ],
+      "packs": [
+        "knw.mind.ai_bubble"
+      ],
+      "term": "Due diligence"
+    },
+    {
+      "definition": "The revenue and cost attached to one unit of a product — the arithmetic of whether a business model works.",
+      "dictionaryId": "lex.sa.mind.unit_economics",
+      "example": "",
+      "fieldId": "mind",
+      "id": "unit_economics",
+      "lessonIds": [
+        "article_ai_bubble"
+      ],
+      "packs": [
+        "knw.mind.ai_bubble"
+      ],
+      "term": "Unit economics"
+    },
+    {
+      "definition": "An AI assistant integrated into the development process that writes, completes and explains code on request.",
+      "dictionaryId": "lex.sa.mind.ai_pair_programmer",
+      "example": "",
+      "fieldId": "mind",
+      "id": "ai_pair_programmer",
+      "lessonIds": [
+        "article_ai_programmer"
+      ],
+      "packs": [
+        "knw.mind.ai_programmer"
+      ],
+      "term": "AI pair programmer"
+    },
+    {
+      "definition": "The automatic production of program code from a natural-language description or an example.",
+      "dictionaryId": "lex.sa.mind.code_generation",
+      "example": "",
+      "fieldId": "mind",
+      "id": "code_generation",
+      "lessonIds": [
+        "article_ai_programmer"
+      ],
+      "packs": [
+        "knw.mind.ai_programmer"
+      ],
+      "term": "Code generation"
+    },
+    {
+      "definition": "Breaking a large, vague problem into small, precise, solvable parts with clear success conditions.",
+      "dictionaryId": "lex.sa.mind.problem_decomposition",
+      "example": "",
+      "fieldId": "mind",
+      "id": "problem_decomposition",
+      "lessonIds": [
+        "article_ai_programmer"
+      ],
+      "packs": [
+        "knw.mind.ai_programmer"
+      ],
+      "term": "Problem decomposition"
+    },
+    {
+      "definition": "Reasoning about how the parts of a system affect each other, including effects that appear far away in time or structure.",
+      "dictionaryId": "lex.sa.mind.systems_thinking",
+      "example": "",
+      "fieldId": "mind",
+      "id": "systems_thinking",
+      "lessonIds": [
+        "article_ai_programmer"
+      ],
+      "packs": [
+        "knw.mind.ai_programmer"
+      ],
+      "term": "Systems thinking"
+    },
+    {
+      "definition": "The capacity to make good technical decisions under uncertainty, weighing trade-offs that no rule can settle.",
+      "dictionaryId": "lex.sa.mind.engineering_judgment",
+      "example": "",
+      "fieldId": "mind",
+      "id": "engineering_judgment",
+      "lessonIds": [
+        "article_ai_programmer"
+      ],
+      "packs": [
+        "knw.mind.ai_programmer"
+      ],
+      "term": "Engineering judgment"
+    },
+    {
+      "definition": "The ongoing work of keeping software alive: fixing, adapting, and explaining it across years of changing conditions.",
+      "dictionaryId": "lex.sa.mind.maintenance",
+      "example": "",
+      "fieldId": "mind",
+      "id": "maintenance",
+      "lessonIds": [
+        "article_ai_programmer"
+      ],
+      "packs": [
+        "knw.mind.ai_programmer"
+      ],
+      "term": "Maintenance"
+    },
+    {
+      "definition": "Software designed to act toward goals with a degree of autonomy rather than waiting for each command.",
+      "dictionaryId": "lex.sa.mind.agentic_app",
+      "example": "",
+      "fieldId": "mind",
+      "id": "agentic_app",
+      "lessonIds": [
+        "article_app_future"
+      ],
+      "packs": [
+        "knw.mind.app_future"
+      ],
+      "term": "Agentic app"
+    },
+    {
+      "definition": "A user interface that changes according to context, intent and history rather than showing fixed menus.",
+      "dictionaryId": "lex.sa.mind.adaptive_interface",
+      "example": "",
+      "fieldId": "mind",
+      "id": "adaptive_interface",
+      "lessonIds": [
+        "article_app_future"
+      ],
+      "packs": [
+        "knw.mind.app_future"
+      ],
+      "term": "Adaptive interface"
+    },
+    {
+      "definition": "A statement of what the user wants to achieve, as opposed to the commands that achieve it.",
+      "dictionaryId": "lex.sa.mind.intent",
+      "example": "",
+      "fieldId": "mind",
+      "id": "intent",
+      "lessonIds": [
+        "article_app_future"
+      ],
+      "packs": [
+        "knw.mind.app_future"
+      ],
+      "term": "Intent"
+    },
+    {
+      "definition": "The performance of multi-step procedures by software without human operation of each step.",
+      "dictionaryId": "lex.sa.mind.task_automation",
+      "example": "",
+      "fieldId": "mind",
+      "id": "task_automation",
+      "lessonIds": [
+        "article_app_future"
+      ],
+      "packs": [
+        "knw.mind.app_future"
+      ],
+      "term": "Task automation"
+    },
+    {
+      "definition": "Application programming interface: a structured way for software to use another service, made for machines rather than humans.",
+      "dictionaryId": "lex.sa.mind.api",
+      "example": "",
+      "fieldId": "mind",
+      "id": "api",
+      "lessonIds": [
+        "article_app_future"
+      ],
+      "packs": [
+        "knw.mind.app_future"
+      ],
+      "term": "API"
+    },
+    {
+      "definition": "Computing woven into the environment so that it acts in the background without demanding attention.",
+      "dictionaryId": "lex.sa.mind.ambient_computing",
+      "example": "",
+      "fieldId": "mind",
+      "id": "ambient_computing",
+      "lessonIds": [
+        "article_app_future"
+      ],
+      "packs": [
+        "knw.mind.app_future"
+      ],
+      "term": "Ambient computing"
+    },
+    {
+      "definition": "Professional or learning activity performed in a distraction-free state that pushes cognitive ability to its limit.",
+      "dictionaryId": "lex.sa.mind.deep_work",
+      "example": "",
+      "fieldId": "mind",
+      "id": "deep_work",
+      "lessonIds": [
+        "article_attention_death"
+      ],
+      "packs": [
+        "knw.mind.attention_death"
+      ],
+      "term": "Deep work"
+    },
+    {
+      "definition": "The cycle in which unpredictable rewards (likes, new content) train the brain to seek the next stimulus repeatedly.",
+      "dictionaryId": "lex.sa.mind.dopamine_loop",
+      "example": "",
+      "fieldId": "mind",
+      "id": "dopamine_loop",
+      "lessonIds": [
+        "article_attention_death"
+      ],
+      "packs": [
+        "knw.mind.attention_death"
+      ],
+      "term": "Dopamine loop"
     }
   ],
   "nextCursor": "280",

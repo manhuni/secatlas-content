@@ -1,152 +1,6 @@
 {
   "items": [
     {
-      "definition": "An animal that lives with people, like a dog, a cat or a fish.",
-      "dictionaryId": "lex.sa.kids_daily.pet",
-      "example": "My dog is a pet. He sleeps on my bed.",
-      "fieldId": "kids_daily",
-      "id": "pet",
-      "lessonIds": [
-        "article_favourite_animals"
-      ],
-      "packs": [
-        "knw.kids.daily.animals"
-      ],
-      "term": "Pet"
-    },
-    {
-      "definition": "An animal that lives on its own in nature, not with people.",
-      "dictionaryId": "lex.sa.kids_daily.wild_animal",
-      "example": "A tiger is a wild animal. We must keep far away from it.",
-      "fieldId": "kids_daily",
-      "id": "wild_animal",
-      "lessonIds": [
-        "article_favourite_animals"
-      ],
-      "packs": [
-        "knw.kids.daily.animals"
-      ],
-      "term": "Wild animal"
-    },
-    {
-      "definition": "An animal that people keep on a farm to help them, like a cow or a chicken.",
-      "dictionaryId": "lex.sa.kids_daily.farm_animal",
-      "example": "My uncle has a farm with cows and chickens.",
-      "fieldId": "kids_daily",
-      "id": "farm_animal",
-      "lessonIds": [
-        "article_favourite_animals"
-      ],
-      "packs": [
-        "knw.kids.daily.animals"
-      ],
-      "term": "Farm animal"
-    },
-    {
-      "conflict": true,
-      "definition": "The place where an animal lives, with the food, water and shelter it needs there.",
-      "dictionaryId": "lex.sa.kids_animals.habitat",
-      "example": "The reef is the habitat of the clownfish and the small fish.",
-      "fieldId": "kids_daily",
-      "id": "habitat",
-      "lessonIds": [
-        "article_favourite_animals",
-        "article_kids_animals_ocean"
-      ],
-      "packs": [
-        "knw.kids.animals.ocean",
-        "knw.kids.daily.animals"
-      ],
-      "term": "Habitat"
-    },
-    {
-      "definition": "An animal that is in danger of disappearing for ever, because there are so few left.",
-      "dictionaryId": "lex.sa.kids_daily.endangered",
-      "example": "The giant panda is endangered. We must protect it.",
-      "fieldId": "kids_daily",
-      "id": "endangered",
-      "lessonIds": [
-        "article_favourite_animals"
-      ],
-      "packs": [
-        "knw.kids.daily.animals"
-      ],
-      "term": "Endangered"
-    },
-    {
-      "conflict": true,
-      "definition": "The time when you get ready to sleep. It is the end of the evening.",
-      "dictionaryId": "lex.sa.kids_daily.bedtime",
-      "example": "Bedtime is eight o'clock on a school night.",
-      "fieldId": "kids_daily",
-      "id": "bedtime",
-      "lessonIds": [
-        "article_day",
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime",
-        "knw.kids.home.day"
-      ],
-      "term": "Bedtime"
-    },
-    {
-      "definition": "A set of things you do in the same order every time. A bedtime routine helps your body get sleepy.",
-      "dictionaryId": "lex.sa.kids_daily.routine",
-      "example": "Our bedtime routine is the same every night.",
-      "fieldId": "kids_daily",
-      "id": "routine",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Routine"
-    },
-    {
-      "definition": "The soft clothes you wear in bed.",
-      "dictionaryId": "lex.sa.kids_daily.pyjamas",
-      "example": "I put on my pyjamas before I brush my teeth.",
-      "fieldId": "kids_daily",
-      "id": "pyjamas",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Pyjamas"
-    },
-    {
-      "definition": "To clean your teeth with a toothbrush and toothpaste, usually for two minutes.",
-      "dictionaryId": "lex.sa.kids_daily.brush_your_teeth",
-      "example": "I brush my teeth before I put on my pyjamas.",
-      "fieldId": "kids_daily",
-      "id": "brush_your_teeth",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Brush your teeth"
-    },
-    {
-      "definition": "What you say to somebody when you go to bed. It is a wish for a deep sleep.",
-      "dictionaryId": "lex.sa.kids_daily.good_night",
-      "example": "I say good night to my grandmother every night.",
-      "fieldId": "kids_daily",
-      "id": "good_night",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Good night"
-    },
-    {
       "conflict": true,
       "definition": "The polite word you say before you ask for something. It shows you are asking, not taking.",
       "dictionaryId": "lex.sa.kids_feelings.please",
@@ -221,6 +75,258 @@
         "knw.travel.ordering"
       ],
       "term": "Allergy"
+    },
+    {
+      "definition": "The word for your mother. Some families say mom or mommy instead.",
+      "dictionaryId": "lex.sa.kids_daily.mum",
+      "example": "My mum is a nurse. She works at a hospital.",
+      "fieldId": "kids_daily",
+      "id": "mum",
+      "lessonIds": [
+        "article_talking_about_family"
+      ],
+      "packs": [
+        "knw.kids.daily.family"
+      ],
+      "term": "Mum"
+    },
+    {
+      "definition": "Your mum's mother or your dad's mother. You often call her grandma.",
+      "dictionaryId": "lex.sa.kids_daily.grandmother",
+      "example": "My grandmother grows vegetables in the garden.",
+      "fieldId": "kids_daily",
+      "id": "grandmother",
+      "lessonIds": [
+        "article_talking_about_family"
+      ],
+      "packs": [
+        "knw.kids.daily.family"
+      ],
+      "term": "Grandmother"
+    },
+    {
+      "definition": "Your mum's sister, or the wife of your uncle. Sometimes a family friend is called an aunt too.",
+      "dictionaryId": "lex.sa.kids_daily.aunt",
+      "example": "My aunt lives in Da Nang.",
+      "fieldId": "kids_daily",
+      "id": "aunt",
+      "lessonIds": [
+        "article_talking_about_family"
+      ],
+      "packs": [
+        "knw.kids.daily.family"
+      ],
+      "term": "Aunt"
+    },
+    {
+      "definition": "A child of your aunt or your uncle. A cousin is like a brother or sister, but not a real one.",
+      "dictionaryId": "lex.sa.kids_daily.cousin",
+      "example": "My cousin Mai is my age. We play together every weekend.",
+      "fieldId": "kids_daily",
+      "id": "cousin",
+      "lessonIds": [
+        "article_talking_about_family"
+      ],
+      "packs": [
+        "knw.kids.daily.family"
+      ],
+      "term": "Cousin"
+    },
+    {
+      "definition": "The word for your mum and your dad together.",
+      "dictionaryId": "lex.sa.kids_daily.parents",
+      "example": "My parents work at the weekend too.",
+      "fieldId": "kids_daily",
+      "id": "parents",
+      "lessonIds": [
+        "article_talking_about_family"
+      ],
+      "packs": [
+        "knw.kids.daily.family"
+      ],
+      "term": "Parents"
+    },
+    {
+      "definition": "The word you say when you meet somebody. You can use it all day long.",
+      "dictionaryId": "lex.sa.kids_daily.hello",
+      "example": "Hello, I am Minh.",
+      "fieldId": "kids_daily",
+      "id": "hello",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Hello"
+    },
+    {
+      "definition": "A short and casual way to say hello, used with people you already know.",
+      "dictionaryId": "lex.sa.kids_daily.hi",
+      "example": "Hi Bao, are you ready?",
+      "fieldId": "kids_daily",
+      "id": "hi",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Hi"
+    },
+    {
+      "definition": "A friendly question you ask after saying hello, to start a small talk.",
+      "dictionaryId": "lex.sa.kids_daily.how_are_you",
+      "example": "Good morning! How are you today?",
+      "fieldId": "kids_daily",
+      "id": "how_are_you",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "How are you?"
+    },
+    {
+      "definition": "The words you use to tell somebody your own name.",
+      "dictionaryId": "lex.sa.kids_daily.my_name_is",
+      "example": "My name is Lan, and I am seven.",
+      "fieldId": "kids_daily",
+      "id": "my_name_is",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "My name is"
+    },
+    {
+      "definition": "What you say the first time you meet somebody. It is polite and warm.",
+      "dictionaryId": "lex.sa.kids_daily.nice_to_meet_you",
+      "example": "Nice to meet you. I am Minh.",
+      "fieldId": "kids_daily",
+      "id": "nice_to_meet_you",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Nice to meet you"
+    },
+    {
+      "definition": "An animal that lives with people, like a dog, a cat or a fish.",
+      "dictionaryId": "lex.sa.kids_daily.pet",
+      "example": "My dog is a pet. He sleeps on my bed.",
+      "fieldId": "kids_daily",
+      "id": "pet",
+      "lessonIds": [
+        "article_favourite_animals"
+      ],
+      "packs": [
+        "knw.kids.daily.animals"
+      ],
+      "term": "Pet"
+    },
+    {
+      "definition": "An animal that lives on its own in nature, not with people.",
+      "dictionaryId": "lex.sa.kids_daily.wild_animal",
+      "example": "A tiger is a wild animal. We must keep far away from it.",
+      "fieldId": "kids_daily",
+      "id": "wild_animal",
+      "lessonIds": [
+        "article_favourite_animals"
+      ],
+      "packs": [
+        "knw.kids.daily.animals"
+      ],
+      "term": "Wild animal"
+    },
+    {
+      "definition": "An animal that people keep on a farm to help them, like a cow or a chicken.",
+      "dictionaryId": "lex.sa.kids_daily.farm_animal",
+      "example": "My uncle has a farm with cows and chickens.",
+      "fieldId": "kids_daily",
+      "id": "farm_animal",
+      "lessonIds": [
+        "article_favourite_animals"
+      ],
+      "packs": [
+        "knw.kids.daily.animals"
+      ],
+      "term": "Farm animal"
+    },
+    {
+      "definition": "An animal that is in danger of disappearing for ever, because there are so few left.",
+      "dictionaryId": "lex.sa.kids_daily.endangered",
+      "example": "The giant panda is endangered. We must protect it.",
+      "fieldId": "kids_daily",
+      "id": "endangered",
+      "lessonIds": [
+        "article_favourite_animals"
+      ],
+      "packs": [
+        "knw.kids.daily.animals"
+      ],
+      "term": "Endangered"
+    },
+    {
+      "definition": "A set of things you do in the same order every time. A bedtime routine helps your body get sleepy.",
+      "dictionaryId": "lex.sa.kids_daily.routine",
+      "example": "Our bedtime routine is the same every night.",
+      "fieldId": "kids_daily",
+      "id": "routine",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Routine"
+    },
+    {
+      "definition": "The soft clothes you wear in bed.",
+      "dictionaryId": "lex.sa.kids_daily.pyjamas",
+      "example": "I put on my pyjamas before I brush my teeth.",
+      "fieldId": "kids_daily",
+      "id": "pyjamas",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Pyjamas"
+    },
+    {
+      "definition": "To clean your teeth with a toothbrush and toothpaste, usually for two minutes.",
+      "dictionaryId": "lex.sa.kids_daily.brush_your_teeth",
+      "example": "I brush my teeth before I put on my pyjamas.",
+      "fieldId": "kids_daily",
+      "id": "brush_your_teeth",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Brush your teeth"
+    },
+    {
+      "definition": "What you say to somebody when you go to bed. It is a wish for a deep sleep.",
+      "dictionaryId": "lex.sa.kids_daily.good_night",
+      "example": "I say good night to my grandmother every night.",
+      "fieldId": "kids_daily",
+      "id": "good_night",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Good night"
     },
     {
       "definition": "A child who is in the same class as you. Classmates are the easiest people to be friends with.",
@@ -377,146 +483,6 @@
       "term": "How"
     },
     {
-      "definition": "The word for your mother. Some families say mom or mommy instead.",
-      "dictionaryId": "lex.sa.kids_daily.mum",
-      "example": "My mum is a nurse. She works at a hospital.",
-      "fieldId": "kids_daily",
-      "id": "mum",
-      "lessonIds": [
-        "article_talking_about_family"
-      ],
-      "packs": [
-        "knw.kids.daily.family"
-      ],
-      "term": "Mum"
-    },
-    {
-      "definition": "Your mum's mother or your dad's mother. You often call her grandma.",
-      "dictionaryId": "lex.sa.kids_daily.grandmother",
-      "example": "My grandmother grows vegetables in the garden.",
-      "fieldId": "kids_daily",
-      "id": "grandmother",
-      "lessonIds": [
-        "article_talking_about_family"
-      ],
-      "packs": [
-        "knw.kids.daily.family"
-      ],
-      "term": "Grandmother"
-    },
-    {
-      "definition": "Your mum's sister, or the wife of your uncle. Sometimes a family friend is called an aunt too.",
-      "dictionaryId": "lex.sa.kids_daily.aunt",
-      "example": "My aunt lives in Da Nang.",
-      "fieldId": "kids_daily",
-      "id": "aunt",
-      "lessonIds": [
-        "article_talking_about_family"
-      ],
-      "packs": [
-        "knw.kids.daily.family"
-      ],
-      "term": "Aunt"
-    },
-    {
-      "definition": "A child of your aunt or your uncle. A cousin is like a brother or sister, but not a real one.",
-      "dictionaryId": "lex.sa.kids_daily.cousin",
-      "example": "My cousin Mai is my age. We play together every weekend.",
-      "fieldId": "kids_daily",
-      "id": "cousin",
-      "lessonIds": [
-        "article_talking_about_family"
-      ],
-      "packs": [
-        "knw.kids.daily.family"
-      ],
-      "term": "Cousin"
-    },
-    {
-      "definition": "The word for your mum and your dad together.",
-      "dictionaryId": "lex.sa.kids_daily.parents",
-      "example": "My parents work at the weekend too.",
-      "fieldId": "kids_daily",
-      "id": "parents",
-      "lessonIds": [
-        "article_talking_about_family"
-      ],
-      "packs": [
-        "knw.kids.daily.family"
-      ],
-      "term": "Parents"
-    },
-    {
-      "definition": "The word you say when you meet somebody. You can use it all day long.",
-      "dictionaryId": "lex.sa.kids_daily.hello",
-      "example": "Hello, I am Minh.",
-      "fieldId": "kids_daily",
-      "id": "hello",
-      "lessonIds": [
-        "article_saying_hello"
-      ],
-      "packs": [
-        "knw.kids.daily.hello"
-      ],
-      "term": "Hello"
-    },
-    {
-      "definition": "A short and casual way to say hello, used with people you already know.",
-      "dictionaryId": "lex.sa.kids_daily.hi",
-      "example": "Hi Bao, are you ready?",
-      "fieldId": "kids_daily",
-      "id": "hi",
-      "lessonIds": [
-        "article_saying_hello"
-      ],
-      "packs": [
-        "knw.kids.daily.hello"
-      ],
-      "term": "Hi"
-    },
-    {
-      "definition": "A friendly question you ask after saying hello, to start a small talk.",
-      "dictionaryId": "lex.sa.kids_daily.how_are_you",
-      "example": "Good morning! How are you today?",
-      "fieldId": "kids_daily",
-      "id": "how_are_you",
-      "lessonIds": [
-        "article_saying_hello"
-      ],
-      "packs": [
-        "knw.kids.daily.hello"
-      ],
-      "term": "How are you?"
-    },
-    {
-      "definition": "The words you use to tell somebody your own name.",
-      "dictionaryId": "lex.sa.kids_daily.my_name_is",
-      "example": "My name is Lan, and I am seven.",
-      "fieldId": "kids_daily",
-      "id": "my_name_is",
-      "lessonIds": [
-        "article_saying_hello"
-      ],
-      "packs": [
-        "knw.kids.daily.hello"
-      ],
-      "term": "My name is"
-    },
-    {
-      "definition": "What you say the first time you meet somebody. It is polite and warm.",
-      "dictionaryId": "lex.sa.kids_daily.nice_to_meet_you",
-      "example": "Nice to meet you. I am Minh.",
-      "fieldId": "kids_daily",
-      "id": "nice_to_meet_you",
-      "lessonIds": [
-        "article_saying_hello"
-      ],
-      "packs": [
-        "knw.kids.daily.hello"
-      ],
-      "term": "Nice to meet you"
-    },
-    {
       "definition": "The sun is shining and there are few clouds. A sunny day is a happy day.",
       "dictionaryId": "lex.sa.kids_daily.sunny",
       "example": "It is sunny, so we can play outside.",
@@ -571,9 +537,23 @@
         "knw.kids.daily.weather"
       ],
       "term": "Windy"
+    },
+    {
+      "definition": "The temperature is low. Cold is lower than cool.",
+      "dictionaryId": "lex.sa.kids_daily.cold",
+      "example": "It is cold outside, so I am wearing my coat.",
+      "fieldId": "kids_daily",
+      "id": "cold",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Cold"
     }
   ],
-  "nextCursor": "40",
+  "nextCursor": null,
   "release": "{{release}}",
   "schemaVersion": 1
 }

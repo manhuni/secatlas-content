@@ -5,11 +5,13 @@
       "dictionaryId": "lex.sa.en.acceleration.noun",
       "example": "A car that speeds up from 0 to 100 km/h in 10 s has an acceleration of 2.78 m/s².",
       "fieldId": "physics",
-      "hidden": true,
       "id": "acceleration",
-      "lessonIds": [],
+      "lessonIds": [
+        "article_showcase"
+      ],
       "packs": [
-        "knw.article.showcase"
+        "knw.article.showcase",
+        "showcase"
       ],
       "term": "acceleration"
     },

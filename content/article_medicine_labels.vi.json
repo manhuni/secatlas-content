@@ -2,162 +2,142 @@
   "language": "vi",
   "lessonId": "article_medicine_labels",
   "objectives": [
-    "Tìm ra hoạt chất và hàm lượng trên bất kỳ hộp thuốc nào.",
-    "Phân biệt một liều với một nồng độ, và đọc đúng dòng \"trên 5 mL\".",
-    "Hiểu các chỉ dẫn về thời điểm uống như trước bữa ăn, khi cần và mỗi tám giờ.",
-    "Đong một liều thuốc lỏng bằng đúng dụng cụ và đúng lượng.",
-    "Nhận biết các cảnh báo, tác dụng phụ và tương tác có trên nhãn.",
-    "Áp dụng đúng quy tắc cho liều bị bỏ sót mà không uống gấp đôi.",
-    "Hỏi dược sĩ những câu quyết định việc thuốc có dùng đúng hay không."
+    "Hãy tìm hoạt chất và hàm lượng trên bất kỳ bao bì thuốc nào.",
+    "Phân biệt liều dùng với nồng độ và đọc đúng dòng thông tin trên mỗi 5 mL.",
+    "Diễn giải các chỉ dẫn về thời gian, chẳng hạn như trước bữa ăn, tùy theo nhu cầu và cứ mỗi tám giờ.",
+    "Đo liều lượng chất lỏng bằng thiết bị phù hợp và đúng lượng.",
+    "Ghi rõ các cảnh báo, tác dụng phụ và tương tác thuốc trên nhãn.",
+    "Áp dụng quy tắc bỏ lỡ liều cho thuốc của bạn mà không tự ý nhân đôi liều.",
+    "Hãy hỏi dược sĩ những câu hỏi giúp thuốc được sử dụng đúng cách và phát huy tác dụng tốt nhất."
   ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
     {
-      "body": "Hộp thuốc là một văn bản pháp lý. Mọi chữ in trên đó có mặt vì cơ quan quản lý bắt buộc, và bố cục gần như giống nhau ở mọi nước, vì các bộ quy tắc được soạn ra để người ta so sánh được hộp thuốc này với hộp khác.\n\nMặt trước mang **tên thương hiệu**, chữ lớn nhất trên hộp. Đó là một tên thương mại thuộc sở hữu của một công ty, và nó nói rất ít điều về bản thân thuốc. Tên hoạt chất mới là tên quan trọng. Đó là tên quốc tế, không độc quyền của hoạt chất, và cùng một tên hoạt chất xuất hiện trên mọi hộp cùng chất đó ở mọi nước. Amoxicillin là amoxicillin dù được sản xuất ở Việt Nam, Đức hay Ấn Độ.\n\nBên dưới tên thương hiệu là **hàm lượng**. Đây là lượng hoạt chất có trong một đơn vị dùng thuốc: một viên nén, một viên nang, một liều 5 mL si-rô. Có những hộp ghi hai hàm lượng, chẳng hạn 10 mg và 20 mg, và bán cả hai dưới cùng một tên trong cùng một hộp. Hãy đọc hàm lượng trên hộp đang cầm trong tay, chứ đừng đọc hàm lượng in trên vỏ hộp bạn nhìn thấy lần cuối trong tiệm thuốc.\n\nSau đó là **dạng thuốc**: viên nén, viên nang, si-rô, hỗn dịch, tiêm, kem, nhỏ mắt, miếng dán, bình xịt. Dạng thuốc quyết định cách thuốc đi vào cơ thể và tác động nhanh đến đâu.\n\nRồi đến **chỉ định**, danh sách ngắn những gì thuốc dùng để điều trị. Nó viết cho cơ quan quản lý, không viết cho bạn, và đôi khi nghe có vẻ đáng sợ. Hãy đọc nó như một câu trả lời ngắn cho câu hỏi: hộp thuốc này được làm ra để để làm gì?\n\nRồi đến **hướng dẫn dùng thuốc**: uống bao nhiêu, bao lâu một lần, vào lúc nào, trong bao lâu. Đây là phần người ta hay bỏ qua, và cũng là phần quyết định thuốc có hiệu quả hay không.\n\nRồi đến **cảnh báo và tác dụng phụ**, thường nằm trong tờ hướng dẫn sử dụng trong hộp chứ không phải trên vỏ hộp. Đây là nơi ghi những tình trạng không được dùng thuốc, các tương tác với thuốc khác, và các tác dụng cần biết trước.\n\nCuối cùng là **thành phần**, **hướng dẫn bảo quản**, **hạn sử dụng** và **số giấy phép lưu hành**, là mã định danh hộp thuốc trong hồ sơ của cơ quan quản lý, và là thứ bạn nói khi có khiếu nại.\n\nĐọc theo thứ tự đó, bạn biết nhiều hơn về thuốc trong tay mình so với đa số người.",
+      "body": "Một bao bì thuốc là một văn bản pháp lý. Mọi chữ được in trên đó đều có mặt vì cơ quan quản lý yêu cầu, và bố cục gần như giống nhau ở mọi quốc gia bởi các quy định được soạn thảo nhằm giúp bao bì thuốc ở nước này có thể so sánh được với bao bì ở nước khác.\n\nMặt trước có **tên thương hiệu**, được in với cỡ chữ lớn nhất trên bao bì. Đó là một tên thương mại thuộc sở hữu của một công ty, và nó gần như không cho bạn biết bất cứ điều gì về thuốc đó. Tên hoạt chất là tên quan trọng nhất. Đó là tên quốc tế, không thuộc quyền sở hữu riêng của hoạt chất, và tên chung này xuất hiện trên mọi bao bì của hoạt chất đó ở mọi quốc gia. Amoxicillin vẫn là amoxicillin, dù được sản xuất tại Việt Nam, Đức hay Ấn Độ.\n\nBên dưới tên thương hiệu là **hàm lượng**. Đây là lượng hoạt chất có trong một đơn vị thuốc: một viên nén, một viên nang hoặc một thìa canh 5 mL thuốc lỏng. Một số bao bì ghi hai hàm lượng, chẳng hạn 10 mg và 20 mg, đồng thời bán cả hai dưới cùng một tên thương hiệu trong cùng một hộp. Hãy đọc hàm lượng ghi trên bao bì trong tay bạn, chứ đừng đọc hàm lượng in trên vỏ hộp mà bạn nhìn thấy lần cuối trong cửa hàng.\n\nTiếp theo là **dạng thuốc**: viên nén, viên nang, si rô, hỗn dịch, thuốc tiêm, kem, thuốc nhỏ giọt, miếng dán, bình hít. Dạng thuốc quyết định cách thuốc đưa vào cơ thể và thời gian thuốc bắt đầu tác dụng.\n\nTiếp theo là **chỉ định**, danh sách ngắn gồm những gì thuốc dùng để điều trị. Nó được viết cho các cơ quan quản lý, không phải cho bạn, và nghe có thể khiến người ta sợ hãi. Hãy đọc như một câu trả lời ngắn cho câu hỏi: vỏ hộp thuốc này được thiết kế để làm gì?\n\nSau đó là **hướng dẫn sử dụng**: dùng bao nhiêu, bao lâu một lần, dùng khi nào và trong bao lâu. Đây là phần thường bị bỏ qua, nhưng cũng là phần quyết định thuốc có hiệu quả hay không.\n\nTiếp theo là **cảnh báo và tác dụng phụ**, thường được ghi trong tờ hướng dẫn bên trong hộp chứ không phải trên vỏ hộp. Đây là nơi bạn tìm thấy các điều kiện mà thuốc không được dùng, tương tác với các loại thuốc khác, và những tác dụng cần biết trước.\n\nCuối cùng là **thành phần**, **hướng dẫn bảo quản**, **ngày hết hạn** và **số giấy phép lưu hành**; số này giúp xác định đóng gói trong hồ sơ của cơ quan quản lý và là thông tin bạn cần cung cấp nếu gặp sự cố.\n\nĐọc theo đúng thứ tự đó, bạn sẽ biết nhiều hơn về loại thuốc đang cầm trong tay so với đa số mọi người.",
       "examples": [
-        "Tên hoạt chất nằm ở dòng hoạt chất, và nó giống nhau ở mọi nước.",
-        "Tên thương hiệu ở mặt trước; hàm lượng nằm ở dòng ngay bên dưới."
+        "Tên hoạt chất là tên nằm ở dòng hoạt chất và tên này giống nhau ở mọi nơi.",
+        "Tên thương hiệu nằm ở mặt trước; hàm lượng là dòng ngay bên dưới."
       ],
-      "heading": "Nhãn thuốc thực sự cho bạn biết điều gì"
+      "heading": "Một nhãn thuốc thực sự cho bạn biết những gì"
     },
     {
-      "body": "Hai cái tên cho một loại thuốc là nguyên nhân của phần lớn nhầm lẫn ở quầy thuốc, nên đáng để tách bạch chúng ra.\n\n**Tên hoạt chất** gọi tên chính chất đó: phân tử tạo ra tác dụng trong cơ thể bạn. Tên này do một ủy ban quốc tế chọn, để cùng một chất luôn có cùng một tên ở mọi nước. Một khi tên đã được cấp thì không bao giờ dùng lại cho chất khác. Đó là lý do bạn đưa tên hoạt chất cho một dược sĩ ở nước khác thì người đó vẫn hiểu.\n\n**Tên thương hiệu** thuộc về một công ty đã đăng ký nó làm nhãn hiệu. Công ty có thể là người tổng hợp ra phân tử, hoặc chỉ mua quyền bán một chất do người khác làm. Dù thế nào, tên thương hiệu cho bạn biết ai đang bán, chứ không cho biết thuốc tác dụng thế nào.\n\nĐiều này quan trọng vì ba lý do thực tế. Thứ nhất, hàng generic thường rẻ hơn, và với nhiều thuốc không có khác biệt có ý nghĩa giữa hàng thương hiệu và hàng generic về hiệu quả. Thứ hai, khi bạn đi du lịch hoặc đổi hiệu thuốc, tên hoạt chất là từ giúp tìm được thuốc. Thứ ba, nếu bạn dùng nhiều loại thuốc, dược sĩ cần tên hoạt chất để kiểm tra tương tác giữa chúng.\n\nĐừng mặc định là thương hiệu mạnh hơn. Con số trên hộp mới quyết định điều đó, không phải cái tên. Cũng đừng mặc định là hàng rẻ là một chất khác. Hãy kiểm tra hàm lượng và hoạt chất trước, rồi mới so giá.\n\nCó những thuốc chứa nhiều hơn một hoạt chất, và khi đó hộp ghi nhiều tên hoạt chất. Một thuốc cảm cúm có thể chứa paracetamol để giảm đau, một thuốc kháng histamine để hết sổ mũi và một thuốc thông mũi để hết nghẹt mũi. Điều này quan trọng vì bạn rất dễ dùng trùng cùng một chất khi uống hai sản phẩm khác nhau. Paracetamol xuất hiện dưới nhiều tên, và ibuprofen cũng vậy.\n\nMột **sản phẩm kết hợp** là bất kỳ hộp thuốc nào có hơn một hoạt chất. Trước khi uống hai hộp cùng nhóm, hãy kiểm tra hoạt chất của cả hai. Chỉ một thói quen đó thôi đã ngăn được một trường hợp quá liều hoàn toàn tránh được.",
+      "body": "Hai tên cho cùng một loại thuốc là nguyên nhân gây nhầm lẫn phần lớn tại quầy thuốc, vì vậy cần phân biệt rõ hai tên này.\n\n**Tên thuốc gốc** là tên của chính hoạt chất: phân tử tạo nên tác dụng điều trị trong cơ thể bạn. Tên này được một ủy ban quốc tế lựa chọn để cùng một hoạt chất luôn có cùng một tên gọi ở mọi quốc gia. Một khi tên đã được cấp, tên đó sẽ không bao giờ được dùng lại cho một chất khác. Đó là lý do bạn có thể đọc tên thuốc gốc trên vỏ thuốc ở Hà Nội và một dược sĩ ở nước khác vẫn hiểu tên đó.\n\n**Tên thương mại** thuộc về một công ty, công ty đã đăng ký tên đó là nhãn hiệu. Công ty có thể đã phát minh ra phân tử đó, hoặc đơn giản là mua quyền bán một chất được sản xuất bởi công ty khác. Dù theo cách nào, tên thương mại cho bạn biết ai đang bán sản phẩm chứ không cho biết tác dụng của nó.\n\nĐiều này quan trọng vì ba lý do thực tiễn. Trước hết, thuốc generic thường có giá rẻ hơn, và với nhiều loại thuốc, không có sự khác biệt đáng kể giữa thuốc nhãn hiệu và thuốc generic về hiệu quả tác dụng. Thứ hai, khi đi du lịch hoặc chuyển sang hiệu thuốc khác, tên thuốc gốc là từ giúp bạn tìm được loại thuốc đó. Thứ ba, nếu bạn dùng nhiều hơn một loại thuốc, dược sĩ cần biết tên thuốc gốc để kiểm tra xem chúng có tương tác với nhau hay không.\n\nĐừng mặc định rằng thuốc hiệu thương mại có tác dụng mạnh hơn. Số ghi trên vỏ hộp mới quyết định điều đó, chứ không phải tên. Và đừng mặc định rằng phiên bản rẻ hơn là một hoạt chất khác. Hãy kiểm tra hàm lượng và hoạt chất trước, rồi mới so sánh giá.\n\nMột số loại thuốc có chứa nhiều hơn một hoạt chất, khi đó trên bao bì sẽ ghi nhiều tên thuốc gốc. Thuốc trị cảm lạnh và cúm có thể chứa paracetamol để giảm đau, thuốc kháng histamin để chữa sổ mũi và thuốc thông mũi để chữa nghẹt mũi. Điều này quan trọng bởi vì bạn có thể vô tình dùng trùng một hoạt chất khi uống hai sản phẩm khác nhau. Paracetamol xuất hiện dưới nhiều tên khác nhau, và ibuprofen cũng vậy.\n\n**Sản phẩm kết hợp** là bất kỳ bao bì nào có chứa nhiều hơn một hoạt chất. Trước khi uống hai gói thuộc cùng một nhóm, hãy kiểm tra hoạt chất trong cả hai gói. Thói quen đó có thể ngăn ngừa một trường hợp quá liều phổ biến và hoàn toàn có thể tránh được.",
       "examples": [
-        "Cho tôi hàng generic của thuốc này, cùng hoạt chất và cùng hàm lượng.",
-        "Tôi uống paracetamol khi đau đầu, vậy tôi sẽ không dùng thêm thuốc cảm cúm này nữa.",
-        "Thương hiệu ghi một đằng, còn tên hoạt chất ghi một nẻo, nên tôi đã kiểm tra dòng hoạt chất."
+        "Vui lòng cho tôi biết tên thuốc gốc của loại thuốc này, có cùng hoạt chất và hàm lượng.",
+        "Tôi dùng paracetamol để trị đau đầu, nên tôi sẽ không dùng thêm thuốc trị cảm cúm này.",
+        "Thương hiệu nói một đằng, tên thuốc gốc lại nói một nẻo, nên tôi đã kiểm tra dòng hoạt chất."
       ],
-      "heading": "Tên hoạt chất và tên thương hiệu"
+      "heading": "Tên thuốc gốc và tên thương mại"
     },
     {
-      "body": "Các con số trên hộp có ba việc khác nhau, và nhầm chúng là lỗi dùng thuốc phổ biến nhất.\n\n**Hàm lượng** là lượng hoạt chất có trong một đơn vị dùng thuốc. Một viên ghi 500 mg chứa 500 miligam hoạt chất. Một gam bằng 1000 miligam, và một micrôgam bằng một phần nghìn miligam. Trên các hộp thuốc tuyến giáp, thuốc dị ứng và một số thuốc giảm đau, bạn sẽ thấy micrôgam ghi là mcg hoặc µg, và một hộp ghi 50 mcg không phải là cùng thuốc với hộp ghi 50 mg.\n\n**Nồng độ** là lượng hoạt chất có trong một thể tích si-rô. Dòng \"100 mg trong 5 mL\" không có nghĩa cả chai chỉ chứa 100 mg. Nó nghĩa là mỗi 5 mL bạn đong có 100 mg. Nếu chai chứa 100 mL, tổng cộng là 2000 mg, tức hai mươi liều.\n\n**Lượng bạn phải uống** là con số thứ ba, và nó nằm ở dòng hướng dẫn chứ không phải ở hàm lượng. \"Uống 10 mg hai lần mỗi ngày\" cho bạn biết lượng. Hàm lượng cho bạn biết mỗi đơn vị chứa bao nhiêu, và có thể bạn cần nhiều hơn một đơn vị.\n\nCòn một con số quan trọng hơn người ta tưởng: **tổng lượng trong hộp**. Một hộp hai mươi viên 10 mg chứa 200 mg tổng cộng. Một chai si-rô 100 mL ở nồng độ 100 mg trong 5 mL chứa 2000 mg tổng cộng. Đây chính là con số bạn cần khi có người uống quá liều và trạm cấp cứu hỏi đã nuốt bao nhiêu. Hãy tìm con số đó trước khi cần đến, và ghi lại.\n\nVà hãy kiểm tra đơn vị liều. Hai viên 500 mg là 1000 mg, tức bằng một liều một viên 1000 mg. Nhưng hai viên hỗn dịch 250 mg/5 mL là 500 mg dạng lỏng, và đó hoàn toàn là chuyện khác. Luôn đếm miligam, đừng đếm số mảnh.",
+      "body": "Các con số trên bao bì có ba chức năng khác nhau, và nhầm lẫn chúng là lỗi dùng thuốc phổ biến nhất mà mọi người thường mắc phải.\n\n**Hàm lượng** là lượng hoạt chất có trong một đơn vị liều dùng. Một viên thuốc ghi 500 mg chứa 500 miligam hoạt chất. Một gam là 1.000 miligam, còn một micrôgam là một phần nghìn miligam. Trên bao bì thuốc tuyến giáp, thuốc dị ứng và một số thuốc giảm đau, bạn sẽ thấy đơn vị microgam được ghi là mcg hoặc µg; một bao bì ghi 50 mcg không phải là cùng loại thuốc với bao bì ghi 50 mg.\n\n**Nồng độ** là lượng hoạt chất có trong một thể tích chất lỏng nhất định. Dòng ghi “100 mg trong 5 mL” không có nghĩa là cả lọ thuốc chứa 100 mg. Có nghĩa là mỗi 5 mL bạn đong đều có chứa 100 mg. Nếu lọ thuốc chứa 100 mL thì tổng cộng chứa 2.000 mg, tức là đủ cho hai mươi liều.\n\n**Lượng bạn dùng** là con số thứ ba và nằm trên dòng hướng dẫn, không nằm trên dòng nồng độ. “Dùng 10 mg hai lần mỗi ngày” cho biết cần dùng bao nhiêu. Hàm lượng cho biết mỗi đơn vị chứa bao nhiêu hoạt chất, và có thể bạn sẽ cần nhiều hơn một đơn vị.\n\nCòn một con số nữa quan trọng hơn người ta tưởng: **tổng lượng thuốc có trong hộp**. Một hộp gồm 20 viên nén 10 mg có tổng cộng 200 mg. Xi-rô 100 mL có 100 mg trong 5 mL chứa tổng cộng 2.000 mg. Đây là số liệu bạn cần cung cấp khi ai đó đã dùng quá liều và cấp cứu hỏi đã nuốt những gì. Hãy tìm nó trước khi bạn cần và ghi lại.\n\nVà kiểm tra đơn vị liều dùng. Hai viên 500 mg là 1.000 mg, tương đương liều một viên 1.000 mg. Nhưng hai viên nang chứa hỗn dịch 250 mg/5 mL có tổng cộng 500 mg thuốc ở dạng lỏng, và điều đó hoàn toàn không giống nhau. Hãy luôn tính số miligram, không phải số viên.",
       "examples": [
-        "Thuốc lỏng này là 100 mg trên 5 mL, nên 10 mL là 200 mg.",
-        "Hộp có hai mươi viên 10 mg, tức tổng cộng 200 mg.",
-        "Hàm lượng là 50 mcg chứ không phải 50 mg, nên tôi sẽ hỏi lại liều."
+        "Dung dịch này chứa 100 mg trong 5 mL, nên 10 mL chứa 200 mg.",
+        "Hộp chứa 20 viên nén 10 mg, nên tổng cộng là 200 mg.",
+        "Hàm lượng là 50 mcg, không phải 50 mg, vì vậy tôi sẽ kiểm tra liều dùng với bạn."
       ],
-      "heading": "5 mg và \"trên 5 mL\" thực sự nghĩa là gì"
+      "heading": "5 mg và mỗi 5 mL thực sự có nghĩa là gì"
     },
     {
-      "body": "Một loại thuốc có thể đúng bài nhưng sai giờ và vẫn không ăn. Các chỉ dẫn về thời điểm ngắn gọn, và mỗi chữ có một nghĩa.\n\n**Một lần mỗi ngày** nghĩa là một lần trong mỗi 24 giờ. **Hai lần mỗi ngày** là hai lần trong mỗi 24 giờ, và **ba lần mỗi ngày** là ba lần trong mỗi 24 giờ. Đây là các mốc theo đồng hồ, không phải theo bữa ăn: chúng không mặc định là sáng, trưa và tối.\n\n**Mỗi tám giờ** khác với ba lần một ngày. Ba lần một ngày có thể là 8 giờ sáng, 13 giờ và 18 giờ, nghĩa là chỉ còn năm giờ trước liều cuối. Mỗi tám giờ chia đều các liều. Tương tự với mỗi sáu giờ và mỗi mười hai giờ. Nếu hộp ghi mỗi tám giờ, hãy giữ đúng tám giờ.\n\n**Trước ăn** nghĩa là khoảng một giờ trước bữa ăn. **Khi ăn** nghĩa là trong hoặc ngay sau khi ăn, thường làm thuốc hấp thu chậm hơn và giảm khó chịu ở dạ dày. **Sau ăn** nghĩa là khi đã ăn xong. **Bụng đói** thường nghĩa là một giờ trước khi ăn hoặc hai giờ sau khi ăn.\n\n**Khi cần**, in trên nhãn là **PRN** theo tiếng Latin *pro re nata*, nghĩa là uống khi triệu chứng xuất hiện, tối đa là mức đã ghi. Mức tối đa đó là trần cứng, không phải gợi ý. Nếu hộp ghi không quá tám viên trong 24 giờ thì tám là trần, dù cơn đau còn nặng.\n\nMột số thuốc không được ngừng đột ngột. Corticosteroid, một số thuốc huyết áp và một số thuốc chống trầm cảm phải giảm dần từng bậc, vì cơ thể đã quen với chúng. Bỏ dở một liệu trình steroid vì thấy khỏi là một sai lầm phổ biến và tránh được.\n\nCòn **quy tắc cho liều bị bỏ sót** thì khác nhau ở từng thuốc. Có loại ghi bỏ qua và uống liều kế tiếp đúng giờ như cũ. Có loại ghi uống ngay khi nhớ ra, trừ khi sắp đến giờ của liều tiếp theo. Có loại ghi không bao giờ uống liều gấp đôi. Hãy tìm đúng dòng đó trong tờ hướng dẫn, vì chọn sai ở đây là một trong số ít lựa chọn thực sự nguy hiểm.",
+      "body": "Một loại thuốc có thể đúng loại nhưng dùng sai thời điểm và vẫn không hiệu quả. Hướng dẫn về thời điểm dùng thuốc rất ngắn gọn, và mỗi hướng dẫn đều có ý nghĩa riêng.\n\n**Một lần mỗi ngày** có nghĩa là mỗi khoảng thời gian 24 giờ. **Hai lần mỗi ngày** nghĩa là hai lần trong mỗi khoảng thời gian 24 giờ, còn **ba lần mỗi ngày** nghĩa là ba lần trong mỗi khoảng thời gian 24 giờ. Đây là các mốc thời gian theo đồng hồ, không phải các bữa ăn: chúng không mặc định có nghĩa là buổi sáng, buổi trưa và buổi tối.\n\n**Mỗi tám giờ** khác với ba lần mỗi ngày. Ba lần mỗi ngày có thể là 8 giờ sáng, 1 giờ chiều. và 6 giờ tối, chỉ còn năm giờ trước liều dùng cuối cùng. Cứ tám giờ một lần nghĩa là các liều dùng được chia đều. Điều này cũng áp dụng cho mỗi sáu giờ và mỗi mười hai giờ. Nếu nhãn ghi mỗi tám giờ, hãy chia thuốc cách nhau tám giờ.\n\n**Trước bữa ăn** nghĩa là khoảng một giờ trước bữa ăn. **Khi ăn** nghĩa là trong lúc ăn hoặc ngay sau khi ăn, thường làm thuốc hấp thu chậm lại và giảm triệu chứng khó chịu ở dạ dày. **Sau bữa ăn** nghĩa là sau khi bữa ăn đã kết thúc. **Bụng đói** thường có nghĩa là một giờ trước bữa ăn hoặc hai giờ sau bữa ăn.\n\n**Khi cần**, được in trên nhãn là **PRN**, viết tắt của tiếng Latin *pro re nata*, nghĩa là uống thuốc khi xuất hiện triệu chứng, nhưng không vượt quá liều tối đa đã ghi. Mức tối đa đó là giới hạn tuyệt đối, không phải lời khuyên. Nếu trên vỉ hộp ghi không quá tám viên thuốc trong 24 giờ, thì tám viên là mức tối đa, bất kể cơn đau còn nặng hay không.\n\nMột số loại thuốc không nên ngừng đột ngột. Corticosteroid, một số thuốc hạ huyết áp và một số thuốc chống trầm cảm phải được giảm liều dần dần, bởi cơ thể đã quen với chúng. Ngừng uống thuốc steroid sớm vì cảm thấy bệnh đã khỏi là một sai lầm phổ biến và có thể tránh được.\n\nVà quy tắc **bỏ sót liều thuốc** sẽ khác nhau tùy loại thuốc. Có người bảo nên bỏ qua và uống liều tiếp theo đúng thời gian thường lệ. Một số người bảo nên uống ngay khi nhớ ra, trừ khi gần đến giờ uống liều tiếp theo. Có người nói rằng tuyệt đối không được uống gấp đôi liều. Hãy tìm dòng đó trong tờ hướng dẫn sử dụng thuốc của bạn, bởi lựa chọn sai ở đây là một trong số ít lựa chọn thực sự nguy hiểm.",
       "examples": [
-        "Hộp ghi mỗi tám giờ, nên tôi đặt ba cái báo thức trong ngày.",
-        "Thuốc ghi khi cần, tối đa tám viên trong 24 giờ, nên đó là giới hạn của tôi.",
-        "Tôi bỏ sót liều tối, nên tôi sẽ uống liều tiếp theo đúng giờ như cũ.",
-        "Tôi đã uống thuốc steroid này ba tuần, nên tôi sẽ hỏi cách ngừng."
+        "Trên bao bì ghi cứ tám tiếng một lần, nên tôi đặt ba đồng hồ báo thức cho cả ngày.",
+        "Ghi là dùng khi cần, tối đa tám viên thuốc trong 24 giờ, vậy đó là giới hạn của tôi.",
+        "Tôi đã bỏ liều buổi tối, vì vậy tôi sẽ uống liều tiếp theo đúng thời gian như mọi khi.",
+        "Tôi đã dùng loại steroid này được ba tuần, nên tôi muốn hỏi làm thế nào để ngừng sử dụng."
       ],
-      "heading": "Những chữ về thời điểm quyết định thuốc có hiệu quả hay không"
+      "heading": "Những từ chỉ thời gian quyết định liệu nó có hoạt động hay không"
     },
     {
-      "body": "Không bao giờ uống gấp đôi liều bị bỏ sót trừ khi tờ hướng dẫn ghi rõ như vậy. Không bao giờ chia sẻ thuốc, kể cả loại thuốc cũ đã kê nhiều năm trước và nay không còn tác dụng; thứ an toàn với người này có thể nguy hiểm với người khác, và lý do thường không nhìn thấy được. Hãy kiểm tra hạn sử dụng trước mỗi liệu trình, vì ngày trên vỏ hộp có thể sớm hơn ngày trên từng vỉ bên trong. Giữ lại tờ hướng dẫn, vì câu trả lời cho gần như mọi câu hỏi bạn sẽ có về sau đều in ở đó. Và hãy đong thuốc lỏng bằng dụng cụ đi kèm trong hộp, không bao giờ dùng muỗng ăn.",
-      "heading": "Năm thói quen làm cho một liều thuốc trở nên không an toàn"
+      "body": "Không bao giờ dùng gấp đôi liều đã bỏ sót, trừ khi tờ hướng dẫn sử dụng ghi rõ điều đó. Không bao giờ chia sẻ thuốc, kể cả loại thuốc đã được kê cho bạn nhiều năm trước và hiện không còn tác dụng; thứ an toàn với người này có thể nguy hiểm với người khác, và lý do thường không nhìn thấy được. Trước mỗi đợt dùng thuốc, hãy kiểm tra ngày hết hạn, vì ngày ghi trên hộp bên ngoài có thể sớm hơn ngày ghi trên từng vỉ thuốc. Hãy giữ lại tờ hướng dẫn, vì những câu trả lời cho hầu hết các câu hỏi bạn sẽ gặp sau này đều được in trong đó. Và hãy dùng dụng cụ đo lượng thuốc lỏng đi kèm trong hộp để đo, tuyệt đối không dùng muỗng ăn trong bếp.",
+      "heading": "Năm thói quen khiến một liều thuốc trở nên không an toàn"
     },
     {
-      "body": "Thuốc lỏng hỏng theo một cách rất riêng, thường hơn mọi cách khác: liều được đong bằng một thứ sai.\n\n**Muỗng đong** đi kèm trong hộp, hoặc dược sĩ sẽ đưa cho bạn. Hãy dùng nó. Nó có vạch chia theo mililít, và một muỗng 5 mL vừa đầy đúng bằng một muỗng cà phê thuốc.\n\n**Muỗng ăn** không phải là muỗng cà phê thuốc. Muỗng ăn trong bếp có kích thước khác nhau, và chênh lệch giữa một muỗng cà phê 2,5 mL và một muỗng 5 mL là hệ số hai. Muỗng canh cũng vậy. Nếu buộc phải dùng muỗng ăn, hãy rót thuốc vào muỗng đong trước rồi hãy dùng muỗng đó.\n\n**Bơm tiêm nhựa** là cách chính xác nhất cho liều nhỏ, và đáng xin một cái cho trẻ em, cho thuốc tính theo mililít, hoặc cho bất kỳ thuốc nào có tác dụng mạnh như morphine, insulin hay thuốc chống co giật. Bơm tiêm uống có vạch mililít và không bao giờ nhầm với muỗng ăn. **Bơm nhỏ giọt** dùng cho thuốc nhỏ mắt, nhỏ tai và một số thuốc lỏng, và các giọt ở mỗi sản phẩm không giống nhau. Hãy đếm đúng số giọt mà tờ hướng dẫn nói, không phải số giọt bạn đổ ra từ một chai khác.\n\nVới viên nén, câu hỏi có được nghiền hay không rất quan trọng. Chỉ nghiền khi dược sĩ hoặc tờ hướng dẫn nói là được. Không bao giờ nghiền viên **bao dạ dà**, vì lớp bao đó có nhiệm vụ giải phóng thuốc ở ruột chứ không ở dạ dày. Không bao giờ nghiền viên **phóng giải hoặc kéo dài tác dụng**, vì lớp bao điều chỉnh tốc độ giải phóng. Có những thuốc nguy hiểm khi chạm tay, và dược sĩ sẽ nói rõ.\n\nVà hãy đối chiếu liều với thứ thực sự có trong hộp. Nếu hướng dẫn ghi uống một viên mà vỉ lại chia nửa viên, có thể hướng dẫn đã đổi cho hàm lượng bạn đang cầm.",
+      "body": "Thuốc dạng lỏng thường sai ở một điểm nhiều hơn bất kỳ lỗi nào khác: dùng sai dụng cụ để đo liều.\n\n**Muỗng đong** có sẵn trong hộp, hoặc dược sĩ sẽ đưa cho bạn một cái. Hãy dùng nó. Muỗng được chuẩn theo mililít, và một muỗng đầy 5 mL đúng bằng một muỗng thuốc nhỏ.\n\n**Muỗng cà phê gia đình** không phải là muỗng thuốc. Muỗng nhà bếp có kích thước khác nhau, và sự khác biệt giữa một muỗng cà phê 2,5 mL và một muỗng cà phê 5 mL là gấp đôi. Muỗng canh cũng vậy. Nếu buộc phải dùng muỗng bếp, hãy đong lượng thuốc vào muỗng đong trước rồi chỉ dùng lượng thuốc đó.\n\n**Bơm tiêm bằng nhựa** là cách đo chính xác nhất với những liều thuốc nhỏ, và nên yêu cầu dùng bơm tiêm khi cho trẻ uống thuốc, khi thuốc được tính theo mililít hoặc khi dùng những thuốc có tác dụng mạnh như morphin, insulin hay thuốc chống co giật. Xi-lô uống có vạch chia theo mililít, nhờ vậy không nhầm lẫn với muỗng bếp. **Bút nhỏ giọt** được dùng để nhỏ thuốc mắt, thuốc tai và một số thuốc dạng lỏng, nhưng mỗi sản phẩm có kích thước giọt thuốc không giống nhau. Hãy đếm số giọt theo hướng dẫn trong tờ tờ dược, chứ đừng đếm số giọt bạn sẽ rót từ một chai khác.\n\nĐối với thuốc dạng viên nén, việc nghiền thuốc có ảnh hưởng hay không là điều cần cân nhắc. Chỉ nghiền viên thuốc nếu dược sĩ hoặc tờ tờ dược hướng dẫn rằng việc này an toàn. Không bao giờ nghiền nát viên nén có **lớp bao ruột**, vì lớp bao này giúp giải phóng thuốc trong ruột thay vì trong dạ dày. Không bao giờ nghiền nát viên thuốc có tác dụng kéo dài hoặc phóng tác dụng, vì lớp vỏ thuốc điều chỉnh tốc độ giải phóng liều thuốc. Một số thuốc rất nguy hiểm khi tiếp xúc, và dược sĩ sẽ nhắc bạn điều đó.\n\nVà hãy kiểm tra liều dùng so với thực tế thuốc có trong bao bì. Nếu hướng dẫn ghi mỗi lần dùng một viên thuốc nhưng vỉ thuốc lại chứa các đường chia đôi viên, hướng dẫn có thể đã được điều chỉnh theo hàm lượng thuốc mà bạn đang có.",
       "examples": [
-        "Tôi dùng bơm tiêm đi kèm hộp, nên liều đúng là 2,5 mL.",
-        "Tôi sẽ không nghiền viên này, vì nó có viên bao dạ dà.",
-        "Hướng dẫn ghi uống một viên, mà vỉ lại chia nửa, nên tôi sẽ hỏi dược sĩ."
+        "Tôi dùng bơm tiêm đi kèm với lọ thuốc nên liều lượng chính xác là 2,5 mL.",
+        "Tôi sẽ không nghiền nén viên thuốc này vì nó được bào phủ để chỉ hấp thu ở ruột.",
+        "Hướng dẫn ghi một viên thuốc, nhưng vỉ thuốc lại chứa những viên được chia đôi, vì vậy tôi sẽ hỏi dược sĩ."
       ],
-      "heading": "Đong liều thuốc lỏng một cách chính xác"
+      "heading": "Cách đo liều thuốc đúng cách"
     },
     {
-      "body": "Đây là những từ bạn sẽ gặp trên hộp và trong tờ hướng dẫn, và mỗi từ buộc nhà sản xuất hoặc dược sĩ phải làm gì.\n\n**Hoạt chất** là chất tạo ra tác dụng. Mọi thứ khác trong hộp là **tá dược**, thành phần phụ: chất đệm, chất kết dính, màu, hương vị. Có người dị ứng với một tá dược, và phản ứng đó là có thật dù thành phần phụ không phải hoạt chất.\n\n**Chỉ định** là thứ thuốc được duyệt để điều trị. **Chống chỉ định** là tình trạng không được dùng thuốc, chẳng hạn dị ứng penicillin hoặc mang thai. **Tác dụng phụ** là mọi tác dụng ngoài tác dụng chính. **Tương tác** là điều xảy ra khi thuốc này gặp thuốc khác, hoặc thức ăn, hoặc rượu.\n\n**Lệ thuộc** (tolerance) là khi cơ thể quen với thuốc và cùng liều đó giảm tác dụng. **Nghiện** (dependence) là nhu cầu thể chất của cơ thể đối với chất đó, khác với nghiện nghiện hành vi, và đó là lý do một số thuốc phải giảm dần.\n\n**Bảo quản** ghi nhiệt độ và điều kiện ánh sáng mà thuốc cần. Ký hiệu tủ lạnh 2 °C đến 8 °C nghĩa là thuốc phải để trong tủ lạnh, không phải trong tủ và cũng không phải ở cửa tủ nơi nhiệt độ thay đổi. **Hạn sử dụng** là ngày cuối cùng mà nhà sản xuất bảo đảm thuốc giữ được độ mạnh và độ an toàn.\n\n**Số giấy phép lưu hành** là giấy phép mà thuốc được bán dưới đó. Đó là con số để bạn nói khi có khiếu nại, và nó cho biết nước nào đã cấp phép.",
-      "heading": "Từ ngữ trên nhãn thuốc, từng chữ một",
+      "body": "Đây là những từ bạn sẽ gặp trên vỏ hộp và trong tờ hướng dẫn sử dụng, cùng với việc mỗi từ đó thực sự buộc nhà sản xuất hoặc dược sĩ phải làm gì.\n\n**Hoạt chất** là chất tạo ra tác dụng. Mọi thứ còn lại trong gói thuốc đều nhằm giúp thuốc ổn định, dễ uống hoặc dễ nuốt hơn. **Tá dược** là các chất khác, chẳng hạn như chất độn, chất kết dính, chất tạo màu và chất tạo mùi vị. Có người bị phản ứng với một tá dược, và phản ứng đó là có thật, dù thành phần ấy không phải là hoạt chất.\n\n**Chỉ định** là bệnh hoặc tình trạng mà thuốc được phê duyệt để điều trị. **Chống chỉ định** là một tình trạng mà thuốc không được dùng, chẳng hạn như dị ứng với penicillin hoặc mang thai. **Tác dụng phụ** là mọi tác dụng khác ngoài tác dụng mong muốn. **Tương tác** là hiện tượng xảy ra khi thuốc này gặp thuốc khác, thức ăn hoặc rượu.\n\n**Tolerance** là hiện tượng cơ thể quen với một loại thuốc, khiến cùng một liều lượng có tác dụng thấp hơn. **Lệ thuộc** là nhu cầu thể chất của cơ thể đối với một chất, khác với nghiện và là lý do một số loại thuốc phải được giảm dần liều dùng.\n\n**Bảo quản** cho biết nhiệt độ và điều kiện ánh sáng mà thuốc cần. Biểu tượng tủ lạnh kèm nhiệt độ 2 °C đến 8 °C có nghĩa là thuốc cần được bảo quản trong tủ lạnh, không đặt trong tủ và cũng không đặt ở cửa tủ lạnh vì nơi đó nhiệt độ thay đổi. **Hạn sử dụng** là ngày cuối cùng mà nhà sản xuất bảo đảm thuốc vẫn giữ được hiệu lực và độ an toàn.\n\n**Số giấy phép lưu hành** là giấy phép cho phép thuốc được bán. Đây là số cần nêu khi khiếu nại và cho biết quốc gia nào đã cấp phép lưu hành thuốc đó.",
+      "heading": "Từng chữ trên nhãn thuốc",
       "terms": [
         {
-          "example": "Hai hộp có cùng hoạt chất, chỉ khác hàm lượng.",
-          "gloss": "Chất trong thuốc tạo ra tác dụng. Mọi chất khác trong hộp chỉ để giúp nó ổn định, dễ uống hoặc dễ nuốt."
+          "example": "Hai hộp có cùng hoạt chất, chỉ khác nhau về hàm lượng.",
+          "gloss": "Hoạt chất trong thuốc tạo ra tác dụng. Mọi chất khác trong gói thuốc chỉ có ở đó để hỗ trợ nó.",
+          "termId": "active_ingredient"
         },
         {
-          "example": "Mang thai là một chống chỉ định của thuốc này, nên tôi sẽ hỏi về lựa chọn khác.",
-          "gloss": "Tình trạng không được dùng thuốc này, vì rủi ro lớn hơn lợi ích."
+          "example": "Mang thai là chống chỉ định đối với loại thuốc này, vì vậy tôi sẽ hỏi về một lựa chọn thay thế.",
+          "gloss": "Trạng thái không được sử dụng thuốc này vì rủi ro lớn hơn lợi ích.",
+          "termId": "contraindication"
         },
         {
-          "example": "Buồn nôn được liệt kê là tác dụng phụ, và thường hết sau vài ngày đầu.",
-          "gloss": "Mọi tác dụng của thuốc ngoài tác dụng chính nó gây ra."
+          "example": "Buồn nôn được liệt kê là một tác dụng phụ và thường sẽ hết sau vài ngày đầu tiên.",
+          "gloss": "Mọi tác dụng khác của thuốc ngoài tác dụng điều trị dự kiến.",
+          "termId": "side_effect"
         },
         {
-          "example": "Thuốc này tương tác với kháng sinh đó, nên tôi sẽ nói dược sĩ biết mọi thứ tôi đang uống.",
-          "gloss": "Điều xảy ra khi thuốc này gặp thuốc khác, hoặc rượu, hoặc một loại thức ăn nhất định. Có loại rất nguy hiểm."
+          "example": "Có sự tương tác giữa loại thuốc kháng sinh này, nên tôi sẽ cho dược sĩ biết mọi thứ mình đang dùng.",
+          "gloss": "Điều gì xảy ra khi một loại thuốc gặp một loại thuốc khác, hoặc rượu, hoặc một loại thực phẩm cụ thể? Một số tổ hợp có thể nguy hiểm.",
+          "termId": "interaction"
         },
         {
-          "example": "Hạn sử dụng nằm trên vỉ, nên tôi cũng kiểm tra ngày trên vỏ hộp.",
-          "gloss": "Ngày cuối cùng mà nhà sản xuất bảo đảm thuốc giữ được độ mạnh và độ an toàn."
+          "example": "Ngày hết hạn nằm trên vỉ thuốc, nên tôi cũng kiểm tra ngày hết hạn trên hộp.",
+          "gloss": "Ngày cuối cùng mà nhà sản xuất bảo đảm thuốc vẫn giữ được độ hiệu lực và độ an toàn.",
+          "termId": "expiry_date"
         },
         {
-          "example": "Số giấy phép lưu hành in ở đáy vỏ hộp, và tôi đã nói số đó khi khiếu nại.",
-          "gloss": "Số giấy phép lưu hành của thuốc. Nó định danh hộp thuốc trong hồ sơ của cơ quan quản lý."
+          "example": "Số giấy phép lưu hành được in ở dưới thùng carton, và tôi đã trích dẫn số đó trong báo cáo.",
+          "gloss": "Số giấy phép mà thuốc được bán theo. Số này giúp xác định bao bì trong hồ sơ của cơ quan quản lý.",
+          "termId": "marketing_authorisation_number"
         }
       ]
     },
     {
-      "body": "Tờ hướng dẫn liệt kê mọi tác dụng phụ được báo cáo trong quá trình thử nghiệm. Danh sách đó dài hơn bất kỳ thuốc nào nên có, vì chỉ một lần báo cáo cũng được tính. Vì vậy câu hỏi hữu ích không phải là tác dụng phụ có được liệt kê hay không, mà là nó thường gặp đến đâu và bạn nên làm gì.\n\nTác dụng phụ **thường gặp** thường nhẹ và nhiều khi tự hết trong vài ngày đầu khi cơ thể thích nghi: buồn nói, đau đầu nhẹ, tiêu chảy, hơi buồn ngủ. Tác dụng phụ **ít gặp** hiếm hơn và dễ cần theo dõi hơn. Tác dụng phụ **hiếm** là loại khiến người ta đọc tờ hướng dẫn với bút trong tay.\n\nCó những tác dụng phụ không thật sự là tác dụng phụ mà là chỉ dẫn được nói giấu. \"Uống khi ăn\" thường có nghĩa là thuốc gây khó chịu khi bụng rỗng. \"Có thể gây buồn ngủ\" thường có nghĩa là không lái xe hay vận hành máy móc cho tới khi bạn biết nó ảnh hưởng thế nào. \"Có thể nóng mặt\" có mặt để bạn không tưởng có chuyện gì xảy ra.\n\nCó những tác dụng phụ nghĩa là ngừng thuốc và đi cấp cứu: sưng mặt, môi hoặc lưỡi, khó thở, phát ban khắp người, hoặc tim đập nhanh. Đây là dấu hiệu của phản ứng nghiêm trọng, và cần cấp cứu, không phải uống thêm một liều.\n\n**Tương tác** là phần người ta hay bỏ qua, và đó cũng là nơi rủi ro thật nằm. Hãy nói với dược sĩ về mọi thứ bạn đang uống, kể cả thuốc bạn tự mua, thuốc thảo dược, và thuốc bạn chỉ uống thỉnh thoảng. Phần lớn hiệu thuốc lưu hồ sơ lượng mua của bạn, nhưng đừng dựa vào điều đó. Tương tác làm nhiều người bất ngờ nhất là giữa thuốc và rượu, và nó không phải lúc nào cũng chỉ là buồn ngủ: có thuốc gây nóng đỏ dữ dội và đánh trống ngực khi uống cùng rượu, và có kháng sinh không dùng được nếu bạn uống rượu.\n\nNếu bạn dùng một loại thuốc đều đặn, một lần **rà soát thuốc** mỗi năm là đáng để hẹn. Mang theo mọi hộp, kể cả loại bạn chỉ dùng khi cần. Một liều thuốc thích hợp hồi đó có thể không còn thích hợp, và thứ an toàn với một bệnh nền có thể không an toàn với một bệnh nền mới.",
+      "body": "Tờ hướng dẫn liệt kê mọi tác dụng phụ đã được báo cáo trong quá trình thử nghiệm. Danh sách đó dài hơn bất kỳ loại thuốc nào nên có, bởi chỉ một báo cáo cũng được tính. Vì vậy, câu hỏi hữu ích không phải là tác dụng phụ đó có được liệt kê hay không, mà là tần suất xảy ra ra sao và bạn nên xử lý thế nào.\n\nCác tác dụng phụ **thường gặp** thường nhẹ và thường thuyên giảm trong vài ngày đầu tiên khi cơ thể bạn thích nghi: buồn nôn, đau đầu nhẹ, tiêu chảy và cảm thấy hơi buồn ngủ. **Hiếm gặp** nghĩa là các tác dụng phụ ít thường xảy ra và có nhiều khả năng cần được xử lý. **Hiếm gặp** là những tác dụng phụ khiến mọi người cầm bút đọc tờ hướng dẫn sử dụng thuốc.\n\nMột số tác dụng phụ thực ra không phải là tác dụng phụ, mà là chỉ dẫn được ngụy trang. “Dùng cùng thức ăn” thường có nghĩa là thuốc gây kích ứng khi dùng lúc bụng đói. “May gây buồn ngủ” thường có nghĩa là không lái xe hoặc vận hành máy móc cho đến khi bạn biết tác dụng của thuốc đối với mình như thế nào. “**Có thể bị đỏ bừng**” được ghi để bạn không nghĩ rằng đó là dấu hiệu bất thường.\n\nMột số tác dụng phụ cần ngừng dùng thuốc và đi khám bác sĩ: sưng mặt, môi hoặc lưỡi, khó thở, phát ban toàn thân hoặc nhịp tim nhanh. Đây là những dấu hiệu của phản ứng nghiêm trọng và cần được chăm sóc cấp cứu, không phải uống thêm một liều.\n\n**Tương tác thuốc** là phần nhiều người bỏ qua, và đây cũng là nơi các rủi ro thực sự nằm ở đó. Hãy nói với dược sĩ mọi loại thuốc bạn đang dùng, bao gồm cả thuốc bạn tự mua, thuốc thảo dược và thuốc chỉ uống thỉnh thoảng. Hầu hết các hiệu thuốc đều lưu lại thông tin về những lần mua của bạn, nhưng không nên dựa vào đó. Tương tác dễ khiến mọi người bất ngờ nhất là giữa thuốc và rượu, và tác dụng không phải lúc nào cũng chỉ là gây buồn ngủ: một số thuốc có thể gây đỏ bừng mặt và đánh trống ngực khi uống rượu, còn một số kháng sinh sẽ không có tác dụng nếu bạn uống rượu.\n\nNếu bạn thường xuyên dùng thuốc, việc **rà soát thuốc** mỗi năm một lần là rất đáng để bạn hẹn khám. Hãy mang theo tất cả các gói thuốc, kể cả những gói chỉ thỉnh thoảng bạn mới dùng. Có những thứ vốn an toàn ở liều này lại có thể không an toàn ở liều khác, và điều an toàn với một tình trạng sức khỏe có thể không còn an toàn khi bạn mắc thêm một tình trạng mới.",
       "examples": [
-        "Thuốc ghi có thể gây buồn ngủ, nên tối nay tôi sẽ không lái xe.",
-        "Tôi còn uống một thực phẩm bổ sung cho khớp, nên tôi sẽ nói ra.",
-        "Tôi mang hết các hộp thuốc tôi đang uống, kể cả loại chỉ dùng thỉnh thoảng."
+        "Ghi nhãn cho biết có thể gây buồn ngủ, nên tối nay tôi sẽ không lái xe.",
+        "Tôi cũng dùng thêm một sản phẩm bổ sung cho khớp, nên sẽ nhắc đến nó.",
+        "Tôi đã mang theo tất cả các gói mình dùng, kể cả những gói chỉ thỉnh thoảng mới dùng."
       ],
       "heading": "Tác dụng phụ, cảnh báo và cách xử lý"
     },
     {
-      "body": "Một phần thông tin quan trọng trên hộp thuốc được in bằng hình ấn hiệu chứ không phải bằng câu văn, và các ký hiệu đó giống nhau ở hầu hết các nước. Học chúng và bạn đọc được một hộp thuốc chưa từng thấy.",
-      "heading": "Các ký hiệu trên hộp",
-      "symbols": [
-        {
-          "meaning": "OTC: bán không cần đơn trong hiệu thuốc, điều đó không có nghĩa là vô hại."
-        },
-        {
-          "meaning": "Rx: thuốc này chỉ được cấp khi có đơn hợp lệ."
-        },
-        {
-          "meaning": "Để xa tầm tay trẻ em: dấu hiệu thường thấy trên mọi hộp bán ra công cộng."
-        },
-        {
-          "meaning": "Tránh ánh sáng: bảo quản hộp nơi không có ánh nắng trực tiếp."
-        },
-        {
-          "meaning": "Không nghiền: viên phải được nuốt nguyên."
-        },
-        {
-          "meaning": "Bảo quản ở 2 °C đến 8 °C: thuốc phải để trong tủ lạnh, không phải trong tủ."
-        },
-        {
-          "meaning": "Thuốc kiểm soát: hồ sơ lưu trữ nghiêm ngặt hơn và quy định đơn thuốc cũng chặt hơn."
-        },
-        {
-          "meaning": "Thùng rác có dấu gạch chéo: không bỏ hộp vào rác sinh hoạt, hãy đưa đến điểm thu gom ở hiệu thuốc."
-        }
-      ]
+      "body": "Một số thông tin quan trọng trên bao bì thuốc được in bằng ký hiệu chứ không phải bằng câu, và các ký hiệu này nhất quán ở hầu hết các nước. Học kỹ những ký hiệu này, bạn có thể đọc hiểu một bao bì mà trước đây chưa từng thấy.",
+      "heading": "Các ký hiệu trên bao bì"
     },
     {
-      "body": "Sáu phút đọc ngay tại quầy tiết kiệm hàng tuần phải nhỏ. Hãy chạy cùng một quy trình mỗi khi bạn nhận một hộp thuốc mới, dù nó được kê đơn hay mua tự do.",
+      "body": "Sáu phút đọc thuốc tại quầy giúp bạn tiết kiệm hàng tuần phải vật lộn với những điều khó hiểu khi về nhà. Mỗi khi nhận một gói thuốc mới, dù là thuốc được kê đơn hay mua trực tiếp tại quầy, bạn hãy thực hiện theo đúng quy trình này.",
       "examples": [
-        "Trước khi tôi đi, tôi muốn kiểm tra hoạt chất và hàm lượng.",
-        "Chị cho tôi xem tờ hướng dẫn, và quy tắc cho liều bị bỏ sót nằm ở đâu?"
+        "Trước khi rời đi, tôi muốn kiểm tra hoạt chất và hàm lượng.",
+        "Bạn có thể cho tôi xem tờ hướng dẫn sử dụng không, và quy định về việc bỏ sót liều dùng thuốc nằm ở đâu?"
       ],
-      "heading": "Một quy trình dành cho mọi loại thuốc mới bạn nhận",
+      "heading": "Quy trình dành cho mọi loại thuốc mới bạn được cấp",
       "steps": [
-        "Đọc hoạt chất và kiểm tra xem có đúng là thứ bạn cần không.",
-        "Kiểm tra hàm lượng, dạng thuốc và đơn vị liều.",
-        "Đọc hướng dẫn dùng thuốc: bao nhiêu, bao lâu một lần, lúc nào, trong bao lâu.",
-        "Tìm quy tắc cho liều bị bỏ sót và viết lên hộp.",
-        "Tìm hạn sử dụng và hướng dẫn bảo quản.",
-        "Hỏi dược sĩ nốt bốn câu còn lại."
+        "Đọc hoạt chất và kiểm tra xem có đúng như bạn mong đợi hay không.",
+        "Kiểm tra hàm lượng, dạng thuốc và đơn vị liều dùng.",
+        "Đọc hướng dẫn: liều dùng bao nhiêu, dùng bao lâu một lần, khi nào và trong bao lâu.",
+        "Tìm quy định về việc bỏ lỡ liều dùng và ghi lên bao bì.",
+        "Hãy tìm ngày hết hạn và hướng dẫn bảo quản.",
+        "Hãy hỏi dược sĩ bốn câu hỏi còn lại."
       ]
     },
     {
-      "body": "Dược sĩ là nhân viên y tế dễ tiếp cận nhất mà bạn sẽ từng gặp. Không cần hẹn, thường không mất phí, và mỗi ngày họ gặp nhiều vấn đề thuốc hơn một bác sĩ. Đa số người chỉ dùng dịch vụ này một lần mỗi năm, trong khi lẽ ra họ nên dùng cho mọi hộp thuốc mới.\n\nHãy hỏi **câu đóng** khi có thể, vì câu đóng nhận được câu trả lời thẳng. \"Thuốc này có giống paracetamol tôi đang uống không?\" nhận được một chữ có hoặc không. \"Thuốc này có giống thuốc cảm cúm của tôi không?\" nhận được một bài thuyết. \"Tôi có uống cùng với những viên thuốc khác được không?\" nhận được một câu trả lời rõ ràng để bạn hành động.\n\nBốn câu đáng hỏi mỗi lần rất đơn giản. **Thuốc này dùng để làm gì, trong một câu?** **Tôi uống thế nào và vào lúc nào, và trong lúc đó tôi nên tránh gì?** **Nếu tôi bỏ sót một liều thì làm sao?** **Triệu chứng nào khiến tôi phải dừng lại và gọi cho chị?**\n\nVà hãy hỏi câu cuối hai lần, vì đó là câu không ai hỏi. Nếu bạn phải gọi điện cho phòng khám lúc mười một giờ đêm, bạn cần biết trước những triệu chứng nào thì đáng để gọi.\n\nBạn không cần thấy ngại ở quầy. Dược sĩ gặp những câu hỏi đó mỗi ngày, và thường là những câu hỏi về điều thật sự quan trọng chứ không phải điều vặt. Hỏi một câu tưởng như hiển nhiên còn hơn là uống thuốc sai cách trong một tháng.\n\nHãy hỏi lại sau này nữa. Cơ thể thay đổi, thuốc khác được thêm vào, và một liều thích hợp với bạn hai năm trước có thể không còn thích hợp. Tờ hướng dẫn bạn được đưa ngày đầu vẫn là tờ hướng dẫn có đáp án, và đáng đọc lại khi có điều gì đó thay đổi.",
+      "body": "Dược sĩ là người chăm sóc sức khỏe dễ tiếp cận nhất mà bạn từng gặp. Không cần hẹn trước, thường không mất phí, và mỗi ngày họ gặp nhiều vấn đề về thuốc hơn cả bác sĩ. Hầu hết mọi người chỉ dùng dịch vụ này cho một câu hỏi mỗi năm, trong khi lẽ ra họ nên dùng cho mỗi gói thuốc mới.\n\nHãy đặt câu hỏi **khép kín** khi có thể, vì câu hỏi khép kín sẽ nhận được câu trả lời thẳng. Đây có phải là paracetamol tôi đang dùng không?\" sẽ được trả lời là có hoặc không. “Thuốc này có giống thuốc trị cảm của tôi không?” sẽ được giảng một bài. “Tôi có thể dùng thuốc này cùng với những viên thuốc khác của tôi không?” sẽ được trả lời rõ ràng để bạn có thể hành động theo.\n\nBốn câu hỏi đáng hỏi mỗi lần thực ra rất đơn giản. **Thuốc này dùng để trị bệnh gì, chỉ cần một câu trả lời?** **Tôi nên uống thuốc này như thế nào và vào lúc nào, đồng thời cần tránh những gì trong khi uống?** **Tôi nên làm gì nếu lỡ bỏ sót một liều?** **Điều gì khiến tôi phải ngừng dùng thuốc và gọi cho bạn?**\n\nVà hãy hỏi câu cuối cùng hai lần, bởi vì đó là câu mà không ai thường hỏi. Nếu bạn phải gọi điện cho phòng khám lúc mười một giờ đêm, bạn cần biết trước những triệu chứng nào thì đáng để gọi.\n\nBạn không cần cảm thấy mình ngốc nghếch khi đứng trước quầy thuốc. Dược sĩ hằng ngày cũng phải trả lời những câu hỏi như vậy, và thường là về những điều thực sự quan trọng chứ không phải chuyện tầm thường. Hỏi một câu mà có vẻ hiển nhiên còn hơn là uống thuốc sai cách suốt một tháng.\n\nHỏi lại sau này nữa. Cơ thể thay đổi, thêm các loại thuốc khác và liều thuốc phù hợp với bạn hai năm trước có thể không còn phù hợp bây giờ. Tờ hướng dẫn bạn được phát vào ngày đầu tiên vẫn là tờ hướng dẫn có đáp án, và bạn nên đọc lại nó mỗi khi có điều gì thay đổi.",
       "examples": [
-        "Thuốc này có giống paracetamol tôi uống buổi tối không?",
-        "Trong lúc uống thuốc này tôi nên tránh gì?",
-        "Có triệu chứng nào thì tôi nên ngừng và gọi cho chị?",
-        "Tôi có uống được thuốc này cùng thuốc huyết áp không?"
+        "Đây có giống paracetamol tôi đang uống mỗi tối không?",
+        "Trong khi dùng thuốc này, tôi nên tránh những gì?",
+        "Điều gì khiến tôi phải dừng lại và gọi cho bạn?",
+        "Tôi có thể uống thuốc này cùng với thuốc huyết áp không?"
       ],
-      "heading": "Hỏi dược sĩ, và hỏi lại sau này"
+      "heading": "Hỏi dược sĩ, và hỏi lại sau đó"
     }
   ],
-  "summary": "Nhãn thuốc cho bạn biết trong hộp có gì, mỗi liều có bao nhiêu, và uống vào lúc nào. Đọc xong bài này, bạn đọc được nhãn thuốc của bất kỳ nước nào, đong thuốc lỏng chính xác, nhận ra những chỉ dẫn hay bị bỏ qua, và biết hỏi dược sĩ đúng câu để thuốc phát huy tác dụng.",
-  "title": "Hiểu nhãn thuốc và cách dùng đúng liều"
+  "summary": "Nhãn thuốc cho bạn biết trong gói có những gì, mỗi liều chứa bao nhiêu và khi nào nên dùng. Sau khi đọc nhãn thuốc, bạn có thể đọc nhãn thuốc ở bất kỳ quốc gia nào, đo liều thuốc chính xác, nhận ra những chỉ dẫn mà mọi người thường bỏ qua và đặt câu hỏi phù hợp với dược sĩ để thuốc được sử dụng đúng cách.",
+  "title": "Hiểu nhãn thuốc và hướng dẫn liều dùng"
 }

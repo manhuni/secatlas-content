@@ -1,188 +1,6 @@
 {
   "items": [
     {
-      "definition": "An unplanned stop in which the car cannot be driven safely. It is the stop, not the specific fault that caused it.",
-      "dictionaryId": "lex.sa.daily_skills.breakdown",
-      "example": "I have had a breakdown on the motorway, and I need a recovery vehicle.",
-      "fieldId": "daily_skills",
-      "id": "breakdown",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Breakdown"
-    },
-    {
-      "definition": "The service that comes to help a broken-down car. It comes through insurance, a manufacturer package or a separate membership.",
-      "dictionaryId": "lex.sa.daily_skills.roadside_assistance",
-      "example": "Do you know whether my roadside assistance covers a call-out in this area?",
-      "fieldId": "daily_skills",
-      "id": "roadside_assistance",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Roadside assistance"
-    },
-    {
-      "definition": "The van or truck sent to collect the car. Some can lift a car and some can only tow it on a wheel.",
-      "dictionaryId": "lex.sa.daily_skills.recovery_vehicle",
-      "example": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
-      "fieldId": "daily_skills",
-      "id": "recovery_vehicle",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Recovery vehicle"
-    },
-    {
-      "definition": "All four indicators blink together. The car is stationary or unusual. Severity level 1 — Information / Status. Action: Nothing to do while the lights are on. Switch them off once the car moves again..",
-      "dictionaryId": "lex.sa.en.hazard.warning",
-      "example": "",
-      "fieldId": "daily_skills",
-      "id": "hazard_lights",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Hazard warning lights"
-    },
-    {
-      "definition": "The red reflective triangle placed on the road behind a stopped vehicle so drivers see it in time.",
-      "dictionaryId": "lex.sa.daily_skills.warning_triangle",
-      "example": "Put the warning triangle out about 100 metres behind the car.",
-      "fieldId": "daily_skills",
-      "id": "warning_triangle",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Warning triangle"
-    },
-    {
-      "definition": "Starting a car with a flat battery by connecting it to the battery of another car with cables.",
-      "dictionaryId": "lex.sa.daily_skills.jump_start",
-      "example": "Could you send someone to jump start the car? The battery is flat.",
-      "fieldId": "daily_skills",
-      "id": "jump_start",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Jump start"
-    },
-    {
-      "definition": "A unit of energy in food. One gram of fat holds about 9 kcal, a gram of carbohydrate or protein about 4.",
-      "dictionaryId": "lex.sa.daily_skills.kilocalorie",
-      "example": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
-      "fieldId": "daily_skills",
-      "id": "kilocalorie",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Kilocalorie (kcal)"
-    },
-    {
-      "definition": "The date after which the food is still safe to eat but has gone down in quality. A quality date, not a safety date.",
-      "dictionaryId": "lex.sa.daily_skills.best_before",
-      "example": "The best-before date has passed, so the biscuits are only stale, not bad.",
-      "fieldId": "daily_skills",
-      "id": "best_before",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Best-before date"
-    },
-    {
-      "definition": "The date after which the food may no longer be safe to eat. It is a safety date and it is not negotiable.",
-      "dictionaryId": "lex.sa.daily_skills.use_by",
-      "example": "The use-by date was yesterday, so I threw the chicken away.",
-      "fieldId": "daily_skills",
-      "id": "use_by",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Use-by date"
-    },
-    {
-      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
-      "dictionaryId": "lex.sa.daily_skills.serving_size",
-      "example": "One serving is 30 g, which is much less than the bowl I had.",
-      "fieldId": "daily_skills",
-      "id": "serving_size",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Serving size"
-    },
-    {
-      "definition": "A substance in food that can cause a serious allergic reaction in some people. There are fourteen that have to be declared.",
-      "dictionaryId": "lex.sa.daily_skills.allergen",
-      "example": "The allergen box says it contains peanuts and soya.",
-      "fieldId": "daily_skills",
-      "id": "allergen",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Allergen"
-    },
-    {
-      "definition": "The unbroken path a chilled product follows from the factory to your fridge. If the chain breaks, the use-by date stops meaning anything.",
-      "dictionaryId": "lex.sa.daily_skills.cold_chain",
-      "example": "The cold chain was broken, so the date on the pack means nothing.",
-      "fieldId": "daily_skills",
-      "id": "cold_chain",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Cold chain"
-    },
-    {
-      "definition": "To put something that has thawed back into the freezer. For meat and fish this is a safety question, not a quality one.",
-      "dictionaryId": "lex.sa.daily_skills.refreeze",
-      "example": "You can freeze it now, but you cannot refreeze it once it has thawed.",
-      "fieldId": "daily_skills",
-      "id": "refreeze",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Refreeze"
-    },
-    {
       "definition": "The ABS has a fault. Normal braking still works, but the wheels can lock under heavy braking. Severity level 3 — Warning. Action: Have the ABS checked. Until then, brake earlier and more gently..",
       "dictionaryId": "lex.sa.en.abs",
       "example": "",
@@ -447,6 +265,188 @@
         "knw.daily.appliances"
       ],
       "term": "Child lock"
+    },
+    {
+      "definition": "An unplanned stop in which the car cannot be driven safely. It is the stop, not the specific fault that caused it.",
+      "dictionaryId": "lex.sa.daily_skills.breakdown",
+      "example": "I have had a breakdown on the motorway, and I need a recovery vehicle.",
+      "fieldId": "daily_skills",
+      "id": "breakdown",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Breakdown"
+    },
+    {
+      "definition": "The service that comes to help a broken-down car. It comes through insurance, a manufacturer package or a separate membership.",
+      "dictionaryId": "lex.sa.daily_skills.roadside_assistance",
+      "example": "Do you know whether my roadside assistance covers a call-out in this area?",
+      "fieldId": "daily_skills",
+      "id": "roadside_assistance",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Roadside assistance"
+    },
+    {
+      "definition": "The van or truck sent to collect the car. Some can lift a car and some can only tow it on a wheel.",
+      "dictionaryId": "lex.sa.daily_skills.recovery_vehicle",
+      "example": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
+      "fieldId": "daily_skills",
+      "id": "recovery_vehicle",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Recovery vehicle"
+    },
+    {
+      "definition": "All four indicators blink together. The car is stationary or unusual. Severity level 1 — Information / Status. Action: Nothing to do while the lights are on. Switch them off once the car moves again..",
+      "dictionaryId": "lex.sa.en.hazard.warning",
+      "example": "",
+      "fieldId": "daily_skills",
+      "id": "hazard_lights",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Hazard warning lights"
+    },
+    {
+      "definition": "The red reflective triangle placed on the road behind a stopped vehicle so drivers see it in time.",
+      "dictionaryId": "lex.sa.daily_skills.warning_triangle",
+      "example": "Put the warning triangle out about 100 metres behind the car.",
+      "fieldId": "daily_skills",
+      "id": "warning_triangle",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Warning triangle"
+    },
+    {
+      "definition": "Starting a car with a flat battery by connecting it to the battery of another car with cables.",
+      "dictionaryId": "lex.sa.daily_skills.jump_start",
+      "example": "Could you send someone to jump start the car? The battery is flat.",
+      "fieldId": "daily_skills",
+      "id": "jump_start",
+      "lessonIds": [
+        "article_car_breakdown"
+      ],
+      "packs": [
+        "knw.daily.breakdown"
+      ],
+      "term": "Jump start"
+    },
+    {
+      "definition": "A unit of energy in food. One gram of fat holds about 9 kcal, a gram of carbohydrate or protein about 4.",
+      "dictionaryId": "lex.sa.daily_skills.kilocalorie",
+      "example": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
+      "fieldId": "daily_skills",
+      "id": "kilocalorie",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Kilocalorie (kcal)"
+    },
+    {
+      "definition": "The date after which the food is still safe to eat but has gone down in quality. A quality date, not a safety date.",
+      "dictionaryId": "lex.sa.daily_skills.best_before",
+      "example": "The best-before date has passed, so the biscuits are only stale, not bad.",
+      "fieldId": "daily_skills",
+      "id": "best_before",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Best-before date"
+    },
+    {
+      "definition": "The date after which the food may no longer be safe to eat. It is a safety date and it is not negotiable.",
+      "dictionaryId": "lex.sa.daily_skills.use_by",
+      "example": "The use-by date was yesterday, so I threw the chicken away.",
+      "fieldId": "daily_skills",
+      "id": "use_by",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Use-by date"
+    },
+    {
+      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
+      "dictionaryId": "lex.sa.daily_skills.serving_size",
+      "example": "One serving is 30 g, which is much less than the bowl I had.",
+      "fieldId": "daily_skills",
+      "id": "serving_size",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Serving size"
+    },
+    {
+      "definition": "A substance in food that can cause a serious allergic reaction in some people. There are fourteen that have to be declared.",
+      "dictionaryId": "lex.sa.daily_skills.allergen",
+      "example": "The allergen box says it contains peanuts and soya.",
+      "fieldId": "daily_skills",
+      "id": "allergen",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Allergen"
+    },
+    {
+      "definition": "The unbroken path a chilled product follows from the factory to your fridge. If the chain breaks, the use-by date stops meaning anything.",
+      "dictionaryId": "lex.sa.daily_skills.cold_chain",
+      "example": "The cold chain was broken, so the date on the pack means nothing.",
+      "fieldId": "daily_skills",
+      "id": "cold_chain",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Cold chain"
+    },
+    {
+      "definition": "To put something that has thawed back into the freezer. For meat and fish this is a safety question, not a quality one.",
+      "dictionaryId": "lex.sa.daily_skills.refreeze",
+      "example": "You can freeze it now, but you cannot refreeze it once it has thawed.",
+      "fieldId": "daily_skills",
+      "id": "refreeze",
+      "lessonIds": [
+        "article_food_labels"
+      ],
+      "packs": [
+        "knw.daily.foodlabels"
+      ],
+      "term": "Refreeze"
     },
     {
       "definition": "The flow of electricity, measured in amperes (A).",

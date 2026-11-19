@@ -1,569 +1,568 @@
 {
   "items": [
     {
-      "definition": "The member of a couple who is expected to be the main earner.",
-      "dictionaryId": "lex.sa.social.gre_breadwinner",
-      "example": "As the breadwinner he carried the risk, and the risk became the whole family's.",
+      "definition": "How far ahead the decision can see, which decides how urgent it feels.",
+      "dictionaryId": "lex.sa.social.mt_decision_horizon",
+      "example": "Our decision horizons are different lengths, and that is the disagreement.",
       "fieldId": "social",
-      "id": "gre_breadwinner",
+      "id": "mt_decision_horizon",
       "lessonIds": [
-        "article_gender_roles_expectations"
+        "article_marriage_timing"
       ],
       "packs": [
-        "knw.social.gender_roles_expectations"
+        "knw.social.marriage_timing"
       ],
-      "term": "Breadwinner"
+      "term": "decision horizon"
     },
     {
-      "definition": "The work of running the house: cleaning, shopping, cooking, laundry and bills.",
-      "dictionaryId": "lex.sa.social.gre_household_labour",
-      "example": "Household labour is the part of the week that never appears on a report.",
+      "definition": "The timing of the people around you, used as a reference point for your own.",
+      "dictionaryId": "lex.sa.social.mt_peer_timing",
+      "example": "Peer timing says everybody my age is married; peer timing is not a measurement of me.",
       "fieldId": "social",
-      "id": "gre_household_labour",
+      "id": "mt_peer_timing",
       "lessonIds": [
-        "article_gender_roles_expectations"
+        "article_marriage_timing"
       ],
       "packs": [
-        "knw.social.gender_roles_expectations"
+        "knw.social.marriage_timing"
       ],
-      "term": "Household labour"
+      "term": "peer timing"
     },
     {
-      "definition": "The strain that appears when one person is expected to be two things at once and the two pull in different directions.",
-      "dictionaryId": "lex.sa.social.gre_role_conflict",
-      "example": "The role conflict was not a failure of effort; two jobs had been given to one week.",
+      "definition": "The pressure a family puts on the timing of its members.",
+      "dictionaryId": "lex.sa.social.mt_family_pressure",
+      "example": "Family pressure asks about grandchildren at the table, and the answer is a plan.",
       "fieldId": "social",
-      "id": "gre_role_conflict",
+      "id": "mt_family_pressure",
       "lessonIds": [
-        "article_gender_roles_expectations"
+        "article_marriage_timing"
       ],
       "packs": [
-        "knw.social.gender_roles_expectations"
+        "knw.social.marriage_timing"
       ],
-      "term": "Role conflict"
-    },
-    {
-      "definition": "The talk in which two people change or confirm the roles they play together.",
-      "dictionaryId": "lex.sa.social.gre_role_negotiation",
-      "example": "Role negotiation is not a quarrel about who is right; it is a decision about who does what.",
-      "fieldId": "social",
-      "id": "gre_role_negotiation",
-      "lessonIds": [
-        "article_gender_roles_expectations"
-      ],
-      "packs": [
-        "knw.social.gender_roles_expectations"
-      ],
-      "term": "Role negotiation"
-    },
-    {
-      "definition": "The phrase for the idea that time passes in the body as well as in the calendar, and that a window is closing.",
-      "dictionaryId": "lex.sa.social.bc_biological_clock",
-      "example": "The biological clock is a phrase, and the window it names is mostly a story.",
-      "fieldId": "social",
-      "id": "bc_biological_clock",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "biological clock"
-    },
-    {
-      "definition": "The way the reproductive system changes as a person gets older.",
-      "dictionaryId": "lex.sa.social.bc_reproductive_ageing",
-      "example": "Reproductive ageing is gradual, and it is not the same for everybody.",
-      "fieldId": "social",
-      "id": "bc_reproductive_ageing",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "reproductive ageing"
-    },
-    {
-      "definition": "The stretch of future time a person is thinking about when they make a plan.",
-      "dictionaryId": "lex.sa.social.bc_time_horizon",
-      "example": "Their time horizon was ten years ahead; mine was two.",
-      "fieldId": "social",
-      "id": "bc_time_horizon",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "time horizon"
-    },
-    {
-      "definition": "The capacity to reproduce, which changes across the life span.",
-      "dictionaryId": "lex.sa.social.bc_fertility",
-      "example": "Fertility is not a number that stays the same for a whole life.",
-      "fieldId": "social",
-      "id": "bc_fertility",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "fertility"
-    },
-    {
-      "definition": "The chance that conception happens in one cycle.",
-      "dictionaryId": "lex.sa.social.bc_fecundity",
-      "example": "Fecundity is the word for the chance in a single cycle.",
-      "fieldId": "social",
-      "id": "bc_fecundity",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "fecundity"
-    },
-    {
-      "definition": "An estimate of how many eggs remain in the ovaries, built from hormone measurements and sometimes a scan.",
-      "dictionaryId": "lex.sa.social.bc_ovarian_reserve",
-      "example": "The ovarian reserve estimate describes a stock; it is not a statement about the odds.",
-      "fieldId": "social",
-      "id": "bc_ovarian_reserve",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "ovarian reserve"
-    },
-    {
-      "definition": "The point at which ovulation and menstruation stop.",
-      "dictionaryId": "lex.sa.social.bc_menopause",
-      "example": "Menopause is a biological event, not a date on a calendar.",
-      "fieldId": "social",
-      "id": "bc_menopause",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "menopause"
-    },
-    {
-      "definition": "The transition before menopause, when the cycles often change.",
-      "dictionaryId": "lex.sa.social.bc_perimenopause",
-      "example": "She was in perimenopause, and her cycles had changed for a while.",
-      "fieldId": "social",
-      "id": "bc_perimenopause",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "perimenopause"
-    },
-    {
-      "definition": "The age of the woman when her child is born, used as a medical label.",
-      "dictionaryId": "lex.sa.social.bc_maternal_age",
-      "example": "Maternal age is a label in the record, not a judgement about the mother.",
-      "fieldId": "social",
-      "id": "bc_maternal_age",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "maternal age"
-    },
-    {
-      "definition": "The age of the father when his child is born, used as a medical label.",
-      "dictionaryId": "lex.sa.social.bc_paternal_age",
-      "example": "Paternal age carries different facts from maternal age, and the change is slower.",
-      "fieldId": "social",
-      "id": "bc_paternal_age",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "paternal age"
-    },
-    {
-      "definition": "The felt push to act on reproduction because the window seems to be closing.",
-      "dictionaryId": "lex.sa.social.bc_reproductive_urgency",
-      "example": "The reproductive urgency was real, and the deadline behind it was still unchecked.",
-      "fieldId": "social",
-      "id": "bc_reproductive_urgency",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "reproductive urgency"
-    },
-    {
-      "definition": "Pressure that comes from a deadline somebody else has set.",
-      "dictionaryId": "lex.sa.social.bc_timeline_pressure",
-      "example": "The timeline pressure came from the family, not from her body.",
-      "fieldId": "social",
-      "id": "bc_timeline_pressure",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "timeline pressure"
-    },
-    {
-      "definition": "An expectation that one generation passes to the next about when life should happen.",
-      "dictionaryId": "lex.sa.social.bc_generational_pressure",
-      "example": "Generational pressure rarely sounds like a command; it sounds like an observation.",
-      "fieldId": "social",
-      "id": "bc_generational_pressure",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "generational pressure"
+      "term": "family pressure"
     },
     {
       "conflict": true,
-      "definition": "The gap between the number of relationships you want and the number you actually have. It is a feeling, and it can occur in a crowded room.",
-      "dictionaryId": "lex.sa.culture.loneliness",
-      "example": "A full calendar and a lonely February are not contradictions.",
+      "definition": "A file sent together with the email. It should be named clearly and referred to in the body.",
+      "dictionaryId": "lex.sa.work.attachment",
+      "example": "Please find the attachment, called Quotation-March-2026.pdf.",
       "fieldId": "social",
-      "id": "lsc_loneliness",
+      "id": "att_attachment",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_attachment_styles"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.attachment_styles"
       ],
-      "term": "Loneliness"
+      "term": "Attachment"
+    },
+    {
+      "definition": "The set of assumptions a person carries about how other people answer when they reach out.",
+      "dictionaryId": "lex.sa.social.att_working_model",
+      "example": "My working model says that people get busy and come back, so I wait.",
+      "fieldId": "social",
+      "id": "att_working_model",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Working model"
+    },
+    {
+      "definition": "The person or relationship a person can move away from and still feel steady in.",
+      "dictionaryId": "lex.sa.social.att_secure_base",
+      "example": "His sister was his secure base long before he had a partner of his own.",
+      "fieldId": "social",
+      "id": "att_secure_base",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Secure base"
+    },
+    {
+      "definition": "The event that makes a person read a partner as less available than the person assumed.",
+      "dictionaryId": "lex.sa.social.att_trigger",
+      "example": "One missed call was the trigger, and the rest of the evening went into reading the silence.",
+      "fieldId": "social",
+      "id": "att_trigger",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Trigger"
+    },
+    {
+      "definition": "Describing a person who takes the partner's availability for granted and stays steady when it wobbles.",
+      "dictionaryId": "lex.sa.social.att_secure",
+      "example": "She is secure with him, so she says she is upset instead of guessing.",
+      "fieldId": "social",
+      "id": "att_secure",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Secure"
+    },
+    {
+      "definition": "Describing a person who reads any drop in a partner's availability as a sign that the bond is at risk.",
+      "dictionaryId": "lex.sa.social.att_anxious",
+      "example": "When he was busy, his anxious side read the quiet as a message about him.",
+      "fieldId": "social",
+      "id": "att_anxious",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Anxious"
+    },
+    {
+      "definition": "Describing a person who leans away when closeness increases, to protect independence.",
+      "dictionaryId": "lex.sa.social.att_avoidant",
+      "example": "His avoidant side called for less contact at the moment he needed it most.",
+      "fieldId": "social",
+      "id": "att_avoidant",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Avoidant"
+    },
+    {
+      "definition": "Describing a person who wants closeness and is afraid of it at the same time.",
+      "dictionaryId": "lex.sa.social.att_fearful",
+      "example": "Fearful-avoidant behaviour often looks like pulling back right after reaching out.",
+      "fieldId": "social",
+      "id": "att_fearful",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Fearful-avoidant"
+    },
+    {
+      "definition": "The rising of the alarm when a partner seems unavailable, which sharpens attention and speeds the urge to act.",
+      "dictionaryId": "lex.sa.social.att_hyperactivation",
+      "example": "Hyperactivation turned three unanswered messages into an hour of checking the phone.",
+      "fieldId": "social",
+      "id": "att_hyperactivation",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Hyperactivation"
+    },
+    {
+      "definition": "The lowering of the alarm when closeness increases, which turns attention away from the bond and towards the task in front of it.",
+      "dictionaryId": "lex.sa.social.att_deactivation",
+      "example": "Deactivation looked like a tidy desk and a long shift at the office.",
+      "fieldId": "social",
+      "id": "att_deactivation",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Deactivation"
+    },
+    {
+      "definition": "Asking a partner repeatedly to confirm that the relationship is still there.",
+      "dictionaryId": "lex.sa.social.att_reassurance_seeking",
+      "example": "Reassurance-seeking is asking the same question until the answer changes.",
+      "fieldId": "social",
+      "id": "att_reassurance_seeking",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Reassurance-seeking"
+    },
+    {
+      "definition": "The behaviour a person uses to get a partner's attention back when they feel the bond is slipping.",
+      "dictionaryId": "lex.sa.social.att_protest_behaviour",
+      "example": "Her protest behaviour was sending the message twice and then three times.",
+      "fieldId": "social",
+      "id": "att_protest_behaviour",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Protest behaviour"
+    },
+    {
+      "definition": "Pulling back from a partner and reducing contact when closeness or conflict increases.",
+      "dictionaryId": "lex.sa.social.att_withdrawal",
+      "example": "Withdrawal is answering with less, not more, when the other person asks for more.",
+      "fieldId": "social",
+      "id": "att_withdrawal",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Withdrawal"
+    },
+    {
+      "definition": "The capacity to feel safe in a relationship, learned later in life rather than carried in from earlier life.",
+      "dictionaryId": "lex.sa.social.att_earned_security",
+      "example": "Her earned security came from a relationship that stayed, after years of ones that did not.",
+      "fieldId": "social",
+      "id": "att_earned_security",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Earned security"
+    },
+    {
+      "definition": "The capacity to stay in charge of your own reactions when the other person is difficult.",
+      "dictionaryId": "lex.sa.social.gem_emotional_maturity",
+      "example": "Her emotional maturity showed in the pause before she answered, not in the answer itself.",
+      "fieldId": "social",
+      "id": "gem_emotional_maturity",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Emotional maturity"
+    },
+    {
+      "definition": "The capacity to hold a reaction and choose when to act on it.",
+      "dictionaryId": "lex.sa.social.gem_self_regulation",
+      "example": "He used self-regulation to stay in the room instead of walking out.",
+      "fieldId": "social",
+      "id": "gem_self_regulation",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Self-regulation"
+    },
+    {
+      "definition": "Reading what another person feels, and taking it seriously enough to act on it.",
+      "dictionaryId": "lex.sa.social.gem_empathy",
+      "example": "Her empathy showed in the question she asked instead of the advice she gave.",
+      "fieldId": "social",
+      "id": "gem_empathy",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Empathy"
     },
     {
       "conflict": true,
-      "definition": "Being cut off from other people without choosing it, and without the comfort that solitude brings.",
-      "dictionaryId": "lex.sa.culture.isolation",
-      "example": "Working from home every day turned into isolation by February.",
+      "definition": "The answer you owe for an act, to the people affected and to the law.",
+      "dictionaryId": "lex.sa.mind.dual_accountability",
+      "example": "The mistake was hers, and the accountability was hers as well.",
       "fieldId": "social",
-      "id": "lsc_isolation",
+      "id": "gem_accountability",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Isolation"
+      "term": "Accountability"
     },
     {
-      "definition": "The state of being estranged from the people around you, from a group, or from your own life.",
-      "dictionaryId": "lex.sa.social.lsc_alienation",
-      "example": "He worked in the same team for years and felt alienated from it.",
+      "definition": "The capacity to stay with a delay, a refusal or a mistake without making the other person pay for it.",
+      "dictionaryId": "lex.sa.social.gem_frustration_tolerance",
+      "example": "Tolerance of frustration is what a good team leader buys with a calm answer on a Friday.",
       "fieldId": "social",
-      "id": "lsc_alienation",
+      "id": "gem_frustration_tolerance",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Alienation"
+      "term": "Tolerance of frustration"
     },
     {
-      "conflict": true,
-      "definition": "Being alone by choice, with no element of loss or distress. It is not the same as loneliness.",
-      "dictionaryId": "lex.sa.culture.solitude",
-      "example": "Two hours of solitude on Sunday is what makes the week work.",
+      "definition": "The leaning towards acting before you have looked at what the act will do.",
+      "dictionaryId": "lex.sa.social.gem_impulsivity",
+      "example": "The message went out in impatience, and the impulsivity cost him the job.",
       "fieldId": "social",
-      "id": "lsc_solitude",
+      "id": "gem_impulsivity",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Solitude"
+      "term": "Impulsivity"
     },
     {
-      "definition": "The practice of choosing fewer people and refusing more, so that the chosen ones get more of you.",
-      "dictionaryId": "lex.sa.social.lsc_selectivity",
-      "example": "Her selectivity is not rudeness; it is a policy she applies to everybody.",
+      "definition": "How strongly and how fast a person reacts to pressure; a tempo, not a character.",
+      "dictionaryId": "lex.sa.social.gem_stress_reactivity",
+      "example": "Her stress reactivity is high in meetings and low in front of a machine.",
       "fieldId": "social",
-      "id": "lsc_selectivity",
+      "id": "gem_stress_reactivity",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Selectivity"
-    },
-    {
-      "conflict": true,
-      "definition": "A level of quality or a rule of conduct.",
-      "dictionaryId": "lex.sa.en.standard.noun",
-      "example": "",
-      "fieldId": "social",
-      "id": "lsc_standard",
-      "lessonIds": [
-        "article_loneliness_selectivity"
-      ],
-      "packs": [
-        "knw.social.loneliness_selectivity"
-      ],
-      "term": "standard"
-    },
-    {
-      "definition": "The belief that a partner must match a complete specification exactly, with no deviation allowed.",
-      "dictionaryId": "lex.sa.social.lsc_hyperfidelity",
-      "example": "Hyperfidelity is why the search stops before it has really begun.",
-      "fieldId": "social",
-      "id": "lsc_hyperfidelity",
-      "lessonIds": [
-        "article_loneliness_selectivity"
-      ],
-      "packs": [
-        "knw.social.loneliness_selectivity"
-      ],
-      "term": "Hyperfidelity"
+      "term": "Stress reactivity"
     },
     {
       "conflict": true,
-      "definition": "A link between two facts, so that one explains, limits or changes the other.",
-      "dictionaryId": "lex.sa.mind.kpar_connection",
-      "example": "There is a connection between the load on the pump and the life of the seal.",
+      "definition": "The work of managing your own feelings and other people's feelings so that the situation keeps running.",
+      "dictionaryId": "lex.sa.social.gem_emotional_labour",
+      "example": "Emotional labour is the invisible work of keeping a meeting calm.",
       "fieldId": "social",
-      "id": "lsc_connection",
+      "id": "gem_emotional_labour",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Connection"
+      "term": "Emotional labour"
     },
     {
-      "definition": "The state in which both sides give and both receive, checked by asking each side what the other gives.",
-      "dictionaryId": "lex.sa.social.lsc_mutuality",
-      "example": "There is no mutuality here: one of them does all the giving.",
+      "definition": "The feeling part of empathy: catching what the other person feels.",
+      "dictionaryId": "lex.sa.social.gem_affective_empathy",
+      "example": "Affective empathy made her notice that the new engineer was frightened in the group.",
       "fieldId": "social",
-      "id": "lsc_mutuality",
+      "id": "gem_affective_empathy",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Mutuality"
+      "term": "Affective empathy"
     },
     {
-      "definition": "A decision to keep something going at a cost to yourself, made again and again rather than once.",
-      "dictionaryId": "lex.sa.social.lsc_commitment",
-      "example": "Commitment is not one decision; it is the tenth one as well as the first.",
+      "definition": "The thinking part of empathy: seeing the situation from the other person's side.",
+      "dictionaryId": "lex.sa.social.gem_cognitive_empathy",
+      "example": "Cognitive empathy is what lets you guess that the deadline was the real problem.",
       "fieldId": "social",
-      "id": "lsc_commitment",
+      "id": "gem_cognitive_empathy",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Commitment"
+      "term": "Cognitive empathy"
     },
     {
-      "definition": "The state of being able to make the decision of commitment now, with the time, the wish and a picture of the cost.",
-      "dictionaryId": "lex.sa.social.lsc_commitment_readiness",
-      "example": "He has the wish and not the readiness, and he can tell the two apart.",
+      "definition": "Stating your need, your limit or your disagreement without wrapping it in blame.",
+      "dictionaryId": "lex.sa.social.gem_assertiveness",
+      "example": "Assertiveness is saying the report is late and then saying what you need instead.",
       "fieldId": "social",
-      "id": "lsc_commitment_readiness",
+      "id": "gem_assertiveness",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Commitment readiness"
+      "term": "Assertiveness"
     },
     {
-      "definition": "The willingness to be known by somebody new, which is wider than being selective or not.",
-      "dictionaryId": "lex.sa.social.lsc_openness",
-      "example": "Openness is not saying yes to everybody; it is letting one more person in.",
+      "definition": "The leaning that keeps the peace by not raising the issue at all.",
+      "dictionaryId": "lex.sa.social.gem_conflict_avoidance",
+      "example": "Conflict avoidance kept the meeting pleasant and the problem on the table.",
       "fieldId": "social",
-      "id": "lsc_openness",
+      "id": "gem_conflict_avoidance",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Openness"
+      "term": "Conflict avoidance"
     },
     {
-      "definition": "A strong dislike that turns a possible approach into an immediate withdrawal.",
-      "dictionaryId": "lex.sa.social.lsc_aversion",
-      "example": "Her aversion to that kind of meeting turned into a refusal before she had read the message.",
+      "conflict": true,
+      "definition": "A belief about a group that is applied to a person without looking at that person.",
+      "dictionaryId": "lex.sa.social.gem_stereotype",
+      "example": "That sentence about men and women is a stereotype, and it settles nothing about the man in front of you.",
       "fieldId": "social",
-      "id": "lsc_aversion",
+      "id": "gem_stereotype",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Aversion"
+      "term": "Stereotype"
     },
     {
-      "definition": "The state in which the same goal pulls you towards it and away from it at the same time.",
-      "dictionaryId": "lex.sa.social.lsc_approach_avoidance",
-      "example": "The approach-avoidance conflict is inside him, not in the other person.",
+      "definition": "The part of the value ranges of two groups that lies on top of each other.",
+      "dictionaryId": "lex.sa.social.gem_overlap",
+      "example": "The overlap between the two groups is wide, so the average says very little about one person.",
       "fieldId": "social",
-      "id": "lsc_approach_avoidance",
+      "id": "gem_overlap",
       "lessonIds": [
-        "article_loneliness_selectivity"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.loneliness_selectivity"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Approach-avoidance conflict"
+      "term": "Overlap"
     },
     {
-      "definition": "The question of when to marry, and the order of the events that answer it.",
-      "dictionaryId": "lex.sa.social.mt_marriage_timing",
-      "example": "Marriage timing is two questions: when the marriage happens, and when the life does.",
+      "definition": "The process of choosing a partner, from the first interest to the decision.",
+      "dictionaryId": "lex.sa.social.msa_mate_selection",
+      "example": "Mate selection was slow for her and quick for her brother.",
       "fieldId": "social",
-      "id": "mt_marriage_timing",
+      "id": "msa_mate_selection",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "marriage timing"
+      "term": "mate selection"
     },
     {
-      "definition": "The sequence of roles and stages people are expected to move through, in the usual order.",
-      "dictionaryId": "lex.sa.social.mt_life_course",
-      "example": "A life course puts study and work before children for most people, and in a different order for others.",
+      "definition": "The pull towards somebody, felt before any thought about the future.",
+      "dictionaryId": "lex.sa.social.msa_attraction",
+      "example": "The attraction was immediate, and that was not the same as choosing.",
       "fieldId": "social",
-      "id": "mt_life_course",
+      "id": "msa_attraction",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "life course"
+      "term": "attraction"
     },
     {
-      "definition": "The age or stage at which a milestone is expected in a given community.",
-      "dictionaryId": "lex.sa.social.mt_normative_timing",
-      "example": "The normative timing is what people assume when they do not ask.",
+      "definition": "What a person says they want, before any particular person comes along.",
+      "dictionaryId": "lex.sa.social.msa_preference",
+      "example": "My preference was somebody older; the person I chose was younger.",
       "fieldId": "social",
-      "id": "mt_normative_timing",
+      "id": "msa_preference",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "normative timing"
+      "term": "preference"
     },
     {
-      "definition": "The pattern in which the further a person goes in schooling, the later the marriage tends to arrive.",
-      "dictionaryId": "lex.sa.social.mt_education_gradient",
-      "example": "The education gradient is a pattern in a group, not a cause that works on one person.",
+      "definition": "A quality whose absence ends the possibility, as opposed to one that only lowers the score.",
+      "dictionaryId": "lex.sa.social.msa_deal_breaker",
+      "example": "Dishonesty was the deal-breaker, and the rest were preferences.",
       "fieldId": "social",
-      "id": "mt_education_gradient",
+      "id": "msa_deal_breaker",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "education gradient"
+      "term": "deal-breaker"
     },
     {
-      "definition": "Living together as a couple without being married.",
-      "dictionaryId": "lex.sa.social.mt_cohabitation",
-      "example": "Cohabitation moved their date, because the shared life came before the legal form.",
+      "definition": "The difference in age between two partners, and the direction of that difference.",
+      "dictionaryId": "lex.sa.social.msa_age_gap",
+      "example": "The age gap was four years, and she was the older one.",
       "fieldId": "social",
-      "id": "mt_cohabitation",
+      "id": "msa_age_gap",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "cohabitation"
+      "term": "age gap"
     },
     {
-      "definition": "The state of a group in which marriage is entered later than it used to be.",
-      "dictionaryId": "lex.sa.social.mt_deferred_marriage",
-      "example": "Deferred marriage is the name for a group-wide move to a later date.",
+      "definition": "The range of ages a person thinks of as suitable when choosing a partner.",
+      "dictionaryId": "lex.sa.social.msa_age_preference",
+      "example": "Her age preference was wide, and the people she chose were not.",
       "fieldId": "social",
-      "id": "mt_deferred_marriage",
+      "id": "msa_age_preference",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "deferred marriage"
+      "term": "age preference"
     },
     {
-      "definition": "The total of the ages in a group divided by the number of people in it.",
-      "dictionaryId": "lex.sa.social.mt_mean_age",
-      "example": "The mean age moved up, because a few people married much later than the rest.",
+      "definition": "A span with a lower and an upper bound, used here for the ages a person will consider.",
+      "dictionaryId": "lex.sa.social.msa_age_range",
+      "example": "Write your age range as two numbers, not as a feeling.",
       "fieldId": "social",
-      "id": "mt_mean_age",
+      "id": "msa_age_range",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "mean age"
+      "term": "age range"
     },
     {
-      "definition": "The age in the middle of a list: half the group is older and half is younger.",
-      "dictionaryId": "lex.sa.social.mt_median_age",
-      "example": "The median age stayed where the middle of the group was, even as the mean age rose.",
+      "definition": "The pattern in which partners tend to be similar to each other on age, schooling, place or work.",
+      "dictionaryId": "lex.sa.social.msa_assortative_mating",
+      "example": "Assortative mating was visible in the town: the teachers married teachers.",
       "fieldId": "social",
-      "id": "mt_median_age",
+      "id": "msa_assortative_mating",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "median age"
+      "term": "assortative mating"
     },
     {
-      "definition": "A planned event moved to a later date.",
-      "dictionaryId": "lex.sa.social.mt_postponement",
-      "example": "The postponement had a reason, and the reason was the contract.",
+      "definition": "How close two people are in space and time, and how often they meet.",
+      "dictionaryId": "lex.sa.social.msa_proximity",
+      "example": "Proximity did the work: they shared a shift and a bus stop.",
       "fieldId": "social",
-      "id": "mt_postponement",
+      "id": "msa_proximity",
       "lessonIds": [
-        "article_marriage_timing"
+        "article_mate_selection_age"
       ],
       "packs": [
-        "knw.social.marriage_timing"
+        "knw.social.mate_selection_age"
       ],
-      "term": "postponement"
+      "term": "proximity"
     }
   ],
   "nextCursor": "160",
