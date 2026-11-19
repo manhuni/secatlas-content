@@ -20,6 +20,11 @@ The content service of the app does not keep a copy. It reads this repository:
    the pointer; the house moves it as well with
    `python tools\publish_content_to_github.py --publish-head`.
 
+A publication of the house writes the whole library again, so it refuses to do
+that while the words here were changed by hand: it names the files and stops.
+The house serves them with `--publish-head`, or writes its own release over
+them with `--force`.
+
 The release id of the library is the commit the files live in. The service
 writes it into every answer, so the app knows that the library changed and
 reads it again.

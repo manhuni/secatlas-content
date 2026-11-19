@@ -37,7 +37,44 @@
         "Um símbolo nunca assume o plural: 5 m, nunca 5 ms para metres.",
         "As letras maiúsculas também não são decoração: A é o ampere e a não é."
       ],
-      "heading": "As sete unidades de base e os símbolos que as representam"
+      "heading": "As sete unidades de base e os símbolos que as representam",
+      "symbols": [
+        {
+          "description": "A letra m é o símbolo do metro, a unidade-base de comprimento no SI. O comprimento é a grandeza em relação à qual todas as outras grandezas mecânicas são medidas, portanto, é a primeira unidade que um engenheiro aprende. Você a encontra em uma régua, na borda de um desenho, na primeira linha de uma ficha de dados — sempre que uma distância é registrada: a altura de um parafuso, a largura de um painel, a distância entre duas estrelas. Todo engenheiro que mede alguma coisa a lê. Ela é escrita como um número, um espaço e, em seguida, m: nunca um ponto final e nunca ms, pois ms significa milissegundo.",
+          "label": "m",
+          "meaning": "metro — a unidade fundamental de comprimento"
+        },
+        {
+          "description": "As letras kg são o símbolo do quilograma, a unidade base de massa no SI. A massa é o que permanece igual onde quer que você a leve; o peso muda com a gravidade, a massa não. Você a encontra em uma capacidade de carga, em uma lista de materiais, no balcão de uma oficina — sempre que algo é pesado: um componente, uma carga útil, uma pessoa. Quem projeta a peça e quem a carrega são os que fazem a leitura. É escrita como um número, um espaço e depois kg: o prefixo quilo pertence à unidade, portanto o quilograma é escrito com k e g juntos.",
+          "label": "kg",
+          "meaning": "quilograma — a unidade base de massa"
+        },
+        {
+          "description": "A letra s é o símbolo do segundo, a unidade base de tempo no SI. O tempo é a dimensão que transforma qualquer outra medida em uma taxa. Você o encontra em um diagrama de temporização, no tempo de ciclo de uma folha de dados, no ponteiro dos segundos de um relógio — sempre que uma duração é registrada: um tempo de ciclo, um tempo de permanência, um tempo de reação. Quem mede quanto tempo algo leva, lê esse valor. Ele é escrito como um número, um espaço e depois s: atenção, 5 s são cinco segundos e 5 S estaria errado, mas 5 ms são cinco milissegundos.",
+          "label": "s",
+          "meaning": "segundo — a unidade base de tempo"
+        },
+        {
+          "description": "A letra A é o símbolo do ampere, a unidade base de corrente elétrica no SI. Corrente é o fluxo de carga: quanto carga passa por um ponto de um circuito em um segundo, e todas as demais grandezas elétricas são construídas a partir dela. Você a encontra na plaquinha de um motor, na especificação de um fusível, na primeira linha de um orçamento de energia — sempre que uma corrente é indicada: a corrente de operação de uma placa, a corrente de partida de uma bomba, a corrente que um sensor consome em repouso. Quem dimensiona um cabo e quem dimensiona uma fonte de alimentação são os que a leem. É escrita como um número, um espaço e depois A: atenção, mA é milésimo de ampere e o ampere-hora (Ah) é uma unidade de carga, não de corrente.",
+          "label": "A",
+          "meaning": "ampere — a unidade base de corrente elétrica"
+        },
+        {
+          "description": "A letra K é o símbolo do kelvin, a unidade base da temperatura termodinâmica no SI. A temperatura não é o número que um termômetro mostra: um termômetro mostra um ponto em uma escala de uso cotidiano, enquanto o kelvin mede a energia das próprias partículas, por isso nunca fica abaixo de zero. Você o encontra na faixa de operação de uma peça, no laço de controle de um processo, na curva de uma folha de dados — sempre que uma temperatura é registrada: a temperatura de uma junção, a temperatura de armazenamento, o setpoint de um forno. Quem projeta a peça e quem conduz o processo é quem o lê. É escrito como um número, um espaço e depois K: nunca com o sinal de grau, porque o sinal de grau pertence às escalas de uso cotidiano. E atenção: o K de kelvin é maiúsculo, enquanto o k do prefixo quilo é minúsculo.",
+          "label": "K",
+          "meaning": "kelvin — a unidade base de temperatura"
+        },
+        {
+          "description": "As letras mol são o símbolo do mol, a unidade base de quantidade de matéria no SI. Um mol é um número de partículas: a quantidade que contém tantas partículas quanto doze gramas de carbono-12, e é a ponte entre a massa de uma coisa e o número de coisas nela. Você o encontra no certificado de um reagente, na fórmula de uma reação, na folha de dosagem de uma planta — sempre que uma quantidade é registrada: uma concentração, uma titulação, o tamanho de um lote. O químico que o mistura e o engenheiro que escala sua produção são os que o leem. É escrito como um número, um espaço e depois mol: nunca com ponto final e nunca com M maiúsculo, porque M é a concentração molar e as duas coisas não são iguais.",
+          "label": "mol",
+          "meaning": "mol — a unidade base de quantidade de matéria"
+        },
+        {
+          "description": "As letras cd são o símbolo da candela, a unidade base de intensidade luminosa no SI: a luz que uma fonte emite em uma direção, julgada pelo olho de uma pessoa e não apenas por um instrumento. Você a encontra na ficha de dados de um LED, na especificação de uma luminária, no desenho de um banco óptico — sempre que uma fonte de luz é indicada: a retroiluminação de um display, uma lâmpada de sinalização, uma iluminação pública. Quem escolhe a lâmpada e quem projeta o alojamento é quem a lê. É escrita como um número, um espaço e depois cd: nunca com ponto final, e cuidado, cd/m² é outra coisa — essa é a luminância de uma superfície, e é uma unidade derivada.",
+          "label": "cd",
+          "meaning": "candela — a unidade-base de intensidade luminosa"
+        }
+      ]
     },
     {
       "body": "Um prefixo não muda o que você está medindo; muda o tamanho do número. Kilo significa mil, e milli significa milésimo. O prefixo é escrito como um símbolo antes da unidade, sem espaço entre eles: 12,5 km, 3,2 mm. Todo prefixo é uma potência de dez, e toda potência de dez também é uma potência de três: um quilômetro é mil metros, e mil é dez vezes dez vezes dez. Fique atento à única armadilha de todo o sistema: milli e metre começam com a mesma letra, então 25 mA são vinte e cinco miliampères, enquanto 25 m são vinte e cinco metros. A unidade indica qual deles você está observando.",

@@ -133,6 +133,45 @@
         "type": "related_to"
       }
     ],
+    "f91c5999df399d5a5da6d83ff3fc1f8addbe90a1c0878695322cce26518f2b57": [
+      {
+        "forms": [
+          "Emotional labour",
+          "gre_emotional_labour"
+        ],
+        "id": "lex.sa.social.gre_emotional_labour",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Emotional labour",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.social.gre_emotional_labour.alt"
+        ]
+      },
+      {
+        "definition": "The work of managing your own feelings and other people's feelings so that the situation keeps running.",
+        "exampleIds": [
+          "exm.sa.social.gre_emotional_labour.1.1"
+        ],
+        "gloss": "The work of managing your own feelings and other people's feelings so that the situation keeps running.",
+        "id": "sns.sa.social.gre_emotional_labour.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.social.gre_emotional_labour",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.social.gre_emotional_labour.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Emotional labour is the tone you set and the mood you repair, and it rarely appears on a rota.",
+        "translation": "Công việc cảm xúc là giọng điệu bạn tạo dựng và tâm trạng bạn khôi phục, và nó hiếm khi xuất hiện trên lịch trực.",
+        "translationLanguage": "vi"
+      }
+    ],
     "f965e5fbf98dd531b7c0fd4f9bdc8dd6df79f623c8345b8aa1b7cd756d317dd8": [
       {
         "forms": [
@@ -307,6 +346,45 @@
         "sourceLanguage": "en",
         "text": "If we do not hear back by Friday, we will need to escalate this.",
         "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "f9700fd4b406b8efbe36ee00f4a38dc09c7537b16505d1a178a1d5040495451f": [
+      {
+        "forms": [
+          "Reciprocity",
+          "pd_reciprocity"
+        ],
+        "id": "lex.sa.mind.pd_reciprocity",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Reciprocity",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.pd_reciprocity.alt"
+        ]
+      },
+      {
+        "definition": "The exchange in which something given first creates a claim on what comes next.",
+        "exampleIds": [
+          "exm.sa.mind.pd_reciprocity.1.1"
+        ],
+        "gloss": "The exchange in which something given first creates a claim on what comes next.",
+        "id": "sns.sa.mind.pd_reciprocity.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.pd_reciprocity",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.pd_reciprocity.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Reciprocity was doing the work: the favour he had done last year settled the question.",
+        "translation": "Đáp lại là đủ: ân huệ anh ta đã làm cho mình năm ngoái đã giải quyết mọi thắc mắc.",
         "translationLanguage": "vi"
       }
     ],

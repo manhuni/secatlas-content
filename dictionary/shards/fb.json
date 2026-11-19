@@ -905,6 +905,45 @@
         "translation": "Vuốt qua lại giữa các đoạn video.",
         "translationLanguage": "vi"
       }
+    ],
+    "fbd5fbc16782b1cd55ad68567fc13831ad88cb250b84d2e77bb4b9c60537366d": [
+      {
+        "forms": [
+          "Cash economy",
+          "mon_cash_economy"
+        ],
+        "id": "lex.sa.money.mon_cash_economy",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Cash economy",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_cash_economy.alt"
+        ]
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "exampleIds": [
+          "exm.sa.money.mon_cash_economy.1.1"
+        ],
+        "gloss": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "id": "sns.sa.money.mon_cash_economy.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_cash_economy",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_cash_economy.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "In a cash economy, a market stall may not have a machine at all.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
     ]
   },
   "release": "{{release}}",

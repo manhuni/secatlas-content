@@ -392,6 +392,45 @@
         "revision": 1
       }
     ],
+    "f016c03dcff8c0796ab6a1de6c2e407d4b6048d35d1e6f744041d8ab64270911": [
+      {
+        "forms": [
+          "Legal tender",
+          "mon_legal_tender"
+        ],
+        "id": "lex.sa.money.mon_legal_tender",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Legal tender",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_legal_tender.alt"
+        ]
+      },
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "exampleIds": [
+          "exm.sa.money.mon_legal_tender.1.1"
+        ],
+        "gloss": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "id": "sns.sa.money.mon_legal_tender.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_legal_tender",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_legal_tender.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "f0393021066fb99da230875e29504b2212b7087fc3363f49b2c2e71377b9c9da": [
       {
         "forms": [

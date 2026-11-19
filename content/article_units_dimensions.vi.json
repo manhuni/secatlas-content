@@ -38,60 +38,41 @@
         "Chữ hoa cũng không phải thừa: A là ampe, còn a thì không phải."
       ],
       "heading": "Bảy đơn vị gốc và những ký hiệu đứng thay chúng",
-      "questions": {
-        "how": "Viết nó ra sao?",
-        "what": "Nó là gì?",
-        "when": "Khi nào người ta dùng nó?",
-        "where": "Bạn thấy nó ở đâu?",
-        "who": "Ai đọc nó?",
-        "why": "Tại sao nó tồn tại?"
-      },
       "symbols": [
         {
-          "how": "Một con số, một khoảng trắng, rồi đến m. Không có dấu chấm, và không bao giờ viết ms thay cho mét, vì ms là mili giây.",
+          "description": "Ký hiệu m là ký hiệu của mét, đơn vị cơ sở của độ dài trong Hệ đơn vị quốc tế (SI). Độ dài là đại lượng mà mọi đại lượng cơ học khác đều được đo đối chiếu, vì vậy đây là đơn vị đầu tiên mà một kỹ sư học cách sử dụng. Bạn gặp nó trên thước đo, trên cạnh của bản vẽ, trên dòng đầu tiên của bảng dữ liệu — mỗi khi có một khoảng cách được ghi lại: chiều cao của một con bulong, bề rộng của một tấm panel, khoảng cách giữa hai ngôi sao. Mọi kỹ sư đều đọc nó khi đo bất cứ thứ gì. Nó được viết bằng một con số, một khoảng trắng, rồi đến chữ m: không có dấu chấm câu, và không bao giờ là ms, vì ms có nghĩa là mili giây.",
           "label": "m",
-          "meaning": "mét — đơn vị gốc của độ dài",
-          "what": "m là ký hiệu của mét, đơn vị gốc của độ dài trong hệ SI.",
-          "when": "Mọi khi có khoảng cách được viết ra: chiều cao một con bulong, bề rộng một tấm, khoảng cách giữa hai ngôi sao.",
-          "where": "Trên thước, trên mép bản vẽ, ở dòng đầu tiên của một bảng thông số.",
-          "who": "Mọi kỹ sư có đo bất cứ thứ gì.",
-          "why": "Độ dài là đại lượng mà mọi đại lượng cơ học khác đều được đo theo, nên đây là đơn vị đầu tiên một kỹ sư học."
+          "meaning": "mét — đơn vị cơ sở của chiều dài"
         },
         {
-          "how": "Một con số, một khoảng trắng, rồi đến kg. Tiền tố kilo thuộc về đơn vị, nên ki lô gam viết cùng k và g.",
+          "description": "Chữ cái kg là ký hiệu của kilogram, đơn vị cơ sở của khối lượng trong SI. Khối lượng là thứ không thay đổi dù bạn mang nó đến bất cứ đâu; trọng lượng thay đổi theo trọng lực, còn khối lượng thì không. Bạn gặp nó trên tải trọng danh định, trên bảng thành phần vật liệu, trên quầy của một xưởng — bất cứ khi nào có thứ gì đó được cân: một chi tiết, một tải trọng, một con người. Những người thiết kế chi tiết và những người chất tải là những người đọc nó. Nó được viết thành một số, một khoảng trắng, rồi đến kg: tiền tố kilo thuộc về đơn vị, vì vậy kilogram được viết với k và g cạnh nhau.",
           "label": "kg",
-          "meaning": "ki lô gam — đơn vị gốc của khối lượng",
-          "what": "kg là ký hiệu của ki lô gam, đơn vị gốc của khối lượng trong hệ SI.",
-          "when": "Mọi khi có thứ gì được cân: một linh kiện, một kiện hàng, một con người.",
-          "where": "Trên tải trọng cho phép, trên bảng bill of materials, trên bàn cân của xưởng.",
-          "who": "Người thiết kế chi tiết và người vận hành nó.",
-          "why": "Khối lượng không đổi dù bạn mang nó đi đâu; trọng lượng thì đổi theo trọng lực, khối lượng thì không."
+          "meaning": "kilogram — đơn vị cơ sở của khối lượng"
         },
         {
-          "how": "Một con số, một khoảng trắng, rồi đến s. Cẩn thận: 5 s là năm giây, còn 5 ms là năm mili giây.",
+          "description": "Chữ s là ký hiệu của giây, đơn vị cơ sở của thời gian trong hệ SI. Thời gian là đại lượng biến mọi phép đo khác thành tốc độ. Bạn gặp nó trên sơ đồ thời gian, trong thời gian chu kỳ của một bảng dữ liệu, trên kim giây của đồng hồ — bất cứ khi nào một khoảng thời gian được ghi lại: thời gian chu kỳ, thời gian lưu giữ, thời gian phản ứng. Bất kỳ ai đo thời gian một việc mất bao lâu đều đọc nó. Nó được viết thành một số, một khoảng trắng, rồi đến chữ s: hãy chú ý, 5 s là năm giây và 5 S là sai, nhưng 5 ms là năm mili giây.",
           "label": "s",
-          "meaning": "giây — đơn vị gốc của thời gian",
-          "what": "s là ký hiệu của giây, đơn vị gốc của thời gian trong hệ SI.",
-          "when": "Mọi khi có một khoảng thời gian được viết ra: thời gian một chu kỳ, thời gian giữ chừa, thời gian phản ứng.",
-          "where": "Trên sơ đồ thời gian, trên cột cycle time của một bảng thông số, trên kim giây.",
-          "who": "Bất kỳ ai đo xem một việc mất bao lâu.",
-          "why": "Thời gian là chiều biến mọi phép đo khác thành một tốc độ."
+          "meaning": "giây — đơn vị cơ sở của thời gian"
         },
         {
+          "description": "Chữ A là ký hiệu của ampe, đơn vị cơ sở của dòng điện trong Hệ đơn vị quốc tế (SI). Dòng điện là sự chuyển dịch của điện tích: lượng điện tích đi qua một điểm của mạch điện trong một giây, và mọi đại lượng điện khác đều được xây dựng trên cơ sở đó. Bạn gặp nó trên tấm thông số của động cơ, trên mức định mức của cầu chì, trên dòng đầu tiên của bảng tính công suất — mỗi khi dòng điện được ghi: dòng điện hoạt động của một tấm mạch, dòng khởi động của một bơm, dòng điện mà một cảm biến tiêu thụ khi nằm yên. Những người lựa chọn kích thước cáp và những người chọn kích thước bộ nguồn là những người đọc chỉ số này. Nó được viết bằng một con số, một khoảng trắng, rồi chữ A: hãy cẩn thận, mA là một phần nghìn ampe, còn giờ-ampe (Ah) là đơn vị của điện tích, không phải của dòng điện.",
           "label": "A",
-          "meaning": "ampe — đơn vị gốc của cường độ dòng điện"
+          "meaning": "ampe — đơn vị cơ sở của dòng điện"
         },
         {
+          "description": "Chữ K là ký hiệu của kelvin, đơn vị cơ sở của nhiệt độ nhiệt động học trong SI. Nhiệt độ không phải là con số mà nhiệt kế hiển thị: nhiệt kế cho biết một điểm trên một thang đo thông thường, còn kelvin đo năng lượng của chính các hạt, nên không bao giờ xuống dưới không. Bạn gặp nó trong dải hoạt động của một linh kiện, trong vòng điều khiển của một quá trình, trên đường cong của một bảng dữ liệu — mỗi khi nhiệt độ được ghi lại: nhiệt độ tiếp giáp, nhiệt độ bảo quản, điểm đặt của lò nung. Người thiết kế linh kiện và người vận hành quá trình chính là những người đọc nó. Nó được viết thành một con số, một khoảng trắng, rồi chữ K: không bao giờ có dấu độ, vì dấu độ thuộc về các thang đo thông thường, và hãy cẩn thận, chữ K của kelvin là chữ K hoa, còn chữ k của tiền tố kilo là chữ k thường.",
           "label": "K",
-          "meaning": "kelvin — đơn vị gốc của nhiệt độ"
+          "meaning": "kelvin — đơn vị cơ sở của nhiệt độ"
         },
         {
+          "description": "Ký hiệu mol là ký hiệu của mol, đơn vị cơ sở của lượng chất trong SI. Một mol là một số hạt: lượng chất chứa nhiều hạt bằng mười hai gam carbon-12, và đó là cầu nối giữa khối lượng của một vật với số lượng vật thể trong đó. Bạn gặp nó trên giấy chứng nhận của một hóa chất, trong phương trình phản ứng, trên phiếu định liều của một nhà máy — mỗi khi một lượng được ghi: nồng độ, hiệu chuẩn, quy mô một lô. Người hóa sĩ pha trộn và kỹ sư vận hành quy mô là những người đọc nó. Nó được viết là một con số, một khoảng trắng, rồi đến mol: không bao giờ có dấu chấm, và không bao giờ viết hoa M, vì M là nồng độ mol và hai thứ không giống nhau.",
           "label": "mol",
-          "meaning": "môn — đơn vị gốc của lượng chất"
+          "meaning": "môl — đơn vị cơ sở của lượng chất"
         },
         {
+          "description": "Ký hiệu cd là viết tắt của candela, đơn vị cơ sở của cường độ ánh sáng trong SI: lượng ánh sáng một nguồn phát ra theo một hướng, được đánh giá bằng mắt của con người chứ không chỉ bằng dụng cụ đo. Bạn gặp ký hiệu này trên bảng thông số của một đèn LED, trên thông số của một đèn chiếu sáng, trên bản vẽ của một bàn quang học — mỗi khi nguồn ánh sáng được ghi chú: đèn nền của màn hình, đèn tín hiệu, đèn đường. Người chọn đèn và người thiết kế vỏ đèn là những người đọc ký hiệu này. Nó được viết thành một con số, một khoảng trắng, rồi đến cd: không bao giờ có dấu chấm câu, và hãy cẩn thận, cd/m² là một đại lượng khác — đó là độ chói của một bề mặt, và đây là một đơn vị dẫn xuất.",
           "label": "cd",
-          "meaning": "candela — đơn vị gốc của cường độ quang"
+          "meaning": "candela — đơn vị cơ sở của cường độ ánh sáng"
         }
       ]
     },
@@ -200,7 +181,6 @@
     {
       "body": "Có ba từ gánh phần lớn ý nghĩa kỹ thuật. Chiều là loại của một đại lượng. Đơn vị dẫn xuất là một đơn vị dựng ra từ các đơn vị gốc. Đồng nhất chiều là tính chất làm cho một phương trình trở thành khả thi. Học ba từ này thì rất nhiều tiếng Anh trong quy cách không còn là một danh sách cụm từ, mà là một bộ quy tắc bạn tự áp dụng được.",
       "heading": "Những từ đi cùng đơn vị",
-      "questions": {},
       "terms": [
         {
           "example": "Độ dài và thời gian là hai chiều khác nhau, nên bạn không thể cộng chúng.",

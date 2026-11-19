@@ -399,6 +399,45 @@
         "translationLanguage": "vi"
       }
     ],
+    "53b71524579b4693870cec4f17c06807328cad94bdda5a420da64b3b0ab00665": [
+      {
+        "forms": [
+          "Base currency",
+          "mon_base_currency"
+        ],
+        "id": "lex.sa.money.mon_base_currency",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Base currency",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_base_currency.alt"
+        ]
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "exampleIds": [
+          "exm.sa.money.mon_base_currency.1.1"
+        ],
+        "gloss": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "id": "sns.sa.money.mon_base_currency.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_base_currency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_base_currency.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "53e72617270e503d76c732a1ceca902e4809f8b53ea45b4c49ef6115a37b69da": [
       {
         "forms": [

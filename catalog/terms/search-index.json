@@ -6419,6 +6419,22 @@
         "term": "Withdrawal"
       }
     ],
+    "search-069d20790be90ae4e4e62a86c3b3a6891a204e74e58d691f29945a191d88198d": [
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
+      }
+    ],
     "search-06aed8421cf7f6d0b6323ee0d230ea312becbc95ea3fdee169ddcb98c322ed8b": [
       {
         "definition": "Something you want very much and keep safe. It can be gold, but it can also be a letter or a photograph.",
@@ -8006,6 +8022,22 @@
         "term": "Habit"
       }
     ],
+    "search-09b960f50f12f488f5eed37330883e1e8f77abd2982a468fdb39dbff96b3843e": [
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
+      }
+    ],
     "search-09bad2758d15d12b48fd9e45dee84ff2e3f4146c5cb8bb82d04a8381ae308a06": [
       {
         "definition": "The choice of words around a fact, which changes how the fact feels.",
@@ -8760,6 +8792,20 @@
           "knw.money.what_money_is"
         ],
         "term": "Cash flow"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-0ab2dd2f64c9fd4e4310cfbb82556f0596060583dec1a7ab2d178603c3eb61d0": [
@@ -9917,6 +9963,34 @@
           "knw.social.biological_clock"
         ],
         "term": "reproductive urgency"
+      },
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "dictionaryId": "lex.sa.money.mon_minor_unit",
+        "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "fieldId": "money",
+        "id": "mon_minor_unit",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Minor unit"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-0c030586945fe504b604ecc2e875c38ede400cd5cd73da9730302162e6b02c6f": [
@@ -11879,6 +11953,22 @@
         "term": "Descriptive norm"
       }
     ],
+    "search-10636832d245e4e28d736feccdb54ffc6e1e737a1d2328d7a74e2cd08be23e50": [
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
+      }
+    ],
     "search-106a5842fc5fce6f663176285ed1516dbb1e3d15c05abab12fdca46d60b539b7": [
       {
         "definition": "What you need from somebody else. You can need help with a task, a feeling or a person.",
@@ -13518,6 +13608,22 @@
           "knw.social.emotional_regulation_relationships"
         ],
         "term": "suppression"
+      }
+    ],
+    "search-1321750ebd942062258b637f58c2209ddc6914e2a30297dd506c365d4c780fa3": [
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
       }
     ],
     "search-1329a15f00d6a9cde5c43240c1edcf7a1ea2969892c9a0c9c9e498d627cfbd5b": [
@@ -15423,6 +15529,20 @@
           "knw.social.marriage_timing"
         ],
         "term": "family pressure"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-148fb01e13054c089ae32d6f918fdf3596fe8a54ad463869c0003e1e0a5c643c": [
@@ -16212,6 +16332,22 @@
           "knw.tech.units"
         ],
         "term": "second"
+      }
+    ],
+    "search-164f99d7c21d2f8a53bd6eb9fb5b6afa6cc5bce6dee5a72d86791d03a339fee2": [
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
       }
     ],
     "search-1651120ee46ad3c6edcbb79d799527a867d7476dfc3f5183fbbb537a52638cd9": [
@@ -18861,6 +18997,49 @@
           "knw.social.marriage_timing"
         ],
         "term": "decision horizon"
+      },
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
+      },
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Devaluation"
       }
     ],
     "search-18db60601904d3aa7920baa918fac40ee48e967567c6d371c8bf166dee79b10c": [
@@ -21406,6 +21585,20 @@
           "knw.money.what_money_is"
         ],
         "term": "Medium of exchange"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-1dda8c2f404739ab73cdc292d46c28f68091e31185e219d04be7d2a3912f5da8": [
@@ -21898,6 +22091,20 @@
           "knw.mind.local_ai"
         ],
         "term": "Ecosystem"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-1ed2b38c11c70aa02adedf9fe807482472daef00689af3eeb6141346ec3f3c70": [
@@ -22267,6 +22474,20 @@
           "knw.money.credit"
         ],
         "term": "Minimum payment"
+      },
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "dictionaryId": "lex.sa.money.mon_minor_unit",
+        "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "fieldId": "money",
+        "id": "mon_minor_unit",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Minor unit"
       }
     ],
     "search-1f7bcd263182739fd7f8a6b5ba4dab8292455bb6dd1ebb9bec734ad55240ad5d": [
@@ -23163,6 +23384,20 @@
           "knw.money.what_money_is"
         ],
         "term": "Medium of exchange"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-21782826defed3c94ce23569a3032649ba33534ba044fe665c19046e7fe1ada5": [
@@ -24197,6 +24432,22 @@
           "knw.kids.daily.animals"
         ],
         "term": "Endangered"
+      }
+    ],
+    "search-23c17b674d00ce85c7bfc32a9ea51650dd6b9aed559e920b32b5ae8d05bf81c1": [
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-23cb359117171af06af1ce2f5aa7ee1d8b31a691f7fbdb67b7ec102f1cfc9793": [
@@ -28151,6 +28402,20 @@
           "knw.mind.manipulation_in_arguments"
         ],
         "term": "Tu quoque"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
       }
     ],
     "search-29218f0b48e2dde295dadb017d4a65df7b0847950d9b01e34f171609272a97e8": [
@@ -30248,6 +30513,20 @@
           "knw.work.interview"
         ],
         "term": "Aptitude test"
+      },
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
       }
     ],
     "search-2d8d693177ac44895fc02c009ec3f6af32e51eb00783c17000d7051d1662b93a": [
@@ -32833,6 +33112,76 @@
           "knw.social.marriage_timing"
         ],
         "term": "cohabitation"
+      },
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-2ea71c18131a7f0383294917672136b6d5beae857e6bacca02d99d83e5f7d371": [
@@ -33406,6 +33755,22 @@
         "term": "Differential diagnosis"
       }
     ],
+    "search-2fb53f7650dddb10d2be891160ed234dcab227079329849a07d7af3bbd762fbd": [
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
+      }
+    ],
     "search-2fd83795b2f270fc3be2d4bdf16674045ad5e2b1453998a020e305ba5c0c45ab": [
       {
         "definition": "The arrangement of roles that says who decides and who answers for the decision.",
@@ -33625,6 +33990,38 @@
           "knw.culture.englishes"
         ],
         "term": "Lingua franca"
+      }
+    ],
+    "search-307cea3295fe91537a4a9e2641c86f75df48bb48e7c67127911ef80d04d076b1": [
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
+      }
+    ],
+    "search-307d5e2a580d2f3d46cf534491ab12d9653f7b69e6738cf8d682052ffc98d15d": [
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
       }
     ],
     "search-307eae281683eeaf8ad4dc511d9f81bd42c8783e8846b91e00abb529bde1f796": [
@@ -37776,6 +38173,20 @@
           "knw.social.mate_selection_age"
         ],
         "term": "age range"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-37f2639a469641424ee35a1bba9f4d3894625f702d76e7b1c5752cd41053decd": [
@@ -38080,6 +38491,20 @@
           "knw.money.what_money_is"
         ],
         "term": "Unit of account"
+      },
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "dictionaryId": "lex.sa.money.mon_minor_unit",
+        "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "fieldId": "money",
+        "id": "mon_minor_unit",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Minor unit"
       }
     ],
     "search-386b60d02e655c763b2df1e51b6c2dc5919a367ffb6a5716e2af661d794d18a1": [
@@ -39820,6 +40245,20 @@
           "knw.social.marriage_timing"
         ],
         "term": "financial readiness"
+      },
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
       }
     ],
     "search-3acf99b1ace4ecba418475c9e6eae92f90131545d017be45439980794328ca86": [
@@ -40925,6 +41364,20 @@
           "knw.social.marriage_timing"
         ],
         "term": "deferred marriage"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-3c469e9d6c5875d37a43f353d4f88e61fcf812c66eee3457465a40b0da4153e0": [
@@ -43151,6 +43604,20 @@
           "knw.social.biological_clock"
         ],
         "term": "biological clock"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
       }
     ],
     "search-3e2b351267da13c95437daf4b39c5e2e84c229009342334f16f13db7c3402458": [
@@ -43664,6 +44131,38 @@
           "knw.culture.nomads"
         ],
         "term": "Co-working space"
+      }
+    ],
+    "search-3f5216f42931bec36125a76236e82f4c1d1f6e69760c4e00284b57f6b64c15e0": [
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
+      }
+    ],
+    "search-3f5645bb037e2c4d1a4d234e5ea412d6ba4e5a57d922433f2c63bcc90f363a92": [
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-3f6ab90de0bd1f2c5ba961efccf84f03023af2a8a2febf1d028a09eedad8deb7": [
@@ -44559,6 +45058,34 @@
           "knw.social.marriage_timing"
         ],
         "term": "education gradient"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-3f8fee624f43b2a9d685353269a0ab3eac785863ab6227636db1060fba1855e0": [
@@ -46342,6 +46869,21 @@
           "knw.mind.competence_shaming"
         ],
         "term": "Devaluation"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Devaluation"
       }
     ],
     "search-432e8704c5d054ea55a8a6bcf629ae25cadc099a4c8ba91604a885f631254974": [
@@ -47051,6 +47593,20 @@
           "knw.kids.home.toys"
         ],
         "term": "Doll"
+      },
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
       }
     ],
     "search-44d6bbaeca772d2f332b4567e2b88542de212b5931758b12ec8663ac634b0f1c": [
@@ -48745,6 +49301,34 @@
           "knw.social.marriage_timing"
         ],
         "term": "financial readiness"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
+      },
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
       }
     ],
     "search-4551b393bcf263be3f116029355975e29819aabf591063c7e38cf258309af572": [
@@ -49164,6 +49748,48 @@
           "knw.money.what_money_is"
         ],
         "term": "Currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-468975301494a245020f5324d25fd5e8297027ff7a129acb44232b331b535b40": [
@@ -49240,6 +49866,22 @@
           "knw.money.inflation"
         ],
         "term": "Consumer price index (CPI)"
+      }
+    ],
+    "search-46acbe5cf42ee3269d1c3c43a6b570edf298f5aab315830e8f8e2253d13fa7cf": [
+      {
+        "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+        "dictionaryId": "lex.sa.money.mon_tipping",
+        "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+        "fieldId": "money",
+        "id": "mon_tipping",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Tipping"
       }
     ],
     "search-46b35139eb273e2979a90910d32f62611807a79f287ee7959be44189a7137883": [
@@ -50978,6 +51620,22 @@
           "knw.social.gender_roles_expectations"
         ],
         "term": "Role negotiation"
+      }
+    ],
+    "search-4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a": [
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-4b2532b3aa754228b11549a32ee28682fb2ceb2837a5dde714a2d867fb36ac27": [
@@ -53193,6 +53851,20 @@
           "knw.mind.vibe_coding"
         ],
         "term": "Code review"
+      },
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-4ee215cd00723052e2f03bb2f0440120e896251286ffc21cccf22bb99a01edeb": [
@@ -53271,6 +53943,22 @@
           "knw.work.dark_psychology_negotiation"
         ],
         "term": "Commitment and consistency"
+      }
+    ],
+    "search-4f0a1f5aef53e953cc28e5086b98eca5d40c8820325fce6a33f34b22c84bbefd": [
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
       }
     ],
     "search-4f2deea60b1e2949dbf7ee12561452c8b9b715ae100b1560143455d137571233": [
@@ -53995,6 +54683,22 @@
           "knw.social.attachment_styles"
         ],
         "term": "Attachment"
+      }
+    ],
+    "search-5092c37bcbc9f0fb33cb0f9cab7aa5ae94ed0f1219773c380b143b7c1224d01b": [
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-509bcf065e86b5932aa2aaa378974bb1bb987b01f328d47db2e88a0d93b1c4bf": [
@@ -55213,6 +55917,20 @@
           "knw.social.marriage_timing"
         ],
         "term": "deferred marriage"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-5167f4f5c11d6a5901ef12e881073f74db5da6cf0d80957b865397f98a5d3b42": [
@@ -56116,6 +56834,20 @@
           "knw.social.gender_roles_expectations"
         ],
         "term": "Gender expression"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-532b1f4f5722a2fdc6ea8c7f976036b0cab80766a70d3fe825a64e4b84ef3de8": [
@@ -57451,6 +58183,20 @@
           "knw.mind.vibe_coding"
         ],
         "term": "Code review"
+      },
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-56af4bde70a47ae7d0f1ebb30e45ed336165d5c9ec00ba9a92311e33a4256d74": [
@@ -58376,6 +59122,22 @@
           "knw.kids.animals.nests"
         ],
         "term": "Hatch"
+      }
+    ],
+    "search-57bcda937eb5484fd8b6a194d85c403eb2c5a139bbe163764034ea09bfb20cae": [
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
       }
     ],
     "search-57cda594148cb40cfa2872012e2e0f230318e0075a5b76bfcbba12bc327b11d8": [
@@ -59398,6 +60160,22 @@
           "knw.mind.manufactured_consent"
         ],
         "term": "Groupthink"
+      }
+    ],
+    "search-588d2c1d1f23963e1647ea4fb720eec44b113b82d057156b970e96df9a1be810": [
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
       }
     ],
     "search-58d54e7c7553ce1fd758e8710a6a249e059578aead259fdf21a3fbd755be8129": [
@@ -60754,6 +61532,22 @@
         "term": "Calcium"
       }
     ],
+    "search-5c370da22e8184ee401f34a45b6a3eb84094605f67859a0385a92237dc368406": [
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
+      }
+    ],
     "search-5c40f7bf4d7e37ffffb6bc88bcf8ed90e0bcd6c9fcbce17a7f15306b72d0a5f5": [
       {
         "definition": "The state of being ready for a relationship, in time, money and emotional terms.",
@@ -61032,6 +61826,21 @@
         ],
         "packs": [
           "knw.mind.competence_shaming"
+        ],
+        "term": "Devaluation"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
         ],
         "term": "Devaluation"
       }
@@ -61967,6 +62776,22 @@
           "knw.daily.water_heater_safety"
         ],
         "term": "Anode rod"
+      }
+    ],
+    "search-5eb86574dfc2b46beedfbfc4996c8d41c75d9a2568742b4574905e855310e854": [
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
       }
     ],
     "search-5ed0a10b951bfe152c4facd9448d686a1d4a7dc79efded33a31329eb98b85c85": [
@@ -62948,6 +63773,20 @@
           "knw.mind.power_dynamics"
         ],
         "term": "Legitimate authority"
+      },
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
       }
     ],
     "search-611a894dbc68caf99b4a01d748ee11fb5603486c97174b8a6f009a98665ad2ae": [
@@ -63350,6 +64189,20 @@
           "knw.social.dating_market"
         ],
         "term": "market thickness"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-620c0497964d3eef59a8bb9f8b89d1ac3ad44409625d0d58017a2efb60fd6a7c": [
@@ -64525,6 +65378,34 @@
           "knw.social.marriage_timing"
         ],
         "term": "median age"
+      },
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "dictionaryId": "lex.sa.money.mon_minor_unit",
+        "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "fieldId": "money",
+        "id": "mon_minor_unit",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Minor unit"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-62e71ee95a0ff5ae0cebc3f8f9ce841e154b3f0a9c82d1c958d27febdf0924c5": [
@@ -64717,6 +65598,22 @@
           "knw.mind.knowledge_paradox"
         ],
         "term": "Relevance"
+      }
+    ],
+    "search-6327245c3a45d3d9ea72b70fbb671926e7b80f63d311bfd73dde876d5df02b26": [
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
       }
     ],
     "search-632cd2fea71dcde005af4e07f14b8bc1f68b63d9c1b373dc6048fb87e90af22b": [
@@ -64921,6 +65818,20 @@
           "knw.money.what_money_is"
         ],
         "term": "Medium of exchange"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-633f90ce6719d537809bce8b9c4368ea6d7522ac8039f9bd9629b5387679f35e": [
@@ -68515,6 +69426,22 @@
         "term": "Rapport"
       }
     ],
+    "search-67f2f9a9fb2b4f027ef5fbe00f1a13e3d3ccf8d746f082421b241bde1f15c204": [
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
+      }
+    ],
     "search-67f711e800796d61251f3532c3a1d3416bc68452d2b4d8fff6d8ac26eeb49a1d": [
       {
         "definition": "An afraid feeling. Your heart beats fast and you want to run or hide.",
@@ -68970,6 +69897,34 @@
           "knw.social.emotional_regulation_relationships"
         ],
         "term": "unspoken contract"
+      },
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "dictionaryId": "lex.sa.money.mon_minor_unit",
+        "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "fieldId": "money",
+        "id": "mon_minor_unit",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Minor unit"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-68bf0109c6f8a87bfa96d1ecd9503326ba35cf4a6086988a1d2c8a20fbef00d1": [
@@ -69823,6 +70778,20 @@
           "knw.social.gender_roles_expectations"
         ],
         "term": "Care work"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-695c7b85c84cde8fe524a0e109e8970c8a5e31422fdf5190db669b1529efffaf": [
@@ -71408,6 +72377,22 @@
         "term": "Market valuation"
       }
     ],
+    "search-6c6d843980f0176fce546517dbe7713c217ae889559cf527426763d0d46df651": [
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
+      }
+    ],
     "search-6c6dab33994f8b98bb9db20ef4ed62d66b5f267cbcfc575b582e317fe2d58c62": [
       {
         "definition": "The job money does when it is used to pay for something instead of trading goods for goods.",
@@ -72390,6 +73375,20 @@
           "knw.mind.info_overload"
         ],
         "term": "Attention economy"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-6e7c43fb051927726d1c7afa293966ad6ed39e519fca60ca3ee363d42c374334": [
@@ -73373,6 +74372,20 @@
           "knw.mind.info_overload"
         ],
         "term": "Attention economy"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-6fe2e0f6071ac2bb8d0b1ef26d1b691e625ba690a06edfd245847a8385aee999": [
@@ -75037,6 +76050,22 @@
           "knw.social.marriage_timing"
         ],
         "term": "normative timing"
+      }
+    ],
+    "search-73475cb40a568e8da8a045ced110137e159f890ac4da883b6b17dc651b3a8049": [
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-7369949b47ef2c6ba26fbbee659cedc76123a75c17d321a52d8d1ef35e948042": [
@@ -79682,6 +80711,48 @@
           "knw.work.interview"
         ],
         "term": "CV (curriculum vitae)"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-7cec37b0827918b430677d6b5eb57e10e9e76735e5c28cebb6d8d92d64635aff": [
@@ -80236,6 +81307,22 @@
           "knw.travel.passport"
         ],
         "term": "Consular assistance"
+      }
+    ],
+    "search-7ec7bbd3677bee60f1e0c58b2967299b9985afad73acfde38966d76f30cc4f88": [
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-7ecc43002a520ec105e73d79ae4536afe89a40de97a553a86b94ee8df5ec92af": [
@@ -82964,6 +84051,22 @@
         "term": "activation"
       }
     ],
+    "search-83a00300ad6a2502c3fd8f04f50b47f5ce60496614534ebf6bf9fc85c85e1b0d": [
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
+      }
+    ],
     "search-83aeec6f1bdbe179ab9f77400204f99720f26405c8dd76cefa2576d7449a9d0d": [
       {
         "definition": "Food bought from a stall or a small kitchen at the roadside. It is usually cheap, quick and freshly cooked, but the hygiene is worth watching.",
@@ -85279,6 +86382,20 @@
           "knw.mind.local_ai"
         ],
         "term": "Ecosystem"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-87654be893e93c6552e800afb313c7e4ea0f345c8c575211a91baa07bed5a107": [
@@ -86775,6 +87892,20 @@
           "knw.mind.gaslighting_darvo"
         ],
         "term": "Denial"
+      },
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
       }
     ],
     "search-8ac0f2b564e1138d824acf675c5d87a983c80c56fa38e99608455966e45dad0a": [
@@ -87012,6 +88143,22 @@
           "knw.work.dark_psychology_negotiation"
         ],
         "term": "Scarcity"
+      }
+    ],
+    "search-8bc8f2abf0fefd2c98a2022efdf4fd87e772460207f1b5a4bf1fab48fc3796e5": [
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
       }
     ],
     "search-8bec0a29bc921c8223675433f9c0c7c1398e1246ae1f8621523033f71a3105e5": [
@@ -87646,6 +88793,34 @@
           "knw.money.what_money_is"
         ],
         "term": "Unit of account"
+      },
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "dictionaryId": "lex.sa.money.mon_minor_unit",
+        "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "fieldId": "money",
+        "id": "mon_minor_unit",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Minor unit"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-8da078cc2a03f56a9fe4601b066243be5c948ad509435617239e9d03a4874a06": [
@@ -88089,6 +89264,20 @@
           "knw.mind.manipulation_in_arguments"
         ],
         "term": "Tu quoque"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
       }
     ],
     "search-8e3d3e0e3ecdcf8e52cd03dcd7ad36888b512b19db399abfecb546e6d940f80e": [
@@ -88247,6 +89436,22 @@
           "knw.mind.comfort_paradox"
         ],
         "term": "Paradox of comfort"
+      }
+    ],
+    "search-8ea48819279ae6d788fe6280395021523c1626fd964b8f14542e1c67bfa087a9": [
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
       }
     ],
     "search-8eb47219344de0448134b680363834fef4b704fe650b133c173659d30fdbf404": [
@@ -89079,6 +90284,20 @@
           "knw.math.mental_arithmetic"
         ],
         "term": "Remainder"
+      },
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
       }
     ],
     "search-8fbefc95205d5645b24823f75d1935b607af6fd3ff792b14d74db9241c43c884": [
@@ -90617,6 +91836,22 @@
           "knw.kids.animals.ocean"
         ],
         "term": "Plankton"
+      }
+    ],
+    "search-932ca6b55a7b4d6bc1aeebc12031d982b336651c0dc8dda1fc656720b8daca8f": [
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
       }
     ],
     "search-933c672819cb72a0e809cb873bb9e53cb61ce7744332c598ba9db3044eb1705f": [
@@ -92256,6 +93491,20 @@
           "knw.social.biological_clock"
         ],
         "term": "paternal age"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-95199d6f9614f0ee7847afae7fccff094b4d5ac48d86dc32f10f60a7308452e1": [
@@ -93110,6 +94359,35 @@
           "knw.social.marriage_timing"
         ],
         "term": "decision horizon"
+      },
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Devaluation"
       }
     ],
     "search-959f4c1d4ee937c1265703dbd5d4295fa5db09baa2a5645678db8dddd36c2e58": [
@@ -94039,6 +95317,20 @@
           "knw.social.dating_market"
         ],
         "term": "bargaining power"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
       }
     ],
     "search-9722d4a4b59ce537542d9abe02c5c6b363102390a5df88bc490c19b76d55c30b": [
@@ -94087,6 +95379,20 @@
           "knw.travel.ordering"
         ],
         "term": "tip"
+      },
+      {
+        "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+        "dictionaryId": "lex.sa.money.mon_tipping",
+        "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+        "fieldId": "money",
+        "id": "mon_tipping",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Tipping"
       }
     ],
     "search-97488fbab3282166738a47c2f619037228568494475d4ac107c46c02678cb728": [
@@ -95167,6 +96473,20 @@
           "knw.mind.info_overload"
         ],
         "term": "Signal-to-noise ratio"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-99645cb8fc3891df8ccd191f6e19e35cab42677cda132fe51276641203b83cb9": [
@@ -95635,6 +96955,21 @@
         ],
         "packs": [
           "knw.mind.competence_shaming"
+        ],
+        "term": "Devaluation"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
         ],
         "term": "Devaluation"
       }
@@ -96478,6 +97813,20 @@
           "knw.math.mental_arithmetic"
         ],
         "term": "Quotient"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
       }
     ],
     "search-9bb7154c5bf5cdc1bbf87b1f0025b0bacf86220bca0d8ce0a5b7003026557284": [
@@ -97229,6 +98578,22 @@
         "term": "Condensation"
       }
     ],
+    "search-9cce132638bc6eb516098fc263a856ffa1d812e60ac062556f675b4d6ceea595": [
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
+      }
+    ],
     "search-9cfa1468c93fc18652e34a000f0c6614b0fa18f6f4887477ad9b0d36ca6a7eaa": [
       {
         "definition": "The accumulated gap between the sleep you have had and the sleep you need. It can be partly repaid, but slowly.",
@@ -97765,6 +99130,22 @@
         "term": "Truncation"
       }
     ],
+    "search-9e15831bb40f20750306742433db12de312fd64349b950e17f260aef4813948d": [
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "dictionaryId": "lex.sa.money.mon_minor_unit",
+        "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "fieldId": "money",
+        "id": "mon_minor_unit",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Minor unit"
+      }
+    ],
     "search-9e34458dcf04af1231e2e249e437761afb65620529920e542a84f4e80159f1f2": [
       {
         "definition": "Soft words that mark your opinion as your opinion, such as 'maybe' or 'I could be wrong'. Useful in small doses.",
@@ -97793,6 +99174,22 @@
           "knw.mind.competence_shaming"
         ],
         "term": "Hedging"
+      }
+    ],
+    "search-9e433280b93123cb349cf2d5f2c6173824abd64cb620dc3e3fbac18cf1b67050": [
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
       }
     ],
     "search-9e507a6dfbf98393bbf23d487af7f1c5b2e8ea0635e3f0cddeac3a9a090a3dbe": [
@@ -98771,6 +100168,20 @@
           "knw.mind.manipulation_in_arguments"
         ],
         "term": "Tu quoque"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
       }
     ],
     "search-a083e941775650d739e6d200c060d6b653deb0ea88e9051873c31ed3e432f353": [
@@ -99101,6 +100512,20 @@
           "knw.tech.revolution"
         ],
         "term": "Parameter"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-a14bdf121544a89762848eb1c554629ee43c746b1a62c9f8694350e5faaee9ff": [
@@ -100706,6 +102131,20 @@
           "knw.mind.info_overload"
         ],
         "term": "Attention economy"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-a36c443337b53097a1ba3231ea276b70df224fb8a5ec7da9d634a05d75938fa6": [
@@ -102425,6 +103864,22 @@
         "term": "Departure gate"
       }
     ],
+    "search-a708df92c9e46229e8f1cd50d8b7d172bda33fc24c8d96d7e9dabf6eba73baa2": [
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
+      }
+    ],
     "search-a72273bf19a3a4a30c045fbdce509939f9786a880e7abbdaaf534352062b848c": [
       {
         "definition": "The preference for rewards that arrive immediately over larger rewards that require waiting and effort.",
@@ -103653,6 +105108,22 @@
         "term": "Judgement"
       }
     ],
+    "search-a9eba7c405ea67a1992992d7464ad4f04b7e8dffa39e249c6b26aaa54cc853de": [
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
+      }
+    ],
     "search-a9fb40cf1c351fc44fbe6c7a0d44fec3e8e83a517c067a13484a7c14bfa743c9": [
       {
         "definition": "The soft thing under your head when you sleep in bed.",
@@ -104800,6 +106271,22 @@
         "term": "Health anxiety"
       }
     ],
+    "search-ab04de3da8a00bf0a5799d703fe0d9278dffbe336909608ffa0c9ce567cc36de": [
+      {
+        "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+        "dictionaryId": "lex.sa.money.mon_tipping",
+        "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+        "fieldId": "money",
+        "id": "mon_tipping",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Tipping"
+      }
+    ],
     "search-ab0fcec08e18a7bccda1e81df4974e3434fcd36000518f7e776fb85495b5a494": [
       {
         "definition": "The money that comes in over a period minus the money that goes out over it.",
@@ -104814,6 +106301,20 @@
           "knw.money.what_money_is"
         ],
         "term": "Cash flow"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-ab27b729d9cc4cb1c00960700446924159e9298d0f952aee3d55408b8e0b1b71": [
@@ -104830,6 +106331,20 @@
           "knw.money.what_money_is"
         ],
         "term": "Medium of exchange"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-ab38fff1afbd12bb427cb0a5666490da382c7ddbc102c2fc18ec6af93e094392": [
@@ -105456,6 +106971,20 @@
           "knw.social.gender_roles_expectations"
         ],
         "term": "Double bind"
+      },
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
       }
     ],
     "search-ac0d5720c0d2ad861e0020ddcf3ec7d9a545ca5e11465c2091d13334c0327191": [
@@ -106599,6 +108128,20 @@
           "knw.social.marriage_timing"
         ],
         "term": "life course"
+      },
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
       }
     ],
     "search-acba25512100f80b56fc3ccd14c65be55d94800cda77585c5f41a887e398f9be": [
@@ -109607,6 +111150,20 @@
           "knw.social.dating_market"
         ],
         "term": "market thickness"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-b2a96c3d3fc2b6accdb4816e22467a7448defe3208a72a79a96d671e4087106e": [
@@ -110208,6 +111765,48 @@
           "knw.work.interview"
         ],
         "term": "CV (curriculum vitae)"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-b3cbd0b8551c847e517f555359c0d72863e0cf4da4c735b184df0f54a728e293": [
@@ -110268,6 +111867,22 @@
           "knw.travel.airport"
         ],
         "term": "Baggage claim"
+      }
+    ],
+    "search-b3fb3e3b1ebbb508fa86f6e9d8039b60cc55c4d6fdd7857d51c86f2799ba8fee": [
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
       }
     ],
     "search-b404ed3c370c8c264e53b1867929db93e94012bb618bb263f514e32fd9e5bc29": [
@@ -113299,6 +114914,22 @@
         "term": "Cognitive offloading"
       }
     ],
+    "search-b963c8759ee95e4cb64afd29eabba50ee8f68d5136954cfcb00dc6d18a7d8935": [
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
+      }
+    ],
     "search-b96514cf056d2000c68de57b2640c5b86bda27c7ea26762320ab056c202be4ee": [
       {
         "definition": "The turning of an answer into an answer about somebody else.",
@@ -115717,6 +117348,21 @@
           "knw.mind.competence_shaming"
         ],
         "term": "Devaluation"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Devaluation"
       }
     ],
     "search-bedd7f883169b6f00276842bcaaf6cdcb0514ef1e3d798c8b8f025062a8c3012": [
@@ -117006,6 +118652,22 @@
         "term": "Bowl"
       }
     ],
+    "search-c1a102ea4d52dbc90639086fadd10729545cb356bb7713a3524dd9ae82fc22a6": [
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
+      }
+    ],
     "search-c1a65b2e3663d72ef0eafe580c26db6515824be57a711e2cfa1256a8a13de194": [
       {
         "definition": "What a person has actually done, as distinct from what the person could have done.",
@@ -117506,6 +119168,22 @@
           "knw.kids.stories.mouse"
         ],
         "term": "Roar"
+      }
+    ],
+    "search-c2bd8c39d3e41b34904e04fe5d638837816b6b7f19e321a4af39ab68cdee5506": [
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
       }
     ],
     "search-c2cc19ad791904553041bfc66f37f0434a250a419e4b78974cde45461018dece": [
@@ -118952,6 +120630,20 @@
           "knw.social.marriage_timing"
         ],
         "term": "cohabitation"
+      },
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-c34a3969e5b8923e1fe209caf67599299cbba6e310c276a7b80e2594a3706c6c": [
@@ -120301,6 +121993,20 @@
           "knw.mind.cyberchondria"
         ],
         "term": "Base rate"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-c55d1b05c8e96b4c9270bb1af2603151b511e2c0dcfa3d3518efd2cf94723a57": [
@@ -121318,6 +123024,20 @@
           "knw.mind.power_dynamics"
         ],
         "term": "Legitimate authority"
+      },
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
       }
     ],
     "search-c7d253870ab8de3825e3a9b5ee603e21abd0dfe62763e8e2fc1fc9f4684e8a19": [
@@ -122148,6 +123868,20 @@
           "knw.social.long_term_singleness"
         ],
         "term": "Partnered"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-c9e949c0039a95d182a61944964878ed1e11db480b8b12981ecc5b5bc34f34ff": [
@@ -124390,6 +126124,22 @@
         "term": "Estimate"
       }
     ],
+    "search-cabd786ac52d8cfc81b0f94009c01f6c84f8ced35c05cf93bc41a0af5f1270a5": [
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "dictionaryId": "lex.sa.money.mon_minor_unit",
+        "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "fieldId": "money",
+        "id": "mon_minor_unit",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Minor unit"
+      }
+    ],
     "search-cac787df74af316ac86d13d2cadd3df6135bab7b0e951ff10f1db9994d1b51db": [
       {
         "definition": "The property of a set of axioms that do not contradict one another.",
@@ -124508,6 +126258,20 @@
           "knw.social.attachment_styles"
         ],
         "term": "Secure base"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
       }
     ],
     "search-caf9f906b16a91cb0160c50abdac8bd6db9a283fa9751f9801ef991554b46a8a": [
@@ -125442,6 +127206,20 @@
           "knw.social.attachment_styles"
         ],
         "term": "Secure base"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
       }
     ],
     "search-ccaaac7c8b56412a1c396cf617a57930f8cda8da41aaf8382012ecd6380b16b2": [
@@ -127547,6 +129325,48 @@
           "knw.money.what_money_is"
         ],
         "term": "Currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-cf6a53ad2352bf509731386640fd87831bf7e91e0f221a2e10032236ca645a4a": [
@@ -127729,6 +129549,21 @@
           "knw.mind.competence_shaming"
         ],
         "term": "Devaluation"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Devaluation"
       }
     ],
     "search-cfb12585da56e4c0e3e189f24a8418f08108e5a40a84d7aafc504c704e21512c": [
@@ -127873,6 +129708,20 @@
           "knw.social.marriage_timing"
         ],
         "term": "peer timing"
+      },
+      {
+        "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+        "dictionaryId": "lex.sa.money.mon_tipping",
+        "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+        "fieldId": "money",
+        "id": "mon_tipping",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Tipping"
       }
     ],
     "search-cff7d9babc7d0eaec4cff735e8b31a04cee93d51809861397231df936bc8910c": [
@@ -128096,6 +129945,20 @@
           "knw.kids.home.toys"
         ],
         "term": "Doll"
+      },
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
       }
     ],
     "search-d06822a325b9af8114cc66b1bdb18dc7673533f9117d796bfede0ad180cccc8b": [
@@ -129617,6 +131480,20 @@
           "knw.money.what_money_is"
         ],
         "term": "Medium of exchange"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-d490624d0f219289f99842716b9218244b0abd3216de3f485d8435d465e0762e": [
@@ -135286,6 +137163,20 @@
           "knw.social.loneliness_selectivity"
         ],
         "term": "Isolation"
+      },
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-de88e6e2cd3f231373063b82aa0b60fed703367e7914b48d4b439d66d504df12": [
@@ -135693,6 +137584,48 @@
           "knw.money.what_money_is"
         ],
         "term": "Currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-df3fbd4e10c08e293fdaa57beb1b5efa628f6013a662c5c5d39f3df07d929ecd": [
@@ -136368,6 +138301,20 @@
           "knw.social.loneliness_selectivity"
         ],
         "term": "Isolation"
+      },
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-e0e53c46264d2bee46966823d05291aa5f0f176e84bda744ce047009288b3dbe": [
@@ -136536,6 +138483,22 @@
           "knw.culture.englishes"
         ],
         "term": "Rhoticity"
+      }
+    ],
+    "search-e12e42285d4a2d8c1c8d10dde21a6e0c7b6e8d6885916b42507fc993f630dce3": [
+      {
+        "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+        "dictionaryId": "lex.sa.money.mon_tipping",
+        "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+        "fieldId": "money",
+        "id": "mon_tipping",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Tipping"
       }
     ],
     "search-e130fee51479590ccff3a7753f8b2ed75711f1b510ab839fe88b789a45fefd22": [
@@ -137148,6 +139111,22 @@
           "knw.health.medicine"
         ],
         "term": "Marketing authorisation number"
+      }
+    ],
+    "search-e2b3817aedb330fc36fca4842b832e5faa4c0ff56a46c093e3123de65707b411": [
+      {
+        "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+        "dictionaryId": "lex.sa.money.mon_tipping",
+        "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+        "fieldId": "money",
+        "id": "mon_tipping",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Tipping"
       }
     ],
     "search-e2b52ffa30e47ded42715d09361283131d87e3adff72aa518ef037b751ec3202": [
@@ -138802,6 +140781,34 @@
           "knw.social.marriage_timing"
         ],
         "term": "peer timing"
+      },
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
+      },
+      {
+        "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+        "dictionaryId": "lex.sa.money.mon_tipping",
+        "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+        "fieldId": "money",
+        "id": "mon_tipping",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Tipping"
       }
     ],
     "search-e3c5950a6938aecc273b0715919a85a5fb68b6c392f77bee908ee0e89d055138": [
@@ -139039,6 +141046,22 @@
           "knw.kids.food.milk"
         ],
         "term": "Pasteurised"
+      }
+    ],
+    "search-e4432baa90819aaef51d2a7f8e148bf7e679610f3173752fabb4dcb2d0f418d3": [
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "dictionaryId": "lex.sa.money.mon_legal_tender",
+        "example": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "fieldId": "money",
+        "id": "mon_legal_tender",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Legal tender"
       }
     ],
     "search-e44768422e46b24bbe18a28271dc5fb4aefbed9cde39a4983a222bd47f1fced0": [
@@ -139336,6 +141359,20 @@
           "knw.social.dating_market"
         ],
         "term": "market thickness"
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "dictionaryId": "lex.sa.money.mon_parallel_market",
+        "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "fieldId": "money",
+        "id": "mon_parallel_market",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Parallel market"
       }
     ],
     "search-e4e6b0e4112c3c36f025d01e78614593c9a08a34fcc3b4bee794b8e4a40a79c8": [
@@ -139428,6 +141465,22 @@
           "knw.social.loneliness_selectivity"
         ],
         "term": "Aversion"
+      }
+    ],
+    "search-e5439bc3193d9ff48402b0d887c621b3c56cb29112e99e4cb38f0dd6f6fff5c5": [
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "dictionaryId": "lex.sa.money.mon_remittance",
+        "example": "He sends a remittance every month, and the rent is paid from it.",
+        "fieldId": "money",
+        "id": "mon_remittance",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Remittance"
       }
     ],
     "search-e55cffc81a5ad8cfe85239d944a3ae9513645a9eed79bc884f51b80b2760fc46": [
@@ -140187,6 +142240,48 @@
           "knw.work.interview"
         ],
         "term": "CV (curriculum vitae)"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-e67f5e727e13dc767639413e4ce0636cea65dd4df19a656cf574bbd6737540da": [
@@ -140953,6 +143048,22 @@
         "term": "Security screening"
       }
     ],
+    "search-e872e7bd2ae6abcf13a4c834029a342c882c1162ebf77b6720968b2000312ffb": [
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
+      }
+    ],
     "search-e88b7f5b5d68912f4353b4b026343962742f1345c689ac2483ad3efe7d3419d5": [
       {
         "definition": "To say your name to somebody for the first time. It only means saying your name.",
@@ -141246,6 +143357,21 @@
           "knw.mind.competence_shaming"
         ],
         "term": "Devaluation"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Devaluation"
       }
     ],
     "search-e936466dd6726acba8db93b37c22bbd542b05917b25baffd9f51baea0f2cccba": [
@@ -141308,6 +143434,22 @@
           "knw.mind.price_of_ai"
         ],
         "term": "Cognitive autonomy"
+      }
+    ],
+    "search-e9518f7534226b74fda0821bc80f70be85d189d7621da6fb702eeb8f44706ffc": [
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
       }
     ],
     "search-e954fbfdc4e2eedc7a9a6adc7f019206eed251d175cd161047401ca149bb4cae": [
@@ -144250,6 +146392,20 @@
           "knw.social.emotional_regulation_relationships"
         ],
         "term": "expectation mismatch"
+      },
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "dictionaryId": "lex.sa.money.mon_minor_unit",
+        "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "fieldId": "money",
+        "id": "mon_minor_unit",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Minor unit"
       }
     ],
     "search-eeea394806ada305689990512ef29deefdf74205bcb3eb77013f4ba19fe220b3": [
@@ -144404,6 +146560,21 @@
           "knw.mind.competence_shaming"
         ],
         "term": "Devaluation"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Devaluation"
       }
     ],
     "search-ef337e157cd1867499743e33bed2ef788a61f8bde49fa932681e77332173c6a6": [
@@ -144549,6 +146720,22 @@
           "knw.mind.manufactured_consent"
         ],
         "term": "Opinion shaping"
+      }
+    ],
+    "search-ef3ff703d7565ab5215cdbe043858f2b8a0415b2b35dd17a3da1354f86009b98": [
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-ef527af5f7ce9b3df9a3c59155ac310903cf177948e67f27a6c798dd13608914": [
@@ -144887,6 +147074,48 @@
           "knw.money.what_money_is"
         ],
         "term": "Currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
+        "dictionaryId": "lex.sa.money.mon_base_currency",
+        "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
+        "fieldId": "money",
+        "id": "mon_base_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Base currency"
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "dictionaryId": "lex.sa.money.mon_quote_currency",
+        "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "fieldId": "money",
+        "id": "mon_quote_currency",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Quote currency"
+      },
+      {
+        "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+        "dictionaryId": "lex.sa.money.mon_currency_union",
+        "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+        "fieldId": "money",
+        "id": "mon_currency_union",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Currency union"
       }
     ],
     "search-efd8a879e4ba3a9c2ff3415c5d13ae646ac06162eb03c839b6e797ac86bb5884": [
@@ -146093,6 +148322,21 @@
         ],
         "packs": [
           "knw.mind.competence_shaming"
+        ],
+        "term": "Devaluation"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
         ],
         "term": "Devaluation"
       }
@@ -148926,6 +151170,20 @@
           "knw.money.what_money_is"
         ],
         "term": "Medium of exchange"
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "dictionaryId": "lex.sa.money.mon_exchange_rate",
+        "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "fieldId": "money",
+        "id": "mon_exchange_rate",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Exchange rate"
       }
     ],
     "search-f85ddd4d3c47112a50ec5d092faaac7854747e0b93df41baf32c5a3b7f8f6aa0": [
@@ -149452,6 +151710,22 @@
         "term": "Predator and prey"
       }
     ],
+    "search-f9d02eb113b99483c01598996b187f893703fe4ba67b777d983df7f1d39c78fc": [
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "dictionaryId": "lex.sa.money.mon_denomination",
+        "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "fieldId": "money",
+        "id": "mon_denomination",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Denomination"
+      }
+    ],
     "search-f9d459a29964ac7d0df0bb0944ac2094b4eda54ac51305b0acb48b8e99718540": [
       {
         "definition": "Raising your own standing by showing that another person cannot do the work.",
@@ -149774,6 +152048,20 @@
           "knw.social.loneliness_selectivity"
         ],
         "term": "Isolation"
+      },
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "dictionaryId": "lex.sa.money.mon_iso_code",
+        "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "fieldId": "money",
+        "id": "mon_iso_code",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "ISO 4217 code"
       }
     ],
     "search-fa528d3adef61d199a8348ffb48ef0143603ea2e0ad007121c39edc6e3aeb567": [
@@ -150582,6 +152870,20 @@
           "knw.mind.info_overload"
         ],
         "term": "Attention economy"
+      },
+      {
+        "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+        "dictionaryId": "lex.sa.money.mon_cash_economy",
+        "example": "In a cash economy, a market stall may not have a machine at all.",
+        "fieldId": "money",
+        "id": "mon_cash_economy",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Cash economy"
       }
     ],
     "search-fbccb748219d59c882cccf63248a0532a6f386866656ada0c51048d2b275ecae": [
@@ -151795,6 +154097,22 @@
         "term": "Real income"
       }
     ],
+    "search-ff02b4d33362a96c9c51b3379f7f62bec8ecad8fe4a1a859ae5180c2ac6bd8ba": [
+      {
+        "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+        "dictionaryId": "lex.sa.money.mon_dollarization",
+        "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+        "fieldId": "money",
+        "id": "mon_dollarization",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
+        ],
+        "term": "Dollarization"
+      }
+    ],
     "search-ff3ca99b40da3e5404233b68313d8d21205d12f1f623c271bc25012110f70486": [
       {
         "definition": "The wearing down of the opponent by continued cost, rather than by one decisive stroke.",
@@ -152083,6 +154401,21 @@
         ],
         "packs": [
           "knw.mind.competence_shaming"
+        ],
+        "term": "Devaluation"
+      },
+      {
+        "conflict": true,
+        "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+        "dictionaryId": "lex.sa.mind.cs_devaluation",
+        "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+        "fieldId": "money",
+        "id": "mon_devaluation",
+        "lessonIds": [
+          "article_world_currencies"
+        ],
+        "packs": [
+          "knw.money.currencies"
         ],
         "term": "Devaluation"
       }

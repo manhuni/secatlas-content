@@ -55,6 +55,20 @@
         "knw.kids.stories.truth"
       ],
       "term": "A lie"
+    },
+    "mon_iso_code": {
+      "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+      "dictionaryId": "lex.sa.money.mon_iso_code",
+      "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
+      "fieldId": "money",
+      "id": "mon_iso_code",
+      "lessonIds": [
+        "article_world_currencies"
+      ],
+      "packs": [
+        "knw.money.currencies"
+      ],
+      "term": "ISO 4217 code"
     }
   },
   "release": "{{release}}",

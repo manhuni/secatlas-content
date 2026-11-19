@@ -240,6 +240,45 @@
         "revision": 1
       }
     ],
+    "e17288df212e6f2d40e2ba4f125252409dfccb7ee88d7c85f104086dd4177168": [
+      {
+        "forms": [
+          "Tipping",
+          "mon_tipping"
+        ],
+        "id": "lex.sa.money.mon_tipping",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Tipping",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_tipping.alt"
+        ]
+      },
+      {
+        "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+        "exampleIds": [
+          "exm.sa.money.mon_tipping.1.1"
+        ],
+        "gloss": "The habit of adding a small sum on top of a bill for the person who served you.",
+        "id": "sns.sa.money.mon_tipping.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_tipping",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_tipping.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "e17abe0e23f5e2330ad6288c98264d66ca10e314be93c6d0a1ddd481ba2a7117": [
       {
         "forms": [

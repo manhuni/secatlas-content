@@ -1100,6 +1100,45 @@
         "translationLanguage": "vi"
       }
     ],
+    "a8f0ee258326badd7375534025c3c1dbf5eabc52d41dd71db2c66a00294ee2d8": [
+      {
+        "forms": [
+          "Remittance",
+          "mon_remittance"
+        ],
+        "id": "lex.sa.money.mon_remittance",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Remittance",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_remittance.alt"
+        ]
+      },
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "exampleIds": [
+          "exm.sa.money.mon_remittance.1.1"
+        ],
+        "gloss": "The money a person working abroad sends to the family at home.",
+        "id": "sns.sa.money.mon_remittance.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_remittance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_remittance.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He sends a remittance every month, and the rent is paid from it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "a8f9b083bb67e1d94f586b59296004debb997e79367a4d182d31487f157c543d": [
       {
         "forms": [

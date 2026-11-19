@@ -531,6 +531,45 @@
         "translationLanguage": "vi"
       }
     ],
+    "ae4ee100c3244b6a3048e368c2589215f6c43ea0fc3fd41bf0ec12df3f86f369": [
+      {
+        "forms": [
+          "Minor unit",
+          "mon_minor_unit"
+        ],
+        "id": "lex.sa.money.mon_minor_unit",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Minor unit",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_minor_unit.alt"
+        ]
+      },
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "exampleIds": [
+          "exm.sa.money.mon_minor_unit.1.1"
+        ],
+        "gloss": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "id": "sns.sa.money.mon_minor_unit.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_minor_unit",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_minor_unit.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The price is 12.50 dollars, but the money is made of dollars and cents.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "ae5429770f8a62929da5a68cfef355ec4e4a73628441afa187816d90512ca6a0": [
       {
         "forms": [
@@ -881,6 +920,45 @@
         "revision": 1,
         "sourceLanguage": "en",
         "text": "The report describes tactics when it explains how the advance was carried out.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "ae5a5d47f3e9f85c6c4d3e8926c8eb20706a63c4605fd6695ad5f82b195fed94": [
+      {
+        "forms": [
+          "ISO 4217 code",
+          "mon_iso_code"
+        ],
+        "id": "lex.sa.money.mon_iso_code",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "ISO 4217 code",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_iso_code.alt"
+        ]
+      },
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "exampleIds": [
+          "exm.sa.money.mon_iso_code.1.1"
+        ],
+        "gloss": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "id": "sns.sa.money.mon_iso_code.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_iso_code",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_iso_code.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Write USD on the invoice, not the word dollar, so the system reads it.",
         "translation": "",
         "translationLanguage": "vi"
       }

@@ -1,10 +1,14 @@
 {
   "dependencies": [
+    "0a0d2cbd16068b7413b2738b0ea13305ba8e8401ddb6258d5719a68e44fe21f5",
     "278ccc53cacd8cddb68cb9de19564713c60c966542c8bb94f3584bf3b33fe070",
     "649c87136aeab85b91f5242a22a5380671dad4d11e22eea543fc616525c74afd",
     "6bd9e4d350f359e70985eb6a3e6c6355ba5864c6fa2b930a75d28b92acb850fd",
     "6dfce79c43e492d36262168c0763f8b56be80b5338716501fbb2332a1602af07",
     "83daa0f1346e14780964fb79ffb0c94c6a6e2e051435216ae1a3846e276169bd",
+    "c1d7fefbdcd04eb07bd5fe4e7b71a09004cc040c0555c01281a8bce16a6bd5a2",
+    "c825a451293cdadfdcda8a8a29ffb30d72e0221277fa94505a2495f2433ef56c",
+    "d2c260b0cd04a824e4760b5e8926aa8da9c639f784a9e0575517985b31f2b1cd",
     "fbf7fdbf6725fb352d10c3ec680c6cd2e4b7f2094c4b197ca65483ff55c65d5e"
   ],
   "item": {
@@ -75,67 +79,52 @@
           "The capital letters are not decoration either: A is the ampere and a is not."
         ],
         "heading": "The seven base units and the signs that stand for them",
-        "questions": {
-          "how": "How is it written?",
-          "what": "What is it?",
-          "when": "When is it used?",
-          "where": "Where do you see it?",
-          "who": "Who reads it?",
-          "why": "Why does it exist?"
-        },
         "symbols": [
           {
-            "how": "A number, a space, then m. Never a full stop, never ms — that is a millisecond.",
+            "description": "The letter m is the symbol of the metre, the base unit of length in the SI. Length is the quantity every other mechanical quantity is measured against, so it is the first unit an engineer learns. You meet it on a ruler, on the edge of a drawing, on the first line of a data sheet — whenever a distance is written: the height of a bolt, the width of a panel, the distance between two stars. Every engineer who measures anything at all reads it. It is written as a number, a space, then m: never a full stop, and never ms, because ms means millisecond.",
             "image": "asset://278ccc53cacd8cddb68cb9de19564713c60c966542c8bb94f3584bf3b33fe070",
             "label": "m",
             "meaning": "metre — the base unit of length",
-            "unicode": "m",
-            "what": "m is the symbol of the metre, the base unit of length in the SI.",
-            "when": "Whenever a distance is written: the height of a bolt, the width of a panel, the distance between two stars.",
-            "where": "On a ruler, on the edge of a drawing, on the first line of a data sheet.",
-            "who": "Every engineer who measures anything at all.",
-            "why": "Length is the quantity every other mechanical quantity is measured against, so it is the first unit an engineer learns."
+            "unicode": "m"
           },
           {
-            "how": "A number, a space, then kg. The prefix kilo belongs to the unit, so the kilogram is written k and g together.",
+            "description": "The letters kg are the symbol of the kilogram, the base unit of mass in the SI. Mass is what stays the same wherever you take it; weight changes with gravity, mass does not. You meet it on a load rating, on a bill of materials, on the counter of a workshop — whenever something is weighed: a component, a payload, a person. The people who design the part and the people who load it are the ones who read it. It is written as a number, a space, then kg: the prefix kilo belongs to the unit, so the kilogram is written k and g together.",
             "image": "asset://fbf7fdbf6725fb352d10c3ec680c6cd2e4b7f2094c4b197ca65483ff55c65d5e",
             "label": "kg",
             "meaning": "kilogram — the base unit of mass",
-            "unicode": "kg",
-            "what": "kg is the symbol of the kilogram, the base unit of mass in the SI.",
-            "when": "Whenever something is weighed: a component, a payload, a person.",
-            "where": "On a load rating, on a bill of materials, on the counter of a workshop.",
-            "who": "The people who design the part and the people who load it.",
-            "why": "Mass is what stays the same wherever you take it; weight changes with gravity, mass does not."
+            "unicode": "kg"
           },
           {
-            "how": "A number, a space, then s. Watch out: 5 s is five seconds and 5 S would be wrong, but 5 ms is five milliseconds.",
+            "description": "The letter s is the symbol of the second, the base unit of time in the SI. Time is the dimension that turns every other measurement into a rate. You meet it on a timing diagram, on the cycle time of a data sheet, on the second hand of a clock — whenever a duration is written: a cycle time, a dwell time, a reaction time. Anyone who measures how long something takes reads it. It is written as a number, a space, then s: watch out, 5 s is five seconds and 5 S would be wrong, but 5 ms is five milliseconds.",
             "image": "asset://83daa0f1346e14780964fb79ffb0c94c6a6e2e051435216ae1a3846e276169bd",
             "label": "s",
             "meaning": "second — the base unit of time",
-            "unicode": "s",
-            "what": "s is the symbol of the second, the base unit of time in the SI.",
-            "when": "Whenever a duration is written: a cycle time, a dwell time, a reaction time.",
-            "where": "On a timing diagram, on a data sheet cycle time, on the second hand of a clock.",
-            "who": "Anyone who measures how long something takes.",
-            "why": "Time is the dimension that turns every other measurement into a rate."
+            "unicode": "s"
           },
           {
+            "description": "The letter A is the symbol of the ampere, the base unit of electric current in the SI. Current is the flow of charge: how much charge passes a point of a circuit in one second, and every other electrical quantity is built on it. You meet it on the nameplate of a motor, on the rating of a fuse, on the first line of a power budget — whenever a current is written: the running current of a board, the start-up current of a pump, the current a sensor draws at rest. The people who size a cable and the people who size a supply are the ones who read it. It is written as a number, a space, then A: watch out, mA is a thousandth of an ampere and the ampere-hour (Ah) is a unit of charge, not of current.",
+            "image": "asset://c1d7fefbdcd04eb07bd5fe4e7b71a09004cc040c0555c01281a8bce16a6bd5a2",
             "label": "A",
             "meaning": "ampere — the base unit of electric current",
             "unicode": "A"
           },
           {
+            "description": "The letter K is the symbol of the kelvin, the base unit of thermodynamic temperature in the SI. Temperature is not the number a thermometer shows: a thermometer shows a point on an everyday scale, and the kelvin measures the energy of the particles themselves, so it never falls below zero. You meet it on the operating range of a part, on the control loop of a process, on the curve of a data sheet — whenever a temperature is written: a junction temperature, a storage temperature, the setpoint of a furnace. The people who design the part and the people who run the process are the ones who read it. It is written as a number, a space, then K: never a degree sign, because the degree sign belongs to the everyday scales, and watch out, the K of the kelvin is a capital K while the k of the kilo prefix is a small one.",
+            "image": "asset://0a0d2cbd16068b7413b2738b0ea13305ba8e8401ddb6258d5719a68e44fe21f5",
             "label": "K",
             "meaning": "kelvin — the base unit of temperature",
             "unicode": "K"
           },
           {
+            "description": "The letters mol are the symbol of the mole, the base unit of amount of substance in the SI. A mole is a number of particles: the amount that holds as many particles as twelve grams of carbon-12, and it is the bridge between the mass of a thing and the number of things in it. You meet it on the certificate of a reagent, on the formula of a reaction, on the dosing sheet of a plant — whenever an amount is written: a concentration, a titration, the size of a batch. The chemist who mixes it and the engineer who scales it up are the ones who read it. It is written as a number, a space, then mol: never a full stop, and never a capital M, because M is the molar concentration and the two are not the same thing.",
+            "image": "asset://d2c260b0cd04a824e4760b5e8926aa8da9c639f784a9e0575517985b31f2b1cd",
             "label": "mol",
             "meaning": "mole — the base unit of amount of substance",
             "unicode": "mol"
           },
           {
+            "description": "The letters cd are the symbol of the candela, the base unit of luminous intensity in the SI: the light a source gives in one direction, judged by the eye of a person and not by an instrument alone. You meet it on the data sheet of an LED, on the specification of a luminaire, on the drawing of an optical bench — whenever a source of light is written: the backlight of a display, a signal lamp, a street light. The people who choose the lamp and the people who design the housing are the ones who read it. It is written as a number, a space, then cd: never a full stop, and watch out, cd/m² is a different thing — that is the luminance of a surface, and it is a derived unit.",
+            "image": "asset://c825a451293cdadfdcda8a8a29ffb30d72e0221277fa94505a2495f2433ef56c",
             "label": "cd",
             "meaning": "candela — the base unit of luminous intensity",
             "unicode": "cd"

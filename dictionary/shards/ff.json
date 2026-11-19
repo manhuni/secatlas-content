@@ -1161,6 +1161,43 @@
         "text": "The devaluation was quiet: every meeting began with a small doubt about her work.",
         "translation": "",
         "translationLanguage": "vi"
+      },
+      {
+        "forms": [
+          "Devaluation",
+          "mon_devaluation"
+        ],
+        "id": "lex.sa.money.mon_devaluation",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Devaluation",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_devaluation.alt"
+        ]
+      },
+      {
+        "definition": "A decision by a state to lower the value of its own currency against other currencies.",
+        "exampleIds": [
+          "exm.sa.money.mon_devaluation.1.1"
+        ],
+        "gloss": "A decision by a state to lower the value of its own currency against other currencies.",
+        "id": "sns.sa.money.mon_devaluation.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_devaluation",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_devaluation.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "After the devaluation, the price of imported parts rose for everybody.",
+        "translation": "",
+        "translationLanguage": "vi"
       }
     ]
   },

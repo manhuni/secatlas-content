@@ -37,7 +37,44 @@
         "Bir simge asla çoğul biçim almaz: 5 m, metreler için asla 5 ms değil.",
         "Büyük harfler de bir süs değildir: A ampere'dir, a değildir."
       ],
-      "heading": "Yedi temel birim ve onları gösteren işaretler"
+      "heading": "Yedi temel birim ve onları gösteren işaretler",
+      "symbols": [
+        {
+          "description": "Harf m, SI'daki uzunluğun temel birimi olan metrenin simgesidir. Uzunluk, diğer tüm mekanik büyüklüklerin ölçüldüğü referans büyüklüktür; bu nedenle bir mühendisin öğrendiği ilk birimdir. Cetvelde, teknik çizimin kenarında, veri sayfasının ilk satırında karşınıza çıkar: bir mesafe yazıldığında her seferinde — bir cıvatanın yüksekliği, bir panelin genişliği, iki yıldız arasındaki uzaklık. Ölçü yapan her mühendis bunu okur. Bir sayı, bir boşluk ve ardından m olarak yazılır: asla nokta gelmez ve asla ms kullanılmaz; çünkü ms milisaniye anlamına gelir.",
+          "label": "m",
+          "meaning": "metre — uzunluğun temel birimi"
+        },
+        {
+          "description": "kg harfleri, SI sisteminde kütle için temel birim olan kilogramın simgesidir. Kütle, nerede taşırsanız taşıyın aynı kalan şeydir; ağırlık yerçekimine göre değişir, kütle değişmez. Bunu bir taşıma kapasitesi etiketinde, malzeme listesinde, atölyenin tezgâhında görürsünüz — bir bileşen, yük veya kişi tartıldığında. Parçayı tasarlayanlar ve onu yükleyenler bu bilgiyi okur. Bir sayı, ardından bir boşluk ve kg şeklinde yazılır: kilo ön eki birime aittir; bu nedenle kilogram, k ve g birlikte yazılır.",
+          "label": "kg",
+          "meaning": "kilogram — kütle temel birimi"
+        },
+        {
+          "description": "“s” harfi, SI sistemindeki temel zaman birimi olan saniyenin simgesidir. Zaman, diğer tüm ölçümleri bir hıza dönüştüren boyuttur. Onu bir zamanlama şemasında, bir veri sayfasındaki çevrim süresinde, bir saatin saniye ibresinde görürsünüz — bir süre her yazıldığında: bir çevrim süresi, bir bekleme süresi, bir reaksiyon süresi. Bir şeyin ne kadar sürdüğünü ölçen herkes onu okur. Bir sayı, bir boşluk ve ardından “s” şeklinde yazılır. Dikkat edin: 5 s beş saniyedir, ama 5 S yanlış olur. 5 ms ise beş milisaniyedir.",
+          "label": "s",
+          "meaning": "saniye — zamanın temel birimi"
+        },
+        {
+          "description": "Harf A, SI’daki elektrik akımının temel birimi olan amperin sembolüdür. Elektrik akımı, yükün akışıdır: bir saniyede devrenin belirli bir noktasından ne kadar yük geçtiğini ifade eder; diğer tüm elektrik büyüklükleri bunun üzerine kurulur. Bir motorun levhasında, bir sigortanın anma değerinde, bir güç bütçesinin ilk satırında karşınıza çıkar: bir kartın çalışma akımı, bir pompanın başlangıç akımı, bir sensörün dinlenme hâlinde çektiği akım gibi. Kablo boyutlandıranlar ve güç kaynağını boyutlandıranlar bu değeri okur. Değer, sayı, ardından boşluk ve A şeklinde yazılır: dikkat, mA amperin binde biridir; amper-saat (Ah) ise akımın değil, yükün birimidir.",
+          "label": "A",
+          "meaning": "amper — elektrik akımının temel birimi"
+        },
+        {
+          "description": "K harfi, SI sistemindeki termodinamik sıcaklığın temel birimi olan kelvinin simgesidir. Sıcaklık, termometrenin gösterdiği sayı değildir: termometre günlük kullanımdaki bir ölçeğin üzerinde bir nokta gösterir; kelvin ise parçacıkların kendi enerjisini ölçer, bu nedenle hiçbir zaman sıfırın altına düşmez. Bir parçanın çalışma aralığında, bir sürecin kontrol döngüsünde, bir veri sayfası eğrisinde karşınıza çıkar — bir sıcaklık her yazıldığında: bir bağlantı sıcaklığı, bir depolama sıcaklığı, bir fırının ayar noktası. Bu değeri, parçayı tasarlayanlar ve süreci yürütenler okur. Bir sayı, ardından bir boşluk ve sonra K şeklinde yazılır: asla derece işaretiyle birlikte kullanılmaz, çünkü derece işareti günlük kullanımdaki ölçeklere aittir; ayrıca dikkat edin, kelvinin K’si büyük K, kilo ön ekinin k’si ise küçük k harfidir.",
+          "label": "K",
+          "meaning": "kelvin — sıcaklığın temel birimi"
+        },
+        {
+          "description": "“mol” harfleri, SI sisteminde madde miktarının temel birimi olan molün simgesidir. Bir mol, bir sayıda parçacıktır: on iki gram karbon-12’de bulunan parçacık sayısı kadar parçacık içeren miktar ve bir maddenin kütlesi ile içinde bulunan nesne sayısı arasındaki köprüdür. Bunu bir reaktifin etiketinde, bir reaksiyon denkleminde, bir tesisin dozaj formunda görürsünüz — bir miktar yazıldığında: bir konsantrasyon, bir titrasyon, bir partinin büyüklüğü. Onu karıştıran kimyager ve ölçeklendiren mühendis okur. Bir sayı, bir boşluk, ardından **mol** olarak yazılır: asla nokta ile değil ve asla büyük **M** ile değil, çünkü **M**, molar konsantrasyonu belirtir ve bu ikisi aynı şey değildir.",
+          "label": "mol",
+          "meaning": "mol — madde miktarının temel birimi"
+        },
+        {
+          "description": "“cd” harfleri SI sisteminde ışık şiddetinin temel birimi olan kandelanın simgesidir: Bir ışık kaynağının tek bir yönde, yalnızca aletle değil, bir kişinin gözüyle değerlendirildiğinde verdiği ışık. Bunu bir LED’nin veri sayfasında, bir aydınlatma armatürünün teknik özelliklerinde, optik bir masanın çiziminde görürsünüz — bir ışık kaynağı her yazıldığında: bir ekranın arka plan aydınlatmasında, bir sinyal lambasında, bir sokak lambasında. Lambayı seçen kişiler ile muhafazayı tasarlayan kişiler bunu okuyanlardır. Simge bir sayı, ardından bir boşluk ve sonra “cd” şeklinde yazılır: asla nokta konulmaz, ayrıca “cd/m²”nin farklı bir şey olduğuna dikkat edin — bu, bir yüzeyin parlaklığıdır ve türetilmiş bir birimdir.",
+          "label": "cd",
+          "meaning": "kandela — ışık şiddetinin temel birimi"
+        }
+      ]
     },
     {
       "body": "Bir önek, neyi ölçtüğünüzü değiştirmez; sayının ne kadar büyük olduğunu değiştirir. Kilo bin, milli binde bir anlamına gelir. Önek, birimden önce sembol olarak aralarında boşluk bırakılmadan yazılır: 12.5 km, 3.2 mm. Her önek onun bir kuvvetidir ve her onun kuvveti aynı zamanda üçün bir kuvvetidir: 1 kilometre 1000 metredir; bin, onun on kez on kez çarpımıdır. Sistemin tamamındaki tek tuzağa dikkat edin: milli ile metre aynı harfle başlar; bu nedenle 25 mA yirmibeş miliamper, 25 m ise yirmibeş metredir. Birim, hangisini gördüğünüzü söyler.",

@@ -177,6 +177,45 @@
         "translationLanguage": "vi"
       }
     ],
+    "c848126abd86862216f4a691cb43aaa28ff53fc15a0bd20467e024648f8b389b": [
+      {
+        "forms": [
+          "ISO 4217 code",
+          "mon_iso_code"
+        ],
+        "id": "lex.sa.money.mon_iso_code",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "ISO 4217 code",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_iso_code.alt"
+        ]
+      },
+      {
+        "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "exampleIds": [
+          "exm.sa.money.mon_iso_code.1.1"
+        ],
+        "gloss": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
+        "id": "sns.sa.money.mon_iso_code.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_iso_code",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_iso_code.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Write USD on the invoice, not the word dollar, so the system reads it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "c86429c35b9c0c785d8fd46f3423a9817c112d06745e6348e9d997f7ec8d18bf": [
       {
         "forms": [

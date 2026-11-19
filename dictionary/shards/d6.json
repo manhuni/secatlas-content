@@ -1,5 +1,44 @@
 {
   "records": {
+    "d635894db531bf11df2ebbfd4101b5b37700e519636fa74a64aff0601f2e21d4": [
+      {
+        "forms": [
+          "Denomination",
+          "mon_denomination"
+        ],
+        "id": "lex.sa.money.mon_denomination",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Denomination",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_denomination.alt"
+        ]
+      },
+      {
+        "definition": "The value printed on a note or a coin, such as 20 or 500.",
+        "exampleIds": [
+          "exm.sa.money.mon_denomination.1.1"
+        ],
+        "gloss": "The value printed on a note or a coin, such as 20 or 500.",
+        "id": "sns.sa.money.mon_denomination.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_denomination",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_denomination.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The shop keeps one drawer for the smallest denomination and one for the notes.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "d641c803734e2856e2168a7f238fcd0109ef2ad7f29a5c5ee0a2bfdb2a28d218": [
       {
         "forms": [

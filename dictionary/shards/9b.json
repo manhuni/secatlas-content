@@ -202,6 +202,45 @@
         "revision": 1
       }
     ],
+    "9bd221c09e09682a541e6a9f03aa4ecd61d12cdb6c85a258dcfd0d60152cba6d": [
+      {
+        "forms": [
+          "Legal tender",
+          "mon_legal_tender"
+        ],
+        "id": "lex.sa.money.mon_legal_tender",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Legal tender",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_legal_tender.alt"
+        ]
+      },
+      {
+        "definition": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "exampleIds": [
+          "exm.sa.money.mon_legal_tender.1.1"
+        ],
+        "gloss": "The money the law accepts as the final payment of a debt, so that no one can refuse it as the wrong money.",
+        "id": "sns.sa.money.mon_legal_tender.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_legal_tender",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_legal_tender.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The landlord must take legal tender for the rent, even when he prefers a transfer.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "9bef6754a810d4eb6c73e5b4ca466296a45c7fe585eecae3f4567eca3269ea3e": [
       {
         "forms": [
@@ -376,6 +415,45 @@
         "sourceLanguage": "en",
         "text": "Inside the pupa, the caterpillar becomes a butterfly.",
         "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "9bf3965155211612c90f3ff78ae20a34d7baff41927bb33c08a0bc7f6857266c": [
+      {
+        "forms": [
+          "Sunk cost",
+          "mia_sunk_cost"
+        ],
+        "id": "lex.sa.mind.mia_sunk_cost",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Sunk cost",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.mind.mia_sunk_cost.alt"
+        ]
+      },
+      {
+        "definition": "Money, time or effort that has already been spent, used as the reason to spend more.",
+        "exampleIds": [
+          "exm.sa.mind.mia_sunk_cost.1.1"
+        ],
+        "gloss": "Money, time or effort that has already been spent, used as the reason to spend more.",
+        "id": "sns.sa.mind.mia_sunk_cost.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.mind.mia_sunk_cost",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.mind.mia_sunk_cost.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "We have paid for the training, so we might as well finish is an argument from sunk cost.",
+        "translation": "Chúng ta đã trả tiền cho khóa đào tạo, nên cũng nên hoàn thành nó — đó là một lập luận về chi phí đã chìm.",
         "translationLanguage": "vi"
       }
     ]

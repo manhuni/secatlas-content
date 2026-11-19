@@ -38,6 +38,45 @@
         "revision": 1
       }
     ],
+    "ab1fe911aac4da9a11e684063c3154e7c2dc4d7518daca8d1630ce23d0e02f6e": [
+      {
+        "forms": [
+          "Parallel market",
+          "mon_parallel_market"
+        ],
+        "id": "lex.sa.money.mon_parallel_market",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Parallel market",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_parallel_market.alt"
+        ]
+      },
+      {
+        "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "exampleIds": [
+          "exm.sa.money.mon_parallel_market.1.1"
+        ],
+        "gloss": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+        "id": "sns.sa.money.mon_parallel_market.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_parallel_market",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_parallel_market.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "ab2b76f8a704602f1222e0a069d41e9eeb3861f8093b970cd9cfce8b3de04d86": [
       {
         "forms": [

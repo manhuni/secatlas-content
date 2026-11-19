@@ -1,5 +1,44 @@
 {
   "records": {
+    "e5439bc3193d9ff48402b0d887c621b3c56cb29112e99e4cb38f0dd6f6fff5c5": [
+      {
+        "forms": [
+          "Remittance",
+          "mon_remittance"
+        ],
+        "id": "lex.sa.money.mon_remittance",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Remittance",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_remittance.alt"
+        ]
+      },
+      {
+        "definition": "The money a person working abroad sends to the family at home.",
+        "exampleIds": [
+          "exm.sa.money.mon_remittance.1.1"
+        ],
+        "gloss": "The money a person working abroad sends to the family at home.",
+        "id": "sns.sa.money.mon_remittance.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_remittance",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_remittance.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "He sends a remittance every month, and the rent is paid from it.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "e564b4081d7a9ea4b00dada53bdae70c99b87b6fce869f0c3dd4d2bfa1e53e1c": [
       {
         "forms": [
@@ -819,6 +858,45 @@
         "revision": 1,
         "sourceLanguage": "en",
         "text": "The package included three months of salary as severance.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
+    "e5c95ce553962409041e188001bea4783a5f098c6612e854fd825f41534011aa": [
+      {
+        "forms": [
+          "Minor unit",
+          "mon_minor_unit"
+        ],
+        "id": "lex.sa.money.mon_minor_unit",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Minor unit",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_minor_unit.alt"
+        ]
+      },
+      {
+        "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "exampleIds": [
+          "exm.sa.money.mon_minor_unit.1.1"
+        ],
+        "gloss": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
+        "id": "sns.sa.money.mon_minor_unit.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_minor_unit",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_minor_unit.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The price is 12.50 dollars, but the money is made of dollars and cents.",
         "translation": "",
         "translationLanguage": "vi"
       }

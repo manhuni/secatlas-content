@@ -443,6 +443,45 @@
         "translationLanguage": "vi"
       }
     ],
+    "586874c305f2578647dd0c60c72266b9726af2c3341c2107f02f57680aa23336": [
+      {
+        "forms": [
+          "Quote currency",
+          "mon_quote_currency"
+        ],
+        "id": "lex.sa.money.mon_quote_currency",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Quote currency",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_quote_currency.alt"
+        ]
+      },
+      {
+        "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "exampleIds": [
+          "exm.sa.money.mon_quote_currency.1.1"
+        ],
+        "gloss": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
+        "id": "sns.sa.money.mon_quote_currency.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_quote_currency",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_quote_currency.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
+    ],
     "5892e7ad8c5f1a92261c5ad12809ea1081279ce63759d352de0135e1c363312e": [
       {
         "forms": [

@@ -298,6 +298,45 @@
         "pos": "noun",
         "revision": 1
       }
+    ],
+    "89cd182294ae60faa683874ea4731977a022f742284c466fa1cf1b87074d609a": [
+      {
+        "forms": [
+          "Exchange rate",
+          "mon_exchange_rate"
+        ],
+        "id": "lex.sa.money.mon_exchange_rate",
+        "kind": "lexeme",
+        "language": "en",
+        "lemma": "Exchange rate",
+        "pos": "noun",
+        "revision": 1,
+        "senseIds": [
+          "sns.sa.money.mon_exchange_rate.alt"
+        ]
+      },
+      {
+        "definition": "The price of one currency expressed in the money of another currency.",
+        "exampleIds": [
+          "exm.sa.money.mon_exchange_rate.1.1"
+        ],
+        "gloss": "The price of one currency expressed in the money of another currency.",
+        "id": "sns.sa.money.mon_exchange_rate.alt",
+        "kind": "sense",
+        "language": "en",
+        "lexemeId": "lex.sa.money.mon_exchange_rate",
+        "pos": "noun",
+        "revision": 1
+      },
+      {
+        "id": "exm.sa.money.mon_exchange_rate.1.1",
+        "kind": "example",
+        "revision": 1,
+        "sourceLanguage": "en",
+        "text": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
+        "translation": "",
+        "translationLanguage": "vi"
+      }
     ]
   },
   "release": "{{release}}",
