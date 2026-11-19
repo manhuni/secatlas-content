@@ -117,53 +117,53 @@
       "table": {
         "headers": [
           "Part",
-          "What it watches",
-          "What it does when it works",
-          "Typical rating",
-          "What it does not protect against"
+          "Điều nó theo dõi",
+          "Chức năng khi hoạt động bình thường",
+          "Mức đánh giá điển hình",
+          "Những điều nó không bảo vệ chống lại"
         ],
         "rows": [
           [
-            "The protective earth wire is the green-and-yellow conductor to the earth bar in the board.",
-            "It watches the connection between the live part and the metal case.",
-            "It carries the fault current back to the board, so that the breaker opens.",
-            "No rating; it is a continuous conductor, and the local standard decides its size.",
-            "It does not protect a person who is already in contact with water, and it does nothing at all if it has been cut."
+            "Dây tiếp đất bảo vệ là dây màu xanh-vàng nối với thanh đất trong tủ điện.",
+            "Theo dõi mối liên hệ giữa phần mang điện và vỏ kim loại.",
+            "Dẫn dòng sự cố trở lại bảng điện, để bộ ngắt mạch mở ra.",
+            "Không có mức đánh giá; đây là vật dẫn liên tục và tiêu chuẩn tại địa phương quyết định kích thước của nó.",
+            "Nó không bảo vệ người đã tiếp xúc với nước và hoàn toàn không có tác dụng nếu bị cắt."
           ],
           [
-            "The residual-current device is the RCD, also called RCB or RCCB.",
-            "It watches the difference between the current that leaves and the current that returns.",
-            "It trips and cuts the power in a fraction of a second when the two currents differ.",
-            "Typically 30 mA for personal protection in most installations; the local standard decides.",
-            "It does not protect against a current that goes out and comes back the normal way, such as an overload."
+            "Cầu dao chống rò rỉ là RCD, còn được gọi là RCB hoặc RCCB.",
+            "Có nhiệm vụ theo dõi sự khác biệt giữa dòng điện đi ra và dòng điện quay lại.",
+            "Nó làm gián đoạn và cắt nguồn điện trong chưa đầy một giây khi hai dòng điện chênh lệch nhau.",
+            "Thông thường là 30 mA để bảo vệ cá nhân trong hầu hết các hệ thống điện; tiêu chuẩn địa phương sẽ quyết định.",
+            "Không bảo vệ chống lại dòng điện đi ra rồi quay lại theo cách thông thường, chẳng hạn như quá tải."
           ],
           [
-            "The circuit breaker is the device that opens the circuit on an overload.",
-            "It watches the current in the circuit against the rating of the cable.",
-            "It opens the circuit when the current is too high, so the cable cannot overheat.",
-            "A 16 A breaker is common for a socket circuit, and a water heater is often on a dedicated circuit; the local standard decides.",
-            "It does not protect a person from a small leakage current; only the RCD does that."
+            "Cầu giao là thiết bị ngắt mạch điện khi quá tải.",
+            "Nó theo dõi dòng điện trong mạch so với giá trị định mức của cáp.",
+            "Ngắt mạch điện khi dòng điện quá lớn, giúp cáp không bị quá nhiệt.",
+            "Cầu dao 16 A thường được dùng cho một đường điện cắm, còn bình nóng nước thường dùng đường điện riêng; tiêu chuẩn địa phương sẽ quyết định.",
+            "Nó không bảo vệ con người khỏi dòng rò rỉ nhỏ; chỉ RCD mới có tác dụng đó."
           ],
           [
-            "The temperature and pressure relief valve is the safety valve on the tank.",
-            "It watches the pressure and the temperature inside the tank.",
-            "It opens and releases water if the pressure rises above the safe level.",
-            "Set for the appliance; the maker states the pressure, and the local standard decides.",
-            "It does not protect against electric current at all."
+            "Van an toàn là van giải phóng nhiệt độ và áp suất của bể.",
+            "Theo dõi áp suất và nhiệt độ bên trong bể.",
+            "Nó mở ra và xả nước khi áp suất tăng vượt quá mức an toàn.",
+            "Để dành cho thiết bị; nhà sản xuất nêu mức áp suất, còn tiêu chuẩn địa phương quyết định.",
+            "Nó hoàn toàn không bảo vệ chống lại dòng điện."
           ],
           [
-            "The anode rod is the sacrificial rod inside the head of the tank.",
-            "It does not watch anything; it corrodes instead of the tank.",
-            "It gives up its metal so that the steel tank does not rust through.",
-            "A rod of magnesium or another sacrificial metal, sized for the tank; the maker decides.",
-            "It does not protect against current, and a fitted rod does not stop the tank from scaling."
+            "Quey anot là thanh hy sinh bên trong đầu bình.",
+            "Nó không theo dõi gì cả; nó ăn mòn thay cho bể chứa.",
+            "Bộ phận này hy sinh lớp kim loại để bình thép không bị ăn mủn thủng.",
+            "Một thanh magiê hoặc kim loại hy sinh khác, tùy kích thước bể; nhà sản xuất tự quyết định.",
+            "Nó không bảo vệ chống lại dòng điện, và thanh đo vừa khít không ngăn được bể chứa bị đóng cặn."
           ],
           [
-            "The thermal cut-out is the switch inside the tank that stops the heating.",
-            "It watches the temperature inside the tank.",
-            "It opens the heating circuit when the tank is too hot.",
-            "A fixed temperature set by the maker; the local standard decides.",
-            "It does not protect the metalwork from a fault to earth, and it does not make the water safe to touch."
+            "Cầu dao nhiệt là công tắc bên trong bình, dùng để ngắt nguồn nhiệt.",
+            "Nó theo dõi nhiệt độ bên trong bể.",
+            "Nó mở mạch sưởi khi bình nóng quá nóng.",
+            "Nhiệt độ cố định do nhà sản xuất quy định; tiêu chuẩn địa phương sẽ quyết định.",
+            "Nó không bảo vệ phần kim loại khỏi sự cố chạm đất, cũng không làm cho nước trở nên an toàn khi chạm tay vào."
           ]
         ]
       }

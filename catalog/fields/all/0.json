@@ -1,101 +1,12 @@
 {
   "items": [
     {
-      "icon": "auto_stories",
-      "id": "kids_stories",
-      "name": "Stories & Bedtime Tales",
-      "order": 20,
-      "summary": "Stories with a shape, a surprise and a small lesson at the end.",
-      "tagline": "Tales for small readers"
-    },
-    {
-      "icon": "payments",
-      "id": "money",
-      "name": "Money & Financial Literacy",
-      "order": 13,
-      "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
-      "tagline": "What money does, and how to keep some of it"
-    },
-    {
-      "icon": "forum",
-      "id": "social",
-      "name": "Relationships & Social Life",
-      "order": 16,
-      "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
-      "tagline": "Talking to people without making it worse"
-    },
-    {
-      "icon": "memory",
-      "id": "technology",
-      "name": "Technology & AI",
-      "order": 12,
-      "summary": "How the technology works, what it costs you, and how to keep your own head when it changes fast.",
-      "tagline": "Machines, and the life they have taken over"
-    },
-    {
-      "icon": "flight",
-      "id": "travel",
-      "name": "Travel & Exploring the World",
-      "order": 11,
-      "summary": "Airports, hotels, restaurants, border controls: what happens, what is said, and what to do when the plan breaks.",
-      "tagline": "Moving through places you do not know"
-    },
-    {
-      "icon": "work",
-      "id": "work",
-      "name": "Work & Professional Life",
-      "order": 15,
-      "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
-      "tagline": "Working with other people, in their language"
-    },
-    {
-      "icon": "science",
-      "id": "kids_science",
-      "name": "Science & Discovery",
-      "order": 25,
-      "summary": "Questions small readers ask, answered honestly: the sky, the rain, the plants, the body, the planets.",
-      "tagline": "Why the world works, for small readers"
-    },
-    {
-      "icon": "functions",
-      "id": "formal_sciences",
-      "name": "Formal Sciences",
-      "order": 1,
-      "summary": "English for reading symbols, definitions, and formal arguments.",
-      "tagline": "Notation and precise English"
-    },
-    {
-      "icon": "calculate_outlined",
-      "id": "mathematics",
-      "name": "Mathematics",
-      "order": 1,
-      "parentFieldId": "formal_sciences",
-      "summary": "How proofs, quantities, and symbols are named in English.",
-      "tagline": "Terms and notation"
-    },
-    {
-      "icon": "psychology_outlined",
-      "id": "mind",
-      "name": "Information, Mind & AI",
-      "order": 28,
-      "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
-      "tagline": "How information, attention and artificial intelligence change the way people think"
-    },
-    {
       "icon": "public",
       "id": "culture",
       "name": "Culture & Modern Society",
       "order": 17,
       "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
       "tagline": "Why people elsewhere do things differently"
-    },
-    {
-      "icon": "lightbulb",
-      "id": "daily_skills",
-      "name": "Everyday Life & Practical Skills",
-      "order": 10,
-      "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-      "tagline": "The things you do every week and the words they need"
     },
     {
       "icon": "favorite",
@@ -152,6 +63,95 @@
       "order": 23,
       "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
       "tagline": "The things around you, for small readers"
+    },
+    {
+      "icon": "science",
+      "id": "kids_science",
+      "name": "Science & Discovery",
+      "order": 25,
+      "summary": "Questions small readers ask, answered honestly: the sky, the rain, the plants, the body, the planets.",
+      "tagline": "Why the world works, for small readers"
+    },
+    {
+      "icon": "auto_stories",
+      "id": "kids_stories",
+      "name": "Stories & Bedtime Tales",
+      "order": 20,
+      "summary": "Stories with a shape, a surprise and a small lesson at the end.",
+      "tagline": "Tales for small readers"
+    },
+    {
+      "icon": "psychology_outlined",
+      "id": "mind",
+      "name": "Information, Mind & AI",
+      "order": 28,
+      "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
+      "tagline": "How information, attention and artificial intelligence change the way people think"
+    },
+    {
+      "icon": "lightbulb",
+      "id": "daily_skills",
+      "name": "Everyday Life & Practical Skills",
+      "order": 10,
+      "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+      "tagline": "The things you do every week and the words they need"
+    },
+    {
+      "icon": "functions",
+      "id": "formal_sciences",
+      "name": "Formal Sciences",
+      "order": 1,
+      "summary": "English for reading symbols, definitions, and formal arguments.",
+      "tagline": "Notation and precise English"
+    },
+    {
+      "icon": "calculate_outlined",
+      "id": "mathematics",
+      "name": "Mathematics",
+      "order": 1,
+      "parentFieldId": "formal_sciences",
+      "summary": "How proofs, quantities, and symbols are named in English.",
+      "tagline": "Terms and notation"
+    },
+    {
+      "icon": "payments",
+      "id": "money",
+      "name": "Money & Financial Literacy",
+      "order": 13,
+      "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
+      "tagline": "What money does, and how to keep some of it"
+    },
+    {
+      "icon": "forum",
+      "id": "social",
+      "name": "Relationships & Social Life",
+      "order": 16,
+      "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
+      "tagline": "Talking to people without making it worse"
+    },
+    {
+      "icon": "memory",
+      "id": "technology",
+      "name": "Technology & AI",
+      "order": 12,
+      "summary": "How the technology works, what it costs you, and how to keep your own head when it changes fast.",
+      "tagline": "Machines, and the life they have taken over"
+    },
+    {
+      "icon": "flight",
+      "id": "travel",
+      "name": "Travel & Exploring the World",
+      "order": 11,
+      "summary": "Airports, hotels, restaurants, border controls: what happens, what is said, and what to do when the plan breaks.",
+      "tagline": "Moving through places you do not know"
+    },
+    {
+      "icon": "work",
+      "id": "work",
+      "name": "Work & Professional Life",
+      "order": 15,
+      "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
+      "tagline": "Working with other people, in their language"
     },
     {
       "icon": "bolt_outlined",

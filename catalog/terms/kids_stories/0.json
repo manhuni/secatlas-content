@@ -1,49 +1,18 @@
 {
   "items": [
     {
-      "definition": "Not able to find the way home. If you are lost, you are not in trouble. You just need help.",
-      "dictionaryId": "lex.sa.kids_stories.lost",
-      "example": "Pip was lost, but he was not frightened of the dark.",
+      "definition": "The sweet golden food that bees make from flowers.",
+      "dictionaryId": "lex.sa.kids_stories.honey",
+      "example": "The bees made twelve pots of golden honey.",
       "fieldId": "kids_stories",
-      "id": "lost",
+      "id": "honey",
       "lessonIds": [
-        "article_lost_puppy"
+        "article_bear_sharing"
       ],
       "packs": [
-        "knw.kids.stories.puppy"
+        "knw.kids.stories.bear"
       ],
-      "term": "Lost"
-    },
-    {
-      "definition": "A smell that hangs in the air. Dogs can smell scents and follow them a long way.",
-      "dictionaryId": "lex.sa.kids_stories.scent",
-      "example": "Pip knew the scent of his own garden.",
-      "fieldId": "kids_stories",
-      "id": "scent",
-      "lessonIds": [
-        "article_lost_puppy"
-      ],
-      "packs": [
-        "knw.kids.stories.puppy"
-      ],
-      "term": "Scent"
-    },
-    {
-      "conflict": true,
-      "definition": "The band that goes around a dog's neck. It can hold a small tag with the dog's name.",
-      "dictionaryId": "lex.sa.kids_stories.collar",
-      "example": "Mum put Pip's name on his new collar.",
-      "fieldId": "kids_stories",
-      "id": "collar",
-      "lessonIds": [
-        "article_lost_puppy",
-        "article_pets"
-      ],
-      "packs": [
-        "knw.kids.animals.pets",
-        "knw.kids.stories.puppy"
-      ],
-      "term": "Collar"
+      "term": "Honey"
     },
     {
       "definition": "The home of a bear. It is a cave with a door, and it is warm inside.",
@@ -60,78 +29,6 @@
         "knw.kids.stories.puppy"
       ],
       "term": "Den"
-    },
-    {
-      "definition": "What really happened, even when it is not the easy thing to say.",
-      "dictionaryId": "lex.sa.kids_stories.truth",
-      "example": "An told his mother the truth about the blue bowl.",
-      "fieldId": "kids_stories",
-      "id": "truth",
-      "lessonIds": [
-        "article_boy_who_told_truth"
-      ],
-      "packs": [
-        "knw.kids.stories.truth"
-      ],
-      "term": "The truth"
-    },
-    {
-      "definition": "Saying something you know is not true, on purpose, to make things easier for yourself.",
-      "dictionaryId": "lex.sa.kids_stories.lie",
-      "example": "He could have said the wind broke the bowl, but that would be a lie.",
-      "fieldId": "kids_stories",
-      "id": "lie",
-      "lessonIds": [
-        "article_boy_who_told_truth"
-      ],
-      "packs": [
-        "knw.kids.stories.truth"
-      ],
-      "term": "A lie"
-    },
-    {
-      "definition": "Something you say you will do. People remember a broken promise for a long time.",
-      "dictionaryId": "lex.sa.kids_stories.promise",
-      "example": "An promised to tell his mother everything from then on.",
-      "fieldId": "kids_stories",
-      "id": "promise",
-      "lessonIds": [
-        "article_boy_who_told_truth"
-      ],
-      "packs": [
-        "knw.kids.stories.truth"
-      ],
-      "term": "A promise"
-    },
-    {
-      "definition": "Not feeling no fear, but going on anyway. Brave is about what you do, not what you feel.",
-      "dictionaryId": "lex.sa.kids_stories.brave",
-      "example": "Pip was brave and took one more step.",
-      "fieldId": "kids_stories",
-      "id": "brave",
-      "lessonIds": [
-        "article_boy_who_told_truth",
-        "article_little_rabbit_dark"
-      ],
-      "packs": [
-        "knw.kids.stories.rabbit",
-        "knw.kids.stories.truth"
-      ],
-      "term": "Brave"
-    },
-    {
-      "definition": "The sweet golden food that bees make from flowers.",
-      "dictionaryId": "lex.sa.kids_stories.honey",
-      "example": "The bees made twelve pots of golden honey.",
-      "fieldId": "kids_stories",
-      "id": "honey",
-      "lessonIds": [
-        "article_bear_sharing"
-      ],
-      "packs": [
-        "knw.kids.stories.bear"
-      ],
-      "term": "Honey"
     },
     {
       "definition": "The sad feeling you get when someone else has something you want. It is a feeling, not a plan.",
@@ -358,6 +255,22 @@
       "term": "Lantern"
     },
     {
+      "definition": "Not feeling no fear, but going on anyway. Brave is about what you do, not what you feel.",
+      "dictionaryId": "lex.sa.kids_stories.brave",
+      "example": "Pip was brave and took one more step.",
+      "fieldId": "kids_stories",
+      "id": "brave",
+      "lessonIds": [
+        "article_boy_who_told_truth",
+        "article_little_rabbit_dark"
+      ],
+      "packs": [
+        "knw.kids.stories.rabbit",
+        "knw.kids.stories.truth"
+      ],
+      "term": "Brave"
+    },
+    {
       "definition": "A dark shape that appears when something blocks the light.",
       "dictionaryId": "lex.sa.kids_stories.shadow",
       "example": "The old tree made a long shadow on the path.",
@@ -398,6 +311,76 @@
         "knw.kids.stories.seed"
       ],
       "term": "Soil"
+    },
+    {
+      "definition": "Not able to find the way home. If you are lost, you are not in trouble. You just need help.",
+      "dictionaryId": "lex.sa.kids_stories.lost",
+      "example": "Pip was lost, but he was not frightened of the dark.",
+      "fieldId": "kids_stories",
+      "id": "lost",
+      "lessonIds": [
+        "article_lost_puppy"
+      ],
+      "packs": [
+        "knw.kids.stories.puppy"
+      ],
+      "term": "Lost"
+    },
+    {
+      "definition": "A smell that hangs in the air. Dogs can smell scents and follow them a long way.",
+      "dictionaryId": "lex.sa.kids_stories.scent",
+      "example": "Pip knew the scent of his own garden.",
+      "fieldId": "kids_stories",
+      "id": "scent",
+      "lessonIds": [
+        "article_lost_puppy"
+      ],
+      "packs": [
+        "knw.kids.stories.puppy"
+      ],
+      "term": "Scent"
+    },
+    {
+      "definition": "What really happened, even when it is not the easy thing to say.",
+      "dictionaryId": "lex.sa.kids_stories.truth",
+      "example": "An told his mother the truth about the blue bowl.",
+      "fieldId": "kids_stories",
+      "id": "truth",
+      "lessonIds": [
+        "article_boy_who_told_truth"
+      ],
+      "packs": [
+        "knw.kids.stories.truth"
+      ],
+      "term": "The truth"
+    },
+    {
+      "definition": "Saying something you know is not true, on purpose, to make things easier for yourself.",
+      "dictionaryId": "lex.sa.kids_stories.lie",
+      "example": "He could have said the wind broke the bowl, but that would be a lie.",
+      "fieldId": "kids_stories",
+      "id": "lie",
+      "lessonIds": [
+        "article_boy_who_told_truth"
+      ],
+      "packs": [
+        "knw.kids.stories.truth"
+      ],
+      "term": "A lie"
+    },
+    {
+      "definition": "Something you say you will do. People remember a broken promise for a long time.",
+      "dictionaryId": "lex.sa.kids_stories.promise",
+      "example": "An promised to tell his mother everything from then on.",
+      "fieldId": "kids_stories",
+      "id": "promise",
+      "lessonIds": [
+        "article_boy_who_told_truth"
+      ],
+      "packs": [
+        "knw.kids.stories.truth"
+      ],
+      "term": "A promise"
     }
   ],
   "nextCursor": null,

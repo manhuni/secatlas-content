@@ -99,6 +99,104 @@
       "term": "Idiolect"
     },
     {
+      "definition": "Being physically there and paying attention, as distinct from being logged in or present in name only.",
+      "dictionaryId": "lex.sa.culture.presence",
+      "example": "He was there, but his presence was somewhere else.",
+      "fieldId": "culture",
+      "id": "presence",
+      "lessonIds": [
+        "article_less_time_together"
+      ],
+      "packs": [
+        "knw.culture.together"
+      ],
+      "term": "Presence"
+    },
+    {
+      "definition": "The gap between the number of relationships you want and the number you actually have. It is a feeling, and it can occur in a crowded room.",
+      "dictionaryId": "lex.sa.culture.loneliness",
+      "example": "A full calendar and a lonely February are not contradictions.",
+      "fieldId": "culture",
+      "id": "loneliness",
+      "lessonIds": [
+        "article_less_time_together"
+      ],
+      "packs": [
+        "knw.culture.together"
+      ],
+      "term": "Loneliness"
+    },
+    {
+      "definition": "Being alone by choice, with no element of loss or distress. It is not the same as loneliness.",
+      "dictionaryId": "lex.sa.culture.solitude",
+      "example": "Two hours of solitude on Sunday is what makes the week work.",
+      "fieldId": "culture",
+      "id": "solitude",
+      "lessonIds": [
+        "article_less_time_together"
+      ],
+      "packs": [
+        "knw.culture.together"
+      ],
+      "term": "Solitude"
+    },
+    {
+      "definition": "Being cut off from other people without choosing it, and without the comfort that solitude brings.",
+      "dictionaryId": "lex.sa.culture.isolation",
+      "example": "Working from home every day turned into isolation by February.",
+      "fieldId": "culture",
+      "id": "isolation",
+      "lessonIds": [
+        "article_less_time_together"
+      ],
+      "packs": [
+        "knw.culture.together"
+      ],
+      "term": "Isolation"
+    },
+    {
+      "definition": "The effect of being near each other often. People who share a building or a class become friends without trying.",
+      "dictionaryId": "lex.sa.culture.propinquity",
+      "example": "Propinquity did the work: we sat near each other for a year and then had a group chat.",
+      "fieldId": "culture",
+      "id": "propinquity",
+      "lessonIds": [
+        "article_less_time_together"
+      ],
+      "packs": [
+        "knw.culture.together"
+      ],
+      "term": "Propinquity"
+    },
+    {
+      "definition": "A repeated act that carries meaning beyond its content, such as a Friday call or a Sunday lunch.",
+      "dictionaryId": "lex.sa.culture.ritual",
+      "example": "The ritual is the point. The restaurant does not matter.",
+      "fieldId": "culture",
+      "id": "ritual",
+      "lessonIds": [
+        "article_less_time_together"
+      ],
+      "packs": [
+        "knw.culture.together"
+      ],
+      "term": "Ritual"
+    },
+    {
+      "definition": "The value a person draws from their relationships, and the trust that makes working together easier.",
+      "dictionaryId": "lex.sa.culture.social_capital",
+      "example": "A good boss spends a lot of the budget on building social capital.",
+      "fieldId": "culture",
+      "id": "social_capital",
+      "lessonIds": [
+        "article_less_time_together"
+      ],
+      "packs": [
+        "knw.culture.together"
+      ],
+      "term": "Social capital"
+    },
+    {
       "definition": "Someone who earns income that does not depend on one country and who lives in several places over a year.",
       "dictionaryId": "lex.sa.culture.digital_nomad",
       "example": "As a digital nomad, I move when the client contract ends.",
@@ -253,6 +351,23 @@
       "term": "Taboo"
     },
     {
+      "conflict": true,
+      "definition": "Short, friendly conversation with someone you do not know well. Its purpose is contact, not important information.",
+      "dictionaryId": "lex.sa.social.small_talk",
+      "example": "We had some small talk about the rain and ended up talking for an hour.",
+      "fieldId": "culture",
+      "id": "small_talk",
+      "lessonIds": [
+        "article_culture_shock",
+        "article_small_talk"
+      ],
+      "packs": [
+        "knw.culture.shock",
+        "knw.social.smalltalk"
+      ],
+      "term": "Small talk"
+    },
+    {
       "definition": "The finished state of living comfortably in a new culture, when the local way no longer feels strange.",
       "dictionaryId": "lex.sa.culture.adaptation",
       "example": "After a year, adaptation: I queue without thinking about it now.",
@@ -265,107 +380,6 @@
         "knw.culture.shock"
       ],
       "term": "Adaptation"
-    },
-    {
-      "definition": "Being physically there and paying attention, as distinct from being logged in or present in name only.",
-      "dictionaryId": "lex.sa.culture.presence",
-      "example": "He was there, but his presence was somewhere else.",
-      "fieldId": "culture",
-      "id": "presence",
-      "lessonIds": [
-        "article_less_time_together"
-      ],
-      "packs": [
-        "knw.culture.together"
-      ],
-      "term": "Presence"
-    },
-    {
-      "conflict": true,
-      "definition": "The gap between the number of relationships you want and the number you actually have. It is a feeling, and it can occur in a crowded room.",
-      "dictionaryId": "lex.sa.culture.loneliness",
-      "example": "A full calendar and a lonely February are not contradictions.",
-      "fieldId": "culture",
-      "id": "loneliness",
-      "lessonIds": [
-        "article_less_time_together"
-      ],
-      "packs": [
-        "knw.culture.together"
-      ],
-      "term": "Loneliness"
-    },
-    {
-      "conflict": true,
-      "definition": "Being alone by choice, with no element of loss or distress. It is not the same as loneliness.",
-      "dictionaryId": "lex.sa.culture.solitude",
-      "example": "Two hours of solitude on Sunday is what makes the week work.",
-      "fieldId": "culture",
-      "id": "solitude",
-      "lessonIds": [
-        "article_less_time_together"
-      ],
-      "packs": [
-        "knw.culture.together"
-      ],
-      "term": "Solitude"
-    },
-    {
-      "conflict": true,
-      "definition": "Being cut off from other people without choosing it, and without the comfort that solitude brings.",
-      "dictionaryId": "lex.sa.culture.isolation",
-      "example": "Working from home every day turned into isolation by February.",
-      "fieldId": "culture",
-      "id": "isolation",
-      "lessonIds": [
-        "article_less_time_together"
-      ],
-      "packs": [
-        "knw.culture.together"
-      ],
-      "term": "Isolation"
-    },
-    {
-      "definition": "The effect of being near each other often. People who share a building or a class become friends without trying.",
-      "dictionaryId": "lex.sa.culture.propinquity",
-      "example": "Propinquity did the work: we sat near each other for a year and then had a group chat.",
-      "fieldId": "culture",
-      "id": "propinquity",
-      "lessonIds": [
-        "article_less_time_together"
-      ],
-      "packs": [
-        "knw.culture.together"
-      ],
-      "term": "Propinquity"
-    },
-    {
-      "definition": "A repeated act that carries meaning beyond its content, such as a Friday call or a Sunday lunch.",
-      "dictionaryId": "lex.sa.culture.ritual",
-      "example": "The ritual is the point. The restaurant does not matter.",
-      "fieldId": "culture",
-      "id": "ritual",
-      "lessonIds": [
-        "article_less_time_together"
-      ],
-      "packs": [
-        "knw.culture.together"
-      ],
-      "term": "Ritual"
-    },
-    {
-      "definition": "The value a person draws from their relationships, and the trust that makes working together easier.",
-      "dictionaryId": "lex.sa.culture.social_capital",
-      "example": "A good boss spends a lot of the budget on building social capital.",
-      "fieldId": "culture",
-      "id": "social_capital",
-      "lessonIds": [
-        "article_less_time_together"
-      ],
-      "packs": [
-        "knw.culture.together"
-      ],
-      "term": "Social capital"
     }
   ],
   "nextCursor": null,

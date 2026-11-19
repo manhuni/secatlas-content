@@ -1,23 +1,6 @@
 {
   "items": [
     {
-      "conflict": true,
-      "definition": "The length of time you can hold focus on one task. It depends on the task and on your state, not on a fixed personal rating.",
-      "dictionaryId": "lex.sa.technology.attention_span",
-      "example": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
-      "fieldId": "technology",
-      "id": "attention_span",
-      "lessonIds": [
-        "article_attention_death",
-        "article_brainrot"
-      ],
-      "packs": [
-        "knw.mind.attention_death",
-        "knw.tech.brainrot"
-      ],
-      "term": "Attention span"
-    },
-    {
       "definition": "The part of the previous task still in your head after you stop it, which lowers the quality of the next task.",
       "dictionaryId": "lex.sa.technology.attention_residue",
       "example": "I checked messages between every paragraph, so both pieces of work suffered.",
@@ -58,152 +41,6 @@
         "knw.tech.brainrot"
       ],
       "term": "Dopamine"
-    },
-    {
-      "conflict": true,
-      "definition": "Reading bad news repeatedly on purpose, because the subject holds your attention. A specific habit, not a synonym for scrolling.",
-      "dictionaryId": "lex.sa.technology.doomscrolling",
-      "example": "That was an hour of doomscrolling, and I felt worse each time I checked.",
-      "fieldId": "technology",
-      "id": "doomscrolling",
-      "lessonIds": [
-        "article_brainrot",
-        "article_info_overload"
-      ],
-      "packs": [
-        "knw.mind.info_overload",
-        "knw.tech.brainrot"
-      ],
-      "term": "Doomscrolling"
-    },
-    {
-      "conflict": true,
-      "definition": "The habit of ignoring alerts on purpose, so that the one alert that mattered gets ignored too.",
-      "dictionaryId": "lex.sa.technology.notification_fatigue",
-      "example": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
-      "fieldId": "technology",
-      "id": "notification_fatigue",
-      "lessonIds": [
-        "article_attention_death",
-        "article_brainrot"
-      ],
-      "packs": [
-        "knw.mind.attention_death",
-        "knw.tech.brainrot"
-      ],
-      "term": "Notification fatigue"
-    },
-    {
-      "definition": "A fraudulent message, usually by email, designed to steal credentials or money by pretending to be someone you trust.",
-      "dictionaryId": "lex.sa.technology.phishing",
-      "example": "That email about a locked account was phishing, and it used our bank's real logo.",
-      "fieldId": "technology",
-      "id": "phishing",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Phishing"
-    },
-    {
-      "definition": "Phishing carried out by text message. Short, urgent, and arriving on the phone you are holding.",
-      "dictionaryId": "lex.sa.technology.smishing",
-      "example": "The message about a parcel was smishing, and the link was not the courier's website.",
-      "fieldId": "technology",
-      "id": "smishing",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Smishing"
-    },
-    {
-      "definition": "Phishing carried out by a phone call, usually with a claim of authority from a bank, a police force or a support line.",
-      "dictionaryId": "lex.sa.technology.vishing",
-      "example": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
-      "fieldId": "technology",
-      "id": "vishing",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Vishing"
-    },
-    {
-      "definition": "Presenting a false sender identity so that a call or a message appears to come from a number or address that belongs to someone else.",
-      "dictionaryId": "lex.sa.technology.spoofing",
-      "example": "The message showed my brother's name, but the number was spoofed.",
-      "fieldId": "technology",
-      "id": "spoofing",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Spoofing"
-    },
-    {
-      "definition": "The short number a bank sends to confirm a login or a payment. Anyone who holds it can complete the action.",
-      "dictionaryId": "lex.sa.technology.one_time_code",
-      "example": "I gave them the one-time code, and that was the moment the account was theirs.",
-      "fieldId": "technology",
-      "id": "one_time_code",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "One-time code"
-    },
-    {
-      "definition": "A bank account used to receive and pass on criminal money, sometimes opened by someone who believes they are helping a company or a cause.",
-      "dictionaryId": "lex.sa.technology.mule_account",
-      "example": "They asked me to receive money and pass it on. That makes my account a mule account and the money is stolen.",
-      "fieldId": "technology",
-      "id": "mule_account",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Mule account"
-    },
-    {
-      "definition": "A reversal of a card payment requested from the bank, usually because the transaction was not authorised or the goods never arrived.",
-      "dictionaryId": "lex.sa.technology.chargeback",
-      "example": "The bank raised a chargeback and returned the money five days later.",
-      "fieldId": "technology",
-      "id": "chargeback",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Chargeback"
-    },
-    {
-      "definition": "Money demanded before a service is delivered. Common in fake job offers, fake investments and fake love interests.",
-      "dictionaryId": "lex.sa.technology.advance_fee",
-      "example": "They wanted a small fee before the equipment arrived, and then a larger one.",
-      "fieldId": "technology",
-      "id": "advance_fee",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Advance fee"
     },
     {
       "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
@@ -406,6 +243,118 @@
         "knw.tech.tokens"
       ],
       "term": "Prompt"
+    },
+    {
+      "definition": "A fraudulent message, usually by email, designed to steal credentials or money by pretending to be someone you trust.",
+      "dictionaryId": "lex.sa.technology.phishing",
+      "example": "That email about a locked account was phishing, and it used our bank's real logo.",
+      "fieldId": "technology",
+      "id": "phishing",
+      "lessonIds": [
+        "article_online_scams"
+      ],
+      "packs": [
+        "knw.tech.scams"
+      ],
+      "term": "Phishing"
+    },
+    {
+      "definition": "Phishing carried out by text message. Short, urgent, and arriving on the phone you are holding.",
+      "dictionaryId": "lex.sa.technology.smishing",
+      "example": "The message about a parcel was smishing, and the link was not the courier's website.",
+      "fieldId": "technology",
+      "id": "smishing",
+      "lessonIds": [
+        "article_online_scams"
+      ],
+      "packs": [
+        "knw.tech.scams"
+      ],
+      "term": "Smishing"
+    },
+    {
+      "definition": "Phishing carried out by a phone call, usually with a claim of authority from a bank, a police force or a support line.",
+      "dictionaryId": "lex.sa.technology.vishing",
+      "example": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
+      "fieldId": "technology",
+      "id": "vishing",
+      "lessonIds": [
+        "article_online_scams"
+      ],
+      "packs": [
+        "knw.tech.scams"
+      ],
+      "term": "Vishing"
+    },
+    {
+      "definition": "Presenting a false sender identity so that a call or a message appears to come from a number or address that belongs to someone else.",
+      "dictionaryId": "lex.sa.technology.spoofing",
+      "example": "The message showed my brother's name, but the number was spoofed.",
+      "fieldId": "technology",
+      "id": "spoofing",
+      "lessonIds": [
+        "article_online_scams"
+      ],
+      "packs": [
+        "knw.tech.scams"
+      ],
+      "term": "Spoofing"
+    },
+    {
+      "definition": "The short number a bank sends to confirm a login or a payment. Anyone who holds it can complete the action.",
+      "dictionaryId": "lex.sa.technology.one_time_code",
+      "example": "I gave them the one-time code, and that was the moment the account was theirs.",
+      "fieldId": "technology",
+      "id": "one_time_code",
+      "lessonIds": [
+        "article_online_scams"
+      ],
+      "packs": [
+        "knw.tech.scams"
+      ],
+      "term": "One-time code"
+    },
+    {
+      "definition": "A bank account used to receive and pass on criminal money, sometimes opened by someone who believes they are helping a company or a cause.",
+      "dictionaryId": "lex.sa.technology.mule_account",
+      "example": "They asked me to receive money and pass it on. That makes my account a mule account and the money is stolen.",
+      "fieldId": "technology",
+      "id": "mule_account",
+      "lessonIds": [
+        "article_online_scams"
+      ],
+      "packs": [
+        "knw.tech.scams"
+      ],
+      "term": "Mule account"
+    },
+    {
+      "definition": "A reversal of a card payment requested from the bank, usually because the transaction was not authorised or the goods never arrived.",
+      "dictionaryId": "lex.sa.technology.chargeback",
+      "example": "The bank raised a chargeback and returned the money five days later.",
+      "fieldId": "technology",
+      "id": "chargeback",
+      "lessonIds": [
+        "article_online_scams"
+      ],
+      "packs": [
+        "knw.tech.scams"
+      ],
+      "term": "Chargeback"
+    },
+    {
+      "definition": "Money demanded before a service is delivered. Common in fake job offers, fake investments and fake love interests.",
+      "dictionaryId": "lex.sa.technology.advance_fee",
+      "example": "They wanted a small fee before the equipment arrived, and then a larger one.",
+      "fieldId": "technology",
+      "id": "advance_fee",
+      "lessonIds": [
+        "article_online_scams"
+      ],
+      "packs": [
+        "knw.tech.scams"
+      ],
+      "term": "Advance fee"
     },
     {
       "conflict": true,

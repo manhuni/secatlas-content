@@ -43,6 +43,23 @@
       "term": "Farm animal"
     },
     {
+      "conflict": true,
+      "definition": "The place where an animal lives, with the food, water and shelter it needs there.",
+      "dictionaryId": "lex.sa.kids_animals.habitat",
+      "example": "The reef is the habitat of the clownfish and the small fish.",
+      "fieldId": "kids_daily",
+      "id": "habitat",
+      "lessonIds": [
+        "article_favourite_animals",
+        "article_kids_animals_ocean"
+      ],
+      "packs": [
+        "knw.kids.animals.ocean",
+        "knw.kids.daily.animals"
+      ],
+      "term": "Habitat"
+    },
+    {
       "definition": "An animal that is in danger of disappearing for ever, because there are so few left.",
       "dictionaryId": "lex.sa.kids_daily.endangered",
       "example": "The giant panda is endangered. We must protect it.",
@@ -55,79 +72,6 @@
         "knw.kids.daily.animals"
       ],
       "term": "Endangered"
-    },
-    {
-      "conflict": true,
-      "definition": "The time when you get ready to sleep. It is the end of the evening.",
-      "dictionaryId": "lex.sa.kids_daily.bedtime",
-      "example": "Bedtime is eight o'clock on a school night.",
-      "fieldId": "kids_daily",
-      "id": "bedtime",
-      "lessonIds": [
-        "article_day",
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime",
-        "knw.kids.home.day"
-      ],
-      "term": "Bedtime"
-    },
-    {
-      "definition": "A set of things you do in the same order every time. A bedtime routine helps your body get sleepy.",
-      "dictionaryId": "lex.sa.kids_daily.routine",
-      "example": "Our bedtime routine is the same every night.",
-      "fieldId": "kids_daily",
-      "id": "routine",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Routine"
-    },
-    {
-      "definition": "The soft clothes you wear in bed.",
-      "dictionaryId": "lex.sa.kids_daily.pyjamas",
-      "example": "I put on my pyjamas before I brush my teeth.",
-      "fieldId": "kids_daily",
-      "id": "pyjamas",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Pyjamas"
-    },
-    {
-      "definition": "To clean your teeth with a toothbrush and toothpaste, usually for two minutes.",
-      "dictionaryId": "lex.sa.kids_daily.brush_your_teeth",
-      "example": "I brush my teeth before I put on my pyjamas.",
-      "fieldId": "kids_daily",
-      "id": "brush_your_teeth",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Brush your teeth"
-    },
-    {
-      "definition": "What you say to somebody when you go to bed. It is a wish for a deep sleep.",
-      "dictionaryId": "lex.sa.kids_daily.good_night",
-      "example": "I say good night to my grandmother every night.",
-      "fieldId": "kids_daily",
-      "id": "good_night",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Good night"
     },
     {
       "definition": "The word for your mother. Some families say mom or mommy instead.",
@@ -257,6 +201,149 @@
         "knw.kids.daily.food"
       ],
       "term": "I would like"
+    },
+    {
+      "conflict": true,
+      "definition": "A medical reaction to a food, which can be dangerous. It must be told to the staff as an allergy, not as a dislike.",
+      "dictionaryId": "lex.sa.travel.allergy",
+      "example": "I have a shellfish allergy. Is this dish safe for me?",
+      "fieldId": "kids_daily",
+      "id": "allergy",
+      "lessonIds": [
+        "article_asking_for_food",
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.kids.daily.food",
+        "knw.travel.ordering"
+      ],
+      "term": "Allergy"
+    },
+    {
+      "definition": "The sun is shining and there are few clouds. A sunny day is a happy day.",
+      "dictionaryId": "lex.sa.kids_daily.sunny",
+      "example": "It is sunny, so we can play outside.",
+      "fieldId": "kids_daily",
+      "id": "sunny",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Sunny"
+    },
+    {
+      "definition": "The sky has clouds in it. Clouds are about the sky, not about the temperature.",
+      "dictionaryId": "lex.sa.kids_daily.cloudy",
+      "example": "It is cloudy this morning, but it is still warm.",
+      "fieldId": "kids_daily",
+      "id": "cloudy",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Cloudy"
+    },
+    {
+      "definition": "Water is falling from the clouds. There is light rain and heavy rain.",
+      "dictionaryId": "lex.sa.kids_daily.rainy",
+      "example": "It is rainy, so take an umbrella.",
+      "fieldId": "kids_daily",
+      "id": "rainy",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Rainy"
+    },
+    {
+      "definition": "The air is moving fast. A windy day can be hot or freezing.",
+      "dictionaryId": "lex.sa.kids_daily.windy",
+      "example": "It is windy, so my hat keeps blowing away.",
+      "fieldId": "kids_daily",
+      "id": "windy",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Windy"
+    },
+    {
+      "definition": "The temperature is low. Cold is lower than cool.",
+      "dictionaryId": "lex.sa.kids_daily.cold",
+      "example": "It is cold outside, so I am wearing my coat.",
+      "fieldId": "kids_daily",
+      "id": "cold",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Cold"
+    },
+    {
+      "definition": "A set of things you do in the same order every time. A bedtime routine helps your body get sleepy.",
+      "dictionaryId": "lex.sa.kids_daily.routine",
+      "example": "Our bedtime routine is the same every night.",
+      "fieldId": "kids_daily",
+      "id": "routine",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Routine"
+    },
+    {
+      "definition": "The soft clothes you wear in bed.",
+      "dictionaryId": "lex.sa.kids_daily.pyjamas",
+      "example": "I put on my pyjamas before I brush my teeth.",
+      "fieldId": "kids_daily",
+      "id": "pyjamas",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Pyjamas"
+    },
+    {
+      "definition": "To clean your teeth with a toothbrush and toothpaste, usually for two minutes.",
+      "dictionaryId": "lex.sa.kids_daily.brush_your_teeth",
+      "example": "I brush my teeth before I put on my pyjamas.",
+      "fieldId": "kids_daily",
+      "id": "brush_your_teeth",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Brush your teeth"
+    },
+    {
+      "definition": "What you say to somebody when you go to bed. It is a wish for a deep sleep.",
+      "dictionaryId": "lex.sa.kids_daily.good_night",
+      "example": "I say good night to my grandmother every night.",
+      "fieldId": "kids_daily",
+      "id": "good_night",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Good night"
     },
     {
       "definition": "A child who is in the same class as you. Classmates are the easiest people to be friends with.",
@@ -481,76 +568,6 @@
         "knw.kids.daily.questions"
       ],
       "term": "How"
-    },
-    {
-      "definition": "The sun is shining and there are few clouds. A sunny day is a happy day.",
-      "dictionaryId": "lex.sa.kids_daily.sunny",
-      "example": "It is sunny, so we can play outside.",
-      "fieldId": "kids_daily",
-      "id": "sunny",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Sunny"
-    },
-    {
-      "definition": "The sky has clouds in it. Clouds are about the sky, not about the temperature.",
-      "dictionaryId": "lex.sa.kids_daily.cloudy",
-      "example": "It is cloudy this morning, but it is still warm.",
-      "fieldId": "kids_daily",
-      "id": "cloudy",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Cloudy"
-    },
-    {
-      "definition": "Water is falling from the clouds. There is light rain and heavy rain.",
-      "dictionaryId": "lex.sa.kids_daily.rainy",
-      "example": "It is rainy, so take an umbrella.",
-      "fieldId": "kids_daily",
-      "id": "rainy",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Rainy"
-    },
-    {
-      "definition": "The air is moving fast. A windy day can be hot or freezing.",
-      "dictionaryId": "lex.sa.kids_daily.windy",
-      "example": "It is windy, so my hat keeps blowing away.",
-      "fieldId": "kids_daily",
-      "id": "windy",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Windy"
-    },
-    {
-      "definition": "The temperature is low. Cold is lower than cool.",
-      "dictionaryId": "lex.sa.kids_daily.cold",
-      "example": "It is cold outside, so I am wearing my coat.",
-      "fieldId": "kids_daily",
-      "id": "cold",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Cold"
     }
   ],
   "nextCursor": null,

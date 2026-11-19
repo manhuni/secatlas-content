@@ -1,18 +1,19 @@
 {
   "items": [
     {
-      "definition": "The state of being open to a relationship and willing to say yes to the right one.",
-      "dictionaryId": "lex.sa.social.lts_romantic_availability",
-      "example": "His romantic availability changed when he moved to another city, and he says so openly.",
+      "conflict": true,
+      "definition": "Everyone agreeing freely to something, every time. A clear no is a complete answer that needs no follow-up.",
+      "dictionaryId": "lex.sa.social.consent",
+      "example": "Consent has to be clear on both sides, and a no is always a complete answer.",
       "fieldId": "social",
-      "id": "lts_romantic_availability",
+      "id": "consent",
       "lessonIds": [
-        "article_long_term_singleness"
+        "article_dating_expressions"
       ],
       "packs": [
-        "knw.social.long_term_singleness"
+        "knw.social.dating"
       ],
-      "term": "Romantic availability"
+      "term": "Consent"
     },
     {
       "definition": "A metaphor for the meeting of people who are looking for a partner.",
@@ -195,6 +196,90 @@
         "knw.social.dating_market"
       ],
       "term": "hypergamy"
+    },
+    {
+      "definition": "A situation where two people hold different views and are still talking. The other person is not automatically an enemy.",
+      "dictionaryId": "lex.sa.social.disagreement",
+      "example": "It was a disagreement about the schedule, not a fight.",
+      "fieldId": "social",
+      "id": "disagreement",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Disagreement"
+    },
+    {
+      "definition": "A disagreement that improves the decision being made and leaves the working relationship intact.",
+      "dictionaryId": "lex.sa.social.constructive_disagreement",
+      "example": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
+      "fieldId": "social",
+      "id": "constructive_disagreement",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Constructive disagreement"
+    },
+    {
+      "definition": "Soft words that mark your opinion as your opinion, such as 'maybe' or 'I could be wrong'. Useful in small doses.",
+      "dictionaryId": "lex.sa.social.hedging_language",
+      "example": "A little hedging language keeps a sentence civil; too much of it hides your point.",
+      "fieldId": "social",
+      "id": "hedging_language",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Hedging language"
+    },
+    {
+      "definition": "Giving the other side's position its strongest and most honest form before you argue against it.",
+      "dictionaryId": "lex.sa.social.steelman",
+      "example": "Before you answer, steelman the other view in one sentence and see if it still convinces you.",
+      "fieldId": "social",
+      "id": "steelman",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Steelman"
+    },
+    {
+      "definition": "The part of a position that both people accept. Every polite disagreement starts by naming it.",
+      "dictionaryId": "lex.sa.social.common_ground",
+      "example": "Find the common ground first — both of you want this project to succeed.",
+      "fieldId": "social",
+      "id": "common_ground",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Common ground"
+    },
+    {
+      "definition": "Listening to understand the other person's point, including checking your understanding, instead of waiting for your turn to speak.",
+      "dictionaryId": "lex.sa.social.active_listening",
+      "example": "Active listening means repeating their concern back before you answer it.",
+      "fieldId": "social",
+      "id": "active_listening",
+      "lessonIds": [
+        "article_disagreeing"
+      ],
+      "packs": [
+        "knw.social.disagree"
+      ],
+      "term": "Active listening"
     },
     {
       "definition": "The ability to stay with a strong feeling and still choose what you do next.",
@@ -393,172 +478,89 @@
       "term": "repair"
     },
     {
-      "definition": "A rule about what a category of people is expected to do.",
-      "dictionaryId": "lex.sa.social.gre_gender_role",
-      "example": "The gender role said the man pays, and the rule was never written down.",
+      "definition": "The capacity to stay in charge of your own reactions when the other person is difficult.",
+      "dictionaryId": "lex.sa.social.gem_emotional_maturity",
+      "example": "Her emotional maturity showed in the pause before she answered, not in the answer itself.",
       "fieldId": "social",
-      "id": "gre_gender_role",
+      "id": "gem_emotional_maturity",
       "lessonIds": [
-        "article_gender_roles_expectations"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.gender_roles_expectations"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Gender role"
+      "term": "Emotional maturity"
     },
     {
-      "definition": "The sense a person has of their own gender.",
-      "dictionaryId": "lex.sa.social.gre_gender_identity",
-      "example": "Her gender identity was hers to say, and nobody in the room had a vote on it.",
+      "definition": "The capacity to hold a reaction and choose when to act on it.",
+      "dictionaryId": "lex.sa.social.gem_self_regulation",
+      "example": "He used self-regulation to stay in the room instead of walking out.",
       "fieldId": "social",
-      "id": "gre_gender_identity",
+      "id": "gem_self_regulation",
       "lessonIds": [
-        "article_gender_roles_expectations"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.gender_roles_expectations"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Gender identity"
+      "term": "Self-regulation"
     },
     {
-      "definition": "How a person presents their gender through clothes, voice, gesture and behaviour.",
-      "dictionaryId": "lex.sa.social.gre_gender_expression",
-      "example": "His gender expression changed when he started a new job, and the fit got easier.",
+      "definition": "Reading what another person feels, and taking it seriously enough to act on it.",
+      "dictionaryId": "lex.sa.social.gem_empathy",
+      "example": "Her empathy showed in the question she asked instead of the advice she gave.",
       "fieldId": "social",
-      "id": "gre_gender_expression",
+      "id": "gem_empathy",
       "lessonIds": [
-        "article_gender_roles_expectations"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.gender_roles_expectations"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Gender expression"
+      "term": "Empathy"
     },
     {
-      "definition": "A belief about a group that is applied to a person without looking at that person.",
-      "dictionaryId": "lex.sa.social.gem_stereotype",
-      "example": "That sentence about men and women is a stereotype, and it settles nothing about the man in front of you.",
+      "conflict": true,
+      "definition": "The answer you owe for an act, to the people affected and to the law.",
+      "dictionaryId": "lex.sa.mind.dual_accountability",
+      "example": "The mistake was hers, and the accountability was hers as well.",
       "fieldId": "social",
-      "id": "gre_stereotype",
+      "id": "gem_accountability",
       "lessonIds": [
-        "article_gender_roles_expectations"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.gender_roles_expectations"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Stereotype"
+      "term": "Accountability"
     },
     {
-      "definition": "A rule about what people should do.",
-      "dictionaryId": "lex.sa.social.gre_prescriptive_norm",
-      "example": "It is a prescriptive norm: the expectation, not a description of what happens.",
+      "definition": "The capacity to stay with a delay, a refusal or a mistake without making the other person pay for it.",
+      "dictionaryId": "lex.sa.social.gem_frustration_tolerance",
+      "example": "Tolerance of frustration is what a good team leader buys with a calm answer on a Friday.",
       "fieldId": "social",
-      "id": "gre_prescriptive_norm",
+      "id": "gem_frustration_tolerance",
       "lessonIds": [
-        "article_gender_roles_expectations"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.gender_roles_expectations"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Prescriptive norm"
+      "term": "Tolerance of frustration"
     },
     {
-      "definition": "What the people around you actually do, whether or not it is written down.",
-      "dictionaryId": "lex.sa.social.gre_descriptive_norm",
-      "example": "The descriptive norm here is that the whole team stays for the handover, and the expectation follows the team.",
+      "definition": "The leaning towards acting before you have looked at what the act will do.",
+      "dictionaryId": "lex.sa.social.gem_impulsivity",
+      "example": "The message went out in impatience, and the impulsivity cost him the job.",
       "fieldId": "social",
-      "id": "gre_descriptive_norm",
+      "id": "gem_impulsivity",
       "lessonIds": [
-        "article_gender_roles_expectations"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.social.gender_roles_expectations"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Descriptive norm"
-    },
-    {
-      "definition": "The pattern in which one form of manliness becomes the standard everybody is measured against.",
-      "dictionaryId": "lex.sa.social.gre_hegemonic_masculinity",
-      "example": "Hegemonic masculinity sets the picture of the man who never complains, and the man who does is treated as a smaller version of it.",
-      "fieldId": "social",
-      "id": "gre_hegemonic_masculinity",
-      "lessonIds": [
-        "article_gender_roles_expectations"
-      ],
-      "packs": [
-        "knw.social.gender_roles_expectations"
-      ],
-      "term": "Hegemonic masculinity"
-    },
-    {
-      "definition": "A situation in which a person is given two rules that cannot both be satisfied.",
-      "dictionaryId": "lex.sa.social.gre_double_bind",
-      "example": "A double bind: be the one who decides, and be the one who notices that everybody is exhausted.",
-      "fieldId": "social",
-      "id": "gre_double_bind",
-      "lessonIds": [
-        "article_gender_roles_expectations"
-      ],
-      "packs": [
-        "knw.social.gender_roles_expectations"
-      ],
-      "term": "Double bind"
-    },
-    {
-      "definition": "The work of keeping other people fed, rested, healthy and connected.",
-      "dictionaryId": "lex.sa.social.gre_care_work",
-      "example": "Care work is the appointments, the meals and the phone calls, and it is still work.",
-      "fieldId": "social",
-      "id": "gre_care_work",
-      "lessonIds": [
-        "article_gender_roles_expectations"
-      ],
-      "packs": [
-        "knw.social.gender_roles_expectations"
-      ],
-      "term": "Care work"
-    },
-    {
-      "definition": "The work of managing your own feelings and other people's feelings so that the situation keeps running.",
-      "dictionaryId": "lex.sa.social.gem_emotional_labour",
-      "example": "Emotional labour is the invisible work of keeping a meeting calm.",
-      "fieldId": "social",
-      "id": "gre_emotional_labour",
-      "lessonIds": [
-        "article_gender_roles_expectations"
-      ],
-      "packs": [
-        "knw.social.gender_roles_expectations"
-      ],
-      "term": "Emotional labour"
-    },
-    {
-      "definition": "The member of a couple who is expected to be the main earner.",
-      "dictionaryId": "lex.sa.social.gre_breadwinner",
-      "example": "As the breadwinner he carried the risk, and the risk became the whole family's.",
-      "fieldId": "social",
-      "id": "gre_breadwinner",
-      "lessonIds": [
-        "article_gender_roles_expectations"
-      ],
-      "packs": [
-        "knw.social.gender_roles_expectations"
-      ],
-      "term": "Breadwinner"
-    },
-    {
-      "definition": "The work of running the house: cleaning, shopping, cooking, laundry and bills.",
-      "dictionaryId": "lex.sa.social.gre_household_labour",
-      "example": "Household labour is the part of the week that never appears on a report.",
-      "fieldId": "social",
-      "id": "gre_household_labour",
-      "lessonIds": [
-        "article_gender_roles_expectations"
-      ],
-      "packs": [
-        "knw.social.gender_roles_expectations"
-      ],
-      "term": "Household labour"
+      "term": "Impulsivity"
     }
   ],
   "nextCursor": "80",

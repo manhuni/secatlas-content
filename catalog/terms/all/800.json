@@ -1,575 +1,571 @@
 {
   "items": [
     {
-      "definition": "The word for your mum and your dad together.",
-      "dictionaryId": "lex.sa.kids_daily.parents",
-      "example": "My parents work at the weekend too.",
-      "fieldId": "kids_daily",
-      "id": "parents",
+      "conflict": true,
+      "definition": "The answer you owe for an act, to the people affected and to the law.",
+      "dictionaryId": "lex.sa.mind.dual_accountability",
+      "example": "The mistake was hers, and the accountability was hers as well.",
+      "fieldId": "social",
+      "id": "gem_accountability",
       "lessonIds": [
-        "article_talking_about_family"
+        "article_gender_emotional_maturity"
       ],
       "packs": [
-        "knw.kids.daily.family"
+        "knw.social.gender_emotional_maturity"
       ],
-      "term": "Parents"
+      "term": "Accountability"
+    },
+    {
+      "definition": "The capacity to stay with a delay, a refusal or a mistake without making the other person pay for it.",
+      "dictionaryId": "lex.sa.social.gem_frustration_tolerance",
+      "example": "Tolerance of frustration is what a good team leader buys with a calm answer on a Friday.",
+      "fieldId": "social",
+      "id": "gem_frustration_tolerance",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Tolerance of frustration"
+    },
+    {
+      "definition": "The leaning towards acting before you have looked at what the act will do.",
+      "dictionaryId": "lex.sa.social.gem_impulsivity",
+      "example": "The message went out in impatience, and the impulsivity cost him the job.",
+      "fieldId": "social",
+      "id": "gem_impulsivity",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Impulsivity"
+    },
+    {
+      "definition": "How strongly and how fast a person reacts to pressure; a tempo, not a character.",
+      "dictionaryId": "lex.sa.social.gem_stress_reactivity",
+      "example": "Her stress reactivity is high in meetings and low in front of a machine.",
+      "fieldId": "social",
+      "id": "gem_stress_reactivity",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Stress reactivity"
+    },
+    {
+      "definition": "The work of managing your own feelings and other people's feelings so that the situation keeps running.",
+      "dictionaryId": "lex.sa.social.gem_emotional_labour",
+      "example": "Emotional labour is the invisible work of keeping a meeting calm.",
+      "fieldId": "social",
+      "id": "gem_emotional_labour",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Emotional labour"
+    },
+    {
+      "definition": "The feeling part of empathy: catching what the other person feels.",
+      "dictionaryId": "lex.sa.social.gem_affective_empathy",
+      "example": "Affective empathy made her notice that the new engineer was frightened in the group.",
+      "fieldId": "social",
+      "id": "gem_affective_empathy",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Affective empathy"
+    },
+    {
+      "definition": "The thinking part of empathy: seeing the situation from the other person's side.",
+      "dictionaryId": "lex.sa.social.gem_cognitive_empathy",
+      "example": "Cognitive empathy is what lets you guess that the deadline was the real problem.",
+      "fieldId": "social",
+      "id": "gem_cognitive_empathy",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Cognitive empathy"
+    },
+    {
+      "definition": "Stating your need, your limit or your disagreement without wrapping it in blame.",
+      "dictionaryId": "lex.sa.social.gem_assertiveness",
+      "example": "Assertiveness is saying the report is late and then saying what you need instead.",
+      "fieldId": "social",
+      "id": "gem_assertiveness",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Assertiveness"
+    },
+    {
+      "definition": "The leaning that keeps the peace by not raising the issue at all.",
+      "dictionaryId": "lex.sa.social.gem_conflict_avoidance",
+      "example": "Conflict avoidance kept the meeting pleasant and the problem on the table.",
+      "fieldId": "social",
+      "id": "gem_conflict_avoidance",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Conflict avoidance"
+    },
+    {
+      "definition": "A belief about a group that is applied to a person without looking at that person.",
+      "dictionaryId": "lex.sa.social.gem_stereotype",
+      "example": "That sentence about men and women is a stereotype, and it settles nothing about the man in front of you.",
+      "fieldId": "social",
+      "id": "gem_stereotype",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Stereotype"
+    },
+    {
+      "definition": "The part of the value ranges of two groups that lies on top of each other.",
+      "dictionaryId": "lex.sa.social.gem_overlap",
+      "example": "The overlap between the two groups is wide, so the average says very little about one person.",
+      "fieldId": "social",
+      "id": "gem_overlap",
+      "lessonIds": [
+        "article_gender_emotional_maturity"
+      ],
+      "packs": [
+        "knw.social.gender_emotional_maturity"
+      ],
+      "term": "Overlap"
+    },
+    {
+      "definition": "A rule about what a category of people is expected to do.",
+      "dictionaryId": "lex.sa.social.gre_gender_role",
+      "example": "The gender role said the man pays, and the rule was never written down.",
+      "fieldId": "social",
+      "id": "gre_gender_role",
+      "lessonIds": [
+        "article_gender_roles_expectations"
+      ],
+      "packs": [
+        "knw.social.gender_roles_expectations"
+      ],
+      "term": "Gender role"
+    },
+    {
+      "definition": "The sense a person has of their own gender.",
+      "dictionaryId": "lex.sa.social.gre_gender_identity",
+      "example": "Her gender identity was hers to say, and nobody in the room had a vote on it.",
+      "fieldId": "social",
+      "id": "gre_gender_identity",
+      "lessonIds": [
+        "article_gender_roles_expectations"
+      ],
+      "packs": [
+        "knw.social.gender_roles_expectations"
+      ],
+      "term": "Gender identity"
+    },
+    {
+      "definition": "How a person presents their gender through clothes, voice, gesture and behaviour.",
+      "dictionaryId": "lex.sa.social.gre_gender_expression",
+      "example": "His gender expression changed when he started a new job, and the fit got easier.",
+      "fieldId": "social",
+      "id": "gre_gender_expression",
+      "lessonIds": [
+        "article_gender_roles_expectations"
+      ],
+      "packs": [
+        "knw.social.gender_roles_expectations"
+      ],
+      "term": "Gender expression"
     },
     {
       "conflict": true,
-      "definition": "The polite word you say before you ask for something. It shows you are asking, not taking.",
-      "dictionaryId": "lex.sa.kids_feelings.please",
-      "example": "Please, can I have the blue cup?",
-      "fieldId": "kids_daily",
-      "id": "please",
+      "definition": "A belief about a group that is applied to a person without looking at that person.",
+      "dictionaryId": "lex.sa.social.gem_stereotype",
+      "example": "That sentence about men and women is a stereotype, and it settles nothing about the man in front of you.",
+      "fieldId": "social",
+      "id": "gre_stereotype",
       "lessonIds": [
-        "article_asking_for_food",
-        "article_please_and_thank_you"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.food",
-        "knw.kids.feelings.thanks"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "Please"
+      "term": "Stereotype"
     },
     {
-      "definition": "A question asking if you are allowed to have something. The person can answer yes or no.",
-      "dictionaryId": "lex.sa.kids_daily.can_i",
-      "example": "Can I have a piece of bread?",
-      "fieldId": "kids_daily",
-      "id": "can_i",
+      "definition": "A rule about what people should do.",
+      "dictionaryId": "lex.sa.social.gre_prescriptive_norm",
+      "example": "It is a prescriptive norm: the expectation, not a description of what happens.",
+      "fieldId": "social",
+      "id": "gre_prescriptive_norm",
       "lessonIds": [
-        "article_asking_for_food"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.food"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "Can I?"
+      "term": "Prescriptive norm"
     },
     {
-      "definition": "A softer way to ask, good for when you talk to somebody you do not know well.",
-      "dictionaryId": "lex.sa.kids_daily.could_i",
-      "example": "Could I have the menu, please?",
-      "fieldId": "kids_daily",
-      "id": "could_i",
+      "definition": "What the people around you actually do, whether or not it is written down.",
+      "dictionaryId": "lex.sa.social.gre_descriptive_norm",
+      "example": "The descriptive norm here is that the whole team stays for the handover, and the expectation follows the team.",
+      "fieldId": "social",
+      "id": "gre_descriptive_norm",
       "lessonIds": [
-        "article_asking_for_food"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.food"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "Could I?"
+      "term": "Descriptive norm"
     },
     {
-      "definition": "A warm way to say what you want. It is like saying I want, but kinder.",
-      "dictionaryId": "lex.sa.kids_daily.i_would_like",
-      "example": "I would like some orange juice, please.",
-      "fieldId": "kids_daily",
-      "id": "i_would_like",
+      "definition": "The pattern in which one form of manliness becomes the standard everybody is measured against.",
+      "dictionaryId": "lex.sa.social.gre_hegemonic_masculinity",
+      "example": "Hegemonic masculinity sets the picture of the man who never complains, and the man who does is treated as a smaller version of it.",
+      "fieldId": "social",
+      "id": "gre_hegemonic_masculinity",
       "lessonIds": [
-        "article_asking_for_food"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.food"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "I would like"
+      "term": "Hegemonic masculinity"
     },
     {
-      "definition": "A child who is in the same class as you. Classmates are the easiest people to be friends with.",
-      "dictionaryId": "lex.sa.kids_daily.classmate",
-      "example": "Mai is my classmate, and she sits next to me.",
-      "fieldId": "kids_daily",
-      "id": "classmate",
+      "definition": "A situation in which a person is given two rules that cannot both be satisfied.",
+      "dictionaryId": "lex.sa.social.gre_double_bind",
+      "example": "A double bind: be the one who decides, and be the one who notices that everybody is exhausted.",
+      "fieldId": "social",
+      "id": "gre_double_bind",
       "lessonIds": [
-        "article_making_friends_at_school"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.friends"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "Classmate"
+      "term": "Double bind"
     },
     {
-      "definition": "To say your name to somebody for the first time. It only means saying your name.",
-      "dictionaryId": "lex.sa.kids_daily.introduce_yourself",
-      "example": "I introduced myself and said, I am An.",
-      "fieldId": "kids_daily",
-      "id": "introduce_yourself",
+      "definition": "The work of keeping other people fed, rested, healthy and connected.",
+      "dictionaryId": "lex.sa.social.gre_care_work",
+      "example": "Care work is the appointments, the meals and the phone calls, and it is still work.",
+      "fieldId": "social",
+      "id": "gre_care_work",
       "lessonIds": [
-        "article_making_friends_at_school"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.friends"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "Introduce yourself"
+      "term": "Care work"
     },
     {
-      "definition": "To start playing with a group that is already playing. You ask first, and then you join in.",
-      "dictionaryId": "lex.sa.kids_daily.join_in",
-      "example": "Can I join in your game?",
-      "fieldId": "kids_daily",
-      "id": "join_in",
+      "conflict": true,
+      "definition": "The work of managing your own feelings and other people's feelings so that the situation keeps running.",
+      "dictionaryId": "lex.sa.social.gem_emotional_labour",
+      "example": "Emotional labour is the invisible work of keeping a meeting calm.",
+      "fieldId": "social",
+      "id": "gre_emotional_labour",
       "lessonIds": [
-        "article_making_friends_at_school"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.friends"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "Join in"
+      "term": "Emotional labour"
     },
     {
-      "definition": "To do the same game with another child, side by side. It is the simplest friendship there is.",
-      "dictionaryId": "lex.sa.kids_daily.play_together",
-      "example": "We play together at break time every day.",
-      "fieldId": "kids_daily",
-      "id": "play_together",
+      "definition": "The member of a couple who is expected to be the main earner.",
+      "dictionaryId": "lex.sa.social.gre_breadwinner",
+      "example": "As the breadwinner he carried the risk, and the risk became the whole family's.",
+      "fieldId": "social",
+      "id": "gre_breadwinner",
       "lessonIds": [
-        "article_making_friends_at_school"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.friends"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "Play together"
+      "term": "Breadwinner"
     },
     {
-      "definition": "A child you have just met. Saying hello twice makes a new child feel welcome.",
-      "dictionaryId": "lex.sa.kids_daily.new_friend",
-      "example": "I have a new friend in class 4B.",
-      "fieldId": "kids_daily",
-      "id": "new_friend",
+      "definition": "The work of running the house: cleaning, shopping, cooking, laundry and bills.",
+      "dictionaryId": "lex.sa.social.gre_household_labour",
+      "example": "Household labour is the part of the week that never appears on a report.",
+      "fieldId": "social",
+      "id": "gre_household_labour",
       "lessonIds": [
-        "article_making_friends_at_school"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.friends"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "New friend"
+      "term": "Household labour"
     },
     {
-      "definition": "The word you say when you meet somebody. You can use it all day long.",
-      "dictionaryId": "lex.sa.kids_daily.hello",
-      "example": "Hello, I am Minh.",
-      "fieldId": "kids_daily",
-      "id": "hello",
+      "definition": "The strain that appears when one person is expected to be two things at once and the two pull in different directions.",
+      "dictionaryId": "lex.sa.social.gre_role_conflict",
+      "example": "The role conflict was not a failure of effort; two jobs had been given to one week.",
+      "fieldId": "social",
+      "id": "gre_role_conflict",
       "lessonIds": [
-        "article_saying_hello"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "Hello"
+      "term": "Role conflict"
     },
     {
-      "definition": "A short and casual way to say hello, used with people you already know.",
-      "dictionaryId": "lex.sa.kids_daily.hi",
-      "example": "Hi Bao, are you ready?",
-      "fieldId": "kids_daily",
-      "id": "hi",
+      "definition": "The talk in which two people change or confirm the roles they play together.",
+      "dictionaryId": "lex.sa.social.gre_role_negotiation",
+      "example": "Role negotiation is not a quarrel about who is right; it is a decision about who does what.",
+      "fieldId": "social",
+      "id": "gre_role_negotiation",
       "lessonIds": [
-        "article_saying_hello"
+        "article_gender_roles_expectations"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.social.gender_roles_expectations"
       ],
-      "term": "Hi"
+      "term": "Role negotiation"
     },
     {
-      "definition": "A friendly question you ask after saying hello, to start a small talk.",
-      "dictionaryId": "lex.sa.kids_daily.how_are_you",
-      "example": "Good morning! How are you today?",
-      "fieldId": "kids_daily",
-      "id": "how_are_you",
+      "conflict": true,
+      "definition": "The gap between the number of relationships you want and the number you actually have. It is a feeling, and it can occur in a crowded room.",
+      "dictionaryId": "lex.sa.culture.loneliness",
+      "example": "A full calendar and a lonely February are not contradictions.",
+      "fieldId": "social",
+      "id": "lsc_loneliness",
       "lessonIds": [
-        "article_saying_hello"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "How are you?"
+      "term": "Loneliness"
     },
     {
-      "definition": "The words you use to tell somebody your own name.",
-      "dictionaryId": "lex.sa.kids_daily.my_name_is",
-      "example": "My name is Lan, and I am seven.",
-      "fieldId": "kids_daily",
-      "id": "my_name_is",
+      "conflict": true,
+      "definition": "Being cut off from other people without choosing it, and without the comfort that solitude brings.",
+      "dictionaryId": "lex.sa.culture.isolation",
+      "example": "Working from home every day turned into isolation by February.",
+      "fieldId": "social",
+      "id": "lsc_isolation",
       "lessonIds": [
-        "article_saying_hello"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "My name is"
+      "term": "Isolation"
     },
     {
-      "definition": "What you say the first time you meet somebody. It is polite and warm.",
-      "dictionaryId": "lex.sa.kids_daily.nice_to_meet_you",
-      "example": "Nice to meet you. I am Minh.",
-      "fieldId": "kids_daily",
-      "id": "nice_to_meet_you",
+      "definition": "The state of being estranged from the people around you, from a group, or from your own life.",
+      "dictionaryId": "lex.sa.social.lsc_alienation",
+      "example": "He worked in the same team for years and felt alienated from it.",
+      "fieldId": "social",
+      "id": "lsc_alienation",
       "lessonIds": [
-        "article_saying_hello"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Nice to meet you"
+      "term": "Alienation"
     },
     {
-      "definition": "The question word that asks for a thing or an idea. It is the most useful question word of all.",
-      "dictionaryId": "lex.sa.kids_daily.what",
-      "example": "What does this word mean?",
-      "fieldId": "kids_daily",
-      "id": "what",
+      "conflict": true,
+      "definition": "Being alone by choice, with no element of loss or distress. It is not the same as loneliness.",
+      "dictionaryId": "lex.sa.culture.solitude",
+      "example": "Two hours of solitude on Sunday is what makes the week work.",
+      "fieldId": "social",
+      "id": "lsc_solitude",
       "lessonIds": [
-        "article_asking_questions_in_class"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.daily.questions"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "What"
+      "term": "Solitude"
     },
     {
-      "definition": "The question word that asks for a person.",
-      "dictionaryId": "lex.sa.kids_daily.who",
-      "example": "Who is your new teacher?",
-      "fieldId": "kids_daily",
-      "id": "who",
+      "definition": "The practice of choosing fewer people and refusing more, so that the chosen ones get more of you.",
+      "dictionaryId": "lex.sa.social.lsc_selectivity",
+      "example": "Her selectivity is not rudeness; it is a policy she applies to everybody.",
+      "fieldId": "social",
+      "id": "lsc_selectivity",
       "lessonIds": [
-        "article_asking_questions_in_class"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.daily.questions"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Who"
+      "term": "Selectivity"
     },
     {
-      "definition": "Introduces the conditions on a and b.",
-      "dictionaryId": "lex.sa.en.where.conjunction",
-      "example": "ax + b = 0, where a is non-zero.",
-      "fieldId": "kids_daily",
-      "id": "where",
-      "lessonIds": [
-        "article_asking_questions_in_class"
-      ],
-      "packs": [
-        "knw.kids.daily.questions"
-      ],
-      "term": "where"
-    },
-    {
-      "definition": "At the time when something happens.",
-      "dictionaryId": "lex.sa.en.when.adverb",
+      "definition": "A level of quality or a rule of conduct.",
+      "dictionaryId": "lex.sa.en.standard.noun",
       "example": "",
-      "fieldId": "kids_daily",
-      "id": "when",
+      "fieldId": "social",
+      "id": "lsc_standard",
       "lessonIds": [
-        "article_asking_questions_in_class"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.daily.questions"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "when"
+      "term": "standard"
     },
     {
-      "definition": "The question word that asks for a reason. Why questions are the most interesting ones.",
-      "dictionaryId": "lex.sa.kids_daily.why",
-      "example": "Why do we have to sleep?",
-      "fieldId": "kids_daily",
-      "id": "why",
+      "definition": "The belief that a partner must match a complete specification exactly, with no deviation allowed.",
+      "dictionaryId": "lex.sa.social.lsc_hyperfidelity",
+      "example": "Hyperfidelity is why the search stops before it has really begun.",
+      "fieldId": "social",
+      "id": "lsc_hyperfidelity",
       "lessonIds": [
-        "article_asking_questions_in_class"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.daily.questions"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Why"
-    },
-    {
-      "definition": "The question word that asks for a way of doing something.",
-      "dictionaryId": "lex.sa.kids_daily.how",
-      "example": "How do you spell your name?",
-      "fieldId": "kids_daily",
-      "id": "how",
-      "lessonIds": [
-        "article_asking_questions_in_class"
-      ],
-      "packs": [
-        "knw.kids.daily.questions"
-      ],
-      "term": "How"
-    },
-    {
-      "definition": "The sun is shining and there are few clouds. A sunny day is a happy day.",
-      "dictionaryId": "lex.sa.kids_daily.sunny",
-      "example": "It is sunny, so we can play outside.",
-      "fieldId": "kids_daily",
-      "id": "sunny",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Sunny"
-    },
-    {
-      "definition": "The sky has clouds in it. Clouds are about the sky, not about the temperature.",
-      "dictionaryId": "lex.sa.kids_daily.cloudy",
-      "example": "It is cloudy this morning, but it is still warm.",
-      "fieldId": "kids_daily",
-      "id": "cloudy",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Cloudy"
-    },
-    {
-      "definition": "Water is falling from the clouds. There is light rain and heavy rain.",
-      "dictionaryId": "lex.sa.kids_daily.rainy",
-      "example": "It is rainy, so take an umbrella.",
-      "fieldId": "kids_daily",
-      "id": "rainy",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Rainy"
-    },
-    {
-      "definition": "The air is moving fast. A windy day can be hot or freezing.",
-      "dictionaryId": "lex.sa.kids_daily.windy",
-      "example": "It is windy, so my hat keeps blowing away.",
-      "fieldId": "kids_daily",
-      "id": "windy",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Windy"
-    },
-    {
-      "definition": "The temperature is low. Cold is lower than cool.",
-      "dictionaryId": "lex.sa.kids_daily.cold",
-      "example": "It is cold outside, so I am wearing my coat.",
-      "fieldId": "kids_daily",
-      "id": "cold",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Cold"
-    },
-    {
-      "definition": "A hot, upset feeling. It often comes fast and shows in your hands and face.",
-      "dictionaryId": "lex.sa.kids_feelings.angry",
-      "example": "I feel angry, so I am going to count to ten.",
-      "fieldId": "kids_feelings",
-      "id": "angry",
-      "lessonIds": [
-        "article_how_do_you_feel",
-        "article_when_you_feel_angry"
-      ],
-      "packs": [
-        "knw.kids.feelings.angry",
-        "knw.kids.feelings.today"
-      ],
-      "term": "Angry"
-    },
-    {
-      "definition": "A smaller angry feeling that comes when something still will not work.",
-      "dictionaryId": "lex.sa.kids_feelings.frustrated",
-      "example": "I am frustrated with this puzzle.",
-      "fieldId": "kids_feelings",
-      "id": "frustrated",
-      "lessonIds": [
-        "article_when_you_feel_angry"
-      ],
-      "packs": [
-        "knw.kids.feelings.angry"
-      ],
-      "term": "Frustrated"
-    },
-    {
-      "definition": "To bring your body back to quiet so you can think and speak.",
-      "dictionaryId": "lex.sa.kids_feelings.calm_down",
-      "example": "Let us calm down first, then talk.",
-      "fieldId": "kids_feelings",
-      "id": "calm_down",
-      "lessonIds": [
-        "article_when_you_feel_angry"
-      ],
-      "packs": [
-        "knw.kids.feelings.angry"
-      ],
-      "term": "Calm down"
-    },
-    {
-      "definition": "To take air in slowly and let it out slowly.",
-      "dictionaryId": "lex.sa.kids_feelings.breathe",
-      "example": "Breathe in, and blow out slowly.",
-      "fieldId": "kids_feelings",
-      "id": "breathe",
-      "lessonIds": [
-        "article_when_you_feel_angry"
-      ],
-      "packs": [
-        "knw.kids.feelings.angry"
-      ],
-      "term": "Breathe"
+      "term": "Hyperfidelity"
     },
     {
       "conflict": true,
-      "definition": "A person you like and who likes you back. Friends like to spend time together.",
-      "dictionaryId": "lex.sa.kids_feelings.friend",
-      "example": "Minh is my best friend.",
-      "fieldId": "kids_feelings",
-      "id": "friend",
+      "definition": "A link between two facts, so that one explains, limits or changes the other.",
+      "dictionaryId": "lex.sa.mind.kpar_connection",
+      "example": "There is a connection between the load on the pump and the life of the seal.",
+      "fieldId": "social",
+      "id": "lsc_connection",
       "lessonIds": [
-        "article_bear_sharing",
-        "article_good_friend"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.feelings.friend",
-        "knw.kids.stories.bear"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Friend"
+      "term": "Connection"
     },
     {
-      "definition": "Letting somebody use your things, and letting them do things with you too.",
-      "dictionaryId": "lex.sa.kids_feelings.sharing",
-      "example": "We shared the ball all afternoon.",
-      "fieldId": "kids_feelings",
-      "id": "sharing",
+      "definition": "The state in which both sides give and both receive, checked by asking each side what the other gives.",
+      "dictionaryId": "lex.sa.social.lsc_mutuality",
+      "example": "There is no mutuality here: one of them does all the giving.",
+      "fieldId": "social",
+      "id": "lsc_mutuality",
       "lessonIds": [
-        "article_good_friend"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.feelings.friend"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Sharing"
+      "term": "Mutuality"
     },
     {
-      "definition": "One person goes first, and then the other one goes. It is how two people share one thing fairly.",
-      "dictionaryId": "lex.sa.kids_feelings.taking_turns",
-      "example": "We took turns on the swing.",
-      "fieldId": "kids_feelings",
-      "id": "taking_turns",
+      "definition": "A decision to keep something going at a cost to yourself, made again and again rather than once.",
+      "dictionaryId": "lex.sa.social.lsc_commitment",
+      "example": "Commitment is not one decision; it is the tenth one as well as the first.",
+      "fieldId": "social",
+      "id": "lsc_commitment",
       "lessonIds": [
-        "article_good_friend"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.feelings.friend"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Taking turns"
+      "term": "Commitment"
     },
     {
-      "definition": "Giving your full attention to somebody who is talking.",
-      "dictionaryId": "lex.sa.kids_feelings.listening",
-      "example": "He listened to my whole story.",
-      "fieldId": "kids_feelings",
-      "id": "listening",
+      "definition": "The state of being able to make the decision of commitment now, with the time, the wish and a picture of the cost.",
+      "dictionaryId": "lex.sa.social.lsc_commitment_readiness",
+      "example": "He has the wish and not the readiness, and he can tell the two apart.",
+      "fieldId": "social",
+      "id": "lsc_commitment_readiness",
       "lessonIds": [
-        "article_good_friend"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.feelings.friend"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Listening"
+      "term": "Commitment readiness"
     },
     {
-      "definition": "When two friends get angry with each other. Every friendship has these.",
-      "dictionaryId": "lex.sa.kids_feelings.quarrel",
-      "example": "We had a quarrel and made up the same afternoon.",
-      "fieldId": "kids_feelings",
-      "id": "quarrel",
+      "definition": "The willingness to be known by somebody new, which is wider than being selective or not.",
+      "dictionaryId": "lex.sa.social.lsc_openness",
+      "example": "Openness is not saying yes to everybody; it is letting one more person in.",
+      "fieldId": "social",
+      "id": "lsc_openness",
       "lessonIds": [
-        "article_good_friend"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.feelings.friend"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Quarrel"
+      "term": "Openness"
     },
     {
-      "definition": "What you need from somebody else. You can need help with a task, a feeling or a person.",
-      "dictionaryId": "lex.sa.kids_feelings.help",
-      "example": "I need some help with this.",
-      "fieldId": "kids_feelings",
-      "id": "help",
+      "definition": "A strong dislike that turns a possible approach into an immediate withdrawal.",
+      "dictionaryId": "lex.sa.social.lsc_aversion",
+      "example": "Her aversion to that kind of meeting turned into a refusal before she had read the message.",
+      "fieldId": "social",
+      "id": "lsc_aversion",
       "lessonIds": [
-        "article_asking_for_help"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.feelings.help"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Help"
+      "term": "Aversion"
     },
     {
-      "definition": "To say out loud that you need it. It is not the same as complaining.",
-      "dictionaryId": "lex.sa.kids_feelings.ask_for_help",
-      "example": "I asked for help and she came straight away.",
-      "fieldId": "kids_feelings",
-      "id": "ask_for_help",
+      "definition": "The state in which the same goal pulls you towards it and away from it at the same time.",
+      "dictionaryId": "lex.sa.social.lsc_approach_avoidance",
+      "example": "The approach-avoidance conflict is inside him, not in the other person.",
+      "fieldId": "social",
+      "id": "lsc_approach_avoidance",
       "lessonIds": [
-        "article_asking_for_help"
+        "article_loneliness_selectivity"
       ],
       "packs": [
-        "knw.kids.feelings.help"
+        "knw.social.loneliness_selectivity"
       ],
-      "term": "Ask for help"
+      "term": "Approach-avoidance conflict"
     },
     {
-      "definition": "An adult who looks after children, like a parent, a teacher or the school nurse.",
-      "dictionaryId": "lex.sa.kids_feelings.grown_up",
-      "example": "I told a grown-up about it.",
-      "fieldId": "kids_feelings",
-      "id": "grown_up",
+      "definition": "One only; not multiple.",
+      "dictionaryId": "lex.sa.en.single.adjective",
+      "example": "A single file is a gallery of one.",
+      "fieldId": "social",
+      "id": "lts_single",
       "lessonIds": [
-        "article_asking_for_help"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.kids.feelings.help"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Grown-up"
-    },
-    {
-      "definition": "To make a small attempt before you ask for help.",
-      "dictionaryId": "lex.sa.kids_feelings.try_first",
-      "example": "I tried first, and then I asked.",
-      "fieldId": "kids_feelings",
-      "id": "try_first",
-      "lessonIds": [
-        "article_asking_for_help"
-      ],
-      "packs": [
-        "knw.kids.feelings.help"
-      ],
-      "term": "Try first"
-    },
-    {
-      "conflict": true,
-      "definition": "Polite and friendly towards other people, even when you do not like their food.",
-      "dictionaryId": "lex.sa.kids_food.kind",
-      "example": "It is kind to say thank you for the food.",
-      "fieldId": "kids_feelings",
-      "id": "kind",
-      "lessonIds": [
-        "article_being_kind",
-        "article_kids_food_favourite_foods"
-      ],
-      "packs": [
-        "knw.kids.feelings.kind",
-        "knw.kids.food.favourites"
-      ],
-      "term": "Kind"
+      "term": "single"
     }
   ],
   "nextCursor": "840",

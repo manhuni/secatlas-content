@@ -2,90 +2,84 @@
   "language": "vi",
   "lessonId": "article_vibe_coding",
   "objectives": [
-    "Định nghĩa vibe coding và phân biệt nó với lập trình.",
-    "Mô tả nợ kỹ thuật tích lũy ở đâu trong code do AI tạo ra.",
-    "Giải thích vì sao code chạy không đồng nghĩa code được hiểu.",
-    "Nhận ra giới hạn kiến trúc của phát triển bằng lời nhắc.",
-    "Nêu được ai chịu trách nhiệm về phần mềm do AI viết."
+    "Định nghĩa lập trình theo cảm hứng (vibe coding) và giải thích cách nó khác với lập trình thông thường.",
+    "Mô tả nơi nợ kỹ thuật tích tụ trong mã do AI tạo ra.",
+    "Giải thích tại sao mã nguồn chạy được không đồng nghĩa với mã nguồn đã được hiểu rõ.",
+    "Nhận ra những giới hạn kiến trúc của phương pháp phát triển dựa trên lệnh.",
+    "Nêu rõ ai chịu trách nhiệm về phần mềm do AI viết."
   ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
     {
-      "body": "Vibe coding là cách xây phần mềm bằng mô tả bằng ngôn ngữ thường cho AI, dán code nó tạo ra, và chấp nhận kết quả khi thấy có vẻ chạy. Thuật ngữ lan nhanh từ 2025 khi các công cụ AI viết code đủ tốt để người không phải lập trình viên cũng tạo ra ứng dụng chạy thật.\n\nSản phẩm đầu ra không phải đồ giả. Ứng dụng chạy thật, bản demo ấn tượng, và với công cụ nhỏ cá nhân, đây thường là đường nhanh nhất từ ý tưởng tới phần mềm dùng được. Có điều gì đó đã thật sự thay đổi: chi phí tạo ra code đã sụp đổ, cùng với rào cản từng buộc người ta phải hiểu một hệ thống trước khi mở rộng nó.\n\nNhưng code chạy được không phải code được hiểu. Một chương trình không chỉ là hành vi hôm nay; nó là hành vi dưới dữ liệu xấu, dưới tải nặng, dưới tấn công, và một năm sau khi nền tảng thay đổi. Vibe coding tối ưu điều đầu tiên trong số đó và khám phá phần còn lại sau.",
+      "body": "Lập trình theo cảm giác (vibe coding) là cách xây dựng phần mềm bằng cách mô tả điều bạn muốn cho AI bằng ngôn ngữ tự nhiên, dán mã nguồn do AI tạo ra và chấp nhận kết quả nếu thấy nó hoạt động. Khái niệm này lan rộng vào năm 2025, khi các công cụ lập trình bằng AI đã đủ tốt để những người không biết lập trình cũng có thể tạo ra những ứng dụng chạy thật.\n\nKết quả không phải là giả. Ứng dụng chạy được, phần demo gây ấn tượng, và với các công cụ cá nhân quy mô nhỏ, phương pháp này thường là con đường nhanh nhất để biến ý tưởng thành phần mềm có thể sử dụng. Điều gì đó thực sự đã thay đổi: chi phí tạo mã nguồn đã giảm mạnh, và cùng với đó, rào cản từng buộc mọi người phải hiểu hệ thống trước khi có thể mở rộng nó cũng biến mất.\n\nNhưng mã nguồn chạy được chưa chắc là mã nguồn có thể được hiểu. Một chương trình không chỉ có hành vi của nó hôm nay; nó còn có hành vi khi gặp dữ liệu rác, khi chịu tải, khi bị tấn công, và một năm nữa khi nền tảng thay đổi. Vibe coding tối ưu điều đầu tiên và phát hiện những điều còn lại sau.",
       "examples": [
-        "Ứng dụng cuối tuần chạy hoàn hảo trong demo và sụp đổ khi hai trăm người dùng thật mang dữ liệu thật đến."
+        "Ứng dụng cuối tuần chạy hoàn hảo trong bản thử nghiệm, nhưng sụp đổ khi có hai trăm người dùng thật truy cập cùng dữ liệu thật."
       ],
-      "heading": "Phần mềm từ lời mô tả"
+      "heading": "Phần mềm theo mô tả"
     },
     {
-      "body": "Nợ kỹ thuật là chi phí tương lai của những lối tắt hôm nay. Code do AI tạo ra mang một hương vị đặc biệt của nó: code mà không ai — kể cả tác giả — hiểu trọn vẹn.\n\nKhoản nợ trốn ở những chỗ cụ thể. **Xử lý lỗi** được sinh theo hình dáng đường thuận lợi nên lỗi nổ ra xa nguyên nhân. **Xử lý dữ liệu** tin vào đầu vào theo cách ví dụ làm, chứ không theo cách thế giới thật hành xử. **Các gói phụ thuộc** chất chồng trong im lặng: code sinh ra nhập những thư viện không ai chọn, mỗi cái là một bản tin an ninh tương lai. Và **kiến trúc** được ứng biến từng lượt nhắc một, nên hệ thống là cung điện của phần thêm mà không có thiết kế chịu lực.\n\nChẳng gì trong số này làm code vô dụng. Nó khiến code **chưa được định giá**. Chi phí thật của hệ thống vibe-coded không nhìn thấy lúc phát hành; nó đến như một chuỗi bí ẩn nhỏ ngốn giờ của người bảo trì — thường là chính người đó, giờ đọc code danh nghĩa là của mình và thực chất là của người lạ.",
+      "body": "Nợ kỹ thuật là chi phí trong tương lai của những lối tắt được thực hiện ngày hôm nay. Mã nguồn do AI tạo ra mang một dạng nợ kỹ thuật đặc biệt: mã nguồn mà không ai — kể cả người viết — thực sự hiểu rõ.\n\nKhoản nợ ẩn giấu ở những vị trí cụ thể. **Xử lý lỗi** được tạo ra theo hình dạng của kịch bản thuận lợi, nên các sự cố chỉ lộ ra ở rất xa so với nguyên nhân thực sự của chúng. **Xử lý dữ liệu** tin tưởng các đầu vào giống như cách nó tin tưởng các ví dụ, chứ không phải theo cách thế giới thực vận hành. **Các phụ thuộc** cứ lặng lẽ tích tụ: mã nguồn được tạo ra nhập các gói mà không ai chọn, mỗi gói đều có thể trở thành một bản tin bảo mật trong tương lai. Và **kiến trúc** được tự hình thành qua từng câu lệnh một, nên hệ thống là một lâu đài được đài thêm từng chút, không có thiết kế kết cấu chịu lực nào.\n\nNhững điều này không khiến mã nguồn trở nên vô dụng. Điều đó khiến nó không được định giá. Chi phí thực sự của một hệ thống được lập trình bằng “vibe” không hiện ra vào thời điểm phát hành; nó đến dưới dạng một loạt bí ẩn nhỏ, tước đi hàng giờ của người duy trì — thường là chính người đó, giờ phải đọc một đoạn mã ngoại hình mang tên mình nhưng thực chất thuộc về một người xa lạ.",
       "examples": [
-        "Sửa một lỗi sinh ra ba lỗi mới, vì không ai — người hay máy — nhớ vì sao code gốc được viết thế."
+        "Bản vá cho một lỗi lại tạo ra ba lỗi mới, bởi không ai — dù là người hay máy — nhớ lý do đoạn mã ban đầu được viết theo cách đó."
       ],
-      "heading": "Nợ kỹ thuật trốn ở đâu"
+      "heading": "Nơi khoản nợ ẩn giấu"
     },
     {
-      "body": "Lập trình chưa bao giờ chủ yếu là gõ code. Nó luôn là giữ một hệ thống trong đầu: biết vì sao nó có hình dáng này, nó sẽ làm gì ở các trường hợp biên, và nó sẽ vỡ ở đâu. Viết code từng là một cách xây mô hình tâm trí đó. AI đã tách hai thứ ra.\n\nĐiều này tạo ra một phân biệt mới. Có người tạo ra phần mềm mà không hiểu nó, và có người hiểu phần mềm rồ i dùng AI để tạo nó nhanh hơn. Nhóm đầu phát hành demo; nhóm sau phát hành sản phẩm. Khác biệt không nằm ở trí thông minh hay tài năng — mà ở chỗ việc đọc code có quan trọng với họ không.\n\nBài kiểm tra thực tế rất đơn giản: với bất kỳ hệ thống nào bạn phát hành, bạn có giải thích được từng dòng những phần quan trọng làm gì và vì sao không? Không phải nhớ lại các lượt nhắc — mà đọc từ chính đoạn code. Nếu có, AI đã tăng tốc cho bạn. Nếu không, AI đã thay thế bạn, và giờ bạn là hành khách trên chính sản phẩm của mình.",
+      "body": "Lập trình không bao giờ chủ yếu là viết mã. Điều cốt lõi luôn là giữ trong đầu một hệ thống: hiểu vì sao nó có hình dạng này, nó sẽ hoạt động thế nào trong những trường hợp hiếm, và khi nào nó sẽ hỏng. Viết mã là một cách để xây dựng mô hình tư duy đó. AI đã tách hai thứ này.\n\nĐiều này tạo ra một sự phân biệt mới. Có người có thể tạo ra phần mềm mà không cần hiểu nó, và cũng có người hiểu phần mềm rồi dùng AI để tạo ra nhanh hơn. Nhóm đầu chỉ tung ra các bản demo; nhóm thứ hai tung ra sản phẩm. Khác biệt không nằm ở trí tuệ hay tài năng, mà ở việc đọc mã có quan trọng với họ hay không.\n\nBài kiểm tra thực tế rất đơn giản: với bất kỳ hệ thống nào bạn tung ra, bạn có thể giải thích từng dòng một, các phần quan trọng hoạt động thế nào và vì sao cần như vậy không? Không phải từ trí nhớ về các câu lệnh, mà từ chính mã nguồn. Nếu có, AI đã giúp bạn tăng tốc. Nếu không, AI đã thay thế bạn, và giờ bạn chỉ là hành khách trong sản phẩm của chính mình.",
       "examples": [
-        "Cô ấy duyệt từng hàm do AI tạo trước khi chấp nhận; kho code của cô tăng chậm hơn và vỡ ít hơn hẳn của đồng nghiệp."
+        "Cô ấy xem xét mọi hàm do AI tạo ra trước khi chấp nhận; cơ sở mã nguồn của cô ấy tăng chậm hơn và ít bị lỗi hơn nhiều so với của đồng nghiệp."
       ],
-      "heading": "Đọc code mới là kỹ năng thật"
+      "heading": "Đọc mã là kỹ năng thực sự"
     },
     {
-      "body": "Những thuật ngữ này đặt tên các lực tác động khi phần mềm được sinh ra thay vì được viết.",
-      "heading": "Từ vựng của phần mềm do AI xây",
+      "body": "Những thuật ngữ này chỉ các lực tác động khi phần mềm được tạo ra thay vì được viết ra.",
+      "heading": "Vốn từ của phần mềm được xây dựng bằng AI",
       "terms": [
         {
-          "example": "Buổ i vibe coding của anh ấy cho ra ứng dụng ghi việc chạy được trong một tối — và hôm sau anh không sửa nổi logic sắp xếp của nó.",
-          "gloss": "Xây phần mềm bằng cách nhắc AI và chấp nhận code sinh ra chỉ dựa trên việc nó có vẻ chạy, không nhất thiết hiểu nó.",
-          "term": "Vibe coding",
+          "example": "Buổi lập trình bằng vibe coding của anh đã tạo ra một ứng dụng việc cần làm hoạt động chỉ trong một buổi tối — và ngày hôm sau anh không thể chỉnh sửa logic sắp xếp của ứng dụng.",
+          "gloss": "Xây dựng phần mềm bằng cách đưa ra yêu cầu cho AI và chấp nhận mã nguồn do AI tạo ra nếu thấy nó có vẻ hoạt động, mà không nhất thiết phải hiểu mã nguồn đó.",
           "termId": "vibe_coding"
         },
         {
-          "example": "Bỏ qua kiểm tra dữ liệu đúng chuẩn là khoản nợ kỹ thuật đến hạn ngay lần đầu người dùng gõ một dấu ngoặc kép.",
-          "gloss": "Chi phí tương lai của lối tắt trong phần mềm: những việc phải làm lại vì đã chọn giải pháp nhanh thay vì đúng.",
-          "term": "Nợ kỹ thuật",
+          "example": "Bỏ qua việc kiểm tra dữ liệu đúng cách là một khoản nợ kỹ thuật đến hạn ngay lần đầu tiên người dùng nhập dấu nháy kép.",
+          "gloss": "Chi phí tương lai của các lối tắt trong phần mềm: những phần việc phải làm lại vì đã chọn giải pháp nhanh thay vì giải pháp đúng đắn.",
           "termId": "technical_debt"
         },
         {
-          "example": "Kiến trúc phần mềm tốt là lý do một đội sửa hệ thống thanh toán mà không động tới hệ thống đăng nhập.",
-          "gloss": "Cấu trúc tổng thể của hệ thống: các bộ phận được chia và nối thế nào, được quyết trước khi viết chi tiết.",
-          "term": "Kiến trúc phần mềm",
+          "example": "Kiến trúc phần mềm tốt là lý do một nhóm có thể thay đổi hệ thống thanh toán mà không cần đụng đến hệ thống đăng nhập.",
+          "gloss": "Cấu trúc tổng thể của một hệ thống: cách các bộ phận được phân chia và kết nối với nhau, được quyết định trước khi viết các chi tiết.",
           "termId": "software_architecture"
         },
         {
-          "example": "Phần kiểm tra code bắt được việc AI đã dùng bộ sinh số ngẫu nhiên cho mã bảo mật.",
-          "gloss": "Thực hành để code được một lập trình viên khác — hoặc chính tác giả với đôi mắt mới — đọc và kiểm tra trước khi chấp nhận.",
-          "term": "Kiểm tra code",
+          "example": "Bản rà soát mã nguồn phát hiện AI đã sử dụng bộ tạo số ngẫu nhiên cho mã thông báo bảo mật.",
+          "gloss": "Thực hành để mã được một lập trình viên khác — hoặc chính tác giả với đôi mắt mới — đọc và kiểm tra trước khi được chấp nhận.",
           "termId": "code_review"
         },
         {
-          "example": "Mô-đun có khả năng bảo trì hoàn hảo: lập trình viên mới sửa được lỗi trong ngày đầu tiên.",
-          "gloss": "Mức độ con người có thể hiểu, sửa và mở rộng phần mềm trong tương la i.",
-          "term": "Khả năng bảo trì",
+          "example": "Mô-đun có khả năng bảo trì hoàn hảo: một nhà phát triển mới đã sửa được một lỗi ngay trong ngày làm việc đầu tiên.",
+          "gloss": "Mức độ dễ dàng để con người có thể hiểu, sửa và mở rộng phần mềm trong tương lai.",
           "termId": "maintainability"
         },
         {
-          "example": "Nguyên nhân gốc của vụ sập nằm ở một bước kiểm tra thiếu cách hai tầng so với nơi lỗi hiện ra.",
-          "gloss": "Lý do nền tảng khiến vấn đề tồn tại, trái với triệu chứng làm nó lộ ra.",
-          "term": "Nguyên nhân gốc",
+          "example": "Nguyên nhân gốc của sự cố là do thiếu một điều kiện kiểm tra ở hai tầng bên ngoài nơi lỗi xuất hiện.",
+          "gloss": "Nguyên nhân gốc rễ khiến một vấn đề tồn tại, chứ không phải triệu chứng khiến vấn đề đó lộ ra.",
           "termId": "root_cause"
         }
       ]
     },
     {
-      "body": "Nếu AI viết code và bạn phát hành nó, các lỗi là của bạn. Pháp luật, các cửa hàng ứng dụng, người dùng và lương tâm đều gán phần mềm cho người hoặc công ty đã xuất bản nó. 'Do AI làm' không phải lời biện minh, vì bạn đã chọn công cụ, chấp nhận kết quả, và giữ lấy phần lợi.",
-      "heading": "Trách nhiệm không chuyển giao được"
+      "body": "Nếu AI viết mã và bạn đưa nó lên vận hành, lỗi là thuộc trách nhiệm của bạn. Luật pháp, các kho ứng dụng, người dùng và lương tâm của bạn đều quy trách nhiệm phần mềm cho cá nhân hoặc công ty đã phát hành nó. “AI đã làm việc đó” không phải là lý do bảo vệ, bởi vì chính bạn đã chọn công cụ, chấp nhận kết quả và giữ lại thu nhập.",
+      "heading": "Trách nhiệm không chuyển nhượng được"
     },
     {
-      "body": "Cách dùng AI trong lập trình hiệu quả không phải tránh nó mà là giữ vòng lặp kín: **nhắc, đọc, kiểm thử, làm chủ**. Sinh ra, rồ i đọc những gì đã sinh — thật sự đọc, kể cả phần bạn không yêu cầu. Kiểm thử vượt xa đường thuận lợi: dữ liệu xấu, trạng thái rỗng, dùng lặp lại, người dùng thứ hai.\n\nPhát triển hệ thống theo những mảnh nhỏ con người cầm được. Khi một khối sinh ra vượt quá khả năng giải thích của bạn, dừng lại và thu nhỏ tới khi giải thích được. Giữ một bản ghi — dù chỉ là sổ tay — vì sao mỗi phần lớn tồn tại.\n\nDùng theo cách này, AI là trợ lý lập trình mạnh nhất từng được chế tạo: nó gỡ việc gõ, nhớ cú pháp thay bạn, và soạn nhát tám mươ i phần trăm phần nhàm chán. Điều nó không làm được là hai mươ i phần trăm còn lại — phán đoán, trách nhiệm, và quyết định cái gì nên tồn tại. Phần đó vẫn là việc của con người, và là phần quan trọng nhất.",
+      "body": "Cách tận dụng AI hiệu quả trong lập trình không phải là né tránh nó, mà là giữ cho vòng lặp được khép kín: **nhập lệnh, đọc, kiểm thử, chịu trách nhiệm**. Hãy tạo ra, rồi đọc kỹ những gì đã tạo — thực sự đọc, kể cả những phần bạn không yêu cầu. Hãy kiểm thử ngoài luồng thành công: dữ liệu đầu vào không hợp lệ, trạng thái trống, sử dụng lặp lại và người dùng thứ hai.\n\nHãy phát triển hệ thống theo từng phần nhỏ để con người có thể nắm giữ được. Khi một đoạn mã được tạo ra phức tạp hơn mức bạn có thể giải thích, hãy dừng lại và đơn giản hóa cho đến khi bạn hiểu rõ. Hãy lưu lại bằng văn bản — kể cả một quyển sổ tay — lý do mỗi thành phần quan trọng tồn tại.\n\nKhi được sử dụng theo cách này, AI là trợ lý lập trình mạnh mẽ nhất từng được tạo ra: nó giúp bạn bỏ qua việc gõ phím, ghi nhớ cú pháp thay bạn và soạn ra 80% phần nhàm chán. Điều nó không thể làm là 20% còn lại — phán đoán, trách nhiệm và quyết định xem điều gì nên tồn tại. Phần đó vẫn là việc của con người, và đó cũng là phần quan trọng nhất.",
       "examples": [
-        "Anh ấy sinh code bằng AI hằng ngày, nhưng mọi hàm đều được đọc, mọi quyết định được ghi, và sản phẩm của anh sống sót với người dùng."
+        "Anh ấy lập trình với AI mỗi ngày, nhưng từng hàm đều được đọc, từng quyết định đều được lưu lại, và sản phẩm của anh ấy vẫn tồn tại lâu hơn cả người dùng."
       ],
-      "heading": "Vibe coding cho đúng"
+      "heading": "Lập trình theo vibe cho tốt"
     }
   ],
-  "summary": "Tả ứng dụng cho AI, nhận code chạy được, phát hành tối nay. Vibe coding là thật và hiệu quả — cho tới khi không còn. Bài viết giải thích chuyện gì thật sự xảy ra khi phần mềm xuất hiện từ lời nhắc, nợ kỹ thuật trốn ở đâu trong code do AI viết, và vì sao người phát hành vẫn chịu trách nhiệm cho những gì họ phát hành.",
-  "title": "Vibe coding và ảo tưởng của người không lập trình"
+  "summary": "Mô tả một ứng dụng cho AI, nhận mã nguồn hoạt động và phát hành nó ngay tối nay. Lập trình theo phong cách “vibe” là có thật và nó hoạt động — cho đến khi không còn hoạt động. Bài viết này giải thích thực sự điều gì đang xảy ra khi phần mềm xuất hiện từ các lệnh nhắc, nơi nào nợ kỹ thuật ẩn trong mã nguồn do AI tạo ra, và tại sao người phát hành vẫn chịu trách nhiệm về sản phẩm mình đã phát hành.",
+  "title": "Lập trình theo cảm hứng và ảo tưởng hiểu biết"
 }

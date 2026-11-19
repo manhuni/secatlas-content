@@ -1,571 +1,568 @@
 {
   "items": [
     {
-      "definition": "The power of a test to separate the people who know the material from those who do not.",
-      "dictionaryId": "lex.sa.mind.intelill_discriminability",
-      "example": "A test that everybody passes has poor discriminability.",
-      "fieldId": "mind",
-      "id": "intelill_discriminability",
-      "lessonIds": [
-        "article_intelligence_illusion"
-      ],
-      "packs": [
-        "knw.mind.intelligence_illusion"
-      ],
-      "term": "Discriminability"
-    },
-    {
-      "definition": "The test that says whether something is good enough, or true enough.",
-      "dictionaryId": "lex.sa.mind.mind_criterion",
-      "example": "The criterion for a useful fault report is not the length of it but the reason in it.",
-      "fieldId": "mind",
-      "id": "mind_criterion",
-      "lessonIds": [
-        "article_intelligence_illusion",
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.intelligence_illusion",
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Criterion"
-    },
-    {
-      "definition": "Judging your own work or your own ability.",
-      "dictionaryId": "lex.sa.mind.intelill_self_assessment",
-      "example": "Self-assessment told him he was ready; the job in front of him said otherwise.",
-      "fieldId": "mind",
-      "id": "intelill_self_assessment",
-      "lessonIds": [
-        "article_intelligence_illusion"
-      ],
-      "packs": [
-        "knw.mind.intelligence_illusion"
-      ],
-      "term": "Self-assessment"
-    },
-    {
-      "definition": "Rating your ability above what it is.",
-      "dictionaryId": "lex.sa.mind.intelill_overestimation",
-      "example": "Her overestimation cost her the job she had already won in her head.",
-      "fieldId": "mind",
-      "id": "intelill_overestimation",
-      "lessonIds": [
-        "article_intelligence_illusion"
-      ],
-      "packs": [
-        "knw.mind.intelligence_illusion"
-      ],
-      "term": "Overestimation"
-    },
-    {
-      "definition": "The ability to reason, to solve a problem that is not written down, and to adapt when the situation changes.",
-      "dictionaryId": "lex.sa.mind.intel_intelligence",
-      "example": "Intelligence is what lets her find her way through a procedure she has never seen before.",
-      "fieldId": "mind",
-      "id": "intel_intelligence",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Intelligence"
-    },
-    {
-      "definition": "The work of working out a step-by-step path to an answer, and of checking that path.",
-      "dictionaryId": "lex.sa.mind.intel_reasoning",
-      "example": "Reasoning took her through the fault one step at a time until the cause was clear.",
-      "fieldId": "mind",
-      "id": "intel_reasoning",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Reasoning"
-    },
-    {
-      "definition": "The ability to handle an idea apart from the single case it came from, and to see the shape of it.",
-      "dictionaryId": "lex.sa.mind.intel_abstraction",
-      "example": "Abstraction is what let him see that the same fault on two machines had one cause.",
-      "fieldId": "mind",
-      "id": "intel_abstraction",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Abstraction"
-    },
-    {
-      "definition": "The small amount of information a person can hold in mind for a short time and still use.",
-      "dictionaryId": "lex.sa.mind.intel_working_memory",
-      "example": "His working memory filled up with the five readings he was tracking, and he lost the first one.",
-      "fieldId": "mind",
-      "id": "intel_working_memory",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Working memory"
-    },
-    {
-      "definition": "Deep skill and knowledge in one narrow field, built up over years of practice.",
-      "dictionaryId": "lex.sa.mind.intel_expertise",
-      "example": "Her expertise on the press line made her the only person who could set the machine up.",
-      "fieldId": "mind",
-      "id": "intel_expertise",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Expertise"
-    },
-    {
-      "definition": "The capacity to learn a particular kind of work quickly and well.",
-      "dictionaryId": "lex.sa.mind.intel_aptitude",
-      "example": "She had an aptitude for the work: she was accurate within a week of arriving.",
-      "fieldId": "mind",
-      "id": "intel_aptitude",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Aptitude"
-    },
-    {
-      "definition": "The pattern of strengths and weaknesses a person shows across different kinds of thinking.",
-      "dictionaryId": "lex.sa.mind.intel_cognitive_profile",
-      "example": "Her cognitive profile is strong with people and weak with long tables of numbers.",
-      "fieldId": "mind",
-      "id": "intel_cognitive_profile",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Cognitive profile"
-    },
-    {
-      "definition": "The ability to follow and build an argument made of words.",
-      "dictionaryId": "lex.sa.mind.intel_verbal_reasoning",
-      "example": "His verbal reasoning was strong: he checked the contract clause by clause and found the gap.",
-      "fieldId": "mind",
-      "id": "intel_verbal_reasoning",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Verbal reasoning"
-    },
-    {
-      "definition": "The ability to handle quantity, order and calculation.",
-      "dictionaryId": "lex.sa.mind.intel_numerical_reasoning",
-      "example": "Numerical reasoning is what she used to compare the two costs before signing.",
-      "fieldId": "mind",
-      "id": "intel_numerical_reasoning",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Numerical reasoning"
-    },
-    {
-      "definition": "The ability to handle shapes, positions and how parts fit together.",
-      "dictionaryId": "lex.sa.mind.intel_spatial_reasoning",
-      "example": "Spatial reasoning is what let him find the leak from a drawing of the pipework.",
-      "fieldId": "mind",
-      "id": "intel_spatial_reasoning",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Spatial reasoning"
-    },
-    {
-      "definition": "The general ability that shows up across many different kinds of thinking, usually written g.",
-      "dictionaryId": "lex.sa.mind.intel_general_factor",
-      "example": "The general factor explains why a person who is good on one test is often good on others.",
-      "fieldId": "mind",
-      "id": "intel_general_factor",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "General factor"
-    },
-    {
-      "definition": "The share of the spread of scores inside a population that is attributable to genetic differences within that population.",
-      "dictionaryId": "lex.sa.mind.intel_heritability",
-      "example": "The heritability estimate for a group of students says nothing about the cause of one student's score.",
-      "fieldId": "mind",
-      "id": "intel_heritability",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Heritability"
-    },
-    {
-      "definition": "What a person has actually done, as distinct from what the person could have done.",
-      "dictionaryId": "lex.sa.mind.intel_achievement",
-      "example": "His achievement in the first two years came from long hours and good training, not from a rare ability.",
-      "fieldId": "mind",
-      "id": "intel_achievement",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Achievement"
-    },
-    {
-      "definition": "A comparison that carries a case the reader knows into a case they do not know yet.",
-      "dictionaryId": "lex.sa.mind.mind_analogy",
-      "example": "The analogy is clear: the pipe is like a road, and the loss is the distance.",
-      "fieldId": "mind",
-      "id": "mind_analogy",
-      "lessonIds": [
-        "article_intelligence_nature",
-        "article_math_and_literature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature",
-        "knw.mind.math_and_literature"
-      ],
-      "term": "Analogy"
-    },
-    {
-      "definition": "What a person has when they can recall facts, use them to answer a question, and say why they hold.",
-      "dictionaryId": "lex.sa.mind.kpar_knowledge",
-      "example": "He had the facts and the knowledge, because he could say why the pump behaved that way.",
-      "fieldId": "mind",
-      "id": "kpar_knowledge",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Knowledge"
-    },
-    {
-      "definition": "The act of saying what makes two things different, so that the reader does not confuse them.",
-      "dictionaryId": "lex.sa.mind.kpar_distinction",
-      "example": "The distinction between the answer and the reason matters in every report.",
-      "fieldId": "mind",
-      "id": "kpar_distinction",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Distinction"
-    },
-    {
-      "definition": "The ability to bring a fact back into the mind when it is needed, without looking it up.",
-      "dictionaryId": "lex.sa.mind.kpar_recall",
-      "example": "My recall of the formula is good; my recall of the reason behind it is not.",
-      "fieldId": "mind",
-      "id": "kpar_recall",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Recall"
-    },
-    {
-      "definition": "A link between two facts, so that one explains, limits or changes the other.",
-      "dictionaryId": "lex.sa.mind.kpar_connection",
-      "example": "There is a connection between the load on the pump and the life of the seal.",
-      "fieldId": "mind",
-      "id": "kpar_connection",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Connection"
-    },
-    {
-      "definition": "A shape that several facts share, which is easier to see than the facts themselves.",
-      "dictionaryId": "lex.sa.mind.kpar_pattern",
-      "example": "The same pattern is in all three faults: the seal starts to leak before the part fails.",
-      "fieldId": "mind",
-      "id": "kpar_pattern",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Pattern"
-    },
-    {
-      "definition": "An account that says why a fact holds, in words somebody else can follow.",
-      "dictionaryId": "lex.sa.mind.kpar_explanation",
-      "example": "The explanation of the fault was better than the manual, because it said why the seal failed.",
-      "fieldId": "mind",
-      "id": "kpar_explanation",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Explanation"
-    },
-    {
-      "definition": "A set of steps written in an order that another person can follow.",
-      "dictionaryId": "lex.sa.mind.kpar_method",
-      "example": "The method is six steps, and any of us can run it on a new fact.",
-      "fieldId": "mind",
-      "id": "kpar_method",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Method"
-    },
-    {
-      "definition": "A statement of what to do in a case, written for the situation the author had in mind.",
-      "dictionaryId": "lex.sa.mind.kpar_rule",
-      "example": "The rule says to tighten the bolt to a stated torque, and it says nothing about the old bolt.",
-      "fieldId": "mind",
-      "id": "kpar_rule",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Rule"
-    },
-    {
-      "definition": "The case in which a rule does not hold, and the rule is not wrong.",
-      "dictionaryId": "lex.sa.mind.kpar_exception",
-      "example": "The exception is written under the rule: never on a seized bolt.",
-      "fieldId": "mind",
-      "id": "kpar_exception",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Exception"
-    },
-    {
-      "definition": "The situation in front of you, with its own conditions, not the generic one.",
-      "dictionaryId": "lex.sa.mind.kpar_case",
-      "example": "This case is not the case the manual was written for.",
-      "fieldId": "mind",
-      "id": "kpar_case",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Case"
-    },
-    {
-      "definition": "The situation around a fact that decides what the fact means.",
-      "dictionaryId": "lex.sa.mind.kpar_context",
-      "example": "In the context of a night shift, that warning means something different.",
-      "fieldId": "mind",
-      "id": "kpar_context",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Context"
-    },
-    {
-      "definition": "The way a fact bears on the question being asked.",
-      "dictionaryId": "lex.sa.mind.kpar_relevance",
-      "example": "The relevance of the log is clear once you know which question you are asking.",
-      "fieldId": "mind",
-      "id": "kpar_relevance",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Relevance"
-    },
-    {
-      "definition": "Running an AI model on one's own hardware rather than through a company's hosted service.",
-      "dictionaryId": "lex.sa.mind.local_ai",
+      "definition": "Familiarity with the surface of many topics without understanding of how any of them works.",
+      "dictionaryId": "lex.sa.mind.shallow_knowledge",
       "example": "",
       "fieldId": "mind",
-      "id": "local_ai",
+      "id": "shallow_knowledge",
       "lessonIds": [
-        "article_local_ai"
+        "article_info_overload"
       ],
       "packs": [
-        "knw.mind.local_ai"
+        "knw.mind.info_overload"
       ],
-      "term": "Local AI"
-    },
-    {
-      "definition": "Publishing the trained parameters of a model so anyone may download, run and modify it.",
-      "dictionaryId": "lex.sa.mind.open_weights",
-      "example": "",
-      "fieldId": "mind",
-      "id": "open_weights",
-      "lessonIds": [
-        "article_local_ai"
-      ],
-      "packs": [
-        "knw.mind.local_ai"
-      ],
-      "term": "Open weights"
+      "term": "Shallow knowledge"
     },
     {
       "conflict": true,
-      "definition": "Running a trained model to produce one answer. Cheap and fast compared with training, and it is what happens when you press send.",
-      "dictionaryId": "lex.sa.technology.inference",
-      "example": "Training cost a fortune; inference is what you pay for every time you use it.",
+      "definition": "Reading bad news repeatedly on purpose, because the subject holds your attention. A specific habit, not a synonym for scrolling.",
+      "dictionaryId": "lex.sa.technology.doomscrolling",
+      "example": "That was an hour of doomscrolling, and I felt worse each time I checked.",
       "fieldId": "mind",
-      "id": "inference",
+      "id": "doomscrolling",
       "lessonIds": [
-        "article_ai_revolution",
-        "article_local_ai"
+        "article_brainrot",
+        "article_info_overload"
       ],
       "packs": [
-        "knw.mind.local_ai",
-        "knw.tech.revolution"
+        "knw.mind.info_overload",
+        "knw.tech.brainrot"
       ],
-      "term": "Inference"
+      "term": "Doomscrolling"
     },
     {
-      "definition": "The chips, data centers and energy supply that make training and running large models possible.",
-      "dictionaryId": "lex.sa.mind.compute_infrastructure",
+      "definition": "A period in which investment and valuations in AI exceed the technology's near-term economic value.",
+      "dictionaryId": "lex.sa.mind.ai_bubble",
       "example": "",
       "fieldId": "mind",
-      "id": "compute_infrastructure",
+      "id": "ai_bubble",
       "lessonIds": [
-        "article_local_ai"
+        "article_ai_bubble"
       ],
       "packs": [
-        "knw.mind.local_ai"
+        "knw.mind.ai_bubble"
       ],
-      "term": "Compute infrastructure"
+      "term": "AI bubble"
     },
     {
-      "definition": "The condition in which switching suppliers is so costly that dependence continues regardless of price or quality.",
-      "dictionaryId": "lex.sa.mind.vendor_lock_in",
+      "definition": "The observed pattern in which new technologies pass through inflated expectations, disappointment, and eventual steady adoption.",
+      "dictionaryId": "lex.sa.mind.hype_cycle",
       "example": "",
       "fieldId": "mind",
-      "id": "vendor_lock_in",
+      "id": "hype_cycle",
       "lessonIds": [
-        "article_local_ai"
+        "article_ai_bubble"
       ],
       "packs": [
-        "knw.mind.local_ai"
+        "knw.mind.ai_bubble"
       ],
-      "term": "Vendor lock-in"
+      "term": "Hype cycle"
     },
     {
-      "definition": "The network of hardware, software, standards and services that a technology depends on to function.",
-      "dictionaryId": "lex.sa.mind.ecosystem",
+      "definition": "The total price investors place on a company or sector, reflecting expected future profits rather than current ones.",
+      "dictionaryId": "lex.sa.mind.market_valuation",
       "example": "",
       "fieldId": "mind",
-      "id": "ecosystem",
+      "id": "market_valuation",
       "lessonIds": [
-        "article_local_ai"
+        "article_ai_bubble"
       ],
       "packs": [
-        "knw.mind.local_ai"
+        "knw.mind.ai_bubble"
       ],
-      "term": "Ecosystem"
+      "term": "Market valuation"
     },
     {
-      "definition": "The use of pressure, ambiguity or emotion to move a person into a decision that does not serve them, without giving a real choice.",
-      "dictionaryId": "lex.sa.mind.psy_manipulation",
-      "example": "It was manipulation: he offered her two options and made the wrong one impossible.",
+      "definition": "The historical lag between the arrival of a transformative technology and its measurable effect on economic productivity.",
+      "dictionaryId": "lex.sa.mind.productivity_paradox",
+      "example": "",
       "fieldId": "mind",
-      "id": "psy_manipulation",
+      "id": "productivity_paradox",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_ai_bubble"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.ai_bubble"
       ],
-      "term": "Manipulation"
+      "term": "Productivity paradox"
     },
     {
-      "definition": "An honest attempt to win agreement, in which the other person is free to say no.",
-      "dictionaryId": "lex.sa.mind.psy_persuasion",
-      "example": "That was persuasion, not pressure: he explained the plan and left the decision to her.",
+      "definition": "The investigation of claims, numbers and risks before committing money or reputation.",
+      "dictionaryId": "lex.sa.mind.due_diligence",
+      "example": "",
       "fieldId": "mind",
-      "id": "psy_persuasion",
+      "id": "due_diligence",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_ai_bubble"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.ai_bubble"
       ],
-      "term": "Persuasion"
+      "term": "Due diligence"
     },
     {
-      "definition": "A push applied to a decision, usually through time or emotion, that makes the choice harder to refuse.",
-      "dictionaryId": "lex.sa.mind.psy_pressure",
-      "example": "The deadline is pressure, but you can still say that you need more time.",
+      "definition": "The revenue and cost attached to one unit of a product — the arithmetic of whether a business model works.",
+      "dictionaryId": "lex.sa.mind.unit_economics",
+      "example": "",
       "fieldId": "mind",
-      "id": "psy_pressure",
+      "id": "unit_economics",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_ai_bubble"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.ai_bubble"
       ],
-      "term": "Pressure"
+      "term": "Unit economics"
     },
     {
-      "definition": "The removal of a real choice by force or by the threat of harm.",
-      "dictionaryId": "lex.sa.mind.psy_coercion",
-      "example": "Sign the form today or lose the job — that is coercion, not persuasion.",
+      "definition": "The pattern in which removing difficulty lowers the tolerance for difficulty, making life feel harder even as it gets easier.",
+      "dictionaryId": "lex.sa.mind.comfort_paradox",
+      "example": "",
       "fieldId": "mind",
-      "id": "psy_coercion",
+      "id": "comfort_paradox",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_comfort_paradox"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.comfort_paradox"
       ],
-      "term": "Coercion"
+      "term": "Paradox of comfort"
+    },
+    {
+      "definition": "The capacity to recover quickly and fully after stress, failure or loss.",
+      "dictionaryId": "lex.sa.mind.resilience",
+      "example": "",
+      "fieldId": "mind",
+      "id": "resilience",
+      "lessonIds": [
+        "article_comfort_paradox"
+      ],
+      "packs": [
+        "knw.mind.comfort_paradox"
+      ],
+      "term": "Resilience"
+    },
+    {
+      "definition": "Sustained effort toward long-term goals, maintained through boredom and setbacks.",
+      "dictionaryId": "lex.sa.mind.grit",
+      "example": "",
+      "fieldId": "mind",
+      "id": "grit",
+      "lessonIds": [
+        "article_comfort_paradox"
+      ],
+      "packs": [
+        "knw.mind.comfort_paradox"
+      ],
+      "term": "Grit"
+    },
+    {
+      "definition": "The property of growing stronger under stress and disorder, beyond mere resistance to damage.",
+      "dictionaryId": "lex.sa.mind.antifragility",
+      "example": "",
+      "fieldId": "mind",
+      "id": "antifragility",
+      "lessonIds": [
+        "article_comfort_paradox"
+      ],
+      "packs": [
+        "knw.mind.comfort_paradox"
+      ],
+      "term": "Antifragility"
+    },
+    {
+      "definition": "The willingness to give up a smaller reward now for a larger reward later.",
+      "dictionaryId": "lex.sa.mind.delayed_gratification",
+      "example": "",
+      "fieldId": "mind",
+      "id": "delayed_gratification",
+      "lessonIds": [
+        "article_comfort_paradox"
+      ],
+      "packs": [
+        "knw.mind.comfort_paradox"
+      ],
+      "term": "Delayed gratification"
+    },
+    {
+      "definition": "The small resistance between wanting something and getting it, which slows consumption and quietly trains patience.",
+      "dictionaryId": "lex.sa.mind.friction",
+      "example": "Every plan met friction: the weather, the delay, the wrong order.",
+      "fieldId": "mind",
+      "id": "friction",
+      "lessonIds": [
+        "article_comfort_paradox"
+      ],
+      "packs": [
+        "knw.mind.comfort_paradox"
+      ],
+      "term": "Friction"
+    },
+    {
+      "definition": "Raising your own standing by showing that another person cannot do the work.",
+      "dictionaryId": "lex.sa.mind.cs_competence_shaming",
+      "example": "It was competence shaming: a real error became the reason to put her down in front of the team.",
+      "fieldId": "mind",
+      "id": "cs_competence_shaming",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Competence shaming"
+    },
+    {
+      "definition": "The place a person holds in a group: the respect and the authority that other people give them.",
+      "dictionaryId": "lex.sa.mind.cs_status",
+      "example": "Her status in the room changed the moment she was corrected in front of the client.",
+      "fieldId": "mind",
+      "id": "cs_status",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Status"
+    },
+    {
+      "definition": "The part of a person's standing that says their word about their own work can be trusted.",
+      "dictionaryId": "lex.sa.mind.cs_credibility",
+      "example": "A public correction took her credibility away, and it took months to get it back.",
+      "fieldId": "mind",
+      "id": "cs_credibility",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Credibility"
+    },
+    {
+      "definition": "A correction of somebody's work made in front of other people, where the correction also lowers their standing.",
+      "dictionaryId": "lex.sa.mind.cs_public_correction",
+      "example": "The public correction in the review meeting lasted a minute and stayed with her for a month.",
+      "fieldId": "mind",
+      "id": "cs_public_correction",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Public correction"
+    },
+    {
+      "definition": "Saying that something may be wrong without ever saying what is right, so that the doubt stays open.",
+      "dictionaryId": "lex.sa.mind.cs_hedging",
+      "example": "The hedging ran for weeks: doubt after doubt, and never one confirmed number.",
+      "fieldId": "mind",
+      "id": "cs_hedging",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Hedging"
+    },
+    {
+      "definition": "The people who are present and watching when you act.",
+      "dictionaryId": "lex.sa.mind.dual_audience",
+      "example": "With the customer in the room, the audience changed what he said.",
+      "fieldId": "mind",
+      "id": "cs_audience",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Audience"
+    },
+    {
+      "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+      "dictionaryId": "lex.sa.mind.cs_devaluation",
+      "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+      "fieldId": "mind",
+      "id": "cs_devaluation",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Devaluation"
+    },
+    {
+      "definition": "The work a person does to keep their place and their standing in a group.",
+      "dictionaryId": "lex.sa.mind.cs_status_maintenance",
+      "example": "Status maintenance is why she read the report twice before she sent it.",
+      "fieldId": "mind",
+      "id": "cs_status_maintenance",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Status maintenance"
+    },
+    {
+      "definition": "The slow, repeated work of taking away a person's confidence in their own judgement.",
+      "dictionaryId": "lex.sa.mind.cs_undermining",
+      "example": "The undermining was a few small remarks spread over a month, and none of them alone was worth arguing with.",
+      "fieldId": "mind",
+      "id": "cs_undermining",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Undermining"
+    },
+    {
+      "definition": "Letting a person keep their standing, especially after a mistake or a failure.",
+      "dictionaryId": "lex.sa.mind.cs_saving_face",
+      "example": "The manager saved face by letting the report be corrected without naming who had written it.",
+      "fieldId": "mind",
+      "id": "cs_saving_face",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Saving face"
+    },
+    {
+      "definition": "The public standing a person carries at work: the regard of colleagues, clients and the team.",
+      "dictionaryId": "lex.sa.mind.cs_professional_face",
+      "example": "His professional face was in pieces for a month after the review.",
+      "fieldId": "mind",
+      "id": "cs_professional_face",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Professional face"
+    },
+    {
+      "definition": "Turning a question back on the person who asked it, so that the original question is never answered.",
+      "dictionaryId": "lex.sa.mind.cs_deflection",
+      "example": "The deflection worked once, and I still had not answered what was wrong with the drawing.",
+      "fieldId": "mind",
+      "id": "cs_deflection",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Deflection"
+    },
+    {
+      "definition": "The arrangement in which one person is placed below another and kept there.",
+      "dictionaryId": "lex.sa.mind.cs_subordination",
+      "example": "The subordination was taught in the meeting: whoever spoke second was corrected first.",
+      "fieldId": "mind",
+      "id": "cs_subordination",
+      "lessonIds": [
+        "article_competence_shaming"
+      ],
+      "packs": [
+        "knw.mind.competence_shaming"
+      ],
+      "term": "Subordination"
+    },
+    {
+      "definition": "A repeated attack on a person's memory and judgement, so that they stop trusting what they remember.",
+      "dictionaryId": "lex.sa.mind.psy_gaslighting",
+      "example": "It was gaslighting: she was told her own account of the meeting was wrong.",
+      "fieldId": "mind",
+      "id": "gd_gaslighting",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Gaslighting"
+    },
+    {
+      "definition": "The person who denies the shared account and attacks the person who holds it; the word names the act, not the character.",
+      "dictionaryId": "lex.sa.mind.gd_gaslighter",
+      "example": "The gaslighter kept the denial flat and turned the talk to her character.",
+      "fieldId": "mind",
+      "id": "gd_gaslighter",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Gaslighter"
+    },
+    {
+      "definition": "What two people agree happened, and what each of them remembers about it.",
+      "dictionaryId": "lex.sa.mind.gd_shared_account",
+      "example": "Their shared account of the shift was simple, and both of them could still say it.",
+      "fieldId": "mind",
+      "id": "gd_shared_account",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Shared account"
+    },
+    {
+      "definition": "Keeping the account but changing the words in it, until the meaning that was shared is gone.",
+      "dictionaryId": "lex.sa.mind.gd_revisionism",
+      "example": "The word was changed from late to careless, and that was revisionism.",
+      "fieldId": "mind",
+      "id": "gd_revisionism",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Revisionism"
+    },
+    {
+      "definition": "The doubt a person is given about their own memory, until they check themselves instead of the facts.",
+      "dictionaryId": "lex.sa.mind.gd_manufactured_doubt",
+      "example": "The result was manufactured doubt: he began to check his own memory instead of the record.",
+      "fieldId": "mind",
+      "id": "gd_manufactured_doubt",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Manufactured doubt"
+    },
+    {
+      "definition": "The name of the pattern of three moves: deny, attack, and reverse victim and offender.",
+      "dictionaryId": "lex.sa.mind.gd_darvo",
+      "example": "The pattern was DARVO: deny, attack, and reverse victim and offender.",
+      "fieldId": "mind",
+      "id": "gd_darvo",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "DARVO"
+    },
+    {
+      "definition": "The refusal to accept a shared account, said in a way that does not change when the evidence appears.",
+      "dictionaryId": "lex.sa.mind.gd_denial",
+      "example": "The denial was said the same way every time, and the message did not change it.",
+      "fieldId": "mind",
+      "id": "gd_denial",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Denial"
+    },
+    {
+      "definition": "The move that turns on the person who holds the account, so that the person becomes the problem.",
+      "dictionaryId": "lex.sa.mind.gd_attack",
+      "example": "The attack moved the talk from the handover to her tone.",
+      "fieldId": "mind",
+      "id": "gd_attack",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Attack"
+    },
+    {
+      "definition": "The move that puts the two sides in the wrong places, crediting the harm to the person who suffered it.",
+      "dictionaryId": "lex.sa.mind.gd_reverse",
+      "example": "The reversal put the person who caused the harm in the place of the person who suffered it.",
+      "fieldId": "mind",
+      "id": "gd_reverse",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Reverse victim and offender"
+    },
+    {
+      "conflict": true,
+      "definition": "Turning a question back on the person who asked it, so that the original question is never answered.",
+      "dictionaryId": "lex.sa.mind.cs_deflection",
+      "example": "The deflection worked once, and I still had not answered what was wrong with the drawing.",
+      "fieldId": "mind",
+      "id": "gd_deflection",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Deflection"
+    },
+    {
+      "definition": "Putting your own act on the other person, and calling it the other person's character.",
+      "dictionaryId": "lex.sa.mind.gd_projection",
+      "example": "It was projection: the person who had been aggressive called the other one aggressive.",
+      "fieldId": "mind",
+      "id": "gd_projection",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Projection"
+    },
+    {
+      "definition": "Bringing a third person into a dispute between two, so that the two cannot settle it themselves.",
+      "dictionaryId": "lex.sa.mind.gd_triangulation",
+      "example": "Triangulation brought a third person into a dispute between two people.",
+      "fieldId": "mind",
+      "id": "gd_triangulation",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Triangulation"
+    },
+    {
+      "definition": "The written record that keeps a shared account alive when memory is attacked.",
+      "dictionaryId": "lex.sa.mind.gd_documentation",
+      "example": "The documentation was a handover note, a date and a message.",
+      "fieldId": "mind",
+      "id": "gd_documentation",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Documentation"
     }
   ],
   "nextCursor": "80",

@@ -1,568 +1,566 @@
 {
   "items": [
     {
-      "definition": "The pump turning without water around it, so that the motor has nothing to cool it.",
-      "dictionaryId": "lex.sa.daily_skills.pump_dry_run",
-      "example": "A dry run heats the motor of a submersible pump.",
-      "fieldId": "daily_skills",
-      "id": "pump_dry_run",
+      "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
+      "dictionaryId": "lex.sa.money.mon_currency_union",
+      "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
+      "fieldId": "money",
+      "id": "mon_currency_union",
       "lessonIds": [
-        "article_pump_electrical_safety"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety"
+        "knw.money.currencies"
       ],
-      "term": "Dry run"
+      "term": "Currency union"
     },
     {
-      "definition": "Water moving in the wrong direction, back along the pipe towards the pump.",
-      "dictionaryId": "lex.sa.daily_skills.pump_backflow",
-      "example": "After the supply stops, backflow can leave the pump running with no water.",
-      "fieldId": "daily_skills",
-      "id": "pump_backflow",
+      "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
+      "dictionaryId": "lex.sa.money.mon_dollarization",
+      "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
+      "fieldId": "money",
+      "id": "mon_dollarization",
       "lessonIds": [
-        "article_pump_electrical_safety"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.daily.pump_electrical_safety"
+        "knw.money.currencies"
       ],
-      "term": "Backflow"
-    },
-    {
-      "definition": "The push of electric charge that drives a current.",
-      "dictionaryId": "lex.sa.en.voltage.noun",
-      "example": "The voltage across the cell is 12 V.",
-      "fieldId": "daily_skills",
-      "id": "wh_voltage",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "voltage"
-    },
-    {
-      "definition": "The green-and-yellow conductor that ties the metal case of an appliance to the earth bar in the board.",
-      "dictionaryId": "lex.sa.daily_skills.wh_earth_wire",
-      "example": "The earth wire was cut by a drill during the last renovation.",
-      "fieldId": "daily_skills",
-      "id": "wh_earth_wire",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Earth wire (ground wire)"
-    },
-    {
-      "definition": "A device that opens a circuit when the current is higher than the circuit is rated for.",
-      "dictionaryId": "lex.sa.daily_skills.wh_circuit_breaker",
-      "example": "The circuit breaker is the 16 A device on the board.",
-      "fieldId": "daily_skills",
-      "id": "wh_circuit_breaker",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Circuit breaker"
-    },
-    {
-      "definition": "Joining metal parts to each other so that they cannot sit at different voltages.",
-      "dictionaryId": "lex.sa.daily_skills.wh_bonding",
-      "example": "Bonding of the metal pipework is part of the installation.",
-      "fieldId": "daily_skills",
-      "id": "wh_bonding",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Bonding"
-    },
-    {
-      "definition": "To open the circuit by itself, because the device has found a fault or an overload.",
-      "dictionaryId": "lex.sa.daily_skills.wh_trip",
-      "example": "The RCD tripped when the heater was switched on.",
-      "fieldId": "daily_skills",
-      "id": "wh_trip",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Trip"
-    },
-    {
-      "definition": "A valve on the tank that opens and releases water if the pressure or the temperature inside becomes too high.",
-      "dictionaryId": "lex.sa.daily_skills.wh_safety_valve",
-      "example": "The safety valve is the small brass valve on the cold pipe.",
-      "fieldId": "daily_skills",
-      "id": "wh_safety_valve",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Safety valve"
-    },
-    {
-      "definition": "A rod of metal that corrodes instead of the tank, so that the tank wall is saved.",
-      "dictionaryId": "lex.sa.daily_skills.wh_anode_rod",
-      "example": "The anode rod is checked at every service and replaced when it is worn away.",
-      "fieldId": "daily_skills",
-      "id": "wh_anode_rod",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Anode rod"
-    },
-    {
-      "definition": "A burn caused by hot liquid or steam.",
-      "dictionaryId": "lex.sa.daily_skills.wh_scald",
-      "example": "Water at 60 °C can scald a child in a few seconds.",
-      "fieldId": "daily_skills",
-      "id": "wh_scald",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Scald"
-    },
-    {
-      "definition": "Removing the mineral scale that builds up inside a tank and on the heating element.",
-      "dictionaryId": "lex.sa.daily_skills.wh_descaling",
-      "example": "Descaling is done at the service interval in hard water areas.",
-      "fieldId": "daily_skills",
-      "id": "wh_descaling",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Descaling"
-    },
-    {
-      "definition": "The substance in the medicine that produces the effect. Every other substance in the pack is only there to help it.",
-      "dictionaryId": "lex.sa.health.active_ingredient",
-      "example": "The active ingredient is the same in both packs, only the strength differs.",
-      "fieldId": "health",
-      "id": "active_ingredient",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Active ingredient"
-    },
-    {
-      "definition": "A condition in which the medicine must not be used, because the risk outweighs the benefit.",
-      "dictionaryId": "lex.sa.health.contraindication",
-      "example": "Pregnancy is a contraindication for this medicine, so I will ask about an alternative.",
-      "fieldId": "health",
-      "id": "contraindication",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Contraindication"
-    },
-    {
-      "definition": "Any effect the medicine has other than the one it is meant to produce.",
-      "dictionaryId": "lex.sa.health.side_effect",
-      "example": "Nausea is listed as a side effect, and it usually passes after the first few days.",
-      "fieldId": "health",
-      "id": "side_effect",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Side effect"
-    },
-    {
-      "definition": "What happens when a medicine meets another medicine, or alcohol, or a particular food. Some are dangerous.",
-      "dictionaryId": "lex.sa.health.interaction",
-      "example": "There is an interaction with this antibiotic, so I will tell the pharmacist about everything I take.",
-      "fieldId": "health",
-      "id": "interaction",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Interaction"
-    },
-    {
-      "definition": "The last date on which the maker guarantees the medicine keeps its strength and its safety.",
-      "dictionaryId": "lex.sa.health.expiry_date",
-      "example": "The expiry date is on the strip, so I checked the one on the box too.",
-      "fieldId": "health",
-      "id": "expiry_date",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Expiry date"
-    },
-    {
-      "definition": "The licence number under which the medicine is sold. It identifies the pack in the regulator's records.",
-      "dictionaryId": "lex.sa.health.marketing_authorisation_number",
-      "example": "The marketing authorisation number is printed at the bottom of the carton, and I quoted it in the report.",
-      "fieldId": "health",
-      "id": "marketing_authorisation_number",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Marketing authorisation number"
+      "term": "Dollarization"
     },
     {
       "conflict": true,
-      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
-      "dictionaryId": "lex.sa.daily_skills.serving_size",
-      "example": "One serving is 30 g, which is much less than the bowl I had.",
-      "fieldId": "health",
-      "id": "panel_serving_size",
+      "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
+      "dictionaryId": "lex.sa.mind.cs_devaluation",
+      "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
+      "fieldId": "money",
+      "id": "mon_devaluation",
       "lessonIds": [
-        "article_nutrition"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.money.currencies"
       ],
-      "term": "Serving size"
+      "term": "Devaluation"
     },
     {
-      "definition": "A daily guide for an average adult, used as the yardstick the percentages on a panel are measured against.",
-      "dictionaryId": "lex.sa.health.daily_value",
-      "example": "One portion gives me 40 % of the daily value for salt.",
-      "fieldId": "health",
-      "id": "daily_value",
+      "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
+      "dictionaryId": "lex.sa.money.mon_cash_economy",
+      "example": "In a cash economy, a market stall may not have a machine at all.",
+      "fieldId": "money",
+      "id": "mon_cash_economy",
       "lessonIds": [
-        "article_nutrition"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.money.currencies"
       ],
-      "term": "Daily value"
+      "term": "Cash economy"
     },
     {
-      "definition": "The average daily amount of energy or a nutrient for an adult. A guide, not a target.",
-      "dictionaryId": "lex.sa.health.reference_intake",
-      "example": "The reference intake for energy is about 2000 kilocalories a day.",
-      "fieldId": "health",
-      "id": "reference_intake",
+      "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
+      "dictionaryId": "lex.sa.money.mon_parallel_market",
+      "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
+      "fieldId": "money",
+      "id": "mon_parallel_market",
       "lessonIds": [
-        "article_nutrition"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.money.currencies"
       ],
-      "term": "Reference intake"
+      "term": "Parallel market"
     },
     {
-      "definition": "One of the three nutrients the body needs in quantity: carbohydrate, fat and protein.",
-      "dictionaryId": "lex.sa.health.macronutrient",
-      "example": "The main macronutrient in this product is fat, not carbohydrate.",
-      "fieldId": "health",
-      "id": "macronutrient",
+      "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
+      "dictionaryId": "lex.sa.money.mon_tipping",
+      "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
+      "fieldId": "money",
+      "id": "mon_tipping",
       "lessonIds": [
-        "article_nutrition"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.money.currencies"
       ],
-      "term": "Macronutrient"
+      "term": "Tipping"
     },
     {
-      "definition": "The saturated fats, which are the part of the fat that matters most for blood cholesterol.",
-      "dictionaryId": "lex.sa.health.saturated_fat",
-      "example": "It has 11 g of saturates, which is over half the daily reference.",
-      "fieldId": "health",
-      "id": "saturated_fat",
+      "definition": "The money a person working abroad sends to the family at home.",
+      "dictionaryId": "lex.sa.money.mon_remittance",
+      "example": "He sends a remittance every month, and the rent is paid from it.",
+      "fieldId": "money",
+      "id": "mon_remittance",
       "lessonIds": [
-        "article_nutrition"
+        "article_world_currencies"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.money.currencies"
       ],
-      "term": "Saturates"
+      "term": "Remittance"
     },
     {
-      "definition": "Sugar the manufacturer added, as distinct from sugar that came with the fruit or the milk.",
-      "dictionaryId": "lex.sa.health.added_sugar",
-      "example": "Total sugars are 20 g, and added sugars are 15 g of that.",
-      "fieldId": "health",
-      "id": "added_sugar",
+      "definition": "The percentage change in the general level of prices over a period of time, usually a year.",
+      "dictionaryId": "lex.sa.money.inflation_rate",
+      "example": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+      "fieldId": "money",
+      "id": "inflation_rate",
       "lessonIds": [
-        "article_nutrition"
+        "article_inflation"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.money.inflation"
       ],
-      "term": "Added sugar"
+      "term": "Inflation rate"
     },
     {
-      "definition": "The element that makes salt salty. A label quoting salt is quoting sodium plus the chloride with it.",
-      "dictionaryId": "lex.sa.health.sodium",
-      "example": "This has 0.5 g of sodium per 100 g, which is low.",
-      "fieldId": "health",
-      "id": "sodium",
+      "definition": "The standard index of the price of a basket of goods and services bought by households. Its change over time is the headline inflation rate.",
+      "dictionaryId": "lex.sa.money.consumer_price_index",
+      "example": "The consumer price index is the number the news report quotes.",
+      "fieldId": "money",
+      "id": "consumer_price_index",
       "lessonIds": [
-        "article_nutrition"
+        "article_inflation"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.money.inflation"
       ],
-      "term": "Sodium"
+      "term": "Consumer price index (CPI)"
     },
     {
-      "definition": "The roughly 24-hour cycle that sets your sleep, hormones, body temperature and appetite. Light is its strongest input.",
-      "dictionaryId": "lex.sa.health.circadian_rhythm",
-      "example": "My circadian rhythm has shifted, because I have been going to bed at two every night.",
-      "fieldId": "health",
-      "id": "circadian_rhythm",
+      "definition": "The year the price index starts from, set to 100. Changing it resets the index without changing any actual prices.",
+      "dictionaryId": "lex.sa.money.base_year",
+      "example": "With last year as the base year, the index now stands at 104.",
+      "fieldId": "money",
+      "id": "base_year",
       "lessonIds": [
-        "article_sleep"
+        "article_inflation"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.money.inflation"
       ],
-      "term": "Circadian rhythm"
+      "term": "Base year"
     },
     {
-      "definition": "The time between getting into bed and falling asleep. Under about twenty minutes is normal.",
-      "dictionaryId": "lex.sa.health.sleep_onset_latency",
-      "example": "My sleep onset latency is about forty minutes, most nights.",
-      "fieldId": "health",
-      "id": "sleep_onset_latency",
+      "definition": "Income measured in the money actually received, with no adjustment for changes in prices.",
+      "dictionaryId": "lex.sa.money.nominal_income",
+      "example": "My nominal income rose, but not as fast as prices.",
+      "fieldId": "money",
+      "id": "nominal_income",
       "lessonIds": [
-        "article_sleep"
+        "article_inflation"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.money.inflation"
       ],
-      "term": "Sleep onset latency"
+      "term": "Nominal income"
     },
     {
-      "definition": "The share of your time in bed that you were actually asleep. A long night can still be an inefficient one.",
-      "dictionaryId": "lex.sa.health.sleep_efficiency",
-      "example": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
-      "fieldId": "health",
-      "id": "sleep_efficiency",
+      "definition": "Income adjusted for inflation, which is the figure that says how much you can actually buy.",
+      "dictionaryId": "lex.sa.money.real_income",
+      "example": "Real income fell two per cent because prices rose faster than my pay.",
+      "fieldId": "money",
+      "id": "real_income",
       "lessonIds": [
-        "article_sleep"
+        "article_inflation"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.money.inflation"
       ],
-      "term": "Sleep efficiency"
+      "term": "Real income"
+    },
+    {
+      "definition": "The interest rate minus the inflation rate. It is the return a saver actually keeps in purchasing power.",
+      "dictionaryId": "lex.sa.money.real_interest_rate",
+      "example": "A 4 % deposit with 6 % inflation gives a real interest rate of minus 2 %.",
+      "fieldId": "money",
+      "id": "real_interest_rate",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Real interest rate"
+    },
+    {
+      "definition": "Total pay for the period before any money is deducted for tax, insurance or other agreed deductions.",
+      "dictionaryId": "lex.sa.money.gross_pay",
+      "example": "My gross pay is 40 $ a month, before anything is taken off.",
+      "fieldId": "money",
+      "id": "gross_pay",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Gross pay"
+    },
+    {
+      "definition": "The amount left after all deductions, and the amount that reaches your bank account.",
+      "dictionaryId": "lex.sa.money.net_pay",
+      "example": "The difference between my gross and my net is mostly tax and insurance.",
+      "fieldId": "money",
+      "id": "net_pay",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Net pay"
+    },
+    {
+      "definition": "Any amount taken off gross pay before payment, whether required by law or agreed with you.",
+      "dictionaryId": "lex.sa.money.deduction",
+      "example": "The canteen charge is a deduction, so it comes out before my net pay.",
+      "fieldId": "money",
+      "id": "deduction",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Deduction"
+    },
+    {
+      "definition": "Income tax taken out of your pay in advance by the employer. It is not your final tax bill.",
+      "dictionaryId": "lex.sa.money.tax_withholding",
+      "example": "The tax withheld this month was higher because my bonus was large.",
+      "fieldId": "money",
+      "id": "tax_withholding",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Tax withheld"
+    },
+    {
+      "definition": "The compulsory payment into the social insurance system that covers sickness, maternity, accidents and retirement.",
+      "dictionaryId": "lex.sa.money.social_insurance",
+      "example": "My social insurance contribution is a percentage of my gross pay.",
+      "fieldId": "money",
+      "id": "social_insurance",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Social insurance contribution"
+    },
+    {
+      "definition": "Money you paid for work that the company owes you back. It almost always needs a receipt and a deadline.",
+      "dictionaryId": "lex.sa.money.expense_claim",
+      "example": "I submitted the taxi receipts as an expense claim on Friday.",
+      "fieldId": "money",
+      "id": "expense_claim",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Expense claim"
+    },
+    {
+      "definition": "The amount in the account at the start of the statement period. Every figure that follows is measured from it.",
+      "dictionaryId": "lex.sa.money.opening_balance",
+      "example": "The opening balance was 500 $, so the first transaction was charged against that.",
+      "fieldId": "money",
+      "id": "opening_balance",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Opening balance"
+    },
+    {
+      "definition": "The amount in the account at the end of the statement period, after every transaction in it.",
+      "dictionaryId": "lex.sa.money.closing_balance",
+      "example": "The closing balance is 420 $, which is 80 $ more than the opening balance.",
+      "fieldId": "money",
+      "id": "closing_balance",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Closing balance"
+    },
+    {
+      "definition": "Money leaving the account. On a statement it is usually shown with a minus sign or in a column headed money out.",
+      "dictionaryId": "lex.sa.money.debit",
+      "example": "The debit for the supermarket is 64 $, so that is the debit column, not the credit column.",
+      "fieldId": "money",
+      "id": "debit",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Debit"
+    },
+    {
+      "definition": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
+      "dictionaryId": "lex.sa.money.credit",
+      "example": "The credit of 1200 $ on the 15th is my salary.",
+      "fieldId": "money",
+      "id": "credit",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Credit"
+    },
+    {
+      "definition": "A payment a company is authorised to take from your account on a date, without asking you again each time.",
+      "dictionaryId": "lex.sa.money.direct_debit",
+      "example": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+      "fieldId": "money",
+      "id": "direct_debit",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Direct debit"
+    },
+    {
+      "definition": "A fixed amount you authorise to be paid on a schedule, whether or not the underlying bill is the same each month.",
+      "dictionaryId": "lex.sa.money.standing_order",
+      "example": "I have a standing order to my landlord for the rent, and a direct debit for the utilities.",
+      "fieldId": "money",
+      "id": "standing_order",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Standing order"
+    },
+    {
+      "definition": "The money of a country: its notes, its coins, and the rules that govern them.",
+      "dictionaryId": "lex.sa.money.mon_currency",
+      "example": "The shop takes only the local currency.",
+      "fieldId": "money",
+      "id": "mon_currency",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Currency"
+    },
+    {
+      "definition": "The job money does when it is used to pay for something instead of trading goods for goods.",
+      "dictionaryId": "lex.sa.money.mon_medium_of_exchange",
+      "example": "The bus ticket is a medium of exchange: the fare buys the ride.",
+      "fieldId": "money",
+      "id": "mon_medium_of_exchange",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Medium of exchange"
+    },
+    {
+      "definition": "The job money does when it is the common measure of what things cost.",
+      "dictionaryId": "lex.sa.money.mon_unit_of_account",
+      "example": "At 3 $ the coffee and 2 $ the ticket, the unit of account makes the two prices comparable.",
+      "fieldId": "money",
+      "id": "mon_unit_of_account",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Unit of account"
+    },
+    {
+      "definition": "The job money does when it keeps its value over time, so a payment can be made today for something received later.",
+      "dictionaryId": "lex.sa.money.mon_store_of_value",
+      "example": "The balance in the account is a store of value for the bill that arrives next month.",
+      "fieldId": "money",
+      "id": "mon_store_of_value",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Store of value"
     },
     {
       "conflict": true,
-      "definition": "The dreaming stage of sleep, when memory is consolidated and emotional reactions are regulated.",
-      "dictionaryId": "lex.sa.health.rem_sleep",
-      "example": "Alcohol takes away REM sleep, so I wake up tired even after a long night.",
-      "fieldId": "health",
-      "id": "rem_sleep",
+      "definition": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
+      "dictionaryId": "lex.sa.money.credit",
+      "example": "The credit of 1200 $ on the 15th is my salary.",
+      "fieldId": "money",
+      "id": "mon_credit",
       "lessonIds": [
-        "article_science_sleepneed",
-        "article_sleep"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.sleep",
-        "knw.kids.science.sleepneed"
+        "knw.money.what_money_is"
       ],
-      "term": "REM sleep"
+      "term": "Credit"
     },
     {
-      "definition": "The accumulated gap between the sleep you have had and the sleep you need. It can be partly repaid, but slowly.",
-      "dictionaryId": "lex.sa.health.sleep_debt",
-      "example": "I have been building up sleep debt for three weeks of early starts.",
-      "fieldId": "health",
-      "id": "sleep_debt",
+      "definition": "The public body with the right to issue the currency of a country.",
+      "dictionaryId": "lex.sa.money.mon_central_bank",
+      "example": "The central bank raises its interest rate when prices rise too fast.",
+      "fieldId": "money",
+      "id": "mon_central_bank",
       "lessonIds": [
-        "article_sleep"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.money.what_money_is"
       ],
-      "term": "Sleep debt"
+      "term": "Central bank"
     },
     {
-      "definition": "Difficulty falling asleep, staying asleep or waking too early, together with daytime impairment. The daytime effect is part of the definition.",
-      "dictionaryId": "lex.sa.health.insomnia",
-      "example": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
-      "fieldId": "health",
-      "id": "insomnia",
+      "definition": "The gain a state earns from issuing money.",
+      "dictionaryId": "lex.sa.money.mon_seigniorage",
+      "example": "The state's gain from a new note is seigniorage, because the note costs less to make than it buys.",
+      "fieldId": "money",
+      "id": "mon_seigniorage",
       "lessonIds": [
-        "article_sleep"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.money.what_money_is"
       ],
-      "term": "Insomnia"
+      "term": "Seigniorage"
     },
     {
-      "definition": "Repeated pauses in breathing during sleep, usually with snoring and gasping. You usually cannot notice it yourself.",
-      "dictionaryId": "lex.sa.health.sleep_apnoea",
-      "example": "My partner says I stop breathing in my sleep, so I will ask about sleep apnoea.",
-      "fieldId": "health",
-      "id": "sleep_apnoea",
+      "definition": "The value of what a person owns, after what the person owes.",
+      "dictionaryId": "lex.sa.money.mon_wealth",
+      "example": "The van and the tools are wealth; the loan on the van is not.",
+      "fieldId": "money",
+      "id": "mon_wealth",
       "lessonIds": [
-        "article_sleep"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.money.what_money_is"
       ],
-      "term": "Sleep apnoea"
+      "term": "Wealth"
     },
     {
-      "definition": "Something you notice and describe yourself: pain, dizziness, a cough, a lump.",
-      "dictionaryId": "lex.sa.health.symptom",
-      "example": "The main symptom is the pain, and it has been there for three weeks.",
-      "fieldId": "health",
-      "id": "symptom",
+      "definition": "An amount measured at one moment, such as the balance on an account today.",
+      "dictionaryId": "lex.sa.money.mon_stock",
+      "example": "The stock is 800 $ today, whatever the monthly flow was.",
+      "fieldId": "money",
+      "id": "mon_stock",
       "lessonIds": [
-        "article_symptoms"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.money.what_money_is"
       ],
-      "term": "Symptom"
+      "term": "Stock"
     },
     {
-      "definition": "A written symbol such as = or +.",
-      "dictionaryId": "lex.sa.en.sign.noun",
-      "example": "The equals sign balances both sides.",
-      "fieldId": "health",
-      "id": "sign",
+      "definition": "The continuous motion of a fluid.",
+      "dictionaryId": "lex.sa.en.flow.noun",
+      "example": "A flow of 2 000 $ a month leaves a stock of 300 $ after the bills.",
+      "fieldId": "money",
+      "id": "mon_flow",
       "lessonIds": [
-        "article_symptoms"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.money.what_money_is"
       ],
-      "term": "sign"
+      "term": "flow"
     },
     {
-      "definition": "Coming on quickly and lasting a short time, usually days.",
-      "dictionaryId": "lex.sa.health.acute",
-      "example": "This is an acute episode, and it started yesterday.",
-      "fieldId": "health",
-      "id": "acute",
+      "definition": "A figure measured in the money as printed, with no adjustment for prices.",
+      "dictionaryId": "lex.sa.money.mon_nominal",
+      "example": "The nominal salary is 2 000 $, which is not the same as what it buys.",
+      "fieldId": "money",
+      "id": "mon_nominal",
       "lessonIds": [
-        "article_symptoms"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.money.what_money_is"
       ],
-      "term": "Acute"
+      "term": "Nominal"
     },
     {
-      "definition": "Long-standing, generally present for more than three months.",
-      "dictionaryId": "lex.sa.health.chronic",
-      "example": "It has become a chronic problem, so I have started to manage it differently.",
-      "fieldId": "health",
-      "id": "chronic",
+      "definition": "True to fact; not a simulation.",
+      "dictionaryId": "lex.sa.en.real.adjective",
+      "example": "With prices rising, the real value of the 2 000 $ falls while the ticket still says 2 000 $.",
+      "fieldId": "money",
+      "id": "mon_real",
       "lessonIds": [
-        "article_symptoms"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.money.what_money_is"
       ],
-      "term": "Chronic"
+      "term": "real"
     },
     {
-      "definition": "A period when the symptoms get noticeably worse than their usual level.",
-      "dictionaryId": "lex.sa.health.exacerbation",
-      "example": "The main exacerbation lasted about four days last month.",
-      "fieldId": "health",
-      "id": "exacerbation",
+      "definition": "A tax that is already counted inside the price you read.",
+      "dictionaryId": "lex.sa.money.mon_tax_in_price",
+      "example": "The ticket at 11 $ includes 1 $ of tax in the price, and the receipt does not show it separately.",
+      "fieldId": "money",
+      "id": "mon_tax_in_price",
       "lessonIds": [
-        "article_symptoms"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.money.what_money_is"
       ],
-      "term": "Exacerbation"
+      "term": "Tax in the price"
     },
     {
-      "definition": "The clinician's shortlist of possible causes, kept in mind while they examine you and order tests.",
-      "dictionaryId": "lex.sa.health.differential_diagnosis",
-      "example": "The doctor said the differential included three possibilities, and explained each one.",
-      "fieldId": "health",
-      "id": "differential_diagnosis",
+      "definition": "The difference between the price a shop buys at and the price it sells at.",
+      "dictionaryId": "lex.sa.money.mon_spread",
+      "example": "The spread between the producer's price and the shelf price is already inside what you pay.",
+      "fieldId": "money",
+      "id": "mon_spread",
       "lessonIds": [
-        "article_symptoms"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.money.what_money_is"
       ],
-      "term": "Differential diagnosis"
+      "term": "Spread"
     },
     {
-      "definition": "A letter sending you to another service, such as a specialist, a physiotherapist or a scan.",
-      "dictionaryId": "lex.sa.health.referral",
-      "example": "I have a referral for a scan, and the appointment is in ten days.",
-      "fieldId": "health",
-      "id": "referral",
+      "definition": "A fixed charge for a service, such as a card payment or a bank transfer.",
+      "dictionaryId": "lex.sa.money.mon_fee",
+      "example": "The bank fee for the transfer is 2 $ every time, whatever the amount transferred.",
+      "fieldId": "money",
+      "id": "mon_fee",
       "lessonIds": [
-        "article_symptoms"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.health.symptoms"
+        "knw.money.what_money_is"
       ],
-      "term": "Referral"
-    },
-    {
-      "definition": "A machine with two wheels that you push with your feet. A good bicycle makes your legs feel like they have a strong friend.",
-      "dictionaryId": "lex.sa.kids_adventure.bicycle",
-      "example": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
-      "fieldId": "kids_adventure",
-      "id": "bicycle",
-      "lessonIds": [
-        "article_flying_bicycle"
-      ],
-      "packs": [
-        "knw.kids.adventure.bicycle"
-      ],
-      "term": "Bicycle"
-    },
-    {
-      "definition": "The flat part of a bicycle that your foot stands on. When you push the pedals, the wheels turn.",
-      "dictionaryId": "lex.sa.kids_adventure.pedal",
-      "example": "The pedals were stiff, so he pushed them three times.",
-      "fieldId": "kids_adventure",
-      "id": "pedal",
-      "lessonIds": [
-        "article_flying_bicycle"
-      ],
-      "packs": [
-        "knw.kids.adventure.bicycle"
-      ],
-      "term": "Pedal"
+      "term": "Fee"
     }
   ],
   "nextCursor": "720",

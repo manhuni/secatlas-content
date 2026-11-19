@@ -2,136 +2,144 @@
   "language": "vi",
   "lessonId": "article_ai_revolution",
   "objectives": [
-    "Giải thích AI hiện đại làm gì và không làm gì.",
-    "Nêu tên những công cụ hằng ngày mà AI đã tham gia xử lý.",
-    "Mô tả ba kiểu hỏng của output AI trước khi bạn tin nó.",
-    "Đối chiếu một câu trả lời của AI với nguồn trước khi hành động.",
-    "Nhận ra những việc AI làm hỏng và giữ việc đó cho con người.",
-    "Quyết định điều gì nên và không nên dán vào chatbot.",
-    "Giải thích cho đồng nghiệp điều gì thay đổi trong công việc khi AI xuất hiện."
+    "Giải thích những gì trí tuệ nhân tạo hiện đại có thể làm và không thể làm.",
+    "Hãy nêu tên những công cụ hằng ngày mà AI đã thực hiện một phần công việc.",
+    "Mô tả ba chế độ hỏng của đầu ra AI trước khi tin tưởng nó.",
+    "Hãy kiểm tra câu trả lời của AI với nguồn trước khi hành động dựa vào nó.",
+    "Hãy nhận biết những tác vụ AI thực hiện kém và giao cho một con người xử lý.",
+    "Hãy quyết định xem bạn nên và không nên dán nội dung nào vào chatbot.",
+    "Giải thích cho một đồng nghiệp về những thay đổi trong công việc khi AI xuất hiện."
   ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
     {
-      "body": "Cuộc cách mạng AI không phải là một con robot xuất hiện. Đó là sự thay đổi trong khả năng của phần mềm khi không cần được chỉ từng bước. Trong phần lớn lịch sử của máy tính, một chương trình làm theo các chỉ dẫn do con người viết. Muốn kết quả khác thì con người viết chỉ dẫn khác. Trí tuệ nhân tạo hiện đại làm khác đi: nó được cho xem rất nhiều ví dụ, và tự suy ra mẫu hình.\n\nBa từ gánh phần lớn ý nghĩa. **Học máy** là phương pháp chung: thay vì được nói luật chơi, hệ thống được đưa dữ liệu và một mục tiêu, rồi tự điều chỉnh cho tới khi kết quả khớp mục tiêu. **Mạng nơ-ron** là cấu trúc mà phần lớn hệ thống hiện đại dùng. Đó là một tập hợp lớn các đơn vị đơn giản, lấy cảm hứng thoáng qua từ tế bào não, và độ mạnh của các liên kết giữa chúng được chỉnh trong quá trình huấn luyện. **AI tạo sinh** là họ các hệ thống sinh nội dung mới: văn bản, hình ảnh, âm thanh, mã nguồn, video.\n\nQuy mô là phần đã thay đổi thế giới. Huấn luyện một mô hình ngôn ngữ hữu ích cần hàng nghìn chip xử lý chạy suốt nhiều tuần trên một khối dữ liệu văn bản, mã và hình ảnh khổng lồ. Kết quả là một mô hình có hàng tỷ tham số điều chỉnh được, và chính những tham số đó cho phép nó tổng quát hoá: nó không ghi nhớ câu của bạn, nó đã học được hình dạng của ngôn ngữ đủ tốt để tiếp nối câu đó.\n\nBa điều cần cẩn thận. Một, các hệ thống này mang tính thống kê chứ không phải hiểu biết: chúng dự đoán phần tiếp theo có khả năng xảy ra, và một phần tiếp theo hoàn toàn hợp lý vẫn có thể sai. Hai, chúng không phải cơ sở dữ liệu: chúng không tra cứu câu trả lời của bạn, chúng ghép câu trả lời, nên chúng có thể ghép sai một cách rất tự tin. Ba, chúng không có ý thức và không tự tìm trên internet. Một chatbot dẫn nguồn thì đang tạo ra hình dạng của một trích dẫn, trừ khi nó thật sự được kết nối để tra cứu.\n\nNên bản một câu trung thực là thế này: cuộc cách mạng là việc những tác vụ như soạn thảo, dịch, tóm tắt và lập trình, trước đây cần con người, giờ thường chỉ cần một người duyệt lại. Đó là một thay đổi thật trong bản chất của công việc, và đáng để hiểu một cách có chủ đích thay vì để phát hiện ra sau.",
+      "body": "Cuộc cách mạng AI không phải là sự xuất hiện của một con robot. Đó là một sự thay đổi trong những gì phần mềm có thể làm mà không cần phải được chỉ dẫn từng bước. Trong phần lớn lịch sử tính toán, các chương trình đều tuân theo những chỉ dẫn do con người viết ra. Nếu bạn muốn có một kết quả khác, đó là do con người đã viết những chỉ dẫn khác. Trí tuệ nhân tạo hiện đại hoạt động khác đi: nó được cho xem rất nhiều ví dụ, rồi tự suy ra quy luật.\n\nBa từ mang phần lớn ý nghĩa. **Học máy** là phương pháp chung: thay vì được chỉ dẫn các quy tắc, hệ thống được cung cấp dữ liệu và một mục tiêu, rồi tự điều chỉnh cho đến khi kết quả đầu ra khớp với mục tiêu đó. **Mạng nơ-ron** là cấu trúc mà hầu hết các hệ thống hiện đại sử dụng. Đó là một tập hợp lớn các đơn vị đơn giản, lấy cảm hứng từ tế bào não một cách nửa vời, trong đó độ mạnh của các kết nối được điều chỉnh thông qua quá trình huấn luyện. **AI tạo sinh** là nhóm các hệ thống tạo ra nội dung mới: văn bản, hình ảnh, âm thanh, mã nguồn, video.\n\nĐiều đã thay đổi thế giới chính là quy mô. Để huấn luyện một mô hình ngôn ngữ hữu ích, cần hàng nghìn chip xử lý chạy suốt nhiều tuần trên tập dữ liệu văn bản, mã nguồn và hình ảnh cực kỳ lớn. Kết quả là một mô hình có hàng tỷ tham số có thể điều chỉnh, và chính những tham số đó giúp mô hình khái quát hóa: nó không ghi nhớ câu của bạn, mà đã học được cấu trúc của ngôn ngữ đủ tốt để tiếp tục câu đó.\n\nCó ba tuyên bố đáng để chúng ta suy nghĩ cẩn thận. Trước hết, các hệ thống này hoạt động theo kiểu thống kê chứ không phải hiểu biết: chúng dự đoán những cách tiếp nối có xác suất cao, và một cách tiếp nối hợp lý vẫn có thể sai. Thứ hai, chúng không phải là cơ sở dữ liệu: chúng không tra cứu câu trả lời của bạn, chúng tự tạo ra câu trả lời đó, nên chúng có thể tạo ra một câu trả lời sai với độ tự tin rất lớn. Thứ ba, chúng không có ý thức và cũng không tự tìm kiếm trên internet. Một chatbot dẫn nguồn chỉ đang tạo ra hình thức của một trích dẫn, trừ khi nó thực sự được kết nối để tra cứu nguồn đó.\n\nVì vậy, bản tóm tắt trung thực trong một câu là: cuộc cách mạng nằm ở chỗ các công việc viết, soạn thảo, dịch, tóm tắt và lập trình trước đây cần con người thực hiện thì giờ thường chỉ cần một người kiểm duyệt. Đó là một sự thay đổi thực sự về bản chất của công việc, và điều đáng để hiểu một cách có chủ đích thay vì để phát hiện ra sau này.",
       "examples": [
-        "Không phải máy hiểu yêu cầu của tôi. Nó rất giỏi tạo ra thứ trông giống một câu trả lời.",
-        "Công cụ viết bản nháp đầu tiên trong mười giây. Phần kiểm tra mất hai tiếng, và đó mới là việc thật."
+        "Không phải là máy hiểu yêu cầu của tôi. Nó rất giỏi tạo ra một thứ gì đó nghe như một câu trả lời.",
+        "Công cụ đã viết bản nháp đầu tiên trong mười giây. Quá trình kiểm tra mất hai tiếng, và đó mới là phần việc thực sự ngày nay."
       ],
       "heading": "Cuộc cách mạng AI thực sự là gì"
     },
     {
-      "body": "AI không còn là một sản phẩm riêng lẻ mà đã trở thành một lớp bên trong các sản phẩm bạn vốn đã dùng. Biết nó nằm ở đâu giúp bạn đánh giá nên tin phần nào.\n\nTrong **chiếc điện thoại**, bàn phím đoán chữ tiếp theo, máy ảnh nhận ra khuôn mặt trong ảnh nhóm, bản đồ ước lượng thời gian trên đường ùn tắc, và tìm ảnh kiếm được bức có chiếc xe đạp trong đó. Chuyển giọng nói thành chữ ở một con đường ồn ào là một hệ thống AI, không phải một cuốn từ điển.\n\nTrong **giao thông**, hệ thống đọc biển số xe, giám sát camera giao thông để phát hiện ùn tắc, và điều chỉnh đèn giao thông. Bộ lọc thư rác trong email là một trong những ứng dụng học máy quy mô lớn nhất còn chạy mỗi giây mỗi ngày.\n\nTrong **thương mại**, hệ thống đề xuất quyết định sản phẩm nào hiện lên đầu trang, hệ thống phát hiện gian lận chặn giao dịch thẻ có dấu hiệu lạ, và dịch vụ dịch thuật làm cho thực đơn bằng thứ tiếng khác đọc được ngay tại chỗ.\n\nTrong **y tế và hành chính**, hệ thống hỗ trợ đọc ảnh chụp, gắn cờ kết quả xét nghiệm bất thường để bác sĩ xem, tóm tắt ghi chú buổi khám, và khớp người bệnh với dịch vụ phù hợp.\n\nTrong **công việc**, lớp mới nhất và ồn ào nhất: soạn văn bản, tóm tắt tài liệu dài, viết mã, làm sạch bảng tính, trả lời câu hỏi về một cuốn sổ tay bạn đã tải lên.\n\nHãy chú ý mẫu hình. Ở hầu hết các trường hợp, AI nằm sau một bề mặt trông bình thường. Bạn sẽ không thấy con robot trong bất cứ cái nào. Bạn sẽ thấy một thứ hạng, một gợi ý, một bản nháp, một cảnh báo. Và ở mọi trường hợp, bạn sẽ thấy cùng hai yêu cầu: một con người quyết định kết quả có tốt không, và một cách để biết khi nào nó không tốt.",
+      "body": "AI không còn là một sản phẩm riêng lẻ nữa, mà đã trở thành một lớp bên trong những sản phẩm bạn đang dùng. Biết AI xuất hiện ở đâu giúp bạn đánh giá được những gì nên tin tưởng.\n\nTrong **điện thoại** của bạn, bàn phím dự đoán từ tiếp theo bạn sẽ gõ, camera nhận diện khuôn mặt trong một nhóm người, bản đồ ước tính thời gian di chuyển trên một con đường đông đúc, còn tính năng tìm kiếm ảnh giúp bạn tìm ra bức ảnh có chiếc xe đạp trong đó. Chuyển giọng nói thành văn bản trên một con phố ồn ào là một hệ thống AI, chứ không phải từ điển.\n\nTrong **giao thông**, các hệ thống đọc biển số xe, giám sát camera giao thông để phát hiện tình trạng ùn tắc và điều chỉnh đèn tín hiệu. Bộ lọc chống thư rác trong email là một trong những ứng dụng học máy quy mô lớn sớm nhất và vẫn hoạt động mỗi giây suốt mỗi ngày.\n\nTrong **thương mại**, hệ thống gợi ý quyết định sản phẩm nào hiển thị ở phần trên mà không cần cuộn, hệ thống chống gian lận chặn các giao dịch bằng thẻ trông có dấu hiệu bất thường, còn dịch vụ dịch thuật giúp bạn đọc được thực đơn bằng ngôn ngữ khác ngay tại chỗ.\n\nTrong **y tế và quản lý hành chính**, các hệ thống giúp đọc kết quả chẩn đoán hình ảnh, đánh dấu kết quả xét nghiệm bất thường để bác sĩ tiếp đánh giá, tóm tắt ghi chú buổi khám và kết nối bệnh nhân với các dịch vụ phù hợp.\n\nTrong **công việc**, lớp mới nhất và nổi bật nhất: soạn thảo văn bản, tóm tắt tài liệu dài, viết mã, làm sạch bảng tính và trả lời câu hỏi về một sổ tay mà bạn đã tải lên.\n\nHãy chú ý đến quy luật này. Ở hầu hết những trường hợp này, AI nằm sau một lớp giao diện trông có vẻ bình thường. Bạn sẽ không tìm thấy con robot nào trong tất cả những việc đó. Bạn sẽ thấy một bảng xếp hạng, một gợi ý, một bản nháp đầu tiên, một cảnh báo. Và trong mỗi công cụ, bạn sẽ thấy cùng hai yêu cầu: một người quyết định xem kết quả có đạt hay không, và một cách để biết khi nào kết quả không đạt.",
       "examples": [
-        "Máy ảnh tự chọn bức này, và công cụ tìm ảnh tìm ra nhờ chiếc xe đạp.",
-        "Ngân hàng chặn giao dịch vì thói quen chi tiêu không khớp với bình thường.",
-        "Không có gì trong app trông giống AI, và đó là lý do nó khó bị chất vấn."
+        "Máy ảnh tự chọn bức ảnh này, và công cụ tìm kiếm đã tìm thấy nó nhờ chiếc xe đạp.",
+        "Ngân hàng đã chặn khoản thanh toán vì mức chi tiêu này không khớp với thói quen chi tiêu thường ngày của tôi.",
+        "Không có gì trong ứng dụng trông giống như AI, và đó chính là lý do thật khó để đặt nghi vấn."
       ],
-      "heading": "AI đã nằm ở đâu trong ngày thường của bạn"
+      "heading": "AI đã xuất hiện ở đâu trong ngày sống thường nhật của bạn"
     },
     {
-      "body": "Những lỗi của AI không phải ngẫu nhiên. Chúng bám theo cách hệ thống hoạt động, và biết mẫu hình đó cho bạn biết nên đặt niềm tin ở đâu.\n\n**Chính xác mà không đúng.** Mô hình tối ưu cho đầu ra trông đúng, chứ không phải đầu ra đúng. Nó không có cách nào đánh dấu một câu là không chắc chắn, trừ khi được xây để làm việc đó. Vì vậy một câu trả lời tự tin, trôi chảy và sai là kiểu hỏng bình thường, không phải điều đáng ngạc nhiên.\n\n**Mù thời gian gần.** Trừ khi hệ thống được kết nối với nguồn trực tiếp, nó không biết gì về hôm nay. Hỏi về một đạo luật ban hành tháng trước, một mức giá hôm nay, hay một sản phẩm mới ra mắt tuần này, và một mô hình không có công cụ sẽ trả lời từ dữ liệu huấn luyện, có thể sai.\n\n**Không chịu trách nhiệm.** Mô hình không có gì để mất. Không thể hỏi nó lý do ra quyết định theo cách có ý nghĩa pháp lý. Khi một quyết định ảnh hưởng đến tiền bạc, sức khoẻ hay tự do của bạn, vẫn phải có một con người chịu trách nhiệm.\n\n**Yếu về số học và dữ kiện chính xác.** Các mô hình ngôn ngữ làm việc trên các đoạn văn bản, không phải trên các đại lượng. Chúng không ổn định khi đếm, khi truy xuất chính xác, và khi bất kỳ điều gì chỉ cần một ký tự thay đổi là đổi đáp án.\n\n**Thiếu nhất quán.** Cùng một câu hỏi có thể cho hai câu trả lời khác nhau. Hỏi hai lần, nhận hai bản nháp, và coi sự khác biệt là thông tin chứ không phải là nhiễu.\n\n**Cái đuôi dài.** Chủ đề phổ biến được dữ liệu huấn luyện bao phủ kỹ, nên câu trả lời nghe rất tự tin. Quy định nội bộ, nhà cung cấp nhỏ và thay đổi mới đều là nơi sự sai tự tin tích tụ. Nếu việc của bạn nằm ở cái đuôi dài, công cụ kém nhất đúng ở chỗ bạn cần nhất.",
+      "body": "Những hạn chế của AI không phải là ngẫu nhiên. Chúng bắt nguồn từ cách hệ thống vận hành, và việc nhận ra quy luật đó cho biết bạn nên đặt niềm tin vào đâu.\n\n**Chính xác về hình thức nhưng không chính xác về nội dung.** Mô hình tối ưu để tạo ra câu trả lời trông đúng, chứ không phải câu trả lời đúng thực chất. Nó không có cách nào để đánh dấu một câu là không chắc chắn, trừ khi nó được xây dựng để làm điều đó. Vì vậy, một câu trả lời tự tin, trôi chảy nhưng sai là dạng thất bại thông thường, chứ không phải điều đáng ngạc nhiên.\n\n**Mù quên gần đây.** Trừ khi được kết nối với nguồn dữ liệu trực tiếp, hệ thống không biết gì về những gì đang diễn ra hôm nay. Hỏi về một đạo luật được thông qua tháng trước, một mức giá vào hôm nay hoặc một sản phẩm được phát hành trong tuần này, một mô hình không có công cụ sẽ trả lời dựa trên dữ liệu huấn luyện và có thể trả lời sai.\n\n**Không chịu trách nhiệm.** Mô hình không có lợi ích gì gắn với kết quả. Không thể hỏi lý do nó đã đưa ra quyết định theo cách mang ý nghĩa pháp lý. Khi một quyết định ảnh hưởng đến tiền bạc, sức khỏe hoặc tự do của bạn, người đó vẫn phải tự chịu trách nhiệm về quyết định ấy.\n\n**Số học yếu và dữ kiện chính xác.** Các mô hình ngôn ngữ hoạt động dựa trên các token văn bản, chứ không phải trên các đại lượng. Chúng không đáng tin cậy khi đếm, khi truy xuất chính xác và khi thực hiện bất kỳ nhiệm vụ nào mà chỉ cần thay đổi một ký tự là đáp án đã khác đi.\n\n**Tính nhất quán.** Cùng một câu hỏi có thể cho ra hai câu trả lời khác nhau. Hỏi hai lần, nhận hai bản nháp, rồi xem xét sự khác biệt đó như thông tin chứ không phải nhiễu.\n\n**Phần đuôi dài.** Các chủ đề phổ biến được dữ liệu huấn luyện đáp ứng khá tốt, nên câu trả lời nghe rất chắc chắn. Các quy tắc địa phương chuyên biệt, những nhà cung cấp nhỏ và những thay đổi gần đây là nơi tập trung của sự sai lệch đầy tự tin. **Nếu nhiệm vụ của bạn nằm ở phần đuôi dài, công cụ sẽ kém đáng tin cậy nhất đúng vào lúc bạn cần đến nó nhất.**",
       "examples": [
-        "Nó đưa ra một câu trả lời rất tự tin về một quy định đã thay đổi từ sáu tháng trước.",
-        "Tôi hỏi hai lần và nhận hai danh sách khác nhau, nên tôi kiểm tra cả hai.",
-        "Nó rất giỏi lời khuyên chung và vô dụng với nhà cung cấp ở chính thành phố của tôi."
+        "Nó đã đưa cho tôi một câu trả lời đầy tự tin về một quy tắc đã được thay đổi từ sáu tháng trước.",
+        "Tôi hỏi hai lần và nhận được hai danh sách khác nhau, nên tôi kiểm tra cả hai.",
+        "Nó rất giỏi đưa ra lời khuyên chung, nhưng vô dụng khi nói về nhà cung cấp ở thành phố của tôi."
       ],
-      "heading": "Điều AI vẫn làm kém, và vì sao điều đó quan trọng"
+      "heading": "Điều AI vẫn còn làm chưa tốt, và lý do điều đó quan trọng"
     },
     {
-      "body": "Hãy nhìn ba kiểu này, và bạn sẽ bắt được phần lớn output tệ trước khi nó tốn kém. Một, **ảo giác**: hệ thống bịa ra một sự thật, một trích dẫn, một số hiệu vụ án hay một con số, rồi nói ra nó với đúng giọng điệu của mọi câu khác. Hai, **thiên kiến**: đầu ra lặp lại những mẫu có trong dữ liệu huấn luyện, kể cả những mẫu bạn sẽ không chấp nhận ở một con người, như một giả định mặc định về giới tính, quốc tịch, tuổi tác hay giọng điệu. Ba, **tự tin quá mức**: một câu trả lời trôi chảy, định dạng đẹp mang theo uy quyền mà nó chưa có, và định dạng không phải là bằng chứng. Không kiểu nào trong ba kiểu này nhìn thấy được từ chính đầu ra, và đó là lý do quy trình kiểm tra ở mục kế tiếp tồn tại.",
-      "heading": "Ba kiểu output của AI bị hỏng"
+      "body": "Hãy để mắt đến ba điều này, và bạn sẽ phát hiện phần lớn kết quả sai trước khi nó khiến bạn tốn công sức. Trước hết, **ảo giác**: hệ thống bịa ra một sự thật, một trích dẫn, một số vụ án hoặc một thống kê rồi khẳng định nó với cùng giọng điệu như mọi thông tin khác. Thứ hai, **thiên lệch**: kết quả đầu ra tái lập các khuôn mẫu trong dữ liệu huấn luyện, bao gồm cả những khuôn mẫu mà bạn không chấp nhận ở một con người, chẳng hạn như giả định mặc định về giới tính, quốc tịch, tuổi tác hay giọng điệu. Thứ ba, **tự tin quá mức**: một câu trả lời trôi chảy, được trình bày bài bản tạo cảm giác uy tín dù thực tế chưa có gì để xứng đáng với cảm giác ấy, còn định dạng đẹp đẽ không phải là bằng chứng. Không điều nào trong những điều này có thể nhận thấy chỉ từ kết quả đầu ra, và đó là lý do trong phần tiếp theo có quy trình kiểm tra.",
+      "heading": "Ba cách AI tạo ra kết quả sai"
     },
     {
-      "body": "Việc kiểm tra sẽ nhanh nếu nó thành thói quen. Nguyên tắc rất đơn giản: công sức kiểm tra phải tương ứng với cái giá của việc sai. Một chú thích ảnh thì chỉ cần liếc. Một tóm tắt y tế thì cần chuyên gia.\n\nBắt đầu bằng việc xác định đây là loại phát biểu nào. Một **phát biểu sự thật** có thể đối chiếu với nguồn. Một **việc viết** có thể kiểm tra về sự phù hợp, giọng điệu và tính chính xác của các chi tiết bên trong. Một **việc suy luận** thì bạn phải tự làm lại, vì bạn không thể kiểm chứng một kết luận mà bạn chưa hiểu.\n\nRồi kiểm tra những chi tiết rẻ để kiểm tra mà đắt nếu sai: số, ngày, tên, trích dẫn, tham chiếu pháp lý, thông số kỹ thuật. Đây là những nơi mô hình sai nhiều nhất và nơi một lỗi đơn lẻ làm đổi cả đáp án.\n\nRồi so với một nguồn bạn tin: tài liệu gốc, trang chính thức, văn bản quy định, người biết rõ. Hãy trích nguồn, chứ đừng trích lại phần tóm tắt của nguồn, vì chỗ phát sinh lỗi chính là phần tóm tắt.\n\nRồi làm rõ trách nhiệm. Nếu đầu ra sẽ được gửi đi, xuất bản, ký tên, hay dùng để ra quyết định về một con người, thì một người có tên phải đọc và chịu trách nhiệm. Một hệ thống AI không bao giờ có thể là người chịu trách nhiệm.",
+      "body": "Thói quen kiểm tra đã hình thành thì việc này sẽ diễn ra rất nhanh. Nguyên tắc rất đơn giản: hãy cố gắng kiểm tra ở mức tương xứng với hậu quả của việc tin sai. Phần chú thích cho một bức ảnh cần được nhìn qua một lần. Tóm tắt y khoa cần một chuyên gia.\n\nTrước tiên, hãy xác định đây là loại tuyên bố nào. Một **khẳng định dựa trên sự thật** có thể được kiểm chứng bằng một nguồn. Một **bài tập viết** có thể được kiểm tra xem nội dung có đúng với đề bài, giọng văn có phù hợp không và các chi tiết bên trong có chính xác hay không. Một **bài tập suy luận** đòi hỏi bạn phải tự mình làm, vì bạn không thể kiểm chứng một kết luận mà bạn chưa hiểu.\n\nTiếp theo, hãy kiểm tra những chi tiết mà việc kiểm tra dễ dàng nhưng nếu sai thì hậu quả lớn: số liệu, ngày tháng, tên, trích dẫn, quy định pháp luật và thông số kỹ thuật của sản phẩm. Đây là những nơi các mô hình thường sai nhiều nhất và chỉ một lỗi thôi cũng có thể làm thay đổi câu trả lời.\n\nSau đó, hãy đối chiếu với một nguồn đáng tin cậy: tài liệu gốc, trang web chính thức, văn bản quy định hoặc người có hiểu biết rõ về vấn đề. Hãy trích dẫn nguồn, không phải bản tóm tắt nguồn, vì bản tóm tắt chính là nơi phát sinh lỗi.\n\nSau đó, hãy làm rõ trách nhiệm thuộc về ai. Nếu nội dung đó sẽ được gửi đi, xuất bản, ký tên hoặc dùng để đưa ra quyết định về một con người, thì phải có một người được nêu tên đọc và chịu trách nhiệm về nội dung đó. Không một hệ thống AI nào có thể là người sở hữu chính nó.",
       "examples": [
-        "Con số ở đoạn thứ hai không có trong nguồn, nên tôi bỏ nó đi.",
-        "Tôi bảo nó suy luận, rồi tôi tự suy luận lại để xem có khớp không.",
-        "Cái này gửi cho khách, nên là một con người ký, không phải mô hình."
+        "Hình ở đoạn thứ hai không có trong nguồn nên tôi đã xóa đi.",
+        "Tôi yêu cầu nó suy luận, rồi bản thân tôi cũng suy luận để xem kết quả có khớp với nhau không.",
+        "Nội dung này sẽ được gửi đến khách hàng, nên người ta sẽ ký, chứ không phải mô hình."
       ],
-      "heading": "Cách kiểm tra câu trả lời của AI trước khi dùng",
+      "heading": "Cách kiểm tra câu trả lời của AI trước khi bạn tin vào đó",
       "steps": [
-        "Xác định đây là phát biểu sự thật, việc viết hay việc suy luận.",
-        "Kiểm tra bằng tay các số, ngày, tên và tham chiếu.",
-        "Đối chiếu với bản gốc của nguồn, không phải với phần tóm tắt của nó.",
-        "Hỏi xem điều gì phải đúng thì câu này mới sai.",
-        "Cho một người có tên đọc mọi thứ sẽ rời khỏi bàn làm việc của bạn."
+        "Hãy xác định xem tuyên bố là một sự thật, một bài tập viết hay một bài toán suy luận.",
+        "Hãy tự kiểm tra các con số, ngày tháng, tên và nguồn tham khảo.",
+        "Hãy đối chiếu với nguồn gốc, chứ không phải bản tóm tắt của nguồn đó.",
+        "Hãy hỏi xem điều gì phải đúng để câu trả lời này là sai.",
+        "Hãy nhờ một người cụ thể đọc mọi nội dung rời khỏi bàn làm việc của bạn trước khi gửi đi."
       ]
     },
     {
-      "body": "Đây là những thuật ngữ xuất hiện trong thông cáo sản phẩm, trong tin tuyển dụng và trên báo chí. Mỗi cái có một nghĩa riêng.\n\n**Học máy** là phương pháp để hệ thống tự tìm mẫu hình trong dữ liệu thay vì làm theo luật do con người viết ra.\n\n**Mạng nơ-ron** là cấu trúc nhiều tầng gồm các đơn vị đơn giản, trong đó độ mạnh liên kết được chỉnh trong quá trình huấn luyện. Đây là cấu trúc phổ biến nhất của AI hiện đại.\n\n**Tham số** là một con số điều chỉnh được bên trong mô hình. Mô hình có hàng tỷ tham số là mô hình có hàng tỷ giá trị đã được chỉnh.\n\n**Huấn luyện** là giai đoạn tốn kém: đưa cho hệ thống lượng dữ liệu khổng lồ và điều chỉnh các tham số cho tới khi đầu ra trở nên hữu dụng.\n\n**Dữ liệu huấn luyện** là lượng dữ liệu đó. Phạm vi và chất lượng của nó quyết định khá nhiều về cái gì mô hình giỏi và cái gì mô hình sai.\n\n**AI tạo sinh** là AI sinh nội dung mới như văn bản, hình ảnh, âm thanh hoặc mã nguồn, chứ không chỉ phân loại hay gán nhãn.\n\n**Mô hình ngôn ngữ lớn** là một mô hình tạo sinh được huấn luyện trên một khối văn bản rất lớn, và là loại đứng sau phần lớn chatbot.\n\n**Suy luận** là giai đoạn rẻ: chạy một mô hình đã huấn luyện để tạo ra một câu trả lời. Đây là điều xảy ra khi bạn bấm gửi.\n\n**Ảo giác** là đầu ra tự tin, trôi chảy nhưng sai, đặc biệt là một sự thật, một trích dẫn hay một con số không tồn tại.\n\n**Prompt** là chỉ dẫn và ngữ cảnh bạn đưa cho mô hình. Viết prompt là một kỹ năng thật, không phải công thức thần kỳ.\n\n**Tinh chỉnh** là huấn luyện tiếp một mô hình sẵn có trên bộ ví dụ hẹp hơn để nó hành xử tốt hơn cho một việc cụ thể.\n\n**Đa phương thức** mô tả một mô hình xử lý nhiều hơn một loại đầu vào hoặc đầu ra, ví dụ văn bản, hình ảnh và giọng nói cùng lúc.",
-      "heading": "Từ ngữ của AI, từng chữ một",
+      "body": "Đây là những thuật ngữ xuất hiện trong các bài giới thiệu sản phẩm, thông tin tuyển dụng và tin tức. Mỗi thuật ngữ đều mang một ý nghĩa cụ thể.\n\n**Học máy** là cách để một hệ thống tự học ra các mẫu từ dữ liệu, thay vì làm theo những quy tắc do con người viết ra.\n\n**Mạng nơ-ron** là cấu trúc nhiều lớp mà hầu hết các mô hình hiện đại sử dụng, gồm các đơn vị đơn giản có độ mạnh kết nối được điều chỉnh trong quá trình huấn luyện.\n\n**Tham số** là một con số có thể điều chỉnh bên trong mô hình. Một mô hình có hàng tỷ tham số sẽ có hàng tỷ giá trị đã được tinh chỉnh như vậy.\n\n**Huấn luyện** là giai đoạn tốn kém: cung cấp cho hệ thống lượng dữ liệu khổng lồ và điều chỉnh các tham số cho đến khi đầu ra của nó hữu ích.\n\n**Dữ liệu huấn luyện** chính là dữ liệu đó. Phạm vi và chất lượng của nó quyết định phần lớn những gì mô hình sẽ làm tốt và những gì mô hình sẽ làm sai.\n\n**AI tạo sinh** là nhóm các mô hình tạo ra nội dung mới, chứ không chỉ phân loại hoặc dự đoán một nhãn.\n\n**Mô hình ngôn ngữ lớn** là một mô hình tạo sinh được huấn luyện trên tập văn bản rất lớn, và là loại mô hình đứng sau phần lớn các chatbot.\n\n**Suy luận** là giai đoạn rẻ hơn: chạy mô hình đã được huấn luyện để tạo ra một câu trả lời. Đó là điều xảy ra khi bạn nhấn nút gửi.\n\n**Ảo giác** là kết quả đầy tự tin, trôi chảy nhưng thực chất sai, đặc biệt là một sự kiện, một trích dẫn hoặc một con số không tồn tại.\n\n**Prompt** là chỉ dẫn và bối cảnh bạn cung cấp cho mô hình. Prompting là kỹ thuật viết chỉ dẫn đó sao cho kết quả đầu ra đúng ý bạn.\n\n**Fine-tuning** là quá trình huấn luyện tiếp một mô hình hiện có trên tập dữ liệu hẹp hơn để mô hình thực hiện tốt hơn một công việc cụ thể.\n\n**Đa phương thức** mô tả một mô hình có thể xử lý nhiều hơn một loại đầu vào hoặc đầu ra, chẳng hạn như văn bản, hình ảnh và giọng nói cùng lúc.",
+      "heading": "Những từ của AI, từng từ một",
       "terms": [
         {
-          "example": "Lọc thư rác là một trong những ứng dụng học máy đời thường sớm nhất.",
-          "gloss": "Phương pháp để hệ thống tự tìm mẫu hình trong dữ liệu thay vì làm theo chỉ dẫn viết sẵn cho từng trường hợp."
+          "example": "Lọc thư rác là một trong những ứng dụng đầu tiên của học máy trong đời sống hằng ngày.",
+          "gloss": "Cách để hệ thống tự tìm ra các mẫu trong dữ liệu, thay vì làm theo những chỉ dẫn do con người viết ra cho từng trường hợp.",
+          "termId": "machine_learning"
         },
         {
-          "example": "Cả bản dịch và tìm ảnh đều chạy trên một mạng nơ-ron.",
-          "gloss": "Cấu trúc nhiều tầng gồm các đơn vị đơn giản, độ mạnh liên kết được chỉnh trong lúc huấn luyện. Đây là cấu trúc phổ biến nhất trong AI hiện đại."
+          "example": "Cả bản dịch và tìm kiếm hình ảnh đều dựa trên một mạng nơ-ron.",
+          "gloss": "Một cấu trúc nhiều lớp gồm các đơn vị đơn giản, trong đó độ mạnh của các kết nối được điều chỉnh trong quá trình huấn luyện. Đây là cấu trúc phổ biến nhất trong AI hiện đại.",
+          "termId": "neural_network"
         },
         {
-          "example": "Mô hình có nhiều tham số hơn thì giữ được nhiều mẫu hình hơn, nhưng cũng cần nhiều dữ liệu và nhiều máy hơn.",
-          "gloss": "Một con số điều chỉnh được bên trong mô hình. Người ta mô tả mô hình bằng số tham số của nó."
+          "example": "Một mô hình có nhiều tham số hơn có thể lưu giữ nhiều mẫu hơn, nhưng đồng thời cũng cần nhiều dữ liệu và nhiều tài nguyên tính toán hơn.",
+          "gloss": "Một con số có thể điều chỉnh bên trong một mô hình. Các mô hình được mô tả bằng số lượng tham số của chúng.",
+          "termId": "parameter"
         },
         {
-          "example": "Điểm yếu về quy định nội bộ đến từ việc dữ liệu huấn luyện chưa từng có.",
-          "gloss": "Nguyên liệu mà mô hình học từ. Độ phủ và chất lượng của nó quyết định mô hình mạnh ở đâu và bịa ở đâu."
+          "example": "Điểm yếu của mô hình về các quy tắc bản địa đến từ dữ liệu huấn luyện chưa từng bao phủ những điều đó.",
+          "gloss": "Phần dữ liệu mà mô hình học được. Độ phủ và chất lượng của nó quyết định mô hình mạnh ở đâu và sẽ bịa đặt ra sao ở đâu.",
+          "termId": "training_data"
         },
         {
-          "example": "Soạn thảo email là phần dễ nhất của công việc tuần này.",
-          "gloss": "AI sinh ra nội dung mới như văn bản, hình ảnh, âm thanh hoặc mã nguồn, chứ không chỉ phân loại hay gán nhãn."
+          "example": "Soạn email là phần dễ nhất trong công việc tuần này.",
+          "gloss": "AI tạo ra nội dung mới như văn bản, hình ảnh, âm thanh hoặc mã nguồn, chứ không chỉ sắp xếp hoặc gắn nhãn.",
+          "termId": "generative_ai"
         },
         {
-          "example": "Nó bịa ra một tài liệu tham khảo trông hoàn hảo và không hề tồn tại.",
-          "gloss": "Đầu ra tự tin, trôi chảy nhưng sai, đặc biệt là một sự thật, một trích dẫn hay một con số không tồn tại."
+          "example": "Nó tự chế ra một tài liệu tham khảo trông hoàn hảo nhưng thực tế không tồn tại.",
+          "gloss": "Câu trôi chảy, tự tin nhưng sai hoàn toàn — đặc biệt là một sự thật, một trích dẫn hay một con số không tồn tại.",
+          "termId": "hallucination"
         },
         {
-          "example": "Huấn luyện tốn một gia tài; suy luận là thứ bạn trả tiền mỗi lần dùng.",
-          "gloss": "Chạy một mô hình đã huấn luyện để tạo ra một câu trả lời. Rẻ và nhanh hơn nhiều so với huấn luyện, và đây là điều xảy ra mỗi lần bạn bấm gửi."
+          "example": "Huấn luyện tốn một khoản lớn; còn suy luận thì bạn phải trả mỗi lần sử dụng.",
+          "gloss": "Chạy một mô hình đã được huấn luyện để tạo ra một câu trả lời. Rẻ và nhanh hơn nhiều so với huấn luyện, và đó là điều xảy ra mỗi khi bạn nhấn nút gửi.",
+          "termId": "inference"
         },
         {
-          "example": "Một prompt một dòng cho tôi câu trả lời chung chung; thêm đối tượng và độ dài thì tôi có câu dùng được.",
-          "gloss": "Chỉ dẫn và ngữ cảnh bạn đưa cho mô hình. Viết prompt tốt là một kỹ năng thật, không phải công thức thần kỳ."
+          "example": "Một câu lệnh chỉ gói gọn trong một dòng khiến tôi nhận được câu trả lời chung chung; khi câu lệnh nêu rõ đối tượng và độ dài mong muốn, tôi nhận được câu trả lời có thể dùng ngay.",
+          "gloss": "Phần hướng dẫn và ngữ cảnh bạn đưa cho một mô hình. Viết tốt là một kỹ năng thực sự, chứ không phải công thức ma thuật.",
+          "termId": "prompt"
         }
       ]
     },
     {
-      "body": "Lời tuyên bố thường thấy là AI sẽ thay thế việc làm. Bằng chứng thú vị hơn và hữu ích hơn: nó thay đổi công việc được cấu tạo từ những gì. Các nhiệm vụ bên trong một công việc bị thay thế từng cái một, và người làm tốt là người dịch được ranh giới đó.\n\nĐây là cách đơn giản để nhìn công việc của chính bạn. Liệt kê các nhiệm vụ lặp đi lặp lại của bạn thành ba cột: **soạn thảo thường lệ**, **phán đoán**, và **quan hệ**. Soạn thảo thường lệ là nơi AI mạnh nhất: bản nháp đầu tiên của email, bản tóm tắt báo cáo, đoạn mã lặp lại, biên bản cuộc họp.\n\nPhán đoán là nơi giá trị dịch chuyển: chọn phương án nào đúng, nhận ra bản nháp sai ở đâu, xác định điều khách hàng thật sự cần, biết rủi ro nào mới quan trọng. Quan hệ thì vẫn là của con người: thuyết phục, xin lỗi, đàm phán, dạy, chăm sóc.\n\nHãy chú ý rằng cột đầu nhanh hơn, còn hai cột sau trở nên đáng giá hơn. Một chuyên gia mà công việc chủ yếu nằm ở cột đầu thì đang bị phơi bày. Một chuyên gia dùng tốt cột đầu và phán đoán được đầu ra thì có lợi thế.\n\nCó ba thói quen tạo ra khác biệt. **Dùng nó như bản nháp, không phải như đáp án.** Hãy xin nhiều phương án, rồi tự chọn. **Giữ phán đoán của bạn sắc bằng cách tự làm một phần việc.** Kỹ năng sẽ teo nếu bạn không bao giờ dùng nó. **Hiểu ngành của mình đủ sâu để nhận ra câu trả lời sai.** Chuyên môn chính là thứ biến một đầu ra nhanh thành một đầu ra đúng.\n\nVà hãy chờ đợi phần giấy tờ thay đổi. Một tin tuyển dụng nhắc đến AI thường đang mô tả một quy trình làm việc, không phải một mối đe dọa: một người lấy được bản nháp, kiểm tra nó, và chịu trách nhiệm cho kết quả.",
+      "body": "Lập luận thường được nêu là AI sẽ thay thế việc làm. Bằng chứng thú vị và hữu ích hơn: nó thay đổi bản chất công việc. Các công việc trong một vị trí được thay thế dần theo từng phần, và những người thành công chính là những người biết vượt qua ranh giới của công việc.\n\nDưới đây là một cách đơn giản để nhìn lại công việc của bạn. Hãy ghi lại các công việc lặp đi lặp lại của bạn thành ba cột: **soạn thảo thường lệ**, **đánh giá** và **xây dựng quan hệ**. Soạn thảo thường lệ là lĩnh vực AI mạnh nhất: bản nháp đầu tiên của email, phần tóm tắt báo cáo, mã nguồn dựng sẵn và biên bản cuộc họp.\n\nĐánh giá là nơi giá trị được tạo ra: chọn phương án phù hợp, nhận ra điểm sai trong bản nháp, xác định khách hàng thực sự cần gì và biết rủi ro nào đáng quan tâm. Xây dựng quan hệ vẫn là việc của con người: thuyết phục, xin lỗi, đàm phán, hướng dẫn và chăm sóc.\n\nHãy chú ý rằng cột đầu tiên ngày càng nhanh hơn, còn hai cột kia ngày càng trở nên có giá trị hơn. Một chuyên gia mà phần lớn công việc trước đây nằm ở cột đầu tiên sẽ bị đối mặt với nguy cơ bị thay thế. Người hiểu cách sử dụng tốt cột đầu tiên và đánh giá được kết quả sẽ có lợi thế.\n\nCó ba thói quen tạo nên sự khác biệt. **Hãy dùng nó như một bản nháp, đừng coi nó là câu trả lời.** Hãy đưa ra các lựa chọn, rồi hãy chọn. **Hãy giữ cho phán đoán của bạn thật sắc bén bằng cách tự tay làm một phần công việc.** Kỹ năng sẽ thoái lui nếu bạn không bao giờ dùng nó. **Hãy hiểu rõ lĩnh vực của mình đủ để nhận ra câu trả lời sai.** Chuyên môn là điều biến một kết quả nhanh chóng thành kết quả chính xác.\n\nVà hãy thay đổi cách xử lý giấy tờ. Một mẫu tuyển dụng nhắc đến AI thường đang mô tả một quy trình công việc, chứ không phải một lời đe dọa: một người có thể tạo bản nháp, kiểm tra bản nháp đó và chịu trách nhiệm về kết quả cuối cùng.",
       "examples": [
-        "Tôi để nó soạn nháp, và vẫn tự viết hai câu quan trọng nhất.",
-        "Giá trị của công việc tôi trước là tạo ra văn bản. Giờ là đánh giá văn bản, và phần đó không bị tự động hoá.",
-        "Buổi phỏng vấn không hỏi về tốc độ gõ. Nó hỏi tôi có kiểm tra được bản nháp hay không."
+        "Tôi để nó soạn nháp, nhưng vẫn tự viết hai câu quan trọng nhất.",
+        "Giá trị của tôi trước đây là tạo ra văn bản. Giờ thì là đánh giá văn bản, và phần việc đó chưa được tự động hóa.",
+        "Cuộc phỏng vấn không phải nói về việc gõ phím. Mà nói về việc tôi có thể kiểm tra bản thảo hay không."
       ],
-      "heading": "Công việc của bạn thay đổi thế nào khi AI xuất hiện"
+      "heading": "Khi AI xuất hiện, công việc sẽ thay đổi như thế nào?"
     },
     {
-      "body": "Đây là phần thực tế, và nó quan trọng hơn mọi cuộc so sánh giữa các mô hình. Những gì bạn gõ vào một dịch vụ có thể được lưu, có thể được một con người xem, và trong một số trường hợp có thể được dùng để cải thiện một mô hình sau này. Thiết lập khác nhau theo sản phẩm và thay đổi theo thời gian, nên hãy coi đây là quy tắc mặc định chứ không phải lời hứa về một dịch vụ nào cả.\n\nĐừng dán **thông tin đăng nhập**: mật khẩu, mã xác thực một lần, số thẻ, mã PIN đầy đủ. Không sản phẩm hợp lệ nào cần chúng.\n\nĐừng dán **dữ liệu cá nhân của người khác** khi họ chưa đồng ý. Kết quả y tế của đồng nghiệp, địa chỉ của khách hàng, hồ sơ của học sinh: đó là của họ, và dán vào bên thứ ba là một lần tiết lộ mà bạn không có quyền.\n\nĐừng dán **tài liệu mật**: kế hoạch sản phẩm chưa công bố, bản nháp hợp đồng, mã nguồn thuộc thỏa thuận bảo mật, chiến lược chưa công bố của công ty bạn làm. Hãy đọc điều khoản dịch vụ, và dùng tài khoản doanh nghiệp khi công ty cung cấp.\n\nHãy dán **tài liệu làm việc không nhạy cảm**: ghi chú của chính bạn, một văn bản đã công khai, một đoạn bạn tự viết, câu hỏi chung về một chủ đề bạn rành.\n\nHai thói quen giúp việc này dễ quản lý. Một, trước khi dán, hãy hỏi một câu: nếu đoạn này xuất hiện trên trang công khai vào ngày mai, tôi có phiền không? Nếu có, hãy bỏ phần nhạy cảm hoặc đừng dán. Hai, giữ sẵn một bộ prompt mẫu đã bỏ chi tiết nhạy cảm, để thực hành tốt không phụ thuộc vào trí nhớ của bạn vào đúng lúc bận rộn nhất.",
+      "body": "Đây là phần thực hành, và điều đó quan trọng hơn mọi so sánh giữa các mô hình. Những gì bạn nhập vào một dịch vụ có thể được lưu trữ, có thể được con người xem xét và trong một số trường hợp có thể được dùng để cải thiện mô hình sau này. Các cài đặt khác nhau tùy theo sản phẩm và có thể thay đổi theo thời gian, vì vậy hãy coi đây là quy tắc mặc định chứ không phải cam kết về một dịch vụ cụ thể.\n\nKhông dán **thông tin đăng nhập**: mật khẩu, mã dùng một lần, số thẻ, mã PIN đầy đủ. Không có sản phẩm hợp lệ nào cần những thông tin này.\n\nKhông dán **thông tin cá nhân của người khác** nếu họ không đồng ý. Kết quả khám bệnh của đồng nghiệp, địa chỉ của khách hàng, hồ sơ của học sinh: đó là thông tin thuộc về họ, và việc dán vào bên thứ ba là tiết lộ thông tin mà bạn không được phép thực hiện.\n\nKhông dán **tài liệu mật**: kế hoạch sản phẩm chưa được công bố, bản dự thảo hợp đồng, mã nguồn theo thỏa thuận bảo mật (NDA) hoặc chiến lược chưa được công bố của công ty nơi bạn làm việc. Hãy kiểm tra các điều khoản dịch vụ và sử dụng tài khoản doanh nghiệp nếu chủ công ty cung cấp cho bạn.\n\nCó thể dán **tài liệu công việc không nhạy cảm**: ghi chú của bạn, một tài liệu đã công khai, một đoạn văn bạn tự viết, hoặc những câu hỏi chung về một chủ đề bạn hiểu rõ.\n\nHai thói quen giúp bạn xử lý việc này dễ dàng hơn. Trước hết, trước khi dán, hãy tự hỏi một câu: nếu ngày mai đoạn văn bản này xuất hiện trên một trang công khai, tôi có phiền lòng không? Nếu có, hãy loại bỏ các phần nhạy cảm hoặc không dán vào. Thứ hai, hãy giữ lại một bộ câu lệnh mẫu đã loại bỏ các chi tiết nhạy cảm, để thói quen sử dụng đúng không phụ thuộc vào việc bạn có nhớ hay không khi đang bận.",
       "examples": [
-        "Tôi bỏ tên khách hàng và số tài khoản rồi, và như vậy dán vào được.",
-        "Mã nguồn này thuộc thỏa thuận bảo mật, nên nó nằm ở kho nội bộ của chúng tôi.",
-        "Nếu ngày mai nó xuất hiện trên trang công khai mà tôi thấy khó xử, thì nó không vào khung chat."
+        "Tôi đã xóa tên khách hàng và số tài khoản, rồi dán vào cũng không sao.",
+        "Mã nguồn này được bảo vệ bởi NDA, vì vậy nó chỉ nằm trong kho mã riêng của chúng tôi.",
+        "Nếu thông tin đó khiến tôi xấu hổ trên trang công khai, tôi sẽ không đưa vào cuộc trò chuyện."
       ],
-      "heading": "Bạn không nên dán gì vào chatbot"
+      "heading": "Những điều bạn không nên dán vào chatbot"
     },
     {
-      "body": "Những câu dưới đây giữ cho cuộc trò chuyện về AI một cách trung thực và thực tế. Chúng dùng được trong họp, trong nhóm gia đình, trong lớp học, hay với một nhà cung cấp. Hãy dùng nguyên văn, và đổi chi tiết cho khớp với hoàn cảnh của bạn.",
+      "body": "Những câu này giúp cuộc trò chuyện về AI trở nên trung thực và thực tế. Họ làm việc trong một cuộc họp, trong một nhóm gia đình, trong lớp học hoặc cùng một nhà cung cấp. Dùng nguyên như cũ, chỉ thay đổi chi tiết cho phù hợp với hoàn cảnh của bạn.",
       "examples": [
-        "Nó viết như chuyên gia và kiểm tra như người mới, nên phần kiểm tra là việc của tôi.",
-        "Tôi coi mọi đầu ra là bản nháp cho tới khi đã đối chiếu với nguồn.",
-        "Nó là một bản nháp tốt và một câu trả lời cuối kém.",
-        "Phần công việc của tôi là gõ thì nhanh hơn. Phần là phán đoán thì giá trị hơn.",
-        "Tôi thà có một câu trả lời sai mà kiểm tra được, còn hơn một câu trả lời tự tin mà không kiểm tra nổi.",
-        "Nếu một quyết định ảnh hưởng tới một con người, thì một người có tên ký. Không phải mô hình."
+        "Nó viết như chuyên gia nhưng kiểm tra như người mới, nên việc kiểm tra là của tôi.",
+        "Tôi coi mọi kết quả đầu ra đều là bản nháp cho đến khi kiểm chứng với nguồn.",
+        "Đây là một bản nháp đầu tiên tốt, nhưng là một câu trả lời cuối cùng kém.",
+        "Những phần việc của tôi liên quan đến việc gõ chữ thì nay đã nhanh hơn. Những phần liên quan đến phán đoán thì lại tạo ra nhiều giá trị hơn.",
+        "Tôi thà có một câu trả lời sai để có thể kiểm chứng còn hơn một câu trả lời tự tin nhưng không thể kiểm chứng.",
+        "Nếu một quyết định liên quan đến một cá nhân, người được nêu tên sẽ ký. Không phải mô hình."
       ],
-      "heading": "Những câu bạn có thể dùng lại khi AI được nhắc tới"
+      "heading": "Câu bạn có thể dùng lại khi AI tạo ra"
     },
     {
-      "body": "Các công cụ sẽ còn tiếp tục thay đổi, và mỗi năm có người tuyên bố rằng phiên bản mới khiến mọi lời khuyên trước trở nên vô dụng. Vài thói quen thì sống sót qua tất cả. Học những ý tưởng nền tảng thay vì tên sản phẩm: hệ thống làm được gì, không làm được gì, và vì sao nó hỏng theo những mẫu đã mô tả ở trên. Giữ phán đoán của bạn được luyện, vì một kỹ năng không dùng sẽ biến mất. Giữ lại ít nhất một phần công việc của bạn làm theo cách chậm, để bạn vẫn nhận ra được lúc cách nhanh bị sai. Và hãy cảnh giác với sự cấp tốc: một công cụ hứa thay thế bạn trong năm nay thường là một thông điệp bán hàng. Vị trí bền vững không phải là biết mọi công cụ, mà là biết cần kiểm tra gì, cần đối chiếu gì, và phần nào vẫn thuộc về bạn.",
-      "heading": "Giữ lại cái đầu của bạn khi công nghệ cứ đổi"
+      "body": "Các công cụ sẽ không ngừng thay đổi, và mỗi năm lại có người tuyên bố rằng phiên bản tiếp theo khiến những lời khuyên trước đó trở nên vô ích. Vài thói quen vẫn tồn tại qua tất cả. Hãy tìm hiểu những ý tưởng nền tảng thay vì chỉ ghi nhớ tên sản phẩm: hệ thống có thể làm gì, không thể làm gì và vì sao nó thất bại theo những dạng được mô tả ở đây. Hãy luôn rèn luyện khả năng phán đoán của bạn, bởi một kỹ năng không được sử dụng sẽ dần biến mất. Hãy giữ ít nhất một phần công việc của bạn được thực hiện theo cách chậm rãi, để bạn vẫn có thể nhận ra khi nào cách làm nhanh bị sai. Và hãy tỉnh táo với mọi lời kêu gọi khẩn cấp: một công cụ hứa sẽ thay thế bạn trong năm nay thường chỉ là lời quảng cáo. Vị trí bền vững không nằm ở việc biết mọi công cụ, mà ở việc biết cần kiểm tra điều gì, xác minh điều gì và điều gì vẫn thuộc về bạn.",
+      "heading": "Giữ vững đầu óc khi công nghệ không ngừng tiến triển"
     }
   ],
-  "summary": "Trí tuệ nhân tạo đi từ bài báo khoa học vào các công cụ hằng ngày trong vài năm, và giờ nó chạm vào công việc, chiếc điện thoại và túi tiền của bạn. Đọc xong bài này, bạn giải thích được AI hiện đại thực sự làm gì, biết nó làm tốt và làm hỏng việc nào, nhận ra ba kiểu hỏng trước khi tin một câu trả lời, và biết nên giao phần nào cho máy, giữ lại phần nào.",
-  "title": "Cuộc cách mạng AI: máy thông minh đang thay đổi cuộc sống của chúng ta thế nào"
+  "summary": "Trí tuệ nhân tạo đã chuyển từ các bài nghiên cứu sang những công cụ hằng ngày chỉ trong vài năm, và giờ đây nó đã ảnh hưởng đến công việc, chiếc điện thoại và nguồn tiền của bạn. Sau khi đọc xong, bạn có thể giải thích AI hiện đại thực sự làm gì, chỉ ra những công việc mà nó làm tốt và làm kém, nhận ra ba kiểu hỏng trước khi tin tưởng một câu trả lời, cũng như quyết định nên giao những việc gì cho máy và nên giữ lại việc gì cho mình.",
+  "title": "Cuộc cách mạng AI: Các máy thông minh đang thay đổi cuộc sống của chúng ta như thế nào"
 }

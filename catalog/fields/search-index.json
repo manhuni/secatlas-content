@@ -2,6 +2,14 @@
   "groups": {
     "search-00a9e4255a5b63067b76cbfb9fd67f26bdb91be802d5ffcb177ec1b7a8d4c623": [
       {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
+      },
+      {
         "icon": "payments",
         "id": "money",
         "name": "Money & Financial Literacy",
@@ -24,14 +32,6 @@
         "order": 15,
         "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
         "tagline": "Working with other people, in their language"
-      },
-      {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-00e13ed7af55b27622f1d6eab5bec0147e68efe28dc2b12461117afa1a5ed40e": [
@@ -97,20 +97,28 @@
     ],
     "search-043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89": [
       {
-        "icon": "auto_stories",
-        "id": "kids_stories",
-        "name": "Stories & Bedtime Tales",
-        "order": 20,
-        "summary": "Stories with a shape, a surprise and a small lesson at the end.",
-        "tagline": "Tales for small readers"
+        "icon": "public",
+        "id": "culture",
+        "name": "Culture & Modern Society",
+        "order": 17,
+        "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
+        "tagline": "Why people elsewhere do things differently"
       },
       {
-        "icon": "forum",
-        "id": "social",
-        "name": "Relationships & Social Life",
-        "order": 16,
-        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
-        "tagline": "Talking to people without making it worse"
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       },
       {
         "icon": "science",
@@ -121,6 +129,22 @@
         "tagline": "Why the world works, for small readers"
       },
       {
+        "icon": "auto_stories",
+        "id": "kids_stories",
+        "name": "Stories & Bedtime Tales",
+        "order": 20,
+        "summary": "Stories with a shape, a surprise and a small lesson at the end.",
+        "tagline": "Tales for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
+      },
+      {
         "icon": "functions",
         "id": "formal_sciences",
         "name": "Formal Sciences",
@@ -129,13 +153,15 @@
         "tagline": "Notation and precise English"
       },
       {
-        "icon": "public",
-        "id": "culture",
-        "name": "Culture & Modern Society",
-        "order": 17,
-        "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
-        "tagline": "Why people elsewhere do things differently"
-      },
+        "icon": "forum",
+        "id": "social",
+        "name": "Relationships & Social Life",
+        "order": 16,
+        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
+        "tagline": "Talking to people without making it worse"
+      }
+    ],
+    "search-0510eddd781102030eb8860671503a28e6a37f5346de429bdd47c0a37c77cc7d": [
       {
         "icon": "lightbulb",
         "id": "daily_skills",
@@ -144,24 +170,6 @@
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
       },
-      {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      }
-    ],
-    "search-0510eddd781102030eb8860671503a28e6a37f5346de429bdd47c0a37c77cc7d": [
       {
         "icon": "work",
         "id": "work",
@@ -169,14 +177,6 @@
         "order": 15,
         "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
         "tagline": "Working with other people, in their language"
-      },
-      {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-06271baf49532c879aa3c58b48671884bcc858f09197412d682750496c33e1e1": [
@@ -303,20 +303,20 @@
     ],
     "search-10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9": [
       {
-        "icon": "functions",
-        "id": "formal_sciences",
-        "name": "Formal Sciences",
-        "order": 1,
-        "summary": "English for reading symbols, definitions, and formal arguments.",
-        "tagline": "Notation and precise English"
-      },
-      {
         "icon": "chat",
         "id": "kids_daily",
         "name": "Daily Conversations for Kids",
         "order": 27,
         "summary": "The everyday exchanges of a child's day: hello, food, friends, school, weather and bedtime.",
         "tagline": "Talking, for small readers"
+      },
+      {
+        "icon": "functions",
+        "id": "formal_sciences",
+        "name": "Formal Sciences",
+        "order": 1,
+        "summary": "English for reading symbols, definitions, and formal arguments.",
+        "tagline": "Notation and precise English"
       }
     ],
     "search-1143da2bc54c495c4be31d3868785d39ffdfd56df5668f0645d8f14d47647952": [
@@ -371,12 +371,12 @@
     ],
     "search-148de9c5a7a44d19e56cd9ae1a554bf67847afb0c58f6e12fa29ac7ddfca9940": [
       {
-        "icon": "work",
-        "id": "work",
-        "name": "Work & Professional Life",
-        "order": 15,
-        "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
-        "tagline": "Working with other people, in their language"
+        "icon": "favorite",
+        "id": "health",
+        "name": "Health & Personal Well-Being",
+        "order": 14,
+        "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
+        "tagline": "Your body, and the instructions nobody explained"
       },
       {
         "icon": "lightbulb",
@@ -387,12 +387,12 @@
         "tagline": "The things you do every week and the words they need"
       },
       {
-        "icon": "favorite",
-        "id": "health",
-        "name": "Health & Personal Well-Being",
-        "order": 14,
-        "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
-        "tagline": "Your body, and the instructions nobody explained"
+        "icon": "work",
+        "id": "work",
+        "name": "Work & Professional Life",
+        "order": 15,
+        "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
+        "tagline": "Working with other people, in their language"
       },
       {
         "icon": "bolt_outlined",
@@ -436,20 +436,20 @@
     ],
     "search-18ac3e7343f016890c510e93f935261169d9e3f565436429830faf0934f4f8e4": [
       {
-        "icon": "science",
-        "id": "kids_science",
-        "name": "Science & Discovery",
-        "order": 25,
-        "summary": "Questions small readers ask, answered honestly: the sky, the rain, the plants, the body, the planets.",
-        "tagline": "Why the world works, for small readers"
-      },
-      {
         "icon": "chat",
         "id": "kids_daily",
         "name": "Daily Conversations for Kids",
         "order": 27,
         "summary": "The everyday exchanges of a child's day: hello, food, friends, school, weather and bedtime.",
         "tagline": "Talking, for small readers"
+      },
+      {
+        "icon": "science",
+        "id": "kids_science",
+        "name": "Science & Discovery",
+        "order": 25,
+        "summary": "Questions small readers ask, answered honestly: the sky, the rain, the plants, the body, the planets.",
+        "tagline": "Why the world works, for small readers"
       }
     ],
     "search-199d84675f58cfa0cfb8833c172a79e5734ac09e0066b469da07f978e2d558a8": [
@@ -484,20 +484,20 @@
     ],
     "search-1bad5bfe8a4f8650cd6837f506e69523f55bfad50f51f27ee70229b92fcc5c01": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "sentiment_satisfied",
         "id": "kids_feelings",
         "name": "Feelings & Social Skills",
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-1c48f6310f1c849b4ac338d340ee667bf3b6d59b589348eaa2b8a0698ff73481": [
@@ -532,38 +532,38 @@
     ],
     "search-1fb54c6fdca6a9f46e32c8ea21c5707a02c14f92f2c87c140a30b8b85856fee1": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "home",
         "id": "kids_home",
         "name": "Everyday Objects & Home",
         "order": 23,
         "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
         "tagline": "The things around you, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-2001981d63292fd531230f3f02c7c41acc6ca1a4e1f2bbc815efc6b1b8ab5006": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "home",
         "id": "kids_home",
         "name": "Everyday Objects & Home",
         "order": 23,
         "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
         "tagline": "The things around you, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-209a52a5416bbb84d293d0a1a231ea2f68049a8f275ce69dd3c0ea6dbb8a8a5a": [
@@ -621,22 +621,6 @@
     ],
     "search-252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111": [
       {
-        "icon": "payments",
-        "id": "money",
-        "name": "Money & Financial Literacy",
-        "order": 13,
-        "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
-        "tagline": "What money does, and how to keep some of it"
-      },
-      {
-        "icon": "functions",
-        "id": "formal_sciences",
-        "name": "Formal Sciences",
-        "order": 1,
-        "summary": "English for reading symbols, definitions, and formal arguments.",
-        "tagline": "Notation and precise English"
-      },
-      {
         "icon": "chat",
         "id": "kids_daily",
         "name": "Daily Conversations for Kids",
@@ -659,6 +643,22 @@
         "order": 22,
         "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
         "tagline": "Eating, for small readers"
+      },
+      {
+        "icon": "functions",
+        "id": "formal_sciences",
+        "name": "Formal Sciences",
+        "order": 1,
+        "summary": "English for reading symbols, definitions, and formal arguments.",
+        "tagline": "Notation and precise English"
+      },
+      {
+        "icon": "payments",
+        "id": "money",
+        "name": "Money & Financial Literacy",
+        "order": 13,
+        "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
+        "tagline": "What money does, and how to keep some of it"
       }
     ],
     "search-27aaf5eae6b95e9cb8dd7669dd5a335065d203f7b3cbd59d2a77ca37db562f82": [
@@ -851,20 +851,20 @@
     ],
     "search-32b56ed53348a8587f30c90e5c6406df95d3b8ab1130b1da62bcf492a8ed8a63": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "sentiment_satisfied",
         "id": "kids_feelings",
         "name": "Feelings & Social Skills",
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-32c044dfea70a1f4bee5e8668210707a516c20bf3493c78ae8312021d215df9c": [
@@ -887,31 +887,23 @@
     ],
     "search-32c1cf49a2feee269ed74dd860f72644ac71029839b21b1ce0c212efafa9ef07": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "sentiment_satisfied",
         "id": "kids_feelings",
         "name": "Feelings & Social Skills",
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-32e83e92d45d71f69dcf9d214688f0375542108631b45d344e5df2eb91c11566": [
-      {
-        "icon": "memory",
-        "id": "technology",
-        "name": "Technology & AI",
-        "order": 12,
-        "summary": "How the technology works, what it costs you, and how to keep your own head when it changes fast.",
-        "tagline": "Machines, and the life they have taken over"
-      },
       {
         "icon": "psychology_outlined",
         "id": "mind",
@@ -919,6 +911,14 @@
         "order": 28,
         "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
         "tagline": "How information, attention and artificial intelligence change the way people think"
+      },
+      {
+        "icon": "memory",
+        "id": "technology",
+        "name": "Technology & AI",
+        "order": 12,
+        "summary": "How the technology works, what it costs you, and how to keep your own head when it changes fast.",
+        "tagline": "Machines, and the life they have taken over"
       }
     ],
     "search-339b1218765b0ef2c50412d1ea128a25c988c114e933941d065307653f108418": [
@@ -1062,31 +1062,23 @@
     ],
     "search-3e23e8160039594a33894f6564e1b1348bbd7a0088d42c4acb73eeaed59c009d": [
       {
-        "icon": "auto_stories",
-        "id": "kids_stories",
-        "name": "Stories & Bedtime Tales",
-        "order": 20,
-        "summary": "Stories with a shape, a surprise and a small lesson at the end.",
-        "tagline": "Tales for small readers"
-      },
-      {
         "icon": "favorite",
         "id": "health",
         "name": "Health & Personal Well-Being",
         "order": 14,
         "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
         "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
+        "icon": "auto_stories",
+        "id": "kids_stories",
+        "name": "Stories & Bedtime Tales",
+        "order": 20,
+        "summary": "Stories with a shape, a surprise and a small lesson at the end.",
+        "tagline": "Tales for small readers"
       }
     ],
     "search-3e860f41a5ea92c49803d6ec96d452693b6dcefb0e8c0bf0125b0e3debac5281": [
-      {
-        "icon": "forum",
-        "id": "social",
-        "name": "Relationships & Social Life",
-        "order": 16,
-        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
-        "tagline": "Talking to people without making it worse"
-      },
       {
         "icon": "sentiment_satisfied",
         "id": "kids_feelings",
@@ -1094,25 +1086,17 @@
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "forum",
+        "id": "social",
+        "name": "Relationships & Social Life",
+        "order": 16,
+        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
+        "tagline": "Talking to people without making it worse"
       }
     ],
     "search-3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea": [
-      {
-        "icon": "flight",
-        "id": "travel",
-        "name": "Travel & Exploring the World",
-        "order": 11,
-        "summary": "Airports, hotels, restaurants, border controls: what happens, what is said, and what to do when the plan breaks.",
-        "tagline": "Moving through places you do not know"
-      },
-      {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
       {
         "icon": "restaurant",
         "id": "kids_food",
@@ -1128,6 +1112,22 @@
         "order": 23,
         "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
         "tagline": "The things around you, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "flight",
+        "id": "travel",
+        "name": "Travel & Exploring the World",
+        "order": 11,
+        "summary": "Airports, hotels, restaurants, border controls: what happens, what is said, and what to do when the plan breaks.",
+        "tagline": "Moving through places you do not know"
       }
     ],
     "search-40b7858e48c1dd0e9edaf294212ac29a6ceb8656e2d781350b67738b3b6c0b76": [
@@ -1172,20 +1172,20 @@
     ],
     "search-4501c9f5779a22a714c1ff9d95de70a814f6a08ba0d40843e84f1bc9282bd72a": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "home",
         "id": "kids_home",
         "name": "Everyday Objects & Home",
         "order": 23,
         "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
         "tagline": "The things around you, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-454349e422f05297191ead13e21d3db520e5abef52055e4964b82fb213f593a1": [
@@ -1200,20 +1200,20 @@
     ],
     "search-46599c5bb5c33101f80cea8438e2228085513dbbb19b2f5ce97bd68494d3344d": [
       {
-        "icon": "auto_stories",
-        "id": "kids_stories",
-        "name": "Stories & Bedtime Tales",
-        "order": 20,
-        "summary": "Stories with a shape, a surprise and a small lesson at the end.",
-        "tagline": "Tales for small readers"
-      },
-      {
         "icon": "favorite",
         "id": "health",
         "name": "Health & Personal Well-Being",
         "order": 14,
         "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
         "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
+        "icon": "auto_stories",
+        "id": "kids_stories",
+        "name": "Stories & Bedtime Tales",
+        "order": 20,
+        "summary": "Stories with a shape, a surprise and a small lesson at the end.",
+        "tagline": "Tales for small readers"
       }
     ],
     "search-47360b8c5f58c5ba04c8ce848545342c0490cfab23ce9f50e16e40b1df254ef8": [
@@ -1288,6 +1288,14 @@
     ],
     "search-4ffd973bd52e386ed59398614df7c9db0161448bb196184a95d0d162141a24d1": [
       {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
+      },
+      {
         "icon": "forum",
         "id": "social",
         "name": "Relationships & Social Life",
@@ -1302,14 +1310,6 @@
         "order": 15,
         "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
         "tagline": "Working with other people, in their language"
-      },
-      {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-50281f1fba498573322222e81502b3ad4b046b76cdefedc7e18cbab0ef96c45b": [
@@ -1334,6 +1334,14 @@
     ],
     "search-50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326": [
       {
+        "icon": "favorite",
+        "id": "health",
+        "name": "Health & Personal Well-Being",
+        "order": 14,
+        "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
+        "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
         "icon": "flight",
         "id": "travel",
         "name": "Travel & Exploring the World",
@@ -1348,14 +1356,6 @@
         "order": 15,
         "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
         "tagline": "Working with other people, in their language"
-      },
-      {
-        "icon": "favorite",
-        "id": "health",
-        "name": "Health & Personal Well-Being",
-        "order": 14,
-        "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
-        "tagline": "Your body, and the instructions nobody explained"
       }
     ],
     "search-51c2a72526047d0f2c55bab9632c34274e79827775de857488cb8d9e027ffabe": [
@@ -1410,14 +1410,6 @@
     ],
     "search-56ead909b0b49c61cb40d8ccdc5fa2786be56d1ff0f0daf252f08e9eef640d63": [
       {
-        "icon": "forum",
-        "id": "social",
-        "name": "Relationships & Social Life",
-        "order": 16,
-        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
-        "tagline": "Talking to people without making it worse"
-      },
-      {
         "icon": "public",
         "id": "culture",
         "name": "Culture & Modern Society",
@@ -1432,6 +1424,14 @@
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "forum",
+        "id": "social",
+        "name": "Relationships & Social Life",
+        "order": 16,
+        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
+        "tagline": "Talking to people without making it worse"
       }
     ],
     "search-578756ca4aa16d8872610a5aaa78460fd30fbe93379ff7284fe65d66ca606755": [
@@ -1601,12 +1601,20 @@
     ],
     "search-62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a": [
       {
-        "icon": "payments",
-        "id": "money",
-        "name": "Money & Financial Literacy",
-        "order": 13,
-        "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
-        "tagline": "What money does, and how to keep some of it"
+        "icon": "public",
+        "id": "culture",
+        "name": "Culture & Modern Society",
+        "order": 17,
+        "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
+        "tagline": "Why people elsewhere do things differently"
+      },
+      {
+        "icon": "psychology_outlined",
+        "id": "mind",
+        "name": "Information, Mind & AI",
+        "order": 28,
+        "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
+        "tagline": "How information, attention and artificial intelligence change the way people think"
       },
       {
         "icon": "calculate_outlined",
@@ -1618,31 +1626,15 @@
         "tagline": "Terms and notation"
       },
       {
-        "icon": "psychology_outlined",
-        "id": "mind",
-        "name": "Information, Mind & AI",
-        "order": 28,
-        "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
-        "tagline": "How information, attention and artificial intelligence change the way people think"
-      },
-      {
-        "icon": "public",
-        "id": "culture",
-        "name": "Culture & Modern Society",
-        "order": 17,
-        "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
-        "tagline": "Why people elsewhere do things differently"
+        "icon": "payments",
+        "id": "money",
+        "name": "Money & Financial Literacy",
+        "order": 13,
+        "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
+        "tagline": "What money does, and how to keep some of it"
       }
     ],
     "search-63212655f2e25a8f89eeb6653853cece8901e24c4a4c1dee70e53b68bad3e19c": [
-      {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
       {
         "icon": "home",
         "id": "kids_home",
@@ -1650,6 +1642,14 @@
         "order": 23,
         "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
         "tagline": "The things around you, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-6327fbb39c6b1e9bd8c16b698aa2f667c9ec81ac72407ad7f4c48bc92203682b": [
@@ -1665,6 +1665,14 @@
     ],
     "search-63bd7065ef1e165a04255d4048836ce126dfe2b6a0777722ad3a5c6013129d19": [
       {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
+      },
+      {
         "icon": "forum",
         "id": "social",
         "name": "Relationships & Social Life",
@@ -1679,14 +1687,6 @@
         "order": 15,
         "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
         "tagline": "Working with other people, in their language"
-      },
-      {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-6522a498fd10d67aecb9013bb3012c231f0386330f11a4261acdadd5d65ff4a9": [
@@ -1722,38 +1722,38 @@
     ],
     "search-66a424a9a958b152c1c3ba65a2ac6c33ad03333e2e41e7d770b5758d46dd3ef5": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "home",
         "id": "kids_home",
         "name": "Everyday Objects & Home",
         "order": 23,
         "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
         "tagline": "The things around you, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-67d35554c1f60638d6d72a0edc045450a841f7efabe0f9843b7e653499094538": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "home",
         "id": "kids_home",
         "name": "Everyday Objects & Home",
         "order": 23,
         "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
         "tagline": "The things around you, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-67ea76160c2c25fcb2309dd88040fb8836e3e4043a3fe08577da89c87b82f4be": [
@@ -1930,14 +1930,6 @@
     ],
     "search-7114d75b28f21587e37f4a299da0a9428684a8b72773b3087e8d6e63cfb4f312": [
       {
-        "icon": "forum",
-        "id": "social",
-        "name": "Relationships & Social Life",
-        "order": 16,
-        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
-        "tagline": "Talking to people without making it worse"
-      },
-      {
         "icon": "public",
         "id": "culture",
         "name": "Culture & Modern Society",
@@ -1952,6 +1944,14 @@
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "forum",
+        "id": "social",
+        "name": "Relationships & Social Life",
+        "order": 16,
+        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
+        "tagline": "Talking to people without making it worse"
       }
     ],
     "search-7125d7f076bfe0c847968b922c807fdaea30fae2c177556102d01482b26552bf": [
@@ -2186,20 +2186,20 @@
     ],
     "search-85262adf74518bbb70c7cb94cd6159d91669e5a81edf1efebd543eadbda9fa2b": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "home",
         "id": "kids_home",
         "name": "Everyday Objects & Home",
         "order": 23,
         "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
         "tagline": "The things around you, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-85574fa07dae32132675e21676042035c1b8a8384e11cd430269cff53f29add1": [
@@ -2383,14 +2383,6 @@
     ],
     "search-9c3aee7110b787f0fb5f81633a36392bd277ea945d44c874a9a23601aefe20cf": [
       {
-        "icon": "functions",
-        "id": "formal_sciences",
-        "name": "Formal Sciences",
-        "order": 1,
-        "summary": "English for reading symbols, definitions, and formal arguments.",
-        "tagline": "Notation and precise English"
-      },
-      {
         "icon": "chat",
         "id": "kids_daily",
         "name": "Daily Conversations for Kids",
@@ -2405,17 +2397,17 @@
         "order": 22,
         "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
         "tagline": "Eating, for small readers"
+      },
+      {
+        "icon": "functions",
+        "id": "formal_sciences",
+        "name": "Formal Sciences",
+        "order": 1,
+        "summary": "English for reading symbols, definitions, and formal arguments.",
+        "tagline": "Notation and precise English"
       }
     ],
     "search-9c53c074d7ac6a2728b638ac1f376c5fa9eb8f71603017c3ea638c2fd40548df": [
-      {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
       {
         "icon": "sentiment_satisfied",
         "id": "kids_feelings",
@@ -2423,6 +2415,14 @@
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-9ce6f1ede5fc398bce9ebfc38672e9a9604d925c3627f95958d8924bacee271a": [
@@ -2457,14 +2457,6 @@
     ],
     "search-a1d9890884c1b4b960c279cfe7554a900d169422d6cec980beef67761487d3b9": [
       {
-        "icon": "forum",
-        "id": "social",
-        "name": "Relationships & Social Life",
-        "order": 16,
-        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
-        "tagline": "Talking to people without making it worse"
-      },
-      {
         "icon": "public",
         "id": "culture",
         "name": "Culture & Modern Society",
@@ -2479,6 +2471,14 @@
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "forum",
+        "id": "social",
+        "name": "Relationships & Social Life",
+        "order": 16,
+        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
+        "tagline": "Talking to people without making it worse"
       }
     ],
     "search-a2a78ada26ac2cbf1e86e768f348ef4c4d23697d6d44d652b81dba6c03cfed5a": [
@@ -2599,6 +2599,14 @@
     ],
     "search-acac86c0e609ca906f632b0e2dacccb2b77d22b0621f20ebece1a4835b93f6f0": [
       {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
+      },
+      {
         "icon": "payments",
         "id": "money",
         "name": "Money & Financial Literacy",
@@ -2621,14 +2629,6 @@
         "order": 15,
         "summary": "The interviews, the emails, the meetings and the pay rise: the professional register of English, and how it works.",
         "tagline": "Working with other people, in their language"
-      },
-      {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-ace32fd77560bd7a2dd86e137e20e48944b32ca34bfc9f232891f5fe13462b3f": [
@@ -2693,20 +2693,20 @@
     ],
     "search-b6b602d7c35ede9bcc88b4e42792c1ff5e134bb3c4a8f8c3c4e11737cc117a4b": [
       {
-        "icon": "forum",
-        "id": "social",
-        "name": "Relationships & Social Life",
-        "order": 16,
-        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
-        "tagline": "Talking to people without making it worse"
-      },
-      {
         "icon": "sentiment_satisfied",
         "id": "kids_feelings",
         "name": "Feelings & Social Skills",
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "forum",
+        "id": "social",
+        "name": "Relationships & Social Life",
+        "order": 16,
+        "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
+        "tagline": "Talking to people without making it worse"
       }
     ],
     "search-b80cdaae9b322bba2a38fd396299782a4cc6b4a0ccf67fccbbcc617c94a46026": [
@@ -2870,22 +2870,6 @@
     ],
     "search-ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb": [
       {
-        "icon": "memory",
-        "id": "technology",
-        "name": "Technology & AI",
-        "order": 12,
-        "summary": "How the technology works, what it costs you, and how to keep your own head when it changes fast.",
-        "tagline": "Machines, and the life they have taken over"
-      },
-      {
-        "icon": "psychology_outlined",
-        "id": "mind",
-        "name": "Information, Mind & AI",
-        "order": 28,
-        "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
-        "tagline": "How information, attention and artificial intelligence change the way people think"
-      },
-      {
         "icon": "explore",
         "id": "kids_adventure",
         "name": "Adventures & Imagination",
@@ -2900,6 +2884,22 @@
         "order": 21,
         "summary": "The animals, the plants and the places they live, told simply and with wonder.",
         "tagline": "The living world, for small readers"
+      },
+      {
+        "icon": "psychology_outlined",
+        "id": "mind",
+        "name": "Information, Mind & AI",
+        "order": 28,
+        "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
+        "tagline": "How information, attention and artificial intelligence change the way people think"
+      },
+      {
+        "icon": "memory",
+        "id": "technology",
+        "name": "Technology & AI",
+        "order": 12,
+        "summary": "How the technology works, what it costs you, and how to keep your own head when it changes fast.",
+        "tagline": "Machines, and the life they have taken over"
       }
     ],
     "search-cca0151aa5e3da95848b714a753db0dc9f4f5b2aec7d47724811afd986677961": [
@@ -2954,20 +2954,20 @@
     ],
     "search-cf659bd3fba074e3ae0eed5fe0afc9ac33d7af64930f0e1b112b23763df25433": [
       {
-        "icon": "lightbulb",
-        "id": "daily_skills",
-        "name": "Everyday Life & Practical Skills",
-        "order": 10,
-        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
-        "tagline": "The things you do every week and the words they need"
-      },
-      {
         "icon": "sentiment_satisfied",
         "id": "kids_feelings",
         "name": "Feelings & Social Skills",
         "order": 24,
         "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
         "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "lightbulb",
+        "id": "daily_skills",
+        "name": "Everyday Life & Practical Skills",
+        "order": 10,
+        "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
+        "tagline": "The things you do every week and the words they need"
       }
     ],
     "search-d0507f707df00eeb95d30291028741138c42e04e4369d6b199272e82559c97a9": [
@@ -3126,20 +3126,20 @@
     ],
     "search-de7d1b721a1e0632b7cf04edf5032c8ecffa9f9a08492152b926f1a5a7e765d7": [
       {
-        "icon": "psychology_outlined",
-        "id": "mind",
-        "name": "Information, Mind & AI",
-        "order": 28,
-        "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
-        "tagline": "How information, attention and artificial intelligence change the way people think"
-      },
-      {
         "icon": "explore",
         "id": "kids_adventure",
         "name": "Adventures & Imagination",
         "order": 26,
         "summary": "Moon trips, underwater worlds, dinosaurs and magic doors: adventures that end with something worth keeping.",
         "tagline": "Journeys for small readers"
+      },
+      {
+        "icon": "psychology_outlined",
+        "id": "mind",
+        "name": "Information, Mind & AI",
+        "order": 28,
+        "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
+        "tagline": "How information, attention and artificial intelligence change the way people think"
       }
     ],
     "search-dea7111a8406e27cfc8bf5f49c5d40898402b0b584b3285f069170a36f9eec31": [
@@ -3505,20 +3505,20 @@
     ],
     "search-f4a4ce5fa6340a35aa5db0b4b6d31a6fbaa6052356460dbb0537657d803f5be2": [
       {
-        "icon": "payments",
-        "id": "money",
-        "name": "Money & Financial Literacy",
-        "order": 13,
-        "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
-        "tagline": "What money does, and how to keep some of it"
-      },
-      {
         "icon": "public",
         "id": "culture",
         "name": "Culture & Modern Society",
         "order": 17,
         "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
         "tagline": "Why people elsewhere do things differently"
+      },
+      {
+        "icon": "payments",
+        "id": "money",
+        "name": "Money & Financial Literacy",
+        "order": 13,
+        "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
+        "tagline": "What money does, and how to keep some of it"
       }
     ],
     "search-f8f26225fd1d7a1c68981c944df40164266c067a05e6c0cc0a90b8a6cef94b67": [

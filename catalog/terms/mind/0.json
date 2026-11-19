@@ -1,566 +1,570 @@
 {
   "items": [
     {
-      "definition": "A period in which investment and valuations in AI exceed the technology's near-term economic value.",
-      "dictionaryId": "lex.sa.mind.ai_bubble",
+      "definition": "An AI system that plans and acts toward a goal, using tools and intermediate steps rather than answering in one shot.",
+      "dictionaryId": "lex.sa.mind.ai_agent",
       "example": "",
       "fieldId": "mind",
-      "id": "ai_bubble",
+      "id": "ai_agent",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.mind.ai_agents"
       ],
-      "term": "AI bubble"
+      "term": "AI agent"
     },
     {
-      "definition": "The observed pattern in which new technologies pass through inflated expectations, disappointment, and eventual steady adoption.",
-      "dictionaryId": "lex.sa.mind.hype_cycle",
+      "definition": "A setup in which several specialized AI agents divide a task among themselves and pass work along.",
+      "dictionaryId": "lex.sa.mind.multi_agent_system",
       "example": "",
       "fieldId": "mind",
-      "id": "hype_cycle",
+      "id": "multi_agent_system",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.mind.ai_agents"
       ],
-      "term": "Hype cycle"
+      "term": "Multi-agent system"
     },
     {
-      "definition": "The total price investors place on a company or sector, reflecting expected future profits rather than current ones.",
-      "dictionaryId": "lex.sa.mind.market_valuation",
+      "definition": "The coordination of multiple agents: deciding their roles, order, tools and stopping conditions.",
+      "dictionaryId": "lex.sa.mind.orchestration",
       "example": "",
       "fieldId": "mind",
-      "id": "market_valuation",
+      "id": "orchestration",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.mind.ai_agents"
       ],
-      "term": "Market valuation"
+      "term": "Orchestration"
     },
     {
-      "definition": "The historical lag between the arrival of a transformative technology and its measurable effect on economic productivity.",
-      "dictionaryId": "lex.sa.mind.productivity_paradox",
+      "definition": "A design in which a person reviews and approves an agent's work before it takes effect.",
+      "dictionaryId": "lex.sa.mind.human_in_the_loop",
       "example": "",
       "fieldId": "mind",
-      "id": "productivity_paradox",
+      "id": "human_in_the_loop",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.mind.ai_agents"
       ],
-      "term": "Productivity paradox"
+      "term": "Human in the loop"
     },
     {
-      "definition": "The investigation of claims, numbers and risks before committing money or reputation.",
-      "dictionaryId": "lex.sa.mind.due_diligence",
+      "definition": "The process of checking that output meets its requirements before it is used or shipped.",
+      "dictionaryId": "lex.sa.mind.quality_control",
       "example": "",
       "fieldId": "mind",
-      "id": "due_diligence",
+      "id": "quality_control",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.mind.ai_agents"
       ],
-      "term": "Due diligence"
+      "term": "Quality control"
     },
     {
-      "definition": "The revenue and cost attached to one unit of a product — the arithmetic of whether a business model works.",
-      "dictionaryId": "lex.sa.mind.unit_economics",
+      "definition": "Assigning a task and the authority to complete it; with agents, the responsibility still stays with the delegator.",
+      "dictionaryId": "lex.sa.mind.delegation",
       "example": "",
       "fieldId": "mind",
-      "id": "unit_economics",
+      "id": "delegation",
       "lessonIds": [
-        "article_ai_bubble"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.ai_bubble"
+        "knw.mind.ai_agents"
       ],
-      "term": "Unit economics"
+      "term": "Delegation"
     },
     {
-      "definition": "The pattern in which removing difficulty lowers the tolerance for difficulty, making life feel harder even as it gets easier.",
-      "dictionaryId": "lex.sa.mind.comfort_paradox",
+      "definition": "An AI assistant integrated into the development process that writes, completes and explains code on request.",
+      "dictionaryId": "lex.sa.mind.ai_pair_programmer",
       "example": "",
       "fieldId": "mind",
-      "id": "comfort_paradox",
+      "id": "ai_pair_programmer",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Paradox of comfort"
+      "term": "AI pair programmer"
     },
     {
-      "definition": "The capacity to recover quickly and fully after stress, failure or loss.",
-      "dictionaryId": "lex.sa.mind.resilience",
+      "definition": "The automatic production of program code from a natural-language description or an example.",
+      "dictionaryId": "lex.sa.mind.code_generation",
       "example": "",
       "fieldId": "mind",
-      "id": "resilience",
+      "id": "code_generation",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Resilience"
+      "term": "Code generation"
     },
     {
-      "definition": "Sustained effort toward long-term goals, maintained through boredom and setbacks.",
-      "dictionaryId": "lex.sa.mind.grit",
+      "definition": "Breaking a large, vague problem into small, precise, solvable parts with clear success conditions.",
+      "dictionaryId": "lex.sa.mind.problem_decomposition",
       "example": "",
       "fieldId": "mind",
-      "id": "grit",
+      "id": "problem_decomposition",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Grit"
+      "term": "Problem decomposition"
     },
     {
-      "definition": "The property of growing stronger under stress and disorder, beyond mere resistance to damage.",
-      "dictionaryId": "lex.sa.mind.antifragility",
+      "definition": "Reasoning about how the parts of a system affect each other, including effects that appear far away in time or structure.",
+      "dictionaryId": "lex.sa.mind.systems_thinking",
       "example": "",
       "fieldId": "mind",
-      "id": "antifragility",
+      "id": "systems_thinking",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Antifragility"
+      "term": "Systems thinking"
     },
     {
-      "definition": "The willingness to give up a smaller reward now for a larger reward later.",
-      "dictionaryId": "lex.sa.mind.delayed_gratification",
+      "definition": "The capacity to make good technical decisions under uncertainty, weighing trade-offs that no rule can settle.",
+      "dictionaryId": "lex.sa.mind.engineering_judgment",
       "example": "",
       "fieldId": "mind",
-      "id": "delayed_gratification",
+      "id": "engineering_judgment",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Delayed gratification"
+      "term": "Engineering judgment"
     },
     {
-      "definition": "The small resistance between wanting something and getting it, which slows consumption and quietly trains patience.",
-      "dictionaryId": "lex.sa.mind.friction",
-      "example": "Every plan met friction: the weather, the delay, the wrong order.",
-      "fieldId": "mind",
-      "id": "friction",
-      "lessonIds": [
-        "article_comfort_paradox"
-      ],
-      "packs": [
-        "knw.mind.comfort_paradox"
-      ],
-      "term": "Friction"
-    },
-    {
-      "definition": "The false feeling of competence that comes from producing results with powerful tools rather than from owned ability.",
-      "dictionaryId": "lex.sa.mind.illusion_of_skill",
+      "definition": "The ongoing work of keeping software alive: fixing, adapting, and explaining it across years of changing conditions.",
+      "dictionaryId": "lex.sa.mind.maintenance",
       "example": "",
       "fieldId": "mind",
-      "id": "illusion_of_skill",
+      "id": "maintenance",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Illusion of skill"
+      "term": "Maintenance"
     },
     {
-      "definition": "Results and confidence produced by tools, which the user experiences as personal ability.",
-      "dictionaryId": "lex.sa.mind.borrowed_competence",
+      "definition": "Software designed to act toward goals with a degree of autonomy rather than waiting for each command.",
+      "dictionaryId": "lex.sa.mind.agentic_app",
       "example": "",
       "fieldId": "mind",
-      "id": "borrowed_competence",
+      "id": "agentic_app",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.mind.app_future"
       ],
-      "term": "Borrowed competence"
+      "term": "Agentic app"
     },
     {
-      "definition": "The systematic tendency to overestimate the accuracy of one's own knowledge and the odds of one's success.",
-      "dictionaryId": "lex.sa.mind.overconfidence_bias",
+      "definition": "A user interface that changes according to context, intent and history rather than showing fixed menus.",
+      "dictionaryId": "lex.sa.mind.adaptive_interface",
       "example": "",
       "fieldId": "mind",
-      "id": "overconfidence_bias",
+      "id": "adaptive_interface",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.mind.app_future"
       ],
-      "term": "Overconfidence bias"
+      "term": "Adaptive interface"
     },
     {
-      "definition": "The tendency to trust automated systems more than one's own judgment, especially under pressure or fatigue.",
-      "dictionaryId": "lex.sa.mind.automation_bias",
+      "definition": "A statement of what the user wants to achieve, as opposed to the commands that achieve it.",
+      "dictionaryId": "lex.sa.mind.intent",
       "example": "",
       "fieldId": "mind",
-      "id": "automation_bias",
+      "id": "intent",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.mind.app_future"
       ],
-      "term": "Automation bias"
+      "term": "Intent"
     },
     {
-      "definition": "The accuracy of your self-assessment: how closely your confidence matches your actual performance.",
-      "dictionaryId": "lex.sa.mind.calibration",
+      "definition": "The performance of multi-step procedures by software without human operation of each step.",
+      "dictionaryId": "lex.sa.mind.task_automation",
       "example": "",
       "fieldId": "mind",
-      "id": "calibration",
+      "id": "task_automation",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.mind.app_future"
       ],
-      "term": "Calibration"
+      "term": "Task automation"
     },
     {
-      "definition": "The weakening of a skill through long disuse, often because a tool has performed it instead.",
-      "dictionaryId": "lex.sa.mind.skill_atrophy",
+      "definition": "Application programming interface: a structured way for software to use another service, made for machines rather than humans.",
+      "dictionaryId": "lex.sa.mind.api",
       "example": "",
       "fieldId": "mind",
-      "id": "skill_atrophy",
+      "id": "api",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.mind.app_future"
       ],
-      "term": "Skill atrophy"
+      "term": "API"
     },
     {
-      "definition": "The ability you have to do something, whatever you decide to do it for.",
-      "dictionaryId": "lex.sa.mind.dual_capacity",
-      "example": "He had the capacity to read a face well, and the capacity was never the question.",
+      "definition": "Computing woven into the environment so that it acts in the background without demanding attention.",
+      "dictionaryId": "lex.sa.mind.ambient_computing",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_capacity",
+      "id": "ambient_computing",
       "lessonIds": [
-        "article_inner_dual"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.app_future"
       ],
-      "term": "Capacity"
+      "term": "Ambient computing"
     },
     {
-      "definition": "The aim that is behind an act: what the act is for.",
-      "dictionaryId": "lex.sa.mind.dual_motive",
-      "example": "The motive was to keep the machine running, and the motive decided the rest.",
+      "conflict": true,
+      "definition": "The length of time you can hold focus on one task. It depends on the task and on your state, not on a fixed personal rating.",
+      "dictionaryId": "lex.sa.technology.attention_span",
+      "example": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
       "fieldId": "mind",
-      "id": "dual_motive",
+      "id": "attention_span",
       "lessonIds": [
-        "article_inner_dual"
+        "article_attention_death",
+        "article_brainrot"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.attention_death",
+        "knw.tech.brainrot"
       ],
-      "term": "Motive"
+      "term": "Attention span"
     },
     {
-      "definition": "The way an aim is carried out: the tools, the words and the methods used.",
-      "dictionaryId": "lex.sa.mind.dual_means",
-      "example": "The means were ordinary tools used in an ordinary way.",
+      "definition": "Professional or learning activity performed in a distraction-free state that pushes cognitive ability to its limit.",
+      "dictionaryId": "lex.sa.mind.deep_work",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_means",
+      "id": "deep_work",
       "lessonIds": [
-        "article_inner_dual"
+        "article_attention_death"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.attention_death"
       ],
-      "term": "Means"
+      "term": "Deep work"
     },
     {
-      "definition": "An act repeated until it can be done without thinking about it.",
-      "dictionaryId": "lex.sa.mind.dual_habit",
-      "example": "It was a habit, and the habit had been built one small repetition at a time.",
+      "definition": "The cycle in which unpredictable rewards (likes, new content) train the brain to seek the next stimulus repeatedly.",
+      "dictionaryId": "lex.sa.mind.dopamine_loop",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_habit",
+      "id": "dopamine_loop",
       "lessonIds": [
-        "article_inner_dual"
+        "article_attention_death"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.attention_death"
       ],
-      "term": "Habit"
+      "term": "Dopamine loop"
     },
     {
-      "definition": "What a person does as a rule, when nobody is checking.",
-      "dictionaryId": "lex.sa.mind.dual_character",
-      "example": "Character is what you do when nobody is checking.",
+      "conflict": true,
+      "definition": "The habit of ignoring alerts on purpose, so that the one alert that mattered gets ignored too.",
+      "dictionaryId": "lex.sa.technology.notification_fatigue",
+      "example": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
       "fieldId": "mind",
-      "id": "dual_character",
+      "id": "notification_fatigue",
       "lessonIds": [
-        "article_inner_dual"
+        "article_attention_death",
+        "article_brainrot"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.attention_death",
+        "knw.tech.brainrot"
       ],
-      "term": "Character"
+      "term": "Notification fatigue"
     },
     {
-      "definition": "The short space in which one argument is weighed against another.",
-      "dictionaryId": "lex.sa.mind.dual_deliberation",
-      "example": "Deliberation took two minutes, and the two minutes were enough.",
+      "definition": "The preference for rewards that arrive immediately over larger rewards that require waiting and effort.",
+      "dictionaryId": "lex.sa.mind.instant_gratification",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_deliberation",
+      "id": "instant_gratification",
       "lessonIds": [
-        "article_inner_dual"
+        "article_attention_death"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.attention_death"
       ],
-      "term": "Deliberation"
+      "term": "Instant gratification"
     },
     {
-      "definition": "The argument made against a decision that is still being considered.",
-      "dictionaryId": "lex.sa.mind.dual_counter_argument",
-      "example": "The counter-argument was short, and it changed the decision.",
+      "definition": "The ability to stay with a difficult task through the uncomfortable period before progress appears.",
+      "dictionaryId": "lex.sa.mind.frustration_tolerance",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_counter_argument",
+      "id": "frustration_tolerance",
       "lessonIds": [
-        "article_inner_dual"
+        "article_attention_death"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.attention_death"
       ],
-      "term": "Counter-argument"
+      "term": "Frustration tolerance"
     },
     {
-      "definition": "A sudden push to act before you have thought it through.",
-      "dictionaryId": "lex.sa.mind.dual_impulse",
-      "example": "The impulse to reply at once was stronger than the answer.",
+      "definition": "The compulsive online searching of symptoms, driven by anxiety, which increases the anxiety it was meant to relieve.",
+      "dictionaryId": "lex.sa.mind.cyberchondria",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_impulse",
+      "id": "cyberchondria",
       "lessonIds": [
-        "article_inner_dual"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Impulse"
+      "term": "Cyberchondria"
     },
     {
-      "definition": "The pull of a gain that somebody else pays the cost of.",
-      "dictionaryId": "lex.sa.mind.dual_temptation",
-      "example": "The temptation was the extra 200 $ that the supplier would pay for.",
+      "definition": "Persistent worry about having or developing a serious illness, maintained by checking and reassurance-seeking.",
+      "dictionaryId": "lex.sa.mind.health_anxiety",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_temptation",
+      "id": "health_anxiety",
       "lessonIds": [
-        "article_inner_dual"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Temptation"
+      "term": "Health anxiety"
     },
     {
-      "definition": "The people who are present and watching when you act.",
-      "dictionaryId": "lex.sa.mind.dual_audience",
-      "example": "With the customer in the room, the audience changed what he said.",
+      "definition": "The worsening of symptoms or the appearance of side effects because a person expects them.",
+      "dictionaryId": "lex.sa.mind.nocebo_effect",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_audience",
+      "id": "nocebo_effect",
       "lessonIds": [
-        "article_inner_dual"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Audience"
+      "term": "Nocebo effect"
     },
     {
-      "definition": "Holding a decision back for a short time so that the second argument can be made.",
-      "dictionaryId": "lex.sa.mind.dual_self_control",
-      "example": "A little self-control before the reply is cheaper than a retraction later.",
+      "definition": "Concluding what illness one has without a medical examination, usually from online information.",
+      "dictionaryId": "lex.sa.mind.self_diagnosis",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_self_control",
+      "id": "self_diagnosis",
       "lessonIds": [
-        "article_inner_dual"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Self-control"
+      "term": "Self-diagnosis"
     },
     {
-      "definition": "The sense that tells you an act would hurt somebody.",
-      "dictionaryId": "lex.sa.mind.dual_conscience",
-      "example": "His conscience told him the report would hurt the supplier.",
+      "definition": "A medical source written or reviewed by qualified professionals, updated, and not selling the fear it describes.",
+      "dictionaryId": "lex.sa.mind.reliable_source",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_conscience",
+      "id": "reliable_source",
       "lessonIds": [
-        "article_inner_dual"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Conscience"
+      "term": "Reliable source"
     },
     {
-      "definition": "The answer you owe for an act, to the people affected and to the law.",
-      "dictionaryId": "lex.sa.mind.dual_accountability",
-      "example": "The mistake was hers, and the accountability was hers as well.",
+      "definition": "The actual frequency of a condition in the population, which is usually far lower than search results suggest.",
+      "dictionaryId": "lex.sa.mind.base_rate",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_accountability",
+      "id": "base_rate",
       "lessonIds": [
-        "article_inner_dual"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Accountability"
+      "term": "Base rate"
     },
     {
-      "definition": "A rule that a group follows although nobody has written it down.",
-      "dictionaryId": "lex.sa.mind.dual_unwritten_rule",
-      "example": "The unwritten rule was that nobody questioned the schedule.",
+      "definition": "The false feeling of understanding a topic that comes from easy access to answers rather than from real comprehension.",
+      "dictionaryId": "lex.sa.mind.illusion_of_knowledge",
+      "example": "",
       "fieldId": "mind",
-      "id": "dual_unwritten_rule",
+      "id": "illusion_of_knowledge",
       "lessonIds": [
-        "article_inner_dual"
+        "article_illusion_knowledge"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.mind.illusion_knowledge"
       ],
-      "term": "Unwritten rule"
+      "term": "Illusion of knowledge"
     },
     {
-      "definition": "A measurable stand-in for something you cannot see directly, such as a score standing in for ability.",
-      "dictionaryId": "lex.sa.mind.intelill_proxy",
-      "example": "The score is only a proxy; the ability itself is what the employer needs.",
+      "definition": "The pattern in which people with little skill in a domain overestimate their ability, because the skill needed to judge answers is the same skill needed to give them.",
+      "dictionaryId": "lex.sa.mind.dunning_kruger_effect",
+      "example": "",
       "fieldId": "mind",
-      "id": "intelill_proxy",
+      "id": "dunning_kruger_effect",
       "lessonIds": [
-        "article_intelligence_illusion"
+        "article_illusion_knowledge"
       ],
       "packs": [
-        "knw.mind.intelligence_illusion"
+        "knw.mind.illusion_knowledge"
       ],
-      "term": "Proxy"
+      "term": "Dunning–Kruger effect"
     },
     {
-      "definition": "A fact that supports a claim, so that the claim does not rest on opinion alone.",
-      "dictionaryId": "lex.sa.mind.mind_evidence",
-      "example": "The temperature log is evidence that the pump ran hot.",
+      "definition": "The tendency to seek out, remember and trust information that supports existing beliefs while discounting the rest.",
+      "dictionaryId": "lex.sa.mind.confirmation_bias",
+      "example": "",
       "fieldId": "mind",
-      "id": "mind_evidence",
+      "id": "confirmation_bias",
       "lessonIds": [
-        "article_intelligence_illusion",
-        "article_knowledge_paradox"
+        "article_illusion_knowledge"
       ],
       "packs": [
-        "knw.mind.intelligence_illusion",
-        "knw.mind.knowledge_paradox"
+        "knw.mind.illusion_knowledge"
       ],
-      "term": "Evidence"
+      "term": "Confirmation bias"
     },
     {
-      "definition": "The capacity to do a task well, in a real situation, under real conditions.",
-      "dictionaryId": "lex.sa.mind.intelill_ability",
-      "example": "The ability to find the fault was there; the procedure had never been written down.",
+      "definition": "The tendency to forget information that is easy to find online, while remembering how to find it.",
+      "dictionaryId": "lex.sa.mind.google_effect",
+      "example": "",
       "fieldId": "mind",
-      "id": "intelill_ability",
+      "id": "google_effect",
       "lessonIds": [
-        "article_intelligence_illusion"
+        "article_illusion_knowledge"
       ],
       "packs": [
-        "knw.mind.intelligence_illusion"
+        "knw.mind.illusion_knowledge"
       ],
-      "term": "Ability"
+      "term": "Google effect"
     },
     {
-      "definition": "The quality of a test that asks whether it measures what it claims to measure.",
-      "dictionaryId": "lex.sa.mind.intelill_validity",
-      "example": "The test was reliable but not valid for the work we do.",
+      "definition": "The habit of holding your own beliefs with the right amount of confidence: strong when the evidence is strong, weak when it is weak.",
+      "dictionaryId": "lex.sa.mind.intellectual_humility",
+      "example": "",
       "fieldId": "mind",
-      "id": "intelill_validity",
+      "id": "intellectual_humility",
       "lessonIds": [
-        "article_intelligence_illusion"
+        "article_illusion_knowledge"
       ],
       "packs": [
-        "knw.mind.intelligence_illusion"
+        "knw.mind.illusion_knowledge"
       ],
-      "term": "Validity"
+      "term": "Intellectual humility"
     },
     {
-      "definition": "The quality of a measurement that gives a similar result when it is repeated.",
-      "dictionaryId": "lex.sa.mind.intelill_reliability",
-      "example": "Two markers gave the same result, so the marking was reliable.",
+      "definition": "The skill of finding, judging and using information: telling a primary source from an opinion, and evidence from an anecdote.",
+      "dictionaryId": "lex.sa.mind.information_literacy",
+      "example": "",
       "fieldId": "mind",
-      "id": "intelill_reliability",
+      "id": "information_literacy",
       "lessonIds": [
-        "article_intelligence_illusion"
+        "article_illusion_knowledge"
       ],
       "packs": [
-        "knw.mind.intelligence_illusion"
+        "knw.mind.illusion_knowledge"
       ],
-      "term": "Reliability"
+      "term": "Information literacy"
     },
     {
-      "definition": "The ability to use what you learned in one situation in a different situation.",
-      "dictionaryId": "lex.sa.mind.intelill_transfer_of_learning",
-      "example": "The training transferred well: the same method worked on a new line.",
+      "definition": "The state in which incoming information exceeds the capacity to process it, so each new item reduces the value of the ones before it.",
+      "dictionaryId": "lex.sa.mind.information_overload",
+      "example": "",
       "fieldId": "mind",
-      "id": "intelill_transfer_of_learning",
+      "id": "information_overload",
       "lessonIds": [
-        "article_intelligence_illusion"
+        "article_info_overload"
       ],
       "packs": [
-        "knw.mind.intelligence_illusion"
+        "knw.mind.info_overload"
       ],
-      "term": "Transfer of learning"
+      "term": "Information overload"
     },
     {
-      "definition": "The rise in a test result that comes from having seen the material before.",
-      "dictionaryId": "lex.sa.mind.intelill_practice_effect",
-      "example": "The second attempt scored higher, and the practice effect explains much of it.",
+      "definition": "The total amount of mental effort being used by working memory at one time.",
+      "dictionaryId": "lex.sa.mind.cognitive_load",
+      "example": "",
       "fieldId": "mind",
-      "id": "intelill_practice_effect",
+      "id": "cognitive_load",
       "lessonIds": [
-        "article_intelligence_illusion"
+        "article_info_overload"
       ],
       "packs": [
-        "knw.mind.intelligence_illusion"
+        "knw.mind.info_overload"
       ],
-      "term": "Practice effect"
+      "term": "Cognitive load"
     },
     {
-      "definition": "The usual result of a group, used as the point of comparison.",
-      "dictionaryId": "lex.sa.mind.intelill_norm",
-      "example": "Compare the mark with the norm for that group, not with the mark alone.",
+      "definition": "The market in which businesses compete for people's limited attention and resell it to advertisers.",
+      "dictionaryId": "lex.sa.mind.attention_economy",
+      "example": "",
       "fieldId": "mind",
-      "id": "intelill_norm",
+      "id": "attention_economy",
       "lessonIds": [
-        "article_intelligence_illusion"
+        "article_info_overload"
       ],
       "packs": [
-        "knw.mind.intelligence_illusion"
+        "knw.mind.info_overload"
       ],
-      "term": "Norm"
+      "term": "Attention economy"
+    },
+    {
+      "definition": "The proportion of useful information (signal) to everything else (noise) in a stream of content.",
+      "dictionaryId": "lex.sa.mind.signal_to_noise",
+      "example": "",
+      "fieldId": "mind",
+      "id": "signal_to_noise",
+      "lessonIds": [
+        "article_info_overload"
+      ],
+      "packs": [
+        "knw.mind.info_overload"
+      ],
+      "term": "Signal-to-noise ratio"
     }
   ],
   "nextCursor": "40",

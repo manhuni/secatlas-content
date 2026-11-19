@@ -1,565 +1,572 @@
 {
   "items": [
     {
-      "definition": "A person who works across several fields and can explain one of them to another.",
-      "dictionaryId": "lex.sa.mind.spec_generalist",
-      "example": "The generalist on the team translated the tax rule into plain words.",
-      "fieldId": "mind",
-      "id": "spec_generalist",
+      "definition": "The home a rabbit digs under the ground. It is soft and safe and it has a round door.",
+      "dictionaryId": "lex.sa.kids_stories.burrow",
+      "example": "Pip's burrow has a round door and soft walls.",
+      "fieldId": "kids_stories",
+      "id": "burrow",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_little_rabbit_dark"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.kids.stories.rabbit"
       ],
-      "term": "Generalist"
+      "term": "Burrow"
     },
     {
-      "definition": "Building software by prompting an AI and accepting generated code based on whether it seems to work, without necessarily understanding it.",
-      "dictionaryId": "lex.sa.mind.vibe_coding",
+      "definition": "A very small insect that makes its own light. It glows in the dark.",
+      "dictionaryId": "lex.sa.kids_stories.firefly",
+      "example": "A firefly lit the path for Pip.",
+      "fieldId": "kids_stories",
+      "id": "firefly",
+      "lessonIds": [
+        "article_little_rabbit_dark"
+      ],
+      "packs": [
+        "knw.kids.stories.rabbit"
+      ],
+      "term": "Firefly"
+    },
+    {
+      "definition": "A light you can carry in your hand. It goes wherever you go.",
+      "dictionaryId": "lex.sa.kids_stories.lantern",
+      "example": "Grandmother Owl gave Pip a tiny lantern.",
+      "fieldId": "kids_stories",
+      "id": "lantern",
+      "lessonIds": [
+        "article_little_rabbit_dark"
+      ],
+      "packs": [
+        "knw.kids.stories.rabbit"
+      ],
+      "term": "Lantern"
+    },
+    {
+      "definition": "Not feeling no fear, but going on anyway. Brave is about what you do, not what you feel.",
+      "dictionaryId": "lex.sa.kids_stories.brave",
+      "example": "Pip was brave and took one more step.",
+      "fieldId": "kids_stories",
+      "id": "brave",
+      "lessonIds": [
+        "article_boy_who_told_truth",
+        "article_little_rabbit_dark"
+      ],
+      "packs": [
+        "knw.kids.stories.rabbit",
+        "knw.kids.stories.truth"
+      ],
+      "term": "Brave"
+    },
+    {
+      "definition": "A dark shape that appears when something blocks the light.",
+      "dictionaryId": "lex.sa.kids_stories.shadow",
+      "example": "The old tree made a long shadow on the path.",
+      "fieldId": "kids_stories",
+      "id": "shadow",
+      "lessonIds": [
+        "article_little_rabbit_dark"
+      ],
+      "packs": [
+        "knw.kids.stories.rabbit"
+      ],
+      "term": "Shadow"
+    },
+    {
+      "definition": "A baby plant that has just come out of the soil. Very small, very green.",
+      "dictionaryId": "lex.sa.kids_stories.sprout",
+      "example": "A green sprout appeared above the soil.",
+      "fieldId": "kids_stories",
+      "id": "sprout",
+      "lessonIds": [
+        "article_tiny_seed"
+      ],
+      "packs": [
+        "knw.kids.stories.seed"
+      ],
+      "term": "Sprout"
+    },
+    {
+      "definition": "The soft earth where plants grow. It holds water and food for the roots.",
+      "dictionaryId": "lex.sa.kids_stories.soil",
+      "example": "The seed fell into the soft brown soil.",
+      "fieldId": "kids_stories",
+      "id": "soil",
+      "lessonIds": [
+        "article_tiny_seed"
+      ],
+      "packs": [
+        "knw.kids.stories.seed"
+      ],
+      "term": "Soil"
+    },
+    {
+      "definition": "An AI system that plans and acts toward a goal, using tools and intermediate steps rather than answering in one shot.",
+      "dictionaryId": "lex.sa.mind.ai_agent",
       "example": "",
       "fieldId": "mind",
-      "id": "vibe_coding",
+      "id": "ai_agent",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.mind.ai_agents"
       ],
-      "term": "Vibe coding"
+      "term": "AI agent"
     },
     {
-      "definition": "The future cost of shortcuts in software: work that must be redone because quick solutions were chosen over correct ones.",
-      "dictionaryId": "lex.sa.mind.technical_debt",
+      "definition": "A setup in which several specialized AI agents divide a task among themselves and pass work along.",
+      "dictionaryId": "lex.sa.mind.multi_agent_system",
       "example": "",
       "fieldId": "mind",
-      "id": "technical_debt",
+      "id": "multi_agent_system",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.mind.ai_agents"
       ],
-      "term": "Technical debt"
+      "term": "Multi-agent system"
     },
     {
-      "definition": "The high-level structure of a system: how its parts are divided and connected, decided before the details are written.",
-      "dictionaryId": "lex.sa.mind.software_architecture",
+      "definition": "The coordination of multiple agents: deciding their roles, order, tools and stopping conditions.",
+      "dictionaryId": "lex.sa.mind.orchestration",
       "example": "",
       "fieldId": "mind",
-      "id": "software_architecture",
+      "id": "orchestration",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.mind.ai_agents"
       ],
-      "term": "Software architecture"
+      "term": "Orchestration"
     },
     {
-      "definition": "The practice of having code read and checked by another developer — or by its author with fresh eyes — before it is accepted.",
-      "dictionaryId": "lex.sa.mind.code_review",
+      "definition": "A design in which a person reviews and approves an agent's work before it takes effect.",
+      "dictionaryId": "lex.sa.mind.human_in_the_loop",
       "example": "",
       "fieldId": "mind",
-      "id": "code_review",
+      "id": "human_in_the_loop",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.mind.ai_agents"
       ],
-      "term": "Code review"
+      "term": "Human in the loop"
     },
     {
-      "definition": "How easily software can be understood, fixed and extended by a human in the future.",
-      "dictionaryId": "lex.sa.mind.maintainability",
+      "definition": "The process of checking that output meets its requirements before it is used or shipped.",
+      "dictionaryId": "lex.sa.mind.quality_control",
       "example": "",
       "fieldId": "mind",
-      "id": "maintainability",
+      "id": "quality_control",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.mind.ai_agents"
       ],
-      "term": "Maintainability"
+      "term": "Quality control"
     },
     {
-      "definition": "The underlying reason a problem exists, as opposed to the symptom that made it visible.",
-      "dictionaryId": "lex.sa.mind.root_cause",
+      "definition": "Assigning a task and the authority to complete it; with agents, the responsibility still stays with the delegator.",
+      "dictionaryId": "lex.sa.mind.delegation",
       "example": "",
       "fieldId": "mind",
-      "id": "root_cause",
+      "id": "delegation",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_ai_agents"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.mind.ai_agents"
       ],
-      "term": "Root cause"
+      "term": "Delegation"
     },
     {
-      "definition": "A body of ideas about how conflict works, built from the study of past campaigns rather than from rules of fighting.",
-      "dictionaryId": "lex.sa.mind.war_theory",
-      "example": "The book is called a theory of war because it explains how conflict works, not how to fight.",
+      "definition": "An AI assistant integrated into the development process that writes, completes and explains code on request.",
+      "dictionaryId": "lex.sa.mind.ai_pair_programmer",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_theory",
+      "id": "ai_pair_programmer",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Theory of war"
+      "term": "AI pair programmer"
     },
     {
-      "definition": "The Prussian officer (1780-1831) who wrote On War, the book that gave the field its central sentence.",
-      "dictionaryId": "lex.sa.mind.war_clausewitz",
-      "example": "Clausewitz wrote that war is the continuation of politics by other means.",
+      "definition": "The automatic production of program code from a natural-language description or an example.",
+      "dictionaryId": "lex.sa.mind.code_generation",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_clausewitz",
+      "id": "code_generation",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Carl von Clausewitz"
+      "term": "Code generation"
     },
     {
-      "definition": "The business of running a state and its relations with other states; in the theory of war, the purpose that fighting is meant to serve.",
-      "dictionaryId": "lex.sa.mind.war_politics",
-      "example": "The war had a political purpose, so the settlement had to satisfy the politics.",
+      "definition": "Breaking a large, vague problem into small, precise, solvable parts with clear success conditions.",
+      "dictionaryId": "lex.sa.mind.problem_decomposition",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_politics",
+      "id": "problem_decomposition",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Politics"
+      "term": "Problem decomposition"
     },
     {
-      "definition": "The way a conflict is linked to its political purpose: what is wanted, with what means, over what time.",
-      "dictionaryId": "lex.sa.mind.war_strategy",
-      "example": "The strategy of the campaign was to hold the coast and wait.",
+      "definition": "Reasoning about how the parts of a system affect each other, including effects that appear far away in time or structure.",
+      "dictionaryId": "lex.sa.mind.systems_thinking",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_strategy",
+      "id": "systems_thinking",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Strategy"
+      "term": "Systems thinking"
     },
     {
-      "definition": "The level between strategy and tactics: the way a whole campaign is carried out, across a front, week by week.",
-      "dictionaryId": "lex.sa.mind.war_operations",
-      "example": "The operations ran out of fuel before the plan reached its objective.",
+      "definition": "The capacity to make good technical decisions under uncertainty, weighing trade-offs that no rule can settle.",
+      "dictionaryId": "lex.sa.mind.engineering_judgment",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_operations",
+      "id": "engineering_judgment",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Operations"
+      "term": "Engineering judgment"
     },
     {
-      "definition": "The level of the local action: how a unit is used in one fight and how it is moved on the field.",
-      "dictionaryId": "lex.sa.mind.war_tactics",
-      "example": "The report describes tactics when it explains how the advance was carried out.",
+      "definition": "The ongoing work of keeping software alive: fixing, adapting, and explaining it across years of changing conditions.",
+      "dictionaryId": "lex.sa.mind.maintenance",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_tactics",
+      "id": "maintenance",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_ai_programmer"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.ai_programmer"
       ],
-      "term": "Tactics"
+      "term": "Maintenance"
     },
     {
-      "definition": "A series of connected actions with one objective, from the first move to the decision that closes it.",
-      "dictionaryId": "lex.sa.mind.war_campaign",
-      "example": "The campaign lasted six weeks and ended at the river.",
+      "definition": "Software designed to act toward goals with a degree of autonomy rather than waiting for each command.",
+      "dictionaryId": "lex.sa.mind.agentic_app",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_campaign",
+      "id": "agentic_app",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.app_future"
       ],
-      "term": "Campaign"
+      "term": "Agentic app"
     },
     {
-      "definition": "Strategy at the level of a whole state: how a country uses its power over years to reach a political aim.",
-      "dictionaryId": "lex.sa.mind.war_grand_strategy",
-      "example": "Containment was the grand strategy, and deterrence was one of its tools.",
+      "definition": "A user interface that changes according to context, intent and history rather than showing fixed menus.",
+      "dictionaryId": "lex.sa.mind.adaptive_interface",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_grand_strategy",
+      "id": "adaptive_interface",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.app_future"
       ],
-      "term": "Grand strategy"
+      "term": "Adaptive interface"
     },
     {
-      "definition": "The result a plan aims at, written so that it can be judged done or not done.",
-      "dictionaryId": "lex.sa.mind.war_objective",
-      "example": "The brief states the objective in one line: the river crossing.",
+      "definition": "A statement of what the user wants to achieve, as opposed to the commands that achieve it.",
+      "dictionaryId": "lex.sa.mind.intent",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_objective",
+      "id": "intent",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.app_future"
       ],
-      "term": "Objective"
+      "term": "Intent"
     },
     {
-      "definition": "The directions from which an attack may come, and the ground they must cross.",
-      "dictionaryId": "lex.sa.mind.war_lines_of_approach",
-      "example": "The lines of approach were limited by the marsh.",
+      "definition": "The performance of multi-step procedures by software without human operation of each step.",
+      "dictionaryId": "lex.sa.mind.task_automation",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_lines_of_approach",
+      "id": "task_automation",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.app_future"
       ],
-      "term": "Lines of approach"
+      "term": "Task automation"
     },
     {
-      "definition": "The place or the moment where the outcome of the whole action is settled; the effort is concentrated there.",
-      "dictionaryId": "lex.sa.mind.war_decisive_point",
-      "example": "The decisive point was the bridge, and the plan said so.",
+      "definition": "Application programming interface: a structured way for software to use another service, made for machines rather than humans.",
+      "dictionaryId": "lex.sa.mind.api",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_decisive_point",
+      "id": "api",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.app_future"
       ],
-      "term": "Decisive point"
+      "term": "API"
     },
     {
-      "definition": "Means held back from the first effort and kept for the moment the situation turns.",
-      "dictionaryId": "lex.sa.mind.war_reserves",
-      "example": "The plan kept one reserve for the second week.",
+      "definition": "Computing woven into the environment so that it acts in the background without demanding attention.",
+      "dictionaryId": "lex.sa.mind.ambient_computing",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_reserves",
+      "id": "ambient_computing",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_app_future"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.app_future"
       ],
-      "term": "Reserves"
-    },
-    {
-      "definition": "The routes along which orders, reports and supplies travel to the fighting units.",
-      "dictionaryId": "lex.sa.mind.war_lines_of_communication",
-      "example": "The lines of communication were cut by the flood.",
-      "fieldId": "mind",
-      "id": "war_lines_of_communication",
-      "lessonIds": [
-        "article_theory_of_war"
-      ],
-      "packs": [
-        "knw.mind.war_theory"
-      ],
-      "term": "Lines of communication"
+      "term": "Ambient computing"
     },
     {
       "conflict": true,
-      "definition": "The small resistance between wanting something and getting it, which slows consumption and quietly trains patience.",
-      "dictionaryId": "lex.sa.mind.friction",
-      "example": "Every plan met friction: the weather, the delay, the wrong order.",
+      "definition": "The length of time you can hold focus on one task. It depends on the task and on your state, not on a fixed personal rating.",
+      "dictionaryId": "lex.sa.technology.attention_span",
+      "example": "My attention span on a spreadsheet is fine; it is the phone that breaks it.",
       "fieldId": "mind",
-      "id": "war_friction",
+      "id": "attention_span",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_attention_death",
+        "article_brainrot"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.attention_death",
+        "knw.tech.brainrot"
       ],
-      "term": "Friction"
+      "term": "Attention span"
     },
     {
-      "definition": "The state of not knowing: incomplete reports, false information and the general uncertainty of events.",
-      "dictionaryId": "lex.sa.mind.war_fog_of_war",
-      "example": "In the fog of war the commander acted on a report three days old.",
+      "definition": "Professional or learning activity performed in a distraction-free state that pushes cognitive ability to its limit.",
+      "dictionaryId": "lex.sa.mind.deep_work",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_fog_of_war",
+      "id": "deep_work",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_attention_death"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.attention_death"
       ],
-      "term": "Fog of war"
+      "term": "Deep work"
     },
     {
-      "definition": "Taking a matter to a more senior person because it has not moved. Use it only when it is genuinely warranted.",
-      "dictionaryId": "lex.sa.work.escalation",
-      "example": "If we do not hear back by Friday, we will need to escalate this.",
+      "definition": "The cycle in which unpredictable rewards (likes, new content) train the brain to seek the next stimulus repeatedly.",
+      "dictionaryId": "lex.sa.mind.dopamine_loop",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_escalation",
+      "id": "dopamine_loop",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_attention_death"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.attention_death"
       ],
-      "term": "Escalation"
+      "term": "Dopamine loop"
     },
     {
-      "definition": "The ladder of steps a conflict can climb, from a limited incident up to a general war.",
-      "dictionaryId": "lex.sa.mind.war_escalation_ladder",
-      "example": "Analysts place the crisis three rungs up the escalation ladder.",
+      "conflict": true,
+      "definition": "The habit of ignoring alerts on purpose, so that the one alert that mattered gets ignored too.",
+      "dictionaryId": "lex.sa.technology.notification_fatigue",
+      "example": "I turned off all notifications, and now nothing gets through, including the messages from my family.",
       "fieldId": "mind",
-      "id": "war_escalation_ladder",
+      "id": "notification_fatigue",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_attention_death",
+        "article_brainrot"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.attention_death",
+        "knw.tech.brainrot"
       ],
-      "term": "Escalation ladder"
+      "term": "Notification fatigue"
     },
     {
-      "definition": "The effort to prevent an opponent's action by making the cost of it too high.",
-      "dictionaryId": "lex.sa.mind.war_deterrence",
-      "example": "Deterrence holds only if the opponent believes both the ability and the will.",
+      "definition": "The preference for rewards that arrive immediately over larger rewards that require waiting and effort.",
+      "dictionaryId": "lex.sa.mind.instant_gratification",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_deterrence",
+      "id": "instant_gratification",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_attention_death"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.attention_death"
       ],
-      "term": "Deterrence"
+      "term": "Instant gratification"
     },
     {
-      "definition": "The case where the opponent acts anyway: the threat was not believed, or it was believed and the cost was accepted.",
-      "dictionaryId": "lex.sa.mind.war_deterrence_failure",
-      "example": "Deterrence failure means the action went ahead anyway.",
+      "definition": "The ability to stay with a difficult task through the uncomfortable period before progress appears.",
+      "dictionaryId": "lex.sa.mind.frustration_tolerance",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_deterrence_failure",
+      "id": "frustration_tolerance",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_attention_death"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.attention_death"
       ],
-      "term": "Deterrence failure"
+      "term": "Frustration tolerance"
     },
     {
-      "definition": "A threat that is made without the means or the intention to carry it out.",
-      "dictionaryId": "lex.sa.mind.war_bluff",
-      "example": "A threat made without the means to carry it out is a bluff, and it costs nothing to make.",
+      "definition": "The compulsive online searching of symptoms, driven by anxiety, which increases the anxiety it was meant to relieve.",
+      "dictionaryId": "lex.sa.mind.cyberchondria",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_bluff",
+      "id": "cyberchondria",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Bluff"
+      "term": "Cyberchondria"
     },
     {
-      "definition": "A conflict between opponents whose resources, organisation and methods differ greatly.",
-      "dictionaryId": "lex.sa.mind.war_asymmetric_conflict",
-      "example": "The article calls it an asymmetric conflict and says where the difference lies.",
+      "definition": "Persistent worry about having or developing a serious illness, maintained by checking and reassurance-seeking.",
+      "dictionaryId": "lex.sa.mind.health_anxiety",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_asymmetric_conflict",
+      "id": "health_anxiety",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Asymmetric conflict"
+      "term": "Health anxiety"
     },
     {
-      "definition": "The wearing down of the opponent by continued cost, rather than by one decisive stroke.",
-      "dictionaryId": "lex.sa.mind.war_attrition",
-      "example": "Attrition decided the campaign; no single battle did.",
+      "definition": "The worsening of symptoms or the appearance of side effects because a person expects them.",
+      "dictionaryId": "lex.sa.mind.nocebo_effect",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_attrition",
+      "id": "nocebo_effect",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Attrition"
+      "term": "Nocebo effect"
     },
     {
-      "definition": "The line where the two sides stand against each other, and the whole stretch of fighting behind it.",
-      "dictionaryId": "lex.sa.mind.war_front",
-      "example": "The front held for three months while both sides rebuilt.",
+      "definition": "Concluding what illness one has without a medical examination, usually from online information.",
+      "dictionaryId": "lex.sa.mind.self_diagnosis",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_front",
+      "id": "self_diagnosis",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Front"
+      "term": "Self-diagnosis"
     },
     {
-      "definition": "The side that attacks; in the phrase the offensive, the direction of the action.",
-      "dictionaryId": "lex.sa.mind.war_offensive",
-      "example": "The offensive stopped when the supplies ran out.",
+      "definition": "A medical source written or reviewed by qualified professionals, updated, and not selling the fear it describes.",
+      "dictionaryId": "lex.sa.mind.reliable_source",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_offensive",
+      "id": "reliable_source",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Offensive"
+      "term": "Reliable source"
     },
     {
-      "definition": "The side that receives the attack and holds ground; the opposite of the offensive.",
-      "dictionaryId": "lex.sa.mind.war_defensive",
-      "example": "A defensive plan is judged by the ground it gives up.",
+      "definition": "The actual frequency of a condition in the population, which is usually far lower than search results suggest.",
+      "dictionaryId": "lex.sa.mind.base_rate",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_defensive",
+      "id": "base_rate",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_cyberchondria"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.cyberchondria"
       ],
-      "term": "Defensive"
+      "term": "Base rate"
     },
     {
-      "definition": "The work of moving and supplying the fighting: food, fuel, ammunition, vehicles and spares.",
-      "dictionaryId": "lex.sa.mind.war_logistics",
-      "example": "The report says the problem was logistics, not the fighting.",
+      "definition": "The false feeling of understanding a topic that comes from easy access to answers rather than from real comprehension.",
+      "dictionaryId": "lex.sa.mind.illusion_of_knowledge",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_logistics",
+      "id": "illusion_of_knowledge",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_illusion_knowledge"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.illusion_knowledge"
       ],
-      "term": "Logistics"
+      "term": "Illusion of knowledge"
     },
     {
-      "definition": "The spirit and the confidence of a force; the strength it holds when things go badly.",
-      "dictionaryId": "lex.sa.mind.war_morale",
-      "example": "Morale fell as the third convoy did not arrive.",
+      "definition": "The pattern in which people with little skill in a domain overestimate their ability, because the skill needed to judge answers is the same skill needed to give them.",
+      "dictionaryId": "lex.sa.mind.dunning_kruger_effect",
+      "example": "",
       "fieldId": "mind",
-      "id": "war_morale",
+      "id": "dunning_kruger_effect",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_illusion_knowledge"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.mind.illusion_knowledge"
       ],
-      "term": "Morale"
+      "term": "Dunning–Kruger effect"
     },
     {
-      "definition": "The amount in the account at the start of the statement period. Every figure that follows is measured from it.",
-      "dictionaryId": "lex.sa.money.opening_balance",
-      "example": "The opening balance was 500 $, so the first transaction was charged against that.",
-      "fieldId": "money",
-      "id": "opening_balance",
+      "definition": "The tendency to seek out, remember and trust information that supports existing beliefs while discounting the rest.",
+      "dictionaryId": "lex.sa.mind.confirmation_bias",
+      "example": "",
+      "fieldId": "mind",
+      "id": "confirmation_bias",
       "lessonIds": [
-        "article_bills_statements"
+        "article_illusion_knowledge"
       ],
       "packs": [
-        "knw.money.statements"
+        "knw.mind.illusion_knowledge"
       ],
-      "term": "Opening balance"
-    },
-    {
-      "definition": "The amount in the account at the end of the statement period, after every transaction in it.",
-      "dictionaryId": "lex.sa.money.closing_balance",
-      "example": "The closing balance is 420 $, which is 80 $ more than the opening balance.",
-      "fieldId": "money",
-      "id": "closing_balance",
-      "lessonIds": [
-        "article_bills_statements"
-      ],
-      "packs": [
-        "knw.money.statements"
-      ],
-      "term": "Closing balance"
-    },
-    {
-      "definition": "Money leaving the account. On a statement it is usually shown with a minus sign or in a column headed money out.",
-      "dictionaryId": "lex.sa.money.debit",
-      "example": "The debit for the supermarket is 64 $, so that is the debit column, not the credit column.",
-      "fieldId": "money",
-      "id": "debit",
-      "lessonIds": [
-        "article_bills_statements"
-      ],
-      "packs": [
-        "knw.money.statements"
-      ],
-      "term": "Debit"
-    },
-    {
-      "definition": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
-      "dictionaryId": "lex.sa.money.credit",
-      "example": "The credit of 1200 $ on the 15th is my salary.",
-      "fieldId": "money",
-      "id": "credit",
-      "lessonIds": [
-        "article_bills_statements"
-      ],
-      "packs": [
-        "knw.money.statements"
-      ],
-      "term": "Credit"
-    },
-    {
-      "definition": "A payment a company is authorised to take from your account on a date, without asking you again each time.",
-      "dictionaryId": "lex.sa.money.direct_debit",
-      "example": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
-      "fieldId": "money",
-      "id": "direct_debit",
-      "lessonIds": [
-        "article_bills_statements"
-      ],
-      "packs": [
-        "knw.money.statements"
-      ],
-      "term": "Direct debit"
-    },
-    {
-      "definition": "A fixed amount you authorise to be paid on a schedule, whether or not the underlying bill is the same each month.",
-      "dictionaryId": "lex.sa.money.standing_order",
-      "example": "I have a standing order to my landlord for the rent, and a direct debit for the utilities.",
-      "fieldId": "money",
-      "id": "standing_order",
-      "lessonIds": [
-        "article_bills_statements"
-      ],
-      "packs": [
-        "knw.money.statements"
-      ],
-      "term": "Standing order"
+      "term": "Confirmation bias"
     }
   ],
   "nextCursor": "280",

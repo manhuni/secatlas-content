@@ -2,97 +2,91 @@
   "language": "vi",
   "lessonId": "article_outsourced_brain",
   "objectives": [
-    "Định nghĩa được dồn nhận thức và lấy ví dụ đời thường về nó.",
-    "Phân biệt được giao một việc và giao một phán đoán.",
-    "Giải thích được vì sao kỹ năng không luyện tập sẽ âm thầm biến mất.",
-    "Nhận ra dấu hiệu của sự phụ thuộc không lành mạnh vào công cụ AI.",
-    "Đặt quy tắc cá nhân về phần tư duy nào giữ lại, phần nào giao đi."
+    "Định nghĩa cognitive offloading (chuyển giao tải nhận thức) và đưa ra các ví dụ thường ngày.",
+    "Phân biệt giữa việc giao phó một nhiệm vụ và giao phó một sự phán đoán.",
+    "Giải thích tại sao những kỹ năng không được luyện tập sẽ dần biến mất.",
+    "Nhận biết các dấu hiệu phụ thuộc không lành mạnh vào các công cụ AI.",
+    "Đặt quy tắc cá nhân về việc nào nên giữ lại suy nghĩ và việc nào nên chuyển giao."
   ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
     {
-      "body": "Dồn nhận thức là việc dùng công cụ để lưu trữ, xử lý hoặc tìm lại thông tin để bộ não khỏi phải làm. Viết giấy nhớ đi chợ là dồn trí nhớ. Dùng máy tính là dồn phép tính. Bám theo chỉ dẫn từng khúc cua của GPS là dồn khả năng định hướng.\n\nDồn nhận thức không mới và không xấu. Đó là một trong những thứ làm nên sức mạnh của con người: người có giấy bút, sách và lịch hẹn có thể nghĩ về nhiều thứ hơn hẳn người chỉ dựa vào trí nhớ. Triết gia Andy Clark gọi con người là \"những cyborg bẩm sinh\" vì chúng ta vốn dĩ đã hợp nhất tư duy với công cụ từ lâu.\n\nCâu hỏi không bao giờ là có nên dồn hay không — ai cũng dồn — mà là **nên dồn phần nào** của tư duy. Nhớ lịch hẹn? Tốt thôi. Thói quen hình thành chính kiến trước khi xem người khác nghĩ gì? Nguy hiểm.",
+      "body": "Chuyển giao tư duy nhận thức là việc sử dụng các công cụ để lưu trữ, xử lý hoặc truy xuất thông tin, nhờ đó bạn không phải tự gắng sức nhớ và suy nghĩ trong đầu. Viết danh sách mua sắm là giải tải trí nhớ. Dùng máy tính là chuyển việc tính toán ra ngoài. Làm theo chỉ dẫn từng bước của GPS là đang chuyển việc điều hướng ra khỏi đầu.\n\nChuyển giao tư duy ra ngoài không phải là chuyện mới, cũng không phải là điều gì xấu. Thực ra, đây là một trong những điều giúp con người có sức mạnh: một người có giấy, sách và lịch trình có thể suy nghĩ về nhiều thứ hơn so với một người chỉ dựa vào trí nhớ. Nhà triết học Andy Clark gọi con người là “cyborg tự nhiên” bởi vì chúng ta luôn kết hợp tư duy của mình với các công cụ.\n\nCâu hỏi không bao giờ là có nên “phân bổ” hay không — ai cũng làm vậy — mà là **nên** phân bổ **phần nào** của quá trình tư duy. Ghi nhớ các cuộc hẹn? Không vấn đề. Thói quen hình thành ý kiến trước khi kiểm tra xem người khác nghĩ gì? Nguy hiểm.",
       "examples": [
-        "Bạn ngừng nhớ số điện thoại ngay khi có danh bạ, và chẳng mất mát gì. Nhưng một người dùng định vị cho mọi chuyến đi cũng mất luôn thói quen xây bản đồ tâm trí."
+        "Ngày nào bạn bắt đầu dùng ứng dụng danh bạ, bạn cũng không còn phải ghi nhớ số điện thoại nữa, và không có gì bị mất mát cả. Nhưng việc dùng thiết bị định vị cho mọi chuyến đi cũng đồng thời khiến bạn mất đi thói quen xây dựng bản đồ trong đầu."
       ],
-      "heading": "Dồn nhận thức nghĩa là gì"
+      "heading": "Ý nghĩa của việc chuyển giao tư duy nhận thức"
     },
     {
-      "body": "Một câu hỏi là một sự kiện trong tâm trí. Nó tạo ra căng thẳng, huy động sự chú ý và khởi động cả cỗ máy tư duy. Một câu trả lời đến tức thì — trước khi câu hỏi kịp làm việc — lặng lẽ xóa sự kiện đó.\n\nCông cụ tìm kiếm bắt đầu quá trình này. Nghiên cứu về \"bộ nhớ giao tác\" cho thấy khi người tin rằng thông tin có thể tìm lại sau, họ nhớ bản thân thông tin đó kém hơn nhưng nhớ nó nằm ở đâu tốt hơn. Bộ não sẵn lòng đẩy xuống cấp những sự thật nó tin rằng máy móc sẽ giữ.\n\nTrợ lý AI hoàn tất sự chuyển dịch. Chúng không chỉ cất câu trả lời; chúng sản xuất lập luận theo yêu cầu. Rủi ro là sự xói mòn chậm của thói quen lập luận: không phải mất trí thông minh, mà là mất những *dịp* để trí thông minh được vận dụng. Cơ bắp không bao giờ chịu tải sẽ không kêu ca — nó chỉ đơn giản là không còn nhấc nổi.",
+      "body": "Một câu hỏi là một sự kiện tâm lý. Nó tạo ra sự căng thẳng, thu hút sự chú ý và khởi động cơ chế suy nghĩ. Một câu trả lời đến ngay lập tức — trước khi câu hỏi kịp phát huy tác dụng — sẽ âm thầm xóa đi sự kiện ấy.\n\nCác công cụ tìm kiếm bắt đầu quá trình này. Nghiên cứu về “trí nhớ giao dịch” cho thấy khi mọi người tin rằng thông tin có thể được tìm lại sau, họ nhớ nội dung thông tin kém hơn, nhưng lại nhớ rõ nơi để tìm thông tin hơn. Bộ não vui vẻ hạ các sự thật mà nó tin rằng máy sẽ lưu giữ.\n\nCác trợ lý AI hoàn thành ca trực. Chúng không chỉ lưu trữ câu trả lời; chúng còn tạo ra lập luận khi được yêu cầu. Rủi ro là một sự hao mòn chậm rãi của thói quen suy luận: không phải mất đi trí tuệ, mà mất đi những *dịp* để trí tuệ được vận dụng. Một cơ bắp không bao giờ được tải trọng sẽ không phàn nàn — nó chỉ đơn giản là không còn khả năng nâng.",
       "examples": [
-        "Một sinh viên nhờ AI giải thích mọi đoạn khó sẽ đọc xong chương nhanh hơn và gần như chẳng hiểu gì một tuần sau."
+        "Học sinh nhờ AI giải thích từng đoạn khó sẽ đọc xong chương nhanh hơn, nhưng một tuần sau gần như không hiểu được gì."
       ],
-      "heading": "Công cụ trả lời được là câu hỏi chết"
+      "heading": "Công cụ trả lời kết thúc câu hỏi"
     },
     {
-      "body": "Có một ranh giới tách việc dùng công cụ lành mạnh và sự phụ thuộc, và nó nằm giữa **công việc** và **phán đoán**. Một công việc có một đáp án đúng và một cách kiểm tra bên ngoài: đường ngắn nhất, tổng một cột số, chính tả một từ. Giao công việc cho công cụ hầu như luôn là lợi.\n\nPhán đoán thì khác. Nó không có đáp án đúng duy nhất, phụ thuộc vào giá trị và hoàn cảnh, và không ai kiểm tra thay bạn được: Lập luận này có công bằng không? Rủi ro này có đáng không? Người này có đáng tin không? Phán đoán đúng là thứ bạn càng làm kém đi nếu không tự mình đưa ra.\n\nKhi AI bị yêu cầu đưa ra phán đoán — tóm tắt người này thực sự muốn nói gì, cho tôi biết nên chọn phương án nào — người dùng nhận được câu trả lời mà không có bài tập tạo ra kỹ năng. Nhận càng nhiều phán đoán, người đó từ từ mất cảm giác về cách phán đoán được hình thành.",
+      "body": "Có một ranh giới phân biệt việc sử dụng công cụ lành mạnh với sự phụ thuộc, và ranh giới đó nằm giữa **nhiệm vụ** và **phán đoán**. Một nhiệm vụ chỉ có một đáp án đúng và có thể kiểm tra bên ngoài: tuyến đường nhanh nhất, tổng của một cột, cách viết chính tả của một từ. Giao nhiệm vụ cho công cụ hầu như luôn mang lại lợi ích.\n\nMột phán đoán thì khác. Nó không có một đáp án đúng duy nhất, tùy thuộc vào các giá trị và bối cảnh, và không ai khác có thể kiểm tra giúp bạn: Lập luận này có công bằng không? Rủi ro này có đáng để chấp nhận không? Người này có đáng tin cậy không? Phán đoán chính là những việc mà càng không làm, bạn càng trở nên kém đi.\n\nKhi AI được yêu cầu đưa ra phán đoán — tóm tắt điều người đó thực sự muốn nói, cho tôi biết tôi nên chọn phương án nào — người dùng chỉ nhận được câu trả lời mà không có phần thực hành giúp hình thành kỹ năng. Càng phải ra nhiều phán đoán, người ta dần đánh mất cảm giác về cách đưa ra phán đoán.",
       "examples": [
-        "Để công cụ sửa ngữ pháp là giao một công việc. Để nó quyết định hai lời mời việc nào hợp với cuộc đời bạn là một phán đoán mà bạn không bao giờ học được bằng cách giao cho người khác."
+        "Để công cụ sửa lỗi ngữ pháp cho bạn là một nhiệm vụ. Còn để nó quyết định xem trong hai cơ hội việc làm nào phù hợp với cuộc sống của bạn thì đòi hỏi một sự phán đoán mà bạn sẽ không bao giờ học cách giao phó."
       ],
-      "heading": "Giao việc khác giao phán đoán"
+      "heading": "Phân công nhiệm vụ và phân công quyền đánh giá"
     },
     {
-      "body": "Những thuật ngữ này đặt tên cho cơ chế của tư duy thuê ngoài. Mỗi từ mô tả một lực bạn có thể quan sát trong chính tuần của mình.",
-      "heading": "Từ vựng của cái đầu đi thuê",
+      "body": "Những thuật ngữ này gọi tên cơ chế của tư duy được đặt ra bên ngoài. Mỗi thuật ngữ mô tả một lực mà bạn có thể nhận thấy trong tuần làm việc của chính mình.",
+      "heading": "Vốn từ của tâm trí vay mượn",
       "terms": [
         {
-          "example": "Giữ danh sách việc cần làm là dồn nhận thức giúp đầu óc khỏi nhớ các nhiệm vụ.",
-          "gloss": "Dùng công cụ bên ngoài để lưu trữ, tính toán hoặc tìm lại thông tin để tâm trí khỏi phải làm.",
-          "term": "Dồn nhận thức",
+          "example": "Việc ghi danh sách việc cần làm giúp giảm tải trí nhớ, giải phóng tâm trí khỏi việc phải nhớ các công việc.",
+          "gloss": "Dùng công cụ bên ngoài để lưu trữ, tính toán hoặc truy xuất thông tin, để đầu óc bạn không phải tự làm.",
           "termId": "cognitive_offloading"
         },
         {
-          "example": "Trong bộ nhớ giao tác với điện thoại, tôi nhớ là có tấm ảnh và điện thoại nhớ nó nằm ở đâu.",
-          "gloss": "Hệ thống chia sẻ mà một nhóm, hoặc một người với một công cụ, phân chia việc nhớ ai biết điều gì.",
-          "term": "Bộ nhớ giao tác",
+          "example": "Trong hệ thống nhớ giao dịch với điện thoại, tôi nhớ các bức ảnh tồn tại, còn điện thoại nhớ chúng nằm ở đâu.",
+          "gloss": "Hệ thống chung để một nhóm người, hoặc một người và một công cụ, phân chia việc ghi nhớ ai biết điều gì.",
           "termId": "transactive_memory"
         },
         {
-          "example": "Tư duy phản biện là hỏi ai được lợi trước khi tin một con số gây sốc.",
-          "gloss": "Thực hành có kỷ luật việc xem xét các khẳng định, bằng chứng và lập luận trước khi chấp nhận kết luận.",
-          "term": "Tư duy phản biện",
+          "example": "Tư duy phản biện là hỏi ai được lợi trước khi tin một con số đáng ngạc nhiên.",
+          "gloss": "Việc rèn luyện có kỷ luật để xem xét các tuyên bố, bằng chứng và lập luận trước khi chấp nhận một kết luận.",
           "termId": "critical_thinking"
         },
         {
-          "example": "Tự chủ trí tuệ là nói 'tôi không đồng ý, và đây là lý do' ngay cả khi cả phòng nghĩ khác.",
-          "gloss": "Khả năng hình thành, giữ và giải thích quan điểm của chính mình mà không cần chúng được công cụ hay thẩm quyền phê chuẩn trước.",
-          "term": "Tự chủ trí tuệ",
+          "example": "Tự chủ trí tuệ là nói: “Tôi không đồng ý, và đây là lý do của tôi”, ngay cả khi mọi người trong phòng đều có ý kiến khác.",
+          "gloss": "Khả năng hình thành, giữ và giải thích quan điểm của chính mình mà không cần quan điểm đó phải được cơ quan có thẩm quyền hoặc công cụ nào đó phê duyệt trước.",
           "termId": "intellectual_autonomy"
         },
         {
-          "example": "Phi công luôn bay bằng tự động lái cho thấy thoái hóa kỹ năng khi phải cầm lái thủ công trong khẩn cấp.",
-          "gloss": "Sự mất dần một kỹ năng khi nó không còn được luyện tập vì máy móc đã làm thay.",
-          "term": "Thoái hóa kỹ năng",
+          "example": "Phi công lúc nào cũng bay bằng chế độ tự động sẽ bị mất kỹ năng khi phải tiếp quản thủ công trong trường hợp khẩn cấp.",
+          "gloss": "Sự mất dần một kỹ năng khi người ta không còn luyện tập nó vì máy móc đã thực hiện thay thế.",
           "termId": "deskilling"
         },
         {
-          "example": "Sau nhiều năm để ứng dụng sắp xếp ngày giờ, anh ấy cảm thấy teo nhận thức khi phải tự tổ chức một dự án phức tạp.",
-          "gloss": "Sự suy yếu của năng lực tâm trí qua thời gian dài không dùng đến, giống cơ bắp không tập sẽ teo.",
-          "term": "Teo nhận thức",
+          "example": "Sau nhiều năm để ứng dụng sắp xếp lịch trong ngày cho mình, anh cảm thấy tâm trí mình bị thoái hóa khi phải tự mình tổ chức một dự án phức tạp.",
+          "gloss": "Sự suy giảm năng lực nhận thức do không sử dụng trong thời gian dài, giống như sự co lại của một cơ bắp không được vận động.",
           "termId": "cognitive_atrophy"
         }
       ]
     },
     {
-      "body": "Sự phụ thuộc hiếm khi tự thông báo. Nó đến dưới hình thức tiện nghi. Mỗi lần giao việc riêng lẻ đều cảm thấy khôn ngoan, và thường đúng là vậy. Nguy hiểm nằm ở chồng chất: một trăm lần giao hợp lý có thể cộng lại thành một tâm trí đã lặng lẽ ngừng làm những điều tạo nên con người nó. Hãy kiểm toán những lần giao việc, đừng kiểm toán công cụ.",
-      "heading": "Cái bẫy của sự tiện nghi"
+      "body": "Sự lệ thuộc hiếm khi báo trước cho ta biết. Nó đến như một sự tiện lợi. Mỗi đoàn đại biểu riêng đều cảm thấy mình thông minh, và thường là đúng vậy. Nguy hiểm nằm ở chỗ tích lũy dần: một trăm lần ủy quyền hợp lý có thể khiến đầu óc âm thầm ngừng làm những điều từng làm nên con người bạn. Kiểm tra các đoàn đại biểu, không kiểm tra công cụ.",
+      "heading": "Cái bẫy tiện nghi"
     },
     {
-      "body": "Một bài kiểm tra thực tế giữ đúng phần việc trong đầu mình. Trước khi giao một nhiệm vụ tư duy cho công cụ, hỏi ba câu. **Đây là công việc hay phán đoán?** Công việc thì cứ giao. **Tôi có muốn mình giỏi việc này không?** Nếu có, tự làm trước và dùng công cụ làm người kiểm tra, không phải người thay thế. **Tôi sẽ phải sống với hậu quả của câu trả lời này chứ?** Quyết định càng định hình cuộc đời bao nhiêu, càng ít được giao bấy nhiêu.\n\nNhiều người dùng AI nặng áp dụng một quy tắc đơn giản: **tự tạo trước, rồi so sánh**. Trước khi mở công cụ, hãy viết câu trả lời của chính mình — một bản nháp, một dàn ý lập luận, một phỏng đoán nghiệm. Sau đó mới hỏi máy. Khoảng cách giữa câu trả lời của bạn và của nó chính là hình dạng chính xác của thứ bạn cần học, và nó biến mỗi truy vấn thành một bài học nhỏ thay vì một sự đầu hàng nhỏ.",
+      "body": "Một bài kiểm tra thực tế giúp bạn giữ đúng phần việc trong đầu. Trước khi giao nhiệm vụ tư duy cho một công cụ, hãy đặt ba câu hỏi. **Đây là một nhiệm vụ hay một phán đoán?** Nhiệm vụ thì được tự do giao cho công cụ. **Bản thân tôi có muốn làm tốt điều này không?** Nếu có, hãy tự làm trước và dùng công cụ để kiểm tra, chứ không phải để thay thế. **Tôi sẽ phải sống với hậu quả của câu trả lời này chứ?** Một quyết định càng định hình cuộc sống của bạn, bạn càng không nên ủy thác cho ai khác.\n\nNhiều người dùng AI nặng nề tuân theo một quy tắc đơn giản: **tạo trước, rồi hãy so sánh**. Trước khi mở công cụ, hãy tự viết câu trả lời của bạn — một bản nháp, một phác thảo lập luận, hoặc một phỏng đoán về lời giải. Sau đó, hãy hỏi máy. Khoảng cách giữa câu trả lời của bạn và câu trả lời đúng chính là hình dạng của điều bạn cần học, và nó biến mỗi câu hỏi thành một bài học nhỏ, chứ không phải một sự đầu hàng nhỏ.",
       "examples": [
-        "Trước khi nhờ AI viết email, hãy tự viết ba câu. So sánh, mượn những cụm hay, và để ý mình bỏ sót điều gì."
+        "Trước khi nhờ AI viết email, hãy tự mình viết ba câu. So sánh, mượn những câu chữ hay và để ý xem mình đã bỏ sót điều gì."
       ],
-      "heading": "Cái gì giữ lại, cái gì giao đi"
+      "heading": "Cái gì nên giữ, cái gì nên trao lại"
     },
     {
-      "body": "Mục tiêu không phải bác bỏ công cụ mà là vẫn làm chủ phần tư duy quan trọng. Những người dùng công cụ mạnh mà không đánh mất chính mình có một điểm chung: họ giữ vài hoạt động mà không công cụ nào được phép khởi đầu thay họ.\n\nHọ viết trước khi tra cứu. Họ đoán trước khi tính. Họ hình thành quan điểm tạm thời trước khi đọc bình luận. Họ giữ ít nhất một sở thích — một nhạc cụ, một ngoại ngữ, một môn thủ công, một môn thể thao — nơi tiến bộ chỉ đến từ luyện tập không hỗ trợ của chính mình.\n\nCông cụ sẽ tiếp tục mạnh lên. Chính vì thế giá trị của tư duy độc lập thật sự tăng chứ không giảm. Bộ não thuê ngoài là người đầy tớ tuyệt vời. Nó là một ông chủ tồi tệ.",
+      "body": "Mục tiêu không phải là loại bỏ công cụ, mà là giữ quyền làm chủ điều tư duy quan trọng. Những người sử dụng công cụ mạnh mà không đánh mất bản thân thường có một điểm chung: họ luôn giữ lại vài hoạt động mà không công cụ nào được phép khởi động thay họ.\n\nHọ viết trước khi nghiên cứu. Họ đoán trước khi tính toán. Họ hình thành một quan điểm tạm thời trước khi đọc các bình luận. Họ luôn dành ra ít nhất một môn sở thích — một nhạc cụ, một ngôn ngữ, một nghề thủ công hay một môn thể thao — nơi sự tiến bộ chỉ đến từ nỗ lực tập luyện của chính họ, không cần bất kỳ sự trợ giúp nào.\n\nCông cụ sẽ ngày càng mạnh hơn. Chính vì thế, giá trị của việc thật sự tư duy độc lập lại tăng lên chứ không giảm xuống. Một bộ não được thuê ngoài là người hầu tốt, nhưng là người chủ tệ hại.",
       "examples": [
-        "Cô ấy để AI kiểm tra bản dịch của mình nhưng không bao giờ để nó viết bản đầu: bản đầu là nơi phán đoán của chính cô được tập luyện."
+        "Cô ấy để AI kiểm tra bản dịch của mình, nhưng không bao giờ để AI soạn bản nháp đầu tiên: bản nháp đầu tiên chính là nơi sự phán đoán của cô ấy được vận dụng."
       ],
-      "heading": "Giữ một tâm trí của chính mình"
+      "heading": "Giữ lập trường riêng của mình"
     }
   ],
-  "summary": "Ứng dụng chỉ đường nhớ lộ trình thay chúng ta, công cụ tìm kiếm trả lời thay chúng ta tò mò, và giờ AI viết thay chúng ta nghĩ. Bài viết khảo sát hiện tượng dồn nhận thức: khi nào giao việc suy nghĩ cho công cụ là khôn ngoan, khi nào nó âm thầm bào mòn khả năng tư duy, và làm sao giữ được những cơ bắp tinh thần mà không công cụ nào tập thay bạn được.",
-  "title": "Bộ não thuê ngoài: Khi con người không còn muốn tự suy nghĩ"
+  "summary": "Các ứng dụng điều hướng ghi nhớ tuyến đường để chúng ta không phải làm việc đó, các công cụ tìm kiếm trả lời để chúng ta không phải tự suy nghĩ, và giờ AI viết để chúng ta không phải suy nghĩ. Bài viết này khám phá khái niệm chuyển giao tư duy: khi nào việc giao phó suy nghĩ cho công cụ là một lựa chọn thông minh, khi nào nó âm thầm làm suy yếu khả năng suy nghĩ, và làm thế nào để duy trì các cơ tinh thần mà không công cụ nào có thể tập luyện thay bạn.",
+  "title": "Bộ Não Thuê Ngoài: Khi Con Người Ngừng Tự Nghĩ Cho Mình"
 }

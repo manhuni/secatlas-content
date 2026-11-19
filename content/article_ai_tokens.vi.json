@@ -2,134 +2,142 @@
   "language": "vi",
   "lessonId": "article_ai_tokens",
   "objectives": [
-    "Giải thích token là gì và vì sao mô hình làm việc với token thay vì từng chữ cái.",
-    "Mô tả quá trình văn bản biến thành token rồi trở lại thành văn bản.",
-    "Ước lượng số token của một đoạn văn bản.",
-    "Giải thích cửa sổ ngữ cảnh giới hạn điều gì và chuyện gì xảy ra khi nó đầy.",
-    "Viết một prompt cung cấp đủ ngữ cảnh cho mô hình.",
-    "Nhận ra lúc nào một cuộc trò chuyện dài đã mất độ tin cậy và nên mở cuộc trò chuyện mới.",
-    "Giải thích chi phí của một tin nhắn theo cách thực tế."
+    "Giải thích token là gì và tại sao các mô hình hoạt động dựa trên token thay vì chữ cái.",
+    "Mô tả cách văn bản trở thành token và trở lại.",
+    "Ước tính một đoạn văn bản sử dụng bao nhiêu token.",
+    "Giải thích giới hạn của cửa sổ ngữ cảnh và điều gì xảy ra khi nó đầy.",
+    "Viết một lệnh nhắc cung cấp cho mô hình đủ ngữ cảnh cần thiết.",
+    "Nhận ra khi một cuộc trò chuyện dài đã trở nên không đáng tin cậy và bắt đầu một cuộc trò chuyện mới.",
+    "Giải thích chi phí của một tin nhắn một cách thực tế."
   ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
     {
-      "body": "Một token là đơn vị văn bản mà mô hình ngôn ngữ thực sự đọc và viết. Nó không phải một từ, cũng không phải một ký tự. Nó là một mảnh, thường nằm giữa một ký tự và một từ, được chọn sao cho các phần văn bản thông dụng nhất có thể được lưu trữ một cách hiệu quả.\n\nTừ \"unbelievable\" có thể được chia thành vài token. Từ \"the\" thường là một token. Một khoảng trắng thường gắn vào từ kế tiếp, nên \" the\" là một token chứ không phải hai. Điều này có nghĩa là cùng một câu có thể tốn nhiều hoặc ít hơn tùy theo những từ trong đó, và nghĩa là văn bản của một ngôn ngữ có hình dạng từ khác sẽ tốn khác với tiếng Anh.\n\nLý do là vì tính toán. Mô hình biến văn bản thành những con số rồi làm việc trên những con số đó. Đơn vị phải đủ lớn để từ vựng còn quản lý được, và đủ nhỏ để chuỗi không trở nên khổng lồ. Nói đại khái, **một token khoảng bốn ký tự tiếng Anh**, hay khoảng ba phần tư của một từ. Một trang văn xuôi tiếng Anh khoảng 500 đến 700 token.\n\nMọi thứ khác đều bắt nguồn từ đây. **Cửa sổ ngữ cảnh** là số token mà mô hình có thể giữ cùng lúc: tin nhắn của bạn, cuộc trò chuyện từ trước đến nay, tài liệu bạn tải lên, và các chỉ dẫn nó được giao. Khi cuộc trò chuyện dài quá giới hạn đó, phần cũ nhất bị đẩy ra. Mô hình không quên vì nó bị phân tâm. Nó quên vì những token đó đơn giản là không còn ở đó nữa.\n\nMột sự thật này giải thích phần lớn những hành vi khiến người ta thấy lạ. Một chatbot dường như đánh mất mạch suốt giữa cuộc trò chuyện dài thường không hề đánh mất; phần đầu đã bị đẩy ra khỏi cửa sổ. Một chatbot không đọc nổi tệp PDF 40 trang của bạn không phải là từ chối; tệp lớn hơn cửa sổ. Một chatbot tự mâu thuẫn là vì có hai chuỗi token khác nhau để làm việc, và nó đã trả lời theo cái đang nằm trước mặt.\n\nVà còn một điểm cuối có ý nghĩa thương mại: token cũng là đơn vị tính phí. Khi một nhà cung cấp báo giá theo token, họ đang nói với bạn chi phí đưa văn bản vào và lấy văn bản ra là bao nhiêu. Hiểu token biến một mức giá khó hiểu thành một đại lượng bạn đo được.",
+      "body": "Token là đơn vị văn bản mà mô hình ngôn ngữ thực sự đọc và viết. Nó không phải là một từ, cũng không phải là một ký tự. Đó là một mảnh nhỏ, thường nằm giữa một ký tự và một từ, được chọn sao cho các đoạn văn bản phổ biến nhất có thể được lưu trữ một cách hiệu quả.\n\nTừ \"đáng tin như điên rồ\" có thể được tách thành vài token. Từ \"the\" thường là một token. Dấu cách thường đi kèm với từ tiếp theo, nên “ the” là một token, không phải hai. Điều này có nghĩa là cùng một câu có thể tốn nhiều token hơn hoặc ít token hơn tùy thuộc vào các từ trong câu, và văn bản thuộc ngôn ngữ có hình dạng từ khác sẽ tốn khác với tiếng Anh.\n\nLý do tồn tại token là vì tính toán. Mô hình biến văn bản thành các con số, rồi xử lý những con số đó. Đơn vị này phải đủ lớn để khối từ vựng vẫn dễ quản lý, nhưng cũng phải đủ nhỏ để chuỗi không trở nên khổng lồ. Nói đại khái, **một token tương đương khoảng bốn ký tự tiếng Anh**, hay khoảng ba phần tư của một từ. Một trang văn xuôi tiếng Anh có khoảng 500 đến 700 token.\n\nMọi thứ khác đều bắt nguồn từ điều này. **Cửa sổ ngữ cảnh** là số lượng token mà một mô hình có thể lưu giữ đồng thời: tin nhắn của bạn, toàn bộ cuộc trò chuyện trước đó, mọi tài liệu bạn đã tải lên và các chỉ dẫn mà mô hình nhận được. Khi cuộc trò chuyện vượt quá giới hạn đó, các phần cũ nhất sẽ bị đẩy ra khỏi ngữ cảnh. Mô hình không quên vì nó bị phân tâm. Nó quên vì các token đó thực sự không còn tồn tại nữa.\n\nChính một sự thật đó giải thích phần lớn những hành vi kỳ lạ mà mọi người nhận ra. Một con chatbot có vẻ như đã đánh mất mạch câu chuyện giữa chừng một cuộc trò chuyện dài thường không hề mất mạch; phần đầu của cuộc trò chuyện chỉ bị đẩy ra khỏi tầm nhìn mà thôi. Một chatbot không đọc được tệp PDF 40 trang của bạn không phải là đã từ chối; tệp đơn giản là lớn hơn cửa sổ ngữ cảnh. Một chatbot tự mâu thuẫn có hai chuỗi token khác nhau để lựa chọn, và nó đã trả lời theo chuỗi đang nằm trước mặt.\n\nVà điểm cuối cùng có ý nghĩa quan trọng về mặt thương mại: token cũng chính là đơn vị tính phí. Khi nhà cung cấp báo giá theo từng token, họ đang cho bạn biết chi phí đưa văn bản vào và nhận văn bản ra là bao nhiêu. Hiểu token biến một mức giá khó hiểu thành một lượng có thể đo lường được.",
       "examples": [
-        "Tài liệu không khó. Nó dài 90.000 token, còn cửa sổ chỉ có 8.000.",
-        "Nó không bối rối. Phần đầu cuộc trò chuyện của chúng ta đã rời khỏi cửa sổ rồi."
+        "Tài liệu này không quá khó. Nó có 90.000 token, còn cửa sổ là 8.000 token.",
+        "Nó không bị lẫn. Phần đầu cuộc trò chuyện của chúng tôi đã không còn nằm trong cửa sổ nữa."
       ],
-      "heading": "Token là gì, và vì sao mọi thứ đều được đo bằng nó"
+      "heading": "Token là gì và tại sao mọi thứ đều được tính bằng token"
     },
     {
-      "body": "Mọi tin nhắn đều đi qua cùng bốn bước. Biết chúng biến một kết quả khó hiểu thành một lỗi có thể chẩn đoán.\n\n**Bước một, tách token.** Văn bản của bạn được chia thành token bởi một tokenizer, một từ vựng cố định được xây cho mô hình. Đây là bước máy móc, và đây cũng là nơi chi phí được tính.\n\n**Bước hai, nhúng.** Mỗi token được biến thành một danh sách số, một vector, để nắm bắt ý nghĩa của mảnh văn bản đó trong quan hệ với mọi mảnh khác. Các token có nghĩa gần nhau nằm gần nhau trong không gian đó. Từ \"bank\" chỉ ngân hàng và từ \"bank\" chỉ bờ sông rơi vào hai chỗ khác nhau.\n\n**Bước ba, dự đoán.** Mô hình xử lý toàn bộ chuỗi một lượt, qua từng tầng, và tính ra điều gì nên đến tiếp theo. Nó làm việc này cho mọi vị trí song song, và đó là lý do nó xử lý được hàng nghìn token cùng lúc và đó là lý do nó không đọc văn bản của bạn như cách bạn đọc một trang sách.\n\n**Bước bốn, giải mã.** Các token được chọn được biến trở lại thành văn bản và gửi cho bạn. Nếu bạn yêu cầu câu trả lời ngắn hơn hoặc định dạng khác, thì chỉ dẫn đó cũng là một phần của chuỗi đầu vào, và mô hình cố thực hiện nó y như mọi thứ khác.\n\nHai hệ quả nối tiếp từ chuỗi này. Thứ nhất là **mô hình không có ký ức ngoài cửa sổ**. Không có nơi nào lưu giấu cuộc trò chuyện của bạn. Khi một dịch vụ nói nó nhớ bạn, phần nhớ đó nằm trong một cơ sở dữ liệu bên họ và được dán lại vào như một phần của đầu vào.\n\nThứ hai là **chỉ dẫn tranh chỗ với nội dung**. Mọi thứ bạn gửi đều dùng chung một ngân sách: chỉ dẫn hệ thống, lịch sử trò chuyện, tài liệu của bạn, và câu hỏi của bạn. Khi một dịch vụ hết chỗ, nó phải bỏ bớt thứ gì đó, và không phải lúc nào cũng bỏ đúng thứ bạn muốn.",
+      "body": "Mọi tin nhắn đều đi qua cùng bốn bước. Hiểu rõ những bước này giúp bạn biến một kết quả khó hiểu thành một vấn đề có thể chẩn đoán.\n\n**Bước một, phân tách token.** Văn bản của bạn được một bộ tách token chia thành các token, theo một từ vựng cố định được xây dựng cho mô hình. Đây là một thao tác máy móc và cũng là nơi chi phí được tính toán.\n\n**Bước hai, nhúng.** Mỗi token được chuyển thành một danh sách số, hay một vector, để nắm bắt ý nghĩa của phần văn bản đó trong mối liên hệ với mọi phần văn bản khác. Các token có ý nghĩa tương tự nằm gần nhau trong không gian đó. “Bank” (ngân hàng) và “bank” (bờ sông) rơi vào những vị trí khác nhau trong câu.\n\n**Bước ba, dự đoán.** Mô hình xử lý toàn bộ chuỗi một lượt, theo từng lớp, để xác định thứ gì sẽ đến tiếp theo. Mô hình thực hiện điều này cho mọi vị trí song song, nên có thể xử lý hàng nghìn token cùng lúc và không đọc văn bản của bạn theo cách bạn đọc một trang sách.\n\n**Bước bốn, giải mã.** Các token đã được chọn được chuyển lại thành văn bản và gửi cho bạn. Nếu bạn yêu cầu câu trả lời ngắn hơn hoặc một định dạng khác, chính yêu cầu đó cũng là một phần của chuỗi đầu vào, và mô hình sẽ cố tuân thủ nó giống như cố tuân thủ mọi yêu cầu khác.\n\nCó hai hệ quả được rút ra từ quy trình này. Điều đầu tiên là **mô hình không có trí nhớ ngoài cửa sổ ngữ cảnh**. Không có nơi nào lưu giấu cuộc trò chuyện của bạn. Khi một dịch vụ nói rằng nó nhớ bạn, ký ức đó nằm trong cơ sở dữ liệu phía họ và được chèn lại vào như một phần của đầu vào.\n\nThứ hai là **chỉ dẫn cạnh tranh với nội dung**. Mọi thứ bạn gửi đi đều dùng chung một hạn mức: chỉ dẫn hệ thống, lịch sử trò chuyện, tài liệu của bạn và câu hỏi của bạn. Khi một dịch vụ hết chỗ, nó sẽ loại bỏ một thứ, và thứ bị loại bỏ không phải lúc nào cũng là thứ mà bạn muốn chọn.",
       "examples": [
-        "Mọi tin nhắn đều thành token, rồi thành số, rồi thành dự đoán, rồi thành văn bản.",
-        "Mô hình không có ký ức về cuộc trò chuyện của chúng ta ngoài phần đang nằm trong cửa sổ.",
-        "Chỉ dẫn hệ thống chiếm cùng chỗ với câu hỏi của tôi, mà chỗ thì hữu hạn."
+        "Mỗi tin nhắn sẽ được chuyển thành các token, rồi thành những con số, rồi thành một dự đoán, và cuối cùng lại thành văn bản.",
+        "Mô hình không có ký ức về cuộc trò chuyện của chúng ta ngoài những gì đang hiển thị trong cửa sổ lúc này.",
+        "Các chỉ dẫn của hệ thống nằm trong cùng không gian với câu hỏi của tôi, và không gian ấy là hữu hạn."
       ],
-      "heading": "Chuyện gì xảy ra giữa tin nhắn của bạn và câu trả lời"
+      "heading": "Điều gì xảy ra giữa tin nhắn của bạn và câu trả lời"
     },
     {
-      "body": "Bạn hiếm khi cần đếm chính xác. Bạn cần biết đại khái một đoạn văn bản có vừa hay không, và vài quy tắc đơn giản là đủ để mang theo trong đầu.\n\n**Quy tắc một: chia số ký tự cho bốn.** Một tin nhắn 4.000 ký tự tiếng Anh xấp xỉ 1.000 token. Quy tắc này hợp với văn xuôi thông thường, vì tiếng Anh trung bình dưới bốn ký tự mỗi token.\n\n**Quy tắc hai: đếm từ, rồi cộng thêm một phần ba.** Một từ xấp xỉ 1,3 token, vì khoảng trắng và các đuôi từ thông dụng thành token riêng. Một email 300 từ xấp xỉ 400 token.\n\n**Quy tắc ba: các ngôn ngữ khác và các định dạng khác tốn hơn.** Văn bản tiếng Việt với nhiều âm tiết và dấu thanh thường tách token kém hiệu quả hơn tiếng Anh. Bảng, mã nguồn và JSON chứa nhiều ký hiệu, mà ký hiệu thường là token riêng. Một bảng tính dán vào có thể tốn gấp nhiều lần so với số từ của nó.\n\n**Quy tắc bốn: đầu vào và đầu ra được tính riêng.** Yêu cầu một câu trả lời dài tốn gấp đôi: một lần để đọc prompt của bạn, một lần để sinh câu trả lời. Một yêu cầu câu trả lời 2.000 từ tốn khoảng 2.600 token đầu ra, cộng phần prompt đã dùng.\n\nVài quy tắc này đủ cho các quyết định hằng ngày. Khi một việc thật sự sát giới hạn, phần lớn giao diện hiện số token hoặc thanh tiến trình, và một số cho bạn xem ngân sách. Hãy dùng những con số đó thay vì ước lượng khi số lượng chính xác có ý nghĩa, vì chỉ một bảng dán vào cũng có thể làm con số tăng hàng nghìn.\n\nMột thói quen tránh rắc rối: đặt chỉ dẫn trước và tư liệu sau. Nếu tài liệu dài, hãy nhờ mô hình xử lý theo từng phần có tên và đưa cho bạn một bản tóm tắt ngắn của mỗi phần. Bạn giữ phần tóm tắt, bạn giữ các phần, và các phần vẫn nằm trong cửa sổ.",
+      "body": "Bạn hiếm khi cần biết chính xác số token. Bạn chỉ cần ước tính sơ bộ xem một đoạn văn bản có vừa hay không, và các quy tắc ước tính đơn giản đến mức có thể nhớ trong đầu.\n\n**Quy tắc một: chia số ký tự cho bốn.** Một tin nhắn dài 4.000 ký tự tiếng Anh tương đương khoảng 1.000 token. Quy tắc này khá phù hợp với văn xuôi thông thường, vì trung bình mỗi token của tiếng Anh có ít hơn bốn ký tự.\n\n**Quy tắc hai: đếm số từ, rồi cộng thêm một phần ba.** Một từ tương đương khoảng 1,3 token, vì dấu cách và các phần từ thường gặp ở cuối từ sẽ trở thành token riêng. Một email dài 300 từ tương đương khoảng 400 token.\n\n**Quy tắc ba: hãy tính các ngôn ngữ và định dạng khác sẽ tốn nhiều token hơn.** Văn bản tiếng Việt với các từ nhiều âm tiết và đầy đủ dấu thanh thường được phân tách thành token kém hiệu quả hơn tiếng Anh. Bảng, mã nguồn và JSON có nhiều ký hiệu, mà ký hiệu thường được tính thành từng token riêng. Một bảng tính được dán vào có thể tốn kém gấp nhiều lần so với số từ của nó.\n\n**Quy tắc thứ tư: đầu vào và đầu ra được tính riêng.** Yêu cầu một câu trả lời dài sẽ khiến bạn tốn gấp đôi: một lần để đọc câu lệnh của bạn và một lần để tạo câu trả lời. Một yêu cầu tạo câu trả lời dài 2.000 từ sẽ tốn khoảng 2.600 token đầu ra, chưa kể số token đã dùng cho câu lệnh.\n\nNhững quy tắc này đủ để đưa ra các quyết định trong cuộc sống hằng ngày. Khi một tác vụ thực sự gần đạt giới hạn, hầu hết các giao diện sẽ hiển thị số token hoặc thanh tiến trình, và một số giao diện còn cho phép bạn xem hạn mức. Hãy dùng cách đó thay vì ước tính khi cần biết chính xác, bởi chỉ một bảng được dán vào cũng có thể làm số token tăng thêm hàng nghìn.\n\nMột thói quen giúp tiết kiệm rắc rối: đặt chỉ dẫn trước, đặt tài liệu sau. Nếu tài liệu dài, hãy nhờ mô hình xử lý theo từng phần được đặt tên và tóm tắt ngắn gọn từng phần. Bạn vẫn giữ phần tóm tắt, vẫn giữ các phần còn lại, và các phần đó vẫn nằm trong cửa sổ ngữ cảnh.",
       "examples": [
-        "Quy tắc đại khái: 4.000 ký tự là khoảng 1.000 token, nên tôi cắt tài liệu thành ba.",
-        "Một email 300 từ là khoảng 400 token, và câu trả lời cũng tầm đó.",
-        "Tôi hỏi từng phần một, và mỗi câu trả lời đều nằm trong cửa sổ."
+        "Quy tắc xấp xỉ: 4.000 ký tự tương đương khoảng 1.000 token, vì vậy tôi cần cắt tài liệu thành ba phần.",
+        "Một email dài 300 từ sẽ có khoảng 400 token, và câu trả lời cũng sẽ dài tương tự.",
+        "Tôi đã yêu cầu từng phần một, và mỗi câu trả lời đều nằm gọn trong phạm vi cửa sổ ngữ cảnh."
       ],
-      "heading": "Cách ước lượng số token của một tin nhắn"
+      "heading": "Cách ước tính số token của một tin nhắn"
     },
     {
-      "body": "Cửa sổ ngữ cảnh là bộ nhớ làm việc của mô hình cho một cuộc trò chuyện. Nó được đo bằng token, và nó là giới hạn khắc nghiệt nhất của toàn hệ thống, vì nó quyết định điều gì mô hình có thể biết trong lúc trả lời bạn.\n\nCác cửa sổ rất khác nhau. Một mô hình nhỏ có thể chỉ giữ vài nghìn token. Một trợ lý tổng quát hiện nay có thể giữ vài chục nghìn token, và có công cụ giữ tới hàng trăm nghìn token hoặc nhiều hơn. Một triệu token xấp xỉ độ dài một tiểu thuyết, nghe thì hào phóng cho tới khi bạn nhớ rằng cửa sổ phải chứa câu hỏi của bạn, câu trả lời, mọi tệp tải lên, và chỉ dẫn hệ thống cùng lúc.\n\nKhi cửa sổ đầy, phải có thứ gì đó bị loại. Phổ biến nhất là hệ thống bỏ các lượt trò chuyện cũ nhất. Đôi khi nó tóm tắt rồi giữ lại bản tóm tắt. Dù cách nào, lúc đó mô hình đang trả lời dựa trên một phiên bản hơi sai của quá khứ, và nó không có cách nào báo cho bạn rằng quá khứ đó không đầy đủ.\n\nCác triệu chứng rất dễ nhận. Mô hình bắt đầu quên một chỉ dẫn bạn đưa ra ở đầu cuộc trò chuyện. Nó bắt đầu mâu thuẫn với một dữ kiện nó đã xác lập hai mươi lượt trước. Nó đánh mất tệp bạn đã tải lên. Nó bắt đầu lặp lại ở cuối. Trong cả bốn trường hợp, nguyên nhân thường là một, và không trường hợp nào là lỗi của bản thân mô hình.\n\nMột cuộc trò chuyện dài cảm thấy như tiến bộ, vì nó chứa nhiều công sức. Bên trong mô hình, nó chỉ là một chuỗi token dài, và quá một kích thước nào đó thì phần đầu đã biến mất. Hai thói quen nối tiếp từ điều đó. Sau mỗi vài lượt trao đổi hữu ích, hãy xin một bản tóm tắt ngắn theo một mẫu cố định: các quyết định, các câu hỏi còn mở, các dữ kiện cần giữ, và nhiệm vụ hiện tại. Rồi mở cuộc trò chuyện tiếp theo với bản tóm tắt ấy dán ngay đầu. Việc này tốn một phút và đổi lại bạn có một ngữ cảnh sạch.\n\nCách sửa thực tế vì vậy là **mở một cuộc trò chuyện mới và mang theo bản tóm tắt**. Nghe có vẻ lãng phí, vì bạn đã đổ mười lượt vào đó. Nhưng rẻ hơn so với việc còn lại, bởi bạn đang trả tiền cho một ngữ cảnh dài trong đó tư liệu đầu tiên của bạn đã vô hình.\n\nCách sửa thứ hai là **giữ phần làm việc nhỏ gọn**. Hãy xin câu trả lời ngắn, hãy xin danh sách đánh số, hãy bảo nó nói rõ đã dùng phần nào của tài liệu. Khi ngữ cảnh luôn nhỏ, chất lượng câu trả lời thường tăng chứ không giảm.",
+      "body": "Cửa sổ ngữ cảnh là bộ nhớ làm việc của mô hình trong một cuộc trò chuyện. Nó được tính bằng token và đây là giới hạn khắc nghiệt nhất trong toàn bộ hệ thống, vì nó quyết định những gì mô hình có thể biết khi trả lời bạn.\n\nQuy mô cửa sổ ngữ cảnh rất khác nhau. Một mô hình nhỏ có thể chứa vài nghìn token. Trợ lý đa năng hiện nay có thể lưu giữ hàng chục nghìn token, và một số công cụ có thể lưu hàng trăm nghìn token hoặc nhiều hơn. Một triệu token xấp xỉ bằng độ dài của một tiểu thuyết dài, nghe có vẻ thoải mái cho đến khi bạn nhớ rằng cửa sổ phải chứa đồng thời câu hỏi của bạn, câu trả lời, mọi tệp đã tải lên và các chỉ dẫn hệ thống.\n\nKhi cửa sổ đầy, phải có thứ gì đó bị loại bỏ. Thông thường, hệ thống loại bỏ những lượt trò chuyện cũ nhất. Đôi khi, nó tóm tắt chúng và giữ lại bản tóm tắt đó. Dù theo cách nào, giờ mô hình cũng trả lời bằng một phiên bản hơi sai của quá khứ, và không có cách nào để báo cho bạn biết rằng quá khứ đó không đầy đủ.\n\nCác triệu chứng này dễ nhận ra. Mô hình bắt đầu quên chỉ dẫn mà bạn đã đưa ra ngay từ đầu. Nó bắt đầu mâu thuẫn với một sự thật mà nó đã xác lập từ hai mươi lượt trước đó. Nó làm mất tệp bạn đã tải lên. Nó bắt đầu lặp lại gần cuối. Trong cả bốn trường hợp, nguyên nhân thường là như nhau, và không trường hợp nào do chính mô hình bị lỗi.\n\nMột cuộc trò chuyện dài tạo cảm giác như đang tiến bộ, bởi vì nó chứa đựng rất nhiều công sức. Bên trong mô hình, nó chỉ là một chuỗi token dài, và khi chuỗi đó vượt quá một độ dài nhất định thì phần đầu sẽ biến mất. Hai thói quen tiếp theo. Sau mỗi vài lượt trao đổi có ích, hãy yêu cầu một bản tóm tắt ngắn theo một định dạng cố định: các quyết định, câu hỏi còn bỏ ngỏ, sự thật cần giữ lại và nhiệm vụ hiện tại. Sau đó, hãy bắt đầu cuộc trò chuyện tiếp theo với phần tóm tắt đó được dán vào phía trên. Nó mất một phút và đổi lại bạn sẽ có một ngữ cảnh sạch.\n\nVì vậy, cách khắc phục thực tế là **bắt đầu một cuộc trò chuyện mới và chuyển tiếp phần tóm tắt sang đó**. Điều này thật lãng phí, bởi vì bạn đã đầu tư hai mươi lượt. Cách này rẻ hơn so với phương án thay thế, bởi nếu không, bạn sẽ phải trả tiền cho một ngữ cảnh dài, trong đó tư liệu đầu tiên của bạn không còn hiện diện.\n\nCách khắc phục thực tế còn lại là **giữ cho tập dữ liệu làm việc nhỏ gọn**. Hãy yêu cầu những câu trả lời ngắn, yêu cầu danh sách có đánh số, hoặc yêu cầu nó cho biết nó đã sử dụng phần nào của tài liệu. Khi ngữ cảnh vẫn nhỏ, chất lượng câu trả lời thường tăng lên chứ không giảm.",
       "examples": [
-        "Mình bắt đầu cuộc trò chuyện mới đi. Tôi sẽ dán tóm tắt đến đâu rồi.",
-        "Nó quên mất định dạng tôi yêu cầu ở đầu, vì phần đó đã bị đẩy ra từ lâu.",
-        "Giờ tôi giữ phần làm việc nhỏ: một tài liệu, một câu hỏi, câu trả lời ngắn."
+        "Hãy bắt đầu một cuộc trò chuyện mới. Tôi sẽ dán phần tóm tắt về nơi chúng ta đã dừng lại.",
+        "Nó đã quên mất định dạng mà tôi yêu cầu lúc đầu, vì điều đó đã bị loại bỏ từ lâu rồi.",
+        "Giờ tôi giữ phần làm việc nhỏ gọn: một tài liệu, một câu hỏi, những câu trả lời ngắn."
       ],
-      "heading": "Cửa sổ ngữ cảnh, và chuyện gì xảy ra khi nó đầy"
+      "heading": "Cửa sổ ngữ cảnh và những gì xảy ra khi nó bị đầy"
     },
     {
-      "body": "Prompt chính là phần văn bản trở thành đoạn đầu của cửa sổ ngữ cảnh. Nó đáng được bỏ ra hai phút suy nghĩ, vì mọi thứ bạn để lại đều là ngân sách bạn giữ lại cho câu trả lời.\n\nTrước hết, đặt nhiệm vụ ở câu đầu tiên. Mô hình đọc toàn bộ cửa sổ, nhưng một chỉ dẫn rõ ràng ở trên cùng là chỉ dẫn ít bị chìm nhất.\n\nThứ hai, nêu đối tượng và định dạng. \"Giải thích cho một quản lý kho mới\" và \"cho tôi năm gạch đầu dòng\" loại bỏ phần lớn sự phải đoán, và loại bỏ nhu cầu một vòng hỏi đáp dài để làm rõ, vốn sẽ ăn mất cửa sổ.\n\nThứ ba, đưa ra các ràng buộc mà nếu không có, bạn sẽ bị hỏi lại: độ dài, giọng điệu, ngôn ngữ, và phải làm gì khi thông tin còn thiếu.\n\nThứ tư, đặt tư liệu dài sau chỉ dẫn, và đánh dấu rõ. Bọc tư liệu nguồn trong dấu ngoặc vuông giúp phân biệt cái nào là dữ liệu và cái nào là yêu cầu, và giảm nguy cơ mô hình coi một câu bên trong tài liệu của bạn là một chỉ dẫn.\n\nThứ năm, hãy xin phần suy luận khi bạn thật sự cần, chứ không phải lúc nào cũng xin. Yêu cầu trình bày các bước tốn token và có thể thêm cả những sai lầm tự tin. Yêu cầu một câu trả lời ngắn kèm giả định được nêu ra thường tốt hơn.\n\nThứ sáu, và là điểm cuối cùng, hãy bảo mô hình nói điều nó không biết. Việc này rẻ, và nó biến một phỏng đoán tự tin thành một lỗ hổng nhìn thấy được.",
+      "body": "Prompt là phần văn bản đầu tiên của cửa sổ ngữ cảnh. Việc này đáng để bạn dành hai phút suy nghĩ, bởi mọi thứ bạn để ra khỏi prompt đều là ngân sách dành cho câu trả lời.\n\nTrước tiên, hãy nêu nhiệm vụ ngay trong câu đầu tiên. Mô hình đọc toàn bộ cửa sổ ngữ cảnh, nhưng một chỉ dẫn rõ ràng ở đầu tiên là chỉ dẫn ít có nguy cơ bị các nội dung khác lấn át.\n\nThứ hai, hãy nêu đối tượng độc giả và định dạng. “Giải thích cho một giám số kho mới” và “đưa cho tôi năm gạch đầu dòng” loại bỏ phần lớn suy đoán, đồng thời giúp không phải trao đổi qua lại dài dòng, qua đó tiêu hao cửa sổ ngữ cảnh.\n\nThứ ba, hãy nêu các ràng buộc mà bạn có thể phải được yêu cầu: độ dài, giọng điệu, ngôn ngữ và cách xử lý khi thiếu thông tin.\n\nThứ tư, hãy đặt phần tài liệu dài sau chỉ dẫn và đánh dấu rõ ràng. Đặt tài liệu nguồn trong dấu ngoặc giúp dễ phân biệt rõ nội dung dữ liệu với yêu cầu, từ đó giảm nguy cơ mô hình hiểu nhầm một câu bên trong tài liệu của bạn là chỉ dẫn.\n\nThứ năm, hãy yêu cầu lý do bạn cần khi thực sự cần, chứ đừng lúc nào cũng yêu cầu. Một yêu cầu bảo hiển thị các bước sẽ tốn token và có thể khiến mô hình đưa ra những sai sót nhưng rất chắc chắn. Một yêu cầu kèm giả định và đề nghị trả lời ngắn thường tốt hơn.\n\nThứ sáu, và cũng là cuối cùng, hãy yêu cầu mô hình nói rõ điều gì nó không biết. Cách này rẻ hơn nhiều và giúp biến một phỏng đoán tự tin thành khoảng trống có thể nhận ra.",
       "examples": [
-        "Dưới đây là tài liệu trong dấu ngoặc vuông. Chỉ trả lời dựa vào nó, và nói khi nào nó không đủ để trả lời.",
-        "Giải thích cho một quản lý kho mới, thành năm gạch đầu dòng, dưới 150 từ.",
-        "Cho tôi câu trả lời ngắn trước, rồi mới đến lập luận, và đánh dấu mọi giả định bạn phải dùng."
+        "Dưới đây là một tài liệu được đặt trong dấu ngoặc vuông. Hãy chỉ trả lời dựa vào tài liệu đó và nói rõ khi tài liệu không có câu trả lời.",
+        "Giải thích cho một người giám sát kho mới bằng năm gạch đầu dòng, dưới 150 từ.",
+        "Hãy trả lời ngắn trước, sau đó giải thích, và đánh dấu mọi điều bạn phải giả định."
       ],
-      "heading": "Cách viết prompt để tận dụng tốt cửa sổ ngữ cảnh",
+      "heading": "Cách viết một câu lệnh (prompt) tận dụng tốt cửa sổ ngữ cảnh (context window)",
       "steps": [
-        "Đặt nhiệm vụ ở câu đầu tiên.",
-        "Nêu đối tượng, định dạng và độ dài.",
-        "Đưa ra các ràng buộc mà nếu không có, bạn sẽ bị hỏi lại.",
-        "Đặt tư liệu dài sau chỉ dẫn, có đánh dấu rõ.",
-        "Chỉ xin phần suy luận ở nơi bạn cần kiểm chứng nó.",
-        "Hỏi nó điều gì chưa chắc, và coi đó là một phần của câu trả lời."
+        "Hãy đặt nhiệm vụ vào câu đầu tiên.",
+        "Nêu đối tượng độc giả, định dạng và độ dài.",
+        "Hãy nêu những ràng buộc mà lẽ ra bạn sẽ được yêu cầu.",
+        "Đặt tài liệu nguồn dài sau phần chỉ dẫn, và đánh dấu rõ ràng.",
+        "Chỉ yêu cầu giải thích khi thật cần kiểm tra.",
+        "Hãy hỏi xem nó không chắc chắn điều gì và coi đó là một phần của câu trả lời."
       ]
     },
     {
-      "body": "Đây là những thuật ngữ bạn gặp trong tài liệu mô hình, trên trang bảng giá và trong các cuộc trao đổi kỹ thuật.\n\n**Token** là mảnh văn bản mà mô hình đọc hoặc viết, thường là một từ, một phần của từ, hoặc một ký hiệu thông dụng.\n\n**Tokenizer** là danh sách token cố định của mô hình, cùng quy tắc chia văn bản thành token và ghép lại.\n\n**Cửa sổ ngữ cảnh** là số token tối đa mô hình có thể giữ cùng lúc, tính cả câu hỏi, lịch sử, tài liệu và chỉ dẫn.\n\n**Prompt** là chỉ dẫn và ngữ cảnh bạn đưa cho mô hình. Nó trở thành những token đầu tiên của chuỗi.\n\n**Completion** là thứ mô hình tạo ra. Theo cách gọi cũ, prompt là đầu vào và completion là đầu ra.\n\n**Token đầu vào** và **token đầu ra** là hai phía của hóa đơn. Giá được báo theo từng phía.\n\n**System prompt** là chỉ dẫn thường trực đặt hành vi của trợ lý, giọng điệu và giới hạn. Nó cũng tốn token như mọi thứ khác.\n\n**Temperature** là thiết lập điều chỉnh mức ngẫu nhiên khi mô hình chọn token tiếp theo. Giá trị thấp cho câu trả lời lặp lại, giá trị cao cho câu trả lời đa dạng và kém tin cậy hơn.\n\n**Truncation** là việc cắt bớt đầu vào khi dài hơn cửa sổ ngữ cảnh, thường cắt phần cũ nhất.\n\n**Context drift** là sự trôi dần của câu trả lời trong một cuộc trò chuyện dài, khi ngữ cảnh làm việc đầy dần bằng vật liệu cũ và đẩy chỉ dẫn ban đầu ra đi.",
-      "heading": "Từ ngữ của token, từng chữ một",
+      "body": "Đây là những thuật ngữ bạn gặp trong tài liệu hướng dẫn sử dụng mô hình, trên các trang bảng giá và trong những cuộc trao đổi giữa nhà phát triển.\n\n**Token** là đoạn văn bản mà mô hình đọc hoặc viết, thường là một từ, một phần của từ hoặc một ký hiệu thông dụng.\n\n**Tokenizer** là danh sách cố định các token mà mô hình sử dụng, cùng với quy tắc chuyển văn bản thành các token đó và chuyển ngược lại.\n\n**Context window** là số token tối đa mà mô hình có thể giữ cùng lúc, tính cả câu hỏi, lịch sử hội thoại, tài liệu và các chỉ dẫn.\n\n**Prompt** là chỉ dẫn và bối cảnh mà bạn cung cấp cho mô hình. Nó trở thành những token đầu tiên của chuỗi.\n\n**Completion** là những gì mô hình tạo ra. Theo cách gọi cũ, **prompt** là đầu vào còn **completion** là đầu ra.\n\n**Input tokens** và **output tokens** là hai mặt của cùng một đồng xu. Giá được niêm yết cho từng loại.\n\n**System prompt** là chỉ dẫn thường trực xác lập cách hành xử, giọng điệu và giới hạn của trợ lý. Nó cũng là một loại token có chi phí như mọi loại khác.\n\n**Temperature** là thiết lập quy định mức độ ngẫu nhiên mà mô hình dùng khi chọn token tiếp theo. Giá trị thấp tạo ra câu trả lời lặp lại, giá trị cao tạo ra câu trả lời đa dạng hơn nhưng kém đáng tin cậy hơn.\n\n**Truncation** xảy ra khi đầu vào dài hơn cửa sổ ngữ cảnh: phần vượt quá sẽ bị cắt bỏ, thường là những phần nằm xa nhất trong ngữ cảnh trước đó.\n\n**Context drift** (trôi dạt ngữ cảnh) là hiện tượng câu trả lời của mô hình thay đổi dần theo diễn biến của một cuộc hội thoại dài, khi ngữ cảnh làm việc dần đầy lên những nội dung cũ và đẩy các chỉ dẫn ban đầu ra ngoài.",
+      "heading": "Những lời của các mã thông báo, từng lời một",
       "terms": [
         {
-          "example": "Từ \"the\" là một token, còn một từ dài có thể là ba.",
-          "gloss": "Mảnh văn bản mà mô hình đọc hoặc viết. Thường là một từ, một phần của từ, hoặc một ký hiệu thông dụng."
+          "example": "Từ “the” là một từ đơn, còn một từ dài có thể gồm ba từ đơn.",
+          "gloss": "Phần văn bản mà mô hình đọc hoặc viết. Thường là một từ, một phần của từ hoặc một ký hiệu thông dụng.",
+          "termId": "token"
         },
         {
-          "example": "Khác tokenizer thì cùng một văn bản sẽ tốn số token khác nhau.",
-          "gloss": "Từ vựng cố định của mô hình, cùng quy tắc chia văn bản thành token và ghép lại."
+          "example": "Mỗi bộ phân tích văn bản khác nhau sẽ khiến cùng một văn bản tiêu tốn số token khác nhau.",
+          "gloss": "Tập từ vựng cố định mà một mô hình sử dụng, cộng với quy tắc chia văn bản thành các token và ghép chúng lại.",
+          "termId": "tokenizer"
         },
         {
-          "example": "Với cửa sổ 8.000 token, một yêu cầu 9.000 token buộc phải bị cắt.",
-          "gloss": "Số token tối đa mô hình có thể giữ cùng lúc, tính cả câu hỏi, lịch sử, tài liệu và chỉ dẫn."
+          "example": "Với cửa sổ 8.000 token, một yêu cầu 9.000 token phải bị cắt.",
+          "gloss": "Số lượng mã thông báo tối đa mà một mô hình có thể chứa cùng lúc, tính cả câu hỏi, lịch sử hội thoại, tài liệu và các chỉ dẫn.",
+          "termId": "context_window"
         },
         {
-          "example": "Một prompt tốt dồn ngân sách vào những điều mô hình không thể đoán.",
-          "gloss": "Chỉ dẫn và ngữ cảnh bạn đưa cho mô hình. Nó trở thành những token đầu tiên của chuỗi."
+          "example": "Một câu lệnh tốt sẽ dành ngân sách cho những điều mà mô hình không thể tự đoán.",
+          "gloss": "Chỉ dẫn và ngữ cảnh mà bạn đưa cho mô hình. Nó trở thành những token đầu tiên của chuỗi.",
+          "termId": "prompt"
         },
         {
-          "example": "Tải lại cùng một tệp hai lần là trả tiền token đầu vào hai lần.",
-          "gloss": "Số token bạn gửi đi, được tính và bị tính phí khi vào. Cả tài liệu lẫn lịch sử trò chuyện đều tính ở đây."
+          "example": "Tải lên cùng một tệp hai lần sẽ tính phí token đầu vào hai lần.",
+          "gloss": "Các token bạn gửi đi, được tính và tính phí ngay khi đưa vào. Cả tài liệu và lịch sử trò chuyện đều được tính ở đây.",
+          "termId": "input_tokens"
         },
         {
-          "example": "Xin 2.000 từ là gấp đôi chi phí đầu ra so với xin 200 từ.",
-          "gloss": "Số token mô hình sinh ra, được tính và bị tính phí khi ra. Câu trả lời dài tốn hơn câu trả lời ngắn."
+          "example": "Yêu cầu 2.000 từ sẽ làm chi phí đầu ra gấp đôi so với yêu cầu 200 từ.",
+          "gloss": "Các token mà mô hình tạo ra, được tính và tính phí trong quá trình xuất. Câu trả lời dài tốn kém hơn câu trả lời ngắn.",
+          "termId": "output_tokens"
         },
         {
-          "example": "Khi bóc tách dữ liệu từ tài liệu, hãy để temperature thấp.",
-          "gloss": "Thiết lập điều chỉnh mức ngẫu nhiên khi chọn token tiếp theo. Giá trị thấp lặp lại hơn, giá trị cao đa dạng hơn và kém tin cậy hơn."
+          "example": "Khi trích xuất dữ liệu từ một tài liệu, hãy để nhiệt độ ở mức thấp.",
+          "gloss": "Thiết lập quy định mức độ ngẫu nhiên khi chọn token tiếp theo. Giá trị thấp cho kết quả lặp lại nhiều hơn, giá trị cao cho kết quả đa dạng hơn nhưng kém đáng tin cậy hơn.",
+          "termId": "temperature"
         },
         {
-          "example": "Chính việc cắt bớt khiến mô hình không bao giờ nhắc tới trang đầu tiên bạn tải lên.",
-          "gloss": "Việc tự động cắt bớt phần đầu vào dài hơn cửa sổ ngữ cảnh, thường cắt phần cũ nhất."
+          "example": "Đó là lý do mô hình không bao giờ nhắc đến trang đầu tiên bạn đã tải lên.",
+          "gloss": "Việc tự động cắt bỏ phần đầu vào dài hơn cửa sổ ngữ cảnh, thường là loại bỏ phần cũ nhất.",
+          "termId": "truncation"
         }
       ]
     },
     {
-      "body": "Giá được báo theo token, và điều đó giấu nhiều hơn là nó cho ra. Hai mô hình có thể tốn khác nhau rất nhiều cho cùng một việc, vì giá mỗi token, số token mà văn bản của bạn tạo ra, và số token câu trả lời chiếm, đều khác nhau.\n\nCách so sánh thực tế là **chi phí của cả việc**, chứ không phải giá mỗi token. Một mô hình rẻ mà cần bốn lần thử vì câu trả lời không dùng được thì đắt hơn một mô hình đắt hơn mà chạy một lần là ổn. Một mô hình đọc lại toàn bộ tài liệu 50.000 token mỗi lần bạn đặt câu hỏi thì đắt theo cách mà một mô hình đọc bản tóm tắt 2.000 token thì không.\n\nBa thói quen giữ chi phí dễ dự đoán. **Tóm tắt một lần, dùng nhiều lần.** Dán tài liệu dài một lần, xin bản tóm tắt có cấu trúc, rồi làm việc với bản tóm tắt đó. **Giữ lịch sử trò chuyện ngắn.** Mỗi lượt trước đó là token đầu vào mà bạn phải trả tiền lại trong mọi tin nhắn. **Xin đúng độ dài bạn cần.** Token đầu ra bị tính phí theo từng token, nên \"trong năm gạch đầu dòng\" là một chỉ dẫn thật, với một mức giá thật.\n\nDán cẩu thả cũng có giá. Gửi một tài liệu lớn có dữ liệu cá nhân trong đó tốn tiền, đưa dữ liệu đó vào hệ thống của người khác, và mất thời gian. Đọc hai đoạn đầu rồi dán hai đoạn đó thường vừa rẻ hơn vừa tốt hơn.\n\nCòn một điều nên nói thẳng: giá token tiếp tục giảm, và cách con người định giá công việc của mình thay đổi theo. Một việc trước đây tính theo giờ thành một việc tính theo lượt dùng. Kỹ năng quan trọng dịch chuyển về phía biết phải yêu cầu gì, kiểm tra ra sao, và lúc nào nên tự làm bằng tay.",
+      "body": "Giá được báo theo từng token, và điều đó giấu nhiều hơn là thể hiện. Hai mô hình có thể có chi phí rất khác nhau cho cùng một nhiệm vụ, bởi giá mỗi token, số token mà văn bản của bạn tạo ra và số token cần dùng để trả lời đều thay đổi.\n\n**Chi phí thực tế cần so sánh là chi phí của nhiệm vụ**, chứ không phải giá mỗi token. Một mô hình rẻ cần bốn lần thử vì các câu trả lời không thể sử dụng lại sẽ tốn kém hơn một mô hình đắt hơn nhưng chạy đúng ngay lần đầu. Một mô hình đọc tài liệu 50.000 token mỗi khi bạn đặt câu hỏi sẽ tốn kém hơn nhiều so với mô hình chỉ đọc bản tóm tắt 2.000 token.\n\nBa thói quen giúp chi phí luôn ở mức có thể dự đoán. **Tóm tắt một lần, sử dụng nhiều lần.** Dán tài liệu dài một lần, nhận bản tóm tắt có cấu trúc và làm việc dựa trên bản tóm tắt đó. **Hãy giữ lịch sử trò chuyện ngắn gọn.** Mỗi lượt trước đó đều là các token đầu vào mà bạn phải trả phí lại trong mọi tin nhắn. **Hãy yêu cầu đúng độ dài bạn cần.** Số token đầu ra được tính phí theo từng token, vì vậy “bằng năm gạch đầu dòng” là một chỉ dẫn có thật và có giá thành thật.\n\nDán cẩu thả cũng tốn phí. Gửi một tài liệu lớn chứa dữ liệu cá nhân sẽ tốn tiền, đưa dữ liệu đó vào hệ thống của người khác và mất nhiều thời gian. Đọc hai đoạn đầu tiên rồi dán vào thường vừa rẻ hơn vừa tốt hơn.\n\nCòn một điều nữa cũng đáng nói thẳng: giá token vẫn đang giảm, và cách mọi người định giá công sức của mình cũng thay đổi theo. Một tác vụ được tính phí theo giờ trở thành tác vụ được tính phí theo lượt sử dụng. Kỹ năng quan trọng là biết nên hỏi gì, kiểm tra ra sao và khi nào nên tự làm thủ công.",
       "examples": [
-        "Tôi tóm tắt hợp đồng một lần, và giờ làm việc với bốn trang thay vì bốn mươi trang.",
-        "Trả tiền cho mô hình đắt hơn một lần còn hơn sửa câu trả lời của mô hình rẻ ba lần.",
-        "Tôi xin năm gạch đầu dòng vì phần đầu ra bị tính theo token."
+        "Tôi đã tóm tắt hợp đồng một lần và giờ chỉ phải làm việc với bốn trang thay vì bốn mươi trang.",
+        "Rẻ hơn để trả tiền một lần cho mô hình tốt hơn là sửa câu trả lời của mô hình rẻ ba lần.",
+        "Tôi yêu cầu năm gạch đầu dòng vì sản phẩm đầu ra được tính phí theo token."
       ],
-      "heading": "Một token giá bao nhiêu, nói trong thực tế"
+      "heading": "Chi phí thực tế của một token"
     },
     {
-      "body": "Những câu dưới đây giải thích những hành vi khiến người ta thấy khó hiểu, và chúng hữu ích với đồng nghiệp, với giáo viên, hay khi gọi đường dây hỗ trợ. Hãy dùng nguyên văn, và đổi chi tiết cho khớp với hoàn cảnh của bạn.",
+      "body": "Những câu này giải thích những hành vi gây nhầm lẫn và hữu ích khi nói với đồng nghiệp, giáo viên hoặc nhân viên hỗ trợ. Hãy dùng nguyên văn, chỉ thay đổi chi tiết cho phù hợp với tình huống của bạn.",
       "examples": [
-        "Nó không đọc chữ cái. Nó đọc token, tức là các mảnh văn bản.",
-        "Bốn ký tự là ước lượng gần đúng một token trong tiếng Anh.",
-        "Tệp quá lớn cho cửa sổ ngữ cảnh nên nó bị cắt bớt, chứ không phải bị từ chối.",
-        "Lịch sử trò chuyện của bạn không phải là trí nhớ. Nó là ngữ cảnh, và có giới hạn kích thước.",
-        "Tôi giữ một bản tóm tắt ở đầu cuộc trò chuyện mới để cửa sổ vẫn hữu dụng.",
-        "Giá tính theo token, nên một cuộc trò chuyện dài bị trả tiền trên mọi tin nhắn.",
-        "Hãy nêu định dạng bạn muốn ở câu đầu tiên, đừng để tới câu thứ mười."
+        "Nó không đọc từng chữ cái. Nó đọc token, tức là các đoạn văn bản nhỏ.",
+        "Bốn ký tự là ước lượng khá tốt về một token trong tiếng Anh.",
+        "Tệp quá lớn đối với cửa sổ nên nội dung đã bị cắt bớt, chứ không phải bị từ chối.",
+        "Lịch sử chat của bạn không phải là trí nhớ. Đó là ngữ cảnh, và nó có giới hạn dung lượng.",
+        "Tôi luôn đặt phần tóm tắt ở đầu mỗi cuộc trò chuyện mới để khung cửa sổ vẫn hữu ích.",
+        "Giá được tính theo từng token, nên một cuộc trò chuyện dài sẽ bị tính phí cho từng tin nhắn.",
+        "Hãy nói ngay từ câu đầu tiên bạn muốn định dạng nào, đừng để đến câu thứ mười mới nói."
       ],
-      "heading": "Những câu bạn có thể dùng lại khi nói về token"
+      "heading": "Các câu bạn có thể dùng lại khi nói về token"
     },
     {
-      "body": "Phần lớn những lời phàn nàn về chatbot là về cách yêu cầu được trình bày, không phải về mô hình. Bốn thói quen thu hồi phần lớn phần thiếu. Đặt nhiệm vụ lên đầu, trong một câu, và nói một câu trả lời tốt trông ra thế nào. Giữ phần làm việc nhỏ gọn: một tài liệu, một câu hỏi, một việc mỗi lượt, và xin câu trả lời ở dạng ngắn. Mang theo ngữ cảnh khi bạn mở một cuộc trò chuyện mới, theo một mẫu cố định gồm quyết định, câu hỏi còn mở và dữ kiện cần giữ. Và kiểm tra những phần quan trọng: các con số, các cái tên, các trích dẫn. Một mô hình nhanh ở việc tạo ra thứ gì đó hợp lý và chậm ở việc xác nhận điều đó, nên phần kiểm tra vẫn là của bạn. Bốn thói quen này dùng được với mọi mô hình bạn sẽ gặp, kể cả những mô hình xuất hiện vào năm sau.",
-      "heading": "Khai thác nhiều hơn từ cùng một mô hình"
+      "body": "Hầu hết những lời phàn nàn về chatbot liên quan đến cách yêu cầu được đặt ra, chứ không phải bản thân mô hình. Bốn thói quen giúp thu hồi phần lớn sự chênh lệch. Hãy đặt nhiệm vụ lên đầu, chỉ trong một câu, và nêu một câu trả lời tốt trông như thế nào. Hãy giữ tập hợp công việc nhỏ gọn: mỗi lần chỉ xử lý một tài liệu, một câu hỏi, một nhiệm vụ và yêu cầu câu trả lời ở dạng ngắn. Mang theo ngữ cảnh khi bắt đầu một cuộc trò chuyện mới, theo một mẫu cố định gồm các quyết định, câu hỏi còn mở và sự thật cần ghi nhớ. Và hãy kiểm tra những phần quan trọng: các con số, tên gọi, trích dẫn. Mô hình tạo ra thứ gì đó hợp lý rất nhanh, nhưng lại mất nhiều thời gian để xác nhận điều đó, nên việc kiểm tra vẫn là trách nhiệm của bạn. Bốn thói quen này đều áp dụng được cho mọi mô hình bạn sẽ gặp, kể cả những mô hình ra mắt vào năm sau.",
+      "heading": "Tận dụng nhiều hơn từ cùng một mô hình"
     }
   ],
-  "summary": "Chatbot không đọc tin nhắn của bạn; nó đọc token, và giới hạn về số token nó có thể chứa giải thích phần lớn những gì khiến ta thấy lạ lẫm. Đọc xong bài này, bạn giải thích được token là gì, đánh giá một tin nhắn có vừa nằm trong cửa sổ ngữ cảnh hay không, ước lượng số token, viết prompt cho ra câu trả lời tốt hơn, và nhận ra lúc nào một cuộc trò chuyện dài đã trở nên không còn tin cậy.",
-  "title": "Hiểu token của AI và cách chatbot hoạt động"
+  "summary": "Một chatbot không đọc tin nhắn của bạn; nó đọc các token, và giới hạn về số token mà nó có thể lưu giữ giải thích phần lớn những điều khiến nó trông có vẻ kỳ lạ. Sau khi đọc nội dung này, bạn có thể giải thích token là gì, đánh giá liệu một tin nhắn có vừa với cửa sổ ngữ cảnh hay không, ước tính số token, viết các lệnh nhắc để nhận được câu trả lời tốt hơn và nhận biết thời điểm một cuộc trò chuyện dài trở nên không còn đáng tin cậy.",
+  "title": "Hiểu về Token AI và cách chatbot hoạt động"
 }

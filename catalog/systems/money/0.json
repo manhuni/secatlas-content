@@ -12,6 +12,16 @@
     },
     {
       "fieldId": "money",
+      "id": "currencies",
+      "name": "Currencies of the world",
+      "order": 1,
+      "summary": "The money of every country: the code, the sign, the smallest unit, the way it is spent and what it means.",
+      "topicIds": [
+        "article_world_currencies"
+      ]
+    },
+    {
+      "fieldId": "money",
       "id": "inflation",
       "name": "Inflation and the cost of living",
       "order": 1,
@@ -48,16 +58,6 @@
       "summary": "Money as a promise, a tool and a record — and what it is not.",
       "topicIds": [
         "article_what_money_is"
-      ]
-    },
-    {
-      "fieldId": "money",
-      "id": "currencies",
-      "name": "Currencies of the world",
-      "order": 1,
-      "summary": "The money of every country: the code, the sign, the smallest unit, the way it is spent and what it means.",
-      "topicIds": [
-        "article_world_currencies"
       ]
     }
   ],

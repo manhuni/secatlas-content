@@ -1,6 +1,385 @@
 {
   "items": [
     {
+      "definition": "A file sent together with the email. It should be named clearly and referred to in the body.",
+      "dictionaryId": "lex.sa.work.attachment",
+      "example": "Please find the attachment, called Quotation-March-2026.pdf.",
+      "fieldId": "social",
+      "id": "att_attachment",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Attachment"
+    },
+    {
+      "definition": "The set of assumptions a person carries about how other people answer when they reach out.",
+      "dictionaryId": "lex.sa.social.att_working_model",
+      "example": "My working model says that people get busy and come back, so I wait.",
+      "fieldId": "social",
+      "id": "att_working_model",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Working model"
+    },
+    {
+      "definition": "The person or relationship a person can move away from and still feel steady in.",
+      "dictionaryId": "lex.sa.social.att_secure_base",
+      "example": "His sister was his secure base long before he had a partner of his own.",
+      "fieldId": "social",
+      "id": "att_secure_base",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Secure base"
+    },
+    {
+      "definition": "The event that makes a person read a partner as less available than the person assumed.",
+      "dictionaryId": "lex.sa.social.att_trigger",
+      "example": "One missed call was the trigger, and the rest of the evening went into reading the silence.",
+      "fieldId": "social",
+      "id": "att_trigger",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Trigger"
+    },
+    {
+      "definition": "Describing a person who takes the partner's availability for granted and stays steady when it wobbles.",
+      "dictionaryId": "lex.sa.social.att_secure",
+      "example": "She is secure with him, so she says she is upset instead of guessing.",
+      "fieldId": "social",
+      "id": "att_secure",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Secure"
+    },
+    {
+      "definition": "Describing a person who reads any drop in a partner's availability as a sign that the bond is at risk.",
+      "dictionaryId": "lex.sa.social.att_anxious",
+      "example": "When he was busy, his anxious side read the quiet as a message about him.",
+      "fieldId": "social",
+      "id": "att_anxious",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Anxious"
+    },
+    {
+      "definition": "Describing a person who leans away when closeness increases, to protect independence.",
+      "dictionaryId": "lex.sa.social.att_avoidant",
+      "example": "His avoidant side called for less contact at the moment he needed it most.",
+      "fieldId": "social",
+      "id": "att_avoidant",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Avoidant"
+    },
+    {
+      "definition": "Describing a person who wants closeness and is afraid of it at the same time.",
+      "dictionaryId": "lex.sa.social.att_fearful",
+      "example": "Fearful-avoidant behaviour often looks like pulling back right after reaching out.",
+      "fieldId": "social",
+      "id": "att_fearful",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Fearful-avoidant"
+    },
+    {
+      "definition": "The rising of the alarm when a partner seems unavailable, which sharpens attention and speeds the urge to act.",
+      "dictionaryId": "lex.sa.social.att_hyperactivation",
+      "example": "Hyperactivation turned three unanswered messages into an hour of checking the phone.",
+      "fieldId": "social",
+      "id": "att_hyperactivation",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Hyperactivation"
+    },
+    {
+      "definition": "The lowering of the alarm when closeness increases, which turns attention away from the bond and towards the task in front of it.",
+      "dictionaryId": "lex.sa.social.att_deactivation",
+      "example": "Deactivation looked like a tidy desk and a long shift at the office.",
+      "fieldId": "social",
+      "id": "att_deactivation",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Deactivation"
+    },
+    {
+      "definition": "Asking a partner repeatedly to confirm that the relationship is still there.",
+      "dictionaryId": "lex.sa.social.att_reassurance_seeking",
+      "example": "Reassurance-seeking is asking the same question until the answer changes.",
+      "fieldId": "social",
+      "id": "att_reassurance_seeking",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Reassurance-seeking"
+    },
+    {
+      "definition": "The behaviour a person uses to get a partner's attention back when they feel the bond is slipping.",
+      "dictionaryId": "lex.sa.social.att_protest_behaviour",
+      "example": "Her protest behaviour was sending the message twice and then three times.",
+      "fieldId": "social",
+      "id": "att_protest_behaviour",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Protest behaviour"
+    },
+    {
+      "definition": "Pulling back from a partner and reducing contact when closeness or conflict increases.",
+      "dictionaryId": "lex.sa.social.att_withdrawal",
+      "example": "Withdrawal is answering with less, not more, when the other person asks for more.",
+      "fieldId": "social",
+      "id": "att_withdrawal",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Withdrawal"
+    },
+    {
+      "definition": "The capacity to feel safe in a relationship, learned later in life rather than carried in from earlier life.",
+      "dictionaryId": "lex.sa.social.att_earned_security",
+      "example": "Her earned security came from a relationship that stayed, after years of ones that did not.",
+      "fieldId": "social",
+      "id": "att_earned_security",
+      "lessonIds": [
+        "article_attachment_styles"
+      ],
+      "packs": [
+        "knw.social.attachment_styles"
+      ],
+      "term": "Earned security"
+    },
+    {
+      "definition": "The phrase for the idea that time passes in the body as well as in the calendar, and that a window is closing.",
+      "dictionaryId": "lex.sa.social.bc_biological_clock",
+      "example": "The biological clock is a phrase, and the window it names is mostly a story.",
+      "fieldId": "social",
+      "id": "bc_biological_clock",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "biological clock"
+    },
+    {
+      "definition": "The way the reproductive system changes as a person gets older.",
+      "dictionaryId": "lex.sa.social.bc_reproductive_ageing",
+      "example": "Reproductive ageing is gradual, and it is not the same for everybody.",
+      "fieldId": "social",
+      "id": "bc_reproductive_ageing",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "reproductive ageing"
+    },
+    {
+      "definition": "The stretch of future time a person is thinking about when they make a plan.",
+      "dictionaryId": "lex.sa.social.bc_time_horizon",
+      "example": "Their time horizon was ten years ahead; mine was two.",
+      "fieldId": "social",
+      "id": "bc_time_horizon",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "time horizon"
+    },
+    {
+      "definition": "The capacity to reproduce, which changes across the life span.",
+      "dictionaryId": "lex.sa.social.bc_fertility",
+      "example": "Fertility is not a number that stays the same for a whole life.",
+      "fieldId": "social",
+      "id": "bc_fertility",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "fertility"
+    },
+    {
+      "definition": "The chance that conception happens in one cycle.",
+      "dictionaryId": "lex.sa.social.bc_fecundity",
+      "example": "Fecundity is the word for the chance in a single cycle.",
+      "fieldId": "social",
+      "id": "bc_fecundity",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "fecundity"
+    },
+    {
+      "definition": "An estimate of how many eggs remain in the ovaries, built from hormone measurements and sometimes a scan.",
+      "dictionaryId": "lex.sa.social.bc_ovarian_reserve",
+      "example": "The ovarian reserve estimate describes a stock; it is not a statement about the odds.",
+      "fieldId": "social",
+      "id": "bc_ovarian_reserve",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "ovarian reserve"
+    },
+    {
+      "definition": "The point at which ovulation and menstruation stop.",
+      "dictionaryId": "lex.sa.social.bc_menopause",
+      "example": "Menopause is a biological event, not a date on a calendar.",
+      "fieldId": "social",
+      "id": "bc_menopause",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "menopause"
+    },
+    {
+      "definition": "The transition before menopause, when the cycles often change.",
+      "dictionaryId": "lex.sa.social.bc_perimenopause",
+      "example": "She was in perimenopause, and her cycles had changed for a while.",
+      "fieldId": "social",
+      "id": "bc_perimenopause",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "perimenopause"
+    },
+    {
+      "definition": "The age of the woman when her child is born, used as a medical label.",
+      "dictionaryId": "lex.sa.social.bc_maternal_age",
+      "example": "Maternal age is a label in the record, not a judgement about the mother.",
+      "fieldId": "social",
+      "id": "bc_maternal_age",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "maternal age"
+    },
+    {
+      "definition": "The age of the father when his child is born, used as a medical label.",
+      "dictionaryId": "lex.sa.social.bc_paternal_age",
+      "example": "Paternal age carries different facts from maternal age, and the change is slower.",
+      "fieldId": "social",
+      "id": "bc_paternal_age",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "paternal age"
+    },
+    {
+      "definition": "The felt push to act on reproduction because the window seems to be closing.",
+      "dictionaryId": "lex.sa.social.bc_reproductive_urgency",
+      "example": "The reproductive urgency was real, and the deadline behind it was still unchecked.",
+      "fieldId": "social",
+      "id": "bc_reproductive_urgency",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "reproductive urgency"
+    },
+    {
+      "definition": "Pressure that comes from a deadline somebody else has set.",
+      "dictionaryId": "lex.sa.social.bc_timeline_pressure",
+      "example": "The timeline pressure came from the family, not from her body.",
+      "fieldId": "social",
+      "id": "bc_timeline_pressure",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "timeline pressure"
+    },
+    {
+      "definition": "An expectation that one generation passes to the next about when life should happen.",
+      "dictionaryId": "lex.sa.social.bc_generational_pressure",
+      "example": "Generational pressure rarely sounds like a command; it sounds like an observation.",
+      "fieldId": "social",
+      "id": "bc_generational_pressure",
+      "lessonIds": [
+        "article_biological_clock"
+      ],
+      "packs": [
+        "knw.social.biological_clock"
+      ],
+      "term": "generational pressure"
+    },
+    {
+      "conflict": true,
       "definition": "A line you draw around your time, energy, body or values, and say out loud so other people can respect it.",
       "dictionaryId": "lex.sa.social.boundary",
       "example": "Her boundary was simple: no phone calls after ten.",
@@ -181,387 +560,6 @@
         "knw.social.dating"
       ],
       "term": "Mixed signals"
-    },
-    {
-      "definition": "Everyone agreeing freely to something, every time. A clear no is a complete answer that needs no follow-up.",
-      "dictionaryId": "lex.sa.social.consent",
-      "example": "Consent has to be clear on both sides, and a no is always a complete answer.",
-      "fieldId": "social",
-      "id": "consent",
-      "lessonIds": [
-        "article_dating_expressions"
-      ],
-      "packs": [
-        "knw.social.dating"
-      ],
-      "term": "Consent"
-    },
-    {
-      "definition": "A situation where two people hold different views and are still talking. The other person is not automatically an enemy.",
-      "dictionaryId": "lex.sa.social.disagreement",
-      "example": "It was a disagreement about the schedule, not a fight.",
-      "fieldId": "social",
-      "id": "disagreement",
-      "lessonIds": [
-        "article_disagreeing"
-      ],
-      "packs": [
-        "knw.social.disagree"
-      ],
-      "term": "Disagreement"
-    },
-    {
-      "definition": "A disagreement that improves the decision being made and leaves the working relationship intact.",
-      "dictionaryId": "lex.sa.social.constructive_disagreement",
-      "example": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
-      "fieldId": "social",
-      "id": "constructive_disagreement",
-      "lessonIds": [
-        "article_disagreeing"
-      ],
-      "packs": [
-        "knw.social.disagree"
-      ],
-      "term": "Constructive disagreement"
-    },
-    {
-      "definition": "Soft words that mark your opinion as your opinion, such as 'maybe' or 'I could be wrong'. Useful in small doses.",
-      "dictionaryId": "lex.sa.social.hedging_language",
-      "example": "A little hedging language keeps a sentence civil; too much of it hides your point.",
-      "fieldId": "social",
-      "id": "hedging_language",
-      "lessonIds": [
-        "article_disagreeing"
-      ],
-      "packs": [
-        "knw.social.disagree"
-      ],
-      "term": "Hedging language"
-    },
-    {
-      "definition": "Giving the other side's position its strongest and most honest form before you argue against it.",
-      "dictionaryId": "lex.sa.social.steelman",
-      "example": "Before you answer, steelman the other view in one sentence and see if it still convinces you.",
-      "fieldId": "social",
-      "id": "steelman",
-      "lessonIds": [
-        "article_disagreeing"
-      ],
-      "packs": [
-        "knw.social.disagree"
-      ],
-      "term": "Steelman"
-    },
-    {
-      "definition": "The part of a position that both people accept. Every polite disagreement starts by naming it.",
-      "dictionaryId": "lex.sa.social.common_ground",
-      "example": "Find the common ground first — both of you want this project to succeed.",
-      "fieldId": "social",
-      "id": "common_ground",
-      "lessonIds": [
-        "article_disagreeing"
-      ],
-      "packs": [
-        "knw.social.disagree"
-      ],
-      "term": "Common ground"
-    },
-    {
-      "definition": "Listening to understand the other person's point, including checking your understanding, instead of waiting for your turn to speak.",
-      "dictionaryId": "lex.sa.social.active_listening",
-      "example": "Active listening means repeating their concern back before you answer it.",
-      "fieldId": "social",
-      "id": "active_listening",
-      "lessonIds": [
-        "article_disagreeing"
-      ],
-      "packs": [
-        "knw.social.disagree"
-      ],
-      "term": "Active listening"
-    },
-    {
-      "conflict": true,
-      "definition": "Short, friendly conversation with someone you do not know well. Its purpose is contact, not important information.",
-      "dictionaryId": "lex.sa.social.small_talk",
-      "example": "We had some small talk about the rain and ended up talking for an hour.",
-      "fieldId": "social",
-      "id": "small_talk",
-      "lessonIds": [
-        "article_culture_shock",
-        "article_small_talk"
-      ],
-      "packs": [
-        "knw.culture.shock",
-        "knw.social.smalltalk"
-      ],
-      "term": "Small talk"
-    },
-    {
-      "definition": "The first thing you say to start a conversation. It should be easy for the other person to answer.",
-      "dictionaryId": "lex.sa.social.opener",
-      "example": "My usual opener at a party is a question about what brought them there.",
-      "fieldId": "social",
-      "id": "opener",
-      "lessonIds": [
-        "article_small_talk"
-      ],
-      "packs": [
-        "knw.social.smalltalk"
-      ],
-      "term": "Opener"
-    },
-    {
-      "definition": "A question that cannot be answered with one word and that gives the other person room to talk.",
-      "dictionaryId": "lex.sa.social.open_question",
-      "example": "What made you take that job?",
-      "fieldId": "social",
-      "id": "open_question",
-      "lessonIds": [
-        "article_small_talk"
-      ],
-      "packs": [
-        "knw.social.smalltalk"
-      ],
-      "term": "Open question"
-    },
-    {
-      "definition": "A question built on what the other person just said, which shows you were listening.",
-      "dictionaryId": "lex.sa.social.follow_up_question",
-      "example": "You said you moved last year — what was it like at first?",
-      "fieldId": "social",
-      "id": "follow_up_question",
-      "lessonIds": [
-        "article_small_talk"
-      ],
-      "packs": [
-        "knw.social.smalltalk"
-      ],
-      "term": "Follow-up question"
-    },
-    {
-      "definition": "A short sound or remark that shows you are following without taking the turn, such as 'mm' or 'really'.",
-      "dictionaryId": "lex.sa.social.back_channel",
-      "example": "You say 'really?' and then let them keep going.",
-      "fieldId": "social",
-      "id": "back_channel",
-      "lessonIds": [
-        "article_small_talk"
-      ],
-      "packs": [
-        "knw.social.smalltalk"
-      ],
-      "term": "Back-channel"
-    },
-    {
-      "definition": "A prepared sentence that ends a conversation politely while leaving the door open for another meeting.",
-      "dictionaryId": "lex.sa.social.exit_line",
-      "example": "It was really nice meeting you — see you around.",
-      "fieldId": "social",
-      "id": "exit_line",
-      "lessonIds": [
-        "article_small_talk"
-      ],
-      "packs": [
-        "knw.social.smalltalk"
-      ],
-      "term": "Exit line"
-    },
-    {
-      "definition": "A comfortable relationship between people, built when each can predict how the other will behave.",
-      "dictionaryId": "lex.sa.social.rapport",
-      "example": "We had no topic in common, but we talked for twenty minutes and had instant rapport.",
-      "fieldId": "social",
-      "id": "rapport",
-      "lessonIds": [
-        "article_small_talk"
-      ],
-      "packs": [
-        "knw.social.smalltalk"
-      ],
-      "term": "Rapport"
-    },
-    {
-      "definition": "One only; not multiple.",
-      "dictionaryId": "lex.sa.en.single.adjective",
-      "example": "A single file is a gallery of one.",
-      "fieldId": "social",
-      "id": "lts_single",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "single"
-    },
-    {
-      "definition": "The situation of being without a romantic partner, seen as a general condition rather than one person's story.",
-      "dictionaryId": "lex.sa.social.lts_singleness",
-      "example": "Long-term singleness has its own vocabulary, and its own pressures.",
-      "fieldId": "social",
-      "id": "lts_singleness",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Singleness"
-    },
-    {
-      "definition": "Describing a person who has no romantic partner, without saying whether that is a choice.",
-      "dictionaryId": "lex.sa.social.lts_unpartnered",
-      "example": "He said he was unpartnered, and he said it without any apology in his voice.",
-      "fieldId": "social",
-      "id": "lts_unpartnered",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Unpartnered"
-    },
-    {
-      "definition": "The repeated sense that a status such as being single is a condition to be explained, corrected or ended.",
-      "dictionaryId": "lex.sa.social.lts_social_pressure",
-      "example": "The social pressure arrives in small questions, not in one cruel remark.",
-      "fieldId": "social",
-      "id": "lts_social_pressure",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Social pressure"
-    },
-    {
-      "definition": "A mark of disgrace that a group attaches to a status, so that the status itself becomes hard to show.",
-      "dictionaryId": "lex.sa.social.lts_stigma",
-      "example": "In some offices there is a stigma against a long single life, and in others there is none.",
-      "fieldId": "social",
-      "id": "lts_stigma",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Stigma"
-    },
-    {
-      "definition": "A settled sense that a situation is acceptable, without the need for it to be improved first.",
-      "dictionaryId": "lex.sa.social.lts_contentment",
-      "example": "Her contentment with the arrangement was visible in the way she answered people.",
-      "fieldId": "social",
-      "id": "lts_contentment",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Contentment"
-    },
-    {
-      "definition": "Describing a person who has a romantic relationship, whether or not they live with the other person.",
-      "dictionaryId": "lex.sa.social.lts_partnered",
-      "example": "She is partnered, and her partner works in another city.",
-      "fieldId": "social",
-      "id": "lts_partnered",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Partnered"
-    },
-    {
-      "definition": "To live with a partner in the same home without being married to that person.",
-      "dictionaryId": "lex.sa.social.lts_cohabit",
-      "example": "They have cohabited for three years and still keep two homes.",
-      "fieldId": "social",
-      "id": "lts_cohabit",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Cohabit"
-    },
-    {
-      "definition": "Describing a person whose marriage has ended legally.",
-      "dictionaryId": "lex.sa.social.lts_divorced",
-      "example": "He is divorced, and the children spend the week with him.",
-      "fieldId": "social",
-      "id": "lts_divorced",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Divorced"
-    },
-    {
-      "definition": "Describing a person whose spouse has died.",
-      "dictionaryId": "lex.sa.social.lts_widowed",
-      "example": "She is widowed, and she still keeps the shared photographs on the wall.",
-      "fieldId": "social",
-      "id": "lts_widowed",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Widowed"
-    },
-    {
-      "definition": "Describing an ending in which the two people settle the practical matters and stay on speaking terms.",
-      "dictionaryId": "lex.sa.social.lts_amicable",
-      "example": "The separation was amicable, so the flat was sold without a lawyer's fight.",
-      "fieldId": "social",
-      "id": "lts_amicable",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Amicable"
-    },
-    {
-      "definition": "Being single because that is the arrangement the person has chosen.",
-      "dictionaryId": "lex.sa.social.lts_voluntary_singleness",
-      "example": "He calls it voluntary singleness, and he means it as a decision rather than a consolation.",
-      "fieldId": "social",
-      "id": "lts_voluntary_singleness",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Voluntary singleness"
-    },
-    {
-      "definition": "Being single because the wish for a partner has not been met, rather than by choice.",
-      "dictionaryId": "lex.sa.social.lts_involuntary_singleness",
-      "example": "She calls it involuntary singleness, and she has stopped apologising for it.",
-      "fieldId": "social",
-      "id": "lts_involuntary_singleness",
-      "lessonIds": [
-        "article_long_term_singleness"
-      ],
-      "packs": [
-        "knw.social.long_term_singleness"
-      ],
-      "term": "Involuntary singleness"
     }
   ],
   "nextCursor": "40",

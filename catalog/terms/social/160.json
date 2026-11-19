@@ -1,75 +1,60 @@
 {
   "items": [
     {
-      "definition": "What you give up in order to get something else you want more.",
-      "dictionaryId": "lex.sa.social.msa_trade_off",
-      "example": "The trade-off was time: more choice now, or a settled life sooner.",
+      "definition": "A question built on what the other person just said, which shows you were listening.",
+      "dictionaryId": "lex.sa.social.follow_up_question",
+      "example": "You said you moved last year — what was it like at first?",
       "fieldId": "social",
-      "id": "msa_trade_off",
+      "id": "follow_up_question",
       "lessonIds": [
-        "article_mate_selection_age"
+        "article_small_talk"
       ],
       "packs": [
-        "knw.social.mate_selection_age"
+        "knw.social.smalltalk"
       ],
-      "term": "trade-off"
+      "term": "Follow-up question"
     },
     {
-      "definition": "The period of getting to know somebody before a decision is made.",
-      "dictionaryId": "lex.sa.social.msa_courtship",
-      "example": "The courtship lasted a year, and most of it was conversation.",
+      "definition": "A short sound or remark that shows you are following without taking the turn, such as 'mm' or 'really'.",
+      "dictionaryId": "lex.sa.social.back_channel",
+      "example": "You say 'really?' and then let them keep going.",
       "fieldId": "social",
-      "id": "msa_courtship",
+      "id": "back_channel",
       "lessonIds": [
-        "article_mate_selection_age"
+        "article_small_talk"
       ],
       "packs": [
-        "knw.social.mate_selection_age"
+        "knw.social.smalltalk"
       ],
-      "term": "courtship"
+      "term": "Back-channel"
     },
     {
-      "definition": "How well two people fit together in ordinary daily life.",
-      "dictionaryId": "lex.sa.social.msa_compatibility",
-      "example": "Compatibility showed up in the small things: the pace, the money, the quiet.",
+      "definition": "A prepared sentence that ends a conversation politely while leaving the door open for another meeting.",
+      "dictionaryId": "lex.sa.social.exit_line",
+      "example": "It was really nice meeting you — see you around.",
       "fieldId": "social",
-      "id": "msa_compatibility",
+      "id": "exit_line",
       "lessonIds": [
-        "article_mate_selection_age"
+        "article_small_talk"
       ],
       "packs": [
-        "knw.social.mate_selection_age"
+        "knw.social.smalltalk"
       ],
-      "term": "compatibility"
+      "term": "Exit line"
     },
     {
-      "definition": "The people who are actually available to you to choose from at a given time.",
-      "dictionaryId": "lex.sa.social.msa_choice_set",
-      "example": "Your choice set is the people you actually meet, not everybody you like the idea of.",
+      "definition": "A comfortable relationship between people, built when each can predict how the other will behave.",
+      "dictionaryId": "lex.sa.social.rapport",
+      "example": "We had no topic in common, but we talked for twenty minutes and had instant rapport.",
       "fieldId": "social",
-      "id": "msa_choice_set",
+      "id": "rapport",
       "lessonIds": [
-        "article_mate_selection_age"
+        "article_small_talk"
       ],
       "packs": [
-        "knw.social.mate_selection_age"
+        "knw.social.smalltalk"
       ],
-      "term": "choice set"
-    },
-    {
-      "conflict": true,
-      "definition": "The state of being ready for a relationship, in time, money and emotional terms.",
-      "dictionaryId": "lex.sa.social.msa_readiness",
-      "example": "Readiness was not there yet, and she said so plainly.",
-      "fieldId": "social",
-      "id": "msa_readiness",
-      "lessonIds": [
-        "article_mate_selection_age"
-      ],
-      "packs": [
-        "knw.social.mate_selection_age"
-      ],
-      "term": "readiness"
+      "term": "Rapport"
     }
   ],
   "nextCursor": null,

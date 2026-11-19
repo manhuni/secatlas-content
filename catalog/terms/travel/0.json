@@ -1,104 +1,6 @@
 {
   "items": [
     {
-      "definition": "The moment you take the room, normally from 14:00 or 15:00. Before it, the hotel usually stores your luggage free of charge.",
-      "dictionaryId": "lex.sa.travel.check_in",
-      "example": "Check-in is from 14:00, but I can leave my bags with you in the morning.",
-      "fieldId": "travel",
-      "id": "check_in",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Check-in"
-    },
-    {
-      "definition": "The card or fob that opens your door. In many hotels it also works as your room number, your lift pass and your breakfast voucher.",
-      "dictionaryId": "lex.sa.travel.room_key",
-      "example": "Could I have a second key card for my colleague?",
-      "fieldId": "travel",
-      "id": "room_key",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Room key"
-    },
-    {
-      "definition": "A sum held on your card, or taken in cash, to cover extras and damage. It is released after you leave.",
-      "dictionaryId": "lex.sa.travel.deposit",
-      "example": "We hold a deposit of 200 on your card for the minibar and the safe.",
-      "fieldId": "travel",
-      "id": "deposit",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Deposit"
-    },
-    {
-      "definition": "Giving the room back and paying the final bill, usually between 10:00 and 12:00. Late check-out can often be arranged.",
-      "dictionaryId": "lex.sa.travel.checkout",
-      "example": "Can I check out at 14:00 instead of 11:00? My flight is at 17:00.",
-      "fieldId": "travel",
-      "id": "checkout",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Check-out"
-    },
-    {
-      "definition": "Free storage of bags before check-in or after check-out, which lets you use the city without carrying a suitcase.",
-      "dictionaryId": "lex.sa.travel.luggage_storage",
-      "example": "Could you store my luggage until my flight in the evening?",
-      "fieldId": "travel",
-      "id": "luggage_storage",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Luggage storage"
-    },
-    {
-      "definition": "The team that cleans the rooms, changes the linen and takes away used towels.",
-      "dictionaryId": "lex.sa.travel.housekeeping",
-      "example": "Could housekeeping bring two more towels, please?",
-      "fieldId": "travel",
-      "id": "housekeeping",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Housekeeping"
-    },
-    {
-      "definition": "The staff member who arranges tickets, tours, taxis, doctors and anything else the hotel does not sell itself.",
-      "dictionaryId": "lex.sa.travel.concierge",
-      "example": "The concierge booked a table at a restaurant that was fully booked.",
-      "fieldId": "travel",
-      "id": "concierge",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Concierge"
-    },
-    {
       "definition": "The card or phone screen that lets you board the aircraft. It carries your name, the flight, the gate, the seat and the boarding time.",
       "dictionaryId": "lex.sa.travel.boarding_pass",
       "example": "Show your boarding pass at the gate and find your seat.",
@@ -225,6 +127,104 @@
       "term": "Customs"
     },
     {
+      "definition": "The moment you take the room, normally from 14:00 or 15:00. Before it, the hotel usually stores your luggage free of charge.",
+      "dictionaryId": "lex.sa.travel.check_in",
+      "example": "Check-in is from 14:00, but I can leave my bags with you in the morning.",
+      "fieldId": "travel",
+      "id": "check_in",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Check-in"
+    },
+    {
+      "definition": "The card or fob that opens your door. In many hotels it also works as your room number, your lift pass and your breakfast voucher.",
+      "dictionaryId": "lex.sa.travel.room_key",
+      "example": "Could I have a second key card for my colleague?",
+      "fieldId": "travel",
+      "id": "room_key",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Room key"
+    },
+    {
+      "definition": "A sum held on your card, or taken in cash, to cover extras and damage. It is released after you leave.",
+      "dictionaryId": "lex.sa.travel.deposit",
+      "example": "We hold a deposit of 200 on your card for the minibar and the safe.",
+      "fieldId": "travel",
+      "id": "deposit",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Deposit"
+    },
+    {
+      "definition": "Giving the room back and paying the final bill, usually between 10:00 and 12:00. Late check-out can often be arranged.",
+      "dictionaryId": "lex.sa.travel.checkout",
+      "example": "Can I check out at 14:00 instead of 11:00? My flight is at 17:00.",
+      "fieldId": "travel",
+      "id": "checkout",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Check-out"
+    },
+    {
+      "definition": "Free storage of bags before check-in or after check-out, which lets you use the city without carrying a suitcase.",
+      "dictionaryId": "lex.sa.travel.luggage_storage",
+      "example": "Could you store my luggage until my flight in the evening?",
+      "fieldId": "travel",
+      "id": "luggage_storage",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Luggage storage"
+    },
+    {
+      "definition": "The team that cleans the rooms, changes the linen and takes away used towels.",
+      "dictionaryId": "lex.sa.travel.housekeeping",
+      "example": "Could housekeeping bring two more towels, please?",
+      "fieldId": "travel",
+      "id": "housekeeping",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Housekeeping"
+    },
+    {
+      "definition": "The staff member who arranges tickets, tours, taxis, doctors and anything else the hotel does not sell itself.",
+      "dictionaryId": "lex.sa.travel.concierge",
+      "example": "The concierge booked a table at a restaurant that was fully booked.",
+      "fieldId": "travel",
+      "id": "concierge",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Concierge"
+    },
+    {
       "definition": "The list of dishes a kitchen offers, with prices and short descriptions.",
       "dictionaryId": "lex.sa.travel.menu",
       "example": "Could we see the menu, please?",
@@ -293,23 +293,6 @@
         "knw.travel.ordering"
       ],
       "term": "Dessert"
-    },
-    {
-      "conflict": true,
-      "definition": "A medical reaction to a food, which can be dangerous. It must be told to the staff as an allergy, not as a dislike.",
-      "dictionaryId": "lex.sa.travel.allergy",
-      "example": "I have a shellfish allergy. Is this dish safe for me?",
-      "fieldId": "travel",
-      "id": "allergy",
-      "lessonIds": [
-        "article_asking_for_food",
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.kids.daily.food",
-        "knw.travel.ordering"
-      ],
-      "term": "Allergy"
     },
     {
       "definition": "A rule you follow about what you eat, often religious or ethical, such as halal, kosher, vegetarian or vegan.",

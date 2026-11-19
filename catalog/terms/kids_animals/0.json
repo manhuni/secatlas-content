@@ -1,6 +1,131 @@
 {
   "items": [
     {
+      "conflict": true,
+      "definition": "The little home a bird builds out of twigs and grass. It is warm and it holds the eggs.",
+      "dictionaryId": "lex.sa.kids_stories.nest",
+      "example": "Wren's nest was in the apple tree.",
+      "fieldId": "kids_animals",
+      "id": "nest",
+      "lessonIds": [
+        "article_kids_animals_nests",
+        "article_little_bird_fly"
+      ],
+      "packs": [
+        "knw.kids.animals.nests",
+        "knw.kids.stories.bird"
+      ],
+      "term": "Nest"
+    },
+    {
+      "definition": "All the eggs that one bird lays in one nest, counted together.",
+      "dictionaryId": "lex.sa.kids_animals.clutch",
+      "example": "The blackbird's clutch has five eggs in it.",
+      "fieldId": "kids_animals",
+      "id": "clutch",
+      "lessonIds": [
+        "article_kids_animals_nests"
+      ],
+      "packs": [
+        "knw.kids.animals.nests"
+      ],
+      "term": "Clutch"
+    },
+    {
+      "definition": "To keep eggs warm so that the chicks inside can grow. The parent bird does it by sitting on them.",
+      "dictionaryId": "lex.sa.kids_animals.incubate",
+      "example": "The mother bird is incubating her eggs.",
+      "fieldId": "kids_animals",
+      "id": "incubate",
+      "lessonIds": [
+        "article_kids_animals_nests"
+      ],
+      "packs": [
+        "knw.kids.animals.nests"
+      ],
+      "term": "Incubate"
+    },
+    {
+      "definition": "To come out of an egg. A chick hatches by pushing the shell from the inside.",
+      "dictionaryId": "lex.sa.kids_animals.hatch",
+      "example": "One chick hatched this morning, and it is still wet.",
+      "fieldId": "kids_animals",
+      "id": "hatch",
+      "lessonIds": [
+        "article_kids_animals_nests"
+      ],
+      "packs": [
+        "knw.kids.animals.nests"
+      ],
+      "term": "Hatch"
+    },
+    {
+      "definition": "An open grassland with trees scattered here and there, between a forest and a desert.",
+      "dictionaryId": "lex.sa.kids_animals.savanna",
+      "example": "The savanna is a wide field of grass with a few acacia trees.",
+      "fieldId": "kids_animals",
+      "id": "savanna",
+      "lessonIds": [
+        "article_kids_animals_savanna"
+      ],
+      "packs": [
+        "knw.kids.animals.savanna"
+      ],
+      "term": "Savanna"
+    },
+    {
+      "conflict": true,
+      "definition": "An animal that eats plants, such as a zebra, a giraffe or an elephant.",
+      "dictionaryId": "lex.sa.kids_animals.herbivore",
+      "example": "The elephant is a herbivore, so it eats grass and leaves.",
+      "fieldId": "kids_animals",
+      "id": "herbivore",
+      "lessonIds": [
+        "article_dinosaur_land",
+        "article_kids_animals_savanna",
+        "article_what_animals_eat"
+      ],
+      "packs": [
+        "knw.kids.adventure.dinos",
+        "knw.kids.animals.eat",
+        "knw.kids.animals.savanna"
+      ],
+      "term": "Herbivore"
+    },
+    {
+      "conflict": true,
+      "definition": "An animal that eats other animals. Carnivores are often the strong, heavy ones.",
+      "dictionaryId": "lex.sa.kids_adventure.carnivore",
+      "example": "The heavy animal with the thick tail was a carnivore.",
+      "fieldId": "kids_animals",
+      "id": "carnivore",
+      "lessonIds": [
+        "article_dinosaur_land",
+        "article_kids_animals_savanna",
+        "article_what_animals_eat"
+      ],
+      "packs": [
+        "knw.kids.adventure.dinos",
+        "knw.kids.animals.eat",
+        "knw.kids.animals.savanna"
+      ],
+      "term": "Carnivore"
+    },
+    {
+      "definition": "A long journey that animals make every year to follow the rain and the new grass.",
+      "dictionaryId": "lex.sa.kids_animals.migration",
+      "example": "The wildebeest migration crosses the whole savanna.",
+      "fieldId": "kids_animals",
+      "id": "migration",
+      "lessonIds": [
+        "article_kids_animals_savanna"
+      ],
+      "packs": [
+        "knw.kids.animals.savanna"
+      ],
+      "term": "Migration"
+    },
+    {
       "definition": "The whole journey of an animal, from the egg all the way back to eggs again.",
       "dictionaryId": "lex.sa.kids_animals.life_cycle",
       "example": "A butterfly's life cycle has four stages.",
@@ -227,65 +352,6 @@
       "term": "Abdomen"
     },
     {
-      "conflict": true,
-      "definition": "The little home a bird builds out of twigs and grass. It is warm and it holds the eggs.",
-      "dictionaryId": "lex.sa.kids_stories.nest",
-      "example": "Wren's nest was in the apple tree.",
-      "fieldId": "kids_animals",
-      "id": "nest",
-      "lessonIds": [
-        "article_kids_animals_nests",
-        "article_little_bird_fly"
-      ],
-      "packs": [
-        "knw.kids.animals.nests",
-        "knw.kids.stories.bird"
-      ],
-      "term": "Nest"
-    },
-    {
-      "definition": "All the eggs that one bird lays in one nest, counted together.",
-      "dictionaryId": "lex.sa.kids_animals.clutch",
-      "example": "The blackbird's clutch has five eggs in it.",
-      "fieldId": "kids_animals",
-      "id": "clutch",
-      "lessonIds": [
-        "article_kids_animals_nests"
-      ],
-      "packs": [
-        "knw.kids.animals.nests"
-      ],
-      "term": "Clutch"
-    },
-    {
-      "definition": "To keep eggs warm so that the chicks inside can grow. The parent bird does it by sitting on them.",
-      "dictionaryId": "lex.sa.kids_animals.incubate",
-      "example": "The mother bird is incubating her eggs.",
-      "fieldId": "kids_animals",
-      "id": "incubate",
-      "lessonIds": [
-        "article_kids_animals_nests"
-      ],
-      "packs": [
-        "knw.kids.animals.nests"
-      ],
-      "term": "Incubate"
-    },
-    {
-      "definition": "To come out of an egg. A chick hatches by pushing the shell from the inside.",
-      "dictionaryId": "lex.sa.kids_animals.hatch",
-      "example": "One chick hatched this morning, and it is still wet.",
-      "fieldId": "kids_animals",
-      "id": "hatch",
-      "lessonIds": [
-        "article_kids_animals_nests"
-      ],
-      "packs": [
-        "knw.kids.animals.nests"
-      ],
-      "term": "Hatch"
-    },
-    {
       "definition": "The one great body of salt water that covers most of the Earth.",
       "dictionaryId": "lex.sa.kids_animals.ocean",
       "example": "The ocean is one big connected sea, not many small ones.",
@@ -298,23 +364,6 @@
         "knw.kids.animals.ocean"
       ],
       "term": "Ocean"
-    },
-    {
-      "conflict": true,
-      "definition": "The place where an animal lives, with the food, water and shelter it needs there.",
-      "dictionaryId": "lex.sa.kids_animals.habitat",
-      "example": "The reef is the habitat of the clownfish and the small fish.",
-      "fieldId": "kids_animals",
-      "id": "habitat",
-      "lessonIds": [
-        "article_favourite_animals",
-        "article_kids_animals_ocean"
-      ],
-      "packs": [
-        "knw.kids.animals.ocean",
-        "knw.kids.daily.animals"
-      ],
-      "term": "Habitat"
     },
     {
       "definition": "A structure built by coral animals out of limestone, full of holes where small fish hide.",
@@ -373,6 +422,23 @@
       "term": "Veterinary doctor (vet)"
     },
     {
+      "conflict": true,
+      "definition": "The band that goes around a dog's neck. It can hold a small tag with the dog's name.",
+      "dictionaryId": "lex.sa.kids_stories.collar",
+      "example": "Mum put Pip's name on his new collar.",
+      "fieldId": "kids_animals",
+      "id": "collar",
+      "lessonIds": [
+        "article_lost_puppy",
+        "article_pets"
+      ],
+      "packs": [
+        "knw.kids.animals.pets",
+        "knw.kids.stories.puppy"
+      ],
+      "term": "Collar"
+    },
+    {
       "definition": "A strap you hold when you walk a dog, so the dog stays safe near traffic.",
       "dictionaryId": "lex.sa.kids_animals.leash",
       "example": "I hold the leash tightly at the crossing.",
@@ -399,34 +465,6 @@
         "knw.kids.animals.pets"
       ],
       "term": "Grooming"
-    },
-    {
-      "definition": "An open grassland with trees scattered here and there, between a forest and a desert.",
-      "dictionaryId": "lex.sa.kids_animals.savanna",
-      "example": "The savanna is a wide field of grass with a few acacia trees.",
-      "fieldId": "kids_animals",
-      "id": "savanna",
-      "lessonIds": [
-        "article_kids_animals_savanna"
-      ],
-      "packs": [
-        "knw.kids.animals.savanna"
-      ],
-      "term": "Savanna"
-    },
-    {
-      "definition": "A long journey that animals make every year to follow the rain and the new grass.",
-      "dictionaryId": "lex.sa.kids_animals.migration",
-      "example": "The wildebeest migration crosses the whole savanna.",
-      "fieldId": "kids_animals",
-      "id": "migration",
-      "lessonIds": [
-        "article_kids_animals_savanna"
-      ],
-      "packs": [
-        "knw.kids.animals.savanna"
-      ],
-      "term": "Migration"
     }
   ],
   "nextCursor": null,

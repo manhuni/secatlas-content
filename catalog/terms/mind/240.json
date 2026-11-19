@@ -1,340 +1,383 @@
 {
   "items": [
     {
-      "definition": "The performance of multi-step procedures by software without human operation of each step.",
-      "dictionaryId": "lex.sa.mind.task_automation",
-      "example": "",
+      "definition": "A body of ideas about how conflict works, built from the study of past campaigns rather than from rules of fighting.",
+      "dictionaryId": "lex.sa.mind.war_theory",
+      "example": "The book is called a theory of war because it explains how conflict works, not how to fight.",
       "fieldId": "mind",
-      "id": "task_automation",
+      "id": "war_theory",
       "lessonIds": [
-        "article_app_future"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.app_future"
+        "knw.mind.war_theory"
       ],
-      "term": "Task automation"
+      "term": "Theory of war"
     },
     {
-      "definition": "Application programming interface: a structured way for software to use another service, made for machines rather than humans.",
-      "dictionaryId": "lex.sa.mind.api",
-      "example": "",
+      "definition": "The Prussian officer (1780-1831) who wrote On War, the book that gave the field its central sentence.",
+      "dictionaryId": "lex.sa.mind.war_clausewitz",
+      "example": "Clausewitz wrote that war is the continuation of politics by other means.",
       "fieldId": "mind",
-      "id": "api",
+      "id": "war_clausewitz",
       "lessonIds": [
-        "article_app_future"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.app_future"
+        "knw.mind.war_theory"
       ],
-      "term": "API"
+      "term": "Carl von Clausewitz"
     },
     {
-      "definition": "Computing woven into the environment so that it acts in the background without demanding attention.",
-      "dictionaryId": "lex.sa.mind.ambient_computing",
-      "example": "",
+      "definition": "The business of running a state and its relations with other states; in the theory of war, the purpose that fighting is meant to serve.",
+      "dictionaryId": "lex.sa.mind.war_politics",
+      "example": "The war had a political purpose, so the settlement had to satisfy the politics.",
       "fieldId": "mind",
-      "id": "ambient_computing",
+      "id": "war_politics",
       "lessonIds": [
-        "article_app_future"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.app_future"
+        "knw.mind.war_theory"
       ],
-      "term": "Ambient computing"
+      "term": "Politics"
     },
     {
-      "definition": "Professional or learning activity performed in a distraction-free state that pushes cognitive ability to its limit.",
-      "dictionaryId": "lex.sa.mind.deep_work",
-      "example": "",
+      "definition": "The way a conflict is linked to its political purpose: what is wanted, with what means, over what time.",
+      "dictionaryId": "lex.sa.mind.war_strategy",
+      "example": "The strategy of the campaign was to hold the coast and wait.",
       "fieldId": "mind",
-      "id": "deep_work",
+      "id": "war_strategy",
       "lessonIds": [
-        "article_attention_death"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.mind.war_theory"
       ],
-      "term": "Deep work"
+      "term": "Strategy"
     },
     {
-      "definition": "The cycle in which unpredictable rewards (likes, new content) train the brain to seek the next stimulus repeatedly.",
-      "dictionaryId": "lex.sa.mind.dopamine_loop",
-      "example": "",
+      "definition": "The level between strategy and tactics: the way a whole campaign is carried out, across a front, week by week.",
+      "dictionaryId": "lex.sa.mind.war_operations",
+      "example": "The operations ran out of fuel before the plan reached its objective.",
       "fieldId": "mind",
-      "id": "dopamine_loop",
+      "id": "war_operations",
       "lessonIds": [
-        "article_attention_death"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.mind.war_theory"
       ],
-      "term": "Dopamine loop"
+      "term": "Operations"
     },
     {
-      "definition": "The preference for rewards that arrive immediately over larger rewards that require waiting and effort.",
-      "dictionaryId": "lex.sa.mind.instant_gratification",
-      "example": "",
+      "definition": "The level of the local action: how a unit is used in one fight and how it is moved on the field.",
+      "dictionaryId": "lex.sa.mind.war_tactics",
+      "example": "The report describes tactics when it explains how the advance was carried out.",
       "fieldId": "mind",
-      "id": "instant_gratification",
+      "id": "war_tactics",
       "lessonIds": [
-        "article_attention_death"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.mind.war_theory"
       ],
-      "term": "Instant gratification"
+      "term": "Tactics"
     },
     {
-      "definition": "The ability to stay with a difficult task through the uncomfortable period before progress appears.",
-      "dictionaryId": "lex.sa.mind.frustration_tolerance",
-      "example": "",
+      "definition": "A series of connected actions with one objective, from the first move to the decision that closes it.",
+      "dictionaryId": "lex.sa.mind.war_campaign",
+      "example": "The campaign lasted six weeks and ended at the river.",
       "fieldId": "mind",
-      "id": "frustration_tolerance",
+      "id": "war_campaign",
       "lessonIds": [
-        "article_attention_death"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.mind.war_theory"
       ],
-      "term": "Frustration tolerance"
+      "term": "Campaign"
     },
     {
-      "definition": "The compulsive online searching of symptoms, driven by anxiety, which increases the anxiety it was meant to relieve.",
-      "dictionaryId": "lex.sa.mind.cyberchondria",
-      "example": "",
+      "definition": "Strategy at the level of a whole state: how a country uses its power over years to reach a political aim.",
+      "dictionaryId": "lex.sa.mind.war_grand_strategy",
+      "example": "Containment was the grand strategy, and deterrence was one of its tools.",
       "fieldId": "mind",
-      "id": "cyberchondria",
+      "id": "war_grand_strategy",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.mind.war_theory"
       ],
-      "term": "Cyberchondria"
+      "term": "Grand strategy"
     },
     {
-      "definition": "Persistent worry about having or developing a serious illness, maintained by checking and reassurance-seeking.",
-      "dictionaryId": "lex.sa.mind.health_anxiety",
-      "example": "",
+      "definition": "The result a plan aims at, written so that it can be judged done or not done.",
+      "dictionaryId": "lex.sa.mind.war_objective",
+      "example": "The brief states the objective in one line: the river crossing.",
       "fieldId": "mind",
-      "id": "health_anxiety",
+      "id": "war_objective",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.mind.war_theory"
       ],
-      "term": "Health anxiety"
+      "term": "Objective"
     },
     {
-      "definition": "The worsening of symptoms or the appearance of side effects because a person expects them.",
-      "dictionaryId": "lex.sa.mind.nocebo_effect",
-      "example": "",
+      "definition": "The directions from which an attack may come, and the ground they must cross.",
+      "dictionaryId": "lex.sa.mind.war_lines_of_approach",
+      "example": "The lines of approach were limited by the marsh.",
       "fieldId": "mind",
-      "id": "nocebo_effect",
+      "id": "war_lines_of_approach",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.mind.war_theory"
       ],
-      "term": "Nocebo effect"
+      "term": "Lines of approach"
     },
     {
-      "definition": "Concluding what illness one has without a medical examination, usually from online information.",
-      "dictionaryId": "lex.sa.mind.self_diagnosis",
-      "example": "",
+      "definition": "The place or the moment where the outcome of the whole action is settled; the effort is concentrated there.",
+      "dictionaryId": "lex.sa.mind.war_decisive_point",
+      "example": "The decisive point was the bridge, and the plan said so.",
       "fieldId": "mind",
-      "id": "self_diagnosis",
+      "id": "war_decisive_point",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.mind.war_theory"
       ],
-      "term": "Self-diagnosis"
+      "term": "Decisive point"
     },
     {
-      "definition": "A medical source written or reviewed by qualified professionals, updated, and not selling the fear it describes.",
-      "dictionaryId": "lex.sa.mind.reliable_source",
-      "example": "",
+      "definition": "Means held back from the first effort and kept for the moment the situation turns.",
+      "dictionaryId": "lex.sa.mind.war_reserves",
+      "example": "The plan kept one reserve for the second week.",
       "fieldId": "mind",
-      "id": "reliable_source",
+      "id": "war_reserves",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.mind.war_theory"
       ],
-      "term": "Reliable source"
+      "term": "Reserves"
     },
     {
-      "definition": "The actual frequency of a condition in the population, which is usually far lower than search results suggest.",
-      "dictionaryId": "lex.sa.mind.base_rate",
-      "example": "",
+      "definition": "The routes along which orders, reports and supplies travel to the fighting units.",
+      "dictionaryId": "lex.sa.mind.war_lines_of_communication",
+      "example": "The lines of communication were cut by the flood.",
       "fieldId": "mind",
-      "id": "base_rate",
+      "id": "war_lines_of_communication",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.mind.war_theory"
       ],
-      "term": "Base rate"
+      "term": "Lines of communication"
     },
     {
-      "definition": "The false feeling of understanding a topic that comes from easy access to answers rather than from real comprehension.",
-      "dictionaryId": "lex.sa.mind.illusion_of_knowledge",
-      "example": "",
+      "conflict": true,
+      "definition": "The small resistance between wanting something and getting it, which slows consumption and quietly trains patience.",
+      "dictionaryId": "lex.sa.mind.friction",
+      "example": "Every plan met friction: the weather, the delay, the wrong order.",
       "fieldId": "mind",
-      "id": "illusion_of_knowledge",
+      "id": "war_friction",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.mind.war_theory"
       ],
-      "term": "Illusion of knowledge"
+      "term": "Friction"
     },
     {
-      "definition": "The pattern in which people with little skill in a domain overestimate their ability, because the skill needed to judge answers is the same skill needed to give them.",
-      "dictionaryId": "lex.sa.mind.dunning_kruger_effect",
-      "example": "",
+      "definition": "The state of not knowing: incomplete reports, false information and the general uncertainty of events.",
+      "dictionaryId": "lex.sa.mind.war_fog_of_war",
+      "example": "In the fog of war the commander acted on a report three days old.",
       "fieldId": "mind",
-      "id": "dunning_kruger_effect",
+      "id": "war_fog_of_war",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.mind.war_theory"
       ],
-      "term": "Dunning–Kruger effect"
+      "term": "Fog of war"
     },
     {
-      "definition": "The tendency to seek out, remember and trust information that supports existing beliefs while discounting the rest.",
-      "dictionaryId": "lex.sa.mind.confirmation_bias",
-      "example": "",
+      "definition": "Taking a matter to a more senior person because it has not moved. Use it only when it is genuinely warranted.",
+      "dictionaryId": "lex.sa.work.escalation",
+      "example": "If we do not hear back by Friday, we will need to escalate this.",
       "fieldId": "mind",
-      "id": "confirmation_bias",
+      "id": "war_escalation",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.mind.war_theory"
       ],
-      "term": "Confirmation bias"
+      "term": "Escalation"
     },
     {
-      "definition": "The tendency to forget information that is easy to find online, while remembering how to find it.",
-      "dictionaryId": "lex.sa.mind.google_effect",
-      "example": "",
+      "definition": "The ladder of steps a conflict can climb, from a limited incident up to a general war.",
+      "dictionaryId": "lex.sa.mind.war_escalation_ladder",
+      "example": "Analysts place the crisis three rungs up the escalation ladder.",
       "fieldId": "mind",
-      "id": "google_effect",
+      "id": "war_escalation_ladder",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.mind.war_theory"
       ],
-      "term": "Google effect"
+      "term": "Escalation ladder"
     },
     {
-      "definition": "The habit of holding your own beliefs with the right amount of confidence: strong when the evidence is strong, weak when it is weak.",
-      "dictionaryId": "lex.sa.mind.intellectual_humility",
-      "example": "",
+      "definition": "The effort to prevent an opponent's action by making the cost of it too high.",
+      "dictionaryId": "lex.sa.mind.war_deterrence",
+      "example": "Deterrence holds only if the opponent believes both the ability and the will.",
       "fieldId": "mind",
-      "id": "intellectual_humility",
+      "id": "war_deterrence",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.mind.war_theory"
       ],
-      "term": "Intellectual humility"
+      "term": "Deterrence"
     },
     {
-      "definition": "The skill of finding, judging and using information: telling a primary source from an opinion, and evidence from an anecdote.",
-      "dictionaryId": "lex.sa.mind.information_literacy",
-      "example": "",
+      "definition": "The case where the opponent acts anyway: the threat was not believed, or it was believed and the cost was accepted.",
+      "dictionaryId": "lex.sa.mind.war_deterrence_failure",
+      "example": "Deterrence failure means the action went ahead anyway.",
       "fieldId": "mind",
-      "id": "information_literacy",
+      "id": "war_deterrence_failure",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.mind.war_theory"
       ],
-      "term": "Information literacy"
+      "term": "Deterrence failure"
     },
     {
-      "definition": "The state in which incoming information exceeds the capacity to process it, so each new item reduces the value of the ones before it.",
-      "dictionaryId": "lex.sa.mind.information_overload",
-      "example": "",
+      "definition": "A threat that is made without the means or the intention to carry it out.",
+      "dictionaryId": "lex.sa.mind.war_bluff",
+      "example": "A threat made without the means to carry it out is a bluff, and it costs nothing to make.",
       "fieldId": "mind",
-      "id": "information_overload",
+      "id": "war_bluff",
       "lessonIds": [
-        "article_info_overload"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.mind.war_theory"
       ],
-      "term": "Information overload"
+      "term": "Bluff"
     },
     {
-      "definition": "The total amount of mental effort being used by working memory at one time.",
-      "dictionaryId": "lex.sa.mind.cognitive_load",
-      "example": "",
+      "definition": "A conflict between opponents whose resources, organisation and methods differ greatly.",
+      "dictionaryId": "lex.sa.mind.war_asymmetric_conflict",
+      "example": "The article calls it an asymmetric conflict and says where the difference lies.",
       "fieldId": "mind",
-      "id": "cognitive_load",
+      "id": "war_asymmetric_conflict",
       "lessonIds": [
-        "article_info_overload"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.mind.war_theory"
       ],
-      "term": "Cognitive load"
+      "term": "Asymmetric conflict"
     },
     {
-      "definition": "The market in which businesses compete for people's limited attention and resell it to advertisers.",
-      "dictionaryId": "lex.sa.mind.attention_economy",
-      "example": "",
+      "definition": "The wearing down of the opponent by continued cost, rather than by one decisive stroke.",
+      "dictionaryId": "lex.sa.mind.war_attrition",
+      "example": "Attrition decided the campaign; no single battle did.",
       "fieldId": "mind",
-      "id": "attention_economy",
+      "id": "war_attrition",
       "lessonIds": [
-        "article_info_overload"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.mind.war_theory"
       ],
-      "term": "Attention economy"
+      "term": "Attrition"
     },
     {
-      "definition": "The proportion of useful information (signal) to everything else (noise) in a stream of content.",
-      "dictionaryId": "lex.sa.mind.signal_to_noise",
-      "example": "",
+      "definition": "The line where the two sides stand against each other, and the whole stretch of fighting behind it.",
+      "dictionaryId": "lex.sa.mind.war_front",
+      "example": "The front held for three months while both sides rebuilt.",
       "fieldId": "mind",
-      "id": "signal_to_noise",
+      "id": "war_front",
       "lessonIds": [
-        "article_info_overload"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.mind.war_theory"
       ],
-      "term": "Signal-to-noise ratio"
+      "term": "Front"
     },
     {
-      "definition": "Familiarity with the surface of many topics without understanding of how any of them works.",
-      "dictionaryId": "lex.sa.mind.shallow_knowledge",
-      "example": "",
+      "definition": "The side that attacks; in the phrase the offensive, the direction of the action.",
+      "dictionaryId": "lex.sa.mind.war_offensive",
+      "example": "The offensive stopped when the supplies ran out.",
       "fieldId": "mind",
-      "id": "shallow_knowledge",
+      "id": "war_offensive",
       "lessonIds": [
-        "article_info_overload"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.mind.war_theory"
       ],
-      "term": "Shallow knowledge"
+      "term": "Offensive"
+    },
+    {
+      "definition": "The side that receives the attack and holds ground; the opposite of the offensive.",
+      "dictionaryId": "lex.sa.mind.war_defensive",
+      "example": "A defensive plan is judged by the ground it gives up.",
+      "fieldId": "mind",
+      "id": "war_defensive",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Defensive"
+    },
+    {
+      "definition": "The work of moving and supplying the fighting: food, fuel, ammunition, vehicles and spares.",
+      "dictionaryId": "lex.sa.mind.war_logistics",
+      "example": "The report says the problem was logistics, not the fighting.",
+      "fieldId": "mind",
+      "id": "war_logistics",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Logistics"
+    },
+    {
+      "definition": "The spirit and the confidence of a force; the strength it holds when things go badly.",
+      "dictionaryId": "lex.sa.mind.war_morale",
+      "example": "Morale fell as the third convoy did not arrive.",
+      "fieldId": "mind",
+      "id": "war_morale",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Morale"
     }
   ],
   "nextCursor": null,

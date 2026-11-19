@@ -102,53 +102,53 @@
       "table": {
         "headers": [
           "Part",
-          "What it watches",
-          "What it does when it works",
-          "Typical rating",
-          "What it does not protect against"
+          "Điều nó theo dõi",
+          "Tác dụng khi áp dụng",
+          "Mức đánh giá tiêu biểu",
+          "Những điều nó không bảo vệ được"
         ],
         "rows": [
           [
-            "Protective earth conductor",
-            "It watches the connection between the live part and the metal parts of the installation.",
-            "It carries the fault current back to the board, so that the breaker opens.",
-            "No rating; it is a continuous conductor, and the local standard decides its size.",
-            "It does nothing at all if it has been cut, and it does not protect a person who is already in the water."
+            "Dây tiếp đất bảo vệ",
+            "Theo dõi mối liên hệ giữa phần mang điện và các bộ phận kim loại của hệ thống điện.",
+            "Nó đưa dòng sự cố trở về bảng điện, khiến bộ cắt mạch ngắt kết nối.",
+            "Không đánh giá; đây là vật dẫn liên tục và kích thước do tiêu chuẩn địa phương quy định.",
+            "Nó hoàn toàn không có tác dụng nếu đã bị cắt và không bảo vệ được người đã ở trong nước."
           ],
           [
-            "Residual-current device (RCD)",
-            "It watches the difference between the current that leaves the circuit and the current that returns.",
-            "It trips and cuts the power in a fraction of a second when the two currents differ.",
-            "Typically 30 mA for personal protection in most installations; the local standard decides.",
-            "It does not protect against an overload, where the current goes out and comes back the normal way."
+            "Rơ-le chống rò rỉ (RCD)",
+            "Nó theo dõi sự khác biệt giữa dòng điện đi ra khỏi mạch và dòng điện quay lại.",
+            "Nó làm gián đoạn và cắt nguồn điện trong chưa đầy một giây khi hai dòng điện chênh lệch.",
+            "Thông thường là 30 mA để bảo vệ cá nhân trong hầu hết các hệ thống điện; tiêu chuẩn địa phương sẽ quyết định.",
+            "Nó không bảo vệ trước tình trạng quá tải, khi dòng điện tắt rồi trở lại theo cách thông thường."
           ],
           [
-            "Circuit breaker",
-            "It watches the current in the circuit against the rating of the cable.",
-            "It opens the circuit when the current is too high, so that the cable cannot overheat.",
-            "A common rating for a socket circuit is 16 A, and a pump is often on a circuit of its own; the local standard decides.",
-            "It does not protect a person from a small leakage current; only the residual-current device does that."
+            "Cầu dao",
+            "Nó theo dõi dòng điện trong mạch so với dòng điện định mức của cáp.",
+            "Nó ngắt mạch điện khi dòng điện quá lớn, để cáp không bị quá nhiệt.",
+            "Mức đánh giá tiêu biểu cho một đường điện cắm ổ là 16 A, và bơm thường được dùng một đường điện riêng; tiêu chuẩn địa phương sẽ quyết định.",
+            "Nó không bảo vệ con người khỏi dòng rò rỉ nhỏ; chỉ thiết bị dòng rò mới có tác dụng đó."
           ],
           [
-            "Ingress protection rating of the pump",
-            "It watches the seal of the casing of the motor against water and solid objects.",
-            "It tells the reader that the casing is built to work under water, so the pump can stay submerged.",
-            "A submersible pump is often marked IP68; the maker states the depth and the time, and the local standard decides the installation.",
-            "It does not protect the cable, the plug or the socket, and it is no permission to run the pump dry."
+            "Cấp độ bảo vệ bằng IP của bơm",
+            "Nó theo dõi gioăng làm kín vỏ động cơ để chống nước và vật rắn xâm nhập.",
+            "Thông báo cho người đọc rằng vỏ máy bơm được thiết kế để hoạt động dưới nước, nhờ đó máy bơm có thể tiếp tục được ngập trong nước.",
+            "Bơm chìm thường được ghi IP68; nhà sản xuất nêu độ sâu và thời gian, còn tiêu chuẩn địa phương quyết định cách lắp đặt.",
+            "Nó không bảo vệ dây điện, phích cắm hay ổ cắm, và cũng không đồng nghĩa với việc được phép chạy máy bơm khi không có nước."
           ],
           [
-            "Float switch",
-            "It watches the water level in the tank or in the pit.",
-            "It starts the pump when the level rises and stops it when the level falls.",
-            "A switch on a float, set to the level of the tank; the maker and the local standard decide the setting.",
-            "It does not protect the cable or the person, and a switch set at the wrong level does not protect the motor."
+            "Công tắc phao nổi",
+            "Theo dõi mực nước trong bể hoặc trong hố.",
+            "Nó khởi động bơm khi mực nước dâng lên và dừng bơm khi mực nước hạ xuống.",
+            "Một công tắc đặt trên bóng nổi, được điều chỉnh theo mực chất lỏng trong bể; nhà sản xuất và tiêu chuẩn tại địa phương quyết định mức đặt.",
+            "Nó không bảo vệ dây cáp hay con người, và công tắc đặt ở mức sai sẽ không bảo vệ động cơ."
           ],
           [
-            "Dry-run protection",
-            "It watches whether there is water around the motor, by the current the motor draws or by the heat in the motor.",
-            "It stops the pump when the pump turns without water, so that the motor is not damaged.",
-            "Often built into the pump or added as a separate device; the maker and the local standard decide.",
-            "It does not protect the cable, the socket or the person, and it does not find a fault in the insulation."
+            "Bảo vệ chạy thử",
+            "Nó theo dõi xem quanh động cơ có nước hay không, dựa vào dòng điện động cơ tiêu thụ hoặc nhiệt độ của động cơ.",
+            "Nó dừng bơm khi bơm quay mà không có nước, để động cơ không bị hỏng.",
+            "Thường được tích hợp vào máy bơm hoặc lắp thêm như một thiết bị riêng; nhà sản xuất và tiêu chuẩn địa phương sẽ quyết định.",
+            "Nó không bảo vệ dây cáp, ổ cắm hay người sử dụng, cũng không phát hiện lỗi trong lớp cách điện."
           ]
         ]
       },

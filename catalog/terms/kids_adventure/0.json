@@ -148,6 +148,79 @@
       "term": "Seed"
     },
     {
+      "definition": "A machine that pushes itself up into the sky with fire and gas. It is how people reach space.",
+      "dictionaryId": "lex.sa.kids_adventure.rocket",
+      "example": "The rocket stood on the pad, white and tall.",
+      "fieldId": "kids_adventure",
+      "id": "rocket",
+      "lessonIds": [
+        "article_trip_to_the_moon"
+      ],
+      "packs": [
+        "knw.kids.adventure.moon"
+      ],
+      "term": "Rocket"
+    },
+    {
+      "definition": "The platform where the rocket stands and waits before it flies.",
+      "dictionaryId": "lex.sa.kids_adventure.launch_pad",
+      "example": "Everybody watched from the launch pad.",
+      "fieldId": "kids_adventure",
+      "id": "launch_pad",
+      "lessonIds": [
+        "article_trip_to_the_moon"
+      ],
+      "packs": [
+        "knw.kids.adventure.moon"
+      ],
+      "term": "Launch pad"
+    },
+    {
+      "definition": "A person trained to fly into space. Astronauts wear a spacesuit because there is no air out there.",
+      "dictionaryId": "lex.sa.kids_adventure.astronaut",
+      "example": "The astronaut opened the hatch and stepped out.",
+      "fieldId": "kids_adventure",
+      "id": "astronaut",
+      "lessonIds": [
+        "article_trip_to_the_moon"
+      ],
+      "packs": [
+        "knw.kids.adventure.moon"
+      ],
+      "term": "Astronaut"
+    },
+    {
+      "definition": "The feeling of floating, with nothing pulling you down. Everything drifts in the ship.",
+      "dictionaryId": "lex.sa.kids_adventure.weightlessness",
+      "example": "In weightlessness, even a pencil can float.",
+      "fieldId": "kids_adventure",
+      "id": "weightlessness",
+      "lessonIds": [
+        "article_trip_to_the_moon"
+      ],
+      "packs": [
+        "knw.kids.adventure.moon"
+      ],
+      "term": "Weightlessness"
+    },
+    {
+      "conflict": true,
+      "definition": "The path one space object follows as it goes around and around another one.",
+      "dictionaryId": "lex.sa.kids_science.orbit",
+      "example": "The Moon is in orbit around the Earth.",
+      "fieldId": "kids_adventure",
+      "id": "orbit",
+      "lessonIds": [
+        "article_sun_moon_stars",
+        "article_trip_to_the_moon"
+      ],
+      "packs": [
+        "knw.kids.adventure.moon",
+        "knw.kids.science.skybody"
+      ],
+      "term": "Orbit"
+    },
+    {
       "definition": "An animal that lived a very long time ago, long before people. Dinosaurs are gone now, but their bones turn to stone under the ground.",
       "dictionaryId": "lex.sa.kids_adventure.dinosaur",
       "example": "The long-necked dinosaur pulled leaves from the treetop.",
@@ -188,44 +261,6 @@
         "knw.kids.adventure.dinos"
       ],
       "term": "Footprint"
-    },
-    {
-      "conflict": true,
-      "definition": "An animal that eats plants, such as a zebra, a giraffe or an elephant.",
-      "dictionaryId": "lex.sa.kids_animals.herbivore",
-      "example": "The elephant is a herbivore, so it eats grass and leaves.",
-      "fieldId": "kids_adventure",
-      "id": "herbivore",
-      "lessonIds": [
-        "article_dinosaur_land",
-        "article_kids_animals_savanna",
-        "article_what_animals_eat"
-      ],
-      "packs": [
-        "knw.kids.adventure.dinos",
-        "knw.kids.animals.eat",
-        "knw.kids.animals.savanna"
-      ],
-      "term": "Herbivore"
-    },
-    {
-      "conflict": true,
-      "definition": "An animal that eats other animals. Carnivores are often the strong, heavy ones.",
-      "dictionaryId": "lex.sa.kids_adventure.carnivore",
-      "example": "The heavy animal with the thick tail was a carnivore.",
-      "fieldId": "kids_adventure",
-      "id": "carnivore",
-      "lessonIds": [
-        "article_dinosaur_land",
-        "article_kids_animals_savanna",
-        "article_what_animals_eat"
-      ],
-      "packs": [
-        "knw.kids.adventure.dinos",
-        "knw.kids.animals.eat",
-        "knw.kids.animals.savanna"
-      ],
-      "term": "Carnivore"
     },
     {
       "definition": "A green climbing plant that grows up walls and trees. It holds on tightly and hides what is behind it.",
@@ -352,79 +387,6 @@
         "knw.kids.adventure.explorer"
       ],
       "term": "Hill"
-    },
-    {
-      "definition": "A machine that pushes itself up into the sky with fire and gas. It is how people reach space.",
-      "dictionaryId": "lex.sa.kids_adventure.rocket",
-      "example": "The rocket stood on the pad, white and tall.",
-      "fieldId": "kids_adventure",
-      "id": "rocket",
-      "lessonIds": [
-        "article_trip_to_the_moon"
-      ],
-      "packs": [
-        "knw.kids.adventure.moon"
-      ],
-      "term": "Rocket"
-    },
-    {
-      "definition": "The platform where the rocket stands and waits before it flies.",
-      "dictionaryId": "lex.sa.kids_adventure.launch_pad",
-      "example": "Everybody watched from the launch pad.",
-      "fieldId": "kids_adventure",
-      "id": "launch_pad",
-      "lessonIds": [
-        "article_trip_to_the_moon"
-      ],
-      "packs": [
-        "knw.kids.adventure.moon"
-      ],
-      "term": "Launch pad"
-    },
-    {
-      "definition": "A person trained to fly into space. Astronauts wear a spacesuit because there is no air out there.",
-      "dictionaryId": "lex.sa.kids_adventure.astronaut",
-      "example": "The astronaut opened the hatch and stepped out.",
-      "fieldId": "kids_adventure",
-      "id": "astronaut",
-      "lessonIds": [
-        "article_trip_to_the_moon"
-      ],
-      "packs": [
-        "knw.kids.adventure.moon"
-      ],
-      "term": "Astronaut"
-    },
-    {
-      "definition": "The feeling of floating, with nothing pulling you down. Everything drifts in the ship.",
-      "dictionaryId": "lex.sa.kids_adventure.weightlessness",
-      "example": "In weightlessness, even a pencil can float.",
-      "fieldId": "kids_adventure",
-      "id": "weightlessness",
-      "lessonIds": [
-        "article_trip_to_the_moon"
-      ],
-      "packs": [
-        "knw.kids.adventure.moon"
-      ],
-      "term": "Weightlessness"
-    },
-    {
-      "conflict": true,
-      "definition": "The path one space object follows as it goes around and around another one.",
-      "dictionaryId": "lex.sa.kids_science.orbit",
-      "example": "The Moon is in orbit around the Earth.",
-      "fieldId": "kids_adventure",
-      "id": "orbit",
-      "lessonIds": [
-        "article_sun_moon_stars",
-        "article_trip_to_the_moon"
-      ],
-      "packs": [
-        "knw.kids.adventure.moon",
-        "knw.kids.science.skybody"
-      ],
-      "term": "Orbit"
     },
     {
       "definition": "A small sense organ on a robot. It tells the robot what is around it, or how it feels.",
