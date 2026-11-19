@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "icon": "chat",
-      "id": "kids_daily",
-      "name": "Daily Conversations for Kids",
-      "order": 27,
-      "summary": "The everyday exchanges of a child's day: hello, food, friends, school, weather and bedtime.",
-      "tagline": "Talking, for small readers"
-    },
-    {
-      "icon": "sentiment_satisfied",
-      "id": "kids_feelings",
-      "name": "Feelings & Social Skills",
-      "order": 24,
-      "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-      "tagline": "Being a person, for small readers"
-    },
-    {
-      "icon": "restaurant",
-      "id": "kids_food",
-      "name": "Food & Healthy Eating",
-      "order": 22,
-      "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
-      "tagline": "Eating, for small readers"
-    },
-    {
-      "icon": "home",
-      "id": "kids_home",
-      "name": "Everyday Objects & Home",
-      "order": 23,
-      "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
-      "tagline": "The things around you, for small readers"
-    },
-    {
-      "icon": "science",
-      "id": "kids_science",
-      "name": "Science & Discovery",
-      "order": 25,
-      "summary": "Questions small readers ask, answered honestly: the sky, the rain, the plants, the body, the planets.",
-      "tagline": "Why the world works, for small readers"
-    },
-    {
       "icon": "auto_stories",
       "id": "kids_stories",
       "name": "Stories & Bedtime Tales",
@@ -89,6 +49,14 @@
       "tagline": "Working with other people, in their language"
     },
     {
+      "icon": "science",
+      "id": "kids_science",
+      "name": "Science & Discovery",
+      "order": 25,
+      "summary": "Questions small readers ask, answered honestly: the sky, the rain, the plants, the body, the planets.",
+      "tagline": "Why the world works, for small readers"
+    },
+    {
       "icon": "functions",
       "id": "formal_sciences",
       "name": "Formal Sciences",
@@ -112,24 +80,6 @@
       "order": 28,
       "summary": "Information overload, the outsourced brain, the illusions of knowledge and skill, AI agents, and the question of who is still thinking.",
       "tagline": "How information, attention and artificial intelligence change the way people think"
-    },
-    {
-      "icon": "bolt_outlined",
-      "id": "physics",
-      "name": "Physics",
-      "order": 2,
-      "parentFieldId": "formal_sciences",
-      "summary": "Kinematics, energy, and electricity in English.",
-      "tagline": "Motion, force, circuits"
-    },
-    {
-      "icon": "science_outlined",
-      "id": "chemistry",
-      "name": "Chemistry",
-      "order": 3,
-      "parentFieldId": "formal_sciences",
-      "summary": "Formulas, equilibrium, and laboratory English.",
-      "tagline": "Reactions and quantities"
     },
     {
       "icon": "public",
@@ -170,6 +120,56 @@
       "order": 21,
       "summary": "The animals, the plants and the places they live, told simply and with wonder.",
       "tagline": "The living world, for small readers"
+    },
+    {
+      "icon": "chat",
+      "id": "kids_daily",
+      "name": "Daily Conversations for Kids",
+      "order": 27,
+      "summary": "The everyday exchanges of a child's day: hello, food, friends, school, weather and bedtime.",
+      "tagline": "Talking, for small readers"
+    },
+    {
+      "icon": "sentiment_satisfied",
+      "id": "kids_feelings",
+      "name": "Feelings & Social Skills",
+      "order": 24,
+      "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+      "tagline": "Being a person, for small readers"
+    },
+    {
+      "icon": "restaurant",
+      "id": "kids_food",
+      "name": "Food & Healthy Eating",
+      "order": 22,
+      "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
+      "tagline": "Eating, for small readers"
+    },
+    {
+      "icon": "home",
+      "id": "kids_home",
+      "name": "Everyday Objects & Home",
+      "order": 23,
+      "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
+      "tagline": "The things around you, for small readers"
+    },
+    {
+      "icon": "bolt_outlined",
+      "id": "physics",
+      "name": "Physics",
+      "order": 2,
+      "parentFieldId": "formal_sciences",
+      "summary": "Kinematics, energy, and electricity in English.",
+      "tagline": "Motion, force, circuits"
+    },
+    {
+      "icon": "science_outlined",
+      "id": "chemistry",
+      "name": "Chemistry",
+      "order": 3,
+      "parentFieldId": "formal_sciences",
+      "summary": "Formulas, equilibrium, and laboratory English.",
+      "tagline": "Reactions and quantities"
     }
   ],
   "nextCursor": null,

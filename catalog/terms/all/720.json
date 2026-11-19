@@ -1,570 +1,584 @@
 {
   "items": [
     {
-      "definition": "The smaller part of a currency, such as the cent of a dollar, that people rarely see.",
-      "dictionaryId": "lex.sa.money.mon_minor_unit",
-      "example": "The price is 12.50 dollars, but the money is made of dollars and cents.",
-      "fieldId": "money",
-      "id": "mon_minor_unit",
+      "definition": "The flat part that helps a bird to lift into the air. On this bicycle, the wings are only paper, but they still lift.",
+      "dictionaryId": "lex.sa.kids_adventure.wing",
+      "example": "The newspaper wings lifted when he rang the bell.",
+      "fieldId": "kids_adventure",
+      "id": "wing",
       "lessonIds": [
-        "article_world_currencies"
+        "article_flying_bicycle"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.kids.adventure.bicycle"
       ],
-      "term": "Minor unit"
+      "term": "Wing"
     },
     {
-      "definition": "The value printed on a note or a coin, such as 20 or 500.",
-      "dictionaryId": "lex.sa.money.mon_denomination",
-      "example": "The shop keeps one drawer for the smallest denomination and one for the notes.",
-      "fieldId": "money",
-      "id": "mon_denomination",
+      "definition": "The small metal thing on a bicycle that makes a sound when you press it. Nam's bell is old and a bit tired.",
+      "dictionaryId": "lex.sa.kids_adventure.bell",
+      "example": "He pressed the bell three times before the wings moved.",
+      "fieldId": "kids_adventure",
+      "id": "bell",
       "lessonIds": [
-        "article_world_currencies"
+        "article_flying_bicycle"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.kids.adventure.bicycle"
       ],
-      "term": "Denomination"
+      "term": "Bell"
     },
     {
-      "definition": "The price of one currency expressed in the money of another currency.",
-      "dictionaryId": "lex.sa.money.mon_exchange_rate",
-      "example": "Ask which day the exchange rate belongs to, because the number is only true for that day.",
-      "fieldId": "money",
-      "id": "mon_exchange_rate",
+      "definition": "The flat top of a building. In the old quarter, the rooftops are close enough to almost touch.",
+      "dictionaryId": "lex.sa.kids_adventure.rooftop",
+      "example": "They landed on the roof garden above the old house.",
+      "fieldId": "kids_adventure",
+      "id": "rooftop",
       "lessonIds": [
-        "article_world_currencies"
+        "article_flying_bicycle"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.kids.adventure.bicycle"
       ],
-      "term": "Exchange rate"
+      "term": "Rooftop"
     },
     {
-      "definition": "The currency of the pair that the rate counts from: one unit of it is the thing you exchange.",
-      "dictionaryId": "lex.sa.money.mon_base_currency",
-      "example": "In EUR/USD the euro is the base currency and the dollar is the quote currency.",
-      "fieldId": "money",
-      "id": "mon_base_currency",
+      "definition": "A big old building with thick walls, made to keep people safe. Castles usually have towers and gates.",
+      "dictionaryId": "lex.sa.kids_adventure.castle",
+      "example": "From her window, Hà could see the castle on the hill.",
+      "fieldId": "kids_adventure",
+      "id": "castle",
       "lessonIds": [
-        "article_world_currencies"
+        "article_magical_castle"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.kids.adventure.castle"
       ],
-      "term": "Base currency"
+      "term": "Castle"
     },
     {
-      "definition": "The currency of the pair that the rate is expressed in, so the rate says how many units of it you get.",
-      "dictionaryId": "lex.sa.money.mon_quote_currency",
-      "example": "The rate is given in the quote currency, so a pair written EUR/USD reads in dollars.",
-      "fieldId": "money",
-      "id": "mon_quote_currency",
+      "definition": "A tall round part of a castle. You can climb to the top of a tower and look out over everything.",
+      "dictionaryId": "lex.sa.kids_adventure.tower",
+      "example": "The castle had one round tower with a flag on top.",
+      "fieldId": "kids_adventure",
+      "id": "tower",
       "lessonIds": [
-        "article_world_currencies"
+        "article_magical_castle"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.kids.adventure.castle"
       ],
-      "term": "Quote currency"
+      "term": "Tower"
     },
     {
-      "definition": "An arrangement in which several states use one currency and a single authority issues it for all of them.",
-      "dictionaryId": "lex.sa.money.mon_currency_union",
-      "example": "The euro area is a currency union, so one central bank issues the notes for every member country.",
-      "fieldId": "money",
-      "id": "mon_currency_union",
+      "definition": "A small metal thing that opens a lock. A keyhole is the hole where the key goes in.",
+      "dictionaryId": "lex.sa.kids_adventure.key",
+      "example": "The small brass key hung on a red string.",
+      "fieldId": "kids_adventure",
+      "id": "key",
       "lessonIds": [
-        "article_world_currencies"
+        "article_magical_castle"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.kids.adventure.castle"
       ],
-      "term": "Currency union"
+      "term": "Key"
     },
     {
-      "definition": "The use, by a country, of the currency of another country as its own money, with no domestic currency issued.",
-      "dictionaryId": "lex.sa.money.mon_dollarization",
-      "example": "The country is dollarized: the shops take dollars and nobody issues local notes.",
-      "fieldId": "money",
-      "id": "mon_dollarization",
+      "definition": "A piece of ground where people grow plants and flowers. A garden needs water and a little care every day.",
+      "dictionaryId": "lex.sa.kids_adventure.garden",
+      "example": "The green door opened on a garden under a round moon.",
+      "fieldId": "kids_adventure",
+      "id": "garden",
       "lessonIds": [
-        "article_world_currencies"
+        "article_magical_castle"
       ],
       "packs": [
-        "knw.money.currencies"
+        "knw.kids.adventure.castle"
       ],
-      "term": "Dollarization"
-    },
-    {
-      "conflict": true,
-      "definition": "The act of lowering the value that other people attach to a person's work or judgement.",
-      "dictionaryId": "lex.sa.mind.cs_devaluation",
-      "example": "The devaluation was quiet: every meeting began with a small doubt about her work.",
-      "fieldId": "money",
-      "id": "mon_devaluation",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Devaluation"
-    },
-    {
-      "definition": "A country where most payments are still made in cash rather than by card or by transfer.",
-      "dictionaryId": "lex.sa.money.mon_cash_economy",
-      "example": "In a cash economy, a market stall may not have a machine at all.",
-      "fieldId": "money",
-      "id": "mon_cash_economy",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Cash economy"
-    },
-    {
-      "definition": "The market that trades a currency outside the official channel, at a rate the state does not set.",
-      "dictionaryId": "lex.sa.money.mon_parallel_market",
-      "example": "When the official rate stops working, the parallel market sets the real price of the dollar.",
-      "fieldId": "money",
-      "id": "mon_parallel_market",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Parallel market"
-    },
-    {
-      "definition": "The habit of adding a small sum on top of a bill for the person who served you.",
-      "dictionaryId": "lex.sa.money.mon_tipping",
-      "example": "In this restaurant the service charge is on the bill, so there is no tip to add.",
-      "fieldId": "money",
-      "id": "mon_tipping",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Tipping"
-    },
-    {
-      "definition": "The money a person working abroad sends to the family at home.",
-      "dictionaryId": "lex.sa.money.mon_remittance",
-      "example": "He sends a remittance every month, and the rent is paid from it.",
-      "fieldId": "money",
-      "id": "mon_remittance",
-      "lessonIds": [
-        "article_world_currencies"
-      ],
-      "packs": [
-        "knw.money.currencies"
-      ],
-      "term": "Remittance"
-    },
-    {
-      "definition": "The unit of time equal to one sixtieth of a minute.",
-      "dictionaryId": "lex.sa.en.second.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_second",
-      "lessonIds": [
-        "article_units_dimensions"
-      ],
-      "packs": [
-        "knw.tech.units"
-      ],
-      "term": "second"
-    },
-    {
-      "definition": "The SI unit of force.",
-      "dictionaryId": "lex.sa.en.newton.noun",
-      "example": "Newton’s second law, mechanical energy, Ohm’s law, and a travelling wave are written below.",
-      "fieldId": "physics",
-      "id": "si_newton",
-      "lessonIds": [
-        "article_units_dimensions"
-      ],
-      "packs": [
-        "knw.tech.units"
-      ],
-      "term": "newton"
-    },
-    {
-      "definition": "The capacity to do work or cause change.",
-      "dictionaryId": "lex.sa.en.energy.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_energy",
-      "lessonIds": [
-        "article_units_dimensions"
-      ],
-      "packs": [
-        "knw.tech.units"
-      ],
-      "term": "energy"
-    },
-    {
-      "definition": "The speed of a body together with its direction.",
-      "dictionaryId": "lex.sa.en.velocity.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_velocity",
-      "lessonIds": [
-        "article_units_dimensions"
-      ],
-      "packs": [
-        "knw.tech.units"
-      ],
-      "term": "velocity"
-    },
-    {
-      "definition": "Matter of a definite kind and composition.",
-      "dictionaryId": "lex.sa.en.substance.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_substance",
-      "lessonIds": [
-        "article_units_dimensions"
-      ],
-      "packs": [
-        "knw.tech.units"
-      ],
-      "term": "substance"
-    },
-    {
-      "definition": "A written sign that stands for a quantity or an idea.",
-      "dictionaryId": "lex.sa.en.symbol.noun",
-      "example": "Read the symbol, then the English name.",
-      "fieldId": "physics",
-      "id": "si_symbol",
-      "lessonIds": [
-        "article_units_dimensions"
-      ],
-      "packs": [
-        "knw.tech.units"
-      ],
-      "term": "symbol"
-    },
-    {
-      "definition": "A short piece of text naming an item.",
-      "dictionaryId": "lex.sa.en.label.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_label",
-      "lessonIds": [
-        "article_units_dimensions"
-      ],
-      "packs": [
-        "knw.tech.units"
-      ],
-      "term": "label"
+      "term": "Garden"
     },
     {
       "conflict": true,
-      "definition": "A level of quality or a rule of conduct.",
-      "dictionaryId": "lex.sa.en.standard.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_standard",
+      "definition": "The small beginning of a plant. A seed is tiny and quiet, but if you plant it and water it, it grows.",
+      "dictionaryId": "lex.sa.kids_adventure.seed",
+      "example": "In the clay pot there was a seed with a green shoot coming out.",
+      "fieldId": "kids_adventure",
+      "id": "seed",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_kids_food_fruits",
+        "article_magical_castle",
+        "article_secret_door",
+        "article_tiny_seed"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.kids.adventure.castle",
+        "knw.kids.adventure.door",
+        "knw.kids.food.fruits",
+        "knw.kids.stories.seed"
       ],
-      "term": "standard"
+      "term": "Seed"
     },
     {
-      "definition": "A wrong result or a report of a fault.",
-      "dictionaryId": "lex.sa.en.error.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_error",
+      "definition": "An animal that lived a very long time ago, long before people. Dinosaurs are gone now, but their bones turn to stone under the ground.",
+      "dictionaryId": "lex.sa.kids_adventure.dinosaur",
+      "example": "The long-necked dinosaur pulled leaves from the treetop.",
+      "fieldId": "kids_adventure",
+      "id": "dinosaur",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_dinosaur_land"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.kids.adventure.dinos"
       ],
-      "term": "error"
+      "term": "Dinosaur"
     },
     {
-      "definition": "An illustration, or a numerical value.",
-      "dictionaryId": "lex.sa.en.figure.noun",
-      "example": "Use this when the title names one figure.",
-      "fieldId": "physics",
-      "id": "si_figure",
+      "definition": "The hard part of an animal that turned to stone after a very long time. Fossils tell us what the animal looked like.",
+      "dictionaryId": "lex.sa.kids_adventure.fossil",
+      "example": "She found a yellow fossil under a huge leaf.",
+      "fieldId": "kids_adventure",
+      "id": "fossil",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_dinosaur_land"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.kids.adventure.dinos"
       ],
-      "term": "figure"
+      "term": "Fossil"
     },
     {
-      "definition": "The rate of change of velocity with time.",
-      "dictionaryId": "lex.sa.en.acceleration.noun",
-      "example": "A car that speeds up from 0 to 100 km/h in 10 s has an acceleration of 2.78 m/s².",
-      "fieldId": "physics",
-      "id": "acceleration",
+      "definition": "The mark a foot leaves in soft ground. Big animals leave big footprints, and they show which way the animal walked.",
+      "dictionaryId": "lex.sa.kids_adventure.footprint",
+      "example": "The footprints pointed deeper into the valley.",
+      "fieldId": "kids_adventure",
+      "id": "footprint",
       "lessonIds": [
-        "article_showcase"
+        "article_dinosaur_land"
       ],
       "packs": [
-        "knw.article.showcase",
-        "showcase"
+        "knw.kids.adventure.dinos"
       ],
-      "term": "acceleration"
+      "term": "Footprint"
     },
     {
-      "definition": "The SI unit of amount of substance.",
-      "dictionaryId": "lex.sa.en.mole.noun",
-      "example": "18 g of water is about one mole.",
-      "fieldId": "chemistry",
-      "id": "mole",
+      "conflict": true,
+      "definition": "An animal that eats plants, such as a zebra, a giraffe or an elephant.",
+      "dictionaryId": "lex.sa.kids_animals.herbivore",
+      "example": "The elephant is a herbivore, so it eats grass and leaves.",
+      "fieldId": "kids_adventure",
+      "id": "herbivore",
       "lessonIds": [
-        "article_showcase"
+        "article_dinosaur_land",
+        "article_kids_animals_savanna",
+        "article_what_animals_eat"
       ],
       "packs": [
-        "knw.article.showcase",
-        "showcase"
+        "knw.kids.adventure.dinos",
+        "knw.kids.animals.eat",
+        "knw.kids.animals.savanna"
       ],
-      "term": "mole"
+      "term": "Herbivore"
     },
     {
-      "definition": "A dynamic state in which the forward and reverse rates are equal.",
-      "dictionaryId": "lex.sa.en.equilibrium.noun",
-      "example": "At equilibrium, the concentrations stay constant.",
-      "fieldId": "chemistry",
-      "id": "equilibrium",
+      "conflict": true,
+      "definition": "An animal that eats other animals. Carnivores are often the strong, heavy ones.",
+      "dictionaryId": "lex.sa.kids_adventure.carnivore",
+      "example": "The heavy animal with the thick tail was a carnivore.",
+      "fieldId": "kids_adventure",
+      "id": "carnivore",
       "lessonIds": [
-        "article_showcase"
+        "article_dinosaur_land",
+        "article_kids_animals_savanna",
+        "article_what_animals_eat"
       ],
       "packs": [
-        "knw.article.showcase",
-        "showcase"
+        "knw.kids.adventure.dinos",
+        "knw.kids.animals.eat",
+        "knw.kids.animals.savanna"
       ],
-      "term": "equilibrium"
+      "term": "Carnivore"
     },
     {
-      "definition": "The SI unit of electrical resistance.",
-      "dictionaryId": "lex.sa.en.ohm.noun",
-      "example": "A 2 Ω resistor carries 3 A when V = 6 V.",
-      "fieldId": "physics",
-      "id": "ohm",
+      "definition": "A green climbing plant that grows up walls and trees. It holds on tightly and hides what is behind it.",
+      "dictionaryId": "lex.sa.kids_adventure.ivy",
+      "example": "Ivy grew across the green door.",
+      "fieldId": "kids_adventure",
+      "id": "ivy",
       "lessonIds": [
-        "article_showcase"
+        "article_secret_door"
       ],
       "packs": [
-        "knw.article.showcase",
-        "showcase"
+        "knw.kids.adventure.door"
       ],
-      "term": "ohm"
+      "term": "Ivy"
     },
     {
-      "definition": "A form of English used by a particular group in a particular place, with its own vocabulary, grammar and pronunciation.",
-      "dictionaryId": "lex.sa.culture.english_variety",
-      "example": "Singapore English is a variety of English, not a broken version of it.",
-      "fieldId": "culture",
-      "id": "english_variety",
+      "definition": "An open space in the middle of woods, where the trees step back and the sky reaches the ground.",
+      "dictionaryId": "lex.sa.kids_adventure.clearing",
+      "example": "The path led to a small clearing.",
+      "fieldId": "kids_adventure",
+      "id": "clearing",
       "lessonIds": [
-        "article_varieties_of_english"
+        "article_secret_door"
       ],
       "packs": [
-        "knw.culture.englishes"
+        "knw.kids.adventure.door"
       ],
-      "term": "Variety of English"
+      "term": "Clearing"
     },
     {
-      "definition": "The way the sounds of a language are pronounced by a speaker, independent of which words they use.",
-      "dictionaryId": "lex.sa.culture.accent",
-      "example": "He has a strong Glasgow accent but standard vocabulary.",
-      "fieldId": "culture",
-      "id": "accent",
+      "definition": "To put a seed into the ground and look after it. Planting is a promise to come back.",
+      "dictionaryId": "lex.sa.kids_adventure.plant",
+      "example": "Bình planted the seed on the first of April.",
+      "fieldId": "kids_adventure",
+      "id": "plant",
       "lessonIds": [
-        "article_varieties_of_english"
+        "article_secret_door"
       ],
       "packs": [
-        "knw.culture.englishes"
+        "knw.kids.adventure.door"
       ],
-      "term": "Accent"
+      "term": "To plant"
     },
     {
-      "definition": "Whether a speaker pronounces the r sound at the end of a word. American English is rhotic; British English is not.",
-      "dictionaryId": "lex.sa.culture.rhoticity",
-      "example": "The difference between *car* and *cah* is rhoticity.",
-      "fieldId": "culture",
-      "id": "rhoticity",
+      "definition": "Kept out of sight, so that people walk past without noticing.",
+      "dictionaryId": "lex.sa.kids_adventure.hidden",
+      "example": "The door was hidden under the ivy.",
+      "fieldId": "kids_adventure",
+      "id": "hidden",
       "lessonIds": [
-        "article_varieties_of_english"
+        "article_secret_door"
       ],
       "packs": [
-        "knw.culture.englishes"
+        "knw.kids.adventure.door"
       ],
-      "term": "Rhoticity"
+      "term": "Hidden"
     },
     {
-      "definition": "The level of formality a speaker chooses for a situation, from casual to formal.",
-      "dictionaryId": "lex.sa.culture.register",
-      "example": "Switching register, he changed *Could you pass the salt* to *Pass the salt*.",
-      "fieldId": "culture",
-      "id": "register",
+      "definition": "Something you want very much and keep safe. It can be gold, but it can also be a letter or a photograph.",
+      "dictionaryId": "lex.sa.kids_adventure.treasure",
+      "example": "The box in the grass held the real treasure.",
+      "fieldId": "kids_adventure",
+      "id": "treasure",
       "lessonIds": [
-        "article_varieties_of_english"
+        "article_hidden_treasure"
       ],
       "packs": [
-        "knw.culture.englishes"
+        "knw.kids.adventure.explorer"
       ],
-      "term": "Register"
+      "term": "Treasure"
     },
     {
-      "definition": "Moving between two languages, or two varieties of one language, inside a single conversation.",
-      "dictionaryId": "lex.sa.culture.code_switching",
-      "example": "Code-switching between English and Tamil is normal in Chennai offices.",
-      "fieldId": "culture",
-      "id": "code_switching",
+      "definition": "A drawing of a place, seen from above. A map shows you the way and shows you where things are.",
+      "dictionaryId": "lex.sa.kids_adventure.map",
+      "example": "Tuấn unfolded the old map on the kitchen table.",
+      "fieldId": "kids_adventure",
+      "id": "map",
       "lessonIds": [
-        "article_varieties_of_english"
+        "article_hidden_treasure"
       ],
       "packs": [
-        "knw.culture.englishes"
+        "knw.kids.adventure.explorer"
       ],
-      "term": "Code-switching"
+      "term": "Map"
     },
     {
-      "definition": "A shared language used between people whose first languages differ. English is the most common one in international business.",
-      "dictionaryId": "lex.sa.culture.lingua_franca",
-      "example": "English works as the lingua franca, so nobody has to learn three languages for one meeting.",
-      "fieldId": "culture",
-      "id": "lingua_franca",
+      "definition": "A small hint. Clues come one after another, and each one points to the next.",
+      "dictionaryId": "lex.sa.kids_adventure.clue",
+      "example": "The third clue was a picture of a bench and a nail.",
+      "fieldId": "kids_adventure",
+      "id": "clue",
       "lessonIds": [
-        "article_varieties_of_english"
+        "article_hidden_treasure"
       ],
       "packs": [
-        "knw.culture.englishes"
+        "knw.kids.adventure.explorer"
       ],
-      "term": "Lingua franca"
+      "term": "Clue"
     },
     {
-      "definition": "The individual version of a language: one speaker's own habits of words and grammar.",
-      "dictionaryId": "lex.sa.culture.idiolect",
-      "example": "Every email you write becomes part of your idiolect.",
-      "fieldId": "culture",
-      "id": "idiolect",
+      "definition": "A small tool with a needle that points north. Explorers use a compass so they walk in a straight line.",
+      "dictionaryId": "lex.sa.kids_adventure.compass",
+      "example": "The compass needle spun because of the iron in the ground.",
+      "fieldId": "kids_adventure",
+      "id": "compass",
       "lessonIds": [
-        "article_varieties_of_english"
+        "article_hidden_treasure"
       ],
       "packs": [
-        "knw.culture.englishes"
+        "knw.kids.adventure.explorer"
       ],
-      "term": "Idiolect"
+      "term": "Compass"
     },
     {
-      "definition": "Someone who earns income that does not depend on one country and who lives in several places over a year.",
-      "dictionaryId": "lex.sa.culture.digital_nomad",
-      "example": "As a digital nomad, I move when the client contract ends.",
-      "fieldId": "culture",
-      "id": "digital_nomad",
+      "definition": "A small mountain, high in the middle and low at the edges. You can walk up a hill in a few minutes.",
+      "dictionaryId": "lex.sa.kids_adventure.hill",
+      "example": "They walked up the hill to look for the treasure.",
+      "fieldId": "kids_adventure",
+      "id": "hill",
       "lessonIds": [
-        "article_digital_nomads"
+        "article_hidden_treasure"
       ],
       "packs": [
-        "knw.culture.nomads"
+        "knw.kids.adventure.explorer"
       ],
-      "term": "Digital nomad"
+      "term": "Hill"
     },
     {
-      "definition": "A residence permit for people who work remotely for foreign employers or clients without a local work permit.",
-      "dictionaryId": "lex.sa.culture.nomad_visa",
-      "example": "The nomad visa requires proof of income above a monthly threshold.",
-      "fieldId": "culture",
-      "id": "nomad_visa",
+      "definition": "A machine that pushes itself up into the sky with fire and gas. It is how people reach space.",
+      "dictionaryId": "lex.sa.kids_adventure.rocket",
+      "example": "The rocket stood on the pad, white and tall.",
+      "fieldId": "kids_adventure",
+      "id": "rocket",
       "lessonIds": [
-        "article_digital_nomads"
+        "article_trip_to_the_moon"
       ],
       "packs": [
-        "knw.culture.nomads"
+        "knw.kids.adventure.moon"
       ],
-      "term": "Nomad visa"
+      "term": "Rocket"
     },
     {
-      "definition": "The status that decides which country has a claim to tax your income, usually based on where you spend most of your time.",
-      "dictionaryId": "lex.sa.culture.tax_residency",
-      "example": "Tax residency is the part nobody checks before they book the flight.",
-      "fieldId": "culture",
-      "id": "tax_residency",
+      "definition": "The platform where the rocket stands and waits before it flies.",
+      "dictionaryId": "lex.sa.kids_adventure.launch_pad",
+      "example": "Everybody watched from the launch pad.",
+      "fieldId": "kids_adventure",
+      "id": "launch_pad",
       "lessonIds": [
-        "article_digital_nomads"
+        "article_trip_to_the_moon"
       ],
       "packs": [
-        "knw.culture.nomads"
+        "knw.kids.adventure.moon"
       ],
-      "term": "Tax residency"
+      "term": "Launch pad"
     },
     {
-      "definition": "A building where residents rent a room and share a kitchen and common areas, and where nomads often find a community.",
-      "dictionaryId": "lex.sa.culture.coliving",
-      "example": "I took a room in a coliving for a month and made friends in a week.",
-      "fieldId": "culture",
-      "id": "coliving",
+      "definition": "A person trained to fly into space. Astronauts wear a spacesuit because there is no air out there.",
+      "dictionaryId": "lex.sa.kids_adventure.astronaut",
+      "example": "The astronaut opened the hatch and stepped out.",
+      "fieldId": "kids_adventure",
+      "id": "astronaut",
       "lessonIds": [
-        "article_digital_nomads"
+        "article_trip_to_the_moon"
       ],
       "packs": [
-        "knw.culture.nomads"
+        "knw.kids.adventure.moon"
       ],
-      "term": "Coliving"
+      "term": "Astronaut"
     },
     {
-      "definition": "A paid workspace where people work in the same room, usually by the day or the month, with a desk and reliable internet.",
-      "dictionaryId": "lex.sa.culture.coworking",
-      "example": "A co-working space costs less than the coffee I would buy sitting in a café all day.",
-      "fieldId": "culture",
-      "id": "coworking",
+      "definition": "The feeling of floating, with nothing pulling you down. Everything drifts in the ship.",
+      "dictionaryId": "lex.sa.kids_adventure.weightlessness",
+      "example": "In weightlessness, even a pencil can float.",
+      "fieldId": "kids_adventure",
+      "id": "weightlessness",
       "lessonIds": [
-        "article_digital_nomads"
+        "article_trip_to_the_moon"
       ],
       "packs": [
-        "knw.culture.nomads"
+        "knw.kids.adventure.moon"
       ],
-      "term": "Co-working space"
+      "term": "Weightlessness"
     },
     {
-      "definition": "Staying in one place for weeks or months instead of moving on every few days, which is what makes long-term work possible.",
-      "dictionaryId": "lex.sa.culture.slow_travel",
-      "example": "Slow travel costs less and lets you actually know the place.",
-      "fieldId": "culture",
-      "id": "slow_travel",
+      "conflict": true,
+      "definition": "The path one space object follows as it goes around and around another one.",
+      "dictionaryId": "lex.sa.kids_science.orbit",
+      "example": "The Moon is in orbit around the Earth.",
+      "fieldId": "kids_adventure",
+      "id": "orbit",
       "lessonIds": [
-        "article_digital_nomads"
+        "article_sun_moon_stars",
+        "article_trip_to_the_moon"
       ],
       "packs": [
-        "knw.culture.nomads"
+        "knw.kids.adventure.moon",
+        "knw.kids.science.skybody"
       ],
-      "term": "Slow travel"
+      "term": "Orbit"
     },
     {
-      "definition": "Working from a shared space other than your own home, which many employers offer or pay for.",
-      "dictionaryId": "lex.sa.culture.offsiting",
-      "example": "My company gave me an offsiting budget of two hundred dollars a month.",
-      "fieldId": "culture",
-      "id": "offsiting",
+      "definition": "A small sense organ on a robot. It tells the robot what is around it, or how it feels.",
+      "dictionaryId": "lex.sa.kids_adventure.sensor",
+      "example": "Bit's sensor flashed red when he was worried.",
+      "fieldId": "kids_adventure",
+      "id": "sensor",
       "lessonIds": [
-        "article_digital_nomads"
+        "article_robot_wanted_a_friend"
       ],
       "packs": [
-        "knw.culture.nomads"
+        "knw.kids.adventure.robot"
       ],
-      "term": "Offsiting"
+      "term": "Sensor"
+    },
+    {
+      "definition": "The store of energy that makes a robot move. When it runs low, the robot has to plug in.",
+      "dictionaryId": "lex.sa.kids_adventure.battery",
+      "example": "Bit's battery was getting low by the afternoon.",
+      "fieldId": "kids_adventure",
+      "id": "battery",
+      "lessonIds": [
+        "article_robot_wanted_a_friend"
+      ],
+      "packs": [
+        "knw.kids.adventure.robot"
+      ],
+      "term": "Battery"
+    },
+    {
+      "definition": "A small switch you press to make something happen. Pressing a robot's button can wake it up.",
+      "dictionaryId": "lex.sa.kids_adventure.button",
+      "example": "He pressed the button on the old robot's chest.",
+      "fieldId": "kids_adventure",
+      "id": "button",
+      "lessonIds": [
+        "article_robot_wanted_a_friend"
+      ],
+      "packs": [
+        "knw.kids.adventure.robot"
+      ],
+      "term": "Button"
+    },
+    {
+      "definition": "The place where a robot goes to fill its battery with energy.",
+      "dictionaryId": "lex.sa.kids_adventure.charging_post",
+      "example": "Bit climbed down from the charging post.",
+      "fieldId": "kids_adventure",
+      "id": "charging_post",
+      "lessonIds": [
+        "article_robot_wanted_a_friend"
+      ],
+      "packs": [
+        "knw.kids.adventure.robot"
+      ],
+      "term": "Charging post"
+    },
+    {
+      "definition": "The room where a robot is built and repaired. It is full of tools and smells of metal and oil.",
+      "dictionaryId": "lex.sa.kids_adventure.workshop",
+      "example": "Bit found shiny silver paper in the workshop.",
+      "fieldId": "kids_adventure",
+      "id": "workshop",
+      "lessonIds": [
+        "article_robot_wanted_a_friend"
+      ],
+      "packs": [
+        "knw.kids.adventure.robot"
+      ],
+      "term": "Workshop"
+    },
+    {
+      "definition": "A cover for your eyes with glass in it. It lets you see under the water clearly.",
+      "dictionaryId": "lex.sa.kids_adventure.diving_mask",
+      "example": "She pulled the diving mask down over her nose.",
+      "fieldId": "kids_adventure",
+      "id": "diving_mask",
+      "lessonIds": [
+        "article_under_the_sea_adventure"
+      ],
+      "packs": [
+        "knw.kids.adventure.sea"
+      ],
+      "term": "Diving mask"
+    },
+    {
+      "definition": "Flat rubber shoes for your feet. They push the water behind you so you swim faster.",
+      "dictionaryId": "lex.sa.kids_adventure.fins",
+      "example": "Her fins made a soft whirr in the water.",
+      "fieldId": "kids_adventure",
+      "id": "fins",
+      "lessonIds": [
+        "article_under_the_sea_adventure"
+      ],
+      "packs": [
+        "knw.kids.adventure.sea"
+      ],
+      "term": "Fins"
+    },
+    {
+      "definition": "A bottle of compressed air that a diver carries on their back and breathes from.",
+      "dictionaryId": "lex.sa.kids_adventure.air_tank",
+      "example": "Her uncle checked the air tank before she jumped in.",
+      "fieldId": "kids_adventure",
+      "id": "air_tank",
+      "lessonIds": [
+        "article_under_the_sea_adventure"
+      ],
+      "packs": [
+        "knw.kids.adventure.sea"
+      ],
+      "term": "Air tank"
+    },
+    {
+      "definition": "A hard, colourful structure built by tiny animals. It looks like a plant but it is alive, so never touch it.",
+      "dictionaryId": "lex.sa.kids_adventure.coral",
+      "example": "The orange coral stood up like a tree.",
+      "fieldId": "kids_adventure",
+      "id": "coral",
+      "lessonIds": [
+        "article_under_the_sea_adventure"
+      ],
+      "packs": [
+        "knw.kids.adventure.sea"
+      ],
+      "term": "Coral"
+    },
+    {
+      "definition": "A whole underwater city of coral. Thousands of kinds of fish live there.",
+      "dictionaryId": "lex.sa.kids_adventure.reef",
+      "example": "The reef was busy with small bright fish.",
+      "fieldId": "kids_adventure",
+      "id": "reef",
+      "lessonIds": [
+        "article_under_the_sea_adventure"
+      ],
+      "packs": [
+        "knw.kids.adventure.sea"
+      ],
+      "term": "Reef"
+    },
+    {
+      "definition": "The whole journey of an animal, from the egg all the way back to eggs again.",
+      "dictionaryId": "lex.sa.kids_animals.life_cycle",
+      "example": "A butterfly's life cycle has four stages.",
+      "fieldId": "kids_animals",
+      "id": "life_cycle",
+      "lessonIds": [
+        "article_butterflies"
+      ],
+      "packs": [
+        "knw.kids.animals.butterflies"
+      ],
+      "term": "Life cycle"
+    },
+    {
+      "definition": "The young stage of an insect. A butterfly larva is a caterpillar.",
+      "dictionaryId": "lex.sa.kids_animals.larva",
+      "example": "The larva eats and eats until it is fat.",
+      "fieldId": "kids_animals",
+      "id": "larva",
+      "lessonIds": [
+        "article_butterflies"
+      ],
+      "packs": [
+        "knw.kids.animals.butterflies"
+      ],
+      "term": "Larva"
+    },
+    {
+      "definition": "The resting stage, when the insect changes its body. A butterfly's pupa is a chrysalis.",
+      "dictionaryId": "lex.sa.kids_animals.pupa",
+      "example": "Inside the pupa, the caterpillar becomes a butterfly.",
+      "fieldId": "kids_animals",
+      "id": "pupa",
+      "lessonIds": [
+        "article_butterflies"
+      ],
+      "packs": [
+        "knw.kids.animals.butterflies"
+      ],
+      "term": "Pupa (chrysalis)"
     }
   ],
   "nextCursor": "760",

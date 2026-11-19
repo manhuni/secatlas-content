@@ -1,564 +1,573 @@
 {
   "items": [
     {
-      "definition": "The preference for rewards that arrive immediately over larger rewards that require waiting and effort.",
-      "dictionaryId": "lex.sa.mind.instant_gratification",
-      "example": "",
-      "fieldId": "mind",
-      "id": "instant_gratification",
+      "definition": "The money of a country: its notes, its coins, and the rules that govern them.",
+      "dictionaryId": "lex.sa.money.mon_currency",
+      "example": "The shop takes only the local currency.",
+      "fieldId": "money",
+      "id": "mon_currency",
       "lessonIds": [
-        "article_attention_death"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.money.what_money_is"
       ],
-      "term": "Instant gratification"
+      "term": "Currency"
     },
     {
-      "definition": "The ability to stay with a difficult task through the uncomfortable period before progress appears.",
-      "dictionaryId": "lex.sa.mind.frustration_tolerance",
-      "example": "",
-      "fieldId": "mind",
-      "id": "frustration_tolerance",
+      "definition": "The job money does when it is used to pay for something instead of trading goods for goods.",
+      "dictionaryId": "lex.sa.money.mon_medium_of_exchange",
+      "example": "The bus ticket is a medium of exchange: the fare buys the ride.",
+      "fieldId": "money",
+      "id": "mon_medium_of_exchange",
       "lessonIds": [
-        "article_attention_death"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.attention_death"
+        "knw.money.what_money_is"
       ],
-      "term": "Frustration tolerance"
+      "term": "Medium of exchange"
     },
     {
-      "definition": "The pattern in which removing difficulty lowers the tolerance for difficulty, making life feel harder even as it gets easier.",
-      "dictionaryId": "lex.sa.mind.comfort_paradox",
-      "example": "",
-      "fieldId": "mind",
-      "id": "comfort_paradox",
+      "definition": "The job money does when it is the common measure of what things cost.",
+      "dictionaryId": "lex.sa.money.mon_unit_of_account",
+      "example": "At 3 $ the coffee and 2 $ the ticket, the unit of account makes the two prices comparable.",
+      "fieldId": "money",
+      "id": "mon_unit_of_account",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.money.what_money_is"
       ],
-      "term": "Paradox of comfort"
+      "term": "Unit of account"
     },
     {
-      "definition": "The capacity to recover quickly and fully after stress, failure or loss.",
-      "dictionaryId": "lex.sa.mind.resilience",
-      "example": "",
-      "fieldId": "mind",
-      "id": "resilience",
+      "definition": "The job money does when it keeps its value over time, so a payment can be made today for something received later.",
+      "dictionaryId": "lex.sa.money.mon_store_of_value",
+      "example": "The balance in the account is a store of value for the bill that arrives next month.",
+      "fieldId": "money",
+      "id": "mon_store_of_value",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.money.what_money_is"
       ],
-      "term": "Resilience"
+      "term": "Store of value"
     },
     {
-      "definition": "Sustained effort toward long-term goals, maintained through boredom and setbacks.",
-      "dictionaryId": "lex.sa.mind.grit",
-      "example": "",
-      "fieldId": "mind",
-      "id": "grit",
+      "conflict": true,
+      "definition": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
+      "dictionaryId": "lex.sa.money.credit",
+      "example": "The credit of 1200 $ on the 15th is my salary.",
+      "fieldId": "money",
+      "id": "mon_credit",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.money.what_money_is"
       ],
-      "term": "Grit"
+      "term": "Credit"
     },
     {
-      "definition": "The property of growing stronger under stress and disorder, beyond mere resistance to damage.",
-      "dictionaryId": "lex.sa.mind.antifragility",
-      "example": "",
-      "fieldId": "mind",
-      "id": "antifragility",
+      "definition": "The public body with the right to issue the currency of a country.",
+      "dictionaryId": "lex.sa.money.mon_central_bank",
+      "example": "The central bank raises its interest rate when prices rise too fast.",
+      "fieldId": "money",
+      "id": "mon_central_bank",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.money.what_money_is"
       ],
-      "term": "Antifragility"
+      "term": "Central bank"
     },
     {
-      "definition": "The willingness to give up a smaller reward now for a larger reward later.",
-      "dictionaryId": "lex.sa.mind.delayed_gratification",
-      "example": "",
-      "fieldId": "mind",
-      "id": "delayed_gratification",
+      "definition": "The gain a state earns from issuing money.",
+      "dictionaryId": "lex.sa.money.mon_seigniorage",
+      "example": "The state's gain from a new note is seigniorage, because the note costs less to make than it buys.",
+      "fieldId": "money",
+      "id": "mon_seigniorage",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.money.what_money_is"
       ],
-      "term": "Delayed gratification"
+      "term": "Seigniorage"
     },
     {
-      "definition": "The small resistance between wanting something and getting it, which slows consumption and quietly trains patience.",
-      "dictionaryId": "lex.sa.mind.friction",
-      "example": "Every plan met friction: the weather, the delay, the wrong order.",
-      "fieldId": "mind",
-      "id": "friction",
+      "definition": "The value of what a person owns, after what the person owes.",
+      "dictionaryId": "lex.sa.money.mon_wealth",
+      "example": "The van and the tools are wealth; the loan on the van is not.",
+      "fieldId": "money",
+      "id": "mon_wealth",
       "lessonIds": [
-        "article_comfort_paradox"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.comfort_paradox"
+        "knw.money.what_money_is"
       ],
-      "term": "Friction"
+      "term": "Wealth"
     },
     {
-      "definition": "The compulsive online searching of symptoms, driven by anxiety, which increases the anxiety it was meant to relieve.",
-      "dictionaryId": "lex.sa.mind.cyberchondria",
-      "example": "",
-      "fieldId": "mind",
-      "id": "cyberchondria",
+      "definition": "An amount measured at one moment, such as the balance on an account today.",
+      "dictionaryId": "lex.sa.money.mon_stock",
+      "example": "The stock is 800 $ today, whatever the monthly flow was.",
+      "fieldId": "money",
+      "id": "mon_stock",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.money.what_money_is"
       ],
-      "term": "Cyberchondria"
+      "term": "Stock"
     },
     {
-      "definition": "Persistent worry about having or developing a serious illness, maintained by checking and reassurance-seeking.",
-      "dictionaryId": "lex.sa.mind.health_anxiety",
-      "example": "",
-      "fieldId": "mind",
-      "id": "health_anxiety",
+      "definition": "The continuous motion of a fluid.",
+      "dictionaryId": "lex.sa.en.flow.noun",
+      "example": "A flow of 2 000 $ a month leaves a stock of 300 $ after the bills.",
+      "fieldId": "money",
+      "id": "mon_flow",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.money.what_money_is"
       ],
-      "term": "Health anxiety"
+      "term": "flow"
     },
     {
-      "definition": "The worsening of symptoms or the appearance of side effects because a person expects them.",
-      "dictionaryId": "lex.sa.mind.nocebo_effect",
-      "example": "",
-      "fieldId": "mind",
-      "id": "nocebo_effect",
+      "definition": "A figure measured in the money as printed, with no adjustment for prices.",
+      "dictionaryId": "lex.sa.money.mon_nominal",
+      "example": "The nominal salary is 2 000 $, which is not the same as what it buys.",
+      "fieldId": "money",
+      "id": "mon_nominal",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.money.what_money_is"
       ],
-      "term": "Nocebo effect"
+      "term": "Nominal"
     },
     {
-      "definition": "Concluding what illness one has without a medical examination, usually from online information.",
-      "dictionaryId": "lex.sa.mind.self_diagnosis",
-      "example": "",
-      "fieldId": "mind",
-      "id": "self_diagnosis",
+      "definition": "True to fact; not a simulation.",
+      "dictionaryId": "lex.sa.en.real.adjective",
+      "example": "With prices rising, the real value of the 2 000 $ falls while the ticket still says 2 000 $.",
+      "fieldId": "money",
+      "id": "mon_real",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.money.what_money_is"
       ],
-      "term": "Self-diagnosis"
+      "term": "real"
     },
     {
-      "definition": "A medical source written or reviewed by qualified professionals, updated, and not selling the fear it describes.",
-      "dictionaryId": "lex.sa.mind.reliable_source",
-      "example": "",
-      "fieldId": "mind",
-      "id": "reliable_source",
+      "definition": "A tax that is already counted inside the price you read.",
+      "dictionaryId": "lex.sa.money.mon_tax_in_price",
+      "example": "The ticket at 11 $ includes 1 $ of tax in the price, and the receipt does not show it separately.",
+      "fieldId": "money",
+      "id": "mon_tax_in_price",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.money.what_money_is"
       ],
-      "term": "Reliable source"
+      "term": "Tax in the price"
     },
     {
-      "definition": "The actual frequency of a condition in the population, which is usually far lower than search results suggest.",
-      "dictionaryId": "lex.sa.mind.base_rate",
-      "example": "",
-      "fieldId": "mind",
-      "id": "base_rate",
+      "definition": "The difference between the price a shop buys at and the price it sells at.",
+      "dictionaryId": "lex.sa.money.mon_spread",
+      "example": "The spread between the producer's price and the shelf price is already inside what you pay.",
+      "fieldId": "money",
+      "id": "mon_spread",
       "lessonIds": [
-        "article_cyberchondria"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.cyberchondria"
+        "knw.money.what_money_is"
       ],
-      "term": "Base rate"
+      "term": "Spread"
     },
     {
-      "definition": "The false feeling of understanding a topic that comes from easy access to answers rather than from real comprehension.",
-      "dictionaryId": "lex.sa.mind.illusion_of_knowledge",
-      "example": "",
-      "fieldId": "mind",
-      "id": "illusion_of_knowledge",
+      "definition": "A fixed charge for a service, such as a card payment or a bank transfer.",
+      "dictionaryId": "lex.sa.money.mon_fee",
+      "example": "The bank fee for the transfer is 2 $ every time, whatever the amount transferred.",
+      "fieldId": "money",
+      "id": "mon_fee",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.money.what_money_is"
       ],
-      "term": "Illusion of knowledge"
+      "term": "Fee"
     },
     {
-      "definition": "The pattern in which people with little skill in a domain overestimate their ability, because the skill needed to judge answers is the same skill needed to give them.",
-      "dictionaryId": "lex.sa.mind.dunning_kruger_effect",
-      "example": "",
-      "fieldId": "mind",
-      "id": "dunning_kruger_effect",
+      "definition": "The price of borrowing money, charged as a percentage of what you still owe.",
+      "dictionaryId": "lex.sa.money.mon_interest",
+      "example": "At 2 % a year on a debt of 1 000 $, the interest for the year is 20 $.",
+      "fieldId": "money",
+      "id": "mon_interest",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.money.what_money_is"
       ],
-      "term": "Dunning–Kruger effect"
+      "term": "Interest"
     },
     {
-      "definition": "The tendency to seek out, remember and trust information that supports existing beliefs while discounting the rest.",
-      "dictionaryId": "lex.sa.mind.confirmation_bias",
-      "example": "",
-      "fieldId": "mind",
-      "id": "confirmation_bias",
+      "definition": "What you owe to somebody, and the amount the interest is charged on.",
+      "dictionaryId": "lex.sa.money.mon_debt",
+      "example": "The debt is 1 000 $, and the interest is charged on the part that is still left.",
+      "fieldId": "money",
+      "id": "mon_debt",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.money.what_money_is"
       ],
-      "term": "Confirmation bias"
+      "term": "Debt"
     },
     {
-      "definition": "The tendency to forget information that is easy to find online, while remembering how to find it.",
-      "dictionaryId": "lex.sa.mind.google_effect",
-      "example": "",
-      "fieldId": "mind",
-      "id": "google_effect",
+      "definition": "The money that comes in over a period minus the money that goes out over it.",
+      "dictionaryId": "lex.sa.money.mon_cash_flow",
+      "example": "Cash flow is positive, but the stock is not there.",
+      "fieldId": "money",
+      "id": "mon_cash_flow",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.money.what_money_is"
       ],
-      "term": "Google effect"
+      "term": "Cash flow"
     },
     {
-      "definition": "The habit of holding your own beliefs with the right amount of confidence: strong when the evidence is strong, weak when it is weak.",
-      "dictionaryId": "lex.sa.mind.intellectual_humility",
-      "example": "",
-      "fieldId": "mind",
-      "id": "intellectual_humility",
+      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
+      "dictionaryId": "lex.sa.technology.token",
+      "example": "The word \"the\" is one token, and a long word may be three.",
+      "fieldId": "technology",
+      "id": "aiw_token",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.tech.howaiworks"
       ],
-      "term": "Intellectual humility"
+      "term": "Token"
     },
     {
-      "definition": "The skill of finding, judging and using information: telling a primary source from an opinion, and evidence from an anecdote.",
-      "dictionaryId": "lex.sa.mind.information_literacy",
-      "example": "",
-      "fieldId": "mind",
-      "id": "information_literacy",
+      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
+      "dictionaryId": "lex.sa.technology.training_data",
+      "example": "The model's weakness on local rules comes from what the training data never covered.",
+      "fieldId": "technology",
+      "id": "aiw_training_data",
       "lessonIds": [
-        "article_illusion_knowledge"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.illusion_knowledge"
+        "knw.tech.howaiworks"
       ],
-      "term": "Information literacy"
+      "term": "Training data"
     },
     {
-      "definition": "The false feeling of competence that comes from producing results with powerful tools rather than from owned ability.",
-      "dictionaryId": "lex.sa.mind.illusion_of_skill",
-      "example": "",
-      "fieldId": "mind",
-      "id": "illusion_of_skill",
+      "definition": "The numbers inside a model that hold what it learned. Each one is a weight that raises or lowers the chance of a continuation.",
+      "dictionaryId": "lex.sa.technology.aiw_parameters",
+      "example": "The model has billions of parameters, and not one of them is a sentence you can read.",
+      "fieldId": "technology",
+      "id": "aiw_parameters",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.tech.howaiworks"
       ],
-      "term": "Illusion of skill"
+      "term": "Parameters"
     },
     {
-      "definition": "Results and confidence produced by tools, which the user experiences as personal ability.",
-      "dictionaryId": "lex.sa.mind.borrowed_competence",
-      "example": "",
-      "fieldId": "mind",
-      "id": "borrowed_competence",
+      "conflict": true,
+      "definition": "Running a trained model to produce one answer. Cheap and fast compared with training, and it is what happens when you press send.",
+      "dictionaryId": "lex.sa.technology.inference",
+      "example": "Training cost a fortune; inference is what you pay for every time you use it.",
+      "fieldId": "technology",
+      "id": "aiw_inference",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.tech.howaiworks"
       ],
-      "term": "Borrowed competence"
+      "term": "Inference"
     },
     {
-      "definition": "The systematic tendency to overestimate the accuracy of one's own knowledge and the odds of one's success.",
-      "dictionaryId": "lex.sa.mind.overconfidence_bias",
-      "example": "",
-      "fieldId": "mind",
-      "id": "overconfidence_bias",
+      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+      "dictionaryId": "lex.sa.technology.context_window",
+      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
+      "fieldId": "technology",
+      "id": "aiw_context_window",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.tech.howaiworks"
       ],
-      "term": "Overconfidence bias"
+      "term": "Context window"
     },
     {
-      "definition": "The tendency to trust automated systems more than one's own judgment, especially under pressure or fatigue.",
-      "dictionaryId": "lex.sa.mind.automation_bias",
-      "example": "",
-      "fieldId": "mind",
-      "id": "automation_bias",
+      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
+      "dictionaryId": "lex.sa.technology.prompt",
+      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
+      "fieldId": "technology",
+      "id": "aiw_prompt",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.tech.howaiworks"
       ],
-      "term": "Automation bias"
+      "term": "Prompt"
     },
     {
-      "definition": "The accuracy of your self-assessment: how closely your confidence matches your actual performance.",
-      "dictionaryId": "lex.sa.mind.calibration",
-      "example": "",
-      "fieldId": "mind",
-      "id": "calibration",
+      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
+      "dictionaryId": "lex.sa.technology.hallucination",
+      "example": "It invented a reference that looks perfect and does not exist.",
+      "fieldId": "technology",
+      "id": "aiw_hallucination",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_how_ai_works"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.tech.howaiworks"
       ],
-      "term": "Calibration"
+      "term": "Hallucination"
     },
     {
-      "definition": "The weakening of a skill through long disuse, often because a tool has performed it instead.",
-      "dictionaryId": "lex.sa.mind.skill_atrophy",
-      "example": "",
-      "fieldId": "mind",
-      "id": "skill_atrophy",
+      "definition": "The method of letting a system find patterns in data instead of following instructions a person wrote for every case.",
+      "dictionaryId": "lex.sa.technology.machine_learning",
+      "example": "Spam filtering was one of the first everyday uses of machine learning.",
+      "fieldId": "technology",
+      "id": "machine_learning",
       "lessonIds": [
-        "article_illusion_skill"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.illusion_skill"
+        "knw.tech.revolution"
       ],
-      "term": "Skill atrophy"
+      "term": "Machine learning"
     },
     {
-      "definition": "The state in which incoming information exceeds the capacity to process it, so each new item reduces the value of the ones before it.",
-      "dictionaryId": "lex.sa.mind.information_overload",
-      "example": "",
-      "fieldId": "mind",
-      "id": "information_overload",
+      "definition": "A layered structure of simple units whose connection strengths are tuned during training. The most common structure in modern AI.",
+      "dictionaryId": "lex.sa.technology.neural_network",
+      "example": "The translation and the image search both run on a neural network.",
+      "fieldId": "technology",
+      "id": "neural_network",
       "lessonIds": [
-        "article_info_overload"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.tech.revolution"
       ],
-      "term": "Information overload"
+      "term": "Neural network"
     },
     {
-      "definition": "The total amount of mental effort being used by working memory at one time.",
-      "dictionaryId": "lex.sa.mind.cognitive_load",
-      "example": "",
-      "fieldId": "mind",
-      "id": "cognitive_load",
+      "definition": "One adjustable number inside a model. Models are described by how many parameters they have.",
+      "dictionaryId": "lex.sa.technology.parameter",
+      "example": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
+      "fieldId": "technology",
+      "id": "parameter",
       "lessonIds": [
-        "article_info_overload"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.tech.revolution"
       ],
-      "term": "Cognitive load"
+      "term": "Parameter"
     },
     {
-      "definition": "The market in which businesses compete for people's limited attention and resell it to advertisers.",
-      "dictionaryId": "lex.sa.mind.attention_economy",
-      "example": "",
-      "fieldId": "mind",
-      "id": "attention_economy",
+      "conflict": true,
+      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
+      "dictionaryId": "lex.sa.technology.training_data",
+      "example": "The model's weakness on local rules comes from what the training data never covered.",
+      "fieldId": "technology",
+      "id": "training_data",
       "lessonIds": [
-        "article_info_overload"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.tech.revolution"
       ],
-      "term": "Attention economy"
+      "term": "Training data"
     },
     {
-      "definition": "The proportion of useful information (signal) to everything else (noise) in a stream of content.",
-      "dictionaryId": "lex.sa.mind.signal_to_noise",
-      "example": "",
-      "fieldId": "mind",
-      "id": "signal_to_noise",
+      "definition": "AI that produces new content such as text, images, audio or code, rather than only sorting or labelling.",
+      "dictionaryId": "lex.sa.technology.generative_ai",
+      "example": "Drafting the email was the easiest part of the job this week.",
+      "fieldId": "technology",
+      "id": "generative_ai",
       "lessonIds": [
-        "article_info_overload"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.tech.revolution"
       ],
-      "term": "Signal-to-noise ratio"
+      "term": "Generative AI"
     },
     {
-      "definition": "Familiarity with the surface of many topics without understanding of how any of them works.",
-      "dictionaryId": "lex.sa.mind.shallow_knowledge",
-      "example": "",
-      "fieldId": "mind",
-      "id": "shallow_knowledge",
+      "conflict": true,
+      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
+      "dictionaryId": "lex.sa.technology.hallucination",
+      "example": "It invented a reference that looks perfect and does not exist.",
+      "fieldId": "technology",
+      "id": "hallucination",
       "lessonIds": [
-        "article_info_overload"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.mind.info_overload"
+        "knw.tech.revolution"
       ],
-      "term": "Shallow knowledge"
+      "term": "Hallucination"
     },
     {
-      "definition": "The ability you have to do something, whatever you decide to do it for.",
-      "dictionaryId": "lex.sa.mind.dual_capacity",
-      "example": "He had the capacity to read a face well, and the capacity was never the question.",
-      "fieldId": "mind",
-      "id": "dual_capacity",
+      "conflict": true,
+      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
+      "dictionaryId": "lex.sa.technology.prompt",
+      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
+      "fieldId": "technology",
+      "id": "prompt",
       "lessonIds": [
-        "article_inner_dual"
+        "article_ai_revolution",
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.tech.revolution",
+        "knw.tech.tokens"
       ],
-      "term": "Capacity"
+      "term": "Prompt"
     },
     {
-      "definition": "The aim that is behind an act: what the act is for.",
-      "dictionaryId": "lex.sa.mind.dual_motive",
-      "example": "The motive was to keep the machine running, and the motive decided the rest.",
-      "fieldId": "mind",
-      "id": "dual_motive",
+      "conflict": true,
+      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
+      "dictionaryId": "lex.sa.technology.token",
+      "example": "The word \"the\" is one token, and a long word may be three.",
+      "fieldId": "technology",
+      "id": "token",
       "lessonIds": [
-        "article_inner_dual"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.tech.tokens"
       ],
-      "term": "Motive"
+      "term": "Token"
     },
     {
-      "definition": "The way an aim is carried out: the tools, the words and the methods used.",
-      "dictionaryId": "lex.sa.mind.dual_means",
-      "example": "The means were ordinary tools used in an ordinary way.",
-      "fieldId": "mind",
-      "id": "dual_means",
+      "definition": "The fixed vocabulary a model uses, plus the rule that splits text into tokens and joins them back.",
+      "dictionaryId": "lex.sa.technology.tokenizer",
+      "example": "A different tokenizer means the same text costs a different number of tokens.",
+      "fieldId": "technology",
+      "id": "tokenizer",
       "lessonIds": [
-        "article_inner_dual"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.tech.tokens"
       ],
-      "term": "Means"
+      "term": "Tokenizer"
     },
     {
-      "definition": "An act repeated until it can be done without thinking about it.",
-      "dictionaryId": "lex.sa.mind.dual_habit",
-      "example": "It was a habit, and the habit had been built one small repetition at a time.",
-      "fieldId": "mind",
-      "id": "dual_habit",
+      "conflict": true,
+      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+      "dictionaryId": "lex.sa.technology.context_window",
+      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
+      "fieldId": "technology",
+      "id": "context_window",
       "lessonIds": [
-        "article_inner_dual"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.tech.tokens"
       ],
-      "term": "Habit"
+      "term": "Context window"
     },
     {
-      "definition": "What a person does as a rule, when nobody is checking.",
-      "dictionaryId": "lex.sa.mind.dual_character",
-      "example": "Character is what you do when nobody is checking.",
-      "fieldId": "mind",
-      "id": "dual_character",
+      "definition": "The tokens you send, counted and billed on the way in. Documents and chat history both count here.",
+      "dictionaryId": "lex.sa.technology.input_tokens",
+      "example": "Uploading the same file twice charges the input tokens twice.",
+      "fieldId": "technology",
+      "id": "input_tokens",
       "lessonIds": [
-        "article_inner_dual"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.tech.tokens"
       ],
-      "term": "Character"
+      "term": "Input tokens"
     },
     {
-      "definition": "The short space in which one argument is weighed against another.",
-      "dictionaryId": "lex.sa.mind.dual_deliberation",
-      "example": "Deliberation took two minutes, and the two minutes were enough.",
-      "fieldId": "mind",
-      "id": "dual_deliberation",
+      "definition": "The tokens the model generates, counted and billed on the way out. Long answers cost more than short ones.",
+      "dictionaryId": "lex.sa.technology.output_tokens",
+      "example": "Asking for 2,000 words doubles the output cost of asking for 200.",
+      "fieldId": "technology",
+      "id": "output_tokens",
       "lessonIds": [
-        "article_inner_dual"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.tech.tokens"
       ],
-      "term": "Deliberation"
+      "term": "Output tokens"
     },
     {
-      "definition": "The argument made against a decision that is still being considered.",
-      "dictionaryId": "lex.sa.mind.dual_counter_argument",
-      "example": "The counter-argument was short, and it changed the decision.",
-      "fieldId": "mind",
-      "id": "dual_counter_argument",
+      "definition": "The setting that controls how random the choice of the next token is. Lower values are more repeatable, higher values more varied and less reliable.",
+      "dictionaryId": "lex.sa.technology.temperature",
+      "example": "For extracting data from a document, keep the temperature low.",
+      "fieldId": "technology",
+      "id": "temperature",
       "lessonIds": [
-        "article_inner_dual"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.tech.tokens"
       ],
-      "term": "Counter-argument"
+      "term": "Temperature"
     },
     {
-      "definition": "A sudden push to act before you have thought it through.",
-      "dictionaryId": "lex.sa.mind.dual_impulse",
-      "example": "The impulse to reply at once was stronger than the answer.",
-      "fieldId": "mind",
-      "id": "dual_impulse",
+      "definition": "The automatic cutting of input that is longer than the context window, usually removing the oldest part.",
+      "dictionaryId": "lex.sa.technology.truncation",
+      "example": "Truncation is why the model never mentions the first page you uploaded.",
+      "fieldId": "technology",
+      "id": "truncation",
       "lessonIds": [
-        "article_inner_dual"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.tech.tokens"
       ],
-      "term": "Impulse"
+      "term": "Truncation"
     },
     {
-      "definition": "The pull of a gain that somebody else pays the cost of.",
-      "dictionaryId": "lex.sa.mind.dual_temptation",
-      "example": "The temptation was the extra 200 $ that the supplier would pay for.",
-      "fieldId": "mind",
-      "id": "dual_temptation",
+      "definition": "The card or phone screen that lets you board the aircraft. It carries your name, the flight, the gate, the seat and the boarding time.",
+      "dictionaryId": "lex.sa.travel.boarding_pass",
+      "example": "Show your boarding pass at the gate and find your seat.",
+      "fieldId": "travel",
+      "id": "boarding_pass",
       "lessonIds": [
-        "article_inner_dual"
+        "article_airport"
       ],
       "packs": [
-        "knw.mind.inner_dual"
+        "knw.travel.airport"
       ],
-      "term": "Temptation"
+      "term": "Boarding pass"
     }
   ],
   "nextCursor": "320",

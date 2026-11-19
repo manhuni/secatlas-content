@@ -1,56 +1,6 @@
 {
   "items": [
     {
-      "fieldId": "work",
-      "id": "asking_for_a_raise",
-      "name": "Asking for a raise",
-      "order": 1,
-      "summary": "How to prepare a pay case, present it to a manager, and handle the answer: yes, no, or not yet.",
-      "topicIds": [
-        "article_ask_for_raise"
-      ]
-    },
-    {
-      "fieldId": "mind",
-      "id": "competence_shaming",
-      "name": "Competition for status at work",
-      "order": 10,
-      "summary": "How a person gains standing by lowering somebody else's competence, how to tell that move apart from honest criticism, and how to answer it without making it worse.",
-      "topicIds": [
-        "article_competence_shaming"
-      ]
-    },
-    {
-      "fieldId": "mind",
-      "id": "manipulation_in_arguments",
-      "name": "How an argument is manipulated",
-      "order": 12,
-      "summary": "The moves that move the ground under a claim, and the sentences that put it back where it was.",
-      "topicIds": [
-        "article_manipulation_in_arguments"
-      ]
-    },
-    {
-      "fieldId": "mind",
-      "id": "gaslighting_darvo",
-      "name": "Gaslighting and DARVO",
-      "order": 11,
-      "summary": "How a shared account is rewritten, the three moves that do it, and the sentences that answer them.",
-      "topicIds": [
-        "article_gaslighting_darvo"
-      ]
-    },
-    {
-      "fieldId": "social",
-      "id": "long_term_singleness",
-      "name": "Long-term singleness: the state, the story and the words",
-      "order": 6,
-      "summary": "What long-term singleness describes, the stories people tell about it, the words that describe it precisely, and the habits that keep a single life steady.",
-      "topicIds": [
-        "article_long_term_singleness"
-      ]
-    },
-    {
       "fieldId": "social",
       "id": "dating_market",
       "name": "The dating market and the hypergamy hypothesis",
@@ -141,13 +91,43 @@
       ]
     },
     {
-      "fieldId": "formal_sciences",
-      "id": "article_layout",
-      "name": "Illustrated reading",
-      "order": 1,
-      "summary": "One article that shows every layout the reader can paint.",
+      "fieldId": "social",
+      "id": "attachment_styles",
+      "name": "Attachment styles: the four patterns and the words for them",
+      "order": 8,
+      "summary": "How attachment works in an adult relationship, how each of the four styles shows up, and the words a reader can use to ask for what they need.",
       "topicIds": [
-        "article_showcase"
+        "article_attachment_styles"
+      ]
+    },
+    {
+      "fieldId": "social",
+      "id": "gender_emotional_maturity",
+      "name": "Emotional maturity and the differences between people",
+      "order": 5,
+      "summary": "What emotional maturity is made of, what an average difference can tell you, and how to talk about it without a fight.",
+      "topicIds": [
+        "article_gender_emotional_maturity"
+      ]
+    },
+    {
+      "fieldId": "social",
+      "id": "mate_selection_age",
+      "name": "Choosing a partner and age preferences",
+      "order": 7,
+      "summary": "How people choose a partner, where age preferences come from, and what an age gap does and does not tell you.",
+      "topicIds": [
+        "article_mate_selection_age"
+      ]
+    },
+    {
+      "fieldId": "work",
+      "id": "dark_psychology_negotiation",
+      "name": "Negotiating under pressure",
+      "order": 2,
+      "summary": "The persuasion techniques of a negotiation, and the preparation that keeps them from moving your price.",
+      "topicIds": [
+        "article_dark_psychology_negotiation"
       ]
     },
     {
@@ -325,43 +305,91 @@
       ]
     },
     {
-      "fieldId": "social",
-      "id": "attachment_styles",
-      "name": "Attachment styles: the four patterns and the words for them",
-      "order": 8,
-      "summary": "How attachment works in an adult relationship, how each of the four styles shows up, and the words a reader can use to ask for what they need.",
+      "fieldId": "kids_daily",
+      "id": "daily_conversations",
+      "name": "Daily conversations",
+      "order": 1,
+      "summary": "The small talks of a child's day: hello, food, friends, school, weather and bedtime.",
       "topicIds": [
-        "article_attachment_styles"
+        "article_favourite_animals",
+        "article_getting_ready_for_bedtime",
+        "article_talking_about_family",
+        "article_asking_for_food",
+        "article_making_friends_at_school",
+        "article_saying_hello",
+        "article_asking_questions_in_class",
+        "article_talking_about_the_weather"
       ]
     },
     {
-      "fieldId": "social",
-      "id": "gender_emotional_maturity",
-      "name": "Emotional maturity and the differences between people",
-      "order": 5,
-      "summary": "What emotional maturity is made of, what an average difference can tell you, and how to talk about it without a fight.",
+      "fieldId": "kids_feelings",
+      "id": "feelings_and_friends",
+      "name": "Feelings and friends",
+      "order": 1,
+      "summary": "Naming what you feel, asking for help, being polite, sharing, and learning that mistakes are part of growing up.",
       "topicIds": [
-        "article_gender_emotional_maturity"
+        "article_when_you_feel_angry",
+        "article_good_friend",
+        "article_asking_for_help",
+        "article_being_kind",
+        "article_making_mistakes",
+        "article_sharing_and_turns",
+        "article_please_and_thank_you",
+        "article_how_do_you_feel"
       ]
     },
     {
-      "fieldId": "social",
-      "id": "mate_selection_age",
-      "name": "Choosing a partner and age preferences",
-      "order": 7,
-      "summary": "How people choose a partner, where age preferences come from, and what an age gap does and does not tell you.",
+      "fieldId": "kids_food",
+      "id": "food_and_eating",
+      "name": "Food and healthy eating",
+      "order": 1,
+      "summary": "Where our food comes from, what it does for our bodies, and how we prepare it.",
       "topicIds": [
-        "article_mate_selection_age"
+        "article_how_bread_is_made",
+        "article_kids_food_breakfast",
+        "article_kids_food_favourite_foods",
+        "article_kids_food_fruits",
+        "article_where_milk_comes_from",
+        "article_fruit_salad",
+        "article_healthy_snacks",
+        "article_kids_food_vegetables"
       ]
     },
     {
-      "fieldId": "work",
-      "id": "dark_psychology_negotiation",
-      "name": "Negotiating under pressure",
-      "order": 2,
-      "summary": "The persuasion techniques of a negotiation, and the preparation that keeps them from moving your price.",
+      "fieldId": "kids_home",
+      "id": "everyday_objects",
+      "name": "Everyday objects at home",
+      "order": 1,
+      "summary": "The things we use at home every day: kitchen things, bedroom things, school things and clothes.",
       "topicIds": [
-        "article_dark_psychology_negotiation"
+        "article_bathroom",
+        "article_bedroom",
+        "article_clothes",
+        "article_day",
+        "article_kitchen",
+        "article_schoolbag",
+        "article_shapes",
+        "article_toys"
+      ]
+    },
+    {
+      "fieldId": "formal_sciences",
+      "id": "article_layout",
+      "name": "Illustrated reading",
+      "order": 1,
+      "summary": "One article that shows every layout the reader can paint.",
+      "topicIds": [
+        "article_showcase"
+      ]
+    },
+    {
+      "fieldId": "mathematics",
+      "id": "math_algebra",
+      "name": "Algebra",
+      "order": 1,
+      "summary": "English for equations, variables, and the steps that keep both sides equal.",
+      "topicIds": [
+        "math_linear_eq"
       ]
     }
   ],

@@ -1,575 +1,575 @@
 {
   "items": [
     {
-      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
-      "dictionaryId": "lex.sa.daily_skills.serving_size",
-      "example": "One serving is 30 g, which is much less than the bowl I had.",
-      "fieldId": "daily_skills",
-      "id": "serving_size",
+      "definition": "The word for your mum and your dad together.",
+      "dictionaryId": "lex.sa.kids_daily.parents",
+      "example": "My parents work at the weekend too.",
+      "fieldId": "kids_daily",
+      "id": "parents",
       "lessonIds": [
-        "article_food_labels"
+        "article_talking_about_family"
       ],
       "packs": [
-        "knw.daily.foodlabels"
+        "knw.kids.daily.family"
       ],
-      "term": "Serving size"
-    },
-    {
-      "definition": "A substance in food that can cause a serious allergic reaction in some people. There are fourteen that have to be declared.",
-      "dictionaryId": "lex.sa.daily_skills.allergen",
-      "example": "The allergen box says it contains peanuts and soya.",
-      "fieldId": "daily_skills",
-      "id": "allergen",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Allergen"
-    },
-    {
-      "definition": "The unbroken path a chilled product follows from the factory to your fridge. If the chain breaks, the use-by date stops meaning anything.",
-      "dictionaryId": "lex.sa.daily_skills.cold_chain",
-      "example": "The cold chain was broken, so the date on the pack means nothing.",
-      "fieldId": "daily_skills",
-      "id": "cold_chain",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Cold chain"
-    },
-    {
-      "definition": "To put something that has thawed back into the freezer. For meat and fish this is a safety question, not a quality one.",
-      "dictionaryId": "lex.sa.daily_skills.refreeze",
-      "example": "You can freeze it now, but you cannot refreeze it once it has thawed.",
-      "fieldId": "daily_skills",
-      "id": "refreeze",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Refreeze"
-    },
-    {
-      "definition": "The flow of electricity, measured in amperes (A).",
-      "dictionaryId": "lex.sa.daily_skills.elec_electric_current",
-      "example": "The current went back through the earth conductor instead of through the motor.",
-      "fieldId": "daily_skills",
-      "id": "elec_electric_current",
-      "lessonIds": [
-        "article_pump_electrical_safety",
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety",
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Electric current"
-    },
-    {
-      "definition": "A machine that moves water from one place to another.",
-      "dictionaryId": "lex.sa.daily_skills.pump_pump",
-      "example": "The pump in the sump moves the water up into the tank.",
-      "fieldId": "daily_skills",
-      "id": "pump_pump",
-      "lessonIds": [
-        "article_pump_electrical_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety"
-      ],
-      "term": "Pump"
-    },
-    {
-      "definition": "A pump whose motor is sealed in a case that works under water.",
-      "dictionaryId": "lex.sa.daily_skills.pump_submersible_pump",
-      "example": "A submersible pump hangs on a cable inside the well.",
-      "fieldId": "daily_skills",
-      "id": "pump_submersible_pump",
-      "lessonIds": [
-        "article_pump_electrical_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety"
-      ],
-      "term": "Submersible pump"
-    },
-    {
-      "definition": "The material around the live part of a cable that keeps the current inside it.",
-      "dictionaryId": "lex.sa.daily_skills.elec_insulation",
-      "example": "The insulation on the cable is cracked where it passes over the edge of the pit.",
-      "fieldId": "daily_skills",
-      "id": "elec_insulation",
-      "lessonIds": [
-        "article_pump_electrical_safety",
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety",
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Insulation"
-    },
-    {
-      "definition": "Current that escapes from the live part of a cable or a pump through damaged insulation.",
-      "dictionaryId": "lex.sa.daily_skills.elec_leakage_current",
-      "example": "The electrician measured the leakage current before he ran the pump again.",
-      "fieldId": "daily_skills",
-      "id": "elec_leakage_current",
-      "lessonIds": [
-        "article_pump_electrical_safety",
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety",
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Leakage current"
-    },
-    {
-      "definition": "A deep hole dug in the ground that holds the water a pump lifts.",
-      "dictionaryId": "lex.sa.daily_skills.pump_well",
-      "example": "The pump hangs ten metres down inside the well.",
-      "fieldId": "daily_skills",
-      "id": "pump_well",
-      "lessonIds": [
-        "article_pump_electrical_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety"
-      ],
-      "term": "Well"
-    },
-    {
-      "definition": "A pit that collects water from a floor or a basement so that a pump can lift it.",
-      "dictionaryId": "lex.sa.daily_skills.pump_sump",
-      "example": "The sump in the basement pit fills when the floor drain backs up.",
-      "fieldId": "daily_skills",
-      "id": "pump_sump",
-      "lessonIds": [
-        "article_pump_electrical_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety"
-      ],
-      "term": "Sump"
-    },
-    {
-      "definition": "The green-and-yellow wire that connects the metal parts of an installation to the earth.",
-      "dictionaryId": "lex.sa.daily_skills.pump_earth_conductor",
-      "example": "The earth conductor was cut by a drill during the renovation.",
-      "fieldId": "daily_skills",
-      "id": "pump_earth_conductor",
-      "lessonIds": [
-        "article_pump_electrical_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety"
-      ],
-      "term": "Earth conductor"
-    },
-    {
-      "definition": "The whole arrangement that connects the metal parts of an installation to the earth, so that a fault current has a safe way back.",
-      "dictionaryId": "lex.sa.daily_skills.elec_earthing",
-      "example": "The earthing of the pump was checked when the board was replaced.",
-      "fieldId": "daily_skills",
-      "id": "elec_earthing",
-      "lessonIds": [
-        "article_pump_electrical_safety",
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety",
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Earthing"
-    },
-    {
-      "definition": "A device that compares the current going out with the current coming back, and opens the circuit when they differ.",
-      "dictionaryId": "lex.sa.daily_skills.elec_residual_current_device_rcd",
-      "example": "The residual-current device is the wide switch on the board with the test button.",
-      "fieldId": "daily_skills",
-      "id": "elec_residual_current_device_rcd",
-      "lessonIds": [
-        "article_pump_electrical_safety",
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety",
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Residual-current device (RCD)"
-    },
-    {
-      "definition": "The IP code on the nameplate that says how well the casing keeps out solid objects and water.",
-      "dictionaryId": "lex.sa.daily_skills.pump_ip_rating",
-      "example": "The nameplate of this pump carries an ingress protection rating of IP68.",
-      "fieldId": "daily_skills",
-      "id": "pump_ip_rating",
-      "lessonIds": [
-        "article_pump_electrical_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety"
-      ],
-      "term": "Ingress protection rating"
-    },
-    {
-      "definition": "A switch on a float that starts or stops the pump when the water level rises or falls.",
-      "dictionaryId": "lex.sa.daily_skills.pump_float_switch",
-      "example": "The float switch in the tank stops the pump when the tank is empty.",
-      "fieldId": "daily_skills",
-      "id": "pump_float_switch",
-      "lessonIds": [
-        "article_pump_electrical_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety"
-      ],
-      "term": "Float switch"
-    },
-    {
-      "definition": "The pump turning without water around it, so that the motor has nothing to cool it.",
-      "dictionaryId": "lex.sa.daily_skills.pump_dry_run",
-      "example": "A dry run heats the motor of a submersible pump.",
-      "fieldId": "daily_skills",
-      "id": "pump_dry_run",
-      "lessonIds": [
-        "article_pump_electrical_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety"
-      ],
-      "term": "Dry run"
-    },
-    {
-      "definition": "Water moving in the wrong direction, back along the pipe towards the pump.",
-      "dictionaryId": "lex.sa.daily_skills.pump_backflow",
-      "example": "After the supply stops, backflow can leave the pump running with no water.",
-      "fieldId": "daily_skills",
-      "id": "pump_backflow",
-      "lessonIds": [
-        "article_pump_electrical_safety"
-      ],
-      "packs": [
-        "knw.daily.pump_electrical_safety"
-      ],
-      "term": "Backflow"
-    },
-    {
-      "definition": "The push of electric charge that drives a current.",
-      "dictionaryId": "lex.sa.en.voltage.noun",
-      "example": "The voltage across the cell is 12 V.",
-      "fieldId": "daily_skills",
-      "id": "wh_voltage",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "voltage"
-    },
-    {
-      "definition": "The green-and-yellow conductor that ties the metal case of an appliance to the earth bar in the board.",
-      "dictionaryId": "lex.sa.daily_skills.wh_earth_wire",
-      "example": "The earth wire was cut by a drill during the last renovation.",
-      "fieldId": "daily_skills",
-      "id": "wh_earth_wire",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Earth wire (ground wire)"
-    },
-    {
-      "definition": "A device that opens a circuit when the current is higher than the circuit is rated for.",
-      "dictionaryId": "lex.sa.daily_skills.wh_circuit_breaker",
-      "example": "The circuit breaker is the 16 A device on the board.",
-      "fieldId": "daily_skills",
-      "id": "wh_circuit_breaker",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Circuit breaker"
-    },
-    {
-      "definition": "Joining metal parts to each other so that they cannot sit at different voltages.",
-      "dictionaryId": "lex.sa.daily_skills.wh_bonding",
-      "example": "Bonding of the metal pipework is part of the installation.",
-      "fieldId": "daily_skills",
-      "id": "wh_bonding",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Bonding"
-    },
-    {
-      "definition": "To open the circuit by itself, because the device has found a fault or an overload.",
-      "dictionaryId": "lex.sa.daily_skills.wh_trip",
-      "example": "The RCD tripped when the heater was switched on.",
-      "fieldId": "daily_skills",
-      "id": "wh_trip",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Trip"
-    },
-    {
-      "definition": "A valve on the tank that opens and releases water if the pressure or the temperature inside becomes too high.",
-      "dictionaryId": "lex.sa.daily_skills.wh_safety_valve",
-      "example": "The safety valve is the small brass valve on the cold pipe.",
-      "fieldId": "daily_skills",
-      "id": "wh_safety_valve",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Safety valve"
-    },
-    {
-      "definition": "A rod of metal that corrodes instead of the tank, so that the tank wall is saved.",
-      "dictionaryId": "lex.sa.daily_skills.wh_anode_rod",
-      "example": "The anode rod is checked at every service and replaced when it is worn away.",
-      "fieldId": "daily_skills",
-      "id": "wh_anode_rod",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Anode rod"
-    },
-    {
-      "definition": "A burn caused by hot liquid or steam.",
-      "dictionaryId": "lex.sa.daily_skills.wh_scald",
-      "example": "Water at 60 °C can scald a child in a few seconds.",
-      "fieldId": "daily_skills",
-      "id": "wh_scald",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Scald"
-    },
-    {
-      "definition": "Removing the mineral scale that builds up inside a tank and on the heating element.",
-      "dictionaryId": "lex.sa.daily_skills.wh_descaling",
-      "example": "Descaling is done at the service interval in hard water areas.",
-      "fieldId": "daily_skills",
-      "id": "wh_descaling",
-      "lessonIds": [
-        "article_water_heater_safety"
-      ],
-      "packs": [
-        "knw.daily.water_heater_safety"
-      ],
-      "term": "Descaling"
-    },
-    {
-      "definition": "The substance in the medicine that produces the effect. Every other substance in the pack is only there to help it.",
-      "dictionaryId": "lex.sa.health.active_ingredient",
-      "example": "The active ingredient is the same in both packs, only the strength differs.",
-      "fieldId": "health",
-      "id": "active_ingredient",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Active ingredient"
-    },
-    {
-      "definition": "A condition in which the medicine must not be used, because the risk outweighs the benefit.",
-      "dictionaryId": "lex.sa.health.contraindication",
-      "example": "Pregnancy is a contraindication for this medicine, so I will ask about an alternative.",
-      "fieldId": "health",
-      "id": "contraindication",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Contraindication"
-    },
-    {
-      "definition": "Any effect the medicine has other than the one it is meant to produce.",
-      "dictionaryId": "lex.sa.health.side_effect",
-      "example": "Nausea is listed as a side effect, and it usually passes after the first few days.",
-      "fieldId": "health",
-      "id": "side_effect",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Side effect"
-    },
-    {
-      "definition": "What happens when a medicine meets another medicine, or alcohol, or a particular food. Some are dangerous.",
-      "dictionaryId": "lex.sa.health.interaction",
-      "example": "There is an interaction with this antibiotic, so I will tell the pharmacist about everything I take.",
-      "fieldId": "health",
-      "id": "interaction",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Interaction"
-    },
-    {
-      "definition": "The last date on which the maker guarantees the medicine keeps its strength and its safety.",
-      "dictionaryId": "lex.sa.health.expiry_date",
-      "example": "The expiry date is on the strip, so I checked the one on the box too.",
-      "fieldId": "health",
-      "id": "expiry_date",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Expiry date"
-    },
-    {
-      "definition": "The licence number under which the medicine is sold. It identifies the pack in the regulator's records.",
-      "dictionaryId": "lex.sa.health.marketing_authorisation_number",
-      "example": "The marketing authorisation number is printed at the bottom of the carton, and I quoted it in the report.",
-      "fieldId": "health",
-      "id": "marketing_authorisation_number",
-      "lessonIds": [
-        "article_medicine_labels"
-      ],
-      "packs": [
-        "knw.health.medicine"
-      ],
-      "term": "Marketing authorisation number"
+      "term": "Parents"
     },
     {
       "conflict": true,
-      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
-      "dictionaryId": "lex.sa.daily_skills.serving_size",
-      "example": "One serving is 30 g, which is much less than the bowl I had.",
-      "fieldId": "health",
-      "id": "panel_serving_size",
+      "definition": "The polite word you say before you ask for something. It shows you are asking, not taking.",
+      "dictionaryId": "lex.sa.kids_feelings.please",
+      "example": "Please, can I have the blue cup?",
+      "fieldId": "kids_daily",
+      "id": "please",
       "lessonIds": [
-        "article_nutrition"
+        "article_asking_for_food",
+        "article_please_and_thank_you"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.kids.daily.food",
+        "knw.kids.feelings.thanks"
       ],
-      "term": "Serving size"
+      "term": "Please"
     },
     {
-      "definition": "A daily guide for an average adult, used as the yardstick the percentages on a panel are measured against.",
-      "dictionaryId": "lex.sa.health.daily_value",
-      "example": "One portion gives me 40 % of the daily value for salt.",
-      "fieldId": "health",
-      "id": "daily_value",
+      "definition": "A question asking if you are allowed to have something. The person can answer yes or no.",
+      "dictionaryId": "lex.sa.kids_daily.can_i",
+      "example": "Can I have a piece of bread?",
+      "fieldId": "kids_daily",
+      "id": "can_i",
       "lessonIds": [
-        "article_nutrition"
+        "article_asking_for_food"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.kids.daily.food"
       ],
-      "term": "Daily value"
+      "term": "Can I?"
     },
     {
-      "definition": "The average daily amount of energy or a nutrient for an adult. A guide, not a target.",
-      "dictionaryId": "lex.sa.health.reference_intake",
-      "example": "The reference intake for energy is about 2000 kilocalories a day.",
-      "fieldId": "health",
-      "id": "reference_intake",
+      "definition": "A softer way to ask, good for when you talk to somebody you do not know well.",
+      "dictionaryId": "lex.sa.kids_daily.could_i",
+      "example": "Could I have the menu, please?",
+      "fieldId": "kids_daily",
+      "id": "could_i",
       "lessonIds": [
-        "article_nutrition"
+        "article_asking_for_food"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.kids.daily.food"
       ],
-      "term": "Reference intake"
+      "term": "Could I?"
     },
     {
-      "definition": "One of the three nutrients the body needs in quantity: carbohydrate, fat and protein.",
-      "dictionaryId": "lex.sa.health.macronutrient",
-      "example": "The main macronutrient in this product is fat, not carbohydrate.",
-      "fieldId": "health",
-      "id": "macronutrient",
+      "definition": "A warm way to say what you want. It is like saying I want, but kinder.",
+      "dictionaryId": "lex.sa.kids_daily.i_would_like",
+      "example": "I would like some orange juice, please.",
+      "fieldId": "kids_daily",
+      "id": "i_would_like",
       "lessonIds": [
-        "article_nutrition"
+        "article_asking_for_food"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.kids.daily.food"
       ],
-      "term": "Macronutrient"
+      "term": "I would like"
     },
     {
-      "definition": "The saturated fats, which are the part of the fat that matters most for blood cholesterol.",
-      "dictionaryId": "lex.sa.health.saturated_fat",
-      "example": "It has 11 g of saturates, which is over half the daily reference.",
-      "fieldId": "health",
-      "id": "saturated_fat",
+      "definition": "A child who is in the same class as you. Classmates are the easiest people to be friends with.",
+      "dictionaryId": "lex.sa.kids_daily.classmate",
+      "example": "Mai is my classmate, and she sits next to me.",
+      "fieldId": "kids_daily",
+      "id": "classmate",
       "lessonIds": [
-        "article_nutrition"
+        "article_making_friends_at_school"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.kids.daily.friends"
       ],
-      "term": "Saturates"
+      "term": "Classmate"
     },
     {
-      "definition": "Sugar the manufacturer added, as distinct from sugar that came with the fruit or the milk.",
-      "dictionaryId": "lex.sa.health.added_sugar",
-      "example": "Total sugars are 20 g, and added sugars are 15 g of that.",
-      "fieldId": "health",
-      "id": "added_sugar",
+      "definition": "To say your name to somebody for the first time. It only means saying your name.",
+      "dictionaryId": "lex.sa.kids_daily.introduce_yourself",
+      "example": "I introduced myself and said, I am An.",
+      "fieldId": "kids_daily",
+      "id": "introduce_yourself",
       "lessonIds": [
-        "article_nutrition"
+        "article_making_friends_at_school"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.kids.daily.friends"
       ],
-      "term": "Added sugar"
+      "term": "Introduce yourself"
     },
     {
-      "definition": "The element that makes salt salty. A label quoting salt is quoting sodium plus the chloride with it.",
-      "dictionaryId": "lex.sa.health.sodium",
-      "example": "This has 0.5 g of sodium per 100 g, which is low.",
-      "fieldId": "health",
-      "id": "sodium",
+      "definition": "To start playing with a group that is already playing. You ask first, and then you join in.",
+      "dictionaryId": "lex.sa.kids_daily.join_in",
+      "example": "Can I join in your game?",
+      "fieldId": "kids_daily",
+      "id": "join_in",
       "lessonIds": [
-        "article_nutrition"
+        "article_making_friends_at_school"
       ],
       "packs": [
-        "knw.health.nutrition"
+        "knw.kids.daily.friends"
       ],
-      "term": "Sodium"
+      "term": "Join in"
+    },
+    {
+      "definition": "To do the same game with another child, side by side. It is the simplest friendship there is.",
+      "dictionaryId": "lex.sa.kids_daily.play_together",
+      "example": "We play together at break time every day.",
+      "fieldId": "kids_daily",
+      "id": "play_together",
+      "lessonIds": [
+        "article_making_friends_at_school"
+      ],
+      "packs": [
+        "knw.kids.daily.friends"
+      ],
+      "term": "Play together"
+    },
+    {
+      "definition": "A child you have just met. Saying hello twice makes a new child feel welcome.",
+      "dictionaryId": "lex.sa.kids_daily.new_friend",
+      "example": "I have a new friend in class 4B.",
+      "fieldId": "kids_daily",
+      "id": "new_friend",
+      "lessonIds": [
+        "article_making_friends_at_school"
+      ],
+      "packs": [
+        "knw.kids.daily.friends"
+      ],
+      "term": "New friend"
+    },
+    {
+      "definition": "The word you say when you meet somebody. You can use it all day long.",
+      "dictionaryId": "lex.sa.kids_daily.hello",
+      "example": "Hello, I am Minh.",
+      "fieldId": "kids_daily",
+      "id": "hello",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Hello"
+    },
+    {
+      "definition": "A short and casual way to say hello, used with people you already know.",
+      "dictionaryId": "lex.sa.kids_daily.hi",
+      "example": "Hi Bao, are you ready?",
+      "fieldId": "kids_daily",
+      "id": "hi",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Hi"
+    },
+    {
+      "definition": "A friendly question you ask after saying hello, to start a small talk.",
+      "dictionaryId": "lex.sa.kids_daily.how_are_you",
+      "example": "Good morning! How are you today?",
+      "fieldId": "kids_daily",
+      "id": "how_are_you",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "How are you?"
+    },
+    {
+      "definition": "The words you use to tell somebody your own name.",
+      "dictionaryId": "lex.sa.kids_daily.my_name_is",
+      "example": "My name is Lan, and I am seven.",
+      "fieldId": "kids_daily",
+      "id": "my_name_is",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "My name is"
+    },
+    {
+      "definition": "What you say the first time you meet somebody. It is polite and warm.",
+      "dictionaryId": "lex.sa.kids_daily.nice_to_meet_you",
+      "example": "Nice to meet you. I am Minh.",
+      "fieldId": "kids_daily",
+      "id": "nice_to_meet_you",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Nice to meet you"
+    },
+    {
+      "definition": "The question word that asks for a thing or an idea. It is the most useful question word of all.",
+      "dictionaryId": "lex.sa.kids_daily.what",
+      "example": "What does this word mean?",
+      "fieldId": "kids_daily",
+      "id": "what",
+      "lessonIds": [
+        "article_asking_questions_in_class"
+      ],
+      "packs": [
+        "knw.kids.daily.questions"
+      ],
+      "term": "What"
+    },
+    {
+      "definition": "The question word that asks for a person.",
+      "dictionaryId": "lex.sa.kids_daily.who",
+      "example": "Who is your new teacher?",
+      "fieldId": "kids_daily",
+      "id": "who",
+      "lessonIds": [
+        "article_asking_questions_in_class"
+      ],
+      "packs": [
+        "knw.kids.daily.questions"
+      ],
+      "term": "Who"
+    },
+    {
+      "definition": "Introduces the conditions on a and b.",
+      "dictionaryId": "lex.sa.en.where.conjunction",
+      "example": "ax + b = 0, where a is non-zero.",
+      "fieldId": "kids_daily",
+      "id": "where",
+      "lessonIds": [
+        "article_asking_questions_in_class"
+      ],
+      "packs": [
+        "knw.kids.daily.questions"
+      ],
+      "term": "where"
+    },
+    {
+      "definition": "At the time when something happens.",
+      "dictionaryId": "lex.sa.en.when.adverb",
+      "example": "",
+      "fieldId": "kids_daily",
+      "id": "when",
+      "lessonIds": [
+        "article_asking_questions_in_class"
+      ],
+      "packs": [
+        "knw.kids.daily.questions"
+      ],
+      "term": "when"
+    },
+    {
+      "definition": "The question word that asks for a reason. Why questions are the most interesting ones.",
+      "dictionaryId": "lex.sa.kids_daily.why",
+      "example": "Why do we have to sleep?",
+      "fieldId": "kids_daily",
+      "id": "why",
+      "lessonIds": [
+        "article_asking_questions_in_class"
+      ],
+      "packs": [
+        "knw.kids.daily.questions"
+      ],
+      "term": "Why"
+    },
+    {
+      "definition": "The question word that asks for a way of doing something.",
+      "dictionaryId": "lex.sa.kids_daily.how",
+      "example": "How do you spell your name?",
+      "fieldId": "kids_daily",
+      "id": "how",
+      "lessonIds": [
+        "article_asking_questions_in_class"
+      ],
+      "packs": [
+        "knw.kids.daily.questions"
+      ],
+      "term": "How"
+    },
+    {
+      "definition": "The sun is shining and there are few clouds. A sunny day is a happy day.",
+      "dictionaryId": "lex.sa.kids_daily.sunny",
+      "example": "It is sunny, so we can play outside.",
+      "fieldId": "kids_daily",
+      "id": "sunny",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Sunny"
+    },
+    {
+      "definition": "The sky has clouds in it. Clouds are about the sky, not about the temperature.",
+      "dictionaryId": "lex.sa.kids_daily.cloudy",
+      "example": "It is cloudy this morning, but it is still warm.",
+      "fieldId": "kids_daily",
+      "id": "cloudy",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Cloudy"
+    },
+    {
+      "definition": "Water is falling from the clouds. There is light rain and heavy rain.",
+      "dictionaryId": "lex.sa.kids_daily.rainy",
+      "example": "It is rainy, so take an umbrella.",
+      "fieldId": "kids_daily",
+      "id": "rainy",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Rainy"
+    },
+    {
+      "definition": "The air is moving fast. A windy day can be hot or freezing.",
+      "dictionaryId": "lex.sa.kids_daily.windy",
+      "example": "It is windy, so my hat keeps blowing away.",
+      "fieldId": "kids_daily",
+      "id": "windy",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Windy"
+    },
+    {
+      "definition": "The temperature is low. Cold is lower than cool.",
+      "dictionaryId": "lex.sa.kids_daily.cold",
+      "example": "It is cold outside, so I am wearing my coat.",
+      "fieldId": "kids_daily",
+      "id": "cold",
+      "lessonIds": [
+        "article_talking_about_the_weather"
+      ],
+      "packs": [
+        "knw.kids.daily.weather"
+      ],
+      "term": "Cold"
+    },
+    {
+      "definition": "A hot, upset feeling. It often comes fast and shows in your hands and face.",
+      "dictionaryId": "lex.sa.kids_feelings.angry",
+      "example": "I feel angry, so I am going to count to ten.",
+      "fieldId": "kids_feelings",
+      "id": "angry",
+      "lessonIds": [
+        "article_how_do_you_feel",
+        "article_when_you_feel_angry"
+      ],
+      "packs": [
+        "knw.kids.feelings.angry",
+        "knw.kids.feelings.today"
+      ],
+      "term": "Angry"
+    },
+    {
+      "definition": "A smaller angry feeling that comes when something still will not work.",
+      "dictionaryId": "lex.sa.kids_feelings.frustrated",
+      "example": "I am frustrated with this puzzle.",
+      "fieldId": "kids_feelings",
+      "id": "frustrated",
+      "lessonIds": [
+        "article_when_you_feel_angry"
+      ],
+      "packs": [
+        "knw.kids.feelings.angry"
+      ],
+      "term": "Frustrated"
+    },
+    {
+      "definition": "To bring your body back to quiet so you can think and speak.",
+      "dictionaryId": "lex.sa.kids_feelings.calm_down",
+      "example": "Let us calm down first, then talk.",
+      "fieldId": "kids_feelings",
+      "id": "calm_down",
+      "lessonIds": [
+        "article_when_you_feel_angry"
+      ],
+      "packs": [
+        "knw.kids.feelings.angry"
+      ],
+      "term": "Calm down"
+    },
+    {
+      "definition": "To take air in slowly and let it out slowly.",
+      "dictionaryId": "lex.sa.kids_feelings.breathe",
+      "example": "Breathe in, and blow out slowly.",
+      "fieldId": "kids_feelings",
+      "id": "breathe",
+      "lessonIds": [
+        "article_when_you_feel_angry"
+      ],
+      "packs": [
+        "knw.kids.feelings.angry"
+      ],
+      "term": "Breathe"
+    },
+    {
+      "conflict": true,
+      "definition": "A person you like and who likes you back. Friends like to spend time together.",
+      "dictionaryId": "lex.sa.kids_feelings.friend",
+      "example": "Minh is my best friend.",
+      "fieldId": "kids_feelings",
+      "id": "friend",
+      "lessonIds": [
+        "article_bear_sharing",
+        "article_good_friend"
+      ],
+      "packs": [
+        "knw.kids.feelings.friend",
+        "knw.kids.stories.bear"
+      ],
+      "term": "Friend"
+    },
+    {
+      "definition": "Letting somebody use your things, and letting them do things with you too.",
+      "dictionaryId": "lex.sa.kids_feelings.sharing",
+      "example": "We shared the ball all afternoon.",
+      "fieldId": "kids_feelings",
+      "id": "sharing",
+      "lessonIds": [
+        "article_good_friend"
+      ],
+      "packs": [
+        "knw.kids.feelings.friend"
+      ],
+      "term": "Sharing"
+    },
+    {
+      "definition": "One person goes first, and then the other one goes. It is how two people share one thing fairly.",
+      "dictionaryId": "lex.sa.kids_feelings.taking_turns",
+      "example": "We took turns on the swing.",
+      "fieldId": "kids_feelings",
+      "id": "taking_turns",
+      "lessonIds": [
+        "article_good_friend"
+      ],
+      "packs": [
+        "knw.kids.feelings.friend"
+      ],
+      "term": "Taking turns"
+    },
+    {
+      "definition": "Giving your full attention to somebody who is talking.",
+      "dictionaryId": "lex.sa.kids_feelings.listening",
+      "example": "He listened to my whole story.",
+      "fieldId": "kids_feelings",
+      "id": "listening",
+      "lessonIds": [
+        "article_good_friend"
+      ],
+      "packs": [
+        "knw.kids.feelings.friend"
+      ],
+      "term": "Listening"
+    },
+    {
+      "definition": "When two friends get angry with each other. Every friendship has these.",
+      "dictionaryId": "lex.sa.kids_feelings.quarrel",
+      "example": "We had a quarrel and made up the same afternoon.",
+      "fieldId": "kids_feelings",
+      "id": "quarrel",
+      "lessonIds": [
+        "article_good_friend"
+      ],
+      "packs": [
+        "knw.kids.feelings.friend"
+      ],
+      "term": "Quarrel"
+    },
+    {
+      "definition": "What you need from somebody else. You can need help with a task, a feeling or a person.",
+      "dictionaryId": "lex.sa.kids_feelings.help",
+      "example": "I need some help with this.",
+      "fieldId": "kids_feelings",
+      "id": "help",
+      "lessonIds": [
+        "article_asking_for_help"
+      ],
+      "packs": [
+        "knw.kids.feelings.help"
+      ],
+      "term": "Help"
+    },
+    {
+      "definition": "To say out loud that you need it. It is not the same as complaining.",
+      "dictionaryId": "lex.sa.kids_feelings.ask_for_help",
+      "example": "I asked for help and she came straight away.",
+      "fieldId": "kids_feelings",
+      "id": "ask_for_help",
+      "lessonIds": [
+        "article_asking_for_help"
+      ],
+      "packs": [
+        "knw.kids.feelings.help"
+      ],
+      "term": "Ask for help"
+    },
+    {
+      "definition": "An adult who looks after children, like a parent, a teacher or the school nurse.",
+      "dictionaryId": "lex.sa.kids_feelings.grown_up",
+      "example": "I told a grown-up about it.",
+      "fieldId": "kids_feelings",
+      "id": "grown_up",
+      "lessonIds": [
+        "article_asking_for_help"
+      ],
+      "packs": [
+        "knw.kids.feelings.help"
+      ],
+      "term": "Grown-up"
+    },
+    {
+      "definition": "To make a small attempt before you ask for help.",
+      "dictionaryId": "lex.sa.kids_feelings.try_first",
+      "example": "I tried first, and then I asked.",
+      "fieldId": "kids_feelings",
+      "id": "try_first",
+      "lessonIds": [
+        "article_asking_for_help"
+      ],
+      "packs": [
+        "knw.kids.feelings.help"
+      ],
+      "term": "Try first"
+    },
+    {
+      "conflict": true,
+      "definition": "Polite and friendly towards other people, even when you do not like their food.",
+      "dictionaryId": "lex.sa.kids_food.kind",
+      "example": "It is kind to say thank you for the food.",
+      "fieldId": "kids_feelings",
+      "id": "kind",
+      "lessonIds": [
+        "article_being_kind",
+        "article_kids_food_favourite_foods"
+      ],
+      "packs": [
+        "knw.kids.feelings.kind",
+        "knw.kids.food.favourites"
+      ],
+      "term": "Kind"
     }
   ],
   "nextCursor": "840",

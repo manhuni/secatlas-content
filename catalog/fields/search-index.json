@@ -97,30 +97,6 @@
     ],
     "search-043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
-        "icon": "science",
-        "id": "kids_science",
-        "name": "Science & Discovery",
-        "order": 25,
-        "summary": "Questions small readers ask, answered honestly: the sky, the rain, the plants, the body, the planets.",
-        "tagline": "Why the world works, for small readers"
-      },
-      {
         "icon": "auto_stories",
         "id": "kids_stories",
         "name": "Stories & Bedtime Tales",
@@ -135,6 +111,14 @@
         "order": 16,
         "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
         "tagline": "Talking to people without making it worse"
+      },
+      {
+        "icon": "science",
+        "id": "kids_science",
+        "name": "Science & Discovery",
+        "order": 25,
+        "summary": "Questions small readers ask, answered honestly: the sky, the rain, the plants, the body, the planets.",
+        "tagline": "Why the world works, for small readers"
       },
       {
         "icon": "functions",
@@ -159,6 +143,22 @@
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-0510eddd781102030eb8860671503a28e6a37f5346de429bdd47c0a37c77cc7d": [
@@ -303,20 +303,20 @@
     ],
     "search-10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9": [
       {
-        "icon": "chat",
-        "id": "kids_daily",
-        "name": "Daily Conversations for Kids",
-        "order": 27,
-        "summary": "The everyday exchanges of a child's day: hello, food, friends, school, weather and bedtime.",
-        "tagline": "Talking, for small readers"
-      },
-      {
         "icon": "functions",
         "id": "formal_sciences",
         "name": "Formal Sciences",
         "order": 1,
         "summary": "English for reading symbols, definitions, and formal arguments.",
         "tagline": "Notation and precise English"
+      },
+      {
+        "icon": "chat",
+        "id": "kids_daily",
+        "name": "Daily Conversations for Kids",
+        "order": 27,
+        "summary": "The everyday exchanges of a child's day: hello, food, friends, school, weather and bedtime.",
+        "tagline": "Talking, for small readers"
       }
     ],
     "search-1143da2bc54c495c4be31d3868785d39ffdfd56df5668f0645d8f14d47647952": [
@@ -379,15 +379,6 @@
         "tagline": "Working with other people, in their language"
       },
       {
-        "icon": "bolt_outlined",
-        "id": "physics",
-        "name": "Physics",
-        "order": 2,
-        "parentFieldId": "formal_sciences",
-        "summary": "Kinematics, energy, and electricity in English.",
-        "tagline": "Motion, force, circuits"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
@@ -402,6 +393,15 @@
         "order": 14,
         "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
         "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
+        "icon": "bolt_outlined",
+        "id": "physics",
+        "name": "Physics",
+        "order": 2,
+        "parentFieldId": "formal_sciences",
+        "summary": "Kinematics, energy, and electricity in English.",
+        "tagline": "Motion, force, circuits"
       }
     ],
     "search-169b1b2a14984e4e0296eeb1555b492abbff45d6c5034e9a4366c5bc1b8ac3c5": [
@@ -436,20 +436,20 @@
     ],
     "search-18ac3e7343f016890c510e93f935261169d9e3f565436429830faf0934f4f8e4": [
       {
-        "icon": "chat",
-        "id": "kids_daily",
-        "name": "Daily Conversations for Kids",
-        "order": 27,
-        "summary": "The everyday exchanges of a child's day: hello, food, friends, school, weather and bedtime.",
-        "tagline": "Talking, for small readers"
-      },
-      {
         "icon": "science",
         "id": "kids_science",
         "name": "Science & Discovery",
         "order": 25,
         "summary": "Questions small readers ask, answered honestly: the sky, the rain, the plants, the body, the planets.",
         "tagline": "Why the world works, for small readers"
+      },
+      {
+        "icon": "chat",
+        "id": "kids_daily",
+        "name": "Daily Conversations for Kids",
+        "order": 27,
+        "summary": "The everyday exchanges of a child's day: hello, food, friends, school, weather and bedtime.",
+        "tagline": "Talking, for small readers"
       }
     ],
     "search-199d84675f58cfa0cfb8833c172a79e5734ac09e0066b469da07f978e2d558a8": [
@@ -484,20 +484,20 @@
     ],
     "search-1bad5bfe8a4f8650cd6837f506e69523f55bfad50f51f27ee70229b92fcc5c01": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-1c48f6310f1c849b4ac338d340ee667bf3b6d59b589348eaa2b8a0698ff73481": [
@@ -532,38 +532,38 @@
     ],
     "search-1fb54c6fdca6a9f46e32c8ea21c5707a02c14f92f2c87c140a30b8b85856fee1": [
       {
-        "icon": "home",
-        "id": "kids_home",
-        "name": "Everyday Objects & Home",
-        "order": 23,
-        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
-        "tagline": "The things around you, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "home",
+        "id": "kids_home",
+        "name": "Everyday Objects & Home",
+        "order": 23,
+        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
+        "tagline": "The things around you, for small readers"
       }
     ],
     "search-2001981d63292fd531230f3f02c7c41acc6ca1a4e1f2bbc815efc6b1b8ab5006": [
       {
-        "icon": "home",
-        "id": "kids_home",
-        "name": "Everyday Objects & Home",
-        "order": 23,
-        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
-        "tagline": "The things around you, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "home",
+        "id": "kids_home",
+        "name": "Everyday Objects & Home",
+        "order": 23,
+        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
+        "tagline": "The things around you, for small readers"
       }
     ],
     "search-209a52a5416bbb84d293d0a1a231ea2f68049a8f275ce69dd3c0ea6dbb8a8a5a": [
@@ -621,6 +621,22 @@
     ],
     "search-252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111": [
       {
+        "icon": "payments",
+        "id": "money",
+        "name": "Money & Financial Literacy",
+        "order": 13,
+        "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
+        "tagline": "What money does, and how to keep some of it"
+      },
+      {
+        "icon": "functions",
+        "id": "formal_sciences",
+        "name": "Formal Sciences",
+        "order": 1,
+        "summary": "English for reading symbols, definitions, and formal arguments.",
+        "tagline": "Notation and precise English"
+      },
+      {
         "icon": "chat",
         "id": "kids_daily",
         "name": "Daily Conversations for Kids",
@@ -643,22 +659,6 @@
         "order": 22,
         "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
         "tagline": "Eating, for small readers"
-      },
-      {
-        "icon": "payments",
-        "id": "money",
-        "name": "Money & Financial Literacy",
-        "order": 13,
-        "summary": "Credit, interest, inflation, salary and the statements nobody reads: the mechanics of money, in plain words.",
-        "tagline": "What money does, and how to keep some of it"
-      },
-      {
-        "icon": "functions",
-        "id": "formal_sciences",
-        "name": "Formal Sciences",
-        "order": 1,
-        "summary": "English for reading symbols, definitions, and formal arguments.",
-        "tagline": "Notation and precise English"
       }
     ],
     "search-27aaf5eae6b95e9cb8dd7669dd5a335065d203f7b3cbd59d2a77ca37db562f82": [
@@ -804,6 +804,14 @@
     ],
     "search-2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6": [
       {
+        "icon": "public",
+        "id": "culture",
+        "name": "Culture & Modern Society",
+        "order": 17,
+        "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
+        "tagline": "Why people elsewhere do things differently"
+      },
+      {
         "icon": "chat",
         "id": "kids_daily",
         "name": "Daily Conversations for Kids",
@@ -819,14 +827,6 @@
         "parentFieldId": "formal_sciences",
         "summary": "Formulas, equilibrium, and laboratory English.",
         "tagline": "Reactions and quantities"
-      },
-      {
-        "icon": "public",
-        "id": "culture",
-        "name": "Culture & Modern Society",
-        "order": 17,
-        "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
-        "tagline": "Why people elsewhere do things differently"
       }
     ],
     "search-2ec3e47dcf05a139d895b271f899f0da4f51c6dfa8f7c0eb93caa89a5b03ef58": [
@@ -851,20 +851,20 @@
     ],
     "search-32b56ed53348a8587f30c90e5c6406df95d3b8ab1130b1da62bcf492a8ed8a63": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-32c044dfea70a1f4bee5e8668210707a516c20bf3493c78ae8312021d215df9c": [
@@ -887,20 +887,20 @@
     ],
     "search-32c1cf49a2feee269ed74dd860f72644ac71029839b21b1ce0c212efafa9ef07": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-32e83e92d45d71f69dcf9d214688f0375542108631b45d344e5df2eb91c11566": [
@@ -954,20 +954,20 @@
     ],
     "search-372f7e2fd2d01ce2a1d71dc072acbba4c6fd25a1087cd7f153f4ec0ce37e1ede": [
       {
-        "icon": "restaurant",
-        "id": "kids_food",
-        "name": "Food & Healthy Eating",
-        "order": 22,
-        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
-        "tagline": "Eating, for small readers"
-      },
-      {
         "icon": "favorite",
         "id": "health",
         "name": "Health & Personal Well-Being",
         "order": 14,
         "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
         "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
+        "icon": "restaurant",
+        "id": "kids_food",
+        "name": "Food & Healthy Eating",
+        "order": 22,
+        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
+        "tagline": "Eating, for small readers"
       }
     ],
     "search-3794c83092e7bd8dfd3ab766f81d587f096eb6287731d8736f9a48b95a444b67": [
@@ -1080,39 +1080,23 @@
     ],
     "search-3e860f41a5ea92c49803d6ec96d452693b6dcefb0e8c0bf0125b0e3debac5281": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
         "icon": "forum",
         "id": "social",
         "name": "Relationships & Social Life",
         "order": 16,
         "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
         "tagline": "Talking to people without making it worse"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea": [
-      {
-        "icon": "restaurant",
-        "id": "kids_food",
-        "name": "Food & Healthy Eating",
-        "order": 22,
-        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
-        "tagline": "Eating, for small readers"
-      },
-      {
-        "icon": "home",
-        "id": "kids_home",
-        "name": "Everyday Objects & Home",
-        "order": 23,
-        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
-        "tagline": "The things around you, for small readers"
-      },
       {
         "icon": "flight",
         "id": "travel",
@@ -1128,6 +1112,22 @@
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "restaurant",
+        "id": "kids_food",
+        "name": "Food & Healthy Eating",
+        "order": 22,
+        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
+        "tagline": "Eating, for small readers"
+      },
+      {
+        "icon": "home",
+        "id": "kids_home",
+        "name": "Everyday Objects & Home",
+        "order": 23,
+        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
+        "tagline": "The things around you, for small readers"
       }
     ],
     "search-40b7858e48c1dd0e9edaf294212ac29a6ceb8656e2d781350b67738b3b6c0b76": [
@@ -1172,20 +1172,20 @@
     ],
     "search-4501c9f5779a22a714c1ff9d95de70a814f6a08ba0d40843e84f1bc9282bd72a": [
       {
-        "icon": "home",
-        "id": "kids_home",
-        "name": "Everyday Objects & Home",
-        "order": 23,
-        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
-        "tagline": "The things around you, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "home",
+        "id": "kids_home",
+        "name": "Everyday Objects & Home",
+        "order": 23,
+        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
+        "tagline": "The things around you, for small readers"
       }
     ],
     "search-454349e422f05297191ead13e21d3db520e5abef52055e4964b82fb213f593a1": [
@@ -1410,14 +1410,6 @@
     ],
     "search-56ead909b0b49c61cb40d8ccdc5fa2786be56d1ff0f0daf252f08e9eef640d63": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
         "icon": "forum",
         "id": "social",
         "name": "Relationships & Social Life",
@@ -1432,6 +1424,14 @@
         "order": 17,
         "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
         "tagline": "Why people elsewhere do things differently"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-578756ca4aa16d8872610a5aaa78460fd30fbe93379ff7284fe65d66ca606755": [
@@ -1477,38 +1477,38 @@
     ],
     "search-599f8341fe3e0fd23de7d89500b8224965ab536307049a175bcd30331d0918c5": [
       {
-        "icon": "restaurant",
-        "id": "kids_food",
-        "name": "Food & Healthy Eating",
-        "order": 22,
-        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
-        "tagline": "Eating, for small readers"
-      },
-      {
         "icon": "favorite",
         "id": "health",
         "name": "Health & Personal Well-Being",
         "order": 14,
         "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
         "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
+        "icon": "restaurant",
+        "id": "kids_food",
+        "name": "Food & Healthy Eating",
+        "order": 22,
+        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
+        "tagline": "Eating, for small readers"
       }
     ],
     "search-5a1e0d45e121352809c311d43593ad4b988165058eac3fba4892b41230cb8104": [
       {
-        "icon": "restaurant",
-        "id": "kids_food",
-        "name": "Food & Healthy Eating",
-        "order": 22,
-        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
-        "tagline": "Eating, for small readers"
-      },
-      {
         "icon": "favorite",
         "id": "health",
         "name": "Health & Personal Well-Being",
         "order": 14,
         "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
         "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
+        "icon": "restaurant",
+        "id": "kids_food",
+        "name": "Food & Healthy Eating",
+        "order": 22,
+        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
+        "tagline": "Eating, for small readers"
       }
     ],
     "search-5b90071aea261a5b838035eadaa5066ac347a6cff1b528053c57f858c6508a27": [
@@ -1583,20 +1583,20 @@
     ],
     "search-62484e22a6a5ade1ba25cb1b7c55c4b8861de24caddab73c9409742734008b26": [
       {
-        "icon": "restaurant",
-        "id": "kids_food",
-        "name": "Food & Healthy Eating",
-        "order": 22,
-        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
-        "tagline": "Eating, for small readers"
-      },
-      {
         "icon": "favorite",
         "id": "health",
         "name": "Health & Personal Well-Being",
         "order": 14,
         "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
         "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
+        "icon": "restaurant",
+        "id": "kids_food",
+        "name": "Food & Healthy Eating",
+        "order": 22,
+        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
+        "tagline": "Eating, for small readers"
       }
     ],
     "search-62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a": [
@@ -1636,20 +1636,20 @@
     ],
     "search-63212655f2e25a8f89eeb6653853cece8901e24c4a4c1dee70e53b68bad3e19c": [
       {
-        "icon": "home",
-        "id": "kids_home",
-        "name": "Everyday Objects & Home",
-        "order": 23,
-        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
-        "tagline": "The things around you, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "home",
+        "id": "kids_home",
+        "name": "Everyday Objects & Home",
+        "order": 23,
+        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
+        "tagline": "The things around you, for small readers"
       }
     ],
     "search-6327fbb39c6b1e9bd8c16b698aa2f667c9ec81ac72407ad7f4c48bc92203682b": [
@@ -1722,38 +1722,38 @@
     ],
     "search-66a424a9a958b152c1c3ba65a2ac6c33ad03333e2e41e7d770b5758d46dd3ef5": [
       {
-        "icon": "home",
-        "id": "kids_home",
-        "name": "Everyday Objects & Home",
-        "order": 23,
-        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
-        "tagline": "The things around you, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "home",
+        "id": "kids_home",
+        "name": "Everyday Objects & Home",
+        "order": 23,
+        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
+        "tagline": "The things around you, for small readers"
       }
     ],
     "search-67d35554c1f60638d6d72a0edc045450a841f7efabe0f9843b7e653499094538": [
       {
-        "icon": "home",
-        "id": "kids_home",
-        "name": "Everyday Objects & Home",
-        "order": 23,
-        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
-        "tagline": "The things around you, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "home",
+        "id": "kids_home",
+        "name": "Everyday Objects & Home",
+        "order": 23,
+        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
+        "tagline": "The things around you, for small readers"
       }
     ],
     "search-67ea76160c2c25fcb2309dd88040fb8836e3e4043a3fe08577da89c87b82f4be": [
@@ -1930,14 +1930,6 @@
     ],
     "search-7114d75b28f21587e37f4a299da0a9428684a8b72773b3087e8d6e63cfb4f312": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
         "icon": "forum",
         "id": "social",
         "name": "Relationships & Social Life",
@@ -1952,6 +1944,14 @@
         "order": 17,
         "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
         "tagline": "Why people elsewhere do things differently"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-7125d7f076bfe0c847968b922c807fdaea30fae2c177556102d01482b26552bf": [
@@ -2186,20 +2186,20 @@
     ],
     "search-85262adf74518bbb70c7cb94cd6159d91669e5a81edf1efebd543eadbda9fa2b": [
       {
-        "icon": "home",
-        "id": "kids_home",
-        "name": "Everyday Objects & Home",
-        "order": 23,
-        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
-        "tagline": "The things around you, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "home",
+        "id": "kids_home",
+        "name": "Everyday Objects & Home",
+        "order": 23,
+        "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
+        "tagline": "The things around you, for small readers"
       }
     ],
     "search-85574fa07dae32132675e21676042035c1b8a8384e11cd430269cff53f29add1": [
@@ -2383,6 +2383,14 @@
     ],
     "search-9c3aee7110b787f0fb5f81633a36392bd277ea945d44c874a9a23601aefe20cf": [
       {
+        "icon": "functions",
+        "id": "formal_sciences",
+        "name": "Formal Sciences",
+        "order": 1,
+        "summary": "English for reading symbols, definitions, and formal arguments.",
+        "tagline": "Notation and precise English"
+      },
+      {
         "icon": "chat",
         "id": "kids_daily",
         "name": "Daily Conversations for Kids",
@@ -2397,25 +2405,9 @@
         "order": 22,
         "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
         "tagline": "Eating, for small readers"
-      },
-      {
-        "icon": "functions",
-        "id": "formal_sciences",
-        "name": "Formal Sciences",
-        "order": 1,
-        "summary": "English for reading symbols, definitions, and formal arguments.",
-        "tagline": "Notation and precise English"
       }
     ],
     "search-9c53c074d7ac6a2728b638ac1f376c5fa9eb8f71603017c3ea638c2fd40548df": [
-      {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
       {
         "icon": "lightbulb",
         "id": "daily_skills",
@@ -2423,6 +2415,14 @@
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-9ce6f1ede5fc398bce9ebfc38672e9a9604d925c3627f95958d8924bacee271a": [
@@ -2457,14 +2457,6 @@
     ],
     "search-a1d9890884c1b4b960c279cfe7554a900d169422d6cec980beef67761487d3b9": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
         "icon": "forum",
         "id": "social",
         "name": "Relationships & Social Life",
@@ -2479,6 +2471,14 @@
         "order": 17,
         "summary": "Culture shock, the varieties of English, the new way of working and the slow end of meeting in person.",
         "tagline": "Why people elsewhere do things differently"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-a2a78ada26ac2cbf1e86e768f348ef4c4d23697d6d44d652b81dba6c03cfed5a": [
@@ -2553,6 +2553,14 @@
     ],
     "search-aaa9402664f1a41f40ebbc52c9993eb66aeb366602958fdfaa283b71e64db123": [
       {
+        "icon": "favorite",
+        "id": "health",
+        "name": "Health & Personal Well-Being",
+        "order": 14,
+        "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
+        "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
         "icon": "restaurant",
         "id": "kids_food",
         "name": "Food & Healthy Eating",
@@ -2567,14 +2575,6 @@
         "order": 23,
         "summary": "The rooms, the objects, the clothes and the shapes and colours of an ordinary day.",
         "tagline": "The things around you, for small readers"
-      },
-      {
-        "icon": "favorite",
-        "id": "health",
-        "name": "Health & Personal Well-Being",
-        "order": 14,
-        "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
-        "tagline": "Your body, and the instructions nobody explained"
       }
     ],
     "search-ab91a82d14cfc6125c1a40e6920a4cd3fcc3e2f9940347175b06367845a9bcbc": [
@@ -2693,20 +2693,20 @@
     ],
     "search-b6b602d7c35ede9bcc88b4e42792c1ff5e134bb3c4a8f8c3c4e11737cc117a4b": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
         "icon": "forum",
         "id": "social",
         "name": "Relationships & Social Life",
         "order": 16,
         "summary": "Small talk, disagreement, dating, boundaries: the conversations everyone has and few are taught.",
         "tagline": "Talking to people without making it worse"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-b80cdaae9b322bba2a38fd396299782a4cc6b4a0ccf67fccbbcc617c94a46026": [
@@ -2751,20 +2751,20 @@
     ],
     "search-bb06cb17caa174afe6192cfa4599cb4119d3bb49d53663686e35c2b8c0bb48ed": [
       {
-        "icon": "restaurant",
-        "id": "kids_food",
-        "name": "Food & Healthy Eating",
-        "order": 22,
-        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
-        "tagline": "Eating, for small readers"
-      },
-      {
         "icon": "favorite",
         "id": "health",
         "name": "Health & Personal Well-Being",
         "order": 14,
         "summary": "Medicine labels, symptoms, sleep and nutrition: how to read the information and what to ask the people who know more than you.",
         "tagline": "Your body, and the instructions nobody explained"
+      },
+      {
+        "icon": "restaurant",
+        "id": "kids_food",
+        "name": "Food & Healthy Eating",
+        "order": 22,
+        "summary": "Where food comes from, what it does for you, and how to make something simple yourself.",
+        "tagline": "Eating, for small readers"
       }
     ],
     "search-bc4c8005b68d45ce2f1502db88ab358b0cb1c922c06fbbc0a115bc2e6cc0b4fe": [
@@ -2954,20 +2954,20 @@
     ],
     "search-cf659bd3fba074e3ae0eed5fe0afc9ac33d7af64930f0e1b112b23763df25433": [
       {
-        "icon": "sentiment_satisfied",
-        "id": "kids_feelings",
-        "name": "Feelings & Social Skills",
-        "order": 24,
-        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
-        "tagline": "Being a person, for small readers"
-      },
-      {
         "icon": "lightbulb",
         "id": "daily_skills",
         "name": "Everyday Life & Practical Skills",
         "order": 10,
         "summary": "How to read the label, how to say what you mean, how to handle the small emergencies of an ordinary week.",
         "tagline": "The things you do every week and the words they need"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "id": "kids_feelings",
+        "name": "Feelings & Social Skills",
+        "order": 24,
+        "summary": "Naming the feeling, asking for help, sharing, and being kind: the social lessons of small childhood.",
+        "tagline": "Being a person, for small readers"
       }
     ],
     "search-d0507f707df00eeb95d30291028741138c42e04e4369d6b199272e82559c97a9": [

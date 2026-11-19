@@ -1,574 +1,573 @@
 {
   "items": [
     {
-      "definition": "The roughly 24-hour cycle that sets your sleep, hormones, body temperature and appetite. Light is its strongest input.",
-      "dictionaryId": "lex.sa.health.circadian_rhythm",
-      "example": "My circadian rhythm has shifted, because I have been going to bed at two every night.",
-      "fieldId": "health",
-      "id": "circadian_rhythm",
+      "definition": "A nice thing you say about what somebody did or made.",
+      "dictionaryId": "lex.sa.kids_feelings.compliment",
+      "example": "I gave her a compliment about her picture.",
+      "fieldId": "kids_feelings",
+      "id": "compliment",
       "lessonIds": [
-        "article_sleep"
+        "article_being_kind"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.kids.feelings.kind"
       ],
-      "term": "Circadian rhythm"
+      "term": "Compliment"
     },
     {
-      "definition": "The time between getting into bed and falling asleep. Under about twenty minutes is normal.",
-      "dictionaryId": "lex.sa.health.sleep_onset_latency",
-      "example": "My sleep onset latency is about forty minutes, most nights.",
-      "fieldId": "health",
-      "id": "sleep_onset_latency",
+      "definition": "To ask somebody to join you, and to accept it when they say no.",
+      "dictionaryId": "lex.sa.kids_feelings.invite",
+      "example": "I invited him to sit with us.",
+      "fieldId": "kids_feelings",
+      "id": "invite",
       "lessonIds": [
-        "article_sleep"
+        "article_being_kind"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.kids.feelings.kind"
       ],
-      "term": "Sleep onset latency"
+      "term": "Invite"
     },
     {
-      "definition": "The share of your time in bed that you were actually asleep. A long night can still be an inefficient one.",
-      "dictionaryId": "lex.sa.health.sleep_efficiency",
-      "example": "I was in bed for nine hours and my sleep efficiency was about seventy per cent.",
-      "fieldId": "health",
-      "id": "sleep_efficiency",
+      "definition": "To make room for somebody in the group, the game or the talk.",
+      "dictionaryId": "lex.sa.kids_feelings.include",
+      "example": "We included the new boy in our game.",
+      "fieldId": "kids_feelings",
+      "id": "include",
       "lessonIds": [
-        "article_sleep"
+        "article_being_kind"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.kids.feelings.kind"
       ],
-      "term": "Sleep efficiency"
+      "term": "Include"
     },
     {
-      "definition": "The accumulated gap between the sleep you have had and the sleep you need. It can be partly repaid, but slowly.",
-      "dictionaryId": "lex.sa.health.sleep_debt",
-      "example": "I have been building up sleep debt for three weeks of early starts.",
-      "fieldId": "health",
-      "id": "sleep_debt",
+      "definition": "Something done or thought wrongly.",
+      "dictionaryId": "lex.sa.en.mistake.noun",
+      "example": "Use it when a mistake costs time or a retry.",
+      "fieldId": "kids_feelings",
+      "id": "mistake",
       "lessonIds": [
-        "article_sleep"
+        "article_making_mistakes"
       ],
       "packs": [
-        "knw.health.sleep"
+        "knw.kids.feelings.mistakes"
       ],
-      "term": "Sleep debt"
-    },
-    {
-      "definition": "Difficulty falling asleep, staying asleep or waking too early, together with daytime impairment. The daytime effect is part of the definition.",
-      "dictionaryId": "lex.sa.health.insomnia",
-      "example": "It is not just that I sleep badly; it is that I cannot work properly the next day. That makes it insomnia.",
-      "fieldId": "health",
-      "id": "insomnia",
-      "lessonIds": [
-        "article_sleep"
-      ],
-      "packs": [
-        "knw.health.sleep"
-      ],
-      "term": "Insomnia"
-    },
-    {
-      "definition": "Repeated pauses in breathing during sleep, usually with snoring and gasping. You usually cannot notice it yourself.",
-      "dictionaryId": "lex.sa.health.sleep_apnoea",
-      "example": "My partner says I stop breathing in my sleep, so I will ask about sleep apnoea.",
-      "fieldId": "health",
-      "id": "sleep_apnoea",
-      "lessonIds": [
-        "article_sleep"
-      ],
-      "packs": [
-        "knw.health.sleep"
-      ],
-      "term": "Sleep apnoea"
-    },
-    {
-      "definition": "Something you notice and describe yourself: pain, dizziness, a cough, a lump.",
-      "dictionaryId": "lex.sa.health.symptom",
-      "example": "The main symptom is the pain, and it has been there for three weeks.",
-      "fieldId": "health",
-      "id": "symptom",
-      "lessonIds": [
-        "article_symptoms"
-      ],
-      "packs": [
-        "knw.health.symptoms"
-      ],
-      "term": "Symptom"
-    },
-    {
-      "definition": "A written symbol such as = or +.",
-      "dictionaryId": "lex.sa.en.sign.noun",
-      "example": "The equals sign balances both sides.",
-      "fieldId": "health",
-      "id": "sign",
-      "lessonIds": [
-        "article_symptoms"
-      ],
-      "packs": [
-        "knw.health.symptoms"
-      ],
-      "term": "sign"
-    },
-    {
-      "definition": "Coming on quickly and lasting a short time, usually days.",
-      "dictionaryId": "lex.sa.health.acute",
-      "example": "This is an acute episode, and it started yesterday.",
-      "fieldId": "health",
-      "id": "acute",
-      "lessonIds": [
-        "article_symptoms"
-      ],
-      "packs": [
-        "knw.health.symptoms"
-      ],
-      "term": "Acute"
-    },
-    {
-      "definition": "Long-standing, generally present for more than three months.",
-      "dictionaryId": "lex.sa.health.chronic",
-      "example": "It has become a chronic problem, so I have started to manage it differently.",
-      "fieldId": "health",
-      "id": "chronic",
-      "lessonIds": [
-        "article_symptoms"
-      ],
-      "packs": [
-        "knw.health.symptoms"
-      ],
-      "term": "Chronic"
-    },
-    {
-      "definition": "A period when the symptoms get noticeably worse than their usual level.",
-      "dictionaryId": "lex.sa.health.exacerbation",
-      "example": "The main exacerbation lasted about four days last month.",
-      "fieldId": "health",
-      "id": "exacerbation",
-      "lessonIds": [
-        "article_symptoms"
-      ],
-      "packs": [
-        "knw.health.symptoms"
-      ],
-      "term": "Exacerbation"
-    },
-    {
-      "definition": "The clinician's shortlist of possible causes, kept in mind while they examine you and order tests.",
-      "dictionaryId": "lex.sa.health.differential_diagnosis",
-      "example": "The doctor said the differential included three possibilities, and explained each one.",
-      "fieldId": "health",
-      "id": "differential_diagnosis",
-      "lessonIds": [
-        "article_symptoms"
-      ],
-      "packs": [
-        "knw.health.symptoms"
-      ],
-      "term": "Differential diagnosis"
-    },
-    {
-      "definition": "A letter sending you to another service, such as a specialist, a physiotherapist or a scan.",
-      "dictionaryId": "lex.sa.health.referral",
-      "example": "I have a referral for a scan, and the appointment is in ten days.",
-      "fieldId": "health",
-      "id": "referral",
-      "lessonIds": [
-        "article_symptoms"
-      ],
-      "packs": [
-        "knw.health.symptoms"
-      ],
-      "term": "Referral"
-    },
-    {
-      "definition": "A machine with two wheels that you push with your feet. A good bicycle makes your legs feel like they have a strong friend.",
-      "dictionaryId": "lex.sa.kids_adventure.bicycle",
-      "example": "His grandfather's bicycle was heavy and rusty, and Nam loved it.",
-      "fieldId": "kids_adventure",
-      "id": "bicycle",
-      "lessonIds": [
-        "article_flying_bicycle"
-      ],
-      "packs": [
-        "knw.kids.adventure.bicycle"
-      ],
-      "term": "Bicycle"
-    },
-    {
-      "definition": "The flat part of a bicycle that your foot stands on. When you push the pedals, the wheels turn.",
-      "dictionaryId": "lex.sa.kids_adventure.pedal",
-      "example": "The pedals were stiff, so he pushed them three times.",
-      "fieldId": "kids_adventure",
-      "id": "pedal",
-      "lessonIds": [
-        "article_flying_bicycle"
-      ],
-      "packs": [
-        "knw.kids.adventure.bicycle"
-      ],
-      "term": "Pedal"
-    },
-    {
-      "definition": "The flat part that helps a bird to lift into the air. On this bicycle, the wings are only paper, but they still lift.",
-      "dictionaryId": "lex.sa.kids_adventure.wing",
-      "example": "The newspaper wings lifted when he rang the bell.",
-      "fieldId": "kids_adventure",
-      "id": "wing",
-      "lessonIds": [
-        "article_flying_bicycle"
-      ],
-      "packs": [
-        "knw.kids.adventure.bicycle"
-      ],
-      "term": "Wing"
-    },
-    {
-      "definition": "The small metal thing on a bicycle that makes a sound when you press it. Nam's bell is old and a bit tired.",
-      "dictionaryId": "lex.sa.kids_adventure.bell",
-      "example": "He pressed the bell three times before the wings moved.",
-      "fieldId": "kids_adventure",
-      "id": "bell",
-      "lessonIds": [
-        "article_flying_bicycle"
-      ],
-      "packs": [
-        "knw.kids.adventure.bicycle"
-      ],
-      "term": "Bell"
-    },
-    {
-      "definition": "The flat top of a building. In the old quarter, the rooftops are close enough to almost touch.",
-      "dictionaryId": "lex.sa.kids_adventure.rooftop",
-      "example": "They landed on the roof garden above the old house.",
-      "fieldId": "kids_adventure",
-      "id": "rooftop",
-      "lessonIds": [
-        "article_flying_bicycle"
-      ],
-      "packs": [
-        "knw.kids.adventure.bicycle"
-      ],
-      "term": "Rooftop"
-    },
-    {
-      "definition": "A big old building with thick walls, made to keep people safe. Castles usually have towers and gates.",
-      "dictionaryId": "lex.sa.kids_adventure.castle",
-      "example": "From her window, Hà could see the castle on the hill.",
-      "fieldId": "kids_adventure",
-      "id": "castle",
-      "lessonIds": [
-        "article_magical_castle"
-      ],
-      "packs": [
-        "knw.kids.adventure.castle"
-      ],
-      "term": "Castle"
-    },
-    {
-      "definition": "A tall round part of a castle. You can climb to the top of a tower and look out over everything.",
-      "dictionaryId": "lex.sa.kids_adventure.tower",
-      "example": "The castle had one round tower with a flag on top.",
-      "fieldId": "kids_adventure",
-      "id": "tower",
-      "lessonIds": [
-        "article_magical_castle"
-      ],
-      "packs": [
-        "knw.kids.adventure.castle"
-      ],
-      "term": "Tower"
-    },
-    {
-      "definition": "A small metal thing that opens a lock. A keyhole is the hole where the key goes in.",
-      "dictionaryId": "lex.sa.kids_adventure.key",
-      "example": "The small brass key hung on a red string.",
-      "fieldId": "kids_adventure",
-      "id": "key",
-      "lessonIds": [
-        "article_magical_castle"
-      ],
-      "packs": [
-        "knw.kids.adventure.castle"
-      ],
-      "term": "Key"
-    },
-    {
-      "definition": "A piece of ground where people grow plants and flowers. A garden needs water and a little care every day.",
-      "dictionaryId": "lex.sa.kids_adventure.garden",
-      "example": "The green door opened on a garden under a round moon.",
-      "fieldId": "kids_adventure",
-      "id": "garden",
-      "lessonIds": [
-        "article_magical_castle"
-      ],
-      "packs": [
-        "knw.kids.adventure.castle"
-      ],
-      "term": "Garden"
-    },
-    {
-      "definition": "An animal that lived a very long time ago, long before people. Dinosaurs are gone now, but their bones turn to stone under the ground.",
-      "dictionaryId": "lex.sa.kids_adventure.dinosaur",
-      "example": "The long-necked dinosaur pulled leaves from the treetop.",
-      "fieldId": "kids_adventure",
-      "id": "dinosaur",
-      "lessonIds": [
-        "article_dinosaur_land"
-      ],
-      "packs": [
-        "knw.kids.adventure.dinos"
-      ],
-      "term": "Dinosaur"
-    },
-    {
-      "definition": "The hard part of an animal that turned to stone after a very long time. Fossils tell us what the animal looked like.",
-      "dictionaryId": "lex.sa.kids_adventure.fossil",
-      "example": "She found a yellow fossil under a huge leaf.",
-      "fieldId": "kids_adventure",
-      "id": "fossil",
-      "lessonIds": [
-        "article_dinosaur_land"
-      ],
-      "packs": [
-        "knw.kids.adventure.dinos"
-      ],
-      "term": "Fossil"
-    },
-    {
-      "definition": "The mark a foot leaves in soft ground. Big animals leave big footprints, and they show which way the animal walked.",
-      "dictionaryId": "lex.sa.kids_adventure.footprint",
-      "example": "The footprints pointed deeper into the valley.",
-      "fieldId": "kids_adventure",
-      "id": "footprint",
-      "lessonIds": [
-        "article_dinosaur_land"
-      ],
-      "packs": [
-        "knw.kids.adventure.dinos"
-      ],
-      "term": "Footprint"
+      "term": "mistake"
     },
     {
       "conflict": true,
-      "definition": "An animal that eats plants, such as a zebra, a giraffe or an elephant.",
-      "dictionaryId": "lex.sa.kids_animals.herbivore",
-      "example": "The elephant is a herbivore, so it eats grass and leaves.",
-      "fieldId": "kids_adventure",
-      "id": "herbivore",
+      "definition": "To taste a food for the first time. One small bite is enough for today.",
+      "dictionaryId": "lex.sa.kids_food.try",
+      "example": "I will try one bite of the soup.",
+      "fieldId": "kids_feelings",
+      "id": "try",
       "lessonIds": [
-        "article_dinosaur_land",
-        "article_kids_animals_savanna",
-        "article_what_animals_eat"
+        "article_kids_food_favourite_foods",
+        "article_making_mistakes"
       ],
       "packs": [
-        "knw.kids.adventure.dinos",
-        "knw.kids.animals.eat",
-        "knw.kids.animals.savanna"
+        "knw.kids.feelings.mistakes",
+        "knw.kids.food.favourites"
       ],
-      "term": "Herbivore"
+      "term": "Try"
+    },
+    {
+      "definition": "To make something right or better after it went wrong.",
+      "dictionaryId": "lex.sa.kids_feelings.fix",
+      "example": "I fixed the picture with a new sheet of paper.",
+      "fieldId": "kids_feelings",
+      "id": "fix",
+      "lessonIds": [
+        "article_making_mistakes"
+      ],
+      "packs": [
+        "knw.kids.feelings.mistakes"
+      ],
+      "term": "Fix"
+    },
+    {
+      "definition": "To say sorry and show that you understand what you did wrong.",
+      "dictionaryId": "lex.sa.kids_feelings.apologise",
+      "example": "I apologised to my sister for shouting.",
+      "fieldId": "kids_feelings",
+      "id": "apologise",
+      "lessonIds": [
+        "article_making_mistakes"
+      ],
+      "packs": [
+        "knw.kids.feelings.mistakes"
+      ],
+      "term": "Apologise"
+    },
+    {
+      "definition": "A small mistake that happens because you were busy or in a hurry.",
+      "dictionaryId": "lex.sa.kids_feelings.slip",
+      "example": "That was just a slip.",
+      "fieldId": "kids_feelings",
+      "id": "slip",
+      "lessonIds": [
+        "article_making_mistakes"
+      ],
+      "packs": [
+        "knw.kids.feelings.mistakes"
+      ],
+      "term": "Slip"
     },
     {
       "conflict": true,
-      "definition": "An animal that eats other animals. Carnivores are often the strong, heavy ones.",
-      "dictionaryId": "lex.sa.kids_adventure.carnivore",
-      "example": "The heavy animal with the thick tail was a carnivore.",
-      "fieldId": "kids_adventure",
-      "id": "carnivore",
+      "definition": "To have or use a thing with others.",
+      "dictionaryId": "lex.sa.en.share.verb",
+      "example": "",
+      "fieldId": "kids_feelings",
+      "id": "share",
       "lessonIds": [
-        "article_dinosaur_land",
-        "article_kids_animals_savanna",
-        "article_what_animals_eat"
+        "article_bear_sharing",
+        "article_sharing_and_turns"
       ],
       "packs": [
-        "knw.kids.adventure.dinos",
-        "knw.kids.animals.eat",
-        "knw.kids.animals.savanna"
+        "knw.kids.feelings.sharing",
+        "knw.kids.stories.bear"
       ],
-      "term": "Carnivore"
+      "term": "share"
     },
     {
-      "definition": "A green climbing plant that grows up walls and trees. It holds on tightly and hides what is behind it.",
-      "dictionaryId": "lex.sa.kids_adventure.ivy",
-      "example": "Ivy grew across the green door.",
-      "fieldId": "kids_adventure",
-      "id": "ivy",
+      "definition": "To play first and then let the next person play.",
+      "dictionaryId": "lex.sa.kids_feelings.take_turns",
+      "example": "We take turns on the slide.",
+      "fieldId": "kids_feelings",
+      "id": "take_turns",
       "lessonIds": [
-        "article_secret_door"
+        "article_sharing_and_turns"
       ],
       "packs": [
-        "knw.kids.adventure.door"
+        "knw.kids.feelings.sharing"
       ],
-      "term": "Ivy"
+      "term": "Take turns"
     },
     {
-      "definition": "An open space in the middle of woods, where the trees step back and the sky reaches the ground.",
-      "dictionaryId": "lex.sa.kids_adventure.clearing",
-      "example": "The path led to a small clearing.",
-      "fieldId": "kids_adventure",
-      "id": "clearing",
+      "definition": "To stay calm and do something else until your turn comes.",
+      "dictionaryId": "lex.sa.kids_feelings.wait",
+      "example": "I wait until my friend finishes the puzzle.",
+      "fieldId": "kids_feelings",
+      "id": "wait",
       "lessonIds": [
-        "article_secret_door"
+        "article_sharing_and_turns"
       ],
       "packs": [
-        "knw.kids.adventure.door"
+        "knw.kids.feelings.sharing"
       ],
-      "term": "Clearing"
+      "term": "Wait"
     },
     {
-      "definition": "To put a seed into the ground and look after it. Planting is a promise to come back.",
-      "dictionaryId": "lex.sa.kids_adventure.plant",
-      "example": "Bình planted the seed on the first of April.",
-      "fieldId": "kids_adventure",
-      "id": "plant",
+      "definition": "To give one thing away and get a different thing back.",
+      "dictionaryId": "lex.sa.kids_feelings.trade",
+      "example": "I trade my ball for your dinosaur.",
+      "fieldId": "kids_feelings",
+      "id": "trade",
       "lessonIds": [
-        "article_secret_door"
+        "article_sharing_and_turns"
       ],
       "packs": [
-        "knw.kids.adventure.door"
+        "knw.kids.feelings.sharing"
       ],
-      "term": "To plant"
+      "term": "Trade"
     },
     {
-      "definition": "Kept out of sight, so that people walk past without noticing.",
-      "dictionaryId": "lex.sa.kids_adventure.hidden",
-      "example": "The door was hidden under the ivy.",
-      "fieldId": "kids_adventure",
-      "id": "hidden",
+      "definition": "The polite word you say after somebody helps you or gives you something.",
+      "dictionaryId": "lex.sa.kids_feelings.thank_you",
+      "example": "Thank you for lending me your ruler.",
+      "fieldId": "kids_feelings",
+      "id": "thank_you",
       "lessonIds": [
-        "article_secret_door"
+        "article_please_and_thank_you"
       ],
       "packs": [
-        "knw.kids.adventure.door"
+        "knw.kids.feelings.thanks"
       ],
-      "term": "Hidden"
+      "term": "Thank you"
     },
     {
-      "definition": "Something you want very much and keep safe. It can be gold, but it can also be a letter or a photograph.",
-      "dictionaryId": "lex.sa.kids_adventure.treasure",
-      "example": "The box in the grass held the real treasure.",
-      "fieldId": "kids_adventure",
-      "id": "treasure",
+      "definition": "The word you say when you did something wrong. It shows you take responsibility.",
+      "dictionaryId": "lex.sa.kids_feelings.sorry",
+      "example": "Sorry, I stepped on your foot.",
+      "fieldId": "kids_feelings",
+      "id": "sorry",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_please_and_thank_you"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.kids.feelings.thanks"
       ],
-      "term": "Treasure"
+      "term": "Sorry"
     },
     {
-      "definition": "A drawing of a place, seen from above. A map shows you the way and shows you where things are.",
-      "dictionaryId": "lex.sa.kids_adventure.map",
-      "example": "Tuấn unfolded the old map on the kitchen table.",
-      "fieldId": "kids_adventure",
-      "id": "map",
+      "definition": "The polite way to get somebody's attention or to pass by them.",
+      "dictionaryId": "lex.sa.kids_feelings.excuse_me",
+      "example": "Excuse me, may I get past?",
+      "fieldId": "kids_feelings",
+      "id": "excuse_me",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_please_and_thank_you"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.kids.feelings.thanks"
       ],
-      "term": "Map"
+      "term": "Excuse me"
     },
     {
-      "definition": "A small hint. Clues come one after another, and each one points to the next.",
-      "dictionaryId": "lex.sa.kids_adventure.clue",
-      "example": "The third clue was a picture of a bench and a nail.",
-      "fieldId": "kids_adventure",
-      "id": "clue",
+      "definition": "A careful, grown-up way to ask for something. People listen more when you use it.",
+      "dictionaryId": "lex.sa.kids_feelings.may_i",
+      "example": "May I sit here, please?",
+      "fieldId": "kids_feelings",
+      "id": "may_i",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_please_and_thank_you"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.kids.feelings.thanks"
       ],
-      "term": "Clue"
+      "term": "May I"
     },
     {
-      "definition": "A small tool with a needle that points north. Explorers use a compass so they walk in a straight line.",
-      "dictionaryId": "lex.sa.kids_adventure.compass",
-      "example": "The compass needle spun because of the iron in the ground.",
-      "fieldId": "kids_adventure",
-      "id": "compass",
+      "definition": "Something that happens inside you. It shows on your face and tells you what you need.",
+      "dictionaryId": "lex.sa.kids_feelings.feeling",
+      "example": "My feeling today is happy.",
+      "fieldId": "kids_feelings",
+      "id": "feeling",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_how_do_you_feel"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.kids.feelings.today"
       ],
-      "term": "Compass"
+      "term": "Feeling"
     },
     {
-      "definition": "A small mountain, high in the middle and low at the edges. You can walk up a hill in a few minutes.",
-      "dictionaryId": "lex.sa.kids_adventure.hill",
-      "example": "They walked up the hill to look for the treasure.",
-      "fieldId": "kids_adventure",
-      "id": "hill",
+      "definition": "A warm, good feeling inside. It makes you want to smile and share.",
+      "dictionaryId": "lex.sa.kids_feelings.happy",
+      "example": "I feel happy when my friend sits with me.",
+      "fieldId": "kids_feelings",
+      "id": "happy",
       "lessonIds": [
-        "article_hidden_treasure"
+        "article_how_do_you_feel"
       ],
       "packs": [
-        "knw.kids.adventure.explorer"
+        "knw.kids.feelings.today"
       ],
-      "term": "Hill"
+      "term": "Happy"
     },
     {
-      "definition": "A machine that pushes itself up into the sky with fire and gas. It is how people reach space.",
-      "dictionaryId": "lex.sa.kids_adventure.rocket",
-      "example": "The rocket stood on the pad, white and tall.",
-      "fieldId": "kids_adventure",
-      "id": "rocket",
+      "definition": "A heavy feeling inside. It often wants tears or quiet time.",
+      "dictionaryId": "lex.sa.kids_feelings.sad",
+      "example": "I feel sad because my cat is away.",
+      "fieldId": "kids_feelings",
+      "id": "sad",
       "lessonIds": [
-        "article_trip_to_the_moon"
+        "article_how_do_you_feel"
       ],
       "packs": [
-        "knw.kids.adventure.moon"
+        "knw.kids.feelings.today"
       ],
-      "term": "Rocket"
+      "term": "Sad"
     },
     {
-      "definition": "The platform where the rocket stands and waits before it flies.",
-      "dictionaryId": "lex.sa.kids_adventure.launch_pad",
-      "example": "Everybody watched from the launch pad.",
-      "fieldId": "kids_adventure",
-      "id": "launch_pad",
+      "definition": "An afraid feeling. Your heart beats fast and you want to run or hide.",
+      "dictionaryId": "lex.sa.kids_feelings.scared",
+      "example": "I feel scared in the dark, so I hold my blanket.",
+      "fieldId": "kids_feelings",
+      "id": "scared",
       "lessonIds": [
-        "article_trip_to_the_moon"
+        "article_how_do_you_feel"
       ],
       "packs": [
-        "knw.kids.adventure.moon"
+        "knw.kids.feelings.today"
       ],
-      "term": "Launch pad"
+      "term": "Scared"
     },
     {
-      "definition": "A person trained to fly into space. Astronauts wear a spacesuit because there is no air out there.",
-      "dictionaryId": "lex.sa.kids_adventure.astronaut",
-      "example": "The astronaut opened the hatch and stepped out.",
-      "fieldId": "kids_adventure",
-      "id": "astronaut",
+      "definition": "Wheat grain ground into a fine powder. It is the main part of the bread.",
+      "dictionaryId": "lex.sa.kids_food.flour",
+      "example": "Flour is made from wheat at the mill.",
+      "fieldId": "kids_food",
+      "id": "flour",
       "lessonIds": [
-        "article_trip_to_the_moon"
+        "article_how_bread_is_made"
       ],
       "packs": [
-        "knw.kids.adventure.moon"
+        "knw.kids.food.bread"
       ],
-      "term": "Astronaut"
+      "term": "Flour"
     },
     {
-      "definition": "The feeling of floating, with nothing pulling you down. Everything drifts in the ship.",
-      "dictionaryId": "lex.sa.kids_adventure.weightlessness",
-      "example": "In weightlessness, even a pencil can float.",
-      "fieldId": "kids_adventure",
-      "id": "weightlessness",
+      "definition": "A tiny living fungus that eats sugar in the flour and makes gas.",
+      "dictionaryId": "lex.sa.kids_food.yeast",
+      "example": "We woke up the yeast in warm water for ten minutes.",
+      "fieldId": "kids_food",
+      "id": "yeast",
       "lessonIds": [
-        "article_trip_to_the_moon"
+        "article_how_bread_is_made"
       ],
       "packs": [
-        "knw.kids.adventure.moon"
+        "knw.kids.food.bread"
       ],
-      "term": "Weightlessness"
+      "term": "Yeast"
+    },
+    {
+      "definition": "The soft, sticky mix of flour and water before it is baked.",
+      "dictionaryId": "lex.sa.kids_food.dough",
+      "example": "I put the dough in a bowl and covered it.",
+      "fieldId": "kids_food",
+      "id": "dough",
+      "lessonIds": [
+        "article_how_bread_is_made"
+      ],
+      "packs": [
+        "knw.kids.food.bread"
+      ],
+      "term": "Dough"
+    },
+    {
+      "definition": "Pushing and folding the dough so it becomes smooth and strong.",
+      "dictionaryId": "lex.sa.kids_food.kneading",
+      "example": "Kneading the dough for five minutes feels strange at first.",
+      "fieldId": "kids_food",
+      "id": "kneading",
+      "lessonIds": [
+        "article_how_bread_is_made"
+      ],
+      "packs": [
+        "knw.kids.food.bread"
+      ],
+      "term": "Kneading"
+    },
+    {
+      "definition": "The resting time when the dough grows bigger because of the yeast.",
+      "dictionaryId": "lex.sa.kids_food.proving",
+      "example": "The dough is proving now, so it will be ready in an hour.",
+      "fieldId": "kids_food",
+      "id": "proving",
+      "lessonIds": [
+        "article_how_bread_is_made"
+      ],
+      "packs": [
+        "knw.kids.food.bread"
+      ],
+      "term": "Proving"
+    },
+    {
+      "definition": "The first meal of the day, eaten after you wake up.",
+      "dictionaryId": "lex.sa.kids_food.breakfast",
+      "example": "Breakfast is ready, so please sit down.",
+      "fieldId": "kids_food",
+      "id": "breakfast",
+      "lessonIds": [
+        "article_kids_food_breakfast"
+      ],
+      "packs": [
+        "knw.kids.food.breakfast"
+      ],
+      "term": "Breakfast"
+    },
+    {
+      "definition": "The feeling you get when your body wants food and needs energy.",
+      "dictionaryId": "lex.sa.kids_food.hungry",
+      "example": "I am hungry, so I will have some bread.",
+      "fieldId": "kids_food",
+      "id": "hungry",
+      "lessonIds": [
+        "article_kids_food_breakfast"
+      ],
+      "packs": [
+        "knw.kids.food.breakfast"
+      ],
+      "term": "Hungry"
+    },
+    {
+      "definition": "Grain that you pour into milk and eat with a spoon.",
+      "dictionaryId": "lex.sa.kids_food.cereal",
+      "example": "I ate cereal with cold milk.",
+      "fieldId": "kids_food",
+      "id": "cereal",
+      "lessonIds": [
+        "article_kids_food_breakfast"
+      ],
+      "packs": [
+        "knw.kids.food.breakfast"
+      ],
+      "term": "Cereal"
+    },
+    {
+      "definition": "Bread that is warmed until it is brown and crisp.",
+      "dictionaryId": "lex.sa.kids_food.toast",
+      "example": "I put jam on my toast.",
+      "fieldId": "kids_food",
+      "id": "toast",
+      "lessonIds": [
+        "article_kids_food_breakfast"
+      ],
+      "packs": [
+        "knw.kids.food.breakfast"
+      ],
+      "term": "Toast"
+    },
+    {
+      "conflict": true,
+      "definition": "The capacity to do work or cause change.",
+      "dictionaryId": "lex.sa.en.energy.noun",
+      "example": "",
+      "fieldId": "kids_food",
+      "id": "energy",
+      "lessonIds": [
+        "article_kids_food_breakfast"
+      ],
+      "packs": [
+        "knw.kids.food.breakfast"
+      ],
+      "term": "energy"
+    },
+    {
+      "definition": "The one you like most of all, the one you hope to see on the table.",
+      "dictionaryId": "lex.sa.kids_food.favourite",
+      "example": "My favourite food is spring rolls.",
+      "fieldId": "kids_food",
+      "id": "favourite",
+      "lessonIds": [
+        "article_kids_food_favourite_foods"
+      ],
+      "packs": [
+        "knw.kids.food.favourites"
+      ],
+      "term": "Favourite"
+    },
+    {
+      "definition": "To not like something. Nobody is wrong for disliking a food.",
+      "dictionaryId": "lex.sa.kids_food.dislike",
+      "example": "I dislike the smell of fish.",
+      "fieldId": "kids_food",
+      "id": "dislike",
+      "lessonIds": [
+        "article_kids_food_favourite_foods"
+      ],
+      "packs": [
+        "knw.kids.food.favourites"
+      ],
+      "term": "Dislike"
+    },
+    {
+      "definition": "What your tongue tells you when you eat. Sweet, sour, salty and bitter are the four main tastes.",
+      "dictionaryId": "lex.sa.kids_food.taste",
+      "example": "The taste of this mango is very sweet.",
+      "fieldId": "kids_food",
+      "id": "taste",
+      "lessonIds": [
+        "article_kids_food_favourite_foods"
+      ],
+      "packs": [
+        "knw.kids.food.favourites"
+      ],
+      "term": "Taste"
+    },
+    {
+      "definition": "A part of a plant that holds seeds and is good to eat, like a mango or a pear.",
+      "dictionaryId": "lex.sa.kids_food.fruit",
+      "example": "A mango and a pear are both fruit.",
+      "fieldId": "kids_food",
+      "id": "fruit",
+      "lessonIds": [
+        "article_kids_food_fruits"
+      ],
+      "packs": [
+        "knw.kids.food.fruits"
+      ],
+      "term": "Fruit"
+    },
+    {
+      "definition": "Ready to eat, sweet and soft. A green mango is not ripe yet.",
+      "dictionaryId": "lex.sa.kids_food.ripe",
+      "example": "This banana is yellow and ripe.",
+      "fieldId": "kids_food",
+      "id": "ripe",
+      "lessonIds": [
+        "article_kids_food_fruits"
+      ],
+      "packs": [
+        "knw.kids.food.fruits"
+      ],
+      "term": "Ripe"
+    },
+    {
+      "definition": "The outside skin of a fruit. You usually peel it before eating.",
+      "dictionaryId": "lex.sa.kids_food.peel",
+      "example": "I peel the orange before I eat it.",
+      "fieldId": "kids_food",
+      "id": "peel",
+      "lessonIds": [
+        "article_fruit_salad",
+        "article_kids_food_fruits"
+      ],
+      "packs": [
+        "knw.kids.food.fruits",
+        "knw.kids.food.salad"
+      ],
+      "term": "Peel"
+    },
+    {
+      "definition": "A tiny helper in food that keeps your body working well. Fruit has plenty of vitamins.",
+      "dictionaryId": "lex.sa.kids_food.vitamin",
+      "example": "One orange gives me lots of vitamin C.",
+      "fieldId": "kids_food",
+      "id": "vitamin",
+      "lessonIds": [
+        "article_kids_food_fruits"
+      ],
+      "packs": [
+        "knw.kids.food.fruits"
+      ],
+      "term": "Vitamin"
+    },
+    {
+      "definition": "A place where milk is cleaned, heated and packed into bottles and cartons.",
+      "dictionaryId": "lex.sa.kids_food.dairy",
+      "example": "Our milk comes from the dairy near the town.",
+      "fieldId": "kids_food",
+      "id": "dairy",
+      "lessonIds": [
+        "article_where_milk_comes_from"
+      ],
+      "packs": [
+        "knw.kids.food.milk"
+      ],
+      "term": "Dairy"
+    },
+    {
+      "definition": "The bag under a cow's body where the milk is made.",
+      "dictionaryId": "lex.sa.kids_food.udder",
+      "example": "The farmer washes the cow's udder before milking.",
+      "fieldId": "kids_food",
+      "id": "udder",
+      "lessonIds": [
+        "article_where_milk_comes_from"
+      ],
+      "packs": [
+        "knw.kids.food.milk"
+      ],
+      "term": "Udder"
+    },
+    {
+      "definition": "Heated quickly to kill tiny germs, so the milk stays safe to drink.",
+      "dictionaryId": "lex.sa.kids_food.pasteurised",
+      "example": "This milk is pasteurised, so it is safe to drink.",
+      "fieldId": "kids_food",
+      "id": "pasteurised",
+      "lessonIds": [
+        "article_where_milk_comes_from"
+      ],
+      "packs": [
+        "knw.kids.food.milk"
+      ],
+      "term": "Pasteurised"
     }
   ],
   "nextCursor": "880",

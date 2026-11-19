@@ -1,564 +1,567 @@
 {
   "items": [
     {
-      "definition": "The property of a set of axioms that do not contradict one another.",
-      "dictionaryId": "lex.sa.mind.mathlit_consistency",
-      "example": "The two rules cannot both be true, so the set of rules is not consistent.",
+      "definition": "An attack on the person instead of on the claim.",
+      "dictionaryId": "lex.sa.mind.mia_ad_hominem",
+      "example": "You did not read the report, so your opinion does not count is an ad hominem.",
       "fieldId": "mind",
-      "id": "mathlit_consistency",
+      "id": "mia_ad_hominem",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Consistency"
+      "term": "Ad hominem"
     },
     {
-      "definition": "The quality of a situation that could happen, even when it did not.",
-      "dictionaryId": "lex.sa.mind.mathlit_plausibility",
-      "example": "The story has plausibility, and the details of the rule are still missing.",
+      "definition": "The turning of an answer into an answer about somebody else.",
+      "dictionaryId": "lex.sa.mind.mia_whataboutism",
+      "example": "You did the same thing last year is whataboutism: it answers nothing.",
       "fieldId": "mind",
-      "id": "mathlit_plausibility",
+      "id": "mia_whataboutism",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Plausibility"
+      "term": "Whataboutism"
     },
     {
-      "definition": "The point of view a story is told from, which decides what the reader can and cannot see.",
-      "dictionaryId": "lex.sa.mind.mathlit_perspective",
-      "example": "From the perspective of the night engineer, the quiet building is the whole story.",
+      "definition": "The formal name for whataboutism; it means \"you too\".",
+      "dictionaryId": "lex.sa.mind.mia_tu_quoque",
+      "example": "The reply was a tu quoque: it pointed at the other person's record and stayed there.",
       "fieldId": "mind",
-      "id": "mathlit_perspective",
+      "id": "mia_tu_quoque",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Perspective"
+      "term": "Tu quoque"
     },
     {
-      "definition": "A place in a text where two meanings are held at once and the reader must choose one.",
-      "dictionaryId": "lex.sa.mind.mathlit_ambiguity",
-      "example": "The ambiguity in the last line is deliberate, and the reader has to settle it.",
+      "conflict": true,
+      "definition": "Money, time or effort that has already been spent, and which is used as a reason to continue.",
+      "dictionaryId": "lex.sa.mind.psy_sunk_cost",
+      "example": "The sunk cost of the training was the argument for staying in the job.",
       "fieldId": "mind",
-      "id": "mathlit_ambiguity",
+      "id": "mia_sunk_cost",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Ambiguity"
+      "term": "Sunk cost"
     },
     {
-      "definition": "The meaning a reader gives a result in their own work once they have understood it.",
-      "dictionaryId": "lex.sa.mind.mathlit_interpretation",
-      "example": "The interpretation is the last step: the number is correct, and now it has to mean something on the night shift.",
+      "definition": "The choice of words around a fact, which changes how the fact feels.",
+      "dictionaryId": "lex.sa.work.dpn_framing",
+      "example": "The framing changed nothing: 400 a month is the same money as 4,800 a year.",
       "fieldId": "mind",
-      "id": "mathlit_interpretation",
+      "id": "mia_framing",
       "lessonIds": [
-        "article_math_and_literature"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.math_and_literature"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Interpretation"
+      "term": "Framing"
     },
     {
-      "definition": "Using external tools to store, compute or retrieve information so that your own mind does not have to.",
-      "dictionaryId": "lex.sa.mind.cognitive_offloading",
-      "example": "",
+      "definition": "A reply that takes the point that was made and answers it with a reason.",
+      "dictionaryId": "lex.sa.mind.mia_rebuttal",
+      "example": "The rebuttal gave the reason and asked for the same test on the other side.",
       "fieldId": "mind",
-      "id": "cognitive_offloading",
+      "id": "mia_rebuttal",
       "lessonIds": [
-        "article_outsourced_brain"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.outsourced_brain"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Cognitive offloading"
+      "term": "Rebuttal"
     },
     {
-      "definition": "The shared system by which a group, or a person and a tool, divides the work of remembering who knows what.",
-      "dictionaryId": "lex.sa.mind.transactive_memory",
-      "example": "",
+      "conflict": true,
+      "definition": "A repeated attack on a person's memory and judgement, so that they stop trusting what they remember.",
+      "dictionaryId": "lex.sa.mind.psy_gaslighting",
+      "example": "It was gaslighting: she was told her own account of the meeting was wrong.",
       "fieldId": "mind",
-      "id": "transactive_memory",
+      "id": "gd_gaslighting",
       "lessonIds": [
-        "article_outsourced_brain"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.outsourced_brain"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Transactive memory"
+      "term": "Gaslighting"
     },
     {
-      "definition": "The disciplined practice of examining claims, evidence and reasoning before accepting a conclusion.",
-      "dictionaryId": "lex.sa.mind.critical_thinking",
-      "example": "",
+      "definition": "The person who denies the shared account and attacks the person who holds it; the word names the act, not the character.",
+      "dictionaryId": "lex.sa.mind.gd_gaslighter",
+      "example": "The gaslighter kept the denial flat and turned the talk to her character.",
       "fieldId": "mind",
-      "id": "critical_thinking",
+      "id": "gd_gaslighter",
       "lessonIds": [
-        "article_outsourced_brain"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.outsourced_brain"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Critical thinking"
+      "term": "Gaslighter"
     },
     {
-      "definition": "The ability to form, hold and explain your own views without needing them to be pre-approved by an authority or a tool.",
-      "dictionaryId": "lex.sa.mind.intellectual_autonomy",
-      "example": "",
+      "definition": "What two people agree happened, and what each of them remembers about it.",
+      "dictionaryId": "lex.sa.mind.gd_shared_account",
+      "example": "Their shared account of the shift was simple, and both of them could still say it.",
       "fieldId": "mind",
-      "id": "intellectual_autonomy",
+      "id": "gd_shared_account",
       "lessonIds": [
-        "article_outsourced_brain"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.outsourced_brain"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Intellectual autonomy"
+      "term": "Shared account"
     },
     {
-      "definition": "The gradual loss of a skill when it is no longer practiced because a machine performs it instead.",
-      "dictionaryId": "lex.sa.mind.deskilling",
-      "example": "",
+      "definition": "Keeping the account but changing the words in it, until the meaning that was shared is gone.",
+      "dictionaryId": "lex.sa.mind.gd_revisionism",
+      "example": "The word was changed from late to careless, and that was revisionism.",
       "fieldId": "mind",
-      "id": "deskilling",
+      "id": "gd_revisionism",
       "lessonIds": [
-        "article_outsourced_brain"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.outsourced_brain"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Deskilling"
+      "term": "Revisionism"
     },
     {
-      "definition": "The weakening of mental abilities through long disuse, similar to the shrinking of an unexercised muscle.",
-      "dictionaryId": "lex.sa.mind.cognitive_atrophy",
-      "example": "",
+      "definition": "The doubt a person is given about their own memory, until they check themselves instead of the facts.",
+      "dictionaryId": "lex.sa.mind.gd_manufactured_doubt",
+      "example": "The result was manufactured doubt: he began to check his own memory instead of the record.",
       "fieldId": "mind",
-      "id": "cognitive_atrophy",
+      "id": "gd_manufactured_doubt",
       "lessonIds": [
-        "article_outsourced_brain"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.outsourced_brain"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Cognitive atrophy"
+      "term": "Manufactured doubt"
     },
     {
-      "definition": "The capacity to direct one's own thinking: forming, testing and owning one's judgments rather than receiving them.",
-      "dictionaryId": "lex.sa.mind.cognitive_autonomy",
-      "example": "",
+      "definition": "The name of the pattern of three moves: deny, attack, and reverse victim and offender.",
+      "dictionaryId": "lex.sa.mind.gd_darvo",
+      "example": "The pattern was DARVO: deny, attack, and reverse victim and offender.",
       "fieldId": "mind",
-      "id": "cognitive_autonomy",
+      "id": "gd_darvo",
       "lessonIds": [
-        "article_price_of_ai"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.price_of_ai"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Cognitive autonomy"
+      "term": "DARVO"
     },
     {
-      "definition": "The power to act deliberately and be responsible for one's actions, as opposed to reacting or being acted upon.",
-      "dictionaryId": "lex.sa.mind.human_agency",
-      "example": "",
+      "definition": "The refusal to accept a shared account, said in a way that does not change when the evidence appears.",
+      "dictionaryId": "lex.sa.mind.gd_denial",
+      "example": "The denial was said the same way every time, and the message did not change it.",
       "fieldId": "mind",
-      "id": "human_agency",
+      "id": "gd_denial",
       "lessonIds": [
-        "article_price_of_ai"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.price_of_ai"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Human agency"
+      "term": "Denial"
     },
     {
-      "definition": "The obligation to stand behind one's beliefs and claims: to have checked them and to correct them when wrong.",
-      "dictionaryId": "lex.sa.mind.intellectual_responsibility",
-      "example": "",
+      "definition": "The move that turns on the person who holds the account, so that the person becomes the problem.",
+      "dictionaryId": "lex.sa.mind.gd_attack",
+      "example": "The attack moved the talk from the handover to her tone.",
       "fieldId": "mind",
-      "id": "intellectual_responsibility",
+      "id": "gd_attack",
       "lessonIds": [
-        "article_price_of_ai"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.price_of_ai"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Intellectual responsibility"
+      "term": "Attack"
     },
     {
-      "definition": "The habits that keep a person's information environment healthy: limits, filters, sources and offline time.",
-      "dictionaryId": "lex.sa.mind.digital_hygiene",
-      "example": "",
+      "definition": "The move that puts the two sides in the wrong places, crediting the harm to the person who suffered it.",
+      "dictionaryId": "lex.sa.mind.gd_reverse",
+      "example": "The reversal put the person who caused the harm in the place of the person who suffered it.",
       "fieldId": "mind",
-      "id": "digital_hygiene",
+      "id": "gd_reverse",
       "lessonIds": [
-        "article_price_of_ai"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.price_of_ai"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Digital hygiene"
+      "term": "Reverse victim and offender"
     },
     {
-      "definition": "The continuous practice of building and refreshing one's knowledge and skills throughout life.",
-      "dictionaryId": "lex.sa.mind.lifelong_learning",
-      "example": "",
+      "conflict": true,
+      "definition": "Turning a question back on the person who asked it, so that the original question is never answered.",
+      "dictionaryId": "lex.sa.mind.cs_deflection",
+      "example": "The deflection worked once, and I still had not answered what was wrong with the drawing.",
       "fieldId": "mind",
-      "id": "lifelong_learning",
+      "id": "gd_deflection",
       "lessonIds": [
-        "article_price_of_ai"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.price_of_ai"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Lifelong learning"
+      "term": "Deflection"
     },
     {
-      "definition": "Thinking about one's own thinking: noticing how one learns, decides, and errs.",
-      "dictionaryId": "lex.sa.mind.metacognition",
-      "example": "",
+      "definition": "Putting your own act on the other person, and calling it the other person's character.",
+      "dictionaryId": "lex.sa.mind.gd_projection",
+      "example": "It was projection: the person who had been aggressive called the other one aggressive.",
       "fieldId": "mind",
-      "id": "metacognition",
+      "id": "gd_projection",
       "lessonIds": [
-        "article_price_of_ai"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.price_of_ai"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Metacognition"
+      "term": "Projection"
     },
     {
-      "definition": "The work of knowing one field deeply instead of many fields broadly.",
-      "dictionaryId": "lex.sa.mind.spec_specialisation",
-      "example": "Specialisation is why the same engineer finds a fault in ten minutes that takes another person a day.",
+      "definition": "Bringing a third person into a dispute between two, so that the two cannot settle it themselves.",
+      "dictionaryId": "lex.sa.mind.gd_triangulation",
+      "example": "Triangulation brought a third person into a dispute between two people.",
       "fieldId": "mind",
-      "id": "spec_specialisation",
+      "id": "gd_triangulation",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Specialisation"
+      "term": "Triangulation"
     },
     {
-      "definition": "A person whose work is in one field and who is trusted to judge work in that field.",
-      "dictionaryId": "lex.sa.mind.spec_specialist",
-      "example": "She is the specialist for the pump, so she read the report in ten minutes.",
+      "definition": "The written record that keeps a shared account alive when memory is attacked.",
+      "dictionaryId": "lex.sa.mind.gd_documentation",
+      "example": "The documentation was a handover note, a date and a message.",
       "fieldId": "mind",
-      "id": "spec_specialist",
+      "id": "gd_documentation",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Specialist"
+      "term": "Documentation"
     },
     {
-      "definition": "The area of work that a person, a document or a decision covers.",
-      "dictionaryId": "lex.sa.mind.spec_scope",
-      "example": "The scope of this decision covers the money, the contract and the customer.",
+      "definition": "The small set of fixed sentences used to rewrite an account, at work and at home.",
+      "dictionaryId": "lex.sa.mind.gd_gaslighting_vocabulary",
+      "example": "The gaslighting vocabulary is short: you are misremembering, I never said that.",
       "fieldId": "mind",
-      "id": "spec_scope",
+      "id": "gd_gaslighting_vocabulary",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_gaslighting_darvo"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.mind.gaslighting_darvo"
       ],
-      "term": "Scope"
+      "term": "Gaslighting vocabulary"
     },
     {
-      "definition": "The ability to do a piece of work well.",
-      "dictionaryId": "lex.sa.mind.spec_competence",
-      "example": "His competence is in the numbers; the rest of the project is not his field.",
-      "fieldId": "mind",
-      "id": "spec_competence",
+      "definition": "One only; not multiple.",
+      "dictionaryId": "lex.sa.en.single.adjective",
+      "example": "A single file is a gallery of one.",
+      "fieldId": "social",
+      "id": "lts_single",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Competence"
+      "term": "single"
     },
     {
-      "definition": "A part of a situation that a person cannot see well, because of what the person already knows.",
-      "dictionaryId": "lex.sa.mind.spec_blind_spot",
-      "example": "Her blind spot is the customer: the figure was right and nobody asked who was waiting for the machine.",
-      "fieldId": "mind",
-      "id": "spec_blind_spot",
+      "definition": "The situation of being without a romantic partner, seen as a general condition rather than one person's story.",
+      "dictionaryId": "lex.sa.social.lts_singleness",
+      "example": "Long-term singleness has its own vocabulary, and its own pressures.",
+      "fieldId": "social",
+      "id": "lts_singleness",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Blind spot"
+      "term": "Singleness"
     },
     {
-      "definition": "The ability to form an opinion from experience and to defend it.",
-      "dictionaryId": "lex.sa.mind.spec_judgement",
-      "example": "The judgement to stop the line is part of what the company pays for.",
-      "fieldId": "mind",
-      "id": "spec_judgement",
+      "definition": "Describing a person who has no romantic partner, without saying whether that is a choice.",
+      "dictionaryId": "lex.sa.social.lts_unpartnered",
+      "example": "He said he was unpartnered, and he said it without any apology in his voice.",
+      "fieldId": "social",
+      "id": "lts_unpartnered",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Judgement"
+      "term": "Unpartnered"
     },
     {
-      "definition": "A habit of attention that leans one way, often without the person noticing.",
-      "dictionaryId": "lex.sa.mind.spec_bias",
-      "example": "The bias is not against the customer; it is away from the customer.",
-      "fieldId": "mind",
-      "id": "spec_bias",
+      "definition": "The repeated sense that a status such as being single is a condition to be explained, corrected or ended.",
+      "dictionaryId": "lex.sa.social.lts_social_pressure",
+      "example": "The social pressure arrives in small questions, not in one cruel remark.",
+      "fieldId": "social",
+      "id": "lts_social_pressure",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Bias"
+      "term": "Social pressure"
     },
     {
-      "definition": "Something a plan takes as true without checking it.",
-      "dictionaryId": "lex.sa.mind.spec_assumption",
-      "example": "The hidden assumption is that the machine will be ready on the first day.",
-      "fieldId": "mind",
-      "id": "spec_assumption",
+      "definition": "A mark of disgrace that a group attaches to a status, so that the status itself becomes hard to show.",
+      "dictionaryId": "lex.sa.social.lts_stigma",
+      "example": "In some offices there is a stigma against a long single life, and in others there is none.",
+      "fieldId": "social",
+      "id": "lts_stigma",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Assumption"
+      "term": "Stigma"
     },
     {
-      "definition": "An area of work that a person knows well enough to work in.",
-      "dictionaryId": "lex.sa.mind.spec_field",
-      "example": "His field is tax, so read the customs part with somebody else.",
-      "fieldId": "mind",
-      "id": "spec_field",
+      "definition": "A settled sense that a situation is acceptable, without the need for it to be improved first.",
+      "dictionaryId": "lex.sa.social.lts_contentment",
+      "example": "Her contentment with the arrangement was visible in the way she answered people.",
+      "fieldId": "social",
+      "id": "lts_contentment",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Field"
+      "term": "Contentment"
     },
     {
-      "definition": "The checking of a thing against a source before it is trusted.",
-      "dictionaryId": "lex.sa.mind.spec_verification",
-      "example": "Verification of the cost is done by finance, not by the person who wrote the estimate.",
-      "fieldId": "mind",
-      "id": "spec_verification",
+      "definition": "Describing a person who has a romantic relationship, whether or not they live with the other person.",
+      "dictionaryId": "lex.sa.social.lts_partnered",
+      "example": "She is partnered, and her partner works in another city.",
+      "fieldId": "social",
+      "id": "lts_partnered",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Verification"
+      "term": "Partnered"
     },
     {
-      "definition": "The judgement of a second person, asked because the first one may not see everything.",
-      "dictionaryId": "lex.sa.mind.spec_second_opinion",
-      "example": "Before we sign, I would like a second opinion from somebody outside this field.",
-      "fieldId": "mind",
-      "id": "spec_second_opinion",
+      "definition": "To live with a partner in the same home without being married to that person.",
+      "dictionaryId": "lex.sa.social.lts_cohabit",
+      "example": "They have cohabited for three years and still keep two homes.",
+      "fieldId": "social",
+      "id": "lts_cohabit",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Second opinion"
+      "term": "Cohabit"
     },
     {
-      "definition": "The passing of work from one person to another.",
-      "dictionaryId": "lex.sa.mind.spec_handover",
-      "example": "At the handover she asked what the customer had actually agreed to.",
-      "fieldId": "mind",
-      "id": "spec_handover",
+      "definition": "Describing a person whose marriage has ended legally.",
+      "dictionaryId": "lex.sa.social.lts_divorced",
+      "example": "He is divorced, and the children spend the week with him.",
+      "fieldId": "social",
+      "id": "lts_divorced",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Handover"
+      "term": "Divorced"
     },
     {
-      "definition": "A person who works across several fields and can explain one of them to another.",
-      "dictionaryId": "lex.sa.mind.spec_generalist",
-      "example": "The generalist on the team translated the tax rule into plain words.",
-      "fieldId": "mind",
-      "id": "spec_generalist",
+      "definition": "Describing a person whose spouse has died.",
+      "dictionaryId": "lex.sa.social.lts_widowed",
+      "example": "She is widowed, and she still keeps the shared photographs on the wall.",
+      "fieldId": "social",
+      "id": "lts_widowed",
       "lessonIds": [
-        "article_specialization_blindspot"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.specialization_blindspot"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Generalist"
+      "term": "Widowed"
     },
     {
-      "definition": "Building software by prompting an AI and accepting generated code based on whether it seems to work, without necessarily understanding it.",
-      "dictionaryId": "lex.sa.mind.vibe_coding",
-      "example": "",
-      "fieldId": "mind",
-      "id": "vibe_coding",
+      "definition": "Describing an ending in which the two people settle the practical matters and stay on speaking terms.",
+      "dictionaryId": "lex.sa.social.lts_amicable",
+      "example": "The separation was amicable, so the flat was sold without a lawyer's fight.",
+      "fieldId": "social",
+      "id": "lts_amicable",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Vibe coding"
+      "term": "Amicable"
     },
     {
-      "definition": "The future cost of shortcuts in software: work that must be redone because quick solutions were chosen over correct ones.",
-      "dictionaryId": "lex.sa.mind.technical_debt",
-      "example": "",
-      "fieldId": "mind",
-      "id": "technical_debt",
+      "definition": "Being single because that is the arrangement the person has chosen.",
+      "dictionaryId": "lex.sa.social.lts_voluntary_singleness",
+      "example": "He calls it voluntary singleness, and he means it as a decision rather than a consolation.",
+      "fieldId": "social",
+      "id": "lts_voluntary_singleness",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Technical debt"
+      "term": "Voluntary singleness"
     },
     {
-      "definition": "The high-level structure of a system: how its parts are divided and connected, decided before the details are written.",
-      "dictionaryId": "lex.sa.mind.software_architecture",
-      "example": "",
-      "fieldId": "mind",
-      "id": "software_architecture",
+      "definition": "Being single because the wish for a partner has not been met, rather than by choice.",
+      "dictionaryId": "lex.sa.social.lts_involuntary_singleness",
+      "example": "She calls it involuntary singleness, and she has stopped apologising for it.",
+      "fieldId": "social",
+      "id": "lts_involuntary_singleness",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Software architecture"
+      "term": "Involuntary singleness"
     },
     {
-      "definition": "The practice of having code read and checked by another developer — or by its author with fresh eyes — before it is accepted.",
-      "dictionaryId": "lex.sa.mind.code_review",
-      "example": "",
-      "fieldId": "mind",
-      "id": "code_review",
+      "definition": "The state of being open to a relationship and willing to say yes to the right one.",
+      "dictionaryId": "lex.sa.social.lts_romantic_availability",
+      "example": "His romantic availability changed when he moved to another city, and he says so openly.",
+      "fieldId": "social",
+      "id": "lts_romantic_availability",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_long_term_singleness"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.social.long_term_singleness"
       ],
-      "term": "Code review"
+      "term": "Romantic availability"
     },
     {
-      "definition": "How easily software can be understood, fixed and extended by a human in the future.",
-      "dictionaryId": "lex.sa.mind.maintainability",
-      "example": "",
-      "fieldId": "mind",
-      "id": "maintainability",
+      "definition": "A metaphor for the meeting of people who are looking for a partner.",
+      "dictionaryId": "lex.sa.social.dm_dating_market",
+      "example": "They talked about the dating market for an hour without saying anything about either of them.",
+      "fieldId": "social",
+      "id": "dm_dating_market",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.social.dating_market"
       ],
-      "term": "Maintainability"
+      "term": "dating market"
     },
     {
-      "definition": "The underlying reason a problem exists, as opposed to the symptom that made it visible.",
-      "dictionaryId": "lex.sa.mind.root_cause",
-      "example": "",
-      "fieldId": "mind",
-      "id": "root_cause",
+      "definition": "The group of people who are available to be chosen, counted as a group and not as individuals.",
+      "dictionaryId": "lex.sa.social.dm_supply",
+      "example": "The supply was small where she lived, and the same people kept appearing.",
+      "fieldId": "social",
+      "id": "dm_supply",
       "lessonIds": [
-        "article_vibe_coding"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.vibe_coding"
+        "knw.social.dating_market"
       ],
-      "term": "Root cause"
+      "term": "supply"
     },
     {
-      "definition": "A body of ideas about how conflict works, built from the study of past campaigns rather than from rules of fighting.",
-      "dictionaryId": "lex.sa.mind.war_theory",
-      "example": "The book is called a theory of war because it explains how conflict works, not how to fight.",
-      "fieldId": "mind",
-      "id": "war_theory",
+      "definition": "The group of wishes that the people looking are trying to satisfy.",
+      "dictionaryId": "lex.sa.social.dm_demand",
+      "example": "The demand was for somebody who wanted a quiet life, and that changed who she met.",
+      "fieldId": "social",
+      "id": "dm_demand",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.social.dating_market"
       ],
-      "term": "Theory of war"
+      "term": "demand"
     },
     {
-      "definition": "The Prussian officer (1780-1831) who wrote On War, the book that gave the field its central sentence.",
-      "dictionaryId": "lex.sa.mind.war_clausewitz",
-      "example": "Clausewitz wrote that war is the continuation of politics by other means.",
-      "fieldId": "mind",
-      "id": "war_clausewitz",
+      "definition": "The treatment of a person as a product that can be valued and exchanged.",
+      "dictionaryId": "lex.sa.social.dm_commodification",
+      "example": "The whole conversation turned her into a commodity, and she left the table.",
+      "fieldId": "social",
+      "id": "dm_commodification",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.social.dating_market"
       ],
-      "term": "Carl von Clausewitz"
+      "term": "commodification"
     },
     {
-      "definition": "The business of running a state and its relations with other states; in the theory of war, the purpose that fighting is meant to serve.",
-      "dictionaryId": "lex.sa.mind.war_politics",
-      "example": "The war had a political purpose, so the settlement had to satisfy the politics.",
-      "fieldId": "mind",
-      "id": "war_politics",
+      "definition": "Acting in a planned way to produce a result, rather than acting in the way that comes naturally.",
+      "dictionaryId": "lex.sa.social.dm_strategic_behaviour",
+      "example": "Strategic behaviour won him the interview; it did not make him better at the work.",
+      "fieldId": "social",
+      "id": "dm_strategic_behaviour",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.social.dating_market"
       ],
-      "term": "Politics"
+      "term": "strategic behaviour"
     },
     {
-      "definition": "The way a conflict is linked to its political purpose: what is wanted, with what means, over what time.",
-      "dictionaryId": "lex.sa.mind.war_strategy",
-      "example": "The strategy of the campaign was to hold the coast and wait.",
-      "fieldId": "mind",
-      "id": "war_strategy",
+      "definition": "The number the market metaphor assigns to a person, as if it could be measured and compared.",
+      "dictionaryId": "lex.sa.social.dm_mate_value",
+      "example": "He talked about his mate value instead of asking what she wanted.",
+      "fieldId": "social",
+      "id": "dm_mate_value",
       "lessonIds": [
-        "article_theory_of_war"
+        "article_dating_market"
       ],
       "packs": [
-        "knw.mind.war_theory"
+        "knw.social.dating_market"
       ],
-      "term": "Strategy"
+      "term": "mate value"
     }
   ],
   "nextCursor": "440",

@@ -1,104 +1,19 @@
 {
   "items": [
     {
-      "fieldId": "kids_daily",
-      "id": "daily_conversations",
-      "name": "Daily conversations",
-      "order": 1,
-      "summary": "The small talks of a child's day: hello, food, friends, school, weather and bedtime.",
-      "topicIds": [
-        "article_asking_for_food",
-        "article_talking_about_family",
-        "article_saying_hello",
-        "article_favourite_animals",
-        "article_getting_ready_for_bedtime",
-        "article_making_friends_at_school",
-        "article_asking_questions_in_class",
-        "article_talking_about_the_weather"
-      ]
-    },
-    {
-      "fieldId": "kids_feelings",
-      "id": "feelings_and_friends",
-      "name": "Feelings and friends",
-      "order": 1,
-      "summary": "Naming what you feel, waiting your turn, sharing and being kind with other children.",
-      "topicIds": [
-        "article_when_you_feel_angry",
-        "article_sharing_and_turns",
-        "article_please_and_thank_you",
-        "article_how_do_you_feel",
-        "article_being_kind",
-        "article_making_mistakes",
-        "article_good_friend",
-        "article_asking_for_help"
-      ]
-    },
-    {
-      "fieldId": "kids_food",
-      "id": "food_and_eating",
-      "name": "Food and healthy eating",
-      "order": 1,
-      "summary": "Where our food comes from, what it does for our bodies, and how we prepare it.",
-      "topicIds": [
-        "article_kids_food_fruits",
-        "article_where_milk_comes_from",
-        "article_healthy_snacks",
-        "article_kids_food_vegetables",
-        "article_kids_food_favourite_foods",
-        "article_fruit_salad",
-        "article_how_bread_is_made",
-        "article_kids_food_breakfast"
-      ]
-    },
-    {
-      "fieldId": "kids_home",
-      "id": "everyday_objects",
-      "name": "Everyday objects at home",
-      "order": 1,
-      "summary": "The things we use at home every day: kitchen things, bedroom things, school things and clothes.",
-      "topicIds": [
-        "article_bedroom",
-        "article_schoolbag",
-        "article_clothes",
-        "article_day",
-        "article_kitchen",
-        "article_bathroom",
-        "article_shapes",
-        "article_toys"
-      ]
-    },
-    {
-      "fieldId": "kids_science",
-      "id": "science_and_discovery",
-      "name": "Science and discovery for small readers",
-      "order": 1,
-      "summary": "Big questions about the world, answered in plain words: the sky, the weather, plants and the body.",
-      "topicIds": [
-        "article_how_planes_fly",
-        "article_science_plants",
-        "article_science_rain",
-        "article_sun_moon_stars",
-        "article_why_brush_teeth",
-        "article_five_senses",
-        "article_science_sky",
-        "article_science_sleepneed"
-      ]
-    },
-    {
       "fieldId": "kids_stories",
       "id": "bedtime_tales",
       "name": "Bedtime tales",
       "order": 1,
       "summary": "Short stories for little readers: a beginning, a surprise in the middle, and one small lesson at the end.",
       "topicIds": [
+        "article_lost_puppy",
+        "article_boy_who_told_truth",
         "article_bear_sharing",
         "article_little_bird_fly",
-        "article_lost_puppy",
-        "article_little_rabbit_dark",
-        "article_boy_who_told_truth",
         "article_magical_forest",
         "article_lion_and_mouse",
+        "article_little_rabbit_dark",
         "article_tiny_seed"
       ]
     },
@@ -213,13 +128,20 @@
       ]
     },
     {
-      "fieldId": "mathematics",
-      "id": "math_algebra",
-      "name": "Algebra",
+      "fieldId": "kids_science",
+      "id": "science_and_discovery",
+      "name": "Science and discovery",
       "order": 1,
-      "summary": "English for equations, variables, and the steps that keep both sides equal.",
+      "summary": "The big questions small readers ask about the sky, the machines, the body and the world around them.",
       "topicIds": [
-        "math_linear_eq"
+        "article_five_senses",
+        "article_how_planes_fly",
+        "article_science_plants",
+        "article_science_rain",
+        "article_science_sky",
+        "article_sun_moon_stars",
+        "article_science_sleepneed",
+        "article_why_brush_teeth"
       ]
     },
     {
@@ -239,35 +161,11 @@
       "order": 3,
       "summary": "What AI coding, local models, agents and the AI economy mean for skills, responsibility and control.",
       "topicIds": [
-        "article_ai_agents",
         "article_ai_bubble",
-        "article_ai_programmer",
         "article_local_ai",
-        "article_vibe_coding"
-      ]
-    },
-    {
-      "fieldId": "mind",
-      "id": "mind_future",
-      "name": "The digital future",
-      "order": 5,
-      "summary": "Where the relationship between humans, software and intelligent machines is heading.",
-      "topicIds": [
-        "article_app_future",
-        "article_price_of_ai"
-      ]
-    },
-    {
-      "fieldId": "mind",
-      "id": "mind_information",
-      "name": "Information and the modern mind",
-      "order": 1,
-      "summary": "What happens to understanding when information becomes endless: overload, shallow knowledge, borrowed answers and the death of deep attention.",
-      "topicIds": [
-        "article_attention_death",
-        "article_illusion_knowledge",
-        "article_info_overload",
-        "article_outsourced_brain"
+        "article_vibe_coding",
+        "article_ai_agents",
+        "article_ai_programmer"
       ]
     },
     {
@@ -278,9 +176,9 @@
       "summary": "How the online environment shapes health anxiety, self-confidence, patience and the ability to handle difficulty.",
       "topicIds": [
         "article_comfort_paradox",
-        "article_cyberchondria",
         "article_illusion_skill",
-        "article_psychological_manipulation"
+        "article_psychological_manipulation",
+        "article_cyberchondria"
       ]
     },
     {
@@ -342,6 +240,30 @@
       "summary": "How a proof reasons and how a story reasons, and why a team needs both.",
       "topicIds": [
         "article_math_and_literature"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "mind_information",
+      "name": "Information and the modern mind",
+      "order": 1,
+      "summary": "What happens to understanding when information becomes endless: overload, shallow knowledge, borrowed answers and the death of deep attention.",
+      "topicIds": [
+        "article_outsourced_brain",
+        "article_attention_death",
+        "article_illusion_knowledge",
+        "article_info_overload"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "mind_future",
+      "name": "The digital future",
+      "order": 5,
+      "summary": "Where the relationship between humans, software and intelligent machines is heading.",
+      "topicIds": [
+        "article_price_of_ai",
+        "article_app_future"
       ]
     },
     {
@@ -452,6 +374,56 @@
       "summary": "The professional register of a job interview: how to introduce yourself, describe your experience, answer questions and follow up.",
       "topicIds": [
         "article_job_interview"
+      ]
+    },
+    {
+      "fieldId": "work",
+      "id": "asking_for_a_raise",
+      "name": "Asking for a raise",
+      "order": 1,
+      "summary": "How to prepare a pay case, present it to a manager, and handle the answer: yes, no, or not yet.",
+      "topicIds": [
+        "article_ask_for_raise"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "competence_shaming",
+      "name": "Competition for status at work",
+      "order": 10,
+      "summary": "How a person gains standing by lowering somebody else's competence, how to tell that move apart from honest criticism, and how to answer it without making it worse.",
+      "topicIds": [
+        "article_competence_shaming"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "manipulation_in_arguments",
+      "name": "How an argument is manipulated",
+      "order": 12,
+      "summary": "The moves that move the ground under a claim, and the sentences that put it back where it was.",
+      "topicIds": [
+        "article_manipulation_in_arguments"
+      ]
+    },
+    {
+      "fieldId": "mind",
+      "id": "gaslighting_darvo",
+      "name": "Gaslighting and DARVO",
+      "order": 11,
+      "summary": "How a shared account is rewritten, the three moves that do it, and the sentences that answer them.",
+      "topicIds": [
+        "article_gaslighting_darvo"
+      ]
+    },
+    {
+      "fieldId": "social",
+      "id": "long_term_singleness",
+      "name": "Long-term singleness: the state, the story and the words",
+      "order": 6,
+      "summary": "What long-term singleness describes, the stories people tell about it, the words that describe it precisely, and the habits that keep a single life steady.",
+      "topicIds": [
+        "article_long_term_singleness"
       ]
     }
   ],

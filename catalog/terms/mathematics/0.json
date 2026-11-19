@@ -1,47 +1,6 @@
 {
   "items": [
     {
-      "definition": "A symbol, often x, whose value is found by solving.",
-      "dictionaryId": "lex.sa.en.variable.noun",
-      "example": "Let x be the unknown variable.",
-      "fieldId": "mathematics",
-      "id": "variable",
-      "lessonIds": [],
-      "packs": [
-        "knw.article.showcase",
-        "knw.solving.linear",
-        "showcase",
-        "solving"
-      ],
-      "term": "variable"
-    },
-    {
-      "definition": "An equation that can be written as ax + b = 0, with a not equal to zero.",
-      "dictionaryId": "exp.sa.en.linear-equation",
-      "example": "2x + 3 = 11 is a linear equation in one unknown.",
-      "fieldId": "mathematics",
-      "id": "linear_equation",
-      "lessonIds": [],
-      "packs": [
-        "knw.solving.linear",
-        "solving"
-      ],
-      "term": "linear equation"
-    },
-    {
-      "definition": "How steep the line is; the coefficient of x.",
-      "dictionaryId": "lex.sa.en.slope.noun",
-      "example": "A horizontal line has slope zero.",
-      "fieldId": "mathematics",
-      "id": "slope",
-      "lessonIds": [],
-      "packs": [
-        "knw.solving.linear",
-        "solving"
-      ],
-      "term": "slope"
-    },
-    {
       "definition": "Doing a calculation in your head, without a calculator and without paper.",
       "dictionaryId": "lex.sa.mathematics.ma_mental_arithmetic",
       "example": "Mental arithmetic gave me the rough figure, and the check gave me the right one.",
@@ -152,6 +111,49 @@
         "knw.math.mental_arithmetic"
       ],
       "term": "Digit sum"
+    },
+    {
+      "definition": "A symbol, often x, whose value is found by solving.",
+      "dictionaryId": "lex.sa.en.variable.noun",
+      "example": "Let x be the unknown variable.",
+      "fieldId": "mathematics",
+      "id": "variable",
+      "lessonIds": [
+        "article_showcase"
+      ],
+      "packs": [
+        "knw.article.showcase",
+        "knw.solving.linear"
+      ],
+      "term": "variable"
+    },
+    {
+      "definition": "An equation that can be written as ax + b = 0, with a not equal to zero.",
+      "dictionaryId": "exp.sa.en.linear-equation",
+      "example": "2x + 3 = 11 is a linear equation in one unknown.",
+      "fieldId": "mathematics",
+      "id": "linear_equation",
+      "lessonIds": [
+        "math_linear_eq"
+      ],
+      "packs": [
+        "knw.solving.linear"
+      ],
+      "term": "linear equation"
+    },
+    {
+      "definition": "How steep the line is; the coefficient of x.",
+      "dictionaryId": "lex.sa.en.slope.noun",
+      "example": "A horizontal line has slope zero.",
+      "fieldId": "mathematics",
+      "id": "slope",
+      "lessonIds": [
+        "math_linear_eq"
+      ],
+      "packs": [
+        "knw.solving.linear"
+      ],
+      "term": "slope"
     }
   ],
   "nextCursor": null,

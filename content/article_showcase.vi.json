@@ -2,209 +2,199 @@
   "language": "vi",
   "lessonId": "article_showcase",
   "objectives": [
-    "Mở ảnh bìa, ảnh tĩnh, thư viện ảnh, danh sách phát âm thanh và các video độc lập.",
-    "Đọc công thức đại số, giải tích và đại số tuyến tính kèm đồ thị.",
-    "Đọc công thức chuyển động học, Newton, năng lượng, Ohm và sóng kèm đồ thị.",
-    "Đọc công thức hóa học, cân bằng, pH và đồ thị tốc độ phản ứng."
+    "Mở bìa, ảnh chụp, thư viện, danh sách phát âm thanh và video độc lập.",
+    "Đọc các công thức đại số, giải tích và đại số tuyến tính kèm đồ thị.",
+    "Đọc các công thức động lực học Newton, năng lượng, Ohm và sóng với đồ thị.",
+    "Đọc các công thức hóa học, sự cân bằng, pH và đồ thị tốc độ."
   ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
     {
-      "body": "Đây là một bài viết tiếng Anh ngắn được dùng làm mẫu bố cục. Nó không phải là một khóa học. Mỗi tiêu đề dưới đây là một khối nội dung thật mà ứng dụng có thể hiển thị: văn bản, một hình ảnh đơn, một thư viện ảnh, âm thanh, video, một liên kết, một bảng công thức và một đồ thị trực tiếp. Mọi địa chỉ trỏ tới tệp media trong gói này đều là một tệp nằm trong media/.",
-      "heading": "Bài này là gì"
+      "body": "Đây là một bài viết tiếng Anh ngắn được dùng làm mẫu bố cục trang trí. Đó không phải là một khóa học. Mỗi tiêu đề dưới đây là một khối nội dung thực mà ứng dụng có thể hiển thị: văn bản, một hình ảnh, thư viện ảnh, âm thanh, video, liên kết, khung công thức và biểu đồ trực tiếp. Mọi trình định vị phương tiện trong gói này đều là một tệp nằm trong media/.",
+      "heading": "Bài viết này nói về cái gì"
     },
     {
-      "body": "Đoạn âm thanh được lưu trong tệp zip, không nằm trong APK.",
-      "heading": "Nghe từ vựng chính"
+      "body": "Clip được lưu trong tệp zip, không phải trong APK.",
+      "heading": "Nghe từ đầu ngữ"
     },
     {
-      "body": "Ảnh bìa của bài viết là một tệp PNG thật trong media/covers/.",
-      "heading": "Ảnh tĩnh bìa"
+      "body": "Ảnh bìa của bài viết là một tệp PNG thật nằm trong media/covers/.",
+      "heading": "Ảnh bìa tĩnh"
     },
     {
-      "body": "Một tệp mp4 nằm ngay dưới tiêu đề. Tệp đó là media/video/intro.mp4.",
+      "body": "Một tệp mp4 nằm dưới tiêu đề. Tệp là media/video/intro.mp4.",
       "heading": "Video độc lập"
     },
     {
-      "body": "Một sơ đồ nằm ngay dưới tiêu đề. Dùng kiểu này khi tiêu đề chỉ nêu một hình.",
-      "heading": "Hình ảnh tĩnh đơn"
+      "body": "Dưới tiêu đề có một sơ đồ. Hãy dùng phần này khi tiêu đề nhắc đến một hình minh họa cụ thể.",
+      "heading": "Ảnh chụp đơn lẻ"
     },
     {
-      "body": "Một tiêu đề như một chuyến tham quan, một khuôn viên trường hay một thư viện nổi tiếng cần nhiều hình ảnh. Vuốt qua thư viện ảnh. Thứ tự trong tệp zip là thứ tự hiển thị trên màn hình.",
-      "heading": "Thư viện ảnh — cảnh quan"
+      "body": "Một tiêu đề như buổi tham quan, khu trường viện hay một thư viện nổi tiếng cần nhiều hình ảnh. Vuốt qua phần thư viện ảnh. Thứ tự trong tệp zip cũng là thứ tự hiển thị trên màn hình.",
+      "heading": "Thư viện hình ảnh — các điểm tham quan"
     },
     {
-      "body": "Hình ảnh, một tệp video cục bộ và một liên kết bên ngoài cùng nằm trong một thư viện. Âm thanh của bài viết cũng phát từ danh sách phát bài học ở trên cùng.",
-      "heading": "Thư viện hỗn hợp — ảnh, video, liên kết"
+      "body": "Hình ảnh, tệp video cục bộ và liên kết bên ngoài dùng chung một thư viện. Âm thanh trong bài viết cũng có thể phát từ danh sách phát bài học ở phía trên.",
+      "heading": "Thư viện tổng hợp — hình ảnh, video, liên kết"
     },
     {
-      "body": "Các câu đã ghi âm từ trong tệp zip. Hãy xem một khối nghe là một danh sách phát chứ không phải một tệp âm thanh đơn lẻ.",
+      "body": "Các câu được ghi âm từ tệp zip. Hãy coi mỗi khối nghe là một danh sách phát, không phải một đoạn âm thanh.",
       "heading": "Danh sách phát âm thanh"
     },
     {
-      "body": "Nhiều tệp mp4 trong cùng một thư viện. Vuốt để chuyển giữa các tệp. Mỗi tệp là duy nhất trong tệp zip.",
+      "body": "Nhiều tệp mp4 trong một thư viện. Vuốt qua lại giữa các đoạn video. Mỗi tệp trong tệp zip là duy nhất.",
       "heading": "Danh sách phát video"
     },
     {
-      "body": "Một phương trình bậc nhất một ẩn số được viết là ax + b = 0, với a khác không. Cùng mối quan hệ đó, dưới dạng một đường thẳng, là y = ax + b.",
+      "body": "Một phương trình bậc nhất một ẩn có dạng ax + b = 0, với a khác không. Cùng mối quan hệ đó được biểu diễn như một đường thẳng là y = ax + b.",
       "heading": "Toán học — đại số"
     },
     {
-      "body": "Sin và cos có tính chất tuần hoàn. Đạo hàm là độ dốc. Tích phân là diện tích tích luỹ.",
-      "heading": "Toán học — lượng giác và giải tích"
+      "body": "Sin và cosin là các hàm tuần hoàn. Đạo hàm là độ dốc. Tích phân là diện tích tích luỹ.",
+      "heading": "Toán học — lượng giác và vi tích phân"
     },
     {
-      "body": "Một ma trận 2×2 nhân với một cột vectơ. Trung bình mẫu là tổng các số quan sát chia cho n.",
-      "heading": "Toán học — đại số tuyến tính và thống kê"
+      "body": "Một ma trận 2×2 nhân với một cột. Trung bình mẫu là tổng các giá trị quan sát chia cho n.",
+      "heading": "Toán học — đại số tuyến tín và thống kê"
     },
     {
-      "body": "Với gia tốc không đổi, quãng đường, vận tốc và thời gian liên hệ với nhau theo bộ SUVAT. Đồ thị x–t là một đường cong; đồ thị v–t là một đường thẳng.",
+      "body": "Trong trường hợp gia tốc không đổi, quãng đường, vận tốc và thời gian có liên hệ theo bộ công thức SUVAT. Đồ thị x–t là một đường cong; đồ thị v–t là một đường thẳng.",
       "heading": "Vật lý — động học"
     },
     {
-      "body": "Định luật thứ hai của Newton, năng lượng cơ học, định luật Ohm và sóng lan truyền được viết bên dưới. Đồ thị I–V của một điện trở là một đường thẳng đi qua gốc.",
+      "body": "Dưới đây là định luật II của Newton, cơ năng, định luật Ohm và sóng lan truyền. Đồ thị I–V của một điện trở là một đường thẳng đi qua gốc tọa độ.",
       "heading": "Vật lý — lực, năng lượng, điện, sóng"
     },
     {
-      "body": "Viết các hạt nguyên tử theo kiểu chữ toán. Lượng chất, nồng độ và phương khí lý tưởng là những tên tiếng Anh thông dụng.",
-      "heading": "Hóa học — công thức và các đại lượng"
+      "body": "Ghi loại hóa chất bằng chữ in hoa. Lượng chất, nồng độ và định luật khí lý tưởng là những tên gọi tiếng Anh thông thường.",
+      "heading": "Hóa học — công thức và đại lượng"
     },
     {
-      "body": "pH là đại lượng lôgarit. Một cân bằng động có hằng số K không đổi. Tốc độ phản ứng thường giảm khi nồng độ giảm.",
-      "heading": "Hóa học — axit–bazơ, cân bằng, tốc độ"
+      "body": "pH được tính theo thang logarit. Cân bằng động có hằng số K. Tốc độ phản ứng thường giảm khi nồng độ giảm.",
+      "heading": "Hóa học — axit–bazơ, cân bằng, tốc độ phản ứng"
     },
     {
-      "body": "Đọc ký hiệu, rồi đọc tên tiếng Anh của nó.",
-      "heading": "Các ký hiệu dùng trên trang này",
-      "symbols": [
-        {
-          "meaning": "số chưa biết"
-        },
-        {
-          "meaning": "hai vế cùng chỉ một đại lượng"
-        },
-        {
-          "meaning": "cộng các số hạng theo chỉ số"
-        },
-        {
-          "meaning": "đại lượng tích luỹ"
-        },
-        {
-          "meaning": "phản ứng tiến sang phải"
-        },
-        {
-          "meaning": "chiều thuận và chiều nghịch đều diễn ra"
-        },
-        {
-          "meaning": "khoảng cách giữa hai lần lặp liên tiếp của sóng"
-        },
-        {
-          "meaning": "đơn vị SI của điện trở"
-        }
-      ]
+      "body": "Đọc ký hiệu, rồi đọc tên tiếng Anh.",
+      "heading": "Các ký hiệu được dùng trên trang này"
     },
     {
-      "body": "Các thuật ngữ từ toán học, vật lý và hóa học theo cách chúng xuất hiện trong tiếng Anh.",
-      "heading": "Thuật ngữ kỹ thuật",
+      "body": "Các thuật ngữ toán học, vật lý và hóa học được dùng như trong tiếng Anh.",
+      "heading": "Thuật ngữ chuyên ngành",
       "terms": [
         {
-          "example": "",
-          "gloss": "Một ký hiệu mà giá trị chưa biết cho tới khi phương trình được giải."
+          "example": "Văn bản này thuộc phần “Thuật ngữ chuyên ngành” của một bài viết.",
+          "gloss": "Một ký hiệu có giá trị chưa biết cho đến khi giải được phương trình.",
+          "termId": ""
         },
         {
-          "example": "",
-          "gloss": "Độ dốc của một đường thẳng; độ tăng chia cho độ chạy."
+          "example": "Thuật ngữ chuyên ngành",
+          "gloss": "Độ dốc của một đường thẳng; độ chênh lệch trên độ dài theo chiều ngang.",
+          "termId": ""
         },
         {
-          "example": "",
-          "gloss": "Tốc độ thay đổi của vận tốc."
+          "example": "Văn bản này thuộc phần “Thuật ngữ chuyên ngành” của bài viết.\n\nTrong tiếng Việt, văn bản tiếng Anh dưới đây được đọc là:",
+          "gloss": "Tốc độ thay đổi của vận tốc.",
+          "termId": ""
         },
         {
-          "example": "",
-          "gloss": "Mức độ mà một thành phần chống lại dòng điện."
+          "example": "Thuật ngữ chuyên ngành",
+          "gloss": "Mức độ mà một linh kiện chống lại dòng điện.",
+          "termId": ""
         },
         {
-          "example": "",
-          "gloss": "Đơn vị SI của lượng chất."
+          "example": "Thuật ngữ chuyên ngành",
+          "gloss": "Đơn vị SI của lượng chất.",
+          "termId": ""
         },
         {
-          "example": "",
-          "gloss": "Một trạng thái mà tốc độ thuận và tốc độ nghịch bằng nhau."
+          "example": "Thuật ngữ chuyên ngành",
+          "gloss": "Trạng thái mà tốc độ thuận và tốc độ nghịch bằng nhau.",
+          "termId": ""
         }
       ]
     },
     {
-      "body": "Giải 2x + 1 = 7. Trừ 1, rồi chia cho 2. Nghiệm là x = 3. Kiểm tra: 2(3) + 1 = 7.",
+      "body": "Giải phương trình 2x + 1 = 7. Trừ 1, rồi chia cho 2. Nghiệm là x = 3. Kiểm tra: 2(3) + 1 = 7.",
       "examples": [
         "Trừ 1 ở cả hai vế.",
         "Chia cả hai vế cho 2.",
-        "Nghiệm là x = 3."
+        "Nghiệm của phương trình là x = 3."
       ],
-      "heading": "Ví dụ có lời giải — giữ hai vế bằng nhau"
+      "heading": "Ví dụ minh họa — giữ cho hai vế bằng nhau"
     },
     {
-      "body": "Các tệp JSON Lottie phát trực tiếp tại chỗ, lặp liên tục, ngay trong gói. Một đèn báo nhấp nháy và một kim đồng hồ quét là hai tệp mẫu. Hãy dùng hoạt ảnh cho đèn báo trên bảng điều khiển, đồng hồ đo và mọi thứ phải chuyển động thì mới hiểu được.",
-      "heading": "Hoạt ảnh — chuyển động vectơ trong tệp zip"
+      "body": "Các tệp Lottie JSON phát trực tiếp trong tệp zip, tự động lặp lại. Một đèn báo nhấp nháy và một kim đồng hồ quét là hai đoạn mẫu minh họa. Dùng hiệu ứng động cho đèn trên bảng điều khiển, đồng hồ đo và mọi thứ cần chuyển động để người xem hiểu được.",
+      "heading": "Hoạt hình — chuyển động vector trong tệp zip"
     },
     {
-      "body": "Danh sách các bước hiển thị như một quy trình có đánh số. Thứ tự trong JSON là thứ tự trên màn hình.",
-      "heading": "Quy trình — đọc một đồng hồ đo trong năm bước",
+      "body": "Các bước được hiển thị dưới dạng quy trình đánh số. Thứ tự trong JSON là thứ tự xuất hiện trên màn hình.",
+      "heading": "Quy trình — đọc một đồng hồ đo qua năm bước",
       "steps": [
-        "Xác định ký hiệu trên mặt đồng hồ.",
-        "Đọc đơn vị in bên dưới kim.",
-        "So sánh kim với khoảng đã đánh dấu.",
-        "Ghi nhận đèn báo có sáng hay không.",
-        "Ghi giá trị và đơn vị vào báo cáo của bạn."
+        "Nhận diện ký hiệu trên mặt đồng hồ.",
+        "Đọc số đơn vị in bên dưới kim đồng hồ.",
+        "So sánh kim đồng hồ với khoảng đã được đánh dấu.",
+        "Hãy quan sát xem đèn báo hiệu có sáng hay không.",
+        "Ghi giá trị và đơn vị trong báo cáo của bạn."
       ]
     },
     {
-      "body": "Một mục có thể chứa một bảng dữ liệu hai cột với hàng tiêu đề được tô màu.",
-      "heading": "Bảng dữ liệu — ký hiệu đơn vị"
+      "body": "Một phần có thể chứa bảng dữ liệu hai cột với hàng tiêu đề được tô màu.",
+      "heading": "Bảng dữ liệu — ký hiệu đơn vị",
+      "table": {
+        "headers": [
+          "Quantity",
+          "Unit"
+        ],
+        "rows": [
+          [
+            "Force",
+            "newton (N)"
+          ],
+          [
+            "Voltage",
+            "volt (V)"
+          ],
+          [
+            "Resistance",
+            "ohm (Ω)"
+          ],
+          [
+            "Amount of substance",
+            "mole (mol)"
+          ]
+        ]
+      }
     },
     {
-      "body": "Ký hiệu có thể mang một địa chỉ trỏ tới hình ảnh thay vì một ký tự Unicode. Mỗi hình tượng trưng hiển thị thành một thẻ có nhãn và một dòng ý nghĩa.",
-      "heading": "Ký hiệu dạng hình ảnh — phong cách bảng điều khiển",
-      "symbols": [
-        {
-          "meaning": "đèn báo thông tin chung"
-        },
-        {
-          "meaning": "cảnh báo hệ thống sạc"
-        },
-        {
-          "meaning": "cảnh báo nhiệt độ"
-        },
-        {
-          "meaning": "đơn vị SI của điện trở"
-        }
-      ]
+      "body": "Các biểu tượng có thể sử dụng một bộ định vị hình ảnh thay cho ký tự Unicode. Mỗi pictogram hiển thị dưới dạng một thẻ, kèm nhãn và dòng giải nghĩa.",
+      "heading": "Biểu tượng pictogram — phong cách bảng điều khiển"
     },
     {
-      "body": "Một hộp chú thích lưu ý nằm trên một thẻ tô màu trung tính với biểu tượng thông tin. Hãy dùng nó cho những nhận xét bên lề không làm gián đoạn mạch văn bản.",
-      "heading": "Hộp chú thích — lưu ý"
+      "body": "Một khối ghi chú nằm trên thẻ nền màu trung tính, có biểu tượng thông tin. Hãy dùng nó cho những nhận xét bên lề không làm gián đoạn mạch nội dung.",
+      "heading": "Ghi chú — lưu ý"
     },
     {
-      "body": "Một hộp chú thích mẹo dùng vùng chứa màu chính xanh lá. Hãy dùng nó cho một cách làm nhanh hơn hoặc tốt hơn để thực hiện tác vụ.",
-      "heading": "Hộp chú thích — mẹo"
+      "body": "Khung ghi chú mẹo dùng vùng chứa màu xanh chính. Hãy dùng nó cho cách thực hiện tác vụ nhanh hơn hoặc tốt hơn.",
+      "heading": "Chú thích — mẹo"
     },
     {
-      "body": "Một hộp chú thích cẩn thận dùng tô màu cảnh báo màu hổ phách. Hãy dùng nó khi một sai sót sẽ tốn thời gian hoặc phải làm lại.",
-      "heading": "Hộp chú thích — cẩn thận"
+      "body": "Khối cảnh báo dùng màu cảnh báo hổ phách. Hãy dùng khi một sai sót khiến bạn mất thời gian hoặc phải làm lại.",
+      "heading": "Chú thích — cảnh báo"
     },
     {
-      "body": "Một hộp chú thích nguy hiểm dùng vùng chứa lỗi màu đỏ. Chỉ dùng nó khi một sai sót có thể làm tổn thương con người hoặc phá hủy thiết bị.",
-      "heading": "Hộp chú thích — nguy hiểm"
+      "body": "Khung cảnh báo nguy hiểm dùng hộp đỏ báo lỗi. Chỉ dùng khi một sai sót có thể gây hại cho con người hoặc làm hỏng thiết bị.",
+      "heading": "Gọi chú ý — nguy hiểm"
     },
     {
-      "body": "Một mục có kiểu warning hiển thị trên thẻ cảnh báo màu hổ phách ngay cả khi không có calloutKind, dành cho các đoạn an toàn theo kiểu tiêu chuẩn.",
-      "heading": "Kiểu mục cảnh báo"
+      "body": "Một mục cảnh báo được gõ sẽ hiển thị trên thẻ cảnh báo màu hổ phách, ngay cả khi không có calloutKind, dành cho các đoạn an toàn theo phong cách tiêu chuẩn.",
+      "heading": "Loại mục cảnh báo"
     },
     {
-      "body": "Trong JSON của gói, hãy đặt các địa chỉ trỏ tới trong media/ bên trong tệp zip. Một mục có thể liệt kê cùng lúc thư viện, hình ảnh, âm thanh, video, liên kết, toán học và đồ thị. Một tệp đơn lẻ là một thư viện gồm một phần tử. Nhiều tệp là một thư viện. Đồ thị trực tiếp là các điểm JSON; các tệp PNG trong gói là những ảnh tĩnh bổ sung.",
-      "heading": "Ghi chú về cách biên soạn"
+      "body": "Trong tệp JSON của gói, hãy đặt các locator trong thư mục media/ bên trong tệp zip. Một mục có thể liệt kê cùng lúc gallery, hình ảnh, âm thanh, video, liên kết, công thức toán học và biểu đồ. Một tệp duy nhất là phòng tranh chiêm ngắm một bức. Nhiều tệp là một thư viện. Các biểu đồ trực tiếp là những điểm JSON; ảnh PNG đóng gói là các ảnh tĩnh bổ sung.",
+      "heading": "Ghi chú của tác giả"
     }
   ],
-  "summary": "Một bài demo: ảnh bìa, ảnh tĩnh, thư viện ảnh, các đoạn âm thanh riêng biệt, các video riêng biệt, liên kết, toán học, vật lý, hóa học, đồ thị trực tiếp và công thức — mọi địa chỉ trỏ tới đều là một tệp thật trong tệp zip.",
-  "title": "Bài demo có đầy đủ tài nguyên"
+  "summary": "Một bài viết demo: ảnh bìa, ảnh chụp, thư viện, các đoạn âm thanh độc đáo, các video độc đáo, liên kết, toán học, vật lý, hóa học, biểu đồ trực tiếp và công thức — mọi đường dẫn đều là một tệp thực tế trong tệp zip.",
+  "title": "Bài viết demo với đầy đủ tài nguyên"
 }

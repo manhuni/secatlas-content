@@ -1,80 +1,133 @@
 {
   "items": [
     {
-      "conflict": true,
-      "definition": "The polite word you say before you ask for something. It shows you are asking, not taking.",
-      "dictionaryId": "lex.sa.kids_feelings.please",
-      "example": "Please, can I have the blue cup?",
+      "definition": "An animal that lives with people, like a dog, a cat or a fish.",
+      "dictionaryId": "lex.sa.kids_daily.pet",
+      "example": "My dog is a pet. He sleeps on my bed.",
       "fieldId": "kids_daily",
-      "id": "please",
+      "id": "pet",
       "lessonIds": [
-        "article_asking_for_food",
-        "article_please_and_thank_you"
+        "article_favourite_animals"
       ],
       "packs": [
-        "knw.kids.daily.food",
-        "knw.kids.feelings.thanks"
+        "knw.kids.daily.animals"
       ],
-      "term": "Please"
+      "term": "Pet"
     },
     {
-      "definition": "A question asking if you are allowed to have something. The person can answer yes or no.",
-      "dictionaryId": "lex.sa.kids_daily.can_i",
-      "example": "Can I have a piece of bread?",
+      "definition": "An animal that lives on its own in nature, not with people.",
+      "dictionaryId": "lex.sa.kids_daily.wild_animal",
+      "example": "A tiger is a wild animal. We must keep far away from it.",
       "fieldId": "kids_daily",
-      "id": "can_i",
+      "id": "wild_animal",
       "lessonIds": [
-        "article_asking_for_food"
+        "article_favourite_animals"
       ],
       "packs": [
-        "knw.kids.daily.food"
+        "knw.kids.daily.animals"
       ],
-      "term": "Can I?"
+      "term": "Wild animal"
     },
     {
-      "definition": "A softer way to ask, good for when you talk to somebody you do not know well.",
-      "dictionaryId": "lex.sa.kids_daily.could_i",
-      "example": "Could I have the menu, please?",
+      "definition": "An animal that people keep on a farm to help them, like a cow or a chicken.",
+      "dictionaryId": "lex.sa.kids_daily.farm_animal",
+      "example": "My uncle has a farm with cows and chickens.",
       "fieldId": "kids_daily",
-      "id": "could_i",
+      "id": "farm_animal",
       "lessonIds": [
-        "article_asking_for_food"
+        "article_favourite_animals"
       ],
       "packs": [
-        "knw.kids.daily.food"
+        "knw.kids.daily.animals"
       ],
-      "term": "Could I?"
+      "term": "Farm animal"
     },
     {
-      "definition": "A warm way to say what you want. It is like saying I want, but kinder.",
-      "dictionaryId": "lex.sa.kids_daily.i_would_like",
-      "example": "I would like some orange juice, please.",
+      "definition": "An animal that is in danger of disappearing for ever, because there are so few left.",
+      "dictionaryId": "lex.sa.kids_daily.endangered",
+      "example": "The giant panda is endangered. We must protect it.",
       "fieldId": "kids_daily",
-      "id": "i_would_like",
+      "id": "endangered",
       "lessonIds": [
-        "article_asking_for_food"
+        "article_favourite_animals"
       ],
       "packs": [
-        "knw.kids.daily.food"
+        "knw.kids.daily.animals"
       ],
-      "term": "I would like"
+      "term": "Endangered"
     },
     {
       "conflict": true,
-      "definition": "A medical reaction to a food, which can be dangerous. It must be told to the staff as an allergy, not as a dislike.",
-      "dictionaryId": "lex.sa.travel.allergy",
-      "example": "I have a shellfish allergy. Is this dish safe for me?",
+      "definition": "The time when you get ready to sleep. It is the end of the evening.",
+      "dictionaryId": "lex.sa.kids_daily.bedtime",
+      "example": "Bedtime is eight o'clock on a school night.",
       "fieldId": "kids_daily",
-      "id": "allergy",
+      "id": "bedtime",
       "lessonIds": [
-        "article_asking_for_food",
-        "article_ordering_food"
+        "article_day",
+        "article_getting_ready_for_bedtime"
       ],
       "packs": [
-        "knw.kids.daily.food",
-        "knw.travel.ordering"
+        "knw.kids.daily.bedtime",
+        "knw.kids.home.day"
       ],
-      "term": "Allergy"
+      "term": "Bedtime"
+    },
+    {
+      "definition": "A set of things you do in the same order every time. A bedtime routine helps your body get sleepy.",
+      "dictionaryId": "lex.sa.kids_daily.routine",
+      "example": "Our bedtime routine is the same every night.",
+      "fieldId": "kids_daily",
+      "id": "routine",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Routine"
+    },
+    {
+      "definition": "The soft clothes you wear in bed.",
+      "dictionaryId": "lex.sa.kids_daily.pyjamas",
+      "example": "I put on my pyjamas before I brush my teeth.",
+      "fieldId": "kids_daily",
+      "id": "pyjamas",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Pyjamas"
+    },
+    {
+      "definition": "To clean your teeth with a toothbrush and toothpaste, usually for two minutes.",
+      "dictionaryId": "lex.sa.kids_daily.brush_your_teeth",
+      "example": "I brush my teeth before I put on my pyjamas.",
+      "fieldId": "kids_daily",
+      "id": "brush_your_teeth",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Brush your teeth"
+    },
+    {
+      "definition": "What you say to somebody when you go to bed. It is a wish for a deep sleep.",
+      "dictionaryId": "lex.sa.kids_daily.good_night",
+      "example": "I say good night to my grandmother every night.",
+      "fieldId": "kids_daily",
+      "id": "good_night",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Good night"
     },
     {
       "definition": "The word for your mother. Some families say mom or mommy instead.",
@@ -147,186 +200,63 @@
       "term": "Parents"
     },
     {
-      "definition": "The word you say when you meet somebody. You can use it all day long.",
-      "dictionaryId": "lex.sa.kids_daily.hello",
-      "example": "Hello, I am Minh.",
+      "conflict": true,
+      "definition": "The polite word you say before you ask for something. It shows you are asking, not taking.",
+      "dictionaryId": "lex.sa.kids_feelings.please",
+      "example": "Please, can I have the blue cup?",
       "fieldId": "kids_daily",
-      "id": "hello",
+      "id": "please",
       "lessonIds": [
-        "article_saying_hello"
+        "article_asking_for_food",
+        "article_please_and_thank_you"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.kids.daily.food",
+        "knw.kids.feelings.thanks"
       ],
-      "term": "Hello"
+      "term": "Please"
     },
     {
-      "definition": "A short and casual way to say hello, used with people you already know.",
-      "dictionaryId": "lex.sa.kids_daily.hi",
-      "example": "Hi Bao, are you ready?",
+      "definition": "A question asking if you are allowed to have something. The person can answer yes or no.",
+      "dictionaryId": "lex.sa.kids_daily.can_i",
+      "example": "Can I have a piece of bread?",
       "fieldId": "kids_daily",
-      "id": "hi",
+      "id": "can_i",
       "lessonIds": [
-        "article_saying_hello"
+        "article_asking_for_food"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.kids.daily.food"
       ],
-      "term": "Hi"
+      "term": "Can I?"
     },
     {
-      "definition": "A friendly question you ask after saying hello, to start a small talk.",
-      "dictionaryId": "lex.sa.kids_daily.how_are_you",
-      "example": "Good morning! How are you today?",
+      "definition": "A softer way to ask, good for when you talk to somebody you do not know well.",
+      "dictionaryId": "lex.sa.kids_daily.could_i",
+      "example": "Could I have the menu, please?",
       "fieldId": "kids_daily",
-      "id": "how_are_you",
+      "id": "could_i",
       "lessonIds": [
-        "article_saying_hello"
+        "article_asking_for_food"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.kids.daily.food"
       ],
-      "term": "How are you?"
+      "term": "Could I?"
     },
     {
-      "definition": "The words you use to tell somebody your own name.",
-      "dictionaryId": "lex.sa.kids_daily.my_name_is",
-      "example": "My name is Lan, and I am seven.",
+      "definition": "A warm way to say what you want. It is like saying I want, but kinder.",
+      "dictionaryId": "lex.sa.kids_daily.i_would_like",
+      "example": "I would like some orange juice, please.",
       "fieldId": "kids_daily",
-      "id": "my_name_is",
+      "id": "i_would_like",
       "lessonIds": [
-        "article_saying_hello"
+        "article_asking_for_food"
       ],
       "packs": [
-        "knw.kids.daily.hello"
+        "knw.kids.daily.food"
       ],
-      "term": "My name is"
-    },
-    {
-      "definition": "What you say the first time you meet somebody. It is polite and warm.",
-      "dictionaryId": "lex.sa.kids_daily.nice_to_meet_you",
-      "example": "Nice to meet you. I am Minh.",
-      "fieldId": "kids_daily",
-      "id": "nice_to_meet_you",
-      "lessonIds": [
-        "article_saying_hello"
-      ],
-      "packs": [
-        "knw.kids.daily.hello"
-      ],
-      "term": "Nice to meet you"
-    },
-    {
-      "definition": "An animal that lives with people, like a dog, a cat or a fish.",
-      "dictionaryId": "lex.sa.kids_daily.pet",
-      "example": "My dog is a pet. He sleeps on my bed.",
-      "fieldId": "kids_daily",
-      "id": "pet",
-      "lessonIds": [
-        "article_favourite_animals"
-      ],
-      "packs": [
-        "knw.kids.daily.animals"
-      ],
-      "term": "Pet"
-    },
-    {
-      "definition": "An animal that lives on its own in nature, not with people.",
-      "dictionaryId": "lex.sa.kids_daily.wild_animal",
-      "example": "A tiger is a wild animal. We must keep far away from it.",
-      "fieldId": "kids_daily",
-      "id": "wild_animal",
-      "lessonIds": [
-        "article_favourite_animals"
-      ],
-      "packs": [
-        "knw.kids.daily.animals"
-      ],
-      "term": "Wild animal"
-    },
-    {
-      "definition": "An animal that people keep on a farm to help them, like a cow or a chicken.",
-      "dictionaryId": "lex.sa.kids_daily.farm_animal",
-      "example": "My uncle has a farm with cows and chickens.",
-      "fieldId": "kids_daily",
-      "id": "farm_animal",
-      "lessonIds": [
-        "article_favourite_animals"
-      ],
-      "packs": [
-        "knw.kids.daily.animals"
-      ],
-      "term": "Farm animal"
-    },
-    {
-      "definition": "An animal that is in danger of disappearing for ever, because there are so few left.",
-      "dictionaryId": "lex.sa.kids_daily.endangered",
-      "example": "The giant panda is endangered. We must protect it.",
-      "fieldId": "kids_daily",
-      "id": "endangered",
-      "lessonIds": [
-        "article_favourite_animals"
-      ],
-      "packs": [
-        "knw.kids.daily.animals"
-      ],
-      "term": "Endangered"
-    },
-    {
-      "definition": "A set of things you do in the same order every time. A bedtime routine helps your body get sleepy.",
-      "dictionaryId": "lex.sa.kids_daily.routine",
-      "example": "Our bedtime routine is the same every night.",
-      "fieldId": "kids_daily",
-      "id": "routine",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Routine"
-    },
-    {
-      "definition": "The soft clothes you wear in bed.",
-      "dictionaryId": "lex.sa.kids_daily.pyjamas",
-      "example": "I put on my pyjamas before I brush my teeth.",
-      "fieldId": "kids_daily",
-      "id": "pyjamas",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Pyjamas"
-    },
-    {
-      "definition": "To clean your teeth with a toothbrush and toothpaste, usually for two minutes.",
-      "dictionaryId": "lex.sa.kids_daily.brush_your_teeth",
-      "example": "I brush my teeth before I put on my pyjamas.",
-      "fieldId": "kids_daily",
-      "id": "brush_your_teeth",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Brush your teeth"
-    },
-    {
-      "definition": "What you say to somebody when you go to bed. It is a wish for a deep sleep.",
-      "dictionaryId": "lex.sa.kids_daily.good_night",
-      "example": "I say good night to my grandmother every night.",
-      "fieldId": "kids_daily",
-      "id": "good_night",
-      "lessonIds": [
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime"
-      ],
-      "term": "Good night"
+      "term": "I would like"
     },
     {
       "definition": "A child who is in the same class as you. Classmates are the easiest people to be friends with.",
@@ -397,6 +327,76 @@
         "knw.kids.daily.friends"
       ],
       "term": "New friend"
+    },
+    {
+      "definition": "The word you say when you meet somebody. You can use it all day long.",
+      "dictionaryId": "lex.sa.kids_daily.hello",
+      "example": "Hello, I am Minh.",
+      "fieldId": "kids_daily",
+      "id": "hello",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Hello"
+    },
+    {
+      "definition": "A short and casual way to say hello, used with people you already know.",
+      "dictionaryId": "lex.sa.kids_daily.hi",
+      "example": "Hi Bao, are you ready?",
+      "fieldId": "kids_daily",
+      "id": "hi",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Hi"
+    },
+    {
+      "definition": "A friendly question you ask after saying hello, to start a small talk.",
+      "dictionaryId": "lex.sa.kids_daily.how_are_you",
+      "example": "Good morning! How are you today?",
+      "fieldId": "kids_daily",
+      "id": "how_are_you",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "How are you?"
+    },
+    {
+      "definition": "The words you use to tell somebody your own name.",
+      "dictionaryId": "lex.sa.kids_daily.my_name_is",
+      "example": "My name is Lan, and I am seven.",
+      "fieldId": "kids_daily",
+      "id": "my_name_is",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "My name is"
+    },
+    {
+      "definition": "What you say the first time you meet somebody. It is polite and warm.",
+      "dictionaryId": "lex.sa.kids_daily.nice_to_meet_you",
+      "example": "Nice to meet you. I am Minh.",
+      "fieldId": "kids_daily",
+      "id": "nice_to_meet_you",
+      "lessonIds": [
+        "article_saying_hello"
+      ],
+      "packs": [
+        "knw.kids.daily.hello"
+      ],
+      "term": "Nice to meet you"
     },
     {
       "definition": "The question word that asks for a thing or an idea. It is the most useful question word of all.",

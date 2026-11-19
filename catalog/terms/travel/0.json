@@ -295,6 +295,23 @@
       "term": "Dessert"
     },
     {
+      "conflict": true,
+      "definition": "A medical reaction to a food, which can be dangerous. It must be told to the staff as an allergy, not as a dislike.",
+      "dictionaryId": "lex.sa.travel.allergy",
+      "example": "I have a shellfish allergy. Is this dish safe for me?",
+      "fieldId": "travel",
+      "id": "allergy",
+      "lessonIds": [
+        "article_asking_for_food",
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.kids.daily.food",
+        "knw.travel.ordering"
+      ],
+      "term": "Allergy"
+    },
+    {
       "definition": "A rule you follow about what you eat, often religious or ethical, such as halal, kosher, vegetarian or vegan.",
       "dictionaryId": "lex.sa.travel.dietary_restriction",
       "example": "Do you have any halal dishes that do not contain pork?",

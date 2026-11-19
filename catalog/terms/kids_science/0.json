@@ -1,6 +1,90 @@
 {
   "items": [
     {
+      "definition": "One of the ways your body finds out about the world. You have five main ones.",
+      "dictionaryId": "lex.sa.kids_science.sense",
+      "example": "Smell is a sense that helps you find food.",
+      "fieldId": "kids_science",
+      "id": "sense",
+      "lessonIds": [
+        "article_five_senses"
+      ],
+      "packs": [
+        "knw.kids.science.senses"
+      ],
+      "term": "Sense"
+    },
+    {
+      "definition": "The screen at the back of your eye. Light lands on it and the picture begins.",
+      "dictionaryId": "lex.sa.kids_science.retina",
+      "example": "The picture forms on the retina.",
+      "fieldId": "kids_science",
+      "id": "retina",
+      "lessonIds": [
+        "article_five_senses"
+      ],
+      "packs": [
+        "knw.kids.science.senses"
+      ],
+      "term": "Retina"
+    },
+    {
+      "definition": "The nerve that carries the picture from your eye to your brain.",
+      "dictionaryId": "lex.sa.kids_science.optic_nerve",
+      "example": "The optic nerve carries the picture along to the brain.",
+      "fieldId": "kids_science",
+      "id": "optic_nerve",
+      "lessonIds": [
+        "article_five_senses"
+      ],
+      "packs": [
+        "knw.kids.science.senses"
+      ],
+      "term": "Optic nerve"
+    },
+    {
+      "definition": "The little spiral inside your ear that turns vibrations into nerve signals.",
+      "dictionaryId": "lex.sa.kids_science.cochlea",
+      "example": "The cochlea changes the movement of your eardrum into signals.",
+      "fieldId": "kids_science",
+      "id": "cochlea",
+      "lessonIds": [
+        "article_five_senses"
+      ],
+      "packs": [
+        "knw.kids.science.senses"
+      ],
+      "term": "Cochlea"
+    },
+    {
+      "definition": "The tiny bumps on your tongue that pick out sweet, salty, sour and bitter.",
+      "dictionaryId": "lex.sa.kids_science.taste_buds",
+      "example": "Taste buds tell you that the mango is sweet.",
+      "fieldId": "kids_science",
+      "id": "taste_buds",
+      "lessonIds": [
+        "article_five_senses"
+      ],
+      "packs": [
+        "knw.kids.science.senses"
+      ],
+      "term": "Taste buds"
+    },
+    {
+      "definition": "The cable that carries messages inside your body, from the senses to the brain and back again.",
+      "dictionaryId": "lex.sa.kids_science.nerve",
+      "example": "A nerve carries the message from your finger to your brain.",
+      "fieldId": "kids_science",
+      "id": "nerve",
+      "lessonIds": [
+        "article_five_senses"
+      ],
+      "packs": [
+        "knw.kids.science.senses"
+      ],
+      "term": "Nerve"
+    },
+    {
       "definition": "The upward push that the wings make on a plane. It is what holds the plane in the air.",
       "dictionaryId": "lex.sa.kids_science.lift",
       "example": "More speed means more lift on the wings.",
@@ -197,6 +281,65 @@
       "term": "Precipitation"
     },
     {
+      "conflict": true,
+      "definition": "The light that comes from the Sun. It looks white, but it holds all the colours of the rainbow.",
+      "dictionaryId": "lex.sa.kids_science.sunlight",
+      "example": "Sunlight is white until rain or mist splits it into colours.",
+      "fieldId": "kids_science",
+      "id": "sunlight",
+      "lessonIds": [
+        "article_science_sky",
+        "article_tiny_seed"
+      ],
+      "packs": [
+        "knw.kids.science.sky",
+        "knw.kids.stories.seed"
+      ],
+      "term": "Sunlight"
+    },
+    {
+      "definition": "One thin path of light, like a single beam of sunshine through a gap in the clouds.",
+      "dictionaryId": "lex.sa.kids_science.ray",
+      "example": "A ray of light fell right onto my book.",
+      "fieldId": "kids_science",
+      "id": "ray",
+      "lessonIds": [
+        "article_science_sky"
+      ],
+      "packs": [
+        "knw.kids.science.sky"
+      ],
+      "term": "Ray of light"
+    },
+    {
+      "definition": "When light bounces off tiny bits in the air and spreads out in all directions.",
+      "dictionaryId": "lex.sa.kids_science.scattering",
+      "example": "Scattering is the reason the whole sky is blue.",
+      "fieldId": "kids_science",
+      "id": "scattering",
+      "lessonIds": [
+        "article_science_sky"
+      ],
+      "packs": [
+        "knw.kids.science.sky"
+      ],
+      "term": "Scattering"
+    },
+    {
+      "definition": "The layer of air around Earth. It is thin, but it scatters the light and keeps us warm.",
+      "dictionaryId": "lex.sa.kids_science.atmosphere",
+      "example": "The atmosphere is the air around us, going up higher and higher.",
+      "fieldId": "kids_science",
+      "id": "atmosphere",
+      "lessonIds": [
+        "article_science_sky"
+      ],
+      "packs": [
+        "knw.kids.science.sky"
+      ],
+      "term": "Atmosphere"
+    },
+    {
       "definition": "A ball of hot gas that makes its own light. The Sun is a star.",
       "dictionaryId": "lex.sa.kids_science.star",
       "example": "That bright dot is a star, shining all by itself.",
@@ -239,23 +382,6 @@
       "term": "Moon"
     },
     {
-      "conflict": true,
-      "definition": "The path one space object follows as it goes around and around another one.",
-      "dictionaryId": "lex.sa.kids_science.orbit",
-      "example": "The Moon is in orbit around the Earth.",
-      "fieldId": "kids_science",
-      "id": "orbit",
-      "lessonIds": [
-        "article_sun_moon_stars",
-        "article_trip_to_the_moon"
-      ],
-      "packs": [
-        "knw.kids.adventure.moon",
-        "knw.kids.science.skybody"
-      ],
-      "term": "Orbit"
-    },
-    {
       "definition": "When one space object hides another. In a solar eclipse, the Moon hides the Sun.",
       "dictionaryId": "lex.sa.kids_science.eclipse",
       "example": "We wore eclipse glasses to watch the eclipse safely.",
@@ -268,6 +394,48 @@
         "knw.kids.science.skybody"
       ],
       "term": "Eclipse"
+    },
+    {
+      "definition": "The daily rhythm inside you that tells you when to be awake and when to be sleepy.",
+      "dictionaryId": "lex.sa.kids_science.body_clock",
+      "example": "My body clock wakes me up before the alarm.",
+      "fieldId": "kids_science",
+      "id": "body_clock",
+      "lessonIds": [
+        "article_science_sleepneed"
+      ],
+      "packs": [
+        "knw.kids.science.sleepneed"
+      ],
+      "term": "Body clock"
+    },
+    {
+      "definition": "The story your brain makes while you sleep. Some people remember them, most do not.",
+      "dictionaryId": "lex.sa.kids_science.dream",
+      "example": "I had a strange dream about a talking bicycle.",
+      "fieldId": "kids_science",
+      "id": "dream",
+      "lessonIds": [
+        "article_science_sleepneed"
+      ],
+      "packs": [
+        "knw.kids.science.sleepneed"
+      ],
+      "term": "Dream"
+    },
+    {
+      "definition": "The chemical your body makes in the evening when the light fades, to tell you it is time for bed.",
+      "dictionaryId": "lex.sa.kids_science.melatonin",
+      "example": "Melatonin rises when the sun goes down.",
+      "fieldId": "kids_science",
+      "id": "melatonin",
+      "lessonIds": [
+        "article_science_sleepneed"
+      ],
+      "packs": [
+        "knw.kids.science.sleepneed"
+      ],
+      "term": "Melatonin"
     },
     {
       "definition": "The hard outer coat of a tooth. It is the hardest part of your body.",
@@ -352,208 +520,6 @@
         "knw.kids.science.teeth"
       ],
       "term": "Fluoride"
-    },
-    {
-      "definition": "One of the ways your body finds out about the world. You have five main ones.",
-      "dictionaryId": "lex.sa.kids_science.sense",
-      "example": "Smell is a sense that helps you find food.",
-      "fieldId": "kids_science",
-      "id": "sense",
-      "lessonIds": [
-        "article_five_senses"
-      ],
-      "packs": [
-        "knw.kids.science.senses"
-      ],
-      "term": "Sense"
-    },
-    {
-      "definition": "The screen at the back of your eye. Light lands on it and the picture begins.",
-      "dictionaryId": "lex.sa.kids_science.retina",
-      "example": "The picture forms on the retina.",
-      "fieldId": "kids_science",
-      "id": "retina",
-      "lessonIds": [
-        "article_five_senses"
-      ],
-      "packs": [
-        "knw.kids.science.senses"
-      ],
-      "term": "Retina"
-    },
-    {
-      "definition": "The nerve that carries the picture from your eye to your brain.",
-      "dictionaryId": "lex.sa.kids_science.optic_nerve",
-      "example": "The optic nerve carries the picture along to the brain.",
-      "fieldId": "kids_science",
-      "id": "optic_nerve",
-      "lessonIds": [
-        "article_five_senses"
-      ],
-      "packs": [
-        "knw.kids.science.senses"
-      ],
-      "term": "Optic nerve"
-    },
-    {
-      "definition": "The little spiral inside your ear that turns vibrations into nerve signals.",
-      "dictionaryId": "lex.sa.kids_science.cochlea",
-      "example": "The cochlea changes the movement of your eardrum into signals.",
-      "fieldId": "kids_science",
-      "id": "cochlea",
-      "lessonIds": [
-        "article_five_senses"
-      ],
-      "packs": [
-        "knw.kids.science.senses"
-      ],
-      "term": "Cochlea"
-    },
-    {
-      "definition": "The tiny bumps on your tongue that pick out sweet, salty, sour and bitter.",
-      "dictionaryId": "lex.sa.kids_science.taste_buds",
-      "example": "Taste buds tell you that the mango is sweet.",
-      "fieldId": "kids_science",
-      "id": "taste_buds",
-      "lessonIds": [
-        "article_five_senses"
-      ],
-      "packs": [
-        "knw.kids.science.senses"
-      ],
-      "term": "Taste buds"
-    },
-    {
-      "definition": "The cable that carries messages inside your body, from the senses to the brain and back again.",
-      "dictionaryId": "lex.sa.kids_science.nerve",
-      "example": "A nerve carries the message from your finger to your brain.",
-      "fieldId": "kids_science",
-      "id": "nerve",
-      "lessonIds": [
-        "article_five_senses"
-      ],
-      "packs": [
-        "knw.kids.science.senses"
-      ],
-      "term": "Nerve"
-    },
-    {
-      "conflict": true,
-      "definition": "The light that comes from the Sun. It looks white, but it holds all the colours of the rainbow.",
-      "dictionaryId": "lex.sa.kids_science.sunlight",
-      "example": "Sunlight is white until rain or mist splits it into colours.",
-      "fieldId": "kids_science",
-      "id": "sunlight",
-      "lessonIds": [
-        "article_science_sky",
-        "article_tiny_seed"
-      ],
-      "packs": [
-        "knw.kids.science.sky",
-        "knw.kids.stories.seed"
-      ],
-      "term": "Sunlight"
-    },
-    {
-      "definition": "One thin path of light, like a single beam of sunshine through a gap in the clouds.",
-      "dictionaryId": "lex.sa.kids_science.ray",
-      "example": "A ray of light fell right onto my book.",
-      "fieldId": "kids_science",
-      "id": "ray",
-      "lessonIds": [
-        "article_science_sky"
-      ],
-      "packs": [
-        "knw.kids.science.sky"
-      ],
-      "term": "Ray of light"
-    },
-    {
-      "definition": "When light bounces off tiny bits in the air and spreads out in all directions.",
-      "dictionaryId": "lex.sa.kids_science.scattering",
-      "example": "Scattering is the reason the whole sky is blue.",
-      "fieldId": "kids_science",
-      "id": "scattering",
-      "lessonIds": [
-        "article_science_sky"
-      ],
-      "packs": [
-        "knw.kids.science.sky"
-      ],
-      "term": "Scattering"
-    },
-    {
-      "definition": "The layer of air around Earth. It is thin, but it scatters the light and keeps us warm.",
-      "dictionaryId": "lex.sa.kids_science.atmosphere",
-      "example": "The atmosphere is the air around us, going up higher and higher.",
-      "fieldId": "kids_science",
-      "id": "atmosphere",
-      "lessonIds": [
-        "article_science_sky"
-      ],
-      "packs": [
-        "knw.kids.science.sky"
-      ],
-      "term": "Atmosphere"
-    },
-    {
-      "conflict": true,
-      "definition": "The dreaming stage of sleep, when memory is consolidated and emotional reactions are regulated.",
-      "dictionaryId": "lex.sa.health.rem_sleep",
-      "example": "Alcohol takes away REM sleep, so I wake up tired even after a long night.",
-      "fieldId": "kids_science",
-      "id": "rem_sleep",
-      "lessonIds": [
-        "article_science_sleepneed",
-        "article_sleep"
-      ],
-      "packs": [
-        "knw.health.sleep",
-        "knw.kids.science.sleepneed"
-      ],
-      "term": "REM sleep"
-    },
-    {
-      "definition": "The daily rhythm inside you that tells you when to be awake and when to be sleepy.",
-      "dictionaryId": "lex.sa.kids_science.body_clock",
-      "example": "My body clock wakes me up before the alarm.",
-      "fieldId": "kids_science",
-      "id": "body_clock",
-      "lessonIds": [
-        "article_science_sleepneed"
-      ],
-      "packs": [
-        "knw.kids.science.sleepneed"
-      ],
-      "term": "Body clock"
-    },
-    {
-      "definition": "The story your brain makes while you sleep. Some people remember them, most do not.",
-      "dictionaryId": "lex.sa.kids_science.dream",
-      "example": "I had a strange dream about a talking bicycle.",
-      "fieldId": "kids_science",
-      "id": "dream",
-      "lessonIds": [
-        "article_science_sleepneed"
-      ],
-      "packs": [
-        "knw.kids.science.sleepneed"
-      ],
-      "term": "Dream"
-    },
-    {
-      "definition": "The chemical your body makes in the evening when the light fades, to tell you it is time for bed.",
-      "dictionaryId": "lex.sa.kids_science.melatonin",
-      "example": "Melatonin rises when the sun goes down.",
-      "fieldId": "kids_science",
-      "id": "melatonin",
-      "lessonIds": [
-        "article_science_sleepneed"
-      ],
-      "packs": [
-        "knw.kids.science.sleepneed"
-      ],
-      "term": "Melatonin"
     }
   ],
   "nextCursor": null,

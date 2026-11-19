@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "definition": "The bowl in the bathroom where water comes out. You wash your hands and face in it.",
+      "dictionaryId": "lex.sa.kids_home.sink",
+      "example": "My hands are under the sink tap.",
+      "fieldId": "kids_home",
+      "id": "sink",
+      "lessonIds": [
+        "article_bathroom"
+      ],
+      "packs": [
+        "knw.kids.home.bathroom"
+      ],
+      "term": "Sink"
+    },
+    {
+      "definition": "The small handle or knob that turns the water on and off.",
+      "dictionaryId": "lex.sa.kids_home.tap",
+      "example": "Turn the tap off when you finish washing.",
+      "fieldId": "kids_home",
+      "id": "tap",
+      "lessonIds": [
+        "article_bathroom"
+      ],
+      "packs": [
+        "knw.kids.home.bathroom"
+      ],
+      "term": "Tap"
+    },
+    {
+      "definition": "The bar or liquid that makes bubbles. Bubbles carry the dirt away with the water.",
+      "dictionaryId": "lex.sa.kids_home.soap",
+      "example": "There is a new bar of soap by the sink.",
+      "fieldId": "kids_home",
+      "id": "soap",
+      "lessonIds": [
+        "article_bathroom"
+      ],
+      "packs": [
+        "knw.kids.home.bathroom"
+      ],
+      "term": "Soap"
+    },
+    {
+      "definition": "A soft cloth. You use it to dry your body, your hair and your hands.",
+      "dictionaryId": "lex.sa.kids_home.towel",
+      "example": "The blue towel is warm and dry.",
+      "fieldId": "kids_home",
+      "id": "towel",
+      "lessonIds": [
+        "article_bathroom"
+      ],
+      "packs": [
+        "knw.kids.home.bathroom"
+      ],
+      "term": "Towel"
+    },
+    {
+      "definition": "A small brush with bristles. You use it with toothpaste to clean your teeth.",
+      "dictionaryId": "lex.sa.kids_home.toothbrush",
+      "example": "My toothbrush is green.",
+      "fieldId": "kids_home",
+      "id": "toothbrush",
+      "lessonIds": [
+        "article_bathroom"
+      ],
+      "packs": [
+        "knw.kids.home.bathroom"
+      ],
+      "term": "Toothbrush"
+    },
+    {
       "definition": "The soft thing under your head when you sleep in bed.",
       "dictionaryId": "lex.sa.kids_home.pillow",
       "example": "My pillow is soft and white.",
@@ -69,76 +139,6 @@
         "knw.kids.home.bedroom"
       ],
       "term": "Alarm clock"
-    },
-    {
-      "definition": "A bag with two straps that you carry on your back to school.",
-      "dictionaryId": "lex.sa.kids_home.backpack",
-      "example": "My backpack has two wide straps.",
-      "fieldId": "kids_home",
-      "id": "backpack",
-      "lessonIds": [
-        "article_schoolbag"
-      ],
-      "packs": [
-        "knw.kids.home.schoolbag"
-      ],
-      "term": "Backpack"
-    },
-    {
-      "definition": "A small bag or box that holds your pencils, pens, rubbers and ruler.",
-      "dictionaryId": "lex.sa.kids_home.pencil_case",
-      "example": "My pencil case is the blue one.",
-      "fieldId": "kids_home",
-      "id": "pencil_case",
-      "lessonIds": [
-        "article_schoolbag"
-      ],
-      "packs": [
-        "knw.kids.home.schoolbag"
-      ],
-      "term": "Pencil case"
-    },
-    {
-      "definition": "A book of blank pages you write in at school.",
-      "dictionaryId": "lex.sa.kids_home.notebook",
-      "example": "I write my homework in a notebook.",
-      "fieldId": "kids_home",
-      "id": "notebook",
-      "lessonIds": [
-        "article_schoolbag"
-      ],
-      "packs": [
-        "knw.kids.home.schoolbag"
-      ],
-      "term": "Notebook"
-    },
-    {
-      "definition": "A container with a lid that holds your drink for the whole day.",
-      "dictionaryId": "lex.sa.kids_home.water_bottle",
-      "example": "I fill my water bottle at home.",
-      "fieldId": "kids_home",
-      "id": "water_bottle",
-      "lessonIds": [
-        "article_schoolbag"
-      ],
-      "packs": [
-        "knw.kids.home.schoolbag"
-      ],
-      "term": "Water bottle"
-    },
-    {
-      "definition": "A box that carries the food you eat at the school break.",
-      "dictionaryId": "lex.sa.kids_home.lunch_box",
-      "example": "My lunch box has rice and chicken in it.",
-      "fieldId": "kids_home",
-      "id": "lunch_box",
-      "lessonIds": [
-        "article_schoolbag"
-      ],
-      "packs": [
-        "knw.kids.home.schoolbag"
-      ],
-      "term": "Lunch box"
     },
     {
       "definition": "A top with a collar that you wear over your body, on its own or under a jacket.",
@@ -267,23 +267,6 @@
       "term": "Mother"
     },
     {
-      "conflict": true,
-      "definition": "The time when you get ready to sleep. It is the end of the evening.",
-      "dictionaryId": "lex.sa.kids_daily.bedtime",
-      "example": "Bedtime is eight o'clock on a school night.",
-      "fieldId": "kids_home",
-      "id": "bedtime",
-      "lessonIds": [
-        "article_day",
-        "article_getting_ready_for_bedtime"
-      ],
-      "packs": [
-        "knw.kids.daily.bedtime",
-        "knw.kids.home.day"
-      ],
-      "term": "Bedtime"
-    },
-    {
       "definition": "A small bowl with a handle. We use it for soup, rice and porridge.",
       "dictionaryId": "lex.sa.kids_home.spoon",
       "example": "Can I have a spoon for my soup?",
@@ -354,74 +337,74 @@
       "term": "Cupboard"
     },
     {
-      "definition": "The bowl in the bathroom where water comes out. You wash your hands and face in it.",
-      "dictionaryId": "lex.sa.kids_home.sink",
-      "example": "My hands are under the sink tap.",
+      "definition": "A bag with two straps that you carry on your back to school.",
+      "dictionaryId": "lex.sa.kids_home.backpack",
+      "example": "My backpack has two wide straps.",
       "fieldId": "kids_home",
-      "id": "sink",
+      "id": "backpack",
       "lessonIds": [
-        "article_bathroom"
+        "article_schoolbag"
       ],
       "packs": [
-        "knw.kids.home.bathroom"
+        "knw.kids.home.schoolbag"
       ],
-      "term": "Sink"
+      "term": "Backpack"
     },
     {
-      "definition": "The small handle or knob that turns the water on and off.",
-      "dictionaryId": "lex.sa.kids_home.tap",
-      "example": "Turn the tap off when you finish washing.",
+      "definition": "A small bag or box that holds your pencils, pens, rubbers and ruler.",
+      "dictionaryId": "lex.sa.kids_home.pencil_case",
+      "example": "My pencil case is the blue one.",
       "fieldId": "kids_home",
-      "id": "tap",
+      "id": "pencil_case",
       "lessonIds": [
-        "article_bathroom"
+        "article_schoolbag"
       ],
       "packs": [
-        "knw.kids.home.bathroom"
+        "knw.kids.home.schoolbag"
       ],
-      "term": "Tap"
+      "term": "Pencil case"
     },
     {
-      "definition": "The bar or liquid that makes bubbles. Bubbles carry the dirt away with the water.",
-      "dictionaryId": "lex.sa.kids_home.soap",
-      "example": "There is a new bar of soap by the sink.",
+      "definition": "A book of blank pages you write in at school.",
+      "dictionaryId": "lex.sa.kids_home.notebook",
+      "example": "I write my homework in a notebook.",
       "fieldId": "kids_home",
-      "id": "soap",
+      "id": "notebook",
       "lessonIds": [
-        "article_bathroom"
+        "article_schoolbag"
       ],
       "packs": [
-        "knw.kids.home.bathroom"
+        "knw.kids.home.schoolbag"
       ],
-      "term": "Soap"
+      "term": "Notebook"
     },
     {
-      "definition": "A soft cloth. You use it to dry your body, your hair and your hands.",
-      "dictionaryId": "lex.sa.kids_home.towel",
-      "example": "The blue towel is warm and dry.",
+      "definition": "A container with a lid that holds your drink for the whole day.",
+      "dictionaryId": "lex.sa.kids_home.water_bottle",
+      "example": "I fill my water bottle at home.",
       "fieldId": "kids_home",
-      "id": "towel",
+      "id": "water_bottle",
       "lessonIds": [
-        "article_bathroom"
+        "article_schoolbag"
       ],
       "packs": [
-        "knw.kids.home.bathroom"
+        "knw.kids.home.schoolbag"
       ],
-      "term": "Towel"
+      "term": "Water bottle"
     },
     {
-      "definition": "A small brush with bristles. You use it with toothpaste to clean your teeth.",
-      "dictionaryId": "lex.sa.kids_home.toothbrush",
-      "example": "My toothbrush is green.",
+      "definition": "A box that carries the food you eat at the school break.",
+      "dictionaryId": "lex.sa.kids_home.lunch_box",
+      "example": "My lunch box has rice and chicken in it.",
       "fieldId": "kids_home",
-      "id": "toothbrush",
+      "id": "lunch_box",
       "lessonIds": [
-        "article_bathroom"
+        "article_schoolbag"
       ],
       "packs": [
-        "knw.kids.home.bathroom"
+        "knw.kids.home.schoolbag"
       ],
-      "term": "Toothbrush"
+      "term": "Lunch box"
     },
     {
       "definition": "A round shape with no corners. A wheel and a coin are circles.",
