@@ -1,565 +1,570 @@
 {
   "items": [
     {
-      "definition": "The price of borrowing money, charged as a percentage of what you still owe.",
-      "dictionaryId": "lex.sa.money.mon_interest",
-      "example": "At 2 % a year on a debt of 1 000 $, the interest for the year is 20 $.",
-      "fieldId": "money",
-      "id": "mon_interest",
+      "conflict": true,
+      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
+      "dictionaryId": "lex.sa.technology.hallucination",
+      "example": "It invented a reference that looks perfect and does not exist.",
+      "fieldId": "technology",
+      "id": "hallucination",
       "lessonIds": [
-        "article_what_money_is"
+        "article_ai_revolution"
       ],
       "packs": [
-        "knw.money.what_money_is"
+        "knw.tech.revolution"
       ],
-      "term": "Interest"
-    },
-    {
-      "definition": "What you owe to somebody, and the amount the interest is charged on.",
-      "dictionaryId": "lex.sa.money.mon_debt",
-      "example": "The debt is 1 000 $, and the interest is charged on the part that is still left.",
-      "fieldId": "money",
-      "id": "mon_debt",
-      "lessonIds": [
-        "article_what_money_is"
-      ],
-      "packs": [
-        "knw.money.what_money_is"
-      ],
-      "term": "Debt"
-    },
-    {
-      "definition": "The money that comes in over a period minus the money that goes out over it.",
-      "dictionaryId": "lex.sa.money.mon_cash_flow",
-      "example": "Cash flow is positive, but the stock is not there.",
-      "fieldId": "money",
-      "id": "mon_cash_flow",
-      "lessonIds": [
-        "article_what_money_is"
-      ],
-      "packs": [
-        "knw.money.what_money_is"
-      ],
-      "term": "Cash flow"
-    },
-    {
-      "definition": "A file sent together with the email. It should be named clearly and referred to in the body.",
-      "dictionaryId": "lex.sa.work.attachment",
-      "example": "Please find the attachment, called Quotation-March-2026.pdf.",
-      "fieldId": "social",
-      "id": "att_attachment",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Attachment"
-    },
-    {
-      "definition": "The set of assumptions a person carries about how other people answer when they reach out.",
-      "dictionaryId": "lex.sa.social.att_working_model",
-      "example": "My working model says that people get busy and come back, so I wait.",
-      "fieldId": "social",
-      "id": "att_working_model",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Working model"
-    },
-    {
-      "definition": "The person or relationship a person can move away from and still feel steady in.",
-      "dictionaryId": "lex.sa.social.att_secure_base",
-      "example": "His sister was his secure base long before he had a partner of his own.",
-      "fieldId": "social",
-      "id": "att_secure_base",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Secure base"
-    },
-    {
-      "definition": "The event that makes a person read a partner as less available than the person assumed.",
-      "dictionaryId": "lex.sa.social.att_trigger",
-      "example": "One missed call was the trigger, and the rest of the evening went into reading the silence.",
-      "fieldId": "social",
-      "id": "att_trigger",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Trigger"
-    },
-    {
-      "definition": "Describing a person who takes the partner's availability for granted and stays steady when it wobbles.",
-      "dictionaryId": "lex.sa.social.att_secure",
-      "example": "She is secure with him, so she says she is upset instead of guessing.",
-      "fieldId": "social",
-      "id": "att_secure",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Secure"
-    },
-    {
-      "definition": "Describing a person who reads any drop in a partner's availability as a sign that the bond is at risk.",
-      "dictionaryId": "lex.sa.social.att_anxious",
-      "example": "When he was busy, his anxious side read the quiet as a message about him.",
-      "fieldId": "social",
-      "id": "att_anxious",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Anxious"
-    },
-    {
-      "definition": "Describing a person who leans away when closeness increases, to protect independence.",
-      "dictionaryId": "lex.sa.social.att_avoidant",
-      "example": "His avoidant side called for less contact at the moment he needed it most.",
-      "fieldId": "social",
-      "id": "att_avoidant",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Avoidant"
-    },
-    {
-      "definition": "Describing a person who wants closeness and is afraid of it at the same time.",
-      "dictionaryId": "lex.sa.social.att_fearful",
-      "example": "Fearful-avoidant behaviour often looks like pulling back right after reaching out.",
-      "fieldId": "social",
-      "id": "att_fearful",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Fearful-avoidant"
-    },
-    {
-      "definition": "The rising of the alarm when a partner seems unavailable, which sharpens attention and speeds the urge to act.",
-      "dictionaryId": "lex.sa.social.att_hyperactivation",
-      "example": "Hyperactivation turned three unanswered messages into an hour of checking the phone.",
-      "fieldId": "social",
-      "id": "att_hyperactivation",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Hyperactivation"
-    },
-    {
-      "definition": "The lowering of the alarm when closeness increases, which turns attention away from the bond and towards the task in front of it.",
-      "dictionaryId": "lex.sa.social.att_deactivation",
-      "example": "Deactivation looked like a tidy desk and a long shift at the office.",
-      "fieldId": "social",
-      "id": "att_deactivation",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Deactivation"
-    },
-    {
-      "definition": "Asking a partner repeatedly to confirm that the relationship is still there.",
-      "dictionaryId": "lex.sa.social.att_reassurance_seeking",
-      "example": "Reassurance-seeking is asking the same question until the answer changes.",
-      "fieldId": "social",
-      "id": "att_reassurance_seeking",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Reassurance-seeking"
-    },
-    {
-      "definition": "The behaviour a person uses to get a partner's attention back when they feel the bond is slipping.",
-      "dictionaryId": "lex.sa.social.att_protest_behaviour",
-      "example": "Her protest behaviour was sending the message twice and then three times.",
-      "fieldId": "social",
-      "id": "att_protest_behaviour",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Protest behaviour"
-    },
-    {
-      "definition": "Pulling back from a partner and reducing contact when closeness or conflict increases.",
-      "dictionaryId": "lex.sa.social.att_withdrawal",
-      "example": "Withdrawal is answering with less, not more, when the other person asks for more.",
-      "fieldId": "social",
-      "id": "att_withdrawal",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Withdrawal"
-    },
-    {
-      "definition": "The capacity to feel safe in a relationship, learned later in life rather than carried in from earlier life.",
-      "dictionaryId": "lex.sa.social.att_earned_security",
-      "example": "Her earned security came from a relationship that stayed, after years of ones that did not.",
-      "fieldId": "social",
-      "id": "att_earned_security",
-      "lessonIds": [
-        "article_attachment_styles"
-      ],
-      "packs": [
-        "knw.social.attachment_styles"
-      ],
-      "term": "Earned security"
-    },
-    {
-      "definition": "The phrase for the idea that time passes in the body as well as in the calendar, and that a window is closing.",
-      "dictionaryId": "lex.sa.social.bc_biological_clock",
-      "example": "The biological clock is a phrase, and the window it names is mostly a story.",
-      "fieldId": "social",
-      "id": "bc_biological_clock",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "biological clock"
-    },
-    {
-      "definition": "The way the reproductive system changes as a person gets older.",
-      "dictionaryId": "lex.sa.social.bc_reproductive_ageing",
-      "example": "Reproductive ageing is gradual, and it is not the same for everybody.",
-      "fieldId": "social",
-      "id": "bc_reproductive_ageing",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "reproductive ageing"
-    },
-    {
-      "definition": "The stretch of future time a person is thinking about when they make a plan.",
-      "dictionaryId": "lex.sa.social.bc_time_horizon",
-      "example": "Their time horizon was ten years ahead; mine was two.",
-      "fieldId": "social",
-      "id": "bc_time_horizon",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "time horizon"
-    },
-    {
-      "definition": "The capacity to reproduce, which changes across the life span.",
-      "dictionaryId": "lex.sa.social.bc_fertility",
-      "example": "Fertility is not a number that stays the same for a whole life.",
-      "fieldId": "social",
-      "id": "bc_fertility",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "fertility"
-    },
-    {
-      "definition": "The chance that conception happens in one cycle.",
-      "dictionaryId": "lex.sa.social.bc_fecundity",
-      "example": "Fecundity is the word for the chance in a single cycle.",
-      "fieldId": "social",
-      "id": "bc_fecundity",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "fecundity"
-    },
-    {
-      "definition": "An estimate of how many eggs remain in the ovaries, built from hormone measurements and sometimes a scan.",
-      "dictionaryId": "lex.sa.social.bc_ovarian_reserve",
-      "example": "The ovarian reserve estimate describes a stock; it is not a statement about the odds.",
-      "fieldId": "social",
-      "id": "bc_ovarian_reserve",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "ovarian reserve"
-    },
-    {
-      "definition": "The point at which ovulation and menstruation stop.",
-      "dictionaryId": "lex.sa.social.bc_menopause",
-      "example": "Menopause is a biological event, not a date on a calendar.",
-      "fieldId": "social",
-      "id": "bc_menopause",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "menopause"
-    },
-    {
-      "definition": "The transition before menopause, when the cycles often change.",
-      "dictionaryId": "lex.sa.social.bc_perimenopause",
-      "example": "She was in perimenopause, and her cycles had changed for a while.",
-      "fieldId": "social",
-      "id": "bc_perimenopause",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "perimenopause"
-    },
-    {
-      "definition": "The age of the woman when her child is born, used as a medical label.",
-      "dictionaryId": "lex.sa.social.bc_maternal_age",
-      "example": "Maternal age is a label in the record, not a judgement about the mother.",
-      "fieldId": "social",
-      "id": "bc_maternal_age",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "maternal age"
-    },
-    {
-      "definition": "The age of the father when his child is born, used as a medical label.",
-      "dictionaryId": "lex.sa.social.bc_paternal_age",
-      "example": "Paternal age carries different facts from maternal age, and the change is slower.",
-      "fieldId": "social",
-      "id": "bc_paternal_age",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "paternal age"
-    },
-    {
-      "definition": "The felt push to act on reproduction because the window seems to be closing.",
-      "dictionaryId": "lex.sa.social.bc_reproductive_urgency",
-      "example": "The reproductive urgency was real, and the deadline behind it was still unchecked.",
-      "fieldId": "social",
-      "id": "bc_reproductive_urgency",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "reproductive urgency"
-    },
-    {
-      "definition": "Pressure that comes from a deadline somebody else has set.",
-      "dictionaryId": "lex.sa.social.bc_timeline_pressure",
-      "example": "The timeline pressure came from the family, not from her body.",
-      "fieldId": "social",
-      "id": "bc_timeline_pressure",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "timeline pressure"
-    },
-    {
-      "definition": "An expectation that one generation passes to the next about when life should happen.",
-      "dictionaryId": "lex.sa.social.bc_generational_pressure",
-      "example": "Generational pressure rarely sounds like a command; it sounds like an observation.",
-      "fieldId": "social",
-      "id": "bc_generational_pressure",
-      "lessonIds": [
-        "article_biological_clock"
-      ],
-      "packs": [
-        "knw.social.biological_clock"
-      ],
-      "term": "generational pressure"
+      "term": "Hallucination"
     },
     {
       "conflict": true,
-      "definition": "A line you draw around your time, energy, body or values, and say out loud so other people can respect it.",
-      "dictionaryId": "lex.sa.social.boundary",
-      "example": "Her boundary was simple: no phone calls after ten.",
-      "fieldId": "social",
-      "id": "boundary",
+      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
+      "dictionaryId": "lex.sa.technology.prompt",
+      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
+      "fieldId": "technology",
+      "id": "prompt",
       "lessonIds": [
-        "article_boundaries"
+        "article_ai_revolution",
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.social.boundaries"
+        "knw.tech.revolution",
+        "knw.tech.tokens"
       ],
-      "term": "Boundary"
+      "term": "Prompt"
     },
     {
-      "definition": "The point at which you stop giving: the time, the amount or the effort. A limit is the measurable side of a boundary.",
-      "dictionaryId": "lex.sa.social.limit",
-      "example": "My limit is two favours a week, and I stick to it.",
-      "fieldId": "social",
-      "id": "limit",
+      "definition": "A fraudulent message, usually by email, designed to steal credentials or money by pretending to be someone you trust.",
+      "dictionaryId": "lex.sa.technology.phishing",
+      "example": "That email about a locked account was phishing, and it used our bank's real logo.",
+      "fieldId": "technology",
+      "id": "phishing",
       "lessonIds": [
-        "article_boundaries"
+        "article_online_scams"
       ],
       "packs": [
-        "knw.social.boundaries"
+        "knw.tech.scams"
       ],
-      "term": "Limit"
+      "term": "Phishing"
     },
     {
-      "definition": "Something a person asks of you. A request deserves an answer; it does not deserve obedience.",
-      "dictionaryId": "lex.sa.social.request",
-      "example": "The request was reasonable, and the answer was still no.",
-      "fieldId": "social",
-      "id": "request",
+      "definition": "Phishing carried out by text message. Short, urgent, and arriving on the phone you are holding.",
+      "dictionaryId": "lex.sa.technology.smishing",
+      "example": "The message about a parcel was smishing, and the link was not the courier's website.",
+      "fieldId": "technology",
+      "id": "smishing",
       "lessonIds": [
-        "article_boundaries"
+        "article_online_scams"
       ],
       "packs": [
-        "knw.social.boundaries"
+        "knw.tech.scams"
       ],
-      "term": "Request"
+      "term": "Smishing"
     },
     {
-      "definition": "To have to have something.",
-      "dictionaryId": "lex.sa.en.need.verb",
-      "example": "",
-      "fieldId": "social",
-      "id": "need",
+      "definition": "Phishing carried out by a phone call, usually with a claim of authority from a bank, a police force or a support line.",
+      "dictionaryId": "lex.sa.technology.vishing",
+      "example": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
+      "fieldId": "technology",
+      "id": "vishing",
       "lessonIds": [
-        "article_boundaries"
+        "article_online_scams"
       ],
       "packs": [
-        "knw.social.boundaries"
+        "knw.tech.scams"
       ],
-      "term": "need"
+      "term": "Vishing"
     },
     {
-      "definition": "The act of saying no to something. It is a decision about an offer, not a verdict on a person.",
-      "dictionaryId": "lex.sa.social.decline",
-      "example": "She declined the invitation politely and without drama.",
-      "fieldId": "social",
-      "id": "decline",
+      "definition": "Presenting a false sender identity so that a call or a message appears to come from a number or address that belongs to someone else.",
+      "dictionaryId": "lex.sa.technology.spoofing",
+      "example": "The message showed my brother's name, but the number was spoofed.",
+      "fieldId": "technology",
+      "id": "spoofing",
       "lessonIds": [
-        "article_boundaries"
+        "article_online_scams"
       ],
       "packs": [
-        "knw.social.boundaries"
+        "knw.tech.scams"
       ],
-      "term": "Decline"
+      "term": "Spoofing"
     },
     {
-      "definition": "The result you decide to bring about when a boundary is crossed. It is chosen by you, and it should be small and repeatable.",
-      "dictionaryId": "lex.sa.social.consequence",
-      "example": "Her consequence was simple: she stopped answering messages late at night.",
-      "fieldId": "social",
-      "id": "consequence",
+      "definition": "The short number a bank sends to confirm a login or a payment. Anyone who holds it can complete the action.",
+      "dictionaryId": "lex.sa.technology.one_time_code",
+      "example": "I gave them the one-time code, and that was the moment the account was theirs.",
+      "fieldId": "technology",
+      "id": "one_time_code",
       "lessonIds": [
-        "article_boundaries"
+        "article_online_scams"
       ],
       "packs": [
-        "knw.social.boundaries"
+        "knw.tech.scams"
       ],
-      "term": "Consequence"
+      "term": "One-time code"
     },
     {
-      "definition": "An intense feeling of attraction for someone you have not yet got close to.",
-      "dictionaryId": "lex.sa.social.crush",
-      "example": "I have a crush on someone from my office, but we have only ever said hello.",
-      "fieldId": "social",
-      "id": "crush",
+      "definition": "A bank account used to receive and pass on criminal money, sometimes opened by someone who believes they are helping a company or a cause.",
+      "dictionaryId": "lex.sa.technology.mule_account",
+      "example": "They asked me to receive money and pass it on. That makes my account a mule account and the money is stolen.",
+      "fieldId": "technology",
+      "id": "mule_account",
       "lessonIds": [
-        "article_dating_expressions"
+        "article_online_scams"
       ],
       "packs": [
-        "knw.social.dating"
+        "knw.tech.scams"
       ],
-      "term": "Crush"
+      "term": "Mule account"
     },
     {
-      "definition": "A planned meeting with someone you are getting to know. It implies time set aside for each other.",
-      "dictionaryId": "lex.sa.social.date",
-      "example": "Is Friday a date, or just a coffee between friends?",
-      "fieldId": "social",
-      "id": "date",
+      "definition": "A reversal of a card payment requested from the bank, usually because the transaction was not authorised or the goods never arrived.",
+      "dictionaryId": "lex.sa.technology.chargeback",
+      "example": "The bank raised a chargeback and returned the money five days later.",
+      "fieldId": "technology",
+      "id": "chargeback",
       "lessonIds": [
-        "article_dating_expressions"
+        "article_online_scams"
       ],
       "packs": [
-        "knw.social.dating"
+        "knw.tech.scams"
       ],
-      "term": "Date"
+      "term": "Chargeback"
     },
     {
-      "definition": "A relationship that has no agreed label. Nobody has said what it is, and nobody has asked.",
-      "dictionaryId": "lex.sa.social.situationship",
-      "example": "We have been seeing each other for months and calling it a situationship.",
-      "fieldId": "social",
-      "id": "situationship",
+      "definition": "Money demanded before a service is delivered. Common in fake job offers, fake investments and fake love interests.",
+      "dictionaryId": "lex.sa.technology.advance_fee",
+      "example": "They wanted a small fee before the equipment arrived, and then a larger one.",
+      "fieldId": "technology",
+      "id": "advance_fee",
       "lessonIds": [
-        "article_dating_expressions"
+        "article_online_scams"
       ],
       "packs": [
-        "knw.social.dating"
+        "knw.tech.scams"
       ],
-      "term": "Situationship"
+      "term": "Advance fee"
     },
     {
-      "definition": "Stopping all contact without explanation, so the other person is left waiting and guessing.",
-      "dictionaryId": "lex.sa.social.ghosting",
-      "example": "He replied for three weeks and then ghosted me completely.",
-      "fieldId": "social",
-      "id": "ghosting",
+      "conflict": true,
+      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
+      "dictionaryId": "lex.sa.technology.token",
+      "example": "The word \"the\" is one token, and a long word may be three.",
+      "fieldId": "technology",
+      "id": "token",
       "lessonIds": [
-        "article_dating_expressions"
+        "article_ai_tokens"
       ],
       "packs": [
-        "knw.social.dating"
+        "knw.tech.tokens"
       ],
-      "term": "Ghosting"
+      "term": "Token"
+    },
+    {
+      "definition": "The fixed vocabulary a model uses, plus the rule that splits text into tokens and joins them back.",
+      "dictionaryId": "lex.sa.technology.tokenizer",
+      "example": "A different tokenizer means the same text costs a different number of tokens.",
+      "fieldId": "technology",
+      "id": "tokenizer",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Tokenizer"
+    },
+    {
+      "conflict": true,
+      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
+      "dictionaryId": "lex.sa.technology.context_window",
+      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
+      "fieldId": "technology",
+      "id": "context_window",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Context window"
+    },
+    {
+      "definition": "The tokens you send, counted and billed on the way in. Documents and chat history both count here.",
+      "dictionaryId": "lex.sa.technology.input_tokens",
+      "example": "Uploading the same file twice charges the input tokens twice.",
+      "fieldId": "technology",
+      "id": "input_tokens",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Input tokens"
+    },
+    {
+      "definition": "The tokens the model generates, counted and billed on the way out. Long answers cost more than short ones.",
+      "dictionaryId": "lex.sa.technology.output_tokens",
+      "example": "Asking for 2,000 words doubles the output cost of asking for 200.",
+      "fieldId": "technology",
+      "id": "output_tokens",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Output tokens"
+    },
+    {
+      "definition": "The setting that controls how random the choice of the next token is. Lower values are more repeatable, higher values more varied and less reliable.",
+      "dictionaryId": "lex.sa.technology.temperature",
+      "example": "For extracting data from a document, keep the temperature low.",
+      "fieldId": "technology",
+      "id": "temperature",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Temperature"
+    },
+    {
+      "definition": "The automatic cutting of input that is longer than the context window, usually removing the oldest part.",
+      "dictionaryId": "lex.sa.technology.truncation",
+      "example": "Truncation is why the model never mentions the first page you uploaded.",
+      "fieldId": "technology",
+      "id": "truncation",
+      "lessonIds": [
+        "article_ai_tokens"
+      ],
+      "packs": [
+        "knw.tech.tokens"
+      ],
+      "term": "Truncation"
+    },
+    {
+      "definition": "The card or phone screen that lets you board the aircraft. It carries your name, the flight, the gate, the seat and the boarding time.",
+      "dictionaryId": "lex.sa.travel.boarding_pass",
+      "example": "Show your boarding pass at the gate and find your seat.",
+      "fieldId": "travel",
+      "id": "boarding_pass",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Boarding pass"
+    },
+    {
+      "definition": "The secure part of the airport where you wait for a connecting flight. You cannot leave it without a new ticket.",
+      "dictionaryId": "lex.sa.travel.transit_area",
+      "example": "My flight is delayed, so I am stuck in the transit area.",
+      "fieldId": "travel",
+      "id": "transit_area",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Transit area"
+    },
+    {
+      "definition": "The door onto the aircraft, identified by a letter and a number, for example B22. It is assigned late and can change.",
+      "dictionaryId": "lex.sa.travel.departure_gate",
+      "example": "My gate has changed from B22 to C4.",
+      "fieldId": "travel",
+      "id": "departure_gate",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Departure gate"
+    },
+    {
+      "definition": "The area where the belt for your flight delivers your suitcase. The belt number is shown on the screens above it.",
+      "dictionaryId": "lex.sa.travel.baggage_claim",
+      "example": "Your bag is on belt 7, and it has been there for ten minutes.",
+      "fieldId": "travel",
+      "id": "baggage_claim",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Baggage claim"
+    },
+    {
+      "definition": "A connection between two flights at the same airport, without going through the city in between.",
+      "dictionaryId": "lex.sa.travel.transfer",
+      "example": "I have a two-hour transfer in Singapore.",
+      "fieldId": "travel",
+      "id": "transfer",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Transfer"
+    },
+    {
+      "definition": "The checkpoint where bags and people are checked before entering the secure part of the airport.",
+      "dictionaryId": "lex.sa.travel.security_screening",
+      "example": "Security screening starts at the end of this corridor.",
+      "fieldId": "travel",
+      "id": "security_screening",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Security screening"
+    },
+    {
+      "definition": "The rule limiting containers of liquid in hand baggage, usually to 100 ml each in a clear bag.",
+      "dictionaryId": "lex.sa.travel.liquids_rule",
+      "example": "My bottle is 500 ml, so I have to empty it before screening.",
+      "fieldId": "travel",
+      "id": "liquids_rule",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Liquids rule"
+    },
+    {
+      "definition": "The border desk where an officer checks your passport and your right to enter or leave the country.",
+      "dictionaryId": "lex.sa.travel.passport_control",
+      "example": "Passport control is straight ahead, and baggage claim is on the left.",
+      "fieldId": "travel",
+      "id": "passport_control",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Passport control"
+    },
+    {
+      "definition": "The place where you declare goods over the allowance. Most travellers use the green or white channel for nothing to declare.",
+      "dictionaryId": "lex.sa.travel.customs",
+      "example": "Do I go through the red channel if I bought two bottles of wine?",
+      "fieldId": "travel",
+      "id": "customs",
+      "lessonIds": [
+        "article_airport"
+      ],
+      "packs": [
+        "knw.travel.airport"
+      ],
+      "term": "Customs"
+    },
+    {
+      "definition": "The moment you take the room, normally from 14:00 or 15:00. Before it, the hotel usually stores your luggage free of charge.",
+      "dictionaryId": "lex.sa.travel.check_in",
+      "example": "Check-in is from 14:00, but I can leave my bags with you in the morning.",
+      "fieldId": "travel",
+      "id": "check_in",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Check-in"
+    },
+    {
+      "definition": "The card or fob that opens your door. In many hotels it also works as your room number, your lift pass and your breakfast voucher.",
+      "dictionaryId": "lex.sa.travel.room_key",
+      "example": "Could I have a second key card for my colleague?",
+      "fieldId": "travel",
+      "id": "room_key",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Room key"
+    },
+    {
+      "definition": "A sum held on your card, or taken in cash, to cover extras and damage. It is released after you leave.",
+      "dictionaryId": "lex.sa.travel.deposit",
+      "example": "We hold a deposit of 200 on your card for the minibar and the safe.",
+      "fieldId": "travel",
+      "id": "deposit",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Deposit"
+    },
+    {
+      "definition": "Giving the room back and paying the final bill, usually between 10:00 and 12:00. Late check-out can often be arranged.",
+      "dictionaryId": "lex.sa.travel.checkout",
+      "example": "Can I check out at 14:00 instead of 11:00? My flight is at 17:00.",
+      "fieldId": "travel",
+      "id": "checkout",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Check-out"
+    },
+    {
+      "definition": "Free storage of bags before check-in or after check-out, which lets you use the city without carrying a suitcase.",
+      "dictionaryId": "lex.sa.travel.luggage_storage",
+      "example": "Could you store my luggage until my flight in the evening?",
+      "fieldId": "travel",
+      "id": "luggage_storage",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Luggage storage"
+    },
+    {
+      "definition": "The team that cleans the rooms, changes the linen and takes away used towels.",
+      "dictionaryId": "lex.sa.travel.housekeeping",
+      "example": "Could housekeeping bring two more towels, please?",
+      "fieldId": "travel",
+      "id": "housekeeping",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Housekeeping"
+    },
+    {
+      "definition": "The staff member who arranges tickets, tours, taxis, doctors and anything else the hotel does not sell itself.",
+      "dictionaryId": "lex.sa.travel.concierge",
+      "example": "The concierge booked a table at a restaurant that was fully booked.",
+      "fieldId": "travel",
+      "id": "concierge",
+      "lessonIds": [
+        "article_hotel"
+      ],
+      "packs": [
+        "knw.travel.hotel"
+      ],
+      "term": "Concierge"
+    },
+    {
+      "definition": "The list of dishes a kitchen offers, with prices and short descriptions.",
+      "dictionaryId": "lex.sa.travel.menu",
+      "example": "Could we see the menu, please?",
+      "fieldId": "travel",
+      "id": "menu",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Menu"
+    },
+    {
+      "definition": "A starter, a main course and a dessert sold together at a single price. Often the cheapest and most predictable choice.",
+      "dictionaryId": "lex.sa.travel.set_menu",
+      "example": "I will take the set menu, please.",
+      "fieldId": "travel",
+      "id": "set_menu",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Set menu"
+    },
+    {
+      "definition": "The small first course, such as soup, a salad or fried snacks.",
+      "dictionaryId": "lex.sa.travel.starter",
+      "example": "As a starter, I will have the soup.",
+      "fieldId": "travel",
+      "id": "starter",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Starter"
+    },
+    {
+      "definition": "The main dish of the meal, usually the largest and most expensive item.",
+      "dictionaryId": "lex.sa.travel.main_course",
+      "example": "What would you recommend for the main course?",
+      "fieldId": "travel",
+      "id": "main_course",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Main course"
+    },
+    {
+      "definition": "The sweet course at the end of the meal, or the sweet things served with coffee.",
+      "dictionaryId": "lex.sa.travel.dessert",
+      "example": "Do you have any sugar-free desserts?",
+      "fieldId": "travel",
+      "id": "dessert",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Dessert"
+    },
+    {
+      "definition": "A rule you follow about what you eat, often religious or ethical, such as halal, kosher, vegetarian or vegan.",
+      "dictionaryId": "lex.sa.travel.dietary_restriction",
+      "example": "Do you have any halal dishes that do not contain pork?",
+      "fieldId": "travel",
+      "id": "dietary_restriction",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Dietary restriction"
+    },
+    {
+      "definition": "The list of what you ordered and what you owe. In America it is called the check.",
+      "dictionaryId": "lex.sa.travel.bill",
+      "example": "Could we have the bill, please? Is service included?",
+      "fieldId": "travel",
+      "id": "bill",
+      "lessonIds": [
+        "article_ordering_food"
+      ],
+      "packs": [
+        "knw.travel.ordering"
+      ],
+      "term": "Bill"
     }
   ],
   "nextCursor": "760",

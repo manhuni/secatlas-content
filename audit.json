@@ -396,55 +396,6 @@
       "pack": "knw.mind.inner_dual"
     },
     {
-      "id": "psy_gaslighting",
-      "issue": "duplicate-term-id",
-      "keptId": "gd_gaslighting",
-      "kind": "terms",
-      "pack": "knw.mind.manipulation"
-    },
-    {
-      "id": "psy_isolation",
-      "issue": "duplicate-term-id",
-      "keptId": "isolation",
-      "kind": "terms",
-      "pack": "knw.mind.manipulation"
-    },
-    {
-      "id": "mia_manipulation",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_manipulation",
-      "kind": "terms",
-      "pack": "knw.mind.manipulation_in_arguments"
-    },
-    {
-      "id": "mia_sunk_cost",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_sunk_cost",
-      "kind": "terms",
-      "pack": "knw.mind.manipulation_in_arguments"
-    },
-    {
-      "id": "pd_authority",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_authority",
-      "kind": "terms",
-      "pack": "knw.mind.power_dynamics"
-    },
-    {
-      "id": "pd_persuasion",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_persuasion",
-      "kind": "terms",
-      "pack": "knw.mind.power_dynamics"
-    },
-    {
-      "id": "pd_coercion",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_coercion",
-      "kind": "terms",
-      "pack": "knw.mind.power_dynamics"
-    },
-    {
       "id": "pd_accountability",
       "issue": "duplicate-term-id",
       "keptId": "dual_accountability",
@@ -452,39 +403,11 @@
       "pack": "knw.mind.power_dynamics"
     },
     {
-      "id": "war_friction",
-      "issue": "duplicate-term-id",
-      "keptId": "friction",
-      "kind": "terms",
-      "pack": "knw.mind.war_theory"
-    },
-    {
       "id": "mon_devaluation",
       "issue": "duplicate-term-id",
       "keptId": "cs_devaluation",
       "kind": "terms",
       "pack": "knw.money.currencies"
-    },
-    {
-      "id": "mon_credit",
-      "issue": "duplicate-term-id",
-      "keptId": "credit",
-      "kind": "terms",
-      "pack": "knw.money.what_money_is"
-    },
-    {
-      "id": "boundary",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_boundary",
-      "kind": "terms",
-      "pack": "knw.social.boundaries"
-    },
-    {
-      "id": "consent",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_consent",
-      "kind": "terms",
-      "pack": "knw.social.dating"
     },
     {
       "id": "gem_accountability",
@@ -541,28 +464,6 @@
       "keptId": "mt_readiness",
       "kind": "terms",
       "pack": "knw.social.mate_selection_age"
-    },
-    {
-      "id": "small_talk",
-      "ignored": {
-        "fieldId": "social",
-        "id": "small_talk",
-        "lessonIds": [
-          "article_small_talk"
-        ],
-        "term": "Small talk"
-      },
-      "issue": "conflicting-reference",
-      "kept": {
-        "fieldId": "culture",
-        "id": "small_talk",
-        "lessonIds": [
-          "article_culture_shock"
-        ],
-        "term": "Small talk"
-      },
-      "kind": "terms",
-      "pack": "knw.social.smalltalk"
     },
     {
       "id": "attention_span",
@@ -702,20 +603,6 @@
       "pack": "knw.tech.tokens"
     },
     {
-      "id": "si_energy",
-      "issue": "duplicate-term-id",
-      "keptId": "energy",
-      "kind": "terms",
-      "pack": "knw.tech.units"
-    },
-    {
-      "id": "si_standard",
-      "issue": "duplicate-term-id",
-      "keptId": "lsc_standard",
-      "kind": "terms",
-      "pack": "knw.tech.units"
-    },
-    {
       "id": "allergy",
       "ignored": {
         "fieldId": "travel",
@@ -738,27 +625,6 @@
       "pack": "knw.travel.ordering"
     },
     {
-      "id": "dpn_scarcity",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_scarcity",
-      "kind": "terms",
-      "pack": "knw.work.dark_psychology_negotiation"
-    },
-    {
-      "id": "dpn_urgency",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_urgency",
-      "kind": "terms",
-      "pack": "knw.work.dark_psychology_negotiation"
-    },
-    {
-      "id": "dpn_social_proof",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_social_proof",
-      "kind": "terms",
-      "pack": "knw.work.dark_psychology_negotiation"
-    },
-    {
       "id": "dpn_reciprocity",
       "issue": "duplicate-term-id",
       "keptId": "pd_reciprocity",
@@ -773,16 +639,9 @@
       "pack": "knw.work.dark_psychology_negotiation"
     },
     {
-      "id": "dpn_foot_in_the_door",
-      "issue": "duplicate-term-id",
-      "keptId": "psy_foot_in_the_door",
-      "kind": "terms",
-      "pack": "knw.work.dark_psychology_negotiation"
-    },
-    {
       "id": "dpn_sunk_cost",
       "issue": "duplicate-term-id",
-      "keptId": "psy_sunk_cost",
+      "keptId": "mia_sunk_cost",
       "kind": "terms",
       "pack": "knw.work.dark_psychology_negotiation"
     },
@@ -794,11 +653,152 @@
       "pack": "knw.work.emails"
     },
     {
-      "id": "escalation",
+      "id": "psy_manipulation",
       "issue": "duplicate-term-id",
-      "keptId": "war_escalation",
+      "keptId": "mia_manipulation",
       "kind": "terms",
-      "pack": "knw.work.emails"
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_persuasion",
+      "issue": "duplicate-term-id",
+      "keptId": "pd_persuasion",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_coercion",
+      "issue": "duplicate-term-id",
+      "keptId": "pd_coercion",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_social_proof",
+      "issue": "duplicate-term-id",
+      "keptId": "dpn_social_proof",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_authority",
+      "issue": "duplicate-term-id",
+      "keptId": "pd_authority",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_scarcity",
+      "issue": "duplicate-term-id",
+      "keptId": "dpn_scarcity",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_urgency",
+      "issue": "duplicate-term-id",
+      "keptId": "dpn_urgency",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_sunk_cost",
+      "issue": "duplicate-term-id",
+      "keptId": "mia_sunk_cost",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_gaslighting",
+      "issue": "duplicate-term-id",
+      "keptId": "gd_gaslighting",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_foot_in_the_door",
+      "issue": "duplicate-term-id",
+      "keptId": "dpn_foot_in_the_door",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "psy_isolation",
+      "issue": "duplicate-term-id",
+      "keptId": "isolation",
+      "kind": "terms",
+      "pack": "knw.mind.manipulation"
+    },
+    {
+      "id": "war_friction",
+      "issue": "duplicate-term-id",
+      "keptId": "friction",
+      "kind": "terms",
+      "pack": "knw.mind.war_theory"
+    },
+    {
+      "id": "war_escalation",
+      "issue": "duplicate-term-id",
+      "keptId": "escalation",
+      "kind": "terms",
+      "pack": "knw.mind.war_theory"
+    },
+    {
+      "id": "mon_credit",
+      "issue": "duplicate-term-id",
+      "keptId": "credit",
+      "kind": "terms",
+      "pack": "knw.money.what_money_is"
+    },
+    {
+      "id": "boundary",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_boundary",
+      "kind": "terms",
+      "pack": "knw.social.boundaries"
+    },
+    {
+      "id": "consent",
+      "issue": "duplicate-term-id",
+      "keptId": "psy_consent",
+      "kind": "terms",
+      "pack": "knw.social.dating"
+    },
+    {
+      "id": "small_talk",
+      "ignored": {
+        "fieldId": "social",
+        "id": "small_talk",
+        "lessonIds": [
+          "article_small_talk"
+        ],
+        "term": "Small talk"
+      },
+      "issue": "conflicting-reference",
+      "kept": {
+        "fieldId": "culture",
+        "id": "small_talk",
+        "lessonIds": [
+          "article_culture_shock"
+        ],
+        "term": "Small talk"
+      },
+      "kind": "terms",
+      "pack": "knw.social.smalltalk"
+    },
+    {
+      "id": "si_energy",
+      "issue": "duplicate-term-id",
+      "keptId": "energy",
+      "kind": "terms",
+      "pack": "knw.tech.units"
+    },
+    {
+      "id": "si_standard",
+      "issue": "duplicate-term-id",
+      "keptId": "lsc_standard",
+      "kind": "terms",
+      "pack": "knw.tech.units"
     },
     {
       "id": "variable",

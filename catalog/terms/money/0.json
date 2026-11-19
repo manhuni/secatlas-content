@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "definition": "The yearly price of borrowing on the card, with most fees included. It is the number to compare two cards by.",
-      "dictionaryId": "lex.sa.money.apr",
-      "example": "This card has a 24 % APR, which is about 0.066 % a day.",
-      "fieldId": "money",
-      "id": "apr",
-      "lessonIds": [
-        "article_credit_cards"
-      ],
-      "packs": [
-        "knw.money.credit"
-      ],
-      "term": "APR (annual percentage rate)"
-    },
-    {
-      "definition": "The most the bank will let you borrow on the card at one time. Going over it is usually refused and sometimes charged.",
-      "dictionaryId": "lex.sa.money.credit_limit",
-      "example": "My credit limit is 2000 $, and I use about 600 $ of it.",
-      "fieldId": "money",
-      "id": "credit_limit",
-      "lessonIds": [
-        "article_credit_cards"
-      ],
-      "packs": [
-        "knw.money.credit"
-      ],
-      "term": "Credit limit"
-    },
-    {
-      "definition": "The period between two statements. Everything bought in one cycle appears on the next statement.",
-      "dictionaryId": "lex.sa.money.billing_cycle",
-      "example": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
-      "fieldId": "money",
-      "id": "billing_cycle",
-      "lessonIds": [
-        "article_credit_cards"
-      ],
-      "packs": [
-        "knw.money.credit"
-      ],
-      "term": "Billing cycle"
-    },
-    {
-      "definition": "The days between the statement date and the due date, during which you can pay in full without interest.",
-      "dictionaryId": "lex.sa.money.grace_period",
-      "example": "If I pay the statement balance inside the grace period, I pay no interest.",
-      "fieldId": "money",
-      "id": "grace_period",
-      "lessonIds": [
-        "article_credit_cards"
-      ],
-      "packs": [
-        "knw.money.credit"
-      ],
-      "term": "Grace period"
-    },
-    {
-      "definition": "The smallest monthly sum the card will accept. Paying only this keeps the balance, and the interest, alive.",
-      "dictionaryId": "lex.sa.money.minimum_payment",
-      "example": "The minimum payment is 25 $, so the rest of the balance stays on the card.",
-      "fieldId": "money",
-      "id": "minimum_payment",
-      "lessonIds": [
-        "article_credit_cards"
-      ],
-      "packs": [
-        "knw.money.credit"
-      ],
-      "term": "Minimum payment"
-    },
-    {
-      "definition": "The charge the bank makes for a late payment, on top of any penalty rate and any loss of your good history.",
-      "dictionaryId": "lex.sa.money.overdue_fee",
-      "example": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
-      "fieldId": "money",
-      "id": "overdue_fee",
-      "lessonIds": [
-        "article_credit_cards"
-      ],
-      "packs": [
-        "knw.money.credit"
-      ],
-      "term": "Overdue fee"
-    },
-    {
       "definition": "The three-letter code that names a currency in the standard ISO 4217, used by banks, customs offices and computer systems.",
       "dictionaryId": "lex.sa.money.mon_iso_code",
       "example": "Write USD on the invoice, not the word dollar, so the system reads it.",
@@ -280,6 +196,90 @@
         "knw.money.currencies"
       ],
       "term": "Remittance"
+    },
+    {
+      "definition": "The yearly price of borrowing on the card, with most fees included. It is the number to compare two cards by.",
+      "dictionaryId": "lex.sa.money.apr",
+      "example": "This card has a 24 % APR, which is about 0.066 % a day.",
+      "fieldId": "money",
+      "id": "apr",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "APR (annual percentage rate)"
+    },
+    {
+      "definition": "The most the bank will let you borrow on the card at one time. Going over it is usually refused and sometimes charged.",
+      "dictionaryId": "lex.sa.money.credit_limit",
+      "example": "My credit limit is 2000 $, and I use about 600 $ of it.",
+      "fieldId": "money",
+      "id": "credit_limit",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Credit limit"
+    },
+    {
+      "definition": "The period between two statements. Everything bought in one cycle appears on the next statement.",
+      "dictionaryId": "lex.sa.money.billing_cycle",
+      "example": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+      "fieldId": "money",
+      "id": "billing_cycle",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Billing cycle"
+    },
+    {
+      "definition": "The days between the statement date and the due date, during which you can pay in full without interest.",
+      "dictionaryId": "lex.sa.money.grace_period",
+      "example": "If I pay the statement balance inside the grace period, I pay no interest.",
+      "fieldId": "money",
+      "id": "grace_period",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Grace period"
+    },
+    {
+      "definition": "The smallest monthly sum the card will accept. Paying only this keeps the balance, and the interest, alive.",
+      "dictionaryId": "lex.sa.money.minimum_payment",
+      "example": "The minimum payment is 25 $, so the rest of the balance stays on the card.",
+      "fieldId": "money",
+      "id": "minimum_payment",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Minimum payment"
+    },
+    {
+      "definition": "The charge the bank makes for a late payment, on top of any penalty rate and any loss of your good history.",
+      "dictionaryId": "lex.sa.money.overdue_fee",
+      "example": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+      "fieldId": "money",
+      "id": "overdue_fee",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Overdue fee"
     },
     {
       "definition": "The percentage change in the general level of prices over a period of time, usually a year.",

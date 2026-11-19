@@ -2,231 +2,245 @@
   "language": "ko",
   "lessonId": "article_units_dimensions",
   "objectives": [
-    "측정에 단위가 필요한 이유와 차원이 무엇인지 설명하라.",
-    "일곱 개의 SI 기본 단위를 이름하고 기호를 읽어라.",
-    "접두사를 올바르게 쓰고, 각각 몇 배를 곱하는지 설명하세요.",
-    "차원을 분석하여 공식을 확인합니다.",
-    "단위를 변환하되 숫자의 의미를 바꾸지 마십시오."
+    "측정에 단위가 필요한 이유와 차원이 무엇인지 설명하십시오.",
+    "SI 기본단위 일곱 개를 이름하고 기호를 읽어 보세요.",
+    "접두사를 올바르게 사용하고, 각각 몇 배를 곱하는지 말하세요.",
+    "차원 분석으로 공식을 확인한다.",
+    "단위를 바꾸되 숫자의 의미는 바꾸지 않는다."
   ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
     {
-      "body": "측정값은 수와 단위로 이루어지며, 단위는 장식이 아닙니다. 같은 양을 여러 가지 방식으로 쓸 수 있습니다 — 0.35 mm, 350 µm, 0.00035 m — 세 가지 모두 정확히 같은 뜻입니다. 단위를 빼고 남은 것은 세계에 관한 사실이 아니라 종이 한 장에 관한 사실입니다. 따라서 모든 엄밀한 도면에서는 수 옆에 단위를 적고, 설계자가 단위 없는 수를 읽으면 멈추어 그 수가 무엇의 수인지 묻습니다.",
+      "body": "측정값은 숫자와 단위로 이루어지며, 단위는 장식이 아니다. 같은 양을 여러 가지 방식으로 쓸 수 있다 — 0.35 mm, 350 µm, 0.00035 m — 세 가지 모두 정확히 같은 뜻이다. 단위를 떼어 내면 남는 것은 세계에 대한 사실이 아니라, 종이 한 장에 대한 사실이다. 그래서 모든 정상적인 도면은 숫자 옆에 단위를 적으며, 단위 없이 적힌 숫자를 본 엔지니어는 그 숫자가 무엇을 나타내는 것인지 되묻는다.",
       "examples": [
-        "도면에는 12.5가 아니라 12.5 mm라고 적혀 있습니다.",
-        "두 공급업체가 같은 부품에 대해 3.0이라는 값을 제시하지만, 그중 한 곳만 3.0이 무엇의 값인지 알려 줍니다.",
-        "단위는 측정값의 일부이지, 나중에 붙인 표지가 아닙니다."
+        "판에는 12.5가 아니라 12.5 mm라고 적혀 있다.",
+        "같은 부품에 대해 두 공급업체가 모두 3.0을 제시했지만, 그중 한 곳만이 자신이 말한 3.0이 무엇인지 밝힌다.",
+        "단위는 측정값의 일부이지, 나중에 붙인 이름표가 아니다."
       ],
-      "heading": "수는 측정값이 아닙니다",
+      "heading": "숫자는 측정값이 아니다.",
       "terms": [
         {
-          "example": "단위는 수 뒤에 공백을 두고 적습니다.",
-          "gloss": "무언가를 측정하는 기준으로 사용하는 고정된 양입니다."
+          "example": "단위는 숫자 뒤에 공백을 두고 쓴다.",
+          "gloss": "어떤 것을 측정할 때 기준으로 삼는 고정된 양."
         },
         {
-          "example": "10 km은 측정값이지만, 10은 측정값이 아닙니다.",
-          "gloss": "수에 단위를 함께 붙여 그 수에 의미를 부여한 것입니다."
+          "example": "열 킬로미터는 측정값이지만, 열은 아니다.",
+          "gloss": "숫자가 의미를 갖게 하는 단위와 함께한 숫자."
         }
       ]
     },
     {
-      "body": "International System of Units는 일곱 개의 기본 단위에 기반한다. 공학에서 사용되는 다른 모든 단위는 이 단위들로 구성되며, 각 기본 단위에는 절대 변하지 않고, 복수형도 되지 않으며, 마침표도 붙이지 않는 기호가 있다. 기호는 abbreviation가 아니다: metre는 m으로 쓰고 metres에는 절대 ms로 쓰지 않는다. ms는 millisecond를 뜻하기 때문이다. 일곱 개의 기호를 익히면 specification의 한 줄을 번역하지 않고도 읽을 수 있다.",
+      "body": "국제 단위계는 7개의 기본 단위를 바탕으로 한다. 공학에서 사용되는 다른 모든 단위들은 이 기본 단위들을 조합해 만들어지며, 각 기본 단위에는 어떤 경우에도 변하지 않고, 복수형을 취하지 않으며, 마침표를 붙이지 않는 기호가 있습니다. 기호는 약어가 아닙니다. 미터는 m으로 쓰고 미터들을 나타낼 때 ms라고 쓰지 않습니다. ms는 밀리초를 뜻하기 때문입니다. 일곱 가지 기호를 익혀두면 규격서의 한 줄을 번역하지 않고도 읽을 수 있습니다.",
       "examples": [
-        "기호는 m이며 M도 mtr도 아니다.",
-        "기호에는 절대로 복수형을 쓰지 않는다: 5 m이며, metres를 뜻하는 5 ms로 쓰지 않는다.",
-        "대문자 역시 장식이 아니다: A는 ampere이고 a는 아니다."
+        "기호는 m이며, M도 mtr도 아닙니다.",
+        "기호는 결코 복수형을 쓰지 않습니다. 미터라면 5 ms가 아니라 5 m입니다.",
+        "대문자도 장식이 아닙니다. A는 암페어이고 a는 아닙니다."
       ],
-      "heading": "일곱 개의 기본 단위와 이를 나타내는 기호",
+      "heading": "7개의 기본 단위와 이를 나타내는 기호",
       "symbols": [
         {
-          "description": "문자 m은 SI에서 길이의 기본 단위인 미터의 기호이다. 길이는 다른 모든 기계학적 물리량을 측정하는 기준이므로, 엔지니어가 처음 배우는 단위이기도 하다. 자의 눈금, 도면의 가장자리, 데이터 시트의 첫 줄에서 만날 수 있다. 즉, 거리가 기록될 때마다 나타난다. 볼트의 높이, 패널의 너비, 두 별 사이의 거리 등 모든 엔지니어가 측정값을 읽을 때 사용한다. 숫자, 공백, m 순서로 표기하며, 마침표는 쓰지 않고 ms로도 쓰지 않는다. ms는 밀리초를 뜻하기 때문이다.",
+          "description": "The letter m is the symbol of the metre, the base unit of length in the SI. Length is the quantity every other mechanical quantity is measured against, so it is the first unit an engineer learns. You meet it on a ruler, on the edge of a drawing, on the first line of a data sheet — whenever a distance is written: the height of a bolt, the width of a panel, the distance between two stars. Every engineer who measures anything at all reads it. It is written as a number, a space, then m: never a full stop, and never ms, because ms means millisecond.",
+          "image": "media/symbols/metre.png",
           "label": "m",
-          "meaning": "미터 — 길이의 기본 단위"
+          "meaning": "metre — the base unit of length",
+          "unicode": "m"
         },
         {
-          "description": "‘kg’라는 문자는 질량의 기본 단위인 킬로그램의 기호이며, SI 체계에서 사용된다. 질량은 어디로 가져가든 변하지 않지만, 무게는 중력에 따라 변한다. 하중 등급표, 자재 명세서, 작업장의 계량대 — 무언가를 재는 곳에서 이 단위를 만난다. 부품이든, 적재 화물이든, 사람이다. 부품을 설계하는 사람과 이를 싣는 사람이 이 단위를 읽는다. 숫자, 공백, 그다음 kg 순으로 적는다. 접두사인 ‘킬로’는 단위에 속하므로 킬로그램은 k와 g를 함께 적는다.",
+          "description": "The letters kg are the symbol of the kilogram, the base unit of mass in the SI. Mass is what stays the same wherever you take it; weight changes with gravity, mass does not. You meet it on a load rating, on a bill of materials, on the counter of a workshop — whenever something is weighed: a component, a payload, a person. The people who design the part and the people who load it are the ones who read it. It is written as a number, a space, then kg: the prefix kilo belongs to the unit, so the kilogram is written k and g together.",
+          "image": "media/symbols/kilogram.png",
           "label": "kg",
-          "meaning": "킬로그램 — 질량의 기본 단위"
+          "meaning": "kilogram — the base unit of mass",
+          "unicode": "kg"
         },
         {
-          "description": "문자 s는 SI에서 시간의 기본 단위인 초를 나타내는 기호입니다. 시간은 다른 모든 측정값을 속도로 바꾸는 차원입니다. 타이밍 다이어그램에서, 데이터 시트의 사이클 시간에서, 시계의 초침에서 — 지속 시간이 적힌 모든 곳에서 만나게 됩니다. 사이클 시간, 체류 시간, 반응 시간 등입니다. 어떤 것이 얼마나 오래 걸리는지 측정하는 사람은 모두 이 단위를 읽습니다. 숫자, 공백, 다음으로 s로 표기합니다: 주의할 점은 5 s가 5초이고 5 S는 잘못된 표기지만, 5 ms는 5밀리초라는 것입니다.",
+          "description": "The letter s is the symbol of the second, the base unit of time in the SI. Time is the dimension that turns every other measurement into a rate. You meet it on a timing diagram, on the cycle time of a data sheet, on the second hand of a clock — whenever a duration is written: a cycle time, a dwell time, a reaction time. Anyone who measures how long something takes reads it. It is written as a number, a space, then s: watch out, 5 s is five seconds and 5 S would be wrong, but 5 ms is five milliseconds.",
+          "image": "media/symbols/second.png",
           "label": "s",
-          "meaning": "초 — 시간의 기본 단위"
+          "meaning": "second — the base unit of time",
+          "unicode": "s"
         },
         {
-          "description": "문자 A는 SI 체계에서 전류의 기본 단위인 앰페어의 기호이다. 전류는 전하의 흐름, 즉 1초 동안 회로의 한 지점을 통과하는 전하의 양이다. 다른 모든 전기량도 전류를 바탕으로 만들어진다. 전류가 표시되는 곳에서 이 단위를 만난다. 전동기의 명판, 퓨즈의 정격, 전력 예산서의 첫 줄이 그렇다. 보드의 동작 전류, 펌프의 기동 전류, 센서가 대기 상태에서 소비하는 전류처럼 말이다. 케이블의 굵기를 결정하는 사람과 전원 장치의 용량을 결정하는 사람들이 전류값을 읽는다. 전류는 숫자, 공백, A의 순서로 표기된다. 주의할 점은 mA가 앰페어의 천 분의 일이고, 앰피어시(Ah)는 전류가 아니라 전하의 단위라는 것이다.",
+          "description": "The letter A is the symbol of the ampere, the base unit of electric current in the SI. Current is the flow of charge: how much charge passes a point of a circuit in one second, and every other electrical quantity is built on it. You meet it on the nameplate of a motor, on the rating of a fuse, on the first line of a power budget — whenever a current is written: the running current of a board, the start-up current of a pump, the current a sensor draws at rest. The people who size a cable and the people who size a supply are the ones who read it. It is written as a number, a space, then A: watch out, mA is a thousandth of an ampere and the ampere-hour (Ah) is a unit of charge, not of current.",
+          "image": "media/symbols/ampere.png",
           "label": "A",
-          "meaning": "앙페어 — 전류의 기본 단위"
+          "meaning": "ampere — the base unit of electric current",
+          "unicode": "A"
         },
         {
-          "description": "문자 K는 SI 단위계에서 열역학적 온도의 기본 단위인 켈빈의 기호이다. 온도는 온도계가 나타내는 숫자가 아니다. 온도계는 일상적인 눈금 위의 한 지점을 보여 줄 뿐이며, 켈빈은 입자 자체의 에너지를 측정하므로 절대로 영도 아래로 내려가지 않는다. 부품의 작동 범위에서, 공정의 제어 루프에서, 데이터 시트의 곡선에서 온도가 표시될 때마다 이 단위를 만난다. 접합부 온도, 저장 온도, 화로의 설정점 등이다. 부품을 설계하는 사람과 공정을 운전하는 사람이 이 단위를 읽는다. 숫자, 공백, 다음으로 K를 쓰며, 절대로 도(°) 기호를 쓰지 않는다. 도 기호는 일상적인 온도 눈금에 쓰이는 것이기 때문이다. 또한 켈빈의 K는 대문자 K이고, 킬로의 접두사인 k는 소문자라는 점에 주의해야 합니다.",
+          "description": "The letter K is the symbol of the kelvin, the base unit of thermodynamic temperature in the SI. Temperature is not the number a thermometer shows: a thermometer shows a point on an everyday scale, and the kelvin measures the energy of the particles themselves, so it never falls below zero. You meet it on the operating range of a part, on the control loop of a process, on the curve of a data sheet — whenever a temperature is written: a junction temperature, a storage temperature, the setpoint of a furnace. The people who design the part and the people who run the process are the ones who read it. It is written as a number, a space, then K: never a degree sign, because the degree sign belongs to the everyday scales, and watch out, the K of the kelvin is a capital K while the k of the kilo prefix is a small one.",
+          "image": "media/symbols/kelvin.png",
           "label": "K",
-          "meaning": "kelvin — 온도의 기본 단위"
+          "meaning": "kelvin — the base unit of temperature",
+          "unicode": "K"
         },
         {
-          "description": "문자 mol은 몰을 나타내는 기호이며, 몰은 SI에서 물질의 양에 관한 기본 단위이다. 1몰은 탄소-12 12그램에 들어 있는 입자 수만큼의 입자를 갖는 양을 뜻하며, 물체의 질량과 그 물체에 포함된 물체 수를 연결하는 다리 역할을 한다. 시약의 성적서, 반응식, 공장의 약제 투입표에서 만날 수 있다. 즉, 농도나 적정, 배치 크기처럼 양이 표시될 때마다 등장한다. 이를 읽는 사람은 화합물을 배합하는 화학자와 이를 대형 생산으로 확대하는 기술자다. 숫자, 공백, mol 순으로 쓰며, 마침표는 붙이지 않고 대문자 M도 사용하지 않는다. M은 몰농도를 뜻하며, 몰과 같은 것은 아니기 때문이다.",
+          "description": "The letters mol are the symbol of the mole, the base unit of amount of substance in the SI. A mole is a number of particles: the amount that holds as many particles as twelve grams of carbon-12, and it is the bridge between the mass of a thing and the number of things in it. You meet it on the certificate of a reagent, on the formula of a reaction, on the dosing sheet of a plant — whenever an amount is written: a concentration, a titration, the size of a batch. The chemist who mixes it and the engineer who scales it up are the ones who read it. It is written as a number, a space, then mol: never a full stop, and never a capital M, because M is the molar concentration and the two are not the same thing.",
+          "image": "media/symbols/mole.png",
           "label": "mol",
-          "meaning": "몰 — 물질의 양을 나타내는 기본 단위"
+          "meaning": "mole — the base unit of amount of substance",
+          "unicode": "mol"
         },
         {
-          "description": "문자 cd는 SI에서 광도의 기본 단위인 칸델라를 나타내는 기호입니다. 광도는 광원이 한 방향으로 내는 빛을 사람의 눈으로 판단한 값이며, 계측기만으로 측정하는 것은 아닙니다. LED의 데이터시트, 조명 기구의 사양서, 광학 벤치의 도면에 등장합니다. 광원이 표기되는 모든 곳에서 볼 수 있습니다. 디스플레이의 백라이트, 신호등, 가로등이 그렇습니다. 램프를 선택하는 사람과 외장을 설계하는 사람이 이 값을 읽습니다. 숫자, 공백, cd의 순서로 표기하며 마침표는 절대 붙이지 않습니다. 또한 cd/m²는 다른 단위이므로 주의해야 합니다. 이는 표면의 휘도를 나타내며, 유도 단위입니다.",
+          "description": "The letters cd are the symbol of the candela, the base unit of luminous intensity in the SI: the light a source gives in one direction, judged by the eye of a person and not by an instrument alone. You meet it on the data sheet of an LED, on the specification of a luminaire, on the drawing of an optical bench — whenever a source of light is written: the backlight of a display, a signal lamp, a street light. The people who choose the lamp and the people who design the housing are the ones who read it. It is written as a number, a space, then cd: never a full stop, and watch out, cd/m² is a different thing — that is the luminance of a surface, and it is a derived unit.",
+          "image": "media/symbols/candela.png",
           "label": "cd",
-          "meaning": "칸델라 — 광도의 기본 단위"
+          "meaning": "candela — the base unit of luminous intensity",
+          "unicode": "cd"
         }
       ]
     },
     {
-      "body": "접두사는 측정하는 대상을 바꾸지 않습니다. 곱하는 숫자의 크기만 바꿉니다. kilo는 천을 뜻하고, milli는 천분의 일입니다. 접두사는 기호로 단위 앞에 붙이며 그 사이에 공백을 넣지 않습니다. 예를 들면 12.5 km, 3.2 mm입니다. 모든 접두사는 10의 거듭제곱이며, 모든 10의 거듭제곱은 동시에 3의 거듭제곱이기도 합니다. 1 kilometre는 1,000 metres이고, 1,000은 10을 열 번 곱한 값입니다. 전체 체계에서 주의해야 할 함정 하나가 있습니다. milli와 metre는 같은 글자로 시작하므로, 25 mA는 25 milliamperes인 반면 25 m는 25 metres입니다. 단위를 보면 어느 쪽인지 알 수 있습니다.",
+      "body": "접두사는 측정하는 대상을 바꾸는 것이 아니라, 숫자의 크기를 바꾼다. 킬로는 천을 뜻하고, 밀리는 천분의 하나를 뜻한다. 접두사는 단위 앞에 공백 없이 기호로 표시합니다: 12.5 km, 3.2 mm. 모든 접두사는 10의 거듭제곱이고, 모든 10의 거듭제곱은 3의 거듭제곱이기도 합니다. 1킬로미터는 1천미터이고, 1천은 10을 열 번 곱한 값이기 때문입니다. 이 체계 전체에서 하나만 주의하면 됩니다. milli와 metre는 첫 글자가 같으므로 25 mA는 25밀리암페어이고, 25 m는 25미터입니다. 단위는 어떤 것을 보고 있는지 알려 줍니다.",
       "examples": [
-        "3.5 mm 나사에는 3.5 m 구멍이 아니라 3.5 mm 구멍이 필요합니다.",
-        "접두사는 양 자체가 아니라 숫자를 바꿉니다. 5 km은 도로 길이 5000 m입니다.",
-        "Gigabyte와 gigahertz는 서로 다른 대상입니다. 접두사는 크기만 나타냅니다."
+        "3.5 mm 나사에는 3.5 mm 구멍이 필요하지, 3.5 m짜리 구멍이 필요한 게 아니다.",
+        "접두사는 숫자는 바꾸지만, 양 자체는 바꾸지 않는다. 5km는 도로 길이로 5000m이다.",
+        "기가바이트와 기가헤르츠는 서로 다른 것이며, 접두사는 얼마나 큰지만 나타낸다."
       ],
-      "heading": "접두사: 수를 곱하는 말",
+      "heading": "접두사: 값을 곱해 나가는 단어들",
       "table": {
         "headers": [
-          "접두사",
-          "기호",
-          "배수",
-          "예"
+          "Prefix",
+          "Symbol",
+          "Factor",
+          "Example"
         ],
         "rows": [
           [
             "nano",
             "n",
             "10^-9",
-            "5 nm — 녹색 빛의 파장"
+            "5 nm — the wavelength of green light"
           ],
           [
             "micro",
             "μ",
             "10^-6",
-            "12 μm — 가는 머리카락 한 올의 너비"
+            "12 μm — the width of a fine hair"
           ],
           [
             "milli",
             "m",
             "10^-3",
-            "25 mA — 작은 전류"
+            "25 mA — a small current"
           ],
           [
             "centi",
             "c",
             "10^-2",
-            "3 cm — 동전 반지름의 약"
+            "3 cm — about the radius of a coin"
           ],
           [
             "—",
             "",
             "10^0",
-            "1 m — metre 그 자체"
+            "1 m — the metre itself"
           ],
           [
             "kilo",
             "k",
             "10^3",
-            "5 kW — 전기 주전자의 출력"
+            "5 kW — the power of a kettle"
           ],
           [
             "mega",
             "M",
             "10^6",
-            "3 MHz — 오래된 전자 기기의 클록 속도"
+            "3 MHz — the clock speed of old electronics"
           ],
           [
             "giga",
             "G",
             "10^9",
-            "2 GB — 큰 파일"
+            "2 GB — a large file"
           ]
         ]
       }
     },
     {
-      "body": "차원 분석은 공식을 맹신하기 전에 오류를 잡아내는 방법이다. 식에 나오는 모든 양을 그 양이 측정되는 차원으로 바꾸고, 같은 차원의 항끼리만 더하고 빼서, 양쪽의 차원이 같아지는지 확인한다. 차원이 일치하는 공식이 맞다는 뜻은 아니지만, 일치하지 않는 공식은 틀렸음이 확실하다. 보통은 지수가 1만큼 틀렸거나 공식을 옮겨 적으면서 인수를 빠뜨린 것과 같은, 이름을 붙일 수 있는 이유로 틀리기 때문이다.",
+      "body": "차원 분석은 공식이 맞다고 믿기 전에 그 공식의 오류를 잡아내는 방법이다. 수식에 나오는 모든 양을 그 양이 측정되는 차원으로 바꾸고, 같은 차원끼리만 더하고 빼서 양변의 차원이 같아지는지 확인합니다. 양쪽 항이 맞지 않는 공식은 증명된 것이 아니지만, 맞지 않는 공식은 분명히 틀린 것이고, 대개 지수의 값이 1만큼 틀렸거나 공식을 옮기면서 어떤 계수를 빠뜨린 것처럼 말할 수 있는 이유로 틀립니다.",
       "examples": [
-        "Distance = speed × time: (m/s) × s = m. 양쪽 모두 길이이다.",
-        "Energy = mass × speed²: kg × (m/s)² = kg·m²/s², 즉 joule이다."
+        "거리 = 속도 × 시간: (m/s) × s = m. 양쪽 모두 길이입니다.",
+        "에너지 = 질량 × 속도²: kg × (m/s)² = kg·m²/s², 즉 줄(J)입니다."
       ],
-      "heading": "차원 분석으로 공식 검증하기",
+      "heading": "차원 분석으로 공식 확인하는 방법",
       "steps": [
-        "공식을 정리하여 모든 양을 한쪽에, 결과를 반대쪽에 적는다.",
-        "각 양을 그 차원으로 바꾼다. 차원은 length, mass, time, current, temperature, amount of substance, luminous intensity가 있다.",
-        "같은 종류의 차원끼리만 더하고 빼며, 곱하고 나눌 때는 수를 계산할 때처럼 한다.",
-        "양쪽을 비교한다. 공식이 성립하려면 양쪽의 차원이 같아야 한다.",
-        "양쪽이 일치하지 않으면, 잘못 측정하거나 빠뜨린 양이나 인수를 찾아라."
+        "공식에 나오는 모든 양을 한쪽에, 결과를 반대쪽에 써 주세요.",
+        "각 물리량을 차원(길이, 질량, 시간, 전류, 온도, 물질의 양, 광도)으로 바꿉니다.",
+        "곱셈과 나눗셈은 수를 계산할 때처럼 하면 되고, 덧셈과 뺄셈은 같은 종류의 차원끼리만 합니다.",
+        "양쪽을 비교해 보세요. 공식이 성립하려면 양쪽의 차원이 같아야 합니다.",
+        "변이 일치하지 않는다면, 잘못 측정했거나 빠뜨린 인수를 찾아보세요."
       ]
     },
     {
-      "body": "English는 숫자 뒤에 공백을 하나 두고 단위를 적습니다: 12.5 mm, 3.2 kg, 20 °C. 공백은 선택 사항이 아니라 숫자와 단위를 구분하는 요소입니다. 단위에는 복수형도 마침표도 쓰지 않습니다: 5 m, 5 m.나 5 ms처럼 쓰지 않습니다. Degrees는 도 기호와 함께 쓰며 공백을 두지 않습니다: 20 °C. 숫자가 범위를 나타낼 때는 to 또는 dash가 범위를 나타냅니다: 10 to 20 mm 또는 10–20 mm. 그리고 단위는 사람이 이름을 가져오는 경우를 제외하면 소문자로 씁니다: 5 m, 5 kg, 5 mol은 소문자로 쓰지만, ampere를 뜻하는 5 A, kelvin을 뜻하는 5 K, degrees Celsius를 뜻하는 5 °C는 해당 이름을 따릅니다.",
+      "body": "영어는 숫자 뒤에 공백을 두고 단위를 쓴다: 12.5 mm, 3.2 kg, 20 °C. 그 공백은 선택 사항이 아니라 숫자와 단위를 구분하는 요소입니다. 단위에는 복수형도 마침표도 쓰지 않습니다. 5 m이고, 5 m.처럼 쓰지 않습니다. 또는 5밀리초. 온도는 도 기호와 띄어쓰기 없이 적는다: 20 °C. 숫자가 범위를 나타낼 때는 ‘부터’ 또는 대시가 그 역할을 합니다: 10부터 20 mm, 또는 10–20 mm. 그리고 단위 이름이 사람의 이름을 따르지 않는 한 소문자로 쓴다: 5 m, 5 kg, 5 mol, 그러나 앰페르는 5 A, 켈빈은 5 K, 섭씨온도는 5 °C.",
       "examples": [
-        "도면이 범위를 나타낼 때 허용값은 ±20 mm가 아니라 10–20 mm입니다.",
-        "5 m이라고 쓰고 5 m.이라고 쓰지 마십시오. — 마침표는 문장에 속합니다.",
-        "단위는 사람의 이름을 따르는 경우를 제외하면 소문자로 씁니다: 5 A이지 5 a가 아닙니다."
+        "도면이 범위를 나타낼 때 허용차는 ±20 mm가 아니라 10~20 mm입니다.",
+        "5 m이라고 쓰세요. 5 m이 아니라. — 마침표는 문장에 속합니다.",
+        "단위는 사람 이름을 따는 경우를 제외하고 소문자로 쓴다: 5 a가 아니라 5 A."
       ],
       "heading": "측정의 문법",
       "terms": [
         {
           "example": "허용차는 ±0.1 mm입니다.",
-          "gloss": "측정값이 공칭값에서 허용되는 범위만큼 달라질 수 있는 정도."
+          "gloss": "측정값이 공칭값에서 허용되는 범위 내에서 차이 나는 정도."
         },
         {
-          "example": "공칭 지름은 12 mm이며 허용차는 ±0.1 mm입니다.",
-          "gloss": "허용차를 적용하기 전에 부품이 제작되는 기준값."
+          "example": "공칭 직경은 12 mm이며 허용차는 ±0.1 mm이다.",
+          "gloss": "허용오차를 적용하기 전, 부품이 만들어질 때 지정한 값."
         }
       ]
     },
     {
-      "body": "세 단어가 기술적 의미의 대부분을 담고 있습니다. dimension은 양의 종류입니다. derived unit은 기본 단위들을 조합하여 만든 단위입니다. Dimensional homogeneity은 식이 성립될 수 있게 하는 성질입니다. 이 세 가지를 학습하면 기술 명세 English의 많은 부분이 단순한 구문 목록에서 그 자체로 적용할 수 있는 규칙의 집합으로 바뀌기 시작합니다.",
-      "heading": "단위와 함께 오는 단어",
+      "body": "대부분의 기술적 의미는 세 단어에 담겨 있다. 차원은 양의 종류이다. 유도 단위는 기본 단위를 조합하여 만든 단위입니다. 차원이 같다는 것은 애초에 방정식을 세울 수 있게 만들어 주는 성질이다. 이 세 가지를 익히면, specification 영어는 더 이상 구문 목록이 아니라 직접 적용할 수 있는 규칙의 집합이 됩니다.",
+      "heading": "단위와 함께 쓰는 말",
       "terms": [
         {
-          "example": "Length와 time은 서로 다른 dimension이므로 더할 수 없습니다.",
-          "gloss": "양의 종류: length, mass, time, electric current, temperature, amount of substance 또는 luminous intensity."
+          "example": "길이와 시간은 서로 다른 차원이므로 더할 수 없습니다.",
+          "gloss": "량의 종류: 길이, 질량, 시간, 전류, 온도, 물질의 양 또는 광도."
         },
         {
-          "example": "이 formula는 dimensional homogeneity 검사를 통과하지 못합니다.",
-          "gloss": "식의 양쪽이 같은 dimension을 갖게 하는 성질."
+          "example": "이 식은 차원의 균일성 검사를 통과하지 못한다.",
+          "gloss": "양변의 차원이 같은 방정식의 성질"
         },
         {
-          "example": "Newton은 force의 derived unit입니다.",
-          "gloss": "newton이나 joule처럼 기본 단위들을 조합하여 만든 단위."
+          "example": "뉴턴은 힘의 유도 단위입니다.",
+          "gloss": "뉴턴이나 줄처럼 기본 단위를 조합해서 만든 단위."
         }
       ]
     },
     {
-      "body": "만나는 대부분의 단위는 기본 단위가 아니라 기본 단위들을 조합하여 만들어진 단위입니다. 뉴턴은 힘의 유도 단위입니다. 1 킬로그램의 물체가 1초에 1미터씩 움직이는 경우입니다. 줄은 에너지의 유도 단위이고, 와트는 출력의 유도 단위입니다. 유도 단위 안에 있는 기본 단위들의 이름을 알 수 있게 되면, 공식은 더 이상 공식이 아니라 세상을 설명하는 문장이 됩니다.",
+      "body": "대부분의 단위는 기본 단위가 아니라 기본 단위들을 조합해 만들어진 단위입니다. 뉴턴은 힘의 파생 단위로, 1킬로그램의 물체가 1초에 1미터씩 속력을 높일 때 작용하는 힘이다. 줄은 에너지의 파생 단위이고, 와트는 전력의 파생 단위이다. 파생 단위 안에 들어 있는 기본 단위가 무엇인지 알 수 있게 되면, 공식은 더 이상 공식이 아니라 세계에 관한 문장이 되기 시작한다.",
       "examples": [
-        "힘은 뉴턴으로 측정하며, 1 뉴턴은 1 킬로그램에 1미터 매초 제곱을 곱한 값입니다.",
-        "엔진의 출력은 얼마나 세게 미는지가 아니라 일을 얼마나 빠르게 하는지를 나타냅니다."
+        "힘은뉴턴 단위로 측정하며, 1뉴턴은 1킬로그램 곱하기 1미터 나누기 1초 제곱이다.",
+        "엔진의 힘은 얼마나 강하게 미는가가 아니라, 일을 얼마나 빠르게 하는가에 있다."
       ],
-      "heading": "유도 단위와 그 안에 숨어 있는 단위"
+      "heading": "파생 단위, 그리고 그 안에 숨어 있는 단위들"
     },
     {
-      "body": "환산은 산수이고, 어떤 환산이 옳은지 결정하는 일은 공학이다. 수는 변하지만 물리량은 결코 변하지 않는다. 90 km/h를 초당 미터로 환산하면 그 답은 25 m/s이다. 그러나 그 답이 옳으려면, 페이지에 적힌 수가 이전에 의미했던 것과는 다른 의미를 갖는다는 점도 함께 밝혀야 한다. 단위 환산표는 편의를 위한 도구일 뿐이다. 그 뒤에 있는 공식이야말로 실질적인 도구이며, 그 공식은 산수 한 줄로 이루어져 있다.",
+      "body": "단위 변환은 산수이고, 어떤 변환이 옳은지 판단하는 것은 공학이다. 숫자는 변하지만, 양은 결코 변하지 않는다. 90km/h를 초당 미터로 환산하면 25m/s가 됩니다. 다만 페이지에 적힌 숫자가 이전에 의미하던 것과는 다른 것을 의미한다고 말해야만 이 답이 옳아집니다. 변환 표는 편의용 도구일 뿐이고, 그 뒤에 있는 공식이야말로 진짜 도구이며, 그 공식은 산술 한 줄로 정리됩니다.",
       "examples": [
-        "90 km/h는 25 m/s이다. 첫 번째 수는 도로에서의 속도이고, 두 번째 수는 실험실에서의 속도이다.",
-        "단위 환산표는 단지 편의일 뿐이다. 그 뒤에 있는 공식이 실질적인 도구이다."
+        "90km/h는 25m/s다. 앞의 숫자는 도로에서의 속도이고, 뒤의 숫자는 실험실에서의 속도다.",
+        "단위 변환 표는 그저 편하게 쓰기 위한 도구일 뿐입니다. 진짜 도구는 표 뒤에 있는 공식입니다."
       ],
-      "heading": "의미를 잃지 않으면서 단위 환하기"
+      "heading": "의미를 잃지 않으면서 단위 변환하기"
     },
     {
-      "body": "명세는 단위, 공칭값, 허용차를 알려 줍니다. 부품이 시험된 온도, 부품을 절단한 소재, 하중의 방향은 알려 주지 않습니다. 단위는 한 종류의 모호함을 제거할 뿐, 모든 모호함을 없애지는 않습니다. 도면과 측정값이 서로 다를 때는 변환을 바로 적용하지 말고, 먼저 조건을 확인하십시오.",
-      "heading": "명세가 알려 주지 않는 것"
+      "body": "명세서는 단위, 정격값, 허용 오차를 알려줍니다. 부품을 시험한 온도, 잘라낸 소재, 하중의 방향은 알려주지 않는다. 단위는 한 종류의 모호성을 없애줄 뿐, 모든 모호성을 없애주지는 않는다. 도면과 실제 측정값이 다를 때는 변환부터 시도하지 말고, 먼저 조건을 확인하라.",
+      "heading": "명세서는 알려주지 않는 것들"
     },
     {
-      "body": "도면을 읽을 때 소리 내어 말하게 되는 문장들입니다. 이 문장들을 익혀 두면 규격 읽기가 수수께끼가 아니라 대화가 됩니다.",
+      "body": "이 문장들은 그림이 당신에게 소리 내어 말하게 하는 것이다. 이 문장들을 익혀두면, 규격서를 읽는 일이 수수께끼를 푸는 일이 아니라 대화가 된다.",
       "examples": [
-        "내경은 25 mm H7이며, 허용차는 +0.021 / 0입니다.",
-        "패널 두께는 1.5 mm이며, 결을 가로질러 측정합니다.",
-        "토크는 4 N·m이며, 교정된 렌치로 가합니다.",
-        "이 재료는 200 °C에서 연속 사용하도록 정격되어 있습니다.",
-        "Tolerance는 accuracy와 다릅니다. 도면은 허용되는 범위를 말하고, 측정값은 실제 얻은 결과를 말합니다."
+        "구멍 지름은 25 mm H7이며, 허용차는 +0.021/0입니다.",
+        "패널 두께는 결을 가로질러 측정했을 때 1.5mm입니다.",
+        "Torque는 4 N·m이며, 교정된 렌치로 가해졌습니다.",
+        "이 재질은 연속 사용 온도가 200℃입니다.",
+        "허용 오차는 정확도가 아닙니다. 그림은 허용되는 범위를, 측정값은 실제로 얻은 결과를 말해 줍니다."
       ],
-      "heading": "도면을 읽을 때 재사용할 수 있는 문장"
+      "heading": "그림을 읽을 때 다시 쓸 수 있는 문장들"
     }
   ],
-  "summary": "단위가 없는 수는 측정값이 아니며, 양변의 단위가 일치하지 않는 식은 공식이 아니다. 이 글을 읽으면 일곱 개의 기본 단위를 말할 수 있고, 도면에서 기대하는 방식으로 측정값을 표기할 수 있으며, 차원 분석으로 공식을 검사할 수 있고, 변환된 숫자가 산술적으로는 맞아도 의미적으로는 틀릴 수 있는 이유를 설명할 수 있습니다.",
+  "summary": "단위가 없는 수는 측정값이 아니며, 양변의 단위가 일치하지 않는 식은 올바른 식이 아니다. 이를 읽은 뒤에는 일곱 개의 기본 단위를 말할 수 있고, 그림에서 요구하는 방식으로 측정값을 표현할 수 있으며, 차원 분석으로 식을 확인할 수 있고, 변환된 수가 산술적으로는 맞아도 의미상으로는 틀릴 수 있는 이유를 설명할 수 있다.",
   "title": "단위, 차원 및 차원 분석"
 }

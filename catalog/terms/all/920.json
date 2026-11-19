@@ -1,566 +1,565 @@
 {
   "items": [
     {
-      "definition": "The SI unit of force.",
-      "dictionaryId": "lex.sa.en.newton.noun",
-      "example": "Newton’s second law, mechanical energy, Ohm’s law, and a travelling wave are written below.",
-      "fieldId": "physics",
-      "id": "si_newton",
+      "definition": "The spirit and the confidence of a force; the strength it holds when things go badly.",
+      "dictionaryId": "lex.sa.mind.war_morale",
+      "example": "Morale fell as the third convoy did not arrive.",
+      "fieldId": "mind",
+      "id": "war_morale",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_theory_of_war"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.mind.war_theory"
       ],
-      "term": "newton"
+      "term": "Morale"
+    },
+    {
+      "definition": "The yearly price of borrowing on the card, with most fees included. It is the number to compare two cards by.",
+      "dictionaryId": "lex.sa.money.apr",
+      "example": "This card has a 24 % APR, which is about 0.066 % a day.",
+      "fieldId": "money",
+      "id": "apr",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "APR (annual percentage rate)"
+    },
+    {
+      "definition": "The most the bank will let you borrow on the card at one time. Going over it is usually refused and sometimes charged.",
+      "dictionaryId": "lex.sa.money.credit_limit",
+      "example": "My credit limit is 2000 $, and I use about 600 $ of it.",
+      "fieldId": "money",
+      "id": "credit_limit",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Credit limit"
+    },
+    {
+      "definition": "The period between two statements. Everything bought in one cycle appears on the next statement.",
+      "dictionaryId": "lex.sa.money.billing_cycle",
+      "example": "The billing cycle closes on the 12th, so my groceries appear on the 12th statement.",
+      "fieldId": "money",
+      "id": "billing_cycle",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Billing cycle"
+    },
+    {
+      "definition": "The days between the statement date and the due date, during which you can pay in full without interest.",
+      "dictionaryId": "lex.sa.money.grace_period",
+      "example": "If I pay the statement balance inside the grace period, I pay no interest.",
+      "fieldId": "money",
+      "id": "grace_period",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Grace period"
+    },
+    {
+      "definition": "The smallest monthly sum the card will accept. Paying only this keeps the balance, and the interest, alive.",
+      "dictionaryId": "lex.sa.money.minimum_payment",
+      "example": "The minimum payment is 25 $, so the rest of the balance stays on the card.",
+      "fieldId": "money",
+      "id": "minimum_payment",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Minimum payment"
+    },
+    {
+      "definition": "The charge the bank makes for a late payment, on top of any penalty rate and any loss of your good history.",
+      "dictionaryId": "lex.sa.money.overdue_fee",
+      "example": "The late payment cost me a 35 $ overdue fee and my standard rate went up.",
+      "fieldId": "money",
+      "id": "overdue_fee",
+      "lessonIds": [
+        "article_credit_cards"
+      ],
+      "packs": [
+        "knw.money.credit"
+      ],
+      "term": "Overdue fee"
+    },
+    {
+      "definition": "The percentage change in the general level of prices over a period of time, usually a year.",
+      "dictionaryId": "lex.sa.money.inflation_rate",
+      "example": "The annual inflation rate was 4 %, so prices rose 4 % on average.",
+      "fieldId": "money",
+      "id": "inflation_rate",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Inflation rate"
+    },
+    {
+      "definition": "The standard index of the price of a basket of goods and services bought by households. Its change over time is the headline inflation rate.",
+      "dictionaryId": "lex.sa.money.consumer_price_index",
+      "example": "The consumer price index is the number the news report quotes.",
+      "fieldId": "money",
+      "id": "consumer_price_index",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Consumer price index (CPI)"
+    },
+    {
+      "definition": "The year the price index starts from, set to 100. Changing it resets the index without changing any actual prices.",
+      "dictionaryId": "lex.sa.money.base_year",
+      "example": "With last year as the base year, the index now stands at 104.",
+      "fieldId": "money",
+      "id": "base_year",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Base year"
+    },
+    {
+      "definition": "Income measured in the money actually received, with no adjustment for changes in prices.",
+      "dictionaryId": "lex.sa.money.nominal_income",
+      "example": "My nominal income rose, but not as fast as prices.",
+      "fieldId": "money",
+      "id": "nominal_income",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Nominal income"
+    },
+    {
+      "definition": "Income adjusted for inflation, which is the figure that says how much you can actually buy.",
+      "dictionaryId": "lex.sa.money.real_income",
+      "example": "Real income fell two per cent because prices rose faster than my pay.",
+      "fieldId": "money",
+      "id": "real_income",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Real income"
+    },
+    {
+      "definition": "The interest rate minus the inflation rate. It is the return a saver actually keeps in purchasing power.",
+      "dictionaryId": "lex.sa.money.real_interest_rate",
+      "example": "A 4 % deposit with 6 % inflation gives a real interest rate of minus 2 %.",
+      "fieldId": "money",
+      "id": "real_interest_rate",
+      "lessonIds": [
+        "article_inflation"
+      ],
+      "packs": [
+        "knw.money.inflation"
+      ],
+      "term": "Real interest rate"
+    },
+    {
+      "definition": "Total pay for the period before any money is deducted for tax, insurance or other agreed deductions.",
+      "dictionaryId": "lex.sa.money.gross_pay",
+      "example": "My gross pay is 40 $ a month, before anything is taken off.",
+      "fieldId": "money",
+      "id": "gross_pay",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Gross pay"
+    },
+    {
+      "definition": "The amount left after all deductions, and the amount that reaches your bank account.",
+      "dictionaryId": "lex.sa.money.net_pay",
+      "example": "The difference between my gross and my net is mostly tax and insurance.",
+      "fieldId": "money",
+      "id": "net_pay",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Net pay"
+    },
+    {
+      "definition": "Any amount taken off gross pay before payment, whether required by law or agreed with you.",
+      "dictionaryId": "lex.sa.money.deduction",
+      "example": "The canteen charge is a deduction, so it comes out before my net pay.",
+      "fieldId": "money",
+      "id": "deduction",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Deduction"
+    },
+    {
+      "definition": "Income tax taken out of your pay in advance by the employer. It is not your final tax bill.",
+      "dictionaryId": "lex.sa.money.tax_withholding",
+      "example": "The tax withheld this month was higher because my bonus was large.",
+      "fieldId": "money",
+      "id": "tax_withholding",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Tax withheld"
+    },
+    {
+      "definition": "The compulsory payment into the social insurance system that covers sickness, maternity, accidents and retirement.",
+      "dictionaryId": "lex.sa.money.social_insurance",
+      "example": "My social insurance contribution is a percentage of my gross pay.",
+      "fieldId": "money",
+      "id": "social_insurance",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Social insurance contribution"
+    },
+    {
+      "definition": "Money you paid for work that the company owes you back. It almost always needs a receipt and a deadline.",
+      "dictionaryId": "lex.sa.money.expense_claim",
+      "example": "I submitted the taxi receipts as an expense claim on Friday.",
+      "fieldId": "money",
+      "id": "expense_claim",
+      "lessonIds": [
+        "article_salary_expenses"
+      ],
+      "packs": [
+        "knw.money.salary"
+      ],
+      "term": "Expense claim"
+    },
+    {
+      "definition": "The amount in the account at the start of the statement period. Every figure that follows is measured from it.",
+      "dictionaryId": "lex.sa.money.opening_balance",
+      "example": "The opening balance was 500 $, so the first transaction was charged against that.",
+      "fieldId": "money",
+      "id": "opening_balance",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Opening balance"
+    },
+    {
+      "definition": "The amount in the account at the end of the statement period, after every transaction in it.",
+      "dictionaryId": "lex.sa.money.closing_balance",
+      "example": "The closing balance is 420 $, which is 80 $ more than the opening balance.",
+      "fieldId": "money",
+      "id": "closing_balance",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Closing balance"
+    },
+    {
+      "definition": "Money leaving the account. On a statement it is usually shown with a minus sign or in a column headed money out.",
+      "dictionaryId": "lex.sa.money.debit",
+      "example": "The debit for the supermarket is 64 $, so that is the debit column, not the credit column.",
+      "fieldId": "money",
+      "id": "debit",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Debit"
+    },
+    {
+      "definition": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
+      "dictionaryId": "lex.sa.money.credit",
+      "example": "The credit of 1200 $ on the 15th is my salary.",
+      "fieldId": "money",
+      "id": "credit",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Credit"
+    },
+    {
+      "definition": "A payment a company is authorised to take from your account on a date, without asking you again each time.",
+      "dictionaryId": "lex.sa.money.direct_debit",
+      "example": "The electricity bill is a direct debit, so it leaves my account on the 10th every month.",
+      "fieldId": "money",
+      "id": "direct_debit",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Direct debit"
+    },
+    {
+      "definition": "A fixed amount you authorise to be paid on a schedule, whether or not the underlying bill is the same each month.",
+      "dictionaryId": "lex.sa.money.standing_order",
+      "example": "I have a standing order to my landlord for the rent, and a direct debit for the utilities.",
+      "fieldId": "money",
+      "id": "standing_order",
+      "lessonIds": [
+        "article_bills_statements"
+      ],
+      "packs": [
+        "knw.money.statements"
+      ],
+      "term": "Standing order"
+    },
+    {
+      "definition": "The money of a country: its notes, its coins, and the rules that govern them.",
+      "dictionaryId": "lex.sa.money.mon_currency",
+      "example": "The shop takes only the local currency.",
+      "fieldId": "money",
+      "id": "mon_currency",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Currency"
+    },
+    {
+      "definition": "The job money does when it is used to pay for something instead of trading goods for goods.",
+      "dictionaryId": "lex.sa.money.mon_medium_of_exchange",
+      "example": "The bus ticket is a medium of exchange: the fare buys the ride.",
+      "fieldId": "money",
+      "id": "mon_medium_of_exchange",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Medium of exchange"
+    },
+    {
+      "definition": "The job money does when it is the common measure of what things cost.",
+      "dictionaryId": "lex.sa.money.mon_unit_of_account",
+      "example": "At 3 $ the coffee and 2 $ the ticket, the unit of account makes the two prices comparable.",
+      "fieldId": "money",
+      "id": "mon_unit_of_account",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Unit of account"
+    },
+    {
+      "definition": "The job money does when it keeps its value over time, so a payment can be made today for something received later.",
+      "dictionaryId": "lex.sa.money.mon_store_of_value",
+      "example": "The balance in the account is a store of value for the bill that arrives next month.",
+      "fieldId": "money",
+      "id": "mon_store_of_value",
+      "lessonIds": [
+        "article_what_money_is"
+      ],
+      "packs": [
+        "knw.money.what_money_is"
+      ],
+      "term": "Store of value"
     },
     {
       "conflict": true,
-      "definition": "The capacity to do work or cause change.",
-      "dictionaryId": "lex.sa.en.energy.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_energy",
+      "definition": "Money arriving in the account, such as a salary or a refund. On a statement it is usually shown with a plus sign.",
+      "dictionaryId": "lex.sa.money.credit",
+      "example": "The credit of 1200 $ on the 15th is my salary.",
+      "fieldId": "money",
+      "id": "mon_credit",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.money.what_money_is"
       ],
-      "term": "energy"
+      "term": "Credit"
     },
     {
-      "definition": "The speed of a body together with its direction.",
-      "dictionaryId": "lex.sa.en.velocity.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_velocity",
+      "definition": "The public body with the right to issue the currency of a country.",
+      "dictionaryId": "lex.sa.money.mon_central_bank",
+      "example": "The central bank raises its interest rate when prices rise too fast.",
+      "fieldId": "money",
+      "id": "mon_central_bank",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.money.what_money_is"
       ],
-      "term": "velocity"
+      "term": "Central bank"
     },
     {
-      "definition": "Matter of a definite kind and composition.",
-      "dictionaryId": "lex.sa.en.substance.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_substance",
+      "definition": "The gain a state earns from issuing money.",
+      "dictionaryId": "lex.sa.money.mon_seigniorage",
+      "example": "The state's gain from a new note is seigniorage, because the note costs less to make than it buys.",
+      "fieldId": "money",
+      "id": "mon_seigniorage",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.money.what_money_is"
       ],
-      "term": "substance"
+      "term": "Seigniorage"
     },
     {
-      "definition": "A written sign that stands for a quantity or an idea.",
-      "dictionaryId": "lex.sa.en.symbol.noun",
-      "example": "Read the symbol, then the English name.",
-      "fieldId": "physics",
-      "id": "si_symbol",
+      "definition": "The value of what a person owns, after what the person owes.",
+      "dictionaryId": "lex.sa.money.mon_wealth",
+      "example": "The van and the tools are wealth; the loan on the van is not.",
+      "fieldId": "money",
+      "id": "mon_wealth",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.money.what_money_is"
       ],
-      "term": "symbol"
+      "term": "Wealth"
     },
     {
-      "definition": "A short piece of text naming an item.",
-      "dictionaryId": "lex.sa.en.label.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_label",
+      "definition": "An amount measured at one moment, such as the balance on an account today.",
+      "dictionaryId": "lex.sa.money.mon_stock",
+      "example": "The stock is 800 $ today, whatever the monthly flow was.",
+      "fieldId": "money",
+      "id": "mon_stock",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.money.what_money_is"
       ],
-      "term": "label"
+      "term": "Stock"
     },
     {
-      "conflict": true,
-      "definition": "A level of quality or a rule of conduct.",
-      "dictionaryId": "lex.sa.en.standard.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_standard",
+      "definition": "The continuous motion of a fluid.",
+      "dictionaryId": "lex.sa.en.flow.noun",
+      "example": "A flow of 2 000 $ a month leaves a stock of 300 $ after the bills.",
+      "fieldId": "money",
+      "id": "mon_flow",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.money.what_money_is"
       ],
-      "term": "standard"
+      "term": "flow"
     },
     {
-      "definition": "A wrong result or a report of a fault.",
-      "dictionaryId": "lex.sa.en.error.noun",
-      "example": "",
-      "fieldId": "physics",
-      "id": "si_error",
+      "definition": "A figure measured in the money as printed, with no adjustment for prices.",
+      "dictionaryId": "lex.sa.money.mon_nominal",
+      "example": "The nominal salary is 2 000 $, which is not the same as what it buys.",
+      "fieldId": "money",
+      "id": "mon_nominal",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.money.what_money_is"
       ],
-      "term": "error"
+      "term": "Nominal"
     },
     {
-      "definition": "An illustration, or a numerical value.",
-      "dictionaryId": "lex.sa.en.figure.noun",
-      "example": "Use this when the title names one figure.",
-      "fieldId": "physics",
-      "id": "si_figure",
+      "definition": "True to fact; not a simulation.",
+      "dictionaryId": "lex.sa.en.real.adjective",
+      "example": "With prices rising, the real value of the 2 000 $ falls while the ticket still says 2 000 $.",
+      "fieldId": "money",
+      "id": "mon_real",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.money.what_money_is"
       ],
-      "term": "figure"
+      "term": "real"
     },
     {
-      "definition": "The card or phone screen that lets you board the aircraft. It carries your name, the flight, the gate, the seat and the boarding time.",
-      "dictionaryId": "lex.sa.travel.boarding_pass",
-      "example": "Show your boarding pass at the gate and find your seat.",
-      "fieldId": "travel",
-      "id": "boarding_pass",
+      "definition": "A tax that is already counted inside the price you read.",
+      "dictionaryId": "lex.sa.money.mon_tax_in_price",
+      "example": "The ticket at 11 $ includes 1 $ of tax in the price, and the receipt does not show it separately.",
+      "fieldId": "money",
+      "id": "mon_tax_in_price",
       "lessonIds": [
-        "article_airport"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.money.what_money_is"
       ],
-      "term": "Boarding pass"
+      "term": "Tax in the price"
     },
     {
-      "definition": "The secure part of the airport where you wait for a connecting flight. You cannot leave it without a new ticket.",
-      "dictionaryId": "lex.sa.travel.transit_area",
-      "example": "My flight is delayed, so I am stuck in the transit area.",
-      "fieldId": "travel",
-      "id": "transit_area",
+      "definition": "The difference between the price a shop buys at and the price it sells at.",
+      "dictionaryId": "lex.sa.money.mon_spread",
+      "example": "The spread between the producer's price and the shelf price is already inside what you pay.",
+      "fieldId": "money",
+      "id": "mon_spread",
       "lessonIds": [
-        "article_airport"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.money.what_money_is"
       ],
-      "term": "Transit area"
+      "term": "Spread"
     },
     {
-      "definition": "The door onto the aircraft, identified by a letter and a number, for example B22. It is assigned late and can change.",
-      "dictionaryId": "lex.sa.travel.departure_gate",
-      "example": "My gate has changed from B22 to C4.",
-      "fieldId": "travel",
-      "id": "departure_gate",
+      "definition": "A fixed charge for a service, such as a card payment or a bank transfer.",
+      "dictionaryId": "lex.sa.money.mon_fee",
+      "example": "The bank fee for the transfer is 2 $ every time, whatever the amount transferred.",
+      "fieldId": "money",
+      "id": "mon_fee",
       "lessonIds": [
-        "article_airport"
+        "article_what_money_is"
       ],
       "packs": [
-        "knw.travel.airport"
+        "knw.money.what_money_is"
       ],
-      "term": "Departure gate"
-    },
-    {
-      "definition": "The area where the belt for your flight delivers your suitcase. The belt number is shown on the screens above it.",
-      "dictionaryId": "lex.sa.travel.baggage_claim",
-      "example": "Your bag is on belt 7, and it has been there for ten minutes.",
-      "fieldId": "travel",
-      "id": "baggage_claim",
-      "lessonIds": [
-        "article_airport"
-      ],
-      "packs": [
-        "knw.travel.airport"
-      ],
-      "term": "Baggage claim"
-    },
-    {
-      "definition": "A connection between two flights at the same airport, without going through the city in between.",
-      "dictionaryId": "lex.sa.travel.transfer",
-      "example": "I have a two-hour transfer in Singapore.",
-      "fieldId": "travel",
-      "id": "transfer",
-      "lessonIds": [
-        "article_airport"
-      ],
-      "packs": [
-        "knw.travel.airport"
-      ],
-      "term": "Transfer"
-    },
-    {
-      "definition": "The checkpoint where bags and people are checked before entering the secure part of the airport.",
-      "dictionaryId": "lex.sa.travel.security_screening",
-      "example": "Security screening starts at the end of this corridor.",
-      "fieldId": "travel",
-      "id": "security_screening",
-      "lessonIds": [
-        "article_airport"
-      ],
-      "packs": [
-        "knw.travel.airport"
-      ],
-      "term": "Security screening"
-    },
-    {
-      "definition": "The rule limiting containers of liquid in hand baggage, usually to 100 ml each in a clear bag.",
-      "dictionaryId": "lex.sa.travel.liquids_rule",
-      "example": "My bottle is 500 ml, so I have to empty it before screening.",
-      "fieldId": "travel",
-      "id": "liquids_rule",
-      "lessonIds": [
-        "article_airport"
-      ],
-      "packs": [
-        "knw.travel.airport"
-      ],
-      "term": "Liquids rule"
-    },
-    {
-      "definition": "The border desk where an officer checks your passport and your right to enter or leave the country.",
-      "dictionaryId": "lex.sa.travel.passport_control",
-      "example": "Passport control is straight ahead, and baggage claim is on the left.",
-      "fieldId": "travel",
-      "id": "passport_control",
-      "lessonIds": [
-        "article_airport"
-      ],
-      "packs": [
-        "knw.travel.airport"
-      ],
-      "term": "Passport control"
-    },
-    {
-      "definition": "The place where you declare goods over the allowance. Most travellers use the green or white channel for nothing to declare.",
-      "dictionaryId": "lex.sa.travel.customs",
-      "example": "Do I go through the red channel if I bought two bottles of wine?",
-      "fieldId": "travel",
-      "id": "customs",
-      "lessonIds": [
-        "article_airport"
-      ],
-      "packs": [
-        "knw.travel.airport"
-      ],
-      "term": "Customs"
-    },
-    {
-      "definition": "The moment you take the room, normally from 14:00 or 15:00. Before it, the hotel usually stores your luggage free of charge.",
-      "dictionaryId": "lex.sa.travel.check_in",
-      "example": "Check-in is from 14:00, but I can leave my bags with you in the morning.",
-      "fieldId": "travel",
-      "id": "check_in",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Check-in"
-    },
-    {
-      "definition": "The card or fob that opens your door. In many hotels it also works as your room number, your lift pass and your breakfast voucher.",
-      "dictionaryId": "lex.sa.travel.room_key",
-      "example": "Could I have a second key card for my colleague?",
-      "fieldId": "travel",
-      "id": "room_key",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Room key"
-    },
-    {
-      "definition": "A sum held on your card, or taken in cash, to cover extras and damage. It is released after you leave.",
-      "dictionaryId": "lex.sa.travel.deposit",
-      "example": "We hold a deposit of 200 on your card for the minibar and the safe.",
-      "fieldId": "travel",
-      "id": "deposit",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Deposit"
-    },
-    {
-      "definition": "Giving the room back and paying the final bill, usually between 10:00 and 12:00. Late check-out can often be arranged.",
-      "dictionaryId": "lex.sa.travel.checkout",
-      "example": "Can I check out at 14:00 instead of 11:00? My flight is at 17:00.",
-      "fieldId": "travel",
-      "id": "checkout",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Check-out"
-    },
-    {
-      "definition": "Free storage of bags before check-in or after check-out, which lets you use the city without carrying a suitcase.",
-      "dictionaryId": "lex.sa.travel.luggage_storage",
-      "example": "Could you store my luggage until my flight in the evening?",
-      "fieldId": "travel",
-      "id": "luggage_storage",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Luggage storage"
-    },
-    {
-      "definition": "The team that cleans the rooms, changes the linen and takes away used towels.",
-      "dictionaryId": "lex.sa.travel.housekeeping",
-      "example": "Could housekeeping bring two more towels, please?",
-      "fieldId": "travel",
-      "id": "housekeeping",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Housekeeping"
-    },
-    {
-      "definition": "The staff member who arranges tickets, tours, taxis, doctors and anything else the hotel does not sell itself.",
-      "dictionaryId": "lex.sa.travel.concierge",
-      "example": "The concierge booked a table at a restaurant that was fully booked.",
-      "fieldId": "travel",
-      "id": "concierge",
-      "lessonIds": [
-        "article_hotel"
-      ],
-      "packs": [
-        "knw.travel.hotel"
-      ],
-      "term": "Concierge"
-    },
-    {
-      "definition": "The list of dishes a kitchen offers, with prices and short descriptions.",
-      "dictionaryId": "lex.sa.travel.menu",
-      "example": "Could we see the menu, please?",
-      "fieldId": "travel",
-      "id": "menu",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "Menu"
-    },
-    {
-      "definition": "A starter, a main course and a dessert sold together at a single price. Often the cheapest and most predictable choice.",
-      "dictionaryId": "lex.sa.travel.set_menu",
-      "example": "I will take the set menu, please.",
-      "fieldId": "travel",
-      "id": "set_menu",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "Set menu"
-    },
-    {
-      "definition": "The small first course, such as soup, a salad or fried snacks.",
-      "dictionaryId": "lex.sa.travel.starter",
-      "example": "As a starter, I will have the soup.",
-      "fieldId": "travel",
-      "id": "starter",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "Starter"
-    },
-    {
-      "definition": "The main dish of the meal, usually the largest and most expensive item.",
-      "dictionaryId": "lex.sa.travel.main_course",
-      "example": "What would you recommend for the main course?",
-      "fieldId": "travel",
-      "id": "main_course",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "Main course"
-    },
-    {
-      "definition": "The sweet course at the end of the meal, or the sweet things served with coffee.",
-      "dictionaryId": "lex.sa.travel.dessert",
-      "example": "Do you have any sugar-free desserts?",
-      "fieldId": "travel",
-      "id": "dessert",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "Dessert"
-    },
-    {
-      "definition": "A rule you follow about what you eat, often religious or ethical, such as halal, kosher, vegetarian or vegan.",
-      "dictionaryId": "lex.sa.travel.dietary_restriction",
-      "example": "Do you have any halal dishes that do not contain pork?",
-      "fieldId": "travel",
-      "id": "dietary_restriction",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "Dietary restriction"
-    },
-    {
-      "definition": "The list of what you ordered and what you owe. In America it is called the check.",
-      "dictionaryId": "lex.sa.travel.bill",
-      "example": "Could we have the bill, please? Is service included?",
-      "fieldId": "travel",
-      "id": "bill",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "Bill"
-    },
-    {
-      "definition": "A percentage added to the bill for service, usually 10 % or 15 %. When it is included, tipping again is not expected.",
-      "dictionaryId": "lex.sa.travel.service_charge",
-      "example": "The service charge is already on the bill, so we will just round it up.",
-      "fieldId": "travel",
-      "id": "service_charge",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "Service charge"
-    },
-    {
-      "definition": "A small piece of useful advice.",
-      "dictionaryId": "lex.sa.en.tip.noun",
-      "example": "A tip callout uses the green primary container.",
-      "fieldId": "travel",
-      "id": "tip",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "tip"
-    },
-    {
-      "definition": "Food bought from a stall or a small kitchen at the roadside. It is usually cheap, quick and freshly cooked, but the hygiene is worth watching.",
-      "dictionaryId": "lex.sa.travel.street_food",
-      "example": "Let us get something from a street stall near the station instead of waiting for a table.",
-      "fieldId": "travel",
-      "id": "street_food",
-      "lessonIds": [
-        "article_ordering_food"
-      ],
-      "packs": [
-        "knw.travel.ordering"
-      ],
-      "term": "Street food"
-    },
-    {
-      "definition": "The official office of your country in another country. It issues your passport and provides consular help.",
-      "dictionaryId": "lex.sa.travel.embassy",
-      "example": "The embassy gave me an emergency document the same morning.",
-      "fieldId": "travel",
-      "id": "embassy",
-      "lessonIds": [
-        "article_lost_passport"
-      ],
-      "packs": [
-        "knw.travel.passport"
-      ],
-      "term": "Embassy"
-    },
-    {
-      "definition": "A smaller embassy office in a city other than the capital, serving a region. It does the same passport work.",
-      "dictionaryId": "lex.sa.travel.consulate",
-      "example": "There is no embassy here, only a consulate, and it opens at nine.",
-      "fieldId": "travel",
-      "id": "consulate",
-      "lessonIds": [
-        "article_lost_passport"
-      ],
-      "packs": [
-        "knw.travel.passport"
-      ],
-      "term": "Consulate"
-    },
-    {
-      "definition": "A short-validity passport issued so you can return home, often same day. It normally allows one or two journeys.",
-      "dictionaryId": "lex.sa.travel.emergency_travel_document",
-      "example": "The emergency travel document is valid for this flight and one return.",
-      "fieldId": "travel",
-      "id": "emergency_travel_document",
-      "lessonIds": [
-        "article_lost_passport"
-      ],
-      "packs": [
-        "knw.travel.passport"
-      ],
-      "term": "Emergency travel document"
-    },
-    {
-      "definition": "The written record the local police make about a loss or theft. Most embassies require one before issuing any document.",
-      "dictionaryId": "lex.sa.travel.police_report",
-      "example": "Here is my police report; the reference number is on the first page.",
-      "fieldId": "travel",
-      "id": "police_report",
-      "lessonIds": [
-        "article_lost_passport"
-      ],
-      "packs": [
-        "knw.travel.passport"
-      ],
-      "term": "Police report"
-    },
-    {
-      "definition": "The official declaration that a document has been lost. It is what cancels the old document in the issuing country's records.",
-      "dictionaryId": "lex.sa.travel.loss_report",
-      "example": "I have already filed the loss report for my passport.",
-      "fieldId": "travel",
-      "id": "loss_report",
-      "lessonIds": [
-        "article_lost_passport"
-      ],
-      "packs": [
-        "knw.travel.passport"
-      ],
-      "term": "Loss report"
+      "term": "Fee"
     }
   ],
   "nextCursor": "960",

@@ -1,565 +1,570 @@
 {
   "items": [
     {
-      "definition": "Sending occasional messages to keep someone interested while never making any real plan.",
-      "dictionaryId": "lex.sa.social.breadcrumbing",
-      "example": "He messages me every few days but has never once suggested meeting.",
-      "fieldId": "social",
-      "id": "breadcrumbing",
+      "definition": "A percentage added to the bill for service, usually 10 % or 15 %. When it is included, tipping again is not expected.",
+      "dictionaryId": "lex.sa.travel.service_charge",
+      "example": "The service charge is already on the bill, so we will just round it up.",
+      "fieldId": "travel",
+      "id": "service_charge",
       "lessonIds": [
-        "article_dating_expressions"
+        "article_ordering_food"
       ],
       "packs": [
-        "knw.social.dating"
+        "knw.travel.ordering"
       ],
-      "term": "Breadcrumbing"
+      "term": "Service charge"
     },
     {
-      "definition": "Someone you were in a relationship with and are no longer in one.",
-      "dictionaryId": "lex.sa.social.ex",
-      "example": "My ex and I still share a group of friends, so we keep it simple.",
-      "fieldId": "social",
-      "id": "ex",
+      "definition": "A small piece of useful advice.",
+      "dictionaryId": "lex.sa.en.tip.noun",
+      "example": "A tip callout uses the green primary container.",
+      "fieldId": "travel",
+      "id": "tip",
       "lessonIds": [
-        "article_dating_expressions"
+        "article_ordering_food"
       ],
       "packs": [
-        "knw.social.dating"
+        "knw.travel.ordering"
       ],
-      "term": "Ex"
+      "term": "tip"
     },
     {
-      "definition": "When one person's behaviour and words point in different directions, usually because they are unsure or unwilling to say where things stand.",
-      "dictionaryId": "lex.sa.social.mixed_signals",
-      "example": "He texts every day but has cancelled three plans — those are mixed signals.",
-      "fieldId": "social",
-      "id": "mixed_signals",
+      "definition": "Food bought from a stall or a small kitchen at the roadside. It is usually cheap, quick and freshly cooked, but the hygiene is worth watching.",
+      "dictionaryId": "lex.sa.travel.street_food",
+      "example": "Let us get something from a street stall near the station instead of waiting for a table.",
+      "fieldId": "travel",
+      "id": "street_food",
       "lessonIds": [
-        "article_dating_expressions"
+        "article_ordering_food"
       ],
       "packs": [
-        "knw.social.dating"
+        "knw.travel.ordering"
       ],
-      "term": "Mixed signals"
+      "term": "Street food"
+    },
+    {
+      "definition": "The official office of your country in another country. It issues your passport and provides consular help.",
+      "dictionaryId": "lex.sa.travel.embassy",
+      "example": "The embassy gave me an emergency document the same morning.",
+      "fieldId": "travel",
+      "id": "embassy",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Embassy"
+    },
+    {
+      "definition": "A smaller embassy office in a city other than the capital, serving a region. It does the same passport work.",
+      "dictionaryId": "lex.sa.travel.consulate",
+      "example": "There is no embassy here, only a consulate, and it opens at nine.",
+      "fieldId": "travel",
+      "id": "consulate",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Consulate"
+    },
+    {
+      "definition": "A short-validity passport issued so you can return home, often same day. It normally allows one or two journeys.",
+      "dictionaryId": "lex.sa.travel.emergency_travel_document",
+      "example": "The emergency travel document is valid for this flight and one return.",
+      "fieldId": "travel",
+      "id": "emergency_travel_document",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Emergency travel document"
+    },
+    {
+      "definition": "The written record the local police make about a loss or theft. Most embassies require one before issuing any document.",
+      "dictionaryId": "lex.sa.travel.police_report",
+      "example": "Here is my police report; the reference number is on the first page.",
+      "fieldId": "travel",
+      "id": "police_report",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Police report"
+    },
+    {
+      "definition": "The official declaration that a document has been lost. It is what cancels the old document in the issuing country's records.",
+      "dictionaryId": "lex.sa.travel.loss_report",
+      "example": "I have already filed the loss report for my passport.",
+      "fieldId": "travel",
+      "id": "loss_report",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Loss report"
+    },
+    {
+      "definition": "The general help your embassy gives to its own citizens abroad, including lost documents, medical emergencies and legal problems.",
+      "dictionaryId": "lex.sa.travel.consular_assistance",
+      "example": "They put me in contact with consular assistance straight away.",
+      "fieldId": "travel",
+      "id": "consular_assistance",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Consular assistance"
+    },
+    {
+      "definition": "A new full passport issued after the old one is reported lost. It takes longer than an emergency document but works normally.",
+      "dictionaryId": "lex.sa.travel.replacement_passport",
+      "example": "The replacement passport will be ready in five working days.",
+      "fieldId": "travel",
+      "id": "replacement_passport",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Replacement passport"
+    },
+    {
+      "definition": "A policy that covers things like medical care, cancellation, lost documents and the cost of an emergency replacement passport.",
+      "dictionaryId": "lex.sa.travel.travel_insurance",
+      "example": "My travel insurance covers the emergency document and two extra hotel nights.",
+      "fieldId": "travel",
+      "id": "travel_insurance",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Travel insurance"
+    },
+    {
+      "definition": "A set of photocopies or photographs of your identity documents, kept apart from the originals, so they can be replaced quickly.",
+      "dictionaryId": "lex.sa.travel.document_copies",
+      "example": "I keep a copy of my passport at home and one in my email.",
+      "fieldId": "travel",
+      "id": "document_copies",
+      "lessonIds": [
+        "article_lost_passport"
+      ],
+      "packs": [
+        "knw.travel.passport"
+      ],
+      "term": "Document copies"
+    },
+    {
+      "definition": "The first number of a negotiation, which every later number is measured against.",
+      "dictionaryId": "lex.sa.work.dpn_anchoring",
+      "example": "The seller opened at 120,000, and every figure after that was measured against it.",
+      "fieldId": "work",
+      "id": "dpn_anchoring",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Anchoring"
+    },
+    {
+      "definition": "A pressure tactic that claims the supply is limited, so that waiting looks like a loss.",
+      "dictionaryId": "lex.sa.mind.psy_scarcity",
+      "example": "The scarcity was easy to check: the shelf held six, not two.",
+      "fieldId": "work",
+      "id": "dpn_scarcity",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Scarcity"
+    },
+    {
+      "definition": "A pressure tactic that shortens the time available for checking and deciding.",
+      "dictionaryId": "lex.sa.mind.psy_urgency",
+      "example": "The urgency was built to stop a phone call: sign tonight or the price changes.",
+      "fieldId": "work",
+      "id": "dpn_urgency",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Urgency"
+    },
+    {
+      "definition": "A pressure tactic that presents the decisions of other people as evidence for your own.",
+      "dictionaryId": "lex.sa.mind.psy_social_proof",
+      "example": "The offer came with social proof: nine out of ten customers chose the larger plan.",
+      "fieldId": "work",
+      "id": "dpn_social_proof",
+      "lessonIds": [
+        "article_dark_psychology_negotiation"
+      ],
+      "packs": [
+        "knw.work.dark_psychology_negotiation"
+      ],
+      "term": "Social proof"
     },
     {
       "conflict": true,
-      "definition": "Everyone agreeing freely to something, every time. A clear no is a complete answer that needs no follow-up.",
-      "dictionaryId": "lex.sa.social.consent",
-      "example": "Consent has to be clear on both sides, and a no is always a complete answer.",
-      "fieldId": "social",
-      "id": "consent",
+      "definition": "The pressure to return a favour that the other side has given you.",
+      "dictionaryId": "lex.sa.work.dpn_reciprocity",
+      "example": "The discount was the favour, and the renewal at the same price was the bill.",
+      "fieldId": "work",
+      "id": "dpn_reciprocity",
       "lessonIds": [
-        "article_dating_expressions"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "Consent"
+      "term": "Reciprocity"
     },
     {
-      "definition": "A metaphor for the meeting of people who are looking for a partner.",
-      "dictionaryId": "lex.sa.social.dm_dating_market",
-      "example": "They talked about the dating market for an hour without saying anything about either of them.",
-      "fieldId": "social",
-      "id": "dm_dating_market",
+      "definition": "The pull of a person you like, used to move the decision away from the terms.",
+      "dictionaryId": "lex.sa.work.dpn_liking",
+      "example": "The liking did not change the price, but it changed who got the last word.",
+      "fieldId": "work",
+      "id": "dpn_liking",
       "lessonIds": [
-        "article_dating_market"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "dating market"
+      "term": "Liking"
     },
     {
-      "definition": "The group of people who are available to be chosen, counted as a group and not as individuals.",
-      "dictionaryId": "lex.sa.social.dm_supply",
-      "example": "The supply was small where she lived, and the same people kept appearing.",
-      "fieldId": "social",
-      "id": "dm_supply",
+      "definition": "The pressure to act in line with what you have already agreed or done.",
+      "dictionaryId": "lex.sa.work.dpn_commitment_consistency",
+      "example": "He had approved the budget, so the second approval came easier.",
+      "fieldId": "work",
+      "id": "dpn_commitment_consistency",
       "lessonIds": [
-        "article_dating_market"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "supply"
+      "term": "Commitment and consistency"
     },
     {
-      "definition": "The group of wishes that the people looking are trying to satisfy.",
-      "dictionaryId": "lex.sa.social.dm_demand",
-      "example": "The demand was for somebody who wanted a quiet life, and that changed who she met.",
-      "fieldId": "social",
-      "id": "dm_demand",
+      "definition": "The weight a loss carries compared with a gain of the same size.",
+      "dictionaryId": "lex.sa.work.dpn_loss_aversion",
+      "example": "The same 20,000 hurt as a loss and helped as a saving.",
+      "fieldId": "work",
+      "id": "dpn_loss_aversion",
       "lessonIds": [
-        "article_dating_market"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "demand"
+      "term": "Loss aversion"
     },
     {
-      "definition": "The treatment of a person as a product that can be valued and exchanged.",
-      "dictionaryId": "lex.sa.social.dm_commodification",
-      "example": "The whole conversation turned her into a commodity, and she left the table.",
-      "fieldId": "social",
-      "id": "dm_commodification",
+      "conflict": true,
+      "definition": "The choice of words around a fact, which changes how the fact feels.",
+      "dictionaryId": "lex.sa.work.dpn_framing",
+      "example": "The framing changed nothing: 400 a month is the same money as 4,800 a year.",
+      "fieldId": "work",
+      "id": "dpn_framing",
       "lessonIds": [
-        "article_dating_market"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "commodification"
+      "term": "Framing"
     },
     {
-      "definition": "Acting in a planned way to produce a result, rather than acting in the way that comes naturally.",
-      "dictionaryId": "lex.sa.social.dm_strategic_behaviour",
-      "example": "Strategic behaviour won him the interview; it did not make him better at the work.",
-      "fieldId": "social",
-      "id": "dm_strategic_behaviour",
+      "definition": "A small, easy agreement that is used later as the reason for a much larger one.",
+      "dictionaryId": "lex.sa.mind.psy_foot_in_the_door",
+      "example": "The free trial was the foot in the door: the yearly contract came next.",
+      "fieldId": "work",
+      "id": "dpn_foot_in_the_door",
       "lessonIds": [
-        "article_dating_market"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "strategic behaviour"
+      "term": "Foot in the door"
     },
     {
-      "definition": "The number the market metaphor assigns to a person, as if it could be measured and compared.",
-      "dictionaryId": "lex.sa.social.dm_mate_value",
-      "example": "He talked about his mate value instead of asking what she wanted.",
-      "fieldId": "social",
-      "id": "dm_mate_value",
+      "definition": "A large request made first, so that the smaller request looks reasonable.",
+      "dictionaryId": "lex.sa.work.dpn_door_in_the_face",
+      "example": "The full package at 200,000 was the door in the face, and the single machine was the real order.",
+      "fieldId": "work",
+      "id": "dpn_door_in_the_face",
       "lessonIds": [
-        "article_dating_market"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "mate value"
+      "term": "Door in the face"
     },
     {
-      "definition": "How many potential partners a person can actually meet, given where they live and how their life is arranged.",
-      "dictionaryId": "lex.sa.social.dm_market_thickness",
-      "example": "A thin market was the real problem: she kept meeting the same people.",
-      "fieldId": "social",
-      "id": "dm_market_thickness",
+      "definition": "The best deal you can make if the deal in front of you does not happen.",
+      "dictionaryId": "lex.sa.work.dpn_batna",
+      "example": "Before the meeting he wrote down his BATNA: the other supplier, the price and the date.",
+      "fieldId": "work",
+      "id": "dpn_batna",
       "lessonIds": [
-        "article_dating_market"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "market thickness"
+      "term": "BATNA"
     },
     {
-      "definition": "The capacity to say no without losing the chance of the thing you want.",
-      "dictionaryId": "lex.sa.social.dm_bargaining_power",
-      "example": "Her bargaining power came from having other plans that week.",
-      "fieldId": "social",
-      "id": "dm_bargaining_power",
+      "definition": "The price above which the deal is worse than your best alternative.",
+      "dictionaryId": "lex.sa.work.dpn_walk_away_price",
+      "example": "He set his walk-away price the week before, and he did not move it in the room.",
+      "fieldId": "work",
+      "id": "dpn_walk_away_price",
       "lessonIds": [
-        "article_dating_market"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "bargaining power"
+      "term": "Walk-away price"
     },
     {
-      "definition": "The state in which too many options make the choosing harder instead of easier.",
-      "dictionaryId": "lex.sa.social.dm_choice_overload",
-      "example": "Too many profiles, and the choosing turned into work rather than pleasure.",
-      "fieldId": "social",
-      "id": "dm_choice_overload",
+      "conflict": true,
+      "definition": "Money, time or effort that has already been spent, and which is used as a reason to continue.",
+      "dictionaryId": "lex.sa.mind.psy_sunk_cost",
+      "example": "The sunk cost of the training was the argument for staying in the job.",
+      "fieldId": "work",
+      "id": "dpn_sunk_cost",
       "lessonIds": [
-        "article_dating_market"
+        "article_dark_psychology_negotiation"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.dark_psychology_negotiation"
       ],
-      "term": "choice overload"
+      "term": "Sunk cost"
     },
     {
-      "definition": "The effort a person pays to choose among the options available.",
-      "dictionaryId": "lex.sa.social.dm_price_of_choice",
-      "example": "The price of choice was an evening spent reading instead of meeting anybody.",
-      "fieldId": "social",
-      "id": "dm_price_of_choice",
+      "definition": "A recipient added to an email and shown to everyone, so all readers can see who else has it.",
+      "dictionaryId": "lex.sa.work.cc",
+      "example": "I have copied your manager so that she knows the new date.",
+      "fieldId": "work",
+      "id": "cc",
       "lessonIds": [
-        "article_dating_market"
+        "article_professional_emails"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.emails"
       ],
-      "term": "price of choice"
+      "term": "CC (carbon copy)"
     },
     {
-      "definition": "Pairing with a person who is similar in background, position or values.",
-      "dictionaryId": "lex.sa.social.dm_homogamy",
-      "example": "Homogamy is the word for the couple who grew up in the same kind of city.",
-      "fieldId": "social",
-      "id": "dm_homogamy",
+      "definition": "A hidden recipient. The other recipients cannot see that this person has been included.",
+      "dictionaryId": "lex.sa.work.bcc",
+      "example": "I put the whole branch on BCC so nobody sees the full list.",
+      "fieldId": "work",
+      "id": "bcc",
       "lessonIds": [
-        "article_dating_market"
+        "article_professional_emails"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.emails"
       ],
-      "term": "homogamy"
+      "term": "BCC (blind carbon copy)"
     },
     {
-      "definition": "Pairing with a person who has less of a valued resource, such as income, education or position, than the chooser.",
-      "dictionaryId": "lex.sa.social.dm_hypogamy",
-      "example": "When one partner earns more, the pairing is hypogamy from one side and hypergamy from the other.",
-      "fieldId": "social",
-      "id": "dm_hypogamy",
+      "conflict": true,
+      "definition": "A file sent together with the email. It should be named clearly and referred to in the body.",
+      "dictionaryId": "lex.sa.work.attachment",
+      "example": "Please find the attachment, called Quotation-March-2026.pdf.",
+      "fieldId": "work",
+      "id": "attachment",
       "lessonIds": [
-        "article_dating_market"
+        "article_professional_emails"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.emails"
       ],
-      "term": "hypogamy"
+      "term": "Attachment"
     },
     {
-      "definition": "Pairing with a person who has more of a valued resource, such as income, education or position, than the chooser.",
-      "dictionaryId": "lex.sa.social.dm_hypergamy",
-      "example": "Hypergamy names the direction of the pairing, and the direction can be read from either side.",
-      "fieldId": "social",
-      "id": "dm_hypergamy",
+      "definition": "A task that a named person has agreed to do. In longer emails these are listed explicitly.",
+      "dictionaryId": "lex.sa.work.action_item",
+      "example": "There are two action items: sending the figures and confirming the date.",
+      "fieldId": "work",
+      "id": "action_item",
       "lessonIds": [
-        "article_dating_market"
+        "article_professional_emails"
       ],
       "packs": [
-        "knw.social.dating_market"
+        "knw.work.emails"
       ],
-      "term": "hypergamy"
+      "term": "Action item"
     },
     {
-      "definition": "A situation where two people hold different views and are still talking. The other person is not automatically an enemy.",
-      "dictionaryId": "lex.sa.social.disagreement",
-      "example": "It was a disagreement about the schedule, not a fight.",
-      "fieldId": "social",
-      "id": "disagreement",
+      "definition": "A message sent after an earlier one, either to remind someone or to ask for a decision.",
+      "dictionaryId": "lex.sa.work.follow_up",
+      "example": "This is a short follow-up to my email of last Tuesday.",
+      "fieldId": "work",
+      "id": "follow_up",
       "lessonIds": [
-        "article_disagreeing"
+        "article_professional_emails"
       ],
       "packs": [
-        "knw.social.disagree"
+        "knw.work.emails"
       ],
-      "term": "Disagreement"
+      "term": "Follow-up"
     },
     {
-      "definition": "A disagreement that improves the decision being made and leaves the working relationship intact.",
-      "dictionaryId": "lex.sa.social.constructive_disagreement",
-      "example": "The meeting was tense but productive — it ended with a constructive disagreement and a clear next step.",
-      "fieldId": "social",
-      "id": "constructive_disagreement",
+      "definition": "Taking a matter to a more senior person because it has not moved. Use it only when it is genuinely warranted.",
+      "dictionaryId": "lex.sa.work.escalation",
+      "example": "If we do not hear back by Friday, we will need to escalate this.",
+      "fieldId": "work",
+      "id": "escalation",
       "lessonIds": [
-        "article_disagreeing"
+        "article_professional_emails"
       ],
       "packs": [
-        "knw.social.disagree"
+        "knw.work.emails"
       ],
-      "term": "Constructive disagreement"
+      "term": "Escalation"
     },
     {
-      "definition": "Soft words that mark your opinion as your opinion, such as 'maybe' or 'I could be wrong'. Useful in small doses.",
-      "dictionaryId": "lex.sa.social.hedging_language",
-      "example": "A little hedging language keeps a sentence civil; too much of it hides your point.",
-      "fieldId": "social",
-      "id": "hedging_language",
+      "definition": "How long a reply is expected to take. Often agreed in advance rather than assumed.",
+      "dictionaryId": "lex.sa.work.turnaround_time",
+      "example": "Our usual turnaround time for quotations is two working days.",
+      "fieldId": "work",
+      "id": "turnaround_time",
       "lessonIds": [
-        "article_disagreeing"
+        "article_professional_emails"
       ],
       "packs": [
-        "knw.social.disagree"
+        "knw.work.emails"
       ],
-      "term": "Hedging language"
+      "term": "Turnaround time"
     },
     {
-      "definition": "Giving the other side's position its strongest and most honest form before you argue against it.",
-      "dictionaryId": "lex.sa.social.steelman",
-      "example": "Before you answer, steelman the other view in one sentence and see if it still convinces you.",
-      "fieldId": "social",
-      "id": "steelman",
+      "definition": "The automatic reply sent while you are away, telling people when you will return and who to contact instead.",
+      "dictionaryId": "lex.sa.work.out_of_office",
+      "example": "You will get an out of office message until 20 April.",
+      "fieldId": "work",
+      "id": "out_of_office",
       "lessonIds": [
-        "article_disagreeing"
+        "article_professional_emails"
       ],
       "packs": [
-        "knw.social.disagree"
+        "knw.work.emails"
       ],
-      "term": "Steelman"
+      "term": "Out of office"
     },
     {
-      "definition": "The part of a position that both people accept. Every polite disagreement starts by naming it.",
-      "dictionaryId": "lex.sa.social.common_ground",
-      "example": "Find the common ground first — both of you want this project to succeed.",
-      "fieldId": "social",
-      "id": "common_ground",
+      "definition": "To send a document to a group of people for information, usually with no action required.",
+      "dictionaryId": "lex.sa.work.circulate",
+      "example": "I circulated the minutes to everyone on the project.",
+      "fieldId": "work",
+      "id": "circulate",
       "lessonIds": [
-        "article_disagreeing"
+        "article_professional_emails"
       ],
       "packs": [
-        "knw.social.disagree"
+        "knw.work.emails"
       ],
-      "term": "Common ground"
+      "term": "Circulate"
     },
     {
-      "definition": "Listening to understand the other person's point, including checking your understanding, instead of waiting for your turn to speak.",
-      "dictionaryId": "lex.sa.social.active_listening",
-      "example": "Active listening means repeating their concern back before you answer it.",
-      "fieldId": "social",
-      "id": "active_listening",
+      "definition": "The closing line of an email, such as \"Kind regards\", followed by your name.",
+      "dictionaryId": "lex.sa.work.sign_off",
+      "example": "Use a plain sign-off: Kind regards, then your name and title.",
+      "fieldId": "work",
+      "id": "sign_off",
       "lessonIds": [
-        "article_disagreeing"
+        "article_professional_emails",
+        "article_workplace_expressions"
       ],
       "packs": [
-        "knw.social.disagree"
+        "knw.work.emails",
+        "knw.work.expressions"
       ],
-      "term": "Active listening"
+      "term": "Sign-off"
     },
     {
-      "definition": "The ability to stay with a strong feeling and still choose what you do next.",
-      "dictionaryId": "lex.sa.social.er_emotional_regulation",
-      "example": "Her emotional regulation showed in the pause before she answered.",
-      "fieldId": "social",
-      "id": "er_emotional_regulation",
+      "definition": "A temporary fix that makes a problem go away without solving it.",
+      "dictionaryId": "lex.sa.work.band_aid",
+      "example": "We applied a band-aid to the payment process, but the real fix is in the accounting system.",
+      "fieldId": "work",
+      "id": "band_aid",
       "lessonIds": [
-        "article_emotional_regulation_relationships"
+        "article_workplace_expressions"
       ],
       "packs": [
-        "knw.social.emotional_regulation_relationships"
+        "knw.work.expressions"
       ],
-      "term": "emotional regulation"
+      "term": "Band-aid"
     },
     {
-      "definition": "The range of feeling intensity in which a person can hold the feeling and still think and speak plainly.",
-      "dictionaryId": "lex.sa.social.er_window_of_tolerance",
-      "example": "Outside his window of tolerance, every comment sounded like an accusation.",
-      "fieldId": "social",
-      "id": "er_window_of_tolerance",
+      "definition": "A way of working around a problem instead of fixing its cause.",
+      "dictionaryId": "lex.sa.work.workaround",
+      "example": "The manual workaround is for us to check the total by hand every Friday.",
+      "fieldId": "work",
+      "id": "workaround",
       "lessonIds": [
-        "article_emotional_regulation_relationships"
+        "article_workplace_expressions"
       ],
       "packs": [
-        "knw.social.emotional_regulation_relationships"
+        "knw.work.expressions"
       ],
-      "term": "window of tolerance"
+      "term": "Workaround"
     },
     {
-      "definition": "The set of rules a relationship runs on although nobody has written them down or said them aloud.",
-      "dictionaryId": "lex.sa.social.er_unspoken_contract",
-      "example": "Their unspoken contract said that the person who plans also drives.",
-      "fieldId": "social",
-      "id": "er_unspoken_contract",
+      "definition": "To return to a topic later. Often used to postpone a decision.",
+      "dictionaryId": "lex.sa.work.circle_back",
+      "example": "Let us circle back to the budget question after lunch.",
+      "fieldId": "work",
+      "id": "circle_back",
       "lessonIds": [
-        "article_emotional_regulation_relationships"
+        "article_workplace_expressions"
       ],
       "packs": [
-        "knw.social.emotional_regulation_relationships"
+        "knw.work.expressions"
       ],
-      "term": "unspoken contract"
+      "term": "Circle back"
     },
     {
-      "definition": "A belief about what will happen if you say nothing and do nothing about it.",
-      "dictionaryId": "lex.sa.social.er_expectation",
-      "example": "Her expectation was that a refusal would come with an alternative.",
-      "fieldId": "social",
-      "id": "er_expectation",
+      "definition": "To have a short conversation with someone about something.",
+      "dictionaryId": "lex.sa.work.touch_base",
+      "example": "Can we touch base on Thursday for fifteen minutes?",
+      "fieldId": "work",
+      "id": "touch_base",
       "lessonIds": [
-        "article_emotional_regulation_relationships"
+        "article_workplace_expressions"
       ],
       "packs": [
-        "knw.social.emotional_regulation_relationships"
+        "knw.work.expressions"
       ],
-      "term": "expectation"
-    },
-    {
-      "definition": "The raised state of the body that comes with a strong feeling, and that the other person can see.",
-      "dictionaryId": "lex.sa.social.er_activation",
-      "example": "Her activation was visible in the way she held the door open for too long.",
-      "fieldId": "social",
-      "id": "er_activation",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "activation"
-    },
-    {
-      "definition": "The way a person comes back down from activation and can choose again.",
-      "dictionaryId": "lex.sa.social.er_recovery",
-      "example": "His recovery took the whole walk home, and the call waited until then.",
-      "fieldId": "social",
-      "id": "er_recovery",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "recovery"
-    },
-    {
-      "definition": "Putting a feeling into words as a way of getting the body back down.",
-      "dictionaryId": "lex.sa.social.er_venting",
-      "example": "The venting helped her settle, and the other person had heard none of it.",
-      "fieldId": "social",
-      "id": "er_venting",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "venting"
-    },
-    {
-      "definition": "Holding a feeling down so that nothing of it shows to the other person.",
-      "dictionaryId": "lex.sa.social.er_suppression",
-      "example": "Her suppression looked like calm, and the calm was read as indifference.",
-      "fieldId": "social",
-      "id": "er_suppression",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "suppression"
-    },
-    {
-      "definition": "Changing the story you tell about an event so that the feeling loses its grip.",
-      "dictionaryId": "lex.sa.social.er_reappraisal",
-      "example": "His reappraisal was honest: the message had been sent late, and it was not about her.",
-      "fieldId": "social",
-      "id": "er_reappraisal",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "reappraisal"
-    },
-    {
-      "definition": "Turning the same thought over again and again without moving towards an action.",
-      "dictionaryId": "lex.sa.social.er_rumination",
-      "example": "Her rumination ran for days, and the argument she started was never the one she had been thinking about.",
-      "fieldId": "social",
-      "id": "er_rumination",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "rumination"
-    },
-    {
-      "definition": "The gap between what two people in a relationship each expect, when neither has said it aloud.",
-      "dictionaryId": "lex.sa.social.er_expectation_mismatch",
-      "example": "The expectation mismatch was about phone calls, and it had been there for months.",
-      "fieldId": "social",
-      "id": "er_expectation_mismatch",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "expectation mismatch"
-    },
-    {
-      "definition": "A deliberate act of bringing the body back to a calm state before you act on a strong feeling.",
-      "dictionaryId": "lex.sa.social.er_grounding",
-      "example": "Grounding gave her the pause she needed before she answered him.",
-      "fieldId": "social",
-      "id": "er_grounding",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "grounding"
-    },
-    {
-      "definition": "An acknowledgement that another person's feeling makes sense from their point of view.",
-      "dictionaryId": "lex.sa.social.er_validation",
-      "example": "Validation is not agreement: I can see why that hurt you, without changing his mind.",
-      "fieldId": "social",
-      "id": "er_validation",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "validation"
-    },
-    {
-      "definition": "An agreed action that puts a relationship back on track after something broke between two people.",
-      "dictionaryId": "lex.sa.social.er_repair",
-      "example": "Their repair was simple: they agreed to talk again the next evening.",
-      "fieldId": "social",
-      "id": "er_repair",
-      "lessonIds": [
-        "article_emotional_regulation_relationships"
-      ],
-      "packs": [
-        "knw.social.emotional_regulation_relationships"
-      ],
-      "term": "repair"
-    },
-    {
-      "definition": "The capacity to stay in charge of your own reactions when the other person is difficult.",
-      "dictionaryId": "lex.sa.social.gem_emotional_maturity",
-      "example": "Her emotional maturity showed in the pause before she answered, not in the answer itself.",
-      "fieldId": "social",
-      "id": "gem_emotional_maturity",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Emotional maturity"
-    },
-    {
-      "definition": "The capacity to hold a reaction and choose when to act on it.",
-      "dictionaryId": "lex.sa.social.gem_self_regulation",
-      "example": "He used self-regulation to stay in the room instead of walking out.",
-      "fieldId": "social",
-      "id": "gem_self_regulation",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Self-regulation"
-    },
-    {
-      "definition": "Reading what another person feels, and taking it seriously enough to act on it.",
-      "dictionaryId": "lex.sa.social.gem_empathy",
-      "example": "Her empathy showed in the question she asked instead of the advice she gave.",
-      "fieldId": "social",
-      "id": "gem_empathy",
-      "lessonIds": [
-        "article_gender_emotional_maturity"
-      ],
-      "packs": [
-        "knw.social.gender_emotional_maturity"
-      ],
-      "term": "Empathy"
+      "term": "Touch base"
     }
   ],
   "nextCursor": "800",

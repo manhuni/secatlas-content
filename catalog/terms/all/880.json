@@ -1,573 +1,566 @@
 {
   "items": [
     {
-      "conflict": true,
-      "definition": "The state of being ready for a relationship, in time, money and emotional terms.",
-      "dictionaryId": "lex.sa.social.msa_readiness",
-      "example": "Readiness was not there yet, and she said so plainly.",
-      "fieldId": "social",
-      "id": "msa_readiness",
+      "definition": "The ability to form an opinion from experience and to defend it.",
+      "dictionaryId": "lex.sa.mind.spec_judgement",
+      "example": "The judgement to stop the line is part of what the company pays for.",
+      "fieldId": "mind",
+      "id": "spec_judgement",
       "lessonIds": [
-        "article_mate_selection_age"
+        "article_specialization_blindspot"
       ],
       "packs": [
-        "knw.social.mate_selection_age"
+        "knw.mind.specialization_blindspot"
       ],
-      "term": "readiness"
+      "term": "Judgement"
     },
     {
-      "definition": "The first thing you say to start a conversation. It should be easy for the other person to answer.",
-      "dictionaryId": "lex.sa.social.opener",
-      "example": "My usual opener at a party is a question about what brought them there.",
-      "fieldId": "social",
-      "id": "opener",
+      "definition": "A habit of attention that leans one way, often without the person noticing.",
+      "dictionaryId": "lex.sa.mind.spec_bias",
+      "example": "The bias is not against the customer; it is away from the customer.",
+      "fieldId": "mind",
+      "id": "spec_bias",
       "lessonIds": [
-        "article_small_talk"
+        "article_specialization_blindspot"
       ],
       "packs": [
-        "knw.social.smalltalk"
+        "knw.mind.specialization_blindspot"
       ],
-      "term": "Opener"
+      "term": "Bias"
     },
     {
-      "definition": "A question that cannot be answered with one word and that gives the other person room to talk.",
-      "dictionaryId": "lex.sa.social.open_question",
-      "example": "What made you take that job?",
-      "fieldId": "social",
-      "id": "open_question",
+      "definition": "Something a plan takes as true without checking it.",
+      "dictionaryId": "lex.sa.mind.spec_assumption",
+      "example": "The hidden assumption is that the machine will be ready on the first day.",
+      "fieldId": "mind",
+      "id": "spec_assumption",
       "lessonIds": [
-        "article_small_talk"
+        "article_specialization_blindspot"
       ],
       "packs": [
-        "knw.social.smalltalk"
+        "knw.mind.specialization_blindspot"
       ],
-      "term": "Open question"
+      "term": "Assumption"
     },
     {
-      "definition": "A question built on what the other person just said, which shows you were listening.",
-      "dictionaryId": "lex.sa.social.follow_up_question",
-      "example": "You said you moved last year — what was it like at first?",
-      "fieldId": "social",
-      "id": "follow_up_question",
+      "definition": "An area of work that a person knows well enough to work in.",
+      "dictionaryId": "lex.sa.mind.spec_field",
+      "example": "His field is tax, so read the customs part with somebody else.",
+      "fieldId": "mind",
+      "id": "spec_field",
       "lessonIds": [
-        "article_small_talk"
+        "article_specialization_blindspot"
       ],
       "packs": [
-        "knw.social.smalltalk"
+        "knw.mind.specialization_blindspot"
       ],
-      "term": "Follow-up question"
+      "term": "Field"
     },
     {
-      "definition": "A short sound or remark that shows you are following without taking the turn, such as 'mm' or 'really'.",
-      "dictionaryId": "lex.sa.social.back_channel",
-      "example": "You say 'really?' and then let them keep going.",
-      "fieldId": "social",
-      "id": "back_channel",
+      "definition": "The checking of a thing against a source before it is trusted.",
+      "dictionaryId": "lex.sa.mind.spec_verification",
+      "example": "Verification of the cost is done by finance, not by the person who wrote the estimate.",
+      "fieldId": "mind",
+      "id": "spec_verification",
       "lessonIds": [
-        "article_small_talk"
+        "article_specialization_blindspot"
       ],
       "packs": [
-        "knw.social.smalltalk"
+        "knw.mind.specialization_blindspot"
       ],
-      "term": "Back-channel"
+      "term": "Verification"
     },
     {
-      "definition": "A prepared sentence that ends a conversation politely while leaving the door open for another meeting.",
-      "dictionaryId": "lex.sa.social.exit_line",
-      "example": "It was really nice meeting you — see you around.",
-      "fieldId": "social",
-      "id": "exit_line",
+      "definition": "The judgement of a second person, asked because the first one may not see everything.",
+      "dictionaryId": "lex.sa.mind.spec_second_opinion",
+      "example": "Before we sign, I would like a second opinion from somebody outside this field.",
+      "fieldId": "mind",
+      "id": "spec_second_opinion",
       "lessonIds": [
-        "article_small_talk"
+        "article_specialization_blindspot"
       ],
       "packs": [
-        "knw.social.smalltalk"
+        "knw.mind.specialization_blindspot"
       ],
-      "term": "Exit line"
+      "term": "Second opinion"
     },
     {
-      "definition": "A comfortable relationship between people, built when each can predict how the other will behave.",
-      "dictionaryId": "lex.sa.social.rapport",
-      "example": "We had no topic in common, but we talked for twenty minutes and had instant rapport.",
-      "fieldId": "social",
-      "id": "rapport",
+      "definition": "The passing of work from one person to another.",
+      "dictionaryId": "lex.sa.mind.spec_handover",
+      "example": "At the handover she asked what the customer had actually agreed to.",
+      "fieldId": "mind",
+      "id": "spec_handover",
       "lessonIds": [
-        "article_small_talk"
+        "article_specialization_blindspot"
       ],
       "packs": [
-        "knw.social.smalltalk"
+        "knw.mind.specialization_blindspot"
       ],
-      "term": "Rapport"
+      "term": "Handover"
     },
     {
-      "definition": "The part of the previous task still in your head after you stop it, which lowers the quality of the next task.",
-      "dictionaryId": "lex.sa.technology.attention_residue",
-      "example": "I checked messages between every paragraph, so both pieces of work suffered.",
-      "fieldId": "technology",
-      "id": "attention_residue",
+      "definition": "A person who works across several fields and can explain one of them to another.",
+      "dictionaryId": "lex.sa.mind.spec_generalist",
+      "example": "The generalist on the team translated the tax rule into plain words.",
+      "fieldId": "mind",
+      "id": "spec_generalist",
       "lessonIds": [
-        "article_brainrot"
+        "article_specialization_blindspot"
       ],
       "packs": [
-        "knw.tech.brainrot"
+        "knw.mind.specialization_blindspot"
       ],
-      "term": "Attention residue"
+      "term": "Generalist"
     },
     {
-      "definition": "A reward schedule where the outcome is unpredictable. Unpredictable rewards keep a behaviour going far longer than predictable ones.",
-      "dictionaryId": "lex.sa.technology.variable_reward",
-      "example": "You keep opening the app because you never know which post will be interesting.",
-      "fieldId": "technology",
-      "id": "variable_reward",
-      "lessonIds": [
-        "article_brainrot"
-      ],
-      "packs": [
-        "knw.tech.brainrot"
-      ],
-      "term": "Variable reward"
-    },
-    {
-      "definition": "A brain chemical linked to reward and motivation. People say it loosely; the useful idea is that wanting and liking are different things.",
-      "dictionaryId": "lex.sa.technology.dopamine",
-      "example": "The video was not even good, but the pull to check again was strong.",
-      "fieldId": "technology",
-      "id": "dopamine",
-      "lessonIds": [
-        "article_brainrot"
-      ],
-      "packs": [
-        "knw.tech.brainrot"
-      ],
-      "term": "Dopamine"
-    },
-    {
-      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
-      "dictionaryId": "lex.sa.technology.token",
-      "example": "The word \"the\" is one token, and a long word may be three.",
-      "fieldId": "technology",
-      "id": "aiw_token",
-      "lessonIds": [
-        "article_how_ai_works"
-      ],
-      "packs": [
-        "knw.tech.howaiworks"
-      ],
-      "term": "Token"
-    },
-    {
-      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
-      "dictionaryId": "lex.sa.technology.training_data",
-      "example": "The model's weakness on local rules comes from what the training data never covered.",
-      "fieldId": "technology",
-      "id": "aiw_training_data",
-      "lessonIds": [
-        "article_how_ai_works"
-      ],
-      "packs": [
-        "knw.tech.howaiworks"
-      ],
-      "term": "Training data"
-    },
-    {
-      "definition": "The numbers inside a model that hold what it learned. Each one is a weight that raises or lowers the chance of a continuation.",
-      "dictionaryId": "lex.sa.technology.aiw_parameters",
-      "example": "The model has billions of parameters, and not one of them is a sentence you can read.",
-      "fieldId": "technology",
-      "id": "aiw_parameters",
-      "lessonIds": [
-        "article_how_ai_works"
-      ],
-      "packs": [
-        "knw.tech.howaiworks"
-      ],
-      "term": "Parameters"
-    },
-    {
-      "conflict": true,
-      "definition": "Running a trained model to produce one answer. Cheap and fast compared with training, and it is what happens when you press send.",
-      "dictionaryId": "lex.sa.technology.inference",
-      "example": "Training cost a fortune; inference is what you pay for every time you use it.",
-      "fieldId": "technology",
-      "id": "aiw_inference",
-      "lessonIds": [
-        "article_how_ai_works"
-      ],
-      "packs": [
-        "knw.tech.howaiworks"
-      ],
-      "term": "Inference"
-    },
-    {
-      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
-      "dictionaryId": "lex.sa.technology.context_window",
-      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
-      "fieldId": "technology",
-      "id": "aiw_context_window",
-      "lessonIds": [
-        "article_how_ai_works"
-      ],
-      "packs": [
-        "knw.tech.howaiworks"
-      ],
-      "term": "Context window"
-    },
-    {
-      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
-      "dictionaryId": "lex.sa.technology.prompt",
-      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
-      "fieldId": "technology",
-      "id": "aiw_prompt",
-      "lessonIds": [
-        "article_how_ai_works"
-      ],
-      "packs": [
-        "knw.tech.howaiworks"
-      ],
-      "term": "Prompt"
-    },
-    {
-      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
-      "dictionaryId": "lex.sa.technology.hallucination",
-      "example": "It invented a reference that looks perfect and does not exist.",
-      "fieldId": "technology",
-      "id": "aiw_hallucination",
-      "lessonIds": [
-        "article_how_ai_works"
-      ],
-      "packs": [
-        "knw.tech.howaiworks"
-      ],
-      "term": "Hallucination"
-    },
-    {
-      "definition": "The method of letting a system find patterns in data instead of following instructions a person wrote for every case.",
-      "dictionaryId": "lex.sa.technology.machine_learning",
-      "example": "Spam filtering was one of the first everyday uses of machine learning.",
-      "fieldId": "technology",
-      "id": "machine_learning",
-      "lessonIds": [
-        "article_ai_revolution"
-      ],
-      "packs": [
-        "knw.tech.revolution"
-      ],
-      "term": "Machine learning"
-    },
-    {
-      "definition": "A layered structure of simple units whose connection strengths are tuned during training. The most common structure in modern AI.",
-      "dictionaryId": "lex.sa.technology.neural_network",
-      "example": "The translation and the image search both run on a neural network.",
-      "fieldId": "technology",
-      "id": "neural_network",
-      "lessonIds": [
-        "article_ai_revolution"
-      ],
-      "packs": [
-        "knw.tech.revolution"
-      ],
-      "term": "Neural network"
-    },
-    {
-      "definition": "One adjustable number inside a model. Models are described by how many parameters they have.",
-      "dictionaryId": "lex.sa.technology.parameter",
-      "example": "A model with more parameters can hold more patterns, but it also needs more data and more computing.",
-      "fieldId": "technology",
-      "id": "parameter",
-      "lessonIds": [
-        "article_ai_revolution"
-      ],
-      "packs": [
-        "knw.tech.revolution"
-      ],
-      "term": "Parameter"
-    },
-    {
-      "conflict": true,
-      "definition": "The material a model learned from. Its coverage and quality decide where the model is strong and where it invents things.",
-      "dictionaryId": "lex.sa.technology.training_data",
-      "example": "The model's weakness on local rules comes from what the training data never covered.",
-      "fieldId": "technology",
-      "id": "training_data",
-      "lessonIds": [
-        "article_ai_revolution"
-      ],
-      "packs": [
-        "knw.tech.revolution"
-      ],
-      "term": "Training data"
-    },
-    {
-      "definition": "AI that produces new content such as text, images, audio or code, rather than only sorting or labelling.",
-      "dictionaryId": "lex.sa.technology.generative_ai",
-      "example": "Drafting the email was the easiest part of the job this week.",
-      "fieldId": "technology",
-      "id": "generative_ai",
-      "lessonIds": [
-        "article_ai_revolution"
-      ],
-      "packs": [
-        "knw.tech.revolution"
-      ],
-      "term": "Generative AI"
-    },
-    {
-      "conflict": true,
-      "definition": "Confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.",
-      "dictionaryId": "lex.sa.technology.hallucination",
-      "example": "It invented a reference that looks perfect and does not exist.",
-      "fieldId": "technology",
-      "id": "hallucination",
-      "lessonIds": [
-        "article_ai_revolution"
-      ],
-      "packs": [
-        "knw.tech.revolution"
-      ],
-      "term": "Hallucination"
-    },
-    {
-      "conflict": true,
-      "definition": "The instruction and the context you give a model. Writing a good one is a real skill, not a magic formula.",
-      "dictionaryId": "lex.sa.technology.prompt",
-      "example": "A one-line prompt gave me a generic answer; a prompt with the audience and the length gave me a usable one.",
-      "fieldId": "technology",
-      "id": "prompt",
-      "lessonIds": [
-        "article_ai_revolution",
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.revolution",
-        "knw.tech.tokens"
-      ],
-      "term": "Prompt"
-    },
-    {
-      "definition": "A fraudulent message, usually by email, designed to steal credentials or money by pretending to be someone you trust.",
-      "dictionaryId": "lex.sa.technology.phishing",
-      "example": "That email about a locked account was phishing, and it used our bank's real logo.",
-      "fieldId": "technology",
-      "id": "phishing",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Phishing"
-    },
-    {
-      "definition": "Phishing carried out by text message. Short, urgent, and arriving on the phone you are holding.",
-      "dictionaryId": "lex.sa.technology.smishing",
-      "example": "The message about a parcel was smishing, and the link was not the courier's website.",
-      "fieldId": "technology",
-      "id": "smishing",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Smishing"
-    },
-    {
-      "definition": "Phishing carried out by a phone call, usually with a claim of authority from a bank, a police force or a support line.",
-      "dictionaryId": "lex.sa.technology.vishing",
-      "example": "They called pretending to be the tax office. That is vishing, and I hung up and called the real number.",
-      "fieldId": "technology",
-      "id": "vishing",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Vishing"
-    },
-    {
-      "definition": "Presenting a false sender identity so that a call or a message appears to come from a number or address that belongs to someone else.",
-      "dictionaryId": "lex.sa.technology.spoofing",
-      "example": "The message showed my brother's name, but the number was spoofed.",
-      "fieldId": "technology",
-      "id": "spoofing",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Spoofing"
-    },
-    {
-      "definition": "The short number a bank sends to confirm a login or a payment. Anyone who holds it can complete the action.",
-      "dictionaryId": "lex.sa.technology.one_time_code",
-      "example": "I gave them the one-time code, and that was the moment the account was theirs.",
-      "fieldId": "technology",
-      "id": "one_time_code",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "One-time code"
-    },
-    {
-      "definition": "A bank account used to receive and pass on criminal money, sometimes opened by someone who believes they are helping a company or a cause.",
-      "dictionaryId": "lex.sa.technology.mule_account",
-      "example": "They asked me to receive money and pass it on. That makes my account a mule account and the money is stolen.",
-      "fieldId": "technology",
-      "id": "mule_account",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Mule account"
-    },
-    {
-      "definition": "A reversal of a card payment requested from the bank, usually because the transaction was not authorised or the goods never arrived.",
-      "dictionaryId": "lex.sa.technology.chargeback",
-      "example": "The bank raised a chargeback and returned the money five days later.",
-      "fieldId": "technology",
-      "id": "chargeback",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Chargeback"
-    },
-    {
-      "definition": "Money demanded before a service is delivered. Common in fake job offers, fake investments and fake love interests.",
-      "dictionaryId": "lex.sa.technology.advance_fee",
-      "example": "They wanted a small fee before the equipment arrived, and then a larger one.",
-      "fieldId": "technology",
-      "id": "advance_fee",
-      "lessonIds": [
-        "article_online_scams"
-      ],
-      "packs": [
-        "knw.tech.scams"
-      ],
-      "term": "Advance fee"
-    },
-    {
-      "conflict": true,
-      "definition": "The chunk of text a model reads or writes. Usually a word, a part of a word, or a common symbol.",
-      "dictionaryId": "lex.sa.technology.token",
-      "example": "The word \"the\" is one token, and a long word may be three.",
-      "fieldId": "technology",
-      "id": "token",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Token"
-    },
-    {
-      "definition": "The fixed vocabulary a model uses, plus the rule that splits text into tokens and joins them back.",
-      "dictionaryId": "lex.sa.technology.tokenizer",
-      "example": "A different tokenizer means the same text costs a different number of tokens.",
-      "fieldId": "technology",
-      "id": "tokenizer",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Tokenizer"
-    },
-    {
-      "conflict": true,
-      "definition": "The maximum number of tokens a model can hold at once, counting the question, the history, the documents and the instructions together.",
-      "dictionaryId": "lex.sa.technology.context_window",
-      "example": "With an 8,000 token window, a 9,000 token request has to be cut.",
-      "fieldId": "technology",
-      "id": "context_window",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Context window"
-    },
-    {
-      "definition": "The tokens you send, counted and billed on the way in. Documents and chat history both count here.",
-      "dictionaryId": "lex.sa.technology.input_tokens",
-      "example": "Uploading the same file twice charges the input tokens twice.",
-      "fieldId": "technology",
-      "id": "input_tokens",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Input tokens"
-    },
-    {
-      "definition": "The tokens the model generates, counted and billed on the way out. Long answers cost more than short ones.",
-      "dictionaryId": "lex.sa.technology.output_tokens",
-      "example": "Asking for 2,000 words doubles the output cost of asking for 200.",
-      "fieldId": "technology",
-      "id": "output_tokens",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Output tokens"
-    },
-    {
-      "definition": "The setting that controls how random the choice of the next token is. Lower values are more repeatable, higher values more varied and less reliable.",
-      "dictionaryId": "lex.sa.technology.temperature",
-      "example": "For extracting data from a document, keep the temperature low.",
-      "fieldId": "technology",
-      "id": "temperature",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Temperature"
-    },
-    {
-      "definition": "The automatic cutting of input that is longer than the context window, usually removing the oldest part.",
-      "dictionaryId": "lex.sa.technology.truncation",
-      "example": "Truncation is why the model never mentions the first page you uploaded.",
-      "fieldId": "technology",
-      "id": "truncation",
-      "lessonIds": [
-        "article_ai_tokens"
-      ],
-      "packs": [
-        "knw.tech.tokens"
-      ],
-      "term": "Truncation"
-    },
-    {
-      "definition": "The unit of time equal to one sixtieth of a minute.",
-      "dictionaryId": "lex.sa.en.second.noun",
+      "definition": "Building software by prompting an AI and accepting generated code based on whether it seems to work, without necessarily understanding it.",
+      "dictionaryId": "lex.sa.mind.vibe_coding",
       "example": "",
-      "fieldId": "physics",
-      "id": "si_second",
+      "fieldId": "mind",
+      "id": "vibe_coding",
       "lessonIds": [
-        "article_units_dimensions"
+        "article_vibe_coding"
       ],
       "packs": [
-        "knw.tech.units"
+        "knw.mind.vibe_coding"
       ],
-      "term": "second"
+      "term": "Vibe coding"
+    },
+    {
+      "definition": "The future cost of shortcuts in software: work that must be redone because quick solutions were chosen over correct ones.",
+      "dictionaryId": "lex.sa.mind.technical_debt",
+      "example": "",
+      "fieldId": "mind",
+      "id": "technical_debt",
+      "lessonIds": [
+        "article_vibe_coding"
+      ],
+      "packs": [
+        "knw.mind.vibe_coding"
+      ],
+      "term": "Technical debt"
+    },
+    {
+      "definition": "The high-level structure of a system: how its parts are divided and connected, decided before the details are written.",
+      "dictionaryId": "lex.sa.mind.software_architecture",
+      "example": "",
+      "fieldId": "mind",
+      "id": "software_architecture",
+      "lessonIds": [
+        "article_vibe_coding"
+      ],
+      "packs": [
+        "knw.mind.vibe_coding"
+      ],
+      "term": "Software architecture"
+    },
+    {
+      "definition": "The practice of having code read and checked by another developer — or by its author with fresh eyes — before it is accepted.",
+      "dictionaryId": "lex.sa.mind.code_review",
+      "example": "",
+      "fieldId": "mind",
+      "id": "code_review",
+      "lessonIds": [
+        "article_vibe_coding"
+      ],
+      "packs": [
+        "knw.mind.vibe_coding"
+      ],
+      "term": "Code review"
+    },
+    {
+      "definition": "How easily software can be understood, fixed and extended by a human in the future.",
+      "dictionaryId": "lex.sa.mind.maintainability",
+      "example": "",
+      "fieldId": "mind",
+      "id": "maintainability",
+      "lessonIds": [
+        "article_vibe_coding"
+      ],
+      "packs": [
+        "knw.mind.vibe_coding"
+      ],
+      "term": "Maintainability"
+    },
+    {
+      "definition": "The underlying reason a problem exists, as opposed to the symptom that made it visible.",
+      "dictionaryId": "lex.sa.mind.root_cause",
+      "example": "",
+      "fieldId": "mind",
+      "id": "root_cause",
+      "lessonIds": [
+        "article_vibe_coding"
+      ],
+      "packs": [
+        "knw.mind.vibe_coding"
+      ],
+      "term": "Root cause"
+    },
+    {
+      "definition": "A body of ideas about how conflict works, built from the study of past campaigns rather than from rules of fighting.",
+      "dictionaryId": "lex.sa.mind.war_theory",
+      "example": "The book is called a theory of war because it explains how conflict works, not how to fight.",
+      "fieldId": "mind",
+      "id": "war_theory",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Theory of war"
+    },
+    {
+      "definition": "The Prussian officer (1780-1831) who wrote On War, the book that gave the field its central sentence.",
+      "dictionaryId": "lex.sa.mind.war_clausewitz",
+      "example": "Clausewitz wrote that war is the continuation of politics by other means.",
+      "fieldId": "mind",
+      "id": "war_clausewitz",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Carl von Clausewitz"
+    },
+    {
+      "definition": "The business of running a state and its relations with other states; in the theory of war, the purpose that fighting is meant to serve.",
+      "dictionaryId": "lex.sa.mind.war_politics",
+      "example": "The war had a political purpose, so the settlement had to satisfy the politics.",
+      "fieldId": "mind",
+      "id": "war_politics",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Politics"
+    },
+    {
+      "definition": "The way a conflict is linked to its political purpose: what is wanted, with what means, over what time.",
+      "dictionaryId": "lex.sa.mind.war_strategy",
+      "example": "The strategy of the campaign was to hold the coast and wait.",
+      "fieldId": "mind",
+      "id": "war_strategy",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Strategy"
+    },
+    {
+      "definition": "The level between strategy and tactics: the way a whole campaign is carried out, across a front, week by week.",
+      "dictionaryId": "lex.sa.mind.war_operations",
+      "example": "The operations ran out of fuel before the plan reached its objective.",
+      "fieldId": "mind",
+      "id": "war_operations",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Operations"
+    },
+    {
+      "definition": "The level of the local action: how a unit is used in one fight and how it is moved on the field.",
+      "dictionaryId": "lex.sa.mind.war_tactics",
+      "example": "The report describes tactics when it explains how the advance was carried out.",
+      "fieldId": "mind",
+      "id": "war_tactics",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Tactics"
+    },
+    {
+      "definition": "A series of connected actions with one objective, from the first move to the decision that closes it.",
+      "dictionaryId": "lex.sa.mind.war_campaign",
+      "example": "The campaign lasted six weeks and ended at the river.",
+      "fieldId": "mind",
+      "id": "war_campaign",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Campaign"
+    },
+    {
+      "definition": "Strategy at the level of a whole state: how a country uses its power over years to reach a political aim.",
+      "dictionaryId": "lex.sa.mind.war_grand_strategy",
+      "example": "Containment was the grand strategy, and deterrence was one of its tools.",
+      "fieldId": "mind",
+      "id": "war_grand_strategy",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Grand strategy"
+    },
+    {
+      "definition": "The result a plan aims at, written so that it can be judged done or not done.",
+      "dictionaryId": "lex.sa.mind.war_objective",
+      "example": "The brief states the objective in one line: the river crossing.",
+      "fieldId": "mind",
+      "id": "war_objective",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Objective"
+    },
+    {
+      "definition": "The directions from which an attack may come, and the ground they must cross.",
+      "dictionaryId": "lex.sa.mind.war_lines_of_approach",
+      "example": "The lines of approach were limited by the marsh.",
+      "fieldId": "mind",
+      "id": "war_lines_of_approach",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Lines of approach"
+    },
+    {
+      "definition": "The place or the moment where the outcome of the whole action is settled; the effort is concentrated there.",
+      "dictionaryId": "lex.sa.mind.war_decisive_point",
+      "example": "The decisive point was the bridge, and the plan said so.",
+      "fieldId": "mind",
+      "id": "war_decisive_point",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Decisive point"
+    },
+    {
+      "definition": "Means held back from the first effort and kept for the moment the situation turns.",
+      "dictionaryId": "lex.sa.mind.war_reserves",
+      "example": "The plan kept one reserve for the second week.",
+      "fieldId": "mind",
+      "id": "war_reserves",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Reserves"
+    },
+    {
+      "definition": "The routes along which orders, reports and supplies travel to the fighting units.",
+      "dictionaryId": "lex.sa.mind.war_lines_of_communication",
+      "example": "The lines of communication were cut by the flood.",
+      "fieldId": "mind",
+      "id": "war_lines_of_communication",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Lines of communication"
+    },
+    {
+      "conflict": true,
+      "definition": "The small resistance between wanting something and getting it, which slows consumption and quietly trains patience.",
+      "dictionaryId": "lex.sa.mind.friction",
+      "example": "Every plan met friction: the weather, the delay, the wrong order.",
+      "fieldId": "mind",
+      "id": "war_friction",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Friction"
+    },
+    {
+      "definition": "The state of not knowing: incomplete reports, false information and the general uncertainty of events.",
+      "dictionaryId": "lex.sa.mind.war_fog_of_war",
+      "example": "In the fog of war the commander acted on a report three days old.",
+      "fieldId": "mind",
+      "id": "war_fog_of_war",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Fog of war"
+    },
+    {
+      "conflict": true,
+      "definition": "Taking a matter to a more senior person because it has not moved. Use it only when it is genuinely warranted.",
+      "dictionaryId": "lex.sa.work.escalation",
+      "example": "If we do not hear back by Friday, we will need to escalate this.",
+      "fieldId": "mind",
+      "id": "war_escalation",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Escalation"
+    },
+    {
+      "definition": "The ladder of steps a conflict can climb, from a limited incident up to a general war.",
+      "dictionaryId": "lex.sa.mind.war_escalation_ladder",
+      "example": "Analysts place the crisis three rungs up the escalation ladder.",
+      "fieldId": "mind",
+      "id": "war_escalation_ladder",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Escalation ladder"
+    },
+    {
+      "definition": "The effort to prevent an opponent's action by making the cost of it too high.",
+      "dictionaryId": "lex.sa.mind.war_deterrence",
+      "example": "Deterrence holds only if the opponent believes both the ability and the will.",
+      "fieldId": "mind",
+      "id": "war_deterrence",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Deterrence"
+    },
+    {
+      "definition": "The case where the opponent acts anyway: the threat was not believed, or it was believed and the cost was accepted.",
+      "dictionaryId": "lex.sa.mind.war_deterrence_failure",
+      "example": "Deterrence failure means the action went ahead anyway.",
+      "fieldId": "mind",
+      "id": "war_deterrence_failure",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Deterrence failure"
+    },
+    {
+      "definition": "A threat that is made without the means or the intention to carry it out.",
+      "dictionaryId": "lex.sa.mind.war_bluff",
+      "example": "A threat made without the means to carry it out is a bluff, and it costs nothing to make.",
+      "fieldId": "mind",
+      "id": "war_bluff",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Bluff"
+    },
+    {
+      "definition": "A conflict between opponents whose resources, organisation and methods differ greatly.",
+      "dictionaryId": "lex.sa.mind.war_asymmetric_conflict",
+      "example": "The article calls it an asymmetric conflict and says where the difference lies.",
+      "fieldId": "mind",
+      "id": "war_asymmetric_conflict",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Asymmetric conflict"
+    },
+    {
+      "definition": "The wearing down of the opponent by continued cost, rather than by one decisive stroke.",
+      "dictionaryId": "lex.sa.mind.war_attrition",
+      "example": "Attrition decided the campaign; no single battle did.",
+      "fieldId": "mind",
+      "id": "war_attrition",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Attrition"
+    },
+    {
+      "definition": "The line where the two sides stand against each other, and the whole stretch of fighting behind it.",
+      "dictionaryId": "lex.sa.mind.war_front",
+      "example": "The front held for three months while both sides rebuilt.",
+      "fieldId": "mind",
+      "id": "war_front",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Front"
+    },
+    {
+      "definition": "The side that attacks; in the phrase the offensive, the direction of the action.",
+      "dictionaryId": "lex.sa.mind.war_offensive",
+      "example": "The offensive stopped when the supplies ran out.",
+      "fieldId": "mind",
+      "id": "war_offensive",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Offensive"
+    },
+    {
+      "definition": "The side that receives the attack and holds ground; the opposite of the offensive.",
+      "dictionaryId": "lex.sa.mind.war_defensive",
+      "example": "A defensive plan is judged by the ground it gives up.",
+      "fieldId": "mind",
+      "id": "war_defensive",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Defensive"
+    },
+    {
+      "definition": "The work of moving and supplying the fighting: food, fuel, ammunition, vehicles and spares.",
+      "dictionaryId": "lex.sa.mind.war_logistics",
+      "example": "The report says the problem was logistics, not the fighting.",
+      "fieldId": "mind",
+      "id": "war_logistics",
+      "lessonIds": [
+        "article_theory_of_war"
+      ],
+      "packs": [
+        "knw.mind.war_theory"
+      ],
+      "term": "Logistics"
     }
   ],
   "nextCursor": "920",

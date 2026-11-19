@@ -1,162 +1,6 @@
 {
   "items": [
     {
-      "definition": "The ability to follow and build an argument made of words.",
-      "dictionaryId": "lex.sa.mind.intel_verbal_reasoning",
-      "example": "His verbal reasoning was strong: he checked the contract clause by clause and found the gap.",
-      "fieldId": "mind",
-      "id": "intel_verbal_reasoning",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Verbal reasoning"
-    },
-    {
-      "definition": "The ability to handle quantity, order and calculation.",
-      "dictionaryId": "lex.sa.mind.intel_numerical_reasoning",
-      "example": "Numerical reasoning is what she used to compare the two costs before signing.",
-      "fieldId": "mind",
-      "id": "intel_numerical_reasoning",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Numerical reasoning"
-    },
-    {
-      "definition": "The ability to handle shapes, positions and how parts fit together.",
-      "dictionaryId": "lex.sa.mind.intel_spatial_reasoning",
-      "example": "Spatial reasoning is what let him find the leak from a drawing of the pipework.",
-      "fieldId": "mind",
-      "id": "intel_spatial_reasoning",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Spatial reasoning"
-    },
-    {
-      "definition": "The general ability that shows up across many different kinds of thinking, usually written g.",
-      "dictionaryId": "lex.sa.mind.intel_general_factor",
-      "example": "The general factor explains why a person who is good on one test is often good on others.",
-      "fieldId": "mind",
-      "id": "intel_general_factor",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "General factor"
-    },
-    {
-      "definition": "The share of the spread of scores inside a population that is attributable to genetic differences within that population.",
-      "dictionaryId": "lex.sa.mind.intel_heritability",
-      "example": "The heritability estimate for a group of students says nothing about the cause of one student's score.",
-      "fieldId": "mind",
-      "id": "intel_heritability",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Heritability"
-    },
-    {
-      "definition": "What a person has actually done, as distinct from what the person could have done.",
-      "dictionaryId": "lex.sa.mind.intel_achievement",
-      "example": "His achievement in the first two years came from long hours and good training, not from a rare ability.",
-      "fieldId": "mind",
-      "id": "intel_achievement",
-      "lessonIds": [
-        "article_intelligence_nature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature"
-      ],
-      "term": "Achievement"
-    },
-    {
-      "definition": "A comparison that carries a case the reader knows into a case they do not know yet.",
-      "dictionaryId": "lex.sa.mind.mind_analogy",
-      "example": "The analogy is clear: the pipe is like a road, and the loss is the distance.",
-      "fieldId": "mind",
-      "id": "mind_analogy",
-      "lessonIds": [
-        "article_intelligence_nature",
-        "article_math_and_literature"
-      ],
-      "packs": [
-        "knw.mind.intelligence_nature",
-        "knw.mind.math_and_literature"
-      ],
-      "term": "Analogy"
-    },
-    {
-      "definition": "What a person has when they can recall facts, use them to answer a question, and say why they hold.",
-      "dictionaryId": "lex.sa.mind.kpar_knowledge",
-      "example": "He had the facts and the knowledge, because he could say why the pump behaved that way.",
-      "fieldId": "mind",
-      "id": "kpar_knowledge",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Knowledge"
-    },
-    {
-      "definition": "The act of saying what makes two things different, so that the reader does not confuse them.",
-      "dictionaryId": "lex.sa.mind.kpar_distinction",
-      "example": "The distinction between the answer and the reason matters in every report.",
-      "fieldId": "mind",
-      "id": "kpar_distinction",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Distinction"
-    },
-    {
-      "definition": "The ability to bring a fact back into the mind when it is needed, without looking it up.",
-      "dictionaryId": "lex.sa.mind.kpar_recall",
-      "example": "My recall of the formula is good; my recall of the reason behind it is not.",
-      "fieldId": "mind",
-      "id": "kpar_recall",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Recall"
-    },
-    {
-      "definition": "A link between two facts, so that one explains, limits or changes the other.",
-      "dictionaryId": "lex.sa.mind.kpar_connection",
-      "example": "There is a connection between the load on the pump and the life of the seal.",
-      "fieldId": "mind",
-      "id": "kpar_connection",
-      "lessonIds": [
-        "article_knowledge_paradox"
-      ],
-      "packs": [
-        "knw.mind.knowledge_paradox"
-      ],
-      "term": "Connection"
-    },
-    {
       "definition": "A shape that several facts share, which is easier to see than the facts themselves.",
       "dictionaryId": "lex.sa.mind.kpar_pattern",
       "example": "The same pattern is in all three faults: the seal starts to leak before the part fails.",
@@ -360,212 +204,364 @@
       "dictionaryId": "lex.sa.mind.psy_manipulation",
       "example": "It was manipulation: he offered her two options and made the wrong one impossible.",
       "fieldId": "mind",
-      "id": "psy_manipulation",
+      "id": "mia_manipulation",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
       "term": "Manipulation"
     },
     {
-      "definition": "An honest attempt to win agreement, in which the other person is free to say no.",
-      "dictionaryId": "lex.sa.mind.psy_persuasion",
-      "example": "That was persuasion, not pressure: he explained the plan and left the decision to her.",
+      "definition": "An error in the shape of an argument, a move that breaks the reasoning instead of answering the claim.",
+      "dictionaryId": "lex.sa.mind.mia_fallacy",
+      "example": "Calling the move a fallacy describes it; it does not insult the person.",
       "fieldId": "mind",
-      "id": "psy_persuasion",
+      "id": "mia_fallacy",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Persuasion"
+      "term": "Fallacy"
     },
     {
-      "definition": "A push applied to a decision, usually through time or emotion, that makes the choice harder to refuse.",
-      "dictionaryId": "lex.sa.mind.psy_pressure",
-      "example": "The deadline is pressure, but you can still say that you need more time.",
+      "definition": "The presenting of two options as if no other option existed.",
+      "dictionaryId": "lex.sa.mind.mia_false_dilemma",
+      "example": "Either we cut the budget by a third, or the service stops — that is a false dilemma.",
       "fieldId": "mind",
-      "id": "psy_pressure",
+      "id": "mia_false_dilemma",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Pressure"
+      "term": "False dilemma"
     },
     {
-      "definition": "The removal of a real choice by force or by the threat of harm.",
-      "dictionaryId": "lex.sa.mind.psy_coercion",
-      "example": "Sign the form today or lose the job — that is coercion, not persuasion.",
+      "definition": "A question that carries its own answer inside its wording.",
+      "dictionaryId": "lex.sa.mind.mia_loaded_question",
+      "example": "When will you stop making excuses? is a loaded question.",
       "fieldId": "mind",
-      "id": "psy_coercion",
+      "id": "mia_loaded_question",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Coercion"
+      "term": "Loaded question"
     },
     {
-      "definition": "A pressure tactic that presents the decisions of other people as evidence for your own.",
-      "dictionaryId": "lex.sa.mind.psy_social_proof",
-      "example": "The offer came with social proof: nine out of ten customers chose the larger plan.",
+      "definition": "The moving of the criterion after the other side has met it.",
+      "dictionaryId": "lex.sa.mind.mia_goalpost_shifting",
+      "example": "Three sources were required, then written external sources were required: that was goalpost shifting.",
       "fieldId": "mind",
-      "id": "psy_social_proof",
+      "id": "mia_goalpost_shifting",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Social proof"
+      "term": "Goalpost shifting"
     },
     {
-      "definition": "A pressure tactic that puts the decision in the hands of an expert, real or claimed.",
-      "dictionaryId": "lex.sa.mind.psy_authority",
-      "example": "It used authority: the technician said the part was safe, and showed no manual.",
+      "definition": "The replacing of a reason with a feeling, and the treatment of the feeling as the answer.",
+      "dictionaryId": "lex.sa.mind.mia_appeal_to_emotion",
+      "example": "After everything I have done for this team was an appeal to emotion, not a reason.",
       "fieldId": "mind",
-      "id": "psy_authority",
+      "id": "mia_appeal_to_emotion",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Authority"
+      "term": "Appeal to emotion"
     },
     {
-      "definition": "A pressure tactic that claims the supply is limited, so that waiting looks like a loss.",
-      "dictionaryId": "lex.sa.mind.psy_scarcity",
-      "example": "The scarcity was easy to check: the shelf held six, not two.",
+      "definition": "The replacing of a reason with the title or the status of the person who offers it.",
+      "dictionaryId": "lex.sa.mind.mia_appeal_to_authority",
+      "example": "The chief engineer says it is safe was an appeal to authority, because no evidence was shown.",
       "fieldId": "mind",
-      "id": "psy_scarcity",
+      "id": "mia_appeal_to_authority",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Scarcity"
+      "term": "Appeal to authority"
     },
     {
-      "definition": "A pressure tactic that shortens the time available for checking and deciding.",
-      "dictionaryId": "lex.sa.mind.psy_urgency",
-      "example": "The urgency was built to stop a phone call: sign tonight or the price changes.",
+      "definition": "An argument that nobody made, set up so that it can be knocked down easily.",
+      "dictionaryId": "lex.sa.mind.mia_straw_man",
+      "example": "So you want to drop the whole project was a straw man; the speaker had only said the schedule was short.",
       "fieldId": "mind",
-      "id": "psy_urgency",
+      "id": "mia_straw_man",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Urgency"
+      "term": "Straw man"
     },
     {
-      "definition": "A pressure tactic that raises the cost of a slow decision, so that speed feels like safety.",
-      "dictionaryId": "lex.sa.mind.psy_fear",
-      "example": "The fear in the message was plain: if you wait, you are the one who pays.",
+      "definition": "An attack on the person instead of on the claim.",
+      "dictionaryId": "lex.sa.mind.mia_ad_hominem",
+      "example": "You did not read the report, so your opinion does not count is an ad hominem.",
       "fieldId": "mind",
-      "id": "psy_fear",
+      "id": "mia_ad_hominem",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Fear"
+      "term": "Ad hominem"
+    },
+    {
+      "definition": "The turning of an answer into an answer about somebody else.",
+      "dictionaryId": "lex.sa.mind.mia_whataboutism",
+      "example": "You did the same thing last year is whataboutism: it answers nothing.",
+      "fieldId": "mind",
+      "id": "mia_whataboutism",
+      "lessonIds": [
+        "article_manipulation_in_arguments"
+      ],
+      "packs": [
+        "knw.mind.manipulation_in_arguments"
+      ],
+      "term": "Whataboutism"
+    },
+    {
+      "definition": "The formal name for whataboutism; it means \"you too\".",
+      "dictionaryId": "lex.sa.mind.mia_tu_quoque",
+      "example": "The reply was a tu quoque: it pointed at the other person's record and stayed there.",
+      "fieldId": "mind",
+      "id": "mia_tu_quoque",
+      "lessonIds": [
+        "article_manipulation_in_arguments"
+      ],
+      "packs": [
+        "knw.mind.manipulation_in_arguments"
+      ],
+      "term": "Tu quoque"
     },
     {
       "definition": "Money, time or effort that has already been spent, and which is used as a reason to continue.",
       "dictionaryId": "lex.sa.mind.psy_sunk_cost",
       "example": "The sunk cost of the training was the argument for staying in the job.",
       "fieldId": "mind",
-      "id": "psy_sunk_cost",
+      "id": "mia_sunk_cost",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
       "term": "Sunk cost"
     },
     {
-      "definition": "Attention, affection and gifts given far faster and further than the situation deserves.",
-      "dictionaryId": "lex.sa.mind.psy_love_bombing",
-      "example": "The love bombing was hard to refuse: every message came with a declaration.",
+      "definition": "The choice of words around a fact, which changes how the fact feels.",
+      "dictionaryId": "lex.sa.work.dpn_framing",
+      "example": "The framing changed nothing: 400 a month is the same money as 4,800 a year.",
       "fieldId": "mind",
-      "id": "psy_love_bombing",
+      "id": "mia_framing",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Love bombing"
+      "term": "Framing"
     },
     {
-      "conflict": true,
-      "definition": "A repeated attack on a person's memory and judgement, so that they stop trusting what they remember.",
-      "dictionaryId": "lex.sa.mind.psy_gaslighting",
-      "example": "It was gaslighting: she was told her own account of the meeting was wrong.",
+      "definition": "A reply that takes the point that was made and answers it with a reason.",
+      "dictionaryId": "lex.sa.mind.mia_rebuttal",
+      "example": "The rebuttal gave the reason and asked for the same test on the other side.",
       "fieldId": "mind",
-      "id": "psy_gaslighting",
+      "id": "mia_rebuttal",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manipulation_in_arguments"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manipulation_in_arguments"
       ],
-      "term": "Gaslighting"
+      "term": "Rebuttal"
     },
     {
-      "definition": "A small, easy agreement that is used later as the reason for a much larger one.",
-      "dictionaryId": "lex.sa.mind.psy_foot_in_the_door",
-      "example": "The free trial was the foot in the door: the yearly contract came next.",
+      "definition": "Agreement produced not by open discussion but by arranging the information environment so one conclusion appears natural.",
+      "dictionaryId": "lex.sa.mind.manufactured_consent",
+      "example": "",
       "fieldId": "mind",
-      "id": "psy_foot_in_the_door",
+      "id": "manufactured_consent",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manufactured_consent"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manufactured_consent"
       ],
-      "term": "Foot in the door"
+      "term": "Manufactured consent"
     },
     {
-      "conflict": true,
-      "definition": "Being cut off from other people without choosing it, and without the comfort that solitude brings.",
-      "dictionaryId": "lex.sa.culture.isolation",
-      "example": "Working from home every day turned into isolation by February.",
+      "definition": "The power to decide which topics the public thinks about, exercised through selection and emphasis in coverage.",
+      "dictionaryId": "lex.sa.mind.agenda_setting",
+      "example": "",
       "fieldId": "mind",
-      "id": "psy_isolation",
+      "id": "agenda_setting",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manufactured_consent"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manufactured_consent"
       ],
-      "term": "Isolation"
+      "term": "Agenda-setting"
     },
     {
-      "definition": "Pressure strong enough to take away a person's freedom to decide, in the sense used in law and in medical consent.",
-      "dictionaryId": "lex.sa.mind.psy_undue_influence",
-      "example": "The form said the signature was voluntary; the manager's tone made that undue influence.",
+      "definition": "Influence over how a topic is understood: which frames, words and experts define it.",
+      "dictionaryId": "lex.sa.mind.opinion_shaping",
+      "example": "",
       "fieldId": "mind",
-      "id": "psy_undue_influence",
+      "id": "opinion_shaping",
       "lessonIds": [
-        "article_psychological_manipulation"
+        "article_manufactured_consent"
       ],
       "packs": [
-        "knw.mind.manipulation"
+        "knw.mind.manufactured_consent"
       ],
-      "term": "Undue influence"
+      "term": "Opinion shaping"
+    },
+    {
+      "definition": "Influence achieved through attraction and information rather than force or payment.",
+      "dictionaryId": "lex.sa.mind.soft_power",
+      "example": "",
+      "fieldId": "mind",
+      "id": "soft_power",
+      "lessonIds": [
+        "article_manufactured_consent"
+      ],
+      "packs": [
+        "knw.mind.manufactured_consent"
+      ],
+      "term": "Soft power"
+    },
+    {
+      "definition": "Withholding one's own views to avoid social, professional or legal consequences.",
+      "dictionaryId": "lex.sa.mind.self_censorship",
+      "example": "",
+      "fieldId": "mind",
+      "id": "self_censorship",
+      "lessonIds": [
+        "article_manufactured_consent"
+      ],
+      "packs": [
+        "knw.mind.manufactured_consent"
+      ],
+      "term": "Self-censorship"
+    },
+    {
+      "definition": "The tendency of a cohesive group to converge on one view and suppress doubt in order to preserve harmony.",
+      "dictionaryId": "lex.sa.mind.groupthink",
+      "example": "",
+      "fieldId": "mind",
+      "id": "groupthink",
+      "lessonIds": [
+        "article_manufactured_consent"
+      ],
+      "packs": [
+        "knw.mind.manufactured_consent"
+      ],
+      "term": "Groupthink"
+    },
+    {
+      "definition": "A statement that fixes the exact meaning of a word, so that everybody uses it the same way.",
+      "dictionaryId": "lex.sa.mind.mathlit_definition",
+      "example": "The definition of a tolerance is written at the top of the drawing, and every measurement follows it.",
+      "fieldId": "mind",
+      "id": "mathlit_definition",
+      "lessonIds": [
+        "article_math_and_literature"
+      ],
+      "packs": [
+        "knw.mind.math_and_literature"
+      ],
+      "term": "Definition"
+    },
+    {
+      "definition": "A statement that a system takes as true and never proves for itself.",
+      "dictionaryId": "lex.sa.mind.mathlit_axiom",
+      "example": "The axioms are the starting points of the proof, and everything after them is derived.",
+      "fieldId": "mind",
+      "id": "mathlit_axiom",
+      "lessonIds": [
+        "article_math_and_literature"
+      ],
+      "packs": [
+        "knw.mind.math_and_literature"
+      ],
+      "term": "Axiom"
+    },
+    {
+      "definition": "The step that carries you from what is already accepted to what follows from it.",
+      "dictionaryId": "lex.sa.mind.mathlit_deduction",
+      "example": "By logical deduction, the conclusion follows from the premises, and nothing else is needed.",
+      "fieldId": "mind",
+      "id": "mathlit_deduction",
+      "lessonIds": [
+        "article_math_and_literature"
+      ],
+      "packs": [
+        "knw.mind.math_and_literature"
+      ],
+      "term": "Logical deduction"
+    },
+    {
+      "definition": "A working idea of how something behaves, kept by the writer and never written as a rule.",
+      "dictionaryId": "lex.sa.mind.mathlit_model",
+      "example": "The writer has a model of how a nervous engineer behaves, and every scene is built on it.",
+      "fieldId": "mind",
+      "id": "mathlit_model",
+      "lessonIds": [
+        "article_math_and_literature"
+      ],
+      "packs": [
+        "knw.mind.math_and_literature"
+      ],
+      "term": "Model"
+    },
+    {
+      "definition": "The written record of a reasoning, in which every line follows from the lines above it.",
+      "dictionaryId": "lex.sa.mind.mathlit_proof",
+      "example": "The proof is short, and any reader can check it line by line.",
+      "fieldId": "mind",
+      "id": "mathlit_proof",
+      "lessonIds": [
+        "article_math_and_literature"
+      ],
+      "packs": [
+        "knw.mind.math_and_literature"
+      ],
+      "term": "Proof"
+    },
+    {
+      "definition": "A statement that an argument starts from and takes as given.",
+      "dictionaryId": "lex.sa.mind.mathlit_premise",
+      "example": "The premise is wrong, so the conclusion is right only in the proof.",
+      "fieldId": "mind",
+      "id": "mathlit_premise",
+      "lessonIds": [
+        "article_math_and_literature"
+      ],
+      "packs": [
+        "knw.mind.math_and_literature"
+      ],
+      "term": "Premise"
     }
   ],
   "nextCursor": "560",

@@ -1,160 +1,6 @@
 {
   "items": [
     {
-      "definition": "The result of a division, without the part that is left over.",
-      "dictionaryId": "lex.sa.mathematics.ma_quotient",
-      "example": "The quotient of 87 and 7 is 12, with a remainder of 3.",
-      "fieldId": "mathematics",
-      "id": "ma_quotient",
-      "lessonIds": [
-        "article_mental_arithmetic"
-      ],
-      "packs": [
-        "knw.math.mental_arithmetic"
-      ],
-      "term": "Quotient"
-    },
-    {
-      "definition": "The total of all the digits of a number, used to test whether it is a multiple of 9.",
-      "dictionaryId": "lex.sa.mathematics.ma_digit_sum",
-      "example": "The digit sum of 1296 is 1 + 2 + 9 + 6 = 18, a multiple of 9.",
-      "fieldId": "mathematics",
-      "id": "ma_digit_sum",
-      "lessonIds": [
-        "article_mental_arithmetic"
-      ],
-      "packs": [
-        "knw.math.mental_arithmetic"
-      ],
-      "term": "Digit sum"
-    },
-    {
-      "definition": "A period in which investment and valuations in AI exceed the technology's near-term economic value.",
-      "dictionaryId": "lex.sa.mind.ai_bubble",
-      "example": "",
-      "fieldId": "mind",
-      "id": "ai_bubble",
-      "lessonIds": [
-        "article_ai_bubble"
-      ],
-      "packs": [
-        "knw.mind.ai_bubble"
-      ],
-      "term": "AI bubble"
-    },
-    {
-      "definition": "The observed pattern in which new technologies pass through inflated expectations, disappointment, and eventual steady adoption.",
-      "dictionaryId": "lex.sa.mind.hype_cycle",
-      "example": "",
-      "fieldId": "mind",
-      "id": "hype_cycle",
-      "lessonIds": [
-        "article_ai_bubble"
-      ],
-      "packs": [
-        "knw.mind.ai_bubble"
-      ],
-      "term": "Hype cycle"
-    },
-    {
-      "definition": "The total price investors place on a company or sector, reflecting expected future profits rather than current ones.",
-      "dictionaryId": "lex.sa.mind.market_valuation",
-      "example": "",
-      "fieldId": "mind",
-      "id": "market_valuation",
-      "lessonIds": [
-        "article_ai_bubble"
-      ],
-      "packs": [
-        "knw.mind.ai_bubble"
-      ],
-      "term": "Market valuation"
-    },
-    {
-      "definition": "The historical lag between the arrival of a transformative technology and its measurable effect on economic productivity.",
-      "dictionaryId": "lex.sa.mind.productivity_paradox",
-      "example": "",
-      "fieldId": "mind",
-      "id": "productivity_paradox",
-      "lessonIds": [
-        "article_ai_bubble"
-      ],
-      "packs": [
-        "knw.mind.ai_bubble"
-      ],
-      "term": "Productivity paradox"
-    },
-    {
-      "definition": "The investigation of claims, numbers and risks before committing money or reputation.",
-      "dictionaryId": "lex.sa.mind.due_diligence",
-      "example": "",
-      "fieldId": "mind",
-      "id": "due_diligence",
-      "lessonIds": [
-        "article_ai_bubble"
-      ],
-      "packs": [
-        "knw.mind.ai_bubble"
-      ],
-      "term": "Due diligence"
-    },
-    {
-      "definition": "The revenue and cost attached to one unit of a product — the arithmetic of whether a business model works.",
-      "dictionaryId": "lex.sa.mind.unit_economics",
-      "example": "",
-      "fieldId": "mind",
-      "id": "unit_economics",
-      "lessonIds": [
-        "article_ai_bubble"
-      ],
-      "packs": [
-        "knw.mind.ai_bubble"
-      ],
-      "term": "Unit economics"
-    },
-    {
-      "definition": "The pattern in which removing difficulty lowers the tolerance for difficulty, making life feel harder even as it gets easier.",
-      "dictionaryId": "lex.sa.mind.comfort_paradox",
-      "example": "",
-      "fieldId": "mind",
-      "id": "comfort_paradox",
-      "lessonIds": [
-        "article_comfort_paradox"
-      ],
-      "packs": [
-        "knw.mind.comfort_paradox"
-      ],
-      "term": "Paradox of comfort"
-    },
-    {
-      "definition": "The capacity to recover quickly and fully after stress, failure or loss.",
-      "dictionaryId": "lex.sa.mind.resilience",
-      "example": "",
-      "fieldId": "mind",
-      "id": "resilience",
-      "lessonIds": [
-        "article_comfort_paradox"
-      ],
-      "packs": [
-        "knw.mind.comfort_paradox"
-      ],
-      "term": "Resilience"
-    },
-    {
-      "definition": "Sustained effort toward long-term goals, maintained through boredom and setbacks.",
-      "dictionaryId": "lex.sa.mind.grit",
-      "example": "",
-      "fieldId": "mind",
-      "id": "grit",
-      "lessonIds": [
-        "article_comfort_paradox"
-      ],
-      "packs": [
-        "knw.mind.comfort_paradox"
-      ],
-      "term": "Grit"
-    },
-    {
       "definition": "The property of growing stronger under stress and disorder, beyond mere resistance to damage.",
       "dictionaryId": "lex.sa.mind.antifragility",
       "example": "",
@@ -560,6 +406,160 @@
         "knw.mind.gaslighting_darvo"
       ],
       "term": "Documentation"
+    },
+    {
+      "definition": "The small set of fixed sentences used to rewrite an account, at work and at home.",
+      "dictionaryId": "lex.sa.mind.gd_gaslighting_vocabulary",
+      "example": "The gaslighting vocabulary is short: you are misremembering, I never said that.",
+      "fieldId": "mind",
+      "id": "gd_gaslighting_vocabulary",
+      "lessonIds": [
+        "article_gaslighting_darvo"
+      ],
+      "packs": [
+        "knw.mind.gaslighting_darvo"
+      ],
+      "term": "Gaslighting vocabulary"
+    },
+    {
+      "definition": "The false feeling of competence that comes from producing results with powerful tools rather than from owned ability.",
+      "dictionaryId": "lex.sa.mind.illusion_of_skill",
+      "example": "",
+      "fieldId": "mind",
+      "id": "illusion_of_skill",
+      "lessonIds": [
+        "article_illusion_skill"
+      ],
+      "packs": [
+        "knw.mind.illusion_skill"
+      ],
+      "term": "Illusion of skill"
+    },
+    {
+      "definition": "Results and confidence produced by tools, which the user experiences as personal ability.",
+      "dictionaryId": "lex.sa.mind.borrowed_competence",
+      "example": "",
+      "fieldId": "mind",
+      "id": "borrowed_competence",
+      "lessonIds": [
+        "article_illusion_skill"
+      ],
+      "packs": [
+        "knw.mind.illusion_skill"
+      ],
+      "term": "Borrowed competence"
+    },
+    {
+      "definition": "The systematic tendency to overestimate the accuracy of one's own knowledge and the odds of one's success.",
+      "dictionaryId": "lex.sa.mind.overconfidence_bias",
+      "example": "",
+      "fieldId": "mind",
+      "id": "overconfidence_bias",
+      "lessonIds": [
+        "article_illusion_skill"
+      ],
+      "packs": [
+        "knw.mind.illusion_skill"
+      ],
+      "term": "Overconfidence bias"
+    },
+    {
+      "definition": "The tendency to trust automated systems more than one's own judgment, especially under pressure or fatigue.",
+      "dictionaryId": "lex.sa.mind.automation_bias",
+      "example": "",
+      "fieldId": "mind",
+      "id": "automation_bias",
+      "lessonIds": [
+        "article_illusion_skill"
+      ],
+      "packs": [
+        "knw.mind.illusion_skill"
+      ],
+      "term": "Automation bias"
+    },
+    {
+      "definition": "The accuracy of your self-assessment: how closely your confidence matches your actual performance.",
+      "dictionaryId": "lex.sa.mind.calibration",
+      "example": "",
+      "fieldId": "mind",
+      "id": "calibration",
+      "lessonIds": [
+        "article_illusion_skill"
+      ],
+      "packs": [
+        "knw.mind.illusion_skill"
+      ],
+      "term": "Calibration"
+    },
+    {
+      "definition": "The weakening of a skill through long disuse, often because a tool has performed it instead.",
+      "dictionaryId": "lex.sa.mind.skill_atrophy",
+      "example": "",
+      "fieldId": "mind",
+      "id": "skill_atrophy",
+      "lessonIds": [
+        "article_illusion_skill"
+      ],
+      "packs": [
+        "knw.mind.illusion_skill"
+      ],
+      "term": "Skill atrophy"
+    },
+    {
+      "definition": "The ability you have to do something, whatever you decide to do it for.",
+      "dictionaryId": "lex.sa.mind.dual_capacity",
+      "example": "He had the capacity to read a face well, and the capacity was never the question.",
+      "fieldId": "mind",
+      "id": "dual_capacity",
+      "lessonIds": [
+        "article_inner_dual"
+      ],
+      "packs": [
+        "knw.mind.inner_dual"
+      ],
+      "term": "Capacity"
+    },
+    {
+      "definition": "The aim that is behind an act: what the act is for.",
+      "dictionaryId": "lex.sa.mind.dual_motive",
+      "example": "The motive was to keep the machine running, and the motive decided the rest.",
+      "fieldId": "mind",
+      "id": "dual_motive",
+      "lessonIds": [
+        "article_inner_dual"
+      ],
+      "packs": [
+        "knw.mind.inner_dual"
+      ],
+      "term": "Motive"
+    },
+    {
+      "definition": "The way an aim is carried out: the tools, the words and the methods used.",
+      "dictionaryId": "lex.sa.mind.dual_means",
+      "example": "The means were ordinary tools used in an ordinary way.",
+      "fieldId": "mind",
+      "id": "dual_means",
+      "lessonIds": [
+        "article_inner_dual"
+      ],
+      "packs": [
+        "knw.mind.inner_dual"
+      ],
+      "term": "Means"
+    },
+    {
+      "definition": "An act repeated until it can be done without thinking about it.",
+      "dictionaryId": "lex.sa.mind.dual_habit",
+      "example": "It was a habit, and the habit had been built one small repetition at a time.",
+      "fieldId": "mind",
+      "id": "dual_habit",
+      "lessonIds": [
+        "article_inner_dual"
+      ],
+      "packs": [
+        "knw.mind.inner_dual"
+      ],
+      "term": "Habit"
     }
   ],
   "nextCursor": "480",

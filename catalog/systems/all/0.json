@@ -2,16 +2,6 @@
   "items": [
     {
       "fieldId": "culture",
-      "id": "varieties_of_english",
-      "name": "Varieties of English around the world",
-      "order": 1,
-      "summary": "How one language split into British, American, Australian, Indian and Singapore English, and how to understand each of them.",
-      "topicIds": [
-        "article_varieties_of_english"
-      ]
-    },
-    {
-      "fieldId": "culture",
       "id": "less_time_together",
       "name": "Spending less time together",
       "order": 1,
@@ -184,16 +174,16 @@
       "id": "bedtime_tales",
       "name": "Bedtime tales",
       "order": 1,
-      "summary": "Short stories for small readers, each one with a beginning, a middle, an end and a small lesson.",
+      "summary": "Short stories for little readers: a beginning, a surprise in the middle, and one small lesson at the end.",
       "topicIds": [
         "article_bear_sharing",
         "article_little_bird_fly",
         "article_magical_forest",
         "article_lion_and_mouse",
-        "article_little_rabbit_dark",
         "article_tiny_seed",
         "article_lost_puppy",
-        "article_boy_who_told_truth"
+        "article_boy_who_told_truth",
+        "article_little_rabbit_dark"
       ]
     },
     {
@@ -439,26 +429,6 @@
       ]
     },
     {
-      "fieldId": "mind",
-      "id": "specialization_blindspot",
-      "name": "Specialisation and its blind spot",
-      "order": 11,
-      "summary": "Why deep skill in one field makes a person less able to judge another, and how to work around it.",
-      "topicIds": [
-        "article_specialization_blindspot"
-      ]
-    },
-    {
-      "fieldId": "money",
-      "id": "credit_and_interest",
-      "name": "Credit cards and interest rates",
-      "order": 1,
-      "summary": "How borrowing on a card works: billing cycles, interest, minimum payments, and the traps that follow them.",
-      "topicIds": [
-        "article_credit_cards"
-      ]
-    },
-    {
       "fieldId": "money",
       "id": "currencies",
       "name": "Currencies of the world",
@@ -466,6 +436,36 @@
       "summary": "The money of every country: the code, the sign, the smallest unit, the way it is spent and what it means.",
       "topicIds": [
         "article_world_currencies"
+      ]
+    },
+    {
+      "fieldId": "social",
+      "id": "attachment_styles",
+      "name": "Attachment styles: the four patterns and the words for them",
+      "order": 8,
+      "summary": "How attachment works in an adult relationship, how each of the four styles shows up, and the words a reader can use to ask for what they need.",
+      "topicIds": [
+        "article_attachment_styles"
+      ]
+    },
+    {
+      "fieldId": "social",
+      "id": "emotional_regulation_relationships",
+      "name": "Feelings, expectations and the words between them",
+      "order": 11,
+      "summary": "What a feeling changes in a relationship, what an unspoken rule does to a conversation, and the words that repair it.",
+      "topicIds": [
+        "article_emotional_regulation_relationships"
+      ]
+    },
+    {
+      "fieldId": "social",
+      "id": "gender_emotional_maturity",
+      "name": "Emotional maturity and the differences between people",
+      "order": 5,
+      "summary": "What emotional maturity is made of, what an average difference can tell you, and how to talk about it without a fight.",
+      "topicIds": [
+        "article_gender_emotional_maturity"
       ]
     }
   ],

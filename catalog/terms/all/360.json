@@ -1,174 +1,6 @@
 {
   "items": [
     {
-      "definition": "A green climbing plant that grows up walls and trees. It holds on tightly and hides what is behind it.",
-      "dictionaryId": "lex.sa.kids_adventure.ivy",
-      "example": "Ivy grew across the green door.",
-      "fieldId": "kids_adventure",
-      "id": "ivy",
-      "lessonIds": [
-        "article_secret_door"
-      ],
-      "packs": [
-        "knw.kids.adventure.door"
-      ],
-      "term": "Ivy"
-    },
-    {
-      "definition": "An open space in the middle of woods, where the trees step back and the sky reaches the ground.",
-      "dictionaryId": "lex.sa.kids_adventure.clearing",
-      "example": "The path led to a small clearing.",
-      "fieldId": "kids_adventure",
-      "id": "clearing",
-      "lessonIds": [
-        "article_secret_door"
-      ],
-      "packs": [
-        "knw.kids.adventure.door"
-      ],
-      "term": "Clearing"
-    },
-    {
-      "definition": "To put a seed into the ground and look after it. Planting is a promise to come back.",
-      "dictionaryId": "lex.sa.kids_adventure.plant",
-      "example": "Bình planted the seed on the first of April.",
-      "fieldId": "kids_adventure",
-      "id": "plant",
-      "lessonIds": [
-        "article_secret_door"
-      ],
-      "packs": [
-        "knw.kids.adventure.door"
-      ],
-      "term": "To plant"
-    },
-    {
-      "definition": "Kept out of sight, so that people walk past without noticing.",
-      "dictionaryId": "lex.sa.kids_adventure.hidden",
-      "example": "The door was hidden under the ivy.",
-      "fieldId": "kids_adventure",
-      "id": "hidden",
-      "lessonIds": [
-        "article_secret_door"
-      ],
-      "packs": [
-        "knw.kids.adventure.door"
-      ],
-      "term": "Hidden"
-    },
-    {
-      "definition": "Something you want very much and keep safe. It can be gold, but it can also be a letter or a photograph.",
-      "dictionaryId": "lex.sa.kids_adventure.treasure",
-      "example": "The box in the grass held the real treasure.",
-      "fieldId": "kids_adventure",
-      "id": "treasure",
-      "lessonIds": [
-        "article_hidden_treasure"
-      ],
-      "packs": [
-        "knw.kids.adventure.explorer"
-      ],
-      "term": "Treasure"
-    },
-    {
-      "definition": "A drawing of a place, seen from above. A map shows you the way and shows you where things are.",
-      "dictionaryId": "lex.sa.kids_adventure.map",
-      "example": "Tuấn unfolded the old map on the kitchen table.",
-      "fieldId": "kids_adventure",
-      "id": "map",
-      "lessonIds": [
-        "article_hidden_treasure"
-      ],
-      "packs": [
-        "knw.kids.adventure.explorer"
-      ],
-      "term": "Map"
-    },
-    {
-      "definition": "A small hint. Clues come one after another, and each one points to the next.",
-      "dictionaryId": "lex.sa.kids_adventure.clue",
-      "example": "The third clue was a picture of a bench and a nail.",
-      "fieldId": "kids_adventure",
-      "id": "clue",
-      "lessonIds": [
-        "article_hidden_treasure"
-      ],
-      "packs": [
-        "knw.kids.adventure.explorer"
-      ],
-      "term": "Clue"
-    },
-    {
-      "definition": "A small tool with a needle that points north. Explorers use a compass so they walk in a straight line.",
-      "dictionaryId": "lex.sa.kids_adventure.compass",
-      "example": "The compass needle spun because of the iron in the ground.",
-      "fieldId": "kids_adventure",
-      "id": "compass",
-      "lessonIds": [
-        "article_hidden_treasure"
-      ],
-      "packs": [
-        "knw.kids.adventure.explorer"
-      ],
-      "term": "Compass"
-    },
-    {
-      "definition": "A small mountain, high in the middle and low at the edges. You can walk up a hill in a few minutes.",
-      "dictionaryId": "lex.sa.kids_adventure.hill",
-      "example": "They walked up the hill to look for the treasure.",
-      "fieldId": "kids_adventure",
-      "id": "hill",
-      "lessonIds": [
-        "article_hidden_treasure"
-      ],
-      "packs": [
-        "knw.kids.adventure.explorer"
-      ],
-      "term": "Hill"
-    },
-    {
-      "definition": "A small sense organ on a robot. It tells the robot what is around it, or how it feels.",
-      "dictionaryId": "lex.sa.kids_adventure.sensor",
-      "example": "Bit's sensor flashed red when he was worried.",
-      "fieldId": "kids_adventure",
-      "id": "sensor",
-      "lessonIds": [
-        "article_robot_wanted_a_friend"
-      ],
-      "packs": [
-        "knw.kids.adventure.robot"
-      ],
-      "term": "Sensor"
-    },
-    {
-      "definition": "The store of energy that makes a robot move. When it runs low, the robot has to plug in.",
-      "dictionaryId": "lex.sa.kids_adventure.battery",
-      "example": "Bit's battery was getting low by the afternoon.",
-      "fieldId": "kids_adventure",
-      "id": "battery",
-      "lessonIds": [
-        "article_robot_wanted_a_friend"
-      ],
-      "packs": [
-        "knw.kids.adventure.robot"
-      ],
-      "term": "Battery"
-    },
-    {
-      "definition": "A small switch you press to make something happen. Pressing a robot's button can wake it up.",
-      "dictionaryId": "lex.sa.kids_adventure.button",
-      "example": "He pressed the button on the old robot's chest.",
-      "fieldId": "kids_adventure",
-      "id": "button",
-      "lessonIds": [
-        "article_robot_wanted_a_friend"
-      ],
-      "packs": [
-        "knw.kids.adventure.robot"
-      ],
-      "term": "Button"
-    },
-    {
       "definition": "The place where a robot goes to fill its battery with energy.",
       "dictionaryId": "lex.sa.kids_adventure.charging_post",
       "example": "Bit climbed down from the charging post.",
@@ -561,6 +393,177 @@
         "knw.kids.animals.pets"
       ],
       "term": "Veterinary doctor (vet)"
+    },
+    {
+      "conflict": true,
+      "definition": "The band that goes around a dog's neck. It can hold a small tag with the dog's name.",
+      "dictionaryId": "lex.sa.kids_stories.collar",
+      "example": "Mum put Pip's name on his new collar.",
+      "fieldId": "kids_animals",
+      "id": "collar",
+      "lessonIds": [
+        "article_lost_puppy",
+        "article_pets"
+      ],
+      "packs": [
+        "knw.kids.animals.pets",
+        "knw.kids.stories.puppy"
+      ],
+      "term": "Collar"
+    },
+    {
+      "definition": "A strap you hold when you walk a dog, so the dog stays safe near traffic.",
+      "dictionaryId": "lex.sa.kids_animals.leash",
+      "example": "I hold the leash tightly at the crossing.",
+      "fieldId": "kids_animals",
+      "id": "leash",
+      "lessonIds": [
+        "article_pets"
+      ],
+      "packs": [
+        "knw.kids.animals.pets"
+      ],
+      "term": "Leash"
+    },
+    {
+      "definition": "Cleaning and brushing an animal's fur, nails and teeth to keep it healthy.",
+      "dictionaryId": "lex.sa.kids_animals.grooming",
+      "example": "We brush the cat every week. That is grooming.",
+      "fieldId": "kids_animals",
+      "id": "grooming",
+      "lessonIds": [
+        "article_pets"
+      ],
+      "packs": [
+        "knw.kids.animals.pets"
+      ],
+      "term": "Grooming"
+    },
+    {
+      "definition": "A set of things you do in the same order every time. A bedtime routine helps your body get sleepy.",
+      "dictionaryId": "lex.sa.kids_daily.routine",
+      "example": "Our bedtime routine is the same every night.",
+      "fieldId": "kids_daily",
+      "id": "routine",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Routine"
+    },
+    {
+      "definition": "The soft clothes you wear in bed.",
+      "dictionaryId": "lex.sa.kids_daily.pyjamas",
+      "example": "I put on my pyjamas before I brush my teeth.",
+      "fieldId": "kids_daily",
+      "id": "pyjamas",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Pyjamas"
+    },
+    {
+      "definition": "To clean your teeth with a toothbrush and toothpaste, usually for two minutes.",
+      "dictionaryId": "lex.sa.kids_daily.brush_your_teeth",
+      "example": "I brush my teeth before I put on my pyjamas.",
+      "fieldId": "kids_daily",
+      "id": "brush_your_teeth",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Brush your teeth"
+    },
+    {
+      "definition": "What you say to somebody when you go to bed. It is a wish for a deep sleep.",
+      "dictionaryId": "lex.sa.kids_daily.good_night",
+      "example": "I say good night to my grandmother every night.",
+      "fieldId": "kids_daily",
+      "id": "good_night",
+      "lessonIds": [
+        "article_getting_ready_for_bedtime"
+      ],
+      "packs": [
+        "knw.kids.daily.bedtime"
+      ],
+      "term": "Good night"
+    },
+    {
+      "definition": "A child who is in the same class as you. Classmates are the easiest people to be friends with.",
+      "dictionaryId": "lex.sa.kids_daily.classmate",
+      "example": "Mai is my classmate, and she sits next to me.",
+      "fieldId": "kids_daily",
+      "id": "classmate",
+      "lessonIds": [
+        "article_making_friends_at_school"
+      ],
+      "packs": [
+        "knw.kids.daily.friends"
+      ],
+      "term": "Classmate"
+    },
+    {
+      "definition": "To say your name to somebody for the first time. It only means saying your name.",
+      "dictionaryId": "lex.sa.kids_daily.introduce_yourself",
+      "example": "I introduced myself and said, I am An.",
+      "fieldId": "kids_daily",
+      "id": "introduce_yourself",
+      "lessonIds": [
+        "article_making_friends_at_school"
+      ],
+      "packs": [
+        "knw.kids.daily.friends"
+      ],
+      "term": "Introduce yourself"
+    },
+    {
+      "definition": "To start playing with a group that is already playing. You ask first, and then you join in.",
+      "dictionaryId": "lex.sa.kids_daily.join_in",
+      "example": "Can I join in your game?",
+      "fieldId": "kids_daily",
+      "id": "join_in",
+      "lessonIds": [
+        "article_making_friends_at_school"
+      ],
+      "packs": [
+        "knw.kids.daily.friends"
+      ],
+      "term": "Join in"
+    },
+    {
+      "definition": "To do the same game with another child, side by side. It is the simplest friendship there is.",
+      "dictionaryId": "lex.sa.kids_daily.play_together",
+      "example": "We play together at break time every day.",
+      "fieldId": "kids_daily",
+      "id": "play_together",
+      "lessonIds": [
+        "article_making_friends_at_school"
+      ],
+      "packs": [
+        "knw.kids.daily.friends"
+      ],
+      "term": "Play together"
+    },
+    {
+      "definition": "A child you have just met. Saying hello twice makes a new child feel welcome.",
+      "dictionaryId": "lex.sa.kids_daily.new_friend",
+      "example": "I have a new friend in class 4B.",
+      "fieldId": "kids_daily",
+      "id": "new_friend",
+      "lessonIds": [
+        "article_making_friends_at_school"
+      ],
+      "packs": [
+        "knw.kids.daily.friends"
+      ],
+      "term": "New friend"
     }
   ],
   "nextCursor": "400",

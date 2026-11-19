@@ -1,104 +1,6 @@
 {
   "items": [
     {
-      "definition": "The part under the soil. It holds the plant in place and drinks up water and minerals.",
-      "dictionaryId": "lex.sa.kids_science.roots",
-      "example": "The roots reached the water at the bottom of the pot.",
-      "fieldId": "kids_science",
-      "id": "roots",
-      "lessonIds": [
-        "article_science_plants"
-      ],
-      "packs": [
-        "knw.kids.science.plants"
-      ],
-      "term": "Roots"
-    },
-    {
-      "definition": "The stalk of the plant. It holds the leaves up and carries water and food.",
-      "dictionaryId": "lex.sa.kids_science.stem",
-      "example": "The stem was thicker this year than last year.",
-      "fieldId": "kids_science",
-      "id": "stem",
-      "lessonIds": [
-        "article_science_plants"
-      ],
-      "packs": [
-        "knw.kids.science.plants"
-      ],
-      "term": "Stem"
-    },
-    {
-      "definition": "The green parts that catch sunlight and make food for the plant.",
-      "dictionaryId": "lex.sa.kids_science.leaves",
-      "example": "The leaves turned yellow because the plant was in the dark.",
-      "fieldId": "kids_science",
-      "id": "leaves",
-      "lessonIds": [
-        "article_science_plants"
-      ],
-      "packs": [
-        "knw.kids.science.plants"
-      ],
-      "term": "Leaves"
-    },
-    {
-      "definition": "The way a leaf makes sugar from light, water and air, and gives out oxygen.",
-      "dictionaryId": "lex.sa.kids_science.photosynthesis",
-      "example": "Photosynthesis is why leaves are green and why we can breathe.",
-      "fieldId": "kids_science",
-      "id": "photosynthesis",
-      "lessonIds": [
-        "article_science_plants"
-      ],
-      "packs": [
-        "knw.kids.science.plants"
-      ],
-      "term": "Photosynthesis"
-    },
-    {
-      "definition": "When liquid water warms up, turns into vapour, and rises into the air.",
-      "dictionaryId": "lex.sa.kids_science.evaporation",
-      "example": "Evaporation dried the wet clothes on the line.",
-      "fieldId": "kids_science",
-      "id": "evaporation",
-      "lessonIds": [
-        "article_science_rain"
-      ],
-      "packs": [
-        "knw.kids.science.rain"
-      ],
-      "term": "Evaporation"
-    },
-    {
-      "definition": "When vapour cools and turns back into tiny drops of water, like the drops on a cold glass.",
-      "dictionaryId": "lex.sa.kids_science.condensation",
-      "example": "Condensation makes the cloud in the sky.",
-      "fieldId": "kids_science",
-      "id": "condensation",
-      "lessonIds": [
-        "article_science_rain"
-      ],
-      "packs": [
-        "knw.kids.science.rain"
-      ],
-      "term": "Condensation"
-    },
-    {
-      "definition": "A huge group of tiny water drops, or ice crystals, floating together high in the air.",
-      "dictionaryId": "lex.sa.kids_science.cloud",
-      "example": "That cloud is grey because it holds so much water.",
-      "fieldId": "kids_science",
-      "id": "cloud",
-      "lessonIds": [
-        "article_science_rain"
-      ],
-      "packs": [
-        "knw.kids.science.rain"
-      ],
-      "term": "Cloud"
-    },
-    {
       "definition": "Any water that falls out of a cloud: rain, snow, sleet or hail.",
       "dictionaryId": "lex.sa.kids_science.precipitation",
       "example": "The forecast said precipitation, so I took my umbrella.",
@@ -564,6 +466,104 @@
         "knw.kids.stories.mouse"
       ],
       "term": "Purr"
+    },
+    {
+      "definition": "A baby plant that has just come out of the soil. Very small, very green.",
+      "dictionaryId": "lex.sa.kids_stories.sprout",
+      "example": "A green sprout appeared above the soil.",
+      "fieldId": "kids_stories",
+      "id": "sprout",
+      "lessonIds": [
+        "article_tiny_seed"
+      ],
+      "packs": [
+        "knw.kids.stories.seed"
+      ],
+      "term": "Sprout"
+    },
+    {
+      "definition": "The soft earth where plants grow. It holds water and food for the roots.",
+      "dictionaryId": "lex.sa.kids_stories.soil",
+      "example": "The seed fell into the soft brown soil.",
+      "fieldId": "kids_stories",
+      "id": "soil",
+      "lessonIds": [
+        "article_tiny_seed"
+      ],
+      "packs": [
+        "knw.kids.stories.seed"
+      ],
+      "term": "Soil"
+    },
+    {
+      "definition": "An AI system that plans and acts toward a goal, using tools and intermediate steps rather than answering in one shot.",
+      "dictionaryId": "lex.sa.mind.ai_agent",
+      "example": "",
+      "fieldId": "mind",
+      "id": "ai_agent",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "AI agent"
+    },
+    {
+      "definition": "A setup in which several specialized AI agents divide a task among themselves and pass work along.",
+      "dictionaryId": "lex.sa.mind.multi_agent_system",
+      "example": "",
+      "fieldId": "mind",
+      "id": "multi_agent_system",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "Multi-agent system"
+    },
+    {
+      "definition": "The coordination of multiple agents: deciding their roles, order, tools and stopping conditions.",
+      "dictionaryId": "lex.sa.mind.orchestration",
+      "example": "",
+      "fieldId": "mind",
+      "id": "orchestration",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "Orchestration"
+    },
+    {
+      "definition": "A design in which a person reviews and approves an agent's work before it takes effect.",
+      "dictionaryId": "lex.sa.mind.human_in_the_loop",
+      "example": "",
+      "fieldId": "mind",
+      "id": "human_in_the_loop",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "Human in the loop"
+    },
+    {
+      "definition": "The process of checking that output meets its requirements before it is used or shipped.",
+      "dictionaryId": "lex.sa.mind.quality_control",
+      "example": "",
+      "fieldId": "mind",
+      "id": "quality_control",
+      "lessonIds": [
+        "article_ai_agents"
+      ],
+      "packs": [
+        "knw.mind.ai_agents"
+      ],
+      "term": "Quality control"
     }
   ],
   "nextCursor": "240",

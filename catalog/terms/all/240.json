@@ -1,176 +1,6 @@
 {
   "items": [
     {
-      "definition": "The home a rabbit digs under the ground. It is soft and safe and it has a round door.",
-      "dictionaryId": "lex.sa.kids_stories.burrow",
-      "example": "Pip's burrow has a round door and soft walls.",
-      "fieldId": "kids_stories",
-      "id": "burrow",
-      "lessonIds": [
-        "article_little_rabbit_dark"
-      ],
-      "packs": [
-        "knw.kids.stories.rabbit"
-      ],
-      "term": "Burrow"
-    },
-    {
-      "definition": "A very small insect that makes its own light. It glows in the dark.",
-      "dictionaryId": "lex.sa.kids_stories.firefly",
-      "example": "A firefly lit the path for Pip.",
-      "fieldId": "kids_stories",
-      "id": "firefly",
-      "lessonIds": [
-        "article_little_rabbit_dark"
-      ],
-      "packs": [
-        "knw.kids.stories.rabbit"
-      ],
-      "term": "Firefly"
-    },
-    {
-      "definition": "A light you can carry in your hand. It goes wherever you go.",
-      "dictionaryId": "lex.sa.kids_stories.lantern",
-      "example": "Grandmother Owl gave Pip a tiny lantern.",
-      "fieldId": "kids_stories",
-      "id": "lantern",
-      "lessonIds": [
-        "article_little_rabbit_dark"
-      ],
-      "packs": [
-        "knw.kids.stories.rabbit"
-      ],
-      "term": "Lantern"
-    },
-    {
-      "definition": "Not feeling no fear, but going on anyway. Brave is about what you do, not what you feel.",
-      "dictionaryId": "lex.sa.kids_stories.brave",
-      "example": "Pip was brave and took one more step.",
-      "fieldId": "kids_stories",
-      "id": "brave",
-      "lessonIds": [
-        "article_boy_who_told_truth",
-        "article_little_rabbit_dark"
-      ],
-      "packs": [
-        "knw.kids.stories.rabbit",
-        "knw.kids.stories.truth"
-      ],
-      "term": "Brave"
-    },
-    {
-      "definition": "A dark shape that appears when something blocks the light.",
-      "dictionaryId": "lex.sa.kids_stories.shadow",
-      "example": "The old tree made a long shadow on the path.",
-      "fieldId": "kids_stories",
-      "id": "shadow",
-      "lessonIds": [
-        "article_little_rabbit_dark"
-      ],
-      "packs": [
-        "knw.kids.stories.rabbit"
-      ],
-      "term": "Shadow"
-    },
-    {
-      "definition": "A baby plant that has just come out of the soil. Very small, very green.",
-      "dictionaryId": "lex.sa.kids_stories.sprout",
-      "example": "A green sprout appeared above the soil.",
-      "fieldId": "kids_stories",
-      "id": "sprout",
-      "lessonIds": [
-        "article_tiny_seed"
-      ],
-      "packs": [
-        "knw.kids.stories.seed"
-      ],
-      "term": "Sprout"
-    },
-    {
-      "definition": "The soft earth where plants grow. It holds water and food for the roots.",
-      "dictionaryId": "lex.sa.kids_stories.soil",
-      "example": "The seed fell into the soft brown soil.",
-      "fieldId": "kids_stories",
-      "id": "soil",
-      "lessonIds": [
-        "article_tiny_seed"
-      ],
-      "packs": [
-        "knw.kids.stories.seed"
-      ],
-      "term": "Soil"
-    },
-    {
-      "definition": "An AI system that plans and acts toward a goal, using tools and intermediate steps rather than answering in one shot.",
-      "dictionaryId": "lex.sa.mind.ai_agent",
-      "example": "",
-      "fieldId": "mind",
-      "id": "ai_agent",
-      "lessonIds": [
-        "article_ai_agents"
-      ],
-      "packs": [
-        "knw.mind.ai_agents"
-      ],
-      "term": "AI agent"
-    },
-    {
-      "definition": "A setup in which several specialized AI agents divide a task among themselves and pass work along.",
-      "dictionaryId": "lex.sa.mind.multi_agent_system",
-      "example": "",
-      "fieldId": "mind",
-      "id": "multi_agent_system",
-      "lessonIds": [
-        "article_ai_agents"
-      ],
-      "packs": [
-        "knw.mind.ai_agents"
-      ],
-      "term": "Multi-agent system"
-    },
-    {
-      "definition": "The coordination of multiple agents: deciding their roles, order, tools and stopping conditions.",
-      "dictionaryId": "lex.sa.mind.orchestration",
-      "example": "",
-      "fieldId": "mind",
-      "id": "orchestration",
-      "lessonIds": [
-        "article_ai_agents"
-      ],
-      "packs": [
-        "knw.mind.ai_agents"
-      ],
-      "term": "Orchestration"
-    },
-    {
-      "definition": "A design in which a person reviews and approves an agent's work before it takes effect.",
-      "dictionaryId": "lex.sa.mind.human_in_the_loop",
-      "example": "",
-      "fieldId": "mind",
-      "id": "human_in_the_loop",
-      "lessonIds": [
-        "article_ai_agents"
-      ],
-      "packs": [
-        "knw.mind.ai_agents"
-      ],
-      "term": "Human in the loop"
-    },
-    {
-      "definition": "The process of checking that output meets its requirements before it is used or shipped.",
-      "dictionaryId": "lex.sa.mind.quality_control",
-      "example": "",
-      "fieldId": "mind",
-      "id": "quality_control",
-      "lessonIds": [
-        "article_ai_agents"
-      ],
-      "packs": [
-        "knw.mind.ai_agents"
-      ],
-      "term": "Quality control"
-    },
-    {
       "definition": "Assigning a task and the authority to complete it; with agents, the responsibility still stays with the delegator.",
       "dictionaryId": "lex.sa.mind.delegation",
       "example": "",
@@ -567,6 +397,177 @@
         "knw.mind.illusion_knowledge"
       ],
       "term": "Confirmation bias"
+    },
+    {
+      "definition": "The tendency to forget information that is easy to find online, while remembering how to find it.",
+      "dictionaryId": "lex.sa.mind.google_effect",
+      "example": "",
+      "fieldId": "mind",
+      "id": "google_effect",
+      "lessonIds": [
+        "article_illusion_knowledge"
+      ],
+      "packs": [
+        "knw.mind.illusion_knowledge"
+      ],
+      "term": "Google effect"
+    },
+    {
+      "definition": "The habit of holding your own beliefs with the right amount of confidence: strong when the evidence is strong, weak when it is weak.",
+      "dictionaryId": "lex.sa.mind.intellectual_humility",
+      "example": "",
+      "fieldId": "mind",
+      "id": "intellectual_humility",
+      "lessonIds": [
+        "article_illusion_knowledge"
+      ],
+      "packs": [
+        "knw.mind.illusion_knowledge"
+      ],
+      "term": "Intellectual humility"
+    },
+    {
+      "definition": "The skill of finding, judging and using information: telling a primary source from an opinion, and evidence from an anecdote.",
+      "dictionaryId": "lex.sa.mind.information_literacy",
+      "example": "",
+      "fieldId": "mind",
+      "id": "information_literacy",
+      "lessonIds": [
+        "article_illusion_knowledge"
+      ],
+      "packs": [
+        "knw.mind.illusion_knowledge"
+      ],
+      "term": "Information literacy"
+    },
+    {
+      "definition": "The state in which incoming information exceeds the capacity to process it, so each new item reduces the value of the ones before it.",
+      "dictionaryId": "lex.sa.mind.information_overload",
+      "example": "",
+      "fieldId": "mind",
+      "id": "information_overload",
+      "lessonIds": [
+        "article_info_overload"
+      ],
+      "packs": [
+        "knw.mind.info_overload"
+      ],
+      "term": "Information overload"
+    },
+    {
+      "definition": "The total amount of mental effort being used by working memory at one time.",
+      "dictionaryId": "lex.sa.mind.cognitive_load",
+      "example": "",
+      "fieldId": "mind",
+      "id": "cognitive_load",
+      "lessonIds": [
+        "article_info_overload"
+      ],
+      "packs": [
+        "knw.mind.info_overload"
+      ],
+      "term": "Cognitive load"
+    },
+    {
+      "definition": "The market in which businesses compete for people's limited attention and resell it to advertisers.",
+      "dictionaryId": "lex.sa.mind.attention_economy",
+      "example": "",
+      "fieldId": "mind",
+      "id": "attention_economy",
+      "lessonIds": [
+        "article_info_overload"
+      ],
+      "packs": [
+        "knw.mind.info_overload"
+      ],
+      "term": "Attention economy"
+    },
+    {
+      "definition": "The proportion of useful information (signal) to everything else (noise) in a stream of content.",
+      "dictionaryId": "lex.sa.mind.signal_to_noise",
+      "example": "",
+      "fieldId": "mind",
+      "id": "signal_to_noise",
+      "lessonIds": [
+        "article_info_overload"
+      ],
+      "packs": [
+        "knw.mind.info_overload"
+      ],
+      "term": "Signal-to-noise ratio"
+    },
+    {
+      "definition": "Familiarity with the surface of many topics without understanding of how any of them works.",
+      "dictionaryId": "lex.sa.mind.shallow_knowledge",
+      "example": "",
+      "fieldId": "mind",
+      "id": "shallow_knowledge",
+      "lessonIds": [
+        "article_info_overload"
+      ],
+      "packs": [
+        "knw.mind.info_overload"
+      ],
+      "term": "Shallow knowledge"
+    },
+    {
+      "conflict": true,
+      "definition": "Reading bad news repeatedly on purpose, because the subject holds your attention. A specific habit, not a synonym for scrolling.",
+      "dictionaryId": "lex.sa.technology.doomscrolling",
+      "example": "That was an hour of doomscrolling, and I felt worse each time I checked.",
+      "fieldId": "mind",
+      "id": "doomscrolling",
+      "lessonIds": [
+        "article_brainrot",
+        "article_info_overload"
+      ],
+      "packs": [
+        "knw.mind.info_overload",
+        "knw.tech.brainrot"
+      ],
+      "term": "Doomscrolling"
+    },
+    {
+      "definition": "Someone who earns income that does not depend on one country and who lives in several places over a year.",
+      "dictionaryId": "lex.sa.culture.digital_nomad",
+      "example": "As a digital nomad, I move when the client contract ends.",
+      "fieldId": "culture",
+      "id": "digital_nomad",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Digital nomad"
+    },
+    {
+      "definition": "A residence permit for people who work remotely for foreign employers or clients without a local work permit.",
+      "dictionaryId": "lex.sa.culture.nomad_visa",
+      "example": "The nomad visa requires proof of income above a monthly threshold.",
+      "fieldId": "culture",
+      "id": "nomad_visa",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Nomad visa"
+    },
+    {
+      "definition": "The status that decides which country has a claim to tax your income, usually based on where you spend most of your time.",
+      "dictionaryId": "lex.sa.culture.tax_residency",
+      "example": "Tax residency is the part nobody checks before they book the flight.",
+      "fieldId": "culture",
+      "id": "tax_residency",
+      "lessonIds": [
+        "article_digital_nomads"
+      ],
+      "packs": [
+        "knw.culture.nomads"
+      ],
+      "term": "Tax residency"
     }
   ],
   "nextCursor": "280",

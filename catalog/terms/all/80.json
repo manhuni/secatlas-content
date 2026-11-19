@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "definition": "The sky has clouds in it. Clouds are about the sky, not about the temperature.",
-      "dictionaryId": "lex.sa.kids_daily.cloudy",
-      "example": "It is cloudy this morning, but it is still warm.",
-      "fieldId": "kids_daily",
-      "id": "cloudy",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Cloudy"
-    },
-    {
-      "definition": "Water is falling from the clouds. There is light rain and heavy rain.",
-      "dictionaryId": "lex.sa.kids_daily.rainy",
-      "example": "It is rainy, so take an umbrella.",
-      "fieldId": "kids_daily",
-      "id": "rainy",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Rainy"
-    },
-    {
-      "definition": "The air is moving fast. A windy day can be hot or freezing.",
-      "dictionaryId": "lex.sa.kids_daily.windy",
-      "example": "It is windy, so my hat keeps blowing away.",
-      "fieldId": "kids_daily",
-      "id": "windy",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Windy"
-    },
-    {
-      "definition": "The temperature is low. Cold is lower than cool.",
-      "dictionaryId": "lex.sa.kids_daily.cold",
-      "example": "It is cold outside, so I am wearing my coat.",
-      "fieldId": "kids_daily",
-      "id": "cold",
-      "lessonIds": [
-        "article_talking_about_the_weather"
-      ],
-      "packs": [
-        "knw.kids.daily.weather"
-      ],
-      "term": "Cold"
-    },
-    {
-      "definition": "A hot, upset feeling. It often comes fast and shows in your hands and face.",
-      "dictionaryId": "lex.sa.kids_feelings.angry",
-      "example": "I feel angry, so I am going to count to ten.",
-      "fieldId": "kids_feelings",
-      "id": "angry",
-      "lessonIds": [
-        "article_how_do_you_feel",
-        "article_when_you_feel_angry"
-      ],
-      "packs": [
-        "knw.kids.feelings.angry",
-        "knw.kids.feelings.today"
-      ],
-      "term": "Angry"
-    },
-    {
-      "definition": "A smaller angry feeling that comes when something still will not work.",
-      "dictionaryId": "lex.sa.kids_feelings.frustrated",
-      "example": "I am frustrated with this puzzle.",
-      "fieldId": "kids_feelings",
-      "id": "frustrated",
-      "lessonIds": [
-        "article_when_you_feel_angry"
-      ],
-      "packs": [
-        "knw.kids.feelings.angry"
-      ],
-      "term": "Frustrated"
-    },
-    {
-      "definition": "To bring your body back to quiet so you can think and speak.",
-      "dictionaryId": "lex.sa.kids_feelings.calm_down",
-      "example": "Let us calm down first, then talk.",
-      "fieldId": "kids_feelings",
-      "id": "calm_down",
-      "lessonIds": [
-        "article_when_you_feel_angry"
-      ],
-      "packs": [
-        "knw.kids.feelings.angry"
-      ],
-      "term": "Calm down"
-    },
-    {
       "definition": "To take air in slowly and let it out slowly.",
       "dictionaryId": "lex.sa.kids_feelings.breathe",
       "example": "Breathe in, and blow out slowly.",
@@ -573,6 +473,104 @@
         "knw.kids.food.bread"
       ],
       "term": "Yeast"
+    },
+    {
+      "definition": "The soft, sticky mix of flour and water before it is baked.",
+      "dictionaryId": "lex.sa.kids_food.dough",
+      "example": "I put the dough in a bowl and covered it.",
+      "fieldId": "kids_food",
+      "id": "dough",
+      "lessonIds": [
+        "article_how_bread_is_made"
+      ],
+      "packs": [
+        "knw.kids.food.bread"
+      ],
+      "term": "Dough"
+    },
+    {
+      "definition": "Pushing and folding the dough so it becomes smooth and strong.",
+      "dictionaryId": "lex.sa.kids_food.kneading",
+      "example": "Kneading the dough for five minutes feels strange at first.",
+      "fieldId": "kids_food",
+      "id": "kneading",
+      "lessonIds": [
+        "article_how_bread_is_made"
+      ],
+      "packs": [
+        "knw.kids.food.bread"
+      ],
+      "term": "Kneading"
+    },
+    {
+      "definition": "The resting time when the dough grows bigger because of the yeast.",
+      "dictionaryId": "lex.sa.kids_food.proving",
+      "example": "The dough is proving now, so it will be ready in an hour.",
+      "fieldId": "kids_food",
+      "id": "proving",
+      "lessonIds": [
+        "article_how_bread_is_made"
+      ],
+      "packs": [
+        "knw.kids.food.bread"
+      ],
+      "term": "Proving"
+    },
+    {
+      "definition": "The first meal of the day, eaten after you wake up.",
+      "dictionaryId": "lex.sa.kids_food.breakfast",
+      "example": "Breakfast is ready, so please sit down.",
+      "fieldId": "kids_food",
+      "id": "breakfast",
+      "lessonIds": [
+        "article_kids_food_breakfast"
+      ],
+      "packs": [
+        "knw.kids.food.breakfast"
+      ],
+      "term": "Breakfast"
+    },
+    {
+      "definition": "The feeling you get when your body wants food and needs energy.",
+      "dictionaryId": "lex.sa.kids_food.hungry",
+      "example": "I am hungry, so I will have some bread.",
+      "fieldId": "kids_food",
+      "id": "hungry",
+      "lessonIds": [
+        "article_kids_food_breakfast"
+      ],
+      "packs": [
+        "knw.kids.food.breakfast"
+      ],
+      "term": "Hungry"
+    },
+    {
+      "definition": "Grain that you pour into milk and eat with a spoon.",
+      "dictionaryId": "lex.sa.kids_food.cereal",
+      "example": "I ate cereal with cold milk.",
+      "fieldId": "kids_food",
+      "id": "cereal",
+      "lessonIds": [
+        "article_kids_food_breakfast"
+      ],
+      "packs": [
+        "knw.kids.food.breakfast"
+      ],
+      "term": "Cereal"
+    },
+    {
+      "definition": "Bread that is warmed until it is brown and crisp.",
+      "dictionaryId": "lex.sa.kids_food.toast",
+      "example": "I put jam on my toast.",
+      "fieldId": "kids_food",
+      "id": "toast",
+      "lessonIds": [
+        "article_kids_food_breakfast"
+      ],
+      "packs": [
+        "knw.kids.food.breakfast"
+      ],
+      "term": "Toast"
     }
   ],
   "nextCursor": "120",

@@ -1,175 +1,6 @@
 {
   "items": [
     {
-      "definition": "A setting that stops the machine starting until you hold the lock button for a few seconds.",
-      "dictionaryId": "lex.sa.daily_skills.child_lock",
-      "example": "Hold the padlock button for three seconds to release the child lock.",
-      "fieldId": "daily_skills",
-      "id": "child_lock",
-      "lessonIds": [
-        "article_appliance_symbols"
-      ],
-      "packs": [
-        "knw.daily.appliances"
-      ],
-      "term": "Child lock"
-    },
-    {
-      "definition": "An unplanned stop in which the car cannot be driven safely. It is the stop, not the specific fault that caused it.",
-      "dictionaryId": "lex.sa.daily_skills.breakdown",
-      "example": "I have had a breakdown on the motorway, and I need a recovery vehicle.",
-      "fieldId": "daily_skills",
-      "id": "breakdown",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Breakdown"
-    },
-    {
-      "definition": "The service that comes to help a broken-down car. It comes through insurance, a manufacturer package or a separate membership.",
-      "dictionaryId": "lex.sa.daily_skills.roadside_assistance",
-      "example": "Do you know whether my roadside assistance covers a call-out in this area?",
-      "fieldId": "daily_skills",
-      "id": "roadside_assistance",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Roadside assistance"
-    },
-    {
-      "definition": "The van or truck sent to collect the car. Some can lift a car and some can only tow it on a wheel.",
-      "dictionaryId": "lex.sa.daily_skills.recovery_vehicle",
-      "example": "The recovery vehicle will lift the car, so I do not need to empty the boot.",
-      "fieldId": "daily_skills",
-      "id": "recovery_vehicle",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Recovery vehicle"
-    },
-    {
-      "definition": "All four indicators blink together. The car is stationary or unusual. Severity level 1 — Information / Status. Action: Nothing to do while the lights are on. Switch them off once the car moves again..",
-      "dictionaryId": "lex.sa.en.hazard.warning",
-      "example": "",
-      "fieldId": "daily_skills",
-      "id": "hazard_lights",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Hazard warning lights"
-    },
-    {
-      "definition": "The red reflective triangle placed on the road behind a stopped vehicle so drivers see it in time.",
-      "dictionaryId": "lex.sa.daily_skills.warning_triangle",
-      "example": "Put the warning triangle out about 100 metres behind the car.",
-      "fieldId": "daily_skills",
-      "id": "warning_triangle",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Warning triangle"
-    },
-    {
-      "definition": "Starting a car with a flat battery by connecting it to the battery of another car with cables.",
-      "dictionaryId": "lex.sa.daily_skills.jump_start",
-      "example": "Could you send someone to jump start the car? The battery is flat.",
-      "fieldId": "daily_skills",
-      "id": "jump_start",
-      "lessonIds": [
-        "article_car_breakdown"
-      ],
-      "packs": [
-        "knw.daily.breakdown"
-      ],
-      "term": "Jump start"
-    },
-    {
-      "definition": "A unit of energy in food. One gram of fat holds about 9 kcal, a gram of carbohydrate or protein about 4.",
-      "dictionaryId": "lex.sa.daily_skills.kilocalorie",
-      "example": "This bar contains 250 kcal, which is about a tenth of a day's energy.",
-      "fieldId": "daily_skills",
-      "id": "kilocalorie",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Kilocalorie (kcal)"
-    },
-    {
-      "definition": "The date after which the food is still safe to eat but has gone down in quality. A quality date, not a safety date.",
-      "dictionaryId": "lex.sa.daily_skills.best_before",
-      "example": "The best-before date has passed, so the biscuits are only stale, not bad.",
-      "fieldId": "daily_skills",
-      "id": "best_before",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Best-before date"
-    },
-    {
-      "definition": "The date after which the food may no longer be safe to eat. It is a safety date and it is not negotiable.",
-      "dictionaryId": "lex.sa.daily_skills.use_by",
-      "example": "The use-by date was yesterday, so I threw the chicken away.",
-      "fieldId": "daily_skills",
-      "id": "use_by",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Use-by date"
-    },
-    {
-      "conflict": true,
-      "definition": "The amount of the product the nutrition figures are given for. It is the maker's choice, so it often does not match what you eat.",
-      "dictionaryId": "lex.sa.daily_skills.serving_size",
-      "example": "One serving is 30 g, which is much less than the bowl I had.",
-      "fieldId": "daily_skills",
-      "id": "serving_size",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Serving size"
-    },
-    {
-      "definition": "A substance in food that can cause a serious allergic reaction in some people. There are fourteen that have to be declared.",
-      "dictionaryId": "lex.sa.daily_skills.allergen",
-      "example": "The allergen box says it contains peanuts and soya.",
-      "fieldId": "daily_skills",
-      "id": "allergen",
-      "lessonIds": [
-        "article_food_labels"
-      ],
-      "packs": [
-        "knw.daily.foodlabels"
-      ],
-      "term": "Allergen"
-    },
-    {
       "definition": "The unbroken path a chilled product follows from the factory to your fridge. If the chain breaks, the use-by date stops meaning anything.",
       "dictionaryId": "lex.sa.daily_skills.cold_chain",
       "example": "The cold chain was broken, so the date on the pack means nothing.",
@@ -570,6 +401,174 @@
         "knw.kids.adventure.dinos"
       ],
       "term": "Footprint"
+    },
+    {
+      "definition": "A green climbing plant that grows up walls and trees. It holds on tightly and hides what is behind it.",
+      "dictionaryId": "lex.sa.kids_adventure.ivy",
+      "example": "Ivy grew across the green door.",
+      "fieldId": "kids_adventure",
+      "id": "ivy",
+      "lessonIds": [
+        "article_secret_door"
+      ],
+      "packs": [
+        "knw.kids.adventure.door"
+      ],
+      "term": "Ivy"
+    },
+    {
+      "definition": "An open space in the middle of woods, where the trees step back and the sky reaches the ground.",
+      "dictionaryId": "lex.sa.kids_adventure.clearing",
+      "example": "The path led to a small clearing.",
+      "fieldId": "kids_adventure",
+      "id": "clearing",
+      "lessonIds": [
+        "article_secret_door"
+      ],
+      "packs": [
+        "knw.kids.adventure.door"
+      ],
+      "term": "Clearing"
+    },
+    {
+      "definition": "To put a seed into the ground and look after it. Planting is a promise to come back.",
+      "dictionaryId": "lex.sa.kids_adventure.plant",
+      "example": "Bình planted the seed on the first of April.",
+      "fieldId": "kids_adventure",
+      "id": "plant",
+      "lessonIds": [
+        "article_secret_door"
+      ],
+      "packs": [
+        "knw.kids.adventure.door"
+      ],
+      "term": "To plant"
+    },
+    {
+      "definition": "Kept out of sight, so that people walk past without noticing.",
+      "dictionaryId": "lex.sa.kids_adventure.hidden",
+      "example": "The door was hidden under the ivy.",
+      "fieldId": "kids_adventure",
+      "id": "hidden",
+      "lessonIds": [
+        "article_secret_door"
+      ],
+      "packs": [
+        "knw.kids.adventure.door"
+      ],
+      "term": "Hidden"
+    },
+    {
+      "definition": "Something you want very much and keep safe. It can be gold, but it can also be a letter or a photograph.",
+      "dictionaryId": "lex.sa.kids_adventure.treasure",
+      "example": "The box in the grass held the real treasure.",
+      "fieldId": "kids_adventure",
+      "id": "treasure",
+      "lessonIds": [
+        "article_hidden_treasure"
+      ],
+      "packs": [
+        "knw.kids.adventure.explorer"
+      ],
+      "term": "Treasure"
+    },
+    {
+      "definition": "A drawing of a place, seen from above. A map shows you the way and shows you where things are.",
+      "dictionaryId": "lex.sa.kids_adventure.map",
+      "example": "Tuấn unfolded the old map on the kitchen table.",
+      "fieldId": "kids_adventure",
+      "id": "map",
+      "lessonIds": [
+        "article_hidden_treasure"
+      ],
+      "packs": [
+        "knw.kids.adventure.explorer"
+      ],
+      "term": "Map"
+    },
+    {
+      "definition": "A small hint. Clues come one after another, and each one points to the next.",
+      "dictionaryId": "lex.sa.kids_adventure.clue",
+      "example": "The third clue was a picture of a bench and a nail.",
+      "fieldId": "kids_adventure",
+      "id": "clue",
+      "lessonIds": [
+        "article_hidden_treasure"
+      ],
+      "packs": [
+        "knw.kids.adventure.explorer"
+      ],
+      "term": "Clue"
+    },
+    {
+      "definition": "A small tool with a needle that points north. Explorers use a compass so they walk in a straight line.",
+      "dictionaryId": "lex.sa.kids_adventure.compass",
+      "example": "The compass needle spun because of the iron in the ground.",
+      "fieldId": "kids_adventure",
+      "id": "compass",
+      "lessonIds": [
+        "article_hidden_treasure"
+      ],
+      "packs": [
+        "knw.kids.adventure.explorer"
+      ],
+      "term": "Compass"
+    },
+    {
+      "definition": "A small mountain, high in the middle and low at the edges. You can walk up a hill in a few minutes.",
+      "dictionaryId": "lex.sa.kids_adventure.hill",
+      "example": "They walked up the hill to look for the treasure.",
+      "fieldId": "kids_adventure",
+      "id": "hill",
+      "lessonIds": [
+        "article_hidden_treasure"
+      ],
+      "packs": [
+        "knw.kids.adventure.explorer"
+      ],
+      "term": "Hill"
+    },
+    {
+      "definition": "A small sense organ on a robot. It tells the robot what is around it, or how it feels.",
+      "dictionaryId": "lex.sa.kids_adventure.sensor",
+      "example": "Bit's sensor flashed red when he was worried.",
+      "fieldId": "kids_adventure",
+      "id": "sensor",
+      "lessonIds": [
+        "article_robot_wanted_a_friend"
+      ],
+      "packs": [
+        "knw.kids.adventure.robot"
+      ],
+      "term": "Sensor"
+    },
+    {
+      "definition": "The store of energy that makes a robot move. When it runs low, the robot has to plug in.",
+      "dictionaryId": "lex.sa.kids_adventure.battery",
+      "example": "Bit's battery was getting low by the afternoon.",
+      "fieldId": "kids_adventure",
+      "id": "battery",
+      "lessonIds": [
+        "article_robot_wanted_a_friend"
+      ],
+      "packs": [
+        "knw.kids.adventure.robot"
+      ],
+      "term": "Battery"
+    },
+    {
+      "definition": "A small switch you press to make something happen. Pressing a robot's button can wake it up.",
+      "dictionaryId": "lex.sa.kids_adventure.button",
+      "example": "He pressed the button on the old robot's chest.",
+      "fieldId": "kids_adventure",
+      "id": "button",
+      "lessonIds": [
+        "article_robot_wanted_a_friend"
+      ],
+      "packs": [
+        "knw.kids.adventure.robot"
+      ],
+      "term": "Button"
     }
   ],
   "nextCursor": "360",
