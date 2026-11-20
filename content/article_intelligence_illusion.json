@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "004547057e94621259c8f57144fc0f7551c19f5dc39a3c3f815ea3abf2120aaf"
+  ],
   "item": {
     "addedAt": "2026-11-17",
-    "cover": "",
+    "cover": "asset://004547057e94621259c8f57144fc0f7551c19f5dc39a3c3f815ea3abf2120aaf",
     "durationMin": 16,
     "fieldId": "mind",
     "id": "article_intelligence_illusion",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://004547057e94621259c8f57144fc0f7551c19f5dc39a3c3f815ea3abf2120aaf",
       "gallery": [],
       "images": [],
       "links": [],
@@ -198,6 +200,7 @@
       },
       {
         "body": "This warning is about the hardest case: your own judgement, and your judgement of other people. **Self-assessment** is the habit of rating your own work, and it is the least reliable evidence you have, because you know what you meant and where you struggled, and that knowledge changes how you read your own result. **Overestimation** is the same gap seen from the other side: you rate your ability above what it is, and the gap is invisible from inside.\n\nThere is a real finding behind this. David Dunning and John Kruger reported that people who know little about a subject tend to rate their own ability high, while experts on the same subject rate it low. How large that effect is, and how far it explains everyday mistakes, is still argued over. Do not build your policy on the size of it. The safe rule does not depend on the size: never rate ability from one performance, and never rate a person from a fast answer.\n\nThe opposite error exists too, and in a team it is the more expensive one. People who are strong often doubt themselves, especially when the work is new or when they are the newest person in the room. They hedge, they ask permission, they say they are not sure about work they have already done well. That is not humility; it is the same misreading of evidence, running the other way. The rule protects the strong and the weak alike.",
+        "calloutKind": "warning",
         "examples": [
           "One result is not a rating of a person.",
           "I would rather see the work than judge the answer.",
@@ -220,7 +223,7 @@
             "termId": "intelill_overestimation"
           }
         ],
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "These are the sentences that turn a score into a question about the work. Use them in a review, in a hiring discussion, or in a handover where somebody has to make a decision from a file of marks.\n\nThe middle ones are the useful ones. A score is a fact about an assessment, so it is easy to accept and hard to question. Ask a question about the work instead, and the score becomes one piece of information among several.",

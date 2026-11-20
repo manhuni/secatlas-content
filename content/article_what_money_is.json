@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "8ba29a1b9384bf434c4eb884795c7094b482201b71bc79760ea36e13974f0a93"
+  ],
   "item": {
     "addedAt": "2026-11-17",
-    "cover": "",
+    "cover": "asset://8ba29a1b9384bf434c4eb884795c7094b482201b71bc79760ea36e13974f0a93",
     "durationMin": 16,
     "fieldId": "money",
     "id": "article_what_money_is",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://8ba29a1b9384bf434c4eb884795c7094b482201b71bc79760ea36e13974f0a93",
       "gallery": [],
       "images": [],
       "links": [],
@@ -267,12 +269,13 @@
       },
       {
         "body": "This article explains what money is. It explains the three jobs money does, what a bank balance and a banknote really are, what money is not, and where the hidden costs sit. It does not tell you what to buy, what to save, or where to put your money, and it does not compare one product with another.\n\nThe reason is simple. Those decisions depend on your own situation, on the prices where you live, and on rules that change from one year to the next. A general article can give you the words for the question; only you can answer the question. When a product is offered to you, read the price, read the fees, and use the questions in this article first.",
+        "calloutKind": "note",
         "examples": [
           "This article explains the idea, it does not recommend a product.",
           "Read the price and the fees, and then decide for yourself."
         ],
         "heading": "What this article does not do",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "These are the sentences that make a conversation about money exact. Most disagreements about money are disagreements about a stock and a flow, or about a price and a fee, and naming the difference settles half of them.\n\nUse the real value when the point is what something buys. Use the nominal value when the point is the number on the ticket. Say which one you are using, every time.",

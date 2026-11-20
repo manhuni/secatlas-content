@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "992dc58e0673e7104e752eb2878de3847a714096c66b9ab57857116de3f07a10"
+  ],
   "item": {
     "addedAt": "2026-11-17",
-    "cover": "",
+    "cover": "asset://992dc58e0673e7104e752eb2878de3847a714096c66b9ab57857116de3f07a10",
     "durationMin": 18,
     "fieldId": "technology",
     "id": "article_how_ai_works",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://992dc58e0673e7104e752eb2878de3847a714096c66b9ab57857116de3f07a10",
       "gallery": [],
       "images": [],
       "links": [],
@@ -161,13 +163,14 @@
       },
       {
         "body": "Three checks, and the third is the one people skip. **The numbers.** Recalculate anything that decides money, time, tolerance or safety. A model can produce a number with the shape of a correct number and nothing behind it, and the check takes a minute. **The sources.** Open every reference. If the answer cites a paper, a standard or a web page, open it and confirm that it says what the answer claims. A citation with the right shape and the wrong document behind it is the standard failure. **The gaps.** Ask what the model was not given. It does not know your part number, your contract, or yesterday's meeting, so any answer that depends on those is an answer you have to finish yourself. One habit closes all three: ask it to show the steps, then check the steps against a source you trust, and not against the sentence it wrote.",
+        "calloutKind": "warning",
         "examples": [
           "Give me the source for that number and I will check it.",
           "Show me the steps, and mark the part you are not sure about.",
           "Which part of this did you not have? I will supply it."
         ],
         "heading": "What to check before you trust the output",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "These sentences explain the behaviour that people find confusing, and they are useful with a colleague, a teacher, or a support line. Use them as they are and change the detail to fit your own situation.",

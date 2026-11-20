@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "1f84dce3f390a09472f6d62c023fb0c886634d3bac28ab8a05ac68dbda7e7316"
+  ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
-    "cover": "",
+    "cover": "asset://1f84dce3f390a09472f6d62c023fb0c886634d3bac28ab8a05ac68dbda7e7316",
     "durationMin": 24,
     "fieldId": "technology",
     "id": "article_ai_revolution",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://1f84dce3f390a09472f6d62c023fb0c886634d3bac28ab8a05ac68dbda7e7316",
       "gallery": [],
       "images": [],
       "links": [],
@@ -47,8 +49,9 @@
       },
       {
         "body": "Watch for these three, and you will catch most bad output before it costs you. First, **hallucination**: the system invents a fact, a citation, a case number or a statistic, and states it in the same tone as everything else. Second, **bias**: the output reproduces patterns in the training data, including patterns you would not accept in a person, such as a default assumption about gender, nationality, age or tone. Third, **overconfidence**: a fluent, well-formatted answer carries an authority it has not earned, and formatting is not evidence. None of these is visible from the output alone, which is why the checking procedure in the next section exists.",
+        "calloutKind": "warning",
         "heading": "The three ways AI output goes wrong",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "The checking is fast once it is a habit. The rule is simple: match the effort of checking to the cost of being wrong. A caption for a photo needs a glance. A medical summary needs a professional.\n\nStart by deciding what kind of claim it is. A **factual claim** can be checked against a source. A **writing task** can be checked for fit, tone and accuracy of the details inside. A **reasoning task** has to be worked through yourself, because you cannot verify a conclusion you have not understood.\n\nThen check the details that are cheap to check and expensive to get wrong: numbers, dates, names, quotations, legal references, product specifications. These are the places models fail most often and where a single error changes the answer.\n\nThen compare with a source you trust: the original document, the official site, the regulation text, the person who knows. Quote the source, not the summary of the source, because the summary is exactly where the error enters.\n\nThen make the responsibility explicit. If the output will be sent, published, signed, or used to make a decision about a person, a named person must read it and own it. An AI system can never be the one who owns it.",
@@ -157,8 +160,9 @@
       },
       {
         "body": "The tools will keep changing, and every year someone announces that the next version makes the previous advice useless. A few habits survive all of it. Learn the underlying ideas rather than the product names: what the system can do, what it cannot do, and why it fails in the patterns described here. Keep your own judgement exercised, because a skill you never use disappears. Keep at least one part of your work done the slow way, so you can still tell when the fast way is wrong. And be sceptical of urgency: a tool that promises to replace you this year is usually a sales message. The durable position is not knowing every tool, but knowing what to check, what to verify, and what stays yours.",
+        "calloutKind": "tip",
         "heading": "Keeping your own head while the technology keeps moving",
-        "type": "prose"
+        "type": "callout"
       }
     ],
     "summary": "Artificial intelligence moved from research papers to daily tools in a few years, and it now touches your work, your phone and your money. After reading this you can explain what modern AI actually does, name the jobs it does well and badly, spot the three failure modes before you trust an answer, and decide what to hand over to a machine and what to keep.",

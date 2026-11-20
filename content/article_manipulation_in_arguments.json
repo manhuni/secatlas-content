@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "9eab5f51ac156e0e93d57d518d9e17823aff9fa277a5764cbceb7e9e3ef2ae4a"
+  ],
   "item": {
     "addedAt": "2026-11-18",
-    "cover": "",
+    "cover": "asset://9eab5f51ac156e0e93d57d518d9e17823aff9fa277a5764cbceb7e9e3ef2ae4a",
     "durationMin": 15,
     "fieldId": "mind",
     "id": "article_manipulation_in_arguments",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://9eab5f51ac156e0e93d57d518d9e17823aff9fa277a5764cbceb7e9e3ef2ae4a",
       "gallery": [],
       "images": [],
       "links": [],
@@ -251,6 +253,7 @@
       },
       {
         "body": "This article does not turn every disagreement into a fallacy. Two people can look at the same evidence and weigh it differently, and neither of them has made a mistake. Some of the moves named here are also honest shortcuts, used by people who mean well and are in a hurry. The test is not the feeling of the exchange. It is whether the claim is still on the table and still has a standard to be measured against.\n\nIt also does not replace listening with scoring. A fallacy is a description of a move, not an insult, and it is not a diagnosis of anybody. Naming the move well takes practice, and a wrong name is worse than no name: it makes the other side defend themselves instead of answering the question. If you are not sure which move it is, describe what happened and ask the question — *\"is that the only option?\"*, *\"what would count as an answer?\"* — and the name will usually follow on its own.\n\nAnd it does not make you right. Finding a fallacy in somebody else's argument tells you that their argument has a defect. It tells you nothing about yours. Check your own move with the same five steps.",
+        "calloutKind": "note",
         "examples": [
           "Two people can read the same evidence differently, and neither has made a fallacy.",
           "A name is a description of a move, not a verdict on a person.",
@@ -258,7 +261,7 @@
           "Finding a flaw in their argument says nothing about mine."
         ],
         "heading": "What this article does not do",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "Use these at the moment the exchange turns, not afterwards. The first pair is for a meeting. The second is for an argument with a partner. The third is for a group chat. The last is for writing.\n\nNone of them needs a hard voice. The point is not to win the room. The point is to put the ground back where it was, so that the claim can still be tested.",

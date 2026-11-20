@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "ac73baa7e33930c7bfc4adedc3d8028d1bdc6586d8bbdf65f02bd6aaaddfd49b"
+  ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
-    "cover": "",
+    "cover": "asset://ac73baa7e33930c7bfc4adedc3d8028d1bdc6586d8bbdf65f02bd6aaaddfd49b",
     "durationMin": 12,
     "fieldId": "kids_animals",
     "id": "article_pets",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://ac73baa7e33930c7bfc4adedc3d8028d1bdc6586d8bbdf65f02bd6aaaddfd49b",
       "gallery": [],
       "images": [],
       "links": [],
@@ -103,13 +105,14 @@
       },
       {
         "body": "Most bites from animals happen because the animal was scared, tired, hurt, or was carrying its own food. You can stop almost all of them.\n\nWash your hands before and after touching an animal, and after cleaning its space. This matters most with puppies, kittens and hamsters, because they can carry germs without being sick.\n\nNever pull food out of a pet's mouth. Never lift a dog by its legs. Never wake a sleeping animal suddenly.\n\nSome things are dangerous for pets. Chocolate, coffee, grapes and onion can make a dog very ill. Human medicine can kill a cat. Keep them away.\n\nDo not leave a cat or a dog alone in a hot car. The temperature inside rises very fast, even on a mild day.\n\nAnd if you are bitten or scratched, tell an adult straight away and wash the place with clean water. Small cuts can get infected, and a doctor can help quickly.",
+        "calloutKind": "warning",
         "examples": [
           "I wash my hands after touching the hamster.",
           "Chocolate is not for dogs.",
           "We stay in the shade with the dog because the ground is hot."
         ],
         "heading": "Keeping a pet, and yourself, safe",
-        "type": "prose"
+        "type": "callout"
       }
     ],
     "summary": "A pet is an animal that lives with you and depends on you every day. After reading this, you can tell what different pets need, feed and care for one properly, and know the safety rules that keep both you and the animal well.",

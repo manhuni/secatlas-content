@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "c5bb2273a036227cc70a2a0c631483c2ebcbfd5320800789c6664ecd863ff6c9"
+  ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
-    "cover": "",
+    "cover": "asset://c5bb2273a036227cc70a2a0c631483c2ebcbfd5320800789c6664ecd863ff6c9",
     "durationMin": 12,
     "fieldId": "kids_feelings",
     "id": "article_asking_for_help",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://c5bb2273a036227cc70a2a0c631483c2ebcbfd5320800789c6664ecd863ff6c9",
       "gallery": [],
       "images": [],
       "links": [],
@@ -101,13 +103,14 @@
       },
       {
         "body": "Most problems can wait until you are ready to ask. A few things never wait.\n\nTell a grown-up straight away if somebody hurts you or you hurt somebody. Tell them if you are lost, or if a grown-up makes you feel scared or unsafe.\n\nTell them if somebody asks you to keep a secret that feels strange inside. A good adult will not ask a child to keep a secret like that.\n\nTell them if somebody touches you in a way you do not like, or asks you to touch them. You never have to be polite about this one.\n\nTell them if you feel very unwell, or if you are being bullied again and again.\n\nIf you are not sure whether something counts, tell a grown-up anyway. They would rather check and find nothing than check late. And if the first adult does not help, tell another one. Keep telling until somebody helps.",
+        "calloutKind": "warning",
         "examples": [
           "Somebody touched me and I did not like it.",
           "I am lost and I cannot find my mum.",
           "I do not like this secret."
         ],
         "heading": "Some things you always tell an adult about",
-        "type": "prose"
+        "type": "callout"
       }
     ],
     "summary": "Asking for help is a skill, not a weakness. After reading this, you can try first, ask clearly, say what kind of help you need, and tell a grown-up straight away when something is really wrong.",

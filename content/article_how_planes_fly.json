@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "1ee381d879ca0a52f060794a7db7a67b9a63d5924d9684e66bd183df0119572b"
+  ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
-    "cover": "",
+    "cover": "asset://1ee381d879ca0a52f060794a7db7a67b9a63d5924d9684e66bd183df0119572b",
     "durationMin": 12,
     "fieldId": "kids_science",
     "id": "article_how_planes_fly",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://1ee381d879ca0a52f060794a7db7a67b9a63d5924d9684e66bd183df0119572b",
       "gallery": [],
       "images": [],
       "links": [],
@@ -109,8 +111,9 @@
       },
       {
         "body": "Airports and planes are not places for playing. A plane engine can pull in a person from many metres away, even when the engine is quiet.\n\nNever walk on the runway, and never walk on the grass near it. The grass is full of hidden lights and underground cables.\n\nNever throw anything at a plane, even a small stone. A tiny object can damage an engine, and the plane must land somewhere unexpected.\n\nKeep away from the fence near a runway. The noise of a plane is very loud, and it can damage your hearing.\n\nAnd at home, remember that planes fly high and fast. Beaches, mountains and tall buildings are all far safer places to watch them than the airport fence. Watch them from a distance, and never try to get closer for a better photo.",
+        "calloutKind": "warning",
         "heading": "Staying Safe Around Airports",
-        "type": "prose"
+        "type": "callout"
       }
     ],
     "summary": "An airplane is heavy, and yet it flies. After reading this, you can explain why the wings hold a plane up, name the parts of an airplane, and tell what happens between the airport gate and the sky.",

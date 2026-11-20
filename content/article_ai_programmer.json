@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "ba3a8f903723f53a08ca876a50e6a982bf30a3a2123768716e7d60672266412b"
+  ],
   "item": {
     "addedAt": "2026-11-16T08:00:00Z",
-    "cover": "",
+    "cover": "asset://ba3a8f903723f53a08ca876a50e6a982bf30a3a2123768716e7d60672266412b",
     "durationMin": 21,
     "fieldId": "mind",
     "id": "article_ai_programmer",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://ba3a8f903723f53a08ca876a50e6a982bf30a3a2123768716e7d60672266412b",
       "gallery": [],
       "images": [],
       "links": [],
@@ -85,8 +87,9 @@
       },
       {
         "body": "Ask a senior developer what they do all day and the honest answer now includes: reviewing machine-written code, deciding what should exist, and explaining systems to humans. Companies that hire for typing speed are hiring for the layer that just became free.",
+        "calloutKind": "note",
         "heading": "The interview test already changed",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "For people entering the field, the path has shifted but not vanished. Learn to read code before writing it — review, debug, and explain existing systems, because verification is now the bulk of the work. Learn one domain deeply; machines know syntax, but they do not know your user's warehouse, your clinic's rules, your market's habits. And practice specification: write, for every feature, a short statement of the problem, the constraints, and the test of success.\n\nFor experienced engineers, the premium moves to the two things machines amplify rather than replace: **taste** — the sense of what is worth building — and **trust** — a track record of standing behind decisions. A machine can produce a thousand options. A profession is the discipline of choosing, and of being answerable for the choice.\n\nThe programmer is not disappearing. The programmer is becoming what the word always secretly contained: not the person who types, but the person who is responsible for the system.",

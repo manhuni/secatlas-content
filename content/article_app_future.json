@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "2302ed11a94c0ce1ece6be2b52b72f20c6f4bbdd00e34cacb0ba7400a9f5f766"
+  ],
   "item": {
     "addedAt": "2026-11-16T08:00:00Z",
-    "cover": "",
+    "cover": "asset://2302ed11a94c0ce1ece6be2b52b72f20c6f4bbdd00e34cacb0ba7400a9f5f766",
     "durationMin": 20,
     "fieldId": "mind",
     "id": "article_app_future",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://2302ed11a94c0ce1ece6be2b52b72f20c6f4bbdd00e34cacb0ba7400a9f5f766",
       "gallery": [],
       "images": [],
       "links": [],
@@ -85,8 +87,9 @@
       },
       {
         "body": "For decades, software showed its work on screen because humans were the operators. As agents take over operation, the interface shrinks to a summary of what was done — a receipt to check, not a machine to run. Designing for trust then matters more than designing for engagement.",
+        "calloutKind": "note",
         "heading": "The screen is becoming a receipt",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "The skills the app era demanded — memorizing procedures, navigating menus, managing many logins — are depreciating. The skills the agent era rewards are different: stating goals clearly, dividing labor between self and software wisely, auditing results, and knowing when to take the controls back.\n\nThere is also a cultural adjustment. Software that acts can feel like loss of control or like relief, depending on how it is built and governed. The demand that will shape the next decade is simple to state and hard to deliver: agents that are powerful under the hood and honest at the surface, showing what they did in language a tired human can check at a glance.\n\nThe relationship between people and software is becoming what it perhaps always should have been: people bring intentions and judgment, software brings memory and speed, and the division of labor is negotiated openly. The app taught us to serve the interface. The agent promises the opposite — and keeping that promise will be the work of years.",

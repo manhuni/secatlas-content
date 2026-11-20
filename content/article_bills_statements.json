@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "991ab4c28fee369b1066d19568e2fdd4eb5de30c46a4db438bd1fa250687cf98"
+  ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
-    "cover": "",
+    "cover": "asset://991ab4c28fee369b1066d19568e2fdd4eb5de30c46a4db438bd1fa250687cf98",
     "durationMin": 24,
     "fieldId": "money",
     "id": "article_bills_statements",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://991ab4c28fee369b1066d19568e2fdd4eb5de30c46a4db438bd1fa250687cf98",
       "gallery": [],
       "images": [],
       "links": [],
@@ -90,8 +92,9 @@
       },
       {
         "body": "Overdraft interest is charged when you go below zero, and it is often applied without any warning at the moment it happens. Some banks charge a fee for each item that goes through while overdrawn, on top of a daily or annual rate. Ask for a buffer: most banks will agree a small overdraft limit that costs nothing if you stay inside it.\n\nA returned direct debit costs you twice. The company takes the payment, the bank refuses it, and you are charged for both the return and the payment. The bill still arrives, and it is now late.\n\nA card payment abroad often carries a fee on top of the exchange rate. Some cards charge a percentage, some a fixed amount, and many add both. The exchange rate itself already includes a margin, so a card with a foreign transaction fee is usually worse than a good one without.\n\nAn ATM withdrawal may cost a fee at the machine, at the bank that owns it, or both, and the machine rarely tells you which. Using your own bank's machines avoids most of it.\n\nA late fee on a credit card often comes with a penalty interest rate, and the penalty rate can apply to the whole balance. One late payment can therefore cost several times the fee itself.\n\nA dormant account fee and a **periodic statement fee** are small, annual and easy to miss, because they never appear in a month when nothing else happens.",
+        "calloutKind": "warning",
         "heading": "The charges that appear quietly on a statement",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "A utility bill is built from three parts, and understanding them is how you check the number instead of paying it blindly.\n\nThe **meter reading** is the number on your meter, or the reading the company took for you. Between the last reading and this one is the **consumption**, usually shown in units: kilowatt hours for electricity, cubic metres for water. Multiply the unit rate by the consumption and you get the variable part of the bill, and this is the check worth doing.\n\nThe **tariff** is what you pay per unit. It may be flat, or it may change by time of day, in which case a good tariff or a smart meter can change your bill by a lot. Fixed charges sit on top: a standing charge for the connection, a fuel or network charge, and often a levy added by law.\n\nThen there is the **estimate**. Companies estimate usage when they cannot read the meter, and an estimate appears on the bill without a meter reading to check it against. If you find an estimated bill, the first action is the same as always: send in a photograph of your meter showing the current reading, and ask for a corrected bill.\n\nTwo habits make this easy. Photograph your meter on the day you receive the bill, and keep it with the bill. And compare each bill with the same month last year, because a total that jumps needs an explanation: a colder month, a new appliance, a rate change or an estimate.\n\nFinally, note the **payment date and the method**. A bill paid by direct debit on the due date usually costs nothing extra, while paying late may cost a reconnection charge that is far larger than the money you owed.",
@@ -132,8 +135,9 @@
       },
       {
         "body": "Most banks will investigate a disputed transaction, but the speed and the outcome depend on how quickly you report it and what you say in the first sentence.\n\nCall the number on the back of your card, not a number in a text message. Tell the adviser the date, the amount and the merchant name from the statement, and say plainly that you do not recognise the transaction. Ask what happens next and how long it will take, and note the reference number.\n\nThere are two different situations and they are not treated the same. A transaction you made but do not remember is a **query**: the bank checks the merchant records and usually explains the charge. A transaction you never made is a **fraud claim**, and the bank will normally freeze the card, replace it and credit the money while they investigate.\n\nIf a card is lost or stolen, block it in the app immediately, before you call anyone. Speed protects your position and limits your liability.\n\nKeep the reference number and a copy of everything you send. If the first answer does not satisfy you, ask for a complaint procedure in writing, and then complain in writing. A written complaint with dates, amounts and reference numbers is far harder for a bank to ignore than a phone call that was not recorded.",
+        "calloutKind": "note",
         "heading": "How to dispute a charge you do not recognise",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "Records matter twice: once when you are asked a question, and once when nobody has asked for years and then somebody does.\n\nThe rule of thumb is simple: keep what proves where the money went. For a business that means invoices for income, receipts for expenses, and bank statements for both. For a household it means the same three things in a simpler form, plus proof of any larger purchase.\n\nOrganise records by **period and category**. A folder per year, a spreadsheet with a row per transaction, or a simple monthly list with the date, the amount, the counterparty and the category all work. The category matters because it is what lets you answer a question like \"show me your vehicle costs\" in a minute.\n\nUse **receipts and bank statements together**. A receipt proves what was bought; a statement proves it was paid. Either alone has a weakness, because receipts fade, are lost, and are sometimes not issued, while statements show the payment but not what it was for.\n\nRetention periods vary by country and by the type of record. Keep records for at least as long as the tax office allows you to be audited, and check the rule rather than guessing. When in doubt, keep them longer; storage is cheap and a discarded record cannot be produced.\n\nTwo practical habits make everything easier. Photograph documents the day you receive them, and store them with the month they belong to. And once a year, spend an hour checking that the total of your records matches your statement totals. A system that has never been checked is a system you cannot rely on.",

@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "cce50937bb3912450ae4a05f13518e42d25d4e27d5f7a3f8d81e5a6ab747f8ad"
+  ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
-    "cover": "",
+    "cover": "asset://cce50937bb3912450ae4a05f13518e42d25d4e27d5f7a3f8d81e5a6ab747f8ad",
     "durationMin": 26,
     "fieldId": "technology",
     "id": "article_online_scams",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://cce50937bb3912450ae4a05f13518e42d25d4e27d5f7a3f8d81e5a6ab747f8ad",
       "gallery": [],
       "images": [],
       "links": [],
@@ -79,8 +81,9 @@
       },
       {
         "body": "Stop the moment you notice a second signal. Not the third, not the fifth. The second. A message that fails one check has an explanation: a typo, a strange format, an unusual but possible request. A message that fails two checks is a scam with very high probability, and every additional minute of reading it is time the scammer is spending on you. Put the phone down, do not reply, and do not click anything to \"have a look\". Opening a link can start the attack without you entering anything, and replying confirms that the number or address is live. If you have already replied, that is not a disaster, but it is the moment to stop and use the procedure in the next section.",
+        "calloutKind": "danger",
         "heading": "The moment to stop",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "These steps are in order, and speed matters more than completeness. Do them in this sequence.\n\nFirst, **disconnect from the action**: close the page, do not enter anything else, and if you installed something, stop using that device for now.\n\nSecond, **call the organisation using a number you already had**. If it was your bank, use the number on your card. If it was a marketplace, use the app. Say: \"I think I have been scammed, here is what happened\".\n\nThird, **if you paid, ask for the payment to be reversed**. With cards, banks can often freeze a transaction and raise a chargeback. With bank transfers, the request is time-critical, because the money may be moved onward within hours. With gift cards and cryptocurrency, recovery is usually not possible, which is why the prevention in the next section is so valuable.\n\nFourth, **change the exposed credentials from a different device**. If you entered a password on a fake page, change that password, and change it from a device that is not the one you used. If you entered a one-time code, the attacker may already be logged in; change the password, end the other sessions, and tell the bank.\n\nFifth, **tell the people around you**. Scammers reuse details, and a message that reached you may reach your family from a compromised account of yours. One message to the family group removes a whole family of risk.\n\nSixth, **keep the evidence**. Screenshots of the message, the sender, the payment reference and the time. The bank, the platform and the police will all ask for it, and it is much harder to recover from after the fact.",
@@ -192,8 +195,9 @@
       },
       {
         "body": "The people who rarely get scammed are not the clever ones. They have a routine. Set up your account so that unexpected requests cannot succeed: a strong unique password for your email first, because email is the account that can reset all the others, then multi-factor authentication on banking, then on the accounts that hold money. Turn off SMS two-factor codes where an authenticator app or a hardware key is available, because SMS is the channel scammers can take over. Check once a month which of your accounts have your phone number or email address attached, and remove the ones you no longer use. Set a spending limit or a separate account for everyday money. And agree the family code word. None of this makes you invulnerable. It makes the ten minutes a scammer needs harder, and that is the whole game.",
+        "calloutKind": "tip",
         "heading": "Building a routine that stops scams before they start",
-        "type": "prose"
+        "type": "callout"
       }
     ],
     "summary": "Scam messages are built on a small number of patterns, and those patterns leave signals you can learn to read in seconds. After reading this you can recognise the four structures behind almost every scam, spot the tells in a message before you act, run the first-ten-minutes procedure after an incident, choose payment methods that can be reversed, and say the sentences that stop a scammer without alarming the people around you.",

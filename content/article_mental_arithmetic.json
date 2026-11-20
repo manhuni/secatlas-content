@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "0557c727e587b682ff21cfb5cc4b1c67366affb917465f5426e20005f3538075"
+  ],
   "item": {
     "addedAt": "2026-11-17",
-    "cover": "",
+    "cover": "asset://0557c727e587b682ff21cfb5cc4b1c67366affb917465f5426e20005f3538075",
     "durationMin": 15,
     "fieldId": "mathematics",
     "id": "article_mental_arithmetic",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://0557c727e587b682ff21cfb5cc4b1c67366affb917465f5426e20005f3538075",
       "gallery": [],
       "images": [],
       "links": [],
@@ -207,13 +209,14 @@
       },
       {
         "body": "Say the rough size first, then the exact number. \"About 1,300 bottles, and exactly 1,296.\" The size takes one second and gives the listener something to test the number against. If the two disagree, you have found the error before anybody used the number.\n\nKeep the size in the same unit as the answer. A size in metres and an answer in centimetres cannot check each other.\n\nSay it out loud. A number you only think about is a number you check only sometimes.",
+        "calloutKind": "tip",
         "examples": [
           "About 1,300 bottles, and exactly 1,296.",
           "Say the size in the same unit as the answer, or the check will not catch anything.",
           "I have a rough figure of 1,300, and I am checking it against the count."
         ],
         "heading": "Give the size before the number",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "These are the sentences that make a number sound checked, whether you worked it out in your head or on paper. The pattern is the same in all of them: the size, the exact number, and the way you got it.\n\nUse the size first and the exact number after it. Keep the way you got it short: \"I rounded 19 to 20 and subtracted one lot of 24, so 19 × 24 = 456\" is enough. When the check itself is worth saying, say it in one line: \"the digit sum is 18, a multiple of 9, so the answer can be right.\" And \"Let me work that out\" is always better than a number you did not check.",

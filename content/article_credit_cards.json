@@ -1,14 +1,16 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "f35e02c2744cfbf6ea7d70ba5c56d612e72234d0fb617e97e6b82643bf1655fe"
+  ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
-    "cover": "",
+    "cover": "asset://f35e02c2744cfbf6ea7d70ba5c56d612e72234d0fb617e97e6b82643bf1655fe",
     "durationMin": 22,
     "fieldId": "money",
     "id": "article_credit_cards",
     "media": {
       "audio": [],
-      "cover": "",
+      "cover": "asset://f35e02c2744cfbf6ea7d70ba5c56d612e72234d0fb617e97e6b82643bf1655fe",
       "gallery": [],
       "images": [],
       "links": [],
@@ -100,8 +102,9 @@
       },
       {
         "body": "A cash advance is money taken out with the card. It usually carries a fee of a few percent, a higher rate, and no grace period: the interest starts the same day. Using the card at an ATM is the most common way people get one without meaning to.\n\nA balance transfer moves an existing debt onto a card with a lower promotional rate. The transfer fee is often 3 to 5 % of the amount, and when the promotional period ends the rate jumps. Read the end date before you transfer, not after.\n\nA late payment costs a fee and, on many cards, moves the whole balance to a penalty APR that is higher than the standard rate. It can also affect your credit history, which decides what you are offered next year.\n\nClosing an account to stop the charges often makes things worse. A closed card may still collect its balance, the statement may stop arriving so you miss the due date, and the lost history can lower your limit on the other cards. If you want to stop using a card, keep it, set an alert, and stop putting anything on it.",
+        "calloutKind": "warning",
         "heading": "The four traps that cost the most",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "The statement is a working document, not an envelope to throw away. Ten minutes with it will tell you your real rate, your real balance and what will happen next month.\n\nStart at the summary box, because every bank puts the four numbers that matter in the same place. Then work down the transaction list, which is the part nobody reads and the part that catches recurring charges you forgot about.\n\nThe transaction list is also where you find the truth about your spending habits. A subscription you cancelled but the company kept billing is visible there as a small repeating line. Those are the leaks that quietly cost more than a single large purchase.",

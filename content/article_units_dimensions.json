@@ -2,6 +2,7 @@
   "dependencies": [
     "0a0d2cbd16068b7413b2738b0ea13305ba8e8401ddb6258d5719a68e44fe21f5",
     "278ccc53cacd8cddb68cb9de19564713c60c966542c8bb94f3584bf3b33fe070",
+    "6bd9e4d350f359e70985eb6a3e6c6355ba5864c6fa2b930a75d28b92acb850fd",
     "83daa0f1346e14780964fb79ffb0c94c6a6e2e051435216ae1a3846e276169bd",
     "c1d7fefbdcd04eb07bd5fe4e7b71a09004cc040c0555c01281a8bce16a6bd5a2",
     "c825a451293cdadfdcda8a8a29ffb30d72e0221277fa94505a2495f2433ef56c",
@@ -10,12 +11,12 @@
   ],
   "item": {
     "addedAt": "2026-11-17T00:00:00Z",
-    "cover": "",
+    "cover": "asset://6bd9e4d350f359e70985eb6a3e6c6355ba5864c6fa2b930a75d28b92acb850fd",
     "durationMin": 19,
     "fieldId": "physics",
     "id": "article_units_dimensions",
     "media": {
-      "cover": "",
+      "cover": "asset://6bd9e4d350f359e70985eb6a3e6c6355ba5864c6fa2b930a75d28b92acb850fd",
       "gallery": []
     },
     "objectives": [],
@@ -425,8 +426,9 @@
       },
       {
         "body": "A specification tells you the unit, the nominal value and the tolerance. It does not tell you the temperature the part was tested at, the material it was cut from, or the direction of the load. Units remove one kind of ambiguity, not all of them. When a drawing and a measurement disagree, do not reach for the conversion — check the conditions first.",
+        "calloutKind": "warning",
         "heading": "What a specification does not tell you",
-        "type": "prose"
+        "type": "callout"
       },
       {
         "body": "These are the sentences a drawing makes you say out loud. Learn them and reading a specification becomes a conversation rather than a puzzle.",
