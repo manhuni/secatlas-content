@@ -1,9 +1,6 @@
 {
   "dependencies": [
-    "0557c727e587b682ff21cfb5cc4b1c67366affb917465f5426e20005f3538075",
-    "1606a0c705cf666f1f02eeb5e811fed3539df2dbf15f856ee090f1485c2845fa",
-    "a653c02f7573dbdeccd5dec7e4a05be33c7b82f097225c3e37a0d9c966d3a8df",
-    "cacaaa9c2e4f844310581d41f7970237109966aff532c9084d881419c0493c81"
+    "0557c727e587b682ff21cfb5cc4b1c67366affb917465f5426e20005f3538075"
   ],
   "item": {
     "addedAt": "2026-11-17",
@@ -14,39 +11,12 @@
     "media": {
       "audio": [],
       "cover": "asset://0557c727e587b682ff21cfb5cc4b1c67366affb917465f5426e20005f3538075",
-      "gallery": [
-        {
-          "caption": "Five columns, one for each part of the method: what fast means, the worked product, the eight shortcuts, the words of the trade, and the check.",
-          "kind": "image",
-          "source": "asset://1606a0c705cf666f1f02eeb5e811fed3539df2dbf15f856ee090f1485c2845fa",
-          "title": "The shortcuts of honest mental arithmetic"
-        },
-        {
-          "caption": "The rough size of the answer comes first, and the exact number is tested against it.",
-          "kind": "image",
-          "source": "asset://cacaaa9c2e4f844310581d41f7970237109966aff532c9084d881419c0493c81",
-          "title": "Estimate before you calculate"
-        },
-        {
-          "caption": "Reverse the operation, test the digit sum, and confirm the unit before you say the number.",
-          "kind": "image",
-          "source": "asset://a653c02f7573dbdeccd5dec7e4a05be33c7b82f097225c3e37a0d9c966d3a8df",
-          "title": "Check the answer you did in your head"
-        }
-      ],
+      "gallery": [],
       "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [
-      "Choose a shortcut that fits the number in front of you.",
-      "Round and adjust a product, and correct it by the amount you rounded.",
-      "Read a percentage as a fraction of ten, and split it into parts.",
-      "Estimate the size of an answer before you give the number.",
-      "Check an answer by reversing the operation and by testing the digit sum.",
-      "Name the words of the trade: estimate, rounding, compensation, remainder, digit sum, quotient.",
-      "Say that you need a moment to work out a number, instead of guessing."
-    ],
+    "objectives": [],
     "relatedTopicIds": [
       "math_linear_eq",
       "article_units_dimensions"
@@ -148,7 +118,7 @@
         "type": "table"
       },
       {
-        "body": "**Estimate** is a rough number, close enough to show whether a real answer is possible. **Rounding** is writing a number as the nearest convenient value, usually the nearest ten, hundred or thousand: 47 rounds to 50, and 42 rounds to 40.\n\n**Compensation** is the correction you make after you have rounded a number. **Carry** is the tens you pass into the next column when the digits of one column add up to ten or more: in 8 + 7 you write 5 and carry 1.\n\n**Remainder** is the part that is left over when one number does not divide into the other. **Quotient** is the result of the division without that leftover part: 87 divided by 7 gives the quotient 12 and the remainder 3.\n\n**Digit sum** is the total of all the digits of a number. A number is a multiple of 9 exactly when its digit sum is a multiple of 9: the digit sum of 1296 is 1 + 2 + 9 + 6 = 18, and 18 is a multiple of 9.",
+        "body": "Estimate is a rough number, close enough to show whether a real answer is possible. **Rounding** is writing a number as the nearest convenient value, usually the nearest ten, hundred or thousand: 47 rounds to 50, and 42 rounds to 40.\n\nCompensation is the correction you make after you have rounded a number. **Carry** is the tens you pass into the next column when the digits of one column add up to ten or more: in 8 + 7 you write 5 and carry 1.\n\nRemainder is the part that is left over when one number does not divide into the other. **Quotient** is the result of the division without that leftover part: 87 divided by 7 gives the quotient 12 and the remainder 3.\n\nDigit sum is the total of all the digits of a number. A number is a multiple of 9 exactly when its digit sum is a multiple of 9: the digit sum of 1296 is 1 + 2 + 9 + 6 = 18, and 18 is a multiple of 9.",
         "examples": [
           "My estimate was about 1,500, and the exact answer was 1,296.",
           "47 rounds to 50, and I add the compensation back.",
@@ -210,7 +180,7 @@
         "type": "terminology"
       },
       {
-        "body": "A shortcut without a check is a fast way to be wrong. Four checks cost seconds and catch almost every slip: the size of the answer, the operation in reverse, the digit sum, and the unit. The first one is the quickest: **check the size**. Round each number to an easy value and work the rough product: about 50 times about 30 is about 1500. If your answer is 15 or 15000, it is wrong before you check it any further. An estimate catches the mistakes of size, and it never catches a small slip in the last step.\n\n**Do the operation in reverse.** Addition and subtraction undo each other, and so do multiplication and division. If you divided 87 by 7 and got the quotient 12 with a remainder of 3, multiply back: 12 × 7 = 84, and 84 + 3 = 87. If your answer had been 13, then 13 × 7 = 91, which is already too big. **Use the digit sum for multiples of 9.** A number is a multiple of 9 exactly when its digit sum is a multiple of 9. So if both factors are multiples of 3, the product must be a multiple of 9 as well.\n\n**Check the unit and the order of magnitude.** The answer to 48 crates of 27 bottles is a number of bottles, not crates, and not bottles per crate. If the question asks for a length and your answer carries no unit, it is not finished.\n\nHere is a slip being caught. You need the number of bottles in 48 crates of 27 bottles. You work 48 × 30 = 1440, then subtract 48 × 3 = 144, and you get 1296. The size check agrees: about 1500 is near 1296. Now suppose the subtraction slips and you write 1298. The reverse check catches it, because 1298 ÷ 48 is not a whole number of crates. The digit sum catches it as well: the digit sum of 1298 is 1 + 2 + 9 + 8 = 20, which is not a multiple of 9, while 48 and 27 are both multiples of 3, so the product has to be a multiple of 9. The right answer is 1296, and its digit sum is 18.",
+        "body": "A shortcut without a check is a fast way to be wrong. Four checks cost seconds and catch almost every slip: the size of the answer, the operation in reverse, the digit sum, and the unit. The first one is the quickest: **check the size**. Round each number to an easy value and work the rough product: about 50 times about 30 is about 1500. If your answer is 15 or 15000, it is wrong before you check it any further. An estimate catches the mistakes of size, and it never catches a small slip in the last step.\n\nDo the operation in reverse. Addition and subtraction undo each other, and so do multiplication and division. If you divided 87 by 7 and got the quotient 12 with a remainder of 3, multiply back: 12 × 7 = 84, and 84 + 3 = 87. If your answer had been 13, then 13 × 7 = 91, which is already too big. **Use the digit sum for multiples of 9.** A number is a multiple of 9 exactly when its digit sum is a multiple of 9. So if both factors are multiples of 3, the product must be a multiple of 9 as well.\n\nCheck the unit and the order of magnitude. The answer to 48 crates of 27 bottles is a number of bottles, not crates, and not bottles per crate. If the question asks for a length and your answer carries no unit, it is not finished.\n\nHere is a slip being caught. You need the number of bottles in 48 crates of 27 bottles. You work 48 × 30 = 1440, then subtract 48 × 3 = 144, and you get 1296. The size check agrees: about 1500 is near 1296. Now suppose the subtraction slips and you write 1298. The reverse check catches it, because 1298 ÷ 48 is not a whole number of crates. The digit sum catches it as well: the digit sum of 1298 is 1 + 2 + 9 + 8 = 20, which is not a multiple of 9, while 48 and 27 are both multiples of 3, so the product has to be a multiple of 9. The right answer is 1296, and its digit sum is 18.",
         "examples": [
           "About 50 times about 30 is about 1,500, so 1,296 is the right size.",
           "Multiply the quotient back and add the remainder; you must get the number you started with.",
@@ -238,7 +208,7 @@
         "type": "prose"
       },
       {
-        "body": "**Say the rough size first, then the exact number.** \"About 1,300 bottles, and exactly 1,296.\" The size takes one second and gives the listener something to test the number against. If the two disagree, you have found the error before anybody used the number.\n\n**Keep the size in the same unit as the answer.** A size in metres and an answer in centimetres cannot check each other.\n\n**Say it out loud.** A number you only think about is a number you check only sometimes.",
+        "body": "Say the rough size first, then the exact number. \"About 1,300 bottles, and exactly 1,296.\" The size takes one second and gives the listener something to test the number against. If the two disagree, you have found the error before anybody used the number.\n\nKeep the size in the same unit as the answer. A size in metres and an answer in centimetres cannot check each other.\n\nSay it out loud. A number you only think about is a number you check only sometimes.",
         "calloutKind": "tip",
         "examples": [
           "About 1,300 bottles, and exactly 1,296.",

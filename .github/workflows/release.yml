@@ -50,9 +50,10 @@ jobs:
             echo "skip=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: The library is sound
+      - name: Synchronize catalog and validate JSON
         if: steps.guard.outputs.skip != 'true'
         run: |
+          python3 sync_catalog.py
           python3 - <<'PY'
           import json, pathlib, sys
           broken = []
@@ -69,17 +70,21 @@ jobs:
           print('the library is sound')
           PY
 
-      - name: Point the service at this commit
+      - name: Commit catalog sync and point the service at this commit
         if: steps.guard.outputs.skip != 'true'
         run: |
+          git config user.name 'SecAtlas'
+          git config user.email 'noreply@github.com'
+          if ! git diff --quiet -- catalog/ items/ content/; then
+            git add catalog/ items/ content/
+            git commit -m "catalog: sync from content"
+          fi
           sha="$(git rev-parse HEAD)"
           printf '{\n  "schemaVersion": 1,\n  "release": "%s",\n  "updatedAt": ""\n}\n' "$sha" > current.json
           if git diff --quiet -- current.json; then
             echo "the pointer already names this commit"
             exit 0
           fi
-          git config user.name 'SecAtlas'
-          git config user.email 'noreply@github.com'
           git add current.json
           git commit -m "release: $sha"
           git push

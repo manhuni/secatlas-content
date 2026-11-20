@@ -16,13 +16,7 @@
       "links": [],
       "video": []
     },
-    "objectives": [
-      "Explain what running a local AI model actually gives you.",
-      "Distinguish owning weights from owning the technology.",
-      "Describe the hidden infrastructure AI depends on.",
-      "Define vendor lock-in and ecosystem dependence.",
-      "Assess claims of AI independence realistically."
-    ],
+    "objectives": [],
     "sections": [
       {
         "body": "Local AI means running a language model on your own hardware instead of calling a company's API. The model file — the 'weights' — sits on your disk, your prompts stay in your house, and no subscription meter is running. For privacy, for offline use, and for tinkering, this is a genuine gain, and the open-weights community behind it is one of the most productive movements in modern software.\n\nBut the model file is one component of a stack. It was trained on hardware you do not own, using datasets you cannot inspect, with tooling you did not write, and it runs on chips designed by a handful of companies. Owning the weights is real ownership of one layer — an important layer — not of the technology.\n\nConfusing the two produces a specific illusion: the feeling of independence from big tech while standing on ground poured by big tech. The question is not whether local AI is worth running — for many uses it clearly is — but what it actually removes from other people's hands.",

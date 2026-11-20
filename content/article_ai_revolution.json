@@ -1,9 +1,6 @@
 {
   "dependencies": [
-    "1f84dce3f390a09472f6d62c023fb0c886634d3bac28ab8a05ac68dbda7e7316",
-    "a240d077a530681d517942aab0a5b241f7e5b2b32cd9f9f4114909dd54a709f1",
-    "b7d0b87a146a8c9e3a48e8f9b34cd81f353e7691b91d5a69c6b662137e91ff90",
-    "eaa0e3525902b899ad3b52af4c30b7fccaf643e87e73ce72db0ddb3a4f49c054"
+    "1f84dce3f390a09472f6d62c023fb0c886634d3bac28ab8a05ac68dbda7e7316"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -14,42 +11,12 @@
     "media": {
       "audio": [],
       "cover": "asset://1f84dce3f390a09472f6d62c023fb0c886634d3bac28ab8a05ac68dbda7e7316",
-      "gallery": [
-        {
-          "caption": "From data to a product you actually use.",
-          "kind": "image",
-          "source": "asset://a240d077a530681d517942aab0a5b241f7e5b2b32cd9f9f4114909dd54a709f1",
-          "title": "The five layers of a modern AI system"
-        },
-        {
-          "caption": "Where the time goes when a draft takes ten seconds.",
-          "kind": "source",
-          "source": "asset://eaa0e3525902b899ad3b52af4c30b7fccaf643e87e73ce72db0ddb3a4f49c054",
-          "title": "AI at a desk"
-        },
-        {
-          "caption": "The step that decides whether the tool helps or harms.",
-          "kind": "image",
-          "source": "asset://b7d0b87a146a8c9e3a48e8f9b34cd81f353e7691b91d5a69c6b662137e91ff90",
-          "title": "Checking the answer"
-        }
-      ],
-      "images": [
-        "asset://eaa0e3525902b899ad3b52af4c30b7fccaf643e87e73ce72db0ddb3a4f49c054",
-        "asset://b7d0b87a146a8c9e3a48e8f9b34cd81f353e7691b91d5a69c6b662137e91ff90"
-      ],
+      "gallery": [],
+      "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [
-      "Explain what modern artificial intelligence does and what it does not do.",
-      "Name the everyday tools where AI already does part of the work.",
-      "Describe the three failure modes of AI output before you trust it.",
-      "Check an AI answer against a source before you act on it.",
-      "Recognise the tasks AI does badly and keep those for a person.",
-      "Decide what you should and should not paste into a chatbot.",
-      "Explain to a colleague what changes in a job when AI arrives."
-    ],
+    "objectives": [],
     "sections": [
       {
         "body": "The AI revolution is not a robot arriving. It is a change in what software can do without being told each step. For most of computing history, a program followed instructions a human wrote. If you wanted a different result, a human wrote different instructions. Modern artificial intelligence works differently: it is shown a great many examples, and it works out the pattern itself.\n\nThree words carry most of the meaning. **Machine learning** is the general method: instead of being told the rules, the system is given data and a goal, and it adjusts itself until its output matches the goal. **Neural network** is the structure most modern systems use. It is a large set of simple units, loosely inspired by brain cells, whose connection strengths are tuned by training. **Generative AI** is the family of systems that produce new content: text, images, audio, code, video.\n\nThe scale is the part that changed the world. Training a useful language model needs thousands of processing chips running for weeks on a very large body of text, code and images. The result is a model with billions of adjustable parameters, and those parameters are what let it generalise: it has not memorised your sentence, it has learned the shape of language well enough to continue yours.\n\nThree claims deserve care. First, the systems are statistical, not understanding: they predict likely continuations, and a plausible continuation can be wrong. Second, they are not databases: they do not look your answer up, they compose it, so they can compose it wrongly with great confidence. Third, they are not conscious and not searching the internet by themselves. A chatbot that cites a source is producing the shape of a citation, unless it has actually been connected to look it up.\n\nSo the honest one-sentence version is this: the revolution is that writing, drafting, translating, summarising and coding tasks that used to need a person now often need only a review. That is a real change in what a job is, and it is worth understanding on purpose rather than discovering it later.",
@@ -71,7 +38,7 @@
         "type": "prose"
       },
       {
-        "body": "The failures of AI are not random. They follow from how the system works, and knowing the pattern tells you where to place your trust.\n\n**Precision without accuracy.** A model optimises for output that looks right, not output that is right. It has no way to mark a sentence as uncertain, unless it has been built to do that. So a confident, fluent, wrong answer is the normal failure, not the surprising one.\n\n**Recency blindness.** Unless a system is connected to live sources, it knows nothing about today. Ask about a law passed last month, a price today, or a product released this week, and a model without tools will answer from its training and may do so wrongly.\n\n**No accountability.** A model has no stake in the outcome. It cannot be asked why it made a decision in a way that has any legal meaning. When a decision affects your money, your health or your freedom, a person must still own it.\n\n**Weak arithmetic and precise facts.** Language models work on tokens of text, not on quantities. They are unreliable at counting, at exact retrieval, and at any task where a single character changes the answer.\n\n**Consistency.** The same question can produce two different answers. Ask twice, get two drafts, and treat the difference as information rather than as noise.\n\n**The long tail.** Popular topics are covered well in the training data, so the answers sound confident. Niche local rules, small suppliers and recent changes are where the confident wrongness concentrates. If your task lives in the long tail, the tool is least reliable exactly where you need it most.",
+        "body": "The failures of AI are not random. They follow from how the system works, and knowing the pattern tells you where to place your trust.\n\nPrecision without accuracy. A model optimises for output that looks right, not output that is right. It has no way to mark a sentence as uncertain, unless it has been built to do that. So a confident, fluent, wrong answer is the normal failure, not the surprising one.\n\nRecency blindness. Unless a system is connected to live sources, it knows nothing about today. Ask about a law passed last month, a price today, or a product released this week, and a model without tools will answer from its training and may do so wrongly.\n\nNo accountability. A model has no stake in the outcome. It cannot be asked why it made a decision in a way that has any legal meaning. When a decision affects your money, your health or your freedom, a person must still own it.\n\nWeak arithmetic and precise facts. Language models work on tokens of text, not on quantities. They are unreliable at counting, at exact retrieval, and at any task where a single character changes the answer.\n\nConsistency. The same question can produce two different answers. Ask twice, get two drafts, and treat the difference as information rather than as noise.\n\nThe long tail. Popular topics are covered well in the training data, so the answers sound confident. Niche local rules, small suppliers and recent changes are where the confident wrongness concentrates. If your task lives in the long tail, the tool is least reliable exactly where you need it most.",
         "examples": [
           "It gave me a confident answer about a rule that was changed six months ago.",
           "I asked twice and got two different lists, so I checked both.",
@@ -104,7 +71,7 @@
         "type": "steps"
       },
       {
-        "body": "These are the terms that appear in product announcements, job adverts and the news. Each one means something specific.\n\n**Machine learning** is the method of letting a system learn patterns from data instead of following rules a person wrote.\n\n**Neural network** is the layered structure most modern models use, made of simple units whose connection strengths are tuned during training.\n\n**Parameter** is one adjustable number inside a model. A model with billions of parameters has billions of these tuned values.\n\n**Training** is the expensive stage: showing the system enormous amounts of data and adjusting the parameters until its output is useful.\n\n**Training data** is that data. Its scope and quality decide a great deal about what the model will be good at and what it will get wrong.\n\n**Generative AI** is the family of models that produce new content rather than only classifying or predicting a label.\n\n**Large language model** is a generative model trained on a very large body of text, and the kind behind most chatbots.\n\n**Inference** is the cheap stage: running a trained model to produce one answer. It is what happens when you press send.\n\n**Hallucination** is confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.\n\n**Prompt** is the instruction and context you give the model. Prompting is the craft of writing it so the output is what you meant.\n\n**Fine-tuning** is further training of an existing model on a narrower set of examples so it behaves better for one job.\n\n**Multimodal** describes a model that handles more than one kind of input or output, such as text, images and speech together.",
+        "body": "These are the terms that appear in product announcements, job adverts and the news. Each one means something specific.\n\nMachine learning is the method of letting a system learn patterns from data instead of following rules a person wrote.\n\nNeural network is the layered structure most modern models use, made of simple units whose connection strengths are tuned during training.\n\nParameter is one adjustable number inside a model. A model with billions of parameters has billions of these tuned values.\n\nTraining is the expensive stage: showing the system enormous amounts of data and adjusting the parameters until its output is useful.\n\nTraining data is that data. Its scope and quality decide a great deal about what the model will be good at and what it will get wrong.\n\nGenerative AI is the family of models that produce new content rather than only classifying or predicting a label.\n\nLarge language model is a generative model trained on a very large body of text, and the kind behind most chatbots.\n\nInference is the cheap stage: running a trained model to produce one answer. It is what happens when you press send.\n\nHallucination is confident, fluent output that is simply wrong, especially a fact, a citation or a number that does not exist.\n\nPrompt is the instruction and context you give the model. Prompting is the craft of writing it so the output is what you meant.\n\nFine-tuning is further training of an existing model on a narrower set of examples so it behaves better for one job.\n\nMultimodal describes a model that handles more than one kind of input or output, such as text, images and speech together.",
         "heading": "The words of AI, one by one",
         "terms": [
           {

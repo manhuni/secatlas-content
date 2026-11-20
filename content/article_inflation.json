@@ -1,11 +1,6 @@
 {
   "dependencies": [
-    "0e88e75ac3d388fad63febee87d39b1f4aa94a2a1737fd9d1d5ebe5beae97ced",
-    "33b390a80ec759355e6b0387587e224af8e2a34e7136685675ac129584023516",
-    "482dd693a108d60e9827b2f7ed8499181439283acb60419253c5505c94f2b8e7",
-    "4d946f9a6eb34b12e115aaa806a1db85e33a55730c9bb5bc2160a505fcb1cd77",
-    "8f0ed6a3517bfe2170acaceab2b3d1db6cf9e11395eb2d98b8973b5d4d9a8aba",
-    "d2c66180c4a3ad84580db526cfb8b0fdb2a52535ba7dcebac2b9d89eccdf7a68"
+    "0e88e75ac3d388fad63febee87d39b1f4aa94a2a1737fd9d1d5ebe5beae97ced"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -16,42 +11,12 @@
     "media": {
       "audio": [],
       "cover": "asset://0e88e75ac3d388fad63febee87d39b1f4aa94a2a1737fd9d1d5ebe5beae97ced",
-      "gallery": [
-        {
-          "caption": "A basket of goods, one price list, one number.",
-          "kind": "image",
-          "source": "asset://8f0ed6a3517bfe2170acaceab2b3d1db6cf9e11395eb2d98b8973b5d4d9a8aba",
-          "title": "How a price index is built"
-        },
-        {
-          "caption": "The same basket, one year later.",
-          "kind": "image",
-          "source": "asset://482dd693a108d60e9827b2f7ed8499181439283acb60419253c5505c94f2b8e7",
-          "title": "What a year of inflation does"
-        },
-        {
-          "caption": "Why a raise can still leave you poorer.",
-          "kind": "image",
-          "source": "asset://4d946f9a6eb34b12e115aaa806a1db85e33a55730c9bb5bc2160a505fcb1cd77",
-          "title": "Nominal and real income"
-        }
-      ],
-      "images": [
-        "asset://33b390a80ec759355e6b0387587e224af8e2a34e7136685675ac129584023516",
-        "asset://d2c66180c4a3ad84580db526cfb8b0fdb2a52535ba7dcebac2b9d89eccdf7a68"
-      ],
+      "gallery": [],
+      "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [
-      "Define inflation in plain words and distinguish it from a single price going up.",
-      "Explain how a consumer price index is built and what a percentage figure means.",
-      "Compare a nominal change in income with a real change.",
-      "Name the words economists use: CPI, price index, base year, real income.",
-      "Distinguish inflation, deflation and stagflation from one another.",
-      "Identify who gains and who loses from rising prices.",
-      "Calculate the inflation rate your own household actually faces."
-    ],
+    "objectives": [],
     "sections": [
       {
         "body": "Inflation is the general rise in prices across an economy over a period of time. The word \"general\" does the important work. If one shop raises the price of one item, that is a price change, not inflation. Inflation is what happens when prices rise across most of what people buy, so that the same amount of money buys less than it did a year ago.\n\nThe measure is a **rate**, usually given per year. If prices rise by 5 % over a year, then a basket of goods that cost 100 $ costs 105 $ a year later. That basket does not have to be identical each year: statisticians update it as people change what they buy, so the index keeps describing real behaviour.\n\nInflation is not the same as prices going up. Prices can also go down, and one item can become dramatically cheaper while everything else rises. A phone that costs half as much as it did, and rent that doubles, can sit inside the same 3 % annual inflation rate, because the index measures an average weighted by how much people actually spend.\n\nThree things are worth keeping in mind at the start. First, inflation is a **rate of change**, not a level. A country with 1 % inflation has rising but roughly stable prices. Second, inflation is **measured, not felt**: the official figure comes from a price index, and the rate you experience depends entirely on what you buy. Third, inflation is **not the same as price levels being high**. Prices in a city can be high and stable for years, with no inflation at all.\n\nThe vocabulary follows from this. A **nominal** figure is the raw number on the ticket. A **real** figure is that number adjusted for inflation, which is the one that tells you what you can actually buy. Inflation quietly turns a nominal wage rise into a real fall, and the rest of this article is mostly about telling those two apart.",
@@ -84,7 +49,7 @@
         "type": "prose"
       },
       {
-        "body": "These are the words you will meet in a news report about prices, and what each one actually tells you.\n\n**Inflation rate** is the percentage change in the general price level over a period, usually a year. **Price index** is the number that tracks the level, with the base year set to 100. **Base year** is the year the index starts from, and changing it resets the index without changing any prices.\n\n**Consumer price index** (CPI) is the standard measure of inflation for households. **Producer price index** (PPI) tracks prices leaving factories, and it often turns before consumer prices do.\n\n**Nominal income** is your income as printed, before any adjustment. **Real income** is that income adjusted for inflation, and it is the figure that describes what you can buy. **Deflation** is a sustained fall in the general price level.\n\n**Core inflation** is the rate with the most volatile items removed. **Real interest rate** is the interest rate minus the inflation rate, and it is what a saver actually earns in purchasing power.\n\n**Purchasing power** is what a fixed amount of money can buy. **Cost of living** is the cost of a typical household's basket, and it is usually expressed as an index or as a figure compared with wages.\n\n**Disinflation** is a slower rate of inflation, not falling prices. **Reflation** is the deliberate return to rising prices after a period of deflation.",
+        "body": "These are the words you will meet in a news report about prices, and what each one actually tells you.\n\nInflation rate is the percentage change in the general price level over a period, usually a year. **Price index** is the number that tracks the level, with the base year set to 100. **Base year** is the year the index starts from, and changing it resets the index without changing any prices.\n\nConsumer price index (CPI) is the standard measure of inflation for households. **Producer price index** (PPI) tracks prices leaving factories, and it often turns before consumer prices do.\n\nNominal income is your income as printed, before any adjustment. **Real income** is that income adjusted for inflation, and it is the figure that describes what you can buy. **Deflation** is a sustained fall in the general price level.\n\nCore inflation is the rate with the most volatile items removed. **Real interest rate** is the interest rate minus the inflation rate, and it is what a saver actually earns in purchasing power.\n\nPurchasing power is what a fixed amount of money can buy. **Cost of living** is the cost of a typical household's basket, and it is usually expressed as an index or as a figure compared with wages.\n\nDisinflation is a slower rate of inflation, not falling prices. **Reflation** is the deliberate return to rising prices after a period of deflation.",
         "heading": "The words economists use",
         "terms": [
           {
@@ -127,7 +92,7 @@
         "type": "terminology"
       },
       {
-        "body": "Inflation is only one of the states a price level can be in, and the other two are worth knowing because they call for opposite responses.\n\n**Deflation** is a sustained fall in the general price level. Falling prices sound good for buyers, but they are not good for an economy. Debt becomes harder to repay in real terms, because the money you owe is worth more than when you borrowed it. Businesses wait to invest, because prices tomorrow are lower than prices today. People postpone spending, hoping for a better price. This loop is why deflation is treated as a serious problem, not as a bonus.\n\n**Disinflation** is different and much more common: inflation continues but at a slower rate. Prices are still rising, just more gently. A headline that falls from 6 % to 3 % is disinflation, and it is often reported as \"inflation falls\", which is misleading.\n\n**Stagflation** is the unpleasant combination of high inflation and weak or falling output, when prices keep rising and the economy stops growing. It is hard to deal with because the usual remedies pull in opposite directions: high interest rates fight inflation but make a weak economy worse.\n\nAt the extreme is **very high inflation**, sometimes called hyperinflation. Prices can double within weeks, and the money itself stops being trusted. People then hold goods instead of cash, take wages in whatever form is available, and often borrow at rates that look absurd, because the alternative is losing the value of savings overnight. This is not a forecast; it is a description of what happens when the money and the state lose confidence in each other.\n\nThe practical point is that the name of the state tells you who is in trouble. Deflation hurts borrowers and savers of goods. Stagflation hurts everybody slowly. Hyperinflation destroys the function of money itself.",
+        "body": "Inflation is only one of the states a price level can be in, and the other two are worth knowing because they call for opposite responses.\n\nDeflation is a sustained fall in the general price level. Falling prices sound good for buyers, but they are not good for an economy. Debt becomes harder to repay in real terms, because the money you owe is worth more than when you borrowed it. Businesses wait to invest, because prices tomorrow are lower than prices today. People postpone spending, hoping for a better price. This loop is why deflation is treated as a serious problem, not as a bonus.\n\nDisinflation is different and much more common: inflation continues but at a slower rate. Prices are still rising, just more gently. A headline that falls from 6 % to 3 % is disinflation, and it is often reported as \"inflation falls\", which is misleading.\n\nStagflation is the unpleasant combination of high inflation and weak or falling output, when prices keep rising and the economy stops growing. It is hard to deal with because the usual remedies pull in opposite directions: high interest rates fight inflation but make a weak economy worse.\n\nAt the extreme is **very high inflation**, sometimes called hyperinflation. Prices can double within weeks, and the money itself stops being trusted. People then hold goods instead of cash, take wages in whatever form is available, and often borrow at rates that look absurd, because the alternative is losing the value of savings overnight. This is not a forecast; it is a description of what happens when the money and the state lose confidence in each other.\n\nThe practical point is that the name of the state tells you who is in trouble. Deflation hurts borrowers and savers of goods. Stagflation hurts everybody slowly. Hyperinflation destroys the function of money itself.",
         "examples": [
           "Inflation fell from 6 % to 3 %, which is disinflation, not falling prices.",
           "Stagflation means prices keep rising while the economy stops growing.",
@@ -137,7 +102,7 @@
         "type": "prose"
       },
       {
-        "body": "Inflation does not hit everyone equally, and the effect depends on when your income and your spending happen.\n\n**Debtors gain**, quietly. A fixed loan is repaid with money that is worth less than when it was taken out. This is why governments sometimes like inflation and why fixed-rate borrowers benefit from it.\n\n**Savers of cash lose**, because the money buys less later than it did when it was saved. This is the core of the argument for index-linked savings, which pay interest adjusted to the inflation rate, and for holding some of your savings in assets whose value tends to rise with prices.\n\n**Fixed incomes lose hardest** if they are not indexed. A pension, a benefit or a salary fixed by contract worth 100 $ buys less each year. The word \"indexed\" on a pay offer means it is adjusted to inflation, and it is worth a great deal when prices are rising.\n\n**Wage earners with wages that keep pace gain**, because their income rises with prices and their debts become easier to serve. This is why the debate about inflation is often a debate about whether wages move with prices.\n\n**People who hold assets gain or lose** with the market, and the effect is not automatic. The price of a house, a shop or a share can fall while consumer prices rise.\n\nThere is also a timing effect that catches households. If your salary is adjusted once a year and prices rise every month, you spend most of the year earning less than the new price level, and get a catch-up at the end. And if you hold most of your money in cash while your debts are fixed, rising prices make your position deteriorate faster than your income grows.\n\nSo the useful question is not \"is inflation good or bad\" but \"where do my income, my savings and my debts sit, and do they move together\".",
+        "body": "Inflation does not hit everyone equally, and the effect depends on when your income and your spending happen.\n\nDebtors gain, quietly. A fixed loan is repaid with money that is worth less than when it was taken out. This is why governments sometimes like inflation and why fixed-rate borrowers benefit from it.\n\nSavers of cash lose, because the money buys less later than it did when it was saved. This is the core of the argument for index-linked savings, which pay interest adjusted to the inflation rate, and for holding some of your savings in assets whose value tends to rise with prices.\n\nFixed incomes lose hardest if they are not indexed. A pension, a benefit or a salary fixed by contract worth 100 $ buys less each year. The word \"indexed\" on a pay offer means it is adjusted to inflation, and it is worth a great deal when prices are rising.\n\nWage earners with wages that keep pace gain, because their income rises with prices and their debts become easier to serve. This is why the debate about inflation is often a debate about whether wages move with prices.\n\nPeople who hold assets gain or lose with the market, and the effect is not automatic. The price of a house, a shop or a share can fall while consumer prices rise.\n\nThere is also a timing effect that catches households. If your salary is adjusted once a year and prices rise every month, you spend most of the year earning less than the new price level, and get a catch-up at the end. And if you hold most of your money in cash while your debts are fixed, rising prices make your position deteriorate faster than your income grows.\n\nSo the useful question is not \"is inflation good or bad\" but \"where do my income, my savings and my debts sit, and do they move together\".",
         "examples": [
           "My salary is indexed, so it moves with prices every year.",
           "I hold most of my savings in cash, so rising prices hurt me more than they help.",
@@ -147,7 +112,7 @@
         "type": "prose"
       },
       {
-        "body": "**Match the term of your money to the term of your spending.** Money needed within three years belongs in something that does not lose value unexpectedly, not in the highest-yielding product.\n\n**Look for index-linked savings.** These pay interest adjusted to the inflation rate, so the real return is much closer to zero than the headline rate suggests. The cost is that returns are lower than the best fixed rates at some moments, and terms may be short.\n\n**Keep an emergency fund in cash.** Its job is to be there, not to beat inflation. Six months of ordinary expenses in an accessible account is what stops you borrowing at 24 % to cover a flat tyre.\n\n**Watch the gap, not the headline.** A deposit paying 7 % with inflation at 9 % is a loss. Always subtract the inflation rate before you decide that a product is doing well.\n\n**Keep a record of prices you care about.** The official index is an average. Two minutes noting the price of the handful of things your household actually buys gives you an inflation rate that is yours, and it is the only one that matters for your budget.\n\n**Do not borrow to keep up with prices.** Financing consumption at a high rate because prices are rising is the fastest way to turn inflation into a permanent loss.",
+        "body": "Match the term of your money to the term of your spending. Money needed within three years belongs in something that does not lose value unexpectedly, not in the highest-yielding product.\n\nLook for index-linked savings. These pay interest adjusted to the inflation rate, so the real return is much closer to zero than the headline rate suggests. The cost is that returns are lower than the best fixed rates at some moments, and terms may be short.\n\nKeep an emergency fund in cash. Its job is to be there, not to beat inflation. Six months of ordinary expenses in an accessible account is what stops you borrowing at 24 % to cover a flat tyre.\n\nWatch the gap, not the headline. A deposit paying 7 % with inflation at 9 % is a loss. Always subtract the inflation rate before you decide that a product is doing well.\n\nKeep a record of prices you care about. The official index is an average. Two minutes noting the price of the handful of things your household actually buys gives you an inflation rate that is yours, and it is the only one that matters for your budget.\n\nDo not borrow to keep up with prices. Financing consumption at a high rate because prices are rising is the fastest way to turn inflation into a permanent loss.",
         "calloutKind": "tip",
         "heading": "How to protect your money against inflation",
         "type": "callout"

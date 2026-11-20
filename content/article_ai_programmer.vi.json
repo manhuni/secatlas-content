@@ -1,13 +1,7 @@
 {
   "language": "vi",
   "lessonId": "article_ai_programmer",
-  "objectives": [
-    "Mô tả những gì việc tạo mã bằng AI thực sự tự động hóa.",
-    "Giải thích sự chuyển dịch từ viết mã sang định nghĩa vấn đề.",
-    "Phân biệt việc tự động hóa cú pháp với việc tự động hóa phán đoán.",
-    "Xác định những kỹ năng có giá trị ngày càng tăng khi viết mã được tự động hóa.",
-    "Suy luận xem “kỹ sư” nghĩa là gì khi máy viết mã."
-  ],
+  "objectives": [],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
@@ -26,7 +20,7 @@
       "heading": "Từ viết mã đến xác định vấn đề"
     },
     {
-      "body": "Một số phần của phần mềm vẫn khó tự động hóa vì những lý do mang tính cấu trúc. **Bối cảnh** là một thứ: một hệ thống sống trong một doanh nghiệp, một đạo luật, một lịch sử quyết định, và máy chỉ nhìn thấy những mảnh ghép được cho chúng thấy. **Hậu quả** cũng là một ví dụ: lựa chọn giữa một tính năng nhanh hơn và một thiết kế an toàn hơn là một quyết định về giá trị, mà giá trị thì không thể biên dịch. **Tin cậy** là một điều thứ ba: người dùng đổ lỗi và ghi công cho con người, chứ không phải cho mô hình.\n\n**Tư duy kỹ thuật** là cách gọi cho sự kết hợp giữa việc giữ bối cảnh, cân nhắc hậu quả và đứng sau kết quả. Nó càng trở nên có giá trị khi việc tạo mã ngày càng rẻ, bởi mỗi đoạn mã rẻ đều làm tăng số quyết định có thể đưa ra trong một ngày. Khi việc tạo ra một lựa chọn không tốn kém gì, lựa chọn giữa các phương án chính là toàn bộ công việc.\n\nĐó là lý do ranh giới của tự động hóa luôn tiến triển và không bao giờ đến đích: mỗi năng lực mới đều hấp thụ những công việc vốn đã trở thành thói quen, đồng thời làm lộ ra rõ ràng hơn trước phần quyết định vốn luôn mới là công việc thực sự.",
+      "body": "Một số phần của phần mềm vẫn khó tự động hóa vì những lý do mang tính cấu trúc. **Bối cảnh** là một thứ: một hệ thống sống trong một doanh nghiệp, một đạo luật, một lịch sử quyết định, và máy chỉ nhìn thấy những mảnh ghép được cho chúng thấy. **Hậu quả** cũng là một ví dụ: lựa chọn giữa một tính năng nhanh hơn và một thiết kế an toàn hơn là một quyết định về giá trị, mà giá trị thì không thể biên dịch. **Tin cậy** là một điều thứ ba: người dùng đổ lỗi và ghi công cho con người, chứ không phải cho mô hình.\n\nTư duy kỹ thuật là cách gọi cho sự kết hợp giữa việc giữ bối cảnh, cân nhắc hậu quả và đứng sau kết quả. Nó càng trở nên có giá trị khi việc tạo mã ngày càng rẻ, bởi mỗi đoạn mã rẻ đều làm tăng số quyết định có thể đưa ra trong một ngày. Khi việc tạo ra một lựa chọn không tốn kém gì, lựa chọn giữa các phương án chính là toàn bộ công việc.\n\nĐó là lý do ranh giới của tự động hóa luôn tiến triển và không bao giờ đến đích: mỗi năng lực mới đều hấp thụ những công việc vốn đã trở thành thói quen, đồng thời làm lộ ra rõ ràng hơn trước phần quyết định vốn luôn mới là công việc thực sự.",
       "examples": [
         "Giá trị của kỹ sư cao cấp không nằm ở chỗ cô ấy viết mã nhanh hơn, mà ở chỗ cô ấy đã ngăn chặn ba tính năng có vẻ hợp lý nhưng lại có thể gây hại cho sản phẩm."
       ],

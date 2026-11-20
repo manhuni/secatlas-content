@@ -1,9 +1,6 @@
 {
   "dependencies": [
-    "1cd83535f45e6752aeeb2fd0f57fbfafe5f422088bd7c58dca69fbaf56858185",
-    "3f3eb974ddbec1ac0cec92630da5e957f2a176aedad9279aebc7ad422e3ecffd",
-    "7f35eeeb6725768cc8889f5d829797761739dc87255f168d7f7e832741713f4d",
-    "f5b42c95420fd849066b4f11e6c752d0d559539b179ea32b4b38293fc3dffe74"
+    "7f35eeeb6725768cc8889f5d829797761739dc87255f168d7f7e832741713f4d"
   ],
   "item": {
     "addedAt": "2026-11-17",
@@ -14,39 +11,12 @@
     "media": {
       "audio": [],
       "cover": "asset://7f35eeeb6725768cc8889f5d829797761739dc87255f168d7f7e832741713f4d",
-      "gallery": [
-        {
-          "caption": "From the heating element to the water, to the pipe, to the person.",
-          "kind": "image",
-          "source": "asset://1cd83535f45e6752aeeb2fd0f57fbfafe5f422088bd7c58dca69fbaf56858185",
-          "title": "The paths a fault current can take"
-        },
-        {
-          "caption": "A water heater is a metal tank full of water, and it is fed by a cable.",
-          "kind": "image",
-          "source": "asset://3f3eb974ddbec1ac0cec92630da5e957f2a176aedad9279aebc7ad422e3ecffd",
-          "title": "The tank, the pipe and the earth wire"
-        },
-        {
-          "caption": "The breaker is switched off before anybody touches the appliance.",
-          "kind": "image",
-          "source": "asset://f5b42c95420fd849066b4f11e6c752d0d559539b179ea32b4b38293fc3dffe74",
-          "title": "Switch off first"
-        }
-      ],
+      "gallery": [],
       "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [
-      "Describe how a water heater can put current into the water, into the pipes and into a person.",
-      "Name current, voltage, insulation, earthing, leakage current and the residual-current device, and say what each one does.",
-      "Explain why a bathroom is the place where a small electrical fault becomes dangerous.",
-      "Separate the electrical protection from the pressure protection, so that the right part is checked.",
-      "Compare the protective earth wire, the residual-current device and the circuit breaker by what each one watches.",
-      "Use the right order of action when somebody gets a shock from a hot water appliance.",
-      "Check the label of a heater and the maintenance that stops the fault from happening."
-    ],
+    "objectives": [],
     "relatedTopicIds": [
       "article_appliance_symbols",
       "article_car_breakdown"
@@ -254,7 +224,7 @@
         "type": "steps"
       },
       {
-        "body": "**Never work on the heater with the power on.** Not the element, not the wiring, not the plug, and not with the breaker switched off and the hope that it was already off. If you cannot confirm that the circuit is dead, you do not work on it.\n\n**Never reset the RCD again and again.** A device that trips has found a fault. Resetting it clears the evidence and puts the fault back. Note what the appliance was doing, note the time, and call the electrician. A device that trips twice in one week is a fault to be reported, not a nuisance to be pushed.\n\n**Never use an extension cord or a portable heater in a wet room.** An extension lead is a long, poorly protected conductor, and a portable heater is a live element on the floor of a wet room. Neither belongs in a bathroom. If the socket is far from the appliance, the answer is a new circuit fitted by an electrician, not a lead across the room.\n\n**Never rely on the earth wire alone.** The earth wire is one layer of protection, and it only works when the board sees the fault current. The RCD is the layer that watches the person. A heater with a good earth and no RCD protection is not safe, and a heater with a good RCD and a cut earth wire is not safe either. And one rule stands above the four: **only a licensed electrician opens, repairs or tests a water heater.** The manual of the appliance, the local standard and the certificate of the electrician decide what is done. This article explains what happens and what to do in the first minutes. It is not a repair instruction, and it does not replace any of those three.",
+        "body": "Never work on the heater with the power on. Not the element, not the wiring, not the plug, and not with the breaker switched off and the hope that it was already off. If you cannot confirm that the circuit is dead, you do not work on it.\n\nNever reset the RCD again and again. A device that trips has found a fault. Resetting it clears the evidence and puts the fault back. Note what the appliance was doing, note the time, and call the electrician. A device that trips twice in one week is a fault to be reported, not a nuisance to be pushed.\n\nNever use an extension cord or a portable heater in a wet room. An extension lead is a long, poorly protected conductor, and a portable heater is a live element on the floor of a wet room. Neither belongs in a bathroom. If the socket is far from the appliance, the answer is a new circuit fitted by an electrician, not a lead across the room.\n\nNever rely on the earth wire alone. The earth wire is one layer of protection, and it only works when the board sees the fault current. The RCD is the layer that watches the person. A heater with a good earth and no RCD protection is not safe, and a heater with a good RCD and a cut earth wire is not safe either. And one rule stands above the four: **only a licensed electrician opens, repairs or tests a water heater.** The manual of the appliance, the local standard and the certificate of the electrician decide what is done. This article explains what happens and what to do in the first minutes. It is not a repair instruction, and it does not replace any of those three.",
         "calloutKind": "danger",
         "examples": [
           "I will not reset the RCD again; it has tripped twice and the fault has to be found.",

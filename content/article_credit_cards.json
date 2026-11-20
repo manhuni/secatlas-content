@@ -1,10 +1,5 @@
 {
   "dependencies": [
-    "30ff8fd6ad6e23204680b6dda80d828dff004cedf01fa5f9298a0c768a247b73",
-    "701d13a86b683d205fd1709e88f73223c159c3cf27024038b843e01960d9a73b",
-    "8a11e9a35386466996f375f7fc9ac8ce9ab8883dd9970ccd167d930b36d0e716",
-    "b93bc8f8cfc17bd104afc2b9f18fd9b4b9ba220c918e2e86e95b786ba703b54f",
-    "f16eadb6120f290d39bc9c09e65446ef34ec69937ca4c11d986b96931a5273c9",
     "f35e02c2744cfbf6ea7d70ba5c56d612e72234d0fb617e97e6b82643bf1655fe"
   ],
   "item": {
@@ -16,42 +11,12 @@
     "media": {
       "audio": [],
       "cover": "asset://f35e02c2744cfbf6ea7d70ba5c56d612e72234d0fb617e97e6b82643bf1655fe",
-      "gallery": [
-        {
-          "caption": "Limit, cycle, rate and minimum payment, and where each one appears.",
-          "kind": "image",
-          "source": "asset://f16eadb6120f290d39bc9c09e65446ef34ec69937ca4c11d986b96931a5273c9",
-          "title": "The parts of a card and a statement"
-        },
-        {
-          "caption": "From the purchase to the due date, and where interest enters.",
-          "kind": "image",
-          "source": "asset://8a11e9a35386466996f375f7fc9ac8ce9ab8883dd9970ccd167d930b36d0e716",
-          "title": "How one billing cycle works"
-        },
-        {
-          "caption": "One year of interest on the same balance.",
-          "kind": "image",
-          "source": "asset://30ff8fd6ad6e23204680b6dda80d828dff004cedf01fa5f9298a0c768a247b73",
-          "title": "What a carried balance costs"
-        }
-      ],
-      "images": [
-        "asset://701d13a86b683d205fd1709e88f73223c159c3cf27024038b843e01960d9a73b",
-        "asset://b93bc8f8cfc17bd104afc2b9f18fd9b4b9ba220c918e2e86e95b786ba703b54f"
-      ],
+      "gallery": [],
+      "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [
-      "Explain what a credit card is and when it starts costing you money.",
-      "Work out how a billing cycle turns purchases into a bill and a due date.",
-      "Compare an interest rate, an APR and a daily rate.",
-      "Calculate what paying only the minimum payment really costs.",
-      "Spot the four traps that cost the most: cash advances, balance transfers, late payments and closed accounts.",
-      "Read a statement in ten minutes and find the four numbers that matter.",
-      "Ask a bank for a lower rate using sentences you can copy."
-    ],
+    "objectives": [],
     "sections": [
       {
         "body": "A credit card is a promise to pay later. When you swipe it in a shop, you are not buying the item with money you already have. You are asking the bank to pay the shop now and to send you the bill. The bank charges you for that service, either as interest on the balance or as part of the price you already paid for the card.\n\nThe card has four parts that matter. The **credit limit** is the most the bank will let you borrow at one time. The **billing cycle** is the period between two statements. The **interest rate** is the price of borrowing, usually written as an annual percentage rate, or **APR**. The **minimum payment** is the smallest amount the bank will accept in a month.\n\nThat promise has a price, and the price is not hidden. A shop may charge you extra for taking a card, and a card with no annual fee still charges interest when you carry a balance. What makes credit useful is the gap between when you spend and when you pay. That gap is valuable when it is short and managed. It becomes expensive when it is long and unnoticed.\n\nCredit cards also work as a payment tool, not only as a loan. If you pay the full balance every month, you have used the card's payment network and borrowed nothing. That is the cheapest way to use one. Interest appears only when a balance stays on the card beyond the grace period.\n\nEverything in this article follows from that one fact: interest is charged on the balance you carry, and a balance you do not carry costs you nothing.",
@@ -83,7 +48,7 @@
         "type": "prose"
       },
       {
-        "body": "These are the words you will meet on the plastic and on the statement, and what each one actually does.\n\n**APR** is the annual percentage rate: the yearly price of borrowing, with most fees included. **Interest** is the money actually charged, usually calculated on the balance each day and added to it.\n\n**Credit limit** is the most you may owe at one time. **Available credit** is the limit minus what you already owe. Using most of your available credit is not good for your score even if you always pay on time.\n\n**Billing cycle** is the period between two statements. **Grace period** is the days after the statement date during which you can pay in full without interest. **Statement date** is the day the statement is cut. **Due date** is the day the payment must arrive.\n\n**Minimum payment** is the smallest sum the card will accept. **Previous balance** is what you owed on the last statement. **New balance** is that amount plus new purchases minus payments plus interest.\n\n**Overdue fee** is the charge for paying late. **Annual fee** is the yearly charge for holding the card. **Foreign transaction fee** is the extra cost of using the card abroad. **Cash advance** is money taken out with the card, usually with its own fee and its own rate.\n\n**Payment allocation rule** is the order in which the bank applies your money, and it decides how quickly a balance actually falls.",
+        "body": "These are the words you will meet on the plastic and on the statement, and what each one actually does.\n\nAPR is the annual percentage rate: the yearly price of borrowing, with most fees included. **Interest** is the money actually charged, usually calculated on the balance each day and added to it.\n\nCredit limit is the most you may owe at one time. **Available credit** is the limit minus what you already owe. Using most of your available credit is not good for your score even if you always pay on time.\n\nBilling cycle is the period between two statements. **Grace period** is the days after the statement date during which you can pay in full without interest. **Statement date** is the day the statement is cut. **Due date** is the day the payment must arrive.\n\nMinimum payment is the smallest sum the card will accept. **Previous balance** is what you owed on the last statement. **New balance** is that amount plus new purchases minus payments plus interest.\n\nOverdue fee is the charge for paying late. **Annual fee** is the yearly charge for holding the card. **Foreign transaction fee** is the extra cost of using the card abroad. **Cash advance** is money taken out with the card, usually with its own fee and its own rate.\n\nPayment allocation rule is the order in which the bank applies your money, and it decides how quickly a balance actually falls.",
         "heading": "The words on the card and the statement",
         "terms": [
           {
@@ -136,7 +101,7 @@
         "type": "prose"
       },
       {
-        "body": "**A cash advance** is money taken out with the card. It usually carries a fee of a few percent, a higher rate, and no grace period: the interest starts the same day. Using the card at an ATM is the most common way people get one without meaning to.\n\n**A balance transfer** moves an existing debt onto a card with a lower promotional rate. The transfer fee is often 3 to 5 % of the amount, and when the promotional period ends the rate jumps. Read the end date before you transfer, not after.\n\n**A late payment** costs a fee and, on many cards, moves the whole balance to a penalty APR that is higher than the standard rate. It can also affect your credit history, which decides what you are offered next year.\n\n**Closing an account to stop the charges** often makes things worse. A closed card may still collect its balance, the statement may stop arriving so you miss the due date, and the lost history can lower your limit on the other cards. If you want to stop using a card, keep it, set an alert, and stop putting anything on it.",
+        "body": "A cash advance is money taken out with the card. It usually carries a fee of a few percent, a higher rate, and no grace period: the interest starts the same day. Using the card at an ATM is the most common way people get one without meaning to.\n\nA balance transfer moves an existing debt onto a card with a lower promotional rate. The transfer fee is often 3 to 5 % of the amount, and when the promotional period ends the rate jumps. Read the end date before you transfer, not after.\n\nA late payment costs a fee and, on many cards, moves the whole balance to a penalty APR that is higher than the standard rate. It can also affect your credit history, which decides what you are offered next year.\n\nClosing an account to stop the charges often makes things worse. A closed card may still collect its balance, the statement may stop arriving so you miss the due date, and the lost history can lower your limit on the other cards. If you want to stop using a card, keep it, set an alert, and stop putting anything on it.",
         "calloutKind": "warning",
         "heading": "The four traps that cost the most",
         "type": "callout"

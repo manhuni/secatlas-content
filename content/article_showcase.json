@@ -6,14 +6,11 @@
     "0df90c6cf32501dac27df6137d62901a7b234d8be6f79e481f1cc145c7dd15bc",
     "16a9bb03ce0627222acef073fef0e4dbd57d3f7c29fdc7c22c91c40423857e78",
     "1f2d38e2baebe95f2c587e46610c45290e3ee0bbd1b69725bb8cff5b7c717670",
-    "2d1aa89c5f07ab80fa2720a7d096b3cc74a6452b735424ecd5b9e4b5df2f04bd",
-    "32570209bbc648dc8f3653bd0ebc729a6f77fae85cc949f667e3a52dc9f2cc13",
     "372c37094e8ca0e96cf9025a5d0f5a2b84cc0ef9c86c396c5151ea24aeba9aba",
     "474f5707f6c968a7a285fff7c70ae770f3fd73797ee13ab6600dd9559e9ed15c",
     "536c7db5fd59f6fe68510c6531cf3ba196b56aaee96928b65b393eb3dfe7bd2c",
     "53fe5e9d3cb0ec4959f501dc915233c6b2d8a3947cc9888a0d0ca4b27ec00224",
     "5c51b7d474f763fae20cdd3aaf16c84470d7db80002322cdcb502e1ded603477",
-    "636f40b99ba2c1664f908e830c62657c9ce92ff377aa36632d3b8776638a327d",
     "6dc0ae3f3cbb4748d74a600cba726fc960e362c76d96c93e93eeb3d43986dad8",
     "76e632be2239ca8ba7080d5ec3ef7457961b7e75de3c34e8cc4c42e442e0f570",
     "78038222d95831dcb6f0031b796afe9ee3a34f0af901727526438c740f231c4e",
@@ -21,20 +18,14 @@
     "7cdef0df658d7c3e68ef0093873ab9fd6a9d0ee74c0d0cd049379f8f1aeed236",
     "7e591f21c5cdb2afcec90993e8476bf569f8528403a0ebe3c2a5da4d2831bada",
     "859046a60b0d3247a1e7a04c4dfe36875e4215d28e4b66da788cb16a6bf0ec89",
-    "8c2335bc949ad098fa827f34151e127e795cae8720080af6dbd9732762481aee",
-    "91f0b202cf64b985e32f486cab6dbc3e0a4fe16470e6836911883be4fdba7bd2",
-    "944c9c3aaf1f1429341972c1fe8c7ff9e0db599eadf45ec81bdf353a921ba7be",
     "a4e2b5790b031c25ff20fb152e8b9978e8643e85d2758e262eac046bb084dd7c",
     "a8f14dc8de48b7c279310698c2c3490ea73fdb53cdc3c3a5c8677abe52ebd37f",
     "aaeda162aee2b686145bfadca30db73b6a88bb70a830ed6cdf475d99cc027b43",
     "ad472376e19d24d243377fdc747e8d1ab91951f751555fdea32919b617d8841a",
     "ba57010fca968b3dd411f92a6c69ef2a38ecf9b103e0c7b1b40cc523b4155dde",
     "c550c7c44289d6d41a77c1a849c397eddc5373546b9a9e445cd97f13d7cae3ce",
-    "d878351e1c824d9b120c3057edd09e699e662720781d26b841727da2081eecc4",
     "e144c698ab4e1f37cbf540871ceb15d0200fbda468c9018738acaba0a3e3e7f9",
-    "ed420e3bb794c75a14adbbd12edf48644eb82c7eec8de4209c13fa2ff4e2a844",
     "ee6e27f0a355896ac29f0ed5cbbcaa57de816ff0604eb462e4163a342166a2b1",
-    "f3857b631a885f27286a98ef885332753a8d642b916c565be9074fbc8ef25dfd",
     "f8caadf3c65193bbb20370fbc7f6015aa5f07abefead702cf0fa4e90200edc7e"
   ],
   "item": {
@@ -88,12 +79,7 @@
         "asset://1f2d38e2baebe95f2c587e46610c45290e3ee0bbd1b69725bb8cff5b7c717670"
       ]
     },
-    "objectives": [
-      "Open cover, stills, galleries, audio playlists, and standalone videos.",
-      "Read algebra, calculus, and linear-algebra formulas with graphs.",
-      "Read kinematics, Newton, energy, Ohm, and wave formulas with plots.",
-      "Read chemistry formulas, equilibrium, pH, and rate graphs."
-    ],
+    "objectives": [],
     "sections": [
       {
         "audioKey": "asset://536c7db5fd59f6fe68510c6531cf3ba196b56aaee96928b65b393eb3dfe7bd2c",
@@ -111,31 +97,11 @@
       },
       {
         "body": "The article cover is a real PNG in media/covers/.",
-        "gallery": [
-          {
-            "caption": "Pack cover still.",
-            "kind": "image",
-            "source": "asset://32570209bbc648dc8f3653bd0ebc729a6f77fae85cc949f667e3a52dc9f2cc13",
-            "title": "Cover"
-          }
-        ],
         "heading": "Cover still",
-        "images": [
-          "asset://32570209bbc648dc8f3653bd0ebc729a6f77fae85cc949f667e3a52dc9f2cc13"
-        ],
         "type": "prose"
       },
       {
         "body": "One mp4 under the heading. The file is media/video/intro.mp4.",
-        "gallery": [
-          {
-            "caption": "Offline video from the zip.",
-            "kind": "video",
-            "poster": "asset://ed420e3bb794c75a14adbbd12edf48644eb82c7eec8de4209c13fa2ff4e2a844",
-            "source": "asset://ee6e27f0a355896ac29f0ed5cbbcaa57de816ff0604eb462e4163a342166a2b1",
-            "title": "Intro clip"
-          }
-        ],
         "heading": "Standalone video",
         "type": "prose",
         "video": [
@@ -144,60 +110,11 @@
       },
       {
         "body": "One diagram sits under the heading. Use this when the title names one figure.",
-        "gallery": [
-          {
-            "caption": "Substitute and confirm both sides.",
-            "kind": "image",
-            "source": "asset://7e591f21c5cdb2afcec90993e8476bf569f8528403a0ebe3c2a5da4d2831bada",
-            "title": "Check"
-          }
-        ],
         "heading": "Single still image",
-        "images": [
-          "asset://7e591f21c5cdb2afcec90993e8476bf569f8528403a0ebe3c2a5da4d2831bada"
-        ],
         "type": "prose"
       },
       {
         "body": "A title such as a visit, a campus, or a famous library needs many pictures. Swipe the gallery. Order in the zip is the order on screen.",
-        "gallery": [
-          {
-            "caption": "First still.",
-            "kind": "image",
-            "source": "asset://474f5707f6c968a7a285fff7c70ae770f3fd73797ee13ab6600dd9559e9ed15c",
-            "title": "Hall"
-          },
-          {
-            "caption": "Second still.",
-            "kind": "image",
-            "source": "asset://372c37094e8ca0e96cf9025a5d0f5a2b84cc0ef9c86c396c5151ea24aeba9aba",
-            "title": "Garden"
-          },
-          {
-            "caption": "Third still.",
-            "kind": "image",
-            "source": "asset://7cdef0df658d7c3e68ef0093873ab9fd6a9d0ee74c0d0cd049379f8f1aeed236",
-            "title": "Facade"
-          },
-          {
-            "caption": "Fourth still.",
-            "kind": "image",
-            "source": "asset://78038222d95831dcb6f0031b796afe9ee3a34f0af901727526438c740f231c4e",
-            "title": "River"
-          },
-          {
-            "caption": "Stacks and desks.",
-            "kind": "image",
-            "source": "asset://ba57010fca968b3dd411f92a6c69ef2a38ecf9b103e0c7b1b40cc523b4155dde",
-            "title": "Reading room"
-          },
-          {
-            "caption": "Another view of the same place.",
-            "kind": "image",
-            "source": "asset://06ef5c7a955ceadbff6201e9210fea1f162d8bd1d6ab5034c63aea9314e97b32",
-            "title": "Catalogue"
-          }
-        ],
         "heading": "Image gallery — sights",
         "type": "prose"
       },
@@ -205,35 +122,10 @@
         "body": "Images, a local video file, and an external link share one gallery. Audio from the article also plays from the lesson playlist at the top.",
         "gallery": [
           {
-            "caption": "y = 2x + 1 from the pack.",
-            "kind": "image",
-            "source": "asset://5c51b7d474f763fae20cdd3aaf16c84470d7db80002322cdcb502e1ded603477",
-            "title": "The line"
-          },
-          {
-            "caption": "Offline mp4 next to the JSON.",
-            "kind": "video",
-            "source": "asset://ad472376e19d24d243377fdc747e8d1ab91951f751555fdea32919b617d8841a",
-            "title": "Read the line"
-          },
-          {
             "caption": "A wav in the same gallery.",
             "kind": "audio",
             "source": "asset://53fe5e9d3cb0ec4959f501dc915233c6b2d8a3947cc9888a0d0ca4b27ec00224",
             "title": "Gallery caption"
-          },
-          {
-            "caption": "Same gallery, next item.",
-            "kind": "image",
-            "source": "asset://7e591f21c5cdb2afcec90993e8476bf569f8528403a0ebe3c2a5da4d2831bada",
-            "title": "Check"
-          },
-          {
-            "caption": "Open the reference.",
-            "kind": "link",
-            "poster": "asset://5c51b7d474f763fae20cdd3aaf16c84470d7db80002322cdcb502e1ded603477",
-            "source": "https://en.wikipedia.org/wiki/Linear_equation",
-            "title": "Linear equation"
           }
         ],
         "heading": "Mixed gallery — picture, clip, link",
@@ -268,59 +160,12 @@
       },
       {
         "body": "Several mp4 files in one gallery. Swipe between clips. Each file is unique in the zip.",
-        "gallery": [
-          {
-            "caption": "First clip.",
-            "kind": "video",
-            "poster": "asset://ed420e3bb794c75a14adbbd12edf48644eb82c7eec8de4209c13fa2ff4e2a844",
-            "source": "asset://ee6e27f0a355896ac29f0ed5cbbcaa57de816ff0604eb462e4163a342166a2b1",
-            "title": "Intro"
-          },
-          {
-            "caption": "Second clip.",
-            "kind": "video",
-            "poster": "asset://5c51b7d474f763fae20cdd3aaf16c84470d7db80002322cdcb502e1ded603477",
-            "source": "asset://ad472376e19d24d243377fdc747e8d1ab91951f751555fdea32919b617d8841a",
-            "title": "Line"
-          },
-          {
-            "caption": "Third clip.",
-            "kind": "video",
-            "poster": "asset://a8f14dc8de48b7c279310698c2c3490ea73fdb53cdc3c3a5c8677abe52ebd37f",
-            "source": "asset://f8caadf3c65193bbb20370fbc7f6015aa5f07abefead702cf0fa4e90200edc7e",
-            "title": "Physics"
-          },
-          {
-            "caption": "Fourth clip.",
-            "kind": "video",
-            "poster": "asset://0df90c6cf32501dac27df6137d62901a7b234d8be6f79e481f1cc145c7dd15bc",
-            "source": "asset://16a9bb03ce0627222acef073fef0e4dbd57d3f7c29fdc7c22c91c40423857e78",
-            "title": "Chemistry"
-          },
-          {
-            "caption": "Fifth clip.",
-            "kind": "video",
-            "poster": "asset://d878351e1c824d9b120c3057edd09e699e662720781d26b841727da2081eecc4",
-            "source": "asset://1f2d38e2baebe95f2c587e46610c45290e3ee0bbd1b69725bb8cff5b7c717670",
-            "title": "Lab"
-          },
-          {
-            "caption": "Online video search / YouTube.",
-            "kind": "link",
-            "poster": "asset://5c51b7d474f763fae20cdd3aaf16c84470d7db80002322cdcb502e1ded603477",
-            "source": "https://www.youtube.com/watch?v=WUvTyaaNkzM",
-            "title": "Linear equations explained"
-          }
-        ],
         "heading": "Video playlist",
         "type": "prose"
       },
       {
         "body": "A linear equation in one variable is written ax + b = 0, with a not zero. The same relation as a line is y = ax + b.",
         "heading": "Mathematics — algebra",
-        "images": [
-          "asset://5c51b7d474f763fae20cdd3aaf16c84470d7db80002322cdcb502e1ded603477"
-        ],
         "math": [
           "ax+b=0,\\quad a\\neq 0",
           "2x+1=7 \\;\\Longrightarrow\\; x=3",
@@ -518,14 +363,6 @@
       },
       {
         "body": "Sine and cosine are periodic. A derivative is a slope. An integral is an accumulated area.",
-        "gallery": [
-          {
-            "caption": "Pack figure for the sine section.",
-            "kind": "image",
-            "source": "asset://91f0b202cf64b985e32f486cab6dbc3e0a4fe16470e6836911883be4fdba7bd2",
-            "title": "Wave sketch"
-          }
-        ],
         "heading": "Mathematics — trigonometry and calculus",
         "math": [
           "\\sin^{2}\\theta+\\cos^{2}\\theta=1",
@@ -1065,27 +902,6 @@
           }
         ],
         "body": "Newton’s second law, mechanical energy, Ohm’s law, and a travelling wave are written below. The I–V graph of a resistor is a straight line through the origin.",
-        "gallery": [
-          {
-            "caption": "Resistor diagram from the pack.",
-            "kind": "image",
-            "source": "asset://636f40b99ba2c1664f908e830c62657c9ce92ff377aa36632d3b8776638a327d",
-            "title": "Circuit sketch"
-          },
-          {
-            "caption": "Same gallery, next figure.",
-            "kind": "image",
-            "source": "asset://91f0b202cf64b985e32f486cab6dbc3e0a4fe16470e6836911883be4fdba7bd2",
-            "title": "Wave"
-          },
-          {
-            "caption": "Offline mp4 for this heading.",
-            "kind": "video",
-            "poster": "asset://a8f14dc8de48b7c279310698c2c3490ea73fdb53cdc3c3a5c8677abe52ebd37f",
-            "source": "asset://f8caadf3c65193bbb20370fbc7f6015aa5f07abefead702cf0fa4e90200edc7e",
-            "title": "Physics clip"
-          }
-        ],
         "heading": "Physics — force, energy, electricity, waves",
         "math": [
           "\\sum \\vec{F}=m\\vec{a}",
@@ -1172,40 +988,6 @@
           }
         ],
         "body": "Write the species in math roman type. Amount of substance, concentration, and the ideal-gas law are the usual English names.",
-        "gallery": [
-          {
-            "caption": "Pack figure for the chemistry heading.",
-            "kind": "image",
-            "source": "asset://f3857b631a885f27286a98ef885332753a8d642b916c565be9074fbc8ef25dfd",
-            "title": "Molecule sketch"
-          },
-          {
-            "caption": "Gallery of the laboratory.",
-            "kind": "image",
-            "source": "asset://8c2335bc949ad098fa827f34151e127e795cae8720080af6dbd9732762481aee",
-            "title": "Lab bench A"
-          },
-          {
-            "caption": "Second still.",
-            "kind": "image",
-            "source": "asset://944c9c3aaf1f1429341972c1fe8c7ff9e0db599eadf45ec81bdf353a921ba7be",
-            "title": "Lab bench B"
-          },
-          {
-            "caption": "Offline mp4 for this heading.",
-            "kind": "video",
-            "poster": "asset://0df90c6cf32501dac27df6137d62901a7b234d8be6f79e481f1cc145c7dd15bc",
-            "source": "asset://16a9bb03ce0627222acef073fef0e4dbd57d3f7c29fdc7c22c91c40423857e78",
-            "title": "Chemistry clip"
-          },
-          {
-            "caption": "Second video in the same gallery.",
-            "kind": "video",
-            "poster": "asset://d878351e1c824d9b120c3057edd09e699e662720781d26b841727da2081eecc4",
-            "source": "asset://1f2d38e2baebe95f2c587e46610c45290e3ee0bbd1b69725bb8cff5b7c717670",
-            "title": "Lab clip"
-          }
-        ],
         "heading": "Chemistry — formulas and quantities",
         "math": [
           "2\\mathrm{H}_{2}+\\mathrm{O}_{2}\\rightarrow 2\\mathrm{H}_{2}\\mathrm{O}",
@@ -1218,14 +1000,6 @@
       },
       {
         "body": "pH is logarithmic. A dynamic equilibrium has a constant K. Rate often falls as concentration falls.",
-        "gallery": [
-          {
-            "caption": "Colour chart as a still.",
-            "kind": "image",
-            "source": "asset://2d1aa89c5f07ab80fa2720a7d096b3cc74a6452b735424ecd5b9e4b5df2f04bd",
-            "title": "pH strip"
-          }
-        ],
         "heading": "Chemistry — acid–base, equilibrium, rates",
         "math": [
           "\\mathrm{pH}=-\\log_{10}[\\mathrm{H}^{+}]",
@@ -1498,26 +1272,6 @@
           "Divide both sides by 2.",
           "The solution is x = 3."
         ],
-        "gallery": [
-          {
-            "caption": "The related line.",
-            "kind": "image",
-            "source": "asset://5c51b7d474f763fae20cdd3aaf16c84470d7db80002322cdcb502e1ded603477",
-            "title": "Graph"
-          },
-          {
-            "caption": "Both sides name 7.",
-            "kind": "image",
-            "source": "asset://7e591f21c5cdb2afcec90993e8476bf569f8528403a0ebe3c2a5da4d2831bada",
-            "title": "Check"
-          },
-          {
-            "caption": "Read the line aloud.",
-            "kind": "video",
-            "source": "asset://ad472376e19d24d243377fdc747e8d1ab91951f751555fdea32919b617d8841a",
-            "title": "Clip"
-          }
-        ],
         "heading": "Worked example — keep both sides equal",
         "math": [
           "2x+1=7 \\;\\Longrightarrow\\; 2x=6 \\;\\Longrightarrow\\; x=3"
@@ -1526,20 +1280,6 @@
       },
       {
         "body": "Lottie JSON files play inline, looping, straight from the pack. A blinking tell-tale and a sweeping gauge needle are the two specimen clips. Use animations for dashboard lights, gauges, and anything that must move to be understood.",
-        "gallery": [
-          {
-            "caption": "Opacity keyframes, 3-second loop.",
-            "kind": "animation",
-            "source": "asset://0c2d84b42cfe3e47b31a4a147f3a7944c345a0cb74a91605afd8bd30febaae05",
-            "title": "Blinking tell-tale"
-          },
-          {
-            "caption": "Rotation keyframes on a shape group.",
-            "kind": "animation",
-            "source": "asset://c550c7c44289d6d41a77c1a849c397eddc5373546b9a9e445cd97f13d7cae3ce",
-            "title": "Needle sweep"
-          }
-        ],
         "heading": "Animations — vector motion in the zip",
         "type": "prose"
       },

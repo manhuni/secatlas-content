@@ -1,11 +1,6 @@
 {
   "dependencies": [
-    "060b5404ff272cb2e7e0bfe386677f2d16b39c1a9d28af823bd58880fea7b25a",
-    "991ab4c28fee369b1066d19568e2fdd4eb5de30c46a4db438bd1fa250687cf98",
-    "9f1655cf87dd1f92172e1fa4e5da18921c142813fc6665d52a54d98294413534",
-    "ae0d988d881f7b0977c569af33b47cef0125dfc6a94f07bd5a5d0bdb5b7ed158",
-    "be2e22a815a867de88a774a272afff704b630fa75c95fe986f188e5d8a822dcd",
-    "d36b5b63d01cddff495f8ffa18a272bb00a3c923caba64f879a4047f0d94522f"
+    "991ab4c28fee369b1066d19568e2fdd4eb5de30c46a4db438bd1fa250687cf98"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -16,42 +11,12 @@
     "media": {
       "audio": [],
       "cover": "asset://991ab4c28fee369b1066d19568e2fdd4eb5de30c46a4db438bd1fa250687cf98",
-      "gallery": [
-        {
-          "caption": "Date, description, money out, money in, and the running balance.",
-          "kind": "image",
-          "source": "asset://d36b5b63d01cddff495f8ffa18a272bb00a3c923caba64f879a4047f0d94522f",
-          "title": "The columns of a bank statement"
-        },
-        {
-          "caption": "What each document is for and what it proves.",
-          "kind": "image",
-          "source": "asset://ae0d988d881f7b0977c569af33b47cef0125dfc6a94f07bd5a5d0bdb5b7ed158",
-          "title": "Bill, receipt, statement"
-        },
-        {
-          "caption": "Balance, transactions, fees, then anything unfamiliar.",
-          "kind": "image",
-          "source": "asset://be2e22a815a867de88a774a272afff704b630fa75c95fe986f188e5d8a822dcd",
-          "title": "Checking a statement in order"
-        }
-      ],
-      "images": [
-        "asset://9f1655cf87dd1f92172e1fa4e5da18921c142813fc6665d52a54d98294413534",
-        "asset://060b5404ff272cb2e7e0bfe386677f2d16b39c1a9d28af823bd58880fea7b25a"
-      ],
+      "gallery": [],
+      "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [
-      "Tell a bill, a receipt and a bank statement apart and know what each one proves.",
-      "Read a bank statement line by line and understand every column.",
-      "Explain what a debit, a credit and a balance mean on a statement.",
-      "Recognise the charges that appear quietly on a statement and what triggers them.",
-      "Check a utility bill against your own meter reading and find an estimate.",
-      "Check an invoice for the details that make it valid, including tax.",
-      "Dispute an unfamiliar charge with the right first sentence."
-    ],
+    "objectives": [],
     "sections": [
       {
         "body": "Money comes to you on paper, and the paper is not interchangeable. Three documents get confused with one another constantly, and each one has a different job.\n\nA **bill** is a request for payment. It tells a company or a person how much they are owed, and by when. A phone bill, a rent statement from a landlord, an electricity bill from a utility, a hospital invoice: each one says what is owed, the period it covers, and how to pay. A bill is an instruction, and it becomes real only when the money moves.\n\nA **receipt** is proof that something happened. It says what you bought, when, how much it cost and how you paid. A receipt is what you show when a return is questioned, what an employer asks for when they reimburse an expense, and what you keep when a warranty runs out. A receipt is evidence, and it does not ask for anything.\n\nA **bank statement** is the record your bank holds. It lists everything that moved through your account in a period, in date order, with the running balance, and it is the document that proves what you actually paid and received. A statement is a record of transactions, and it is the one you check when money is missing.\n\nThe practical difference shows up when something goes wrong. If a company sends you a bill you already paid, the receipt and the statement are what prove you paid. If your bank charges you something you do not recognise, only the statement shows it. And if a landlord says you owe three months, the statement is where the payments appear.\n\nOne more document completes the set, and it is not a bill: an **invoice**. An invoice is a bill for goods or services already supplied, and in most systems it is the document that carries the tax treatment and the details needed to claim a payment or a deduction.",
@@ -73,7 +38,7 @@
         "type": "prose"
       },
       {
-        "body": "These are the words you will meet on every statement, and what each one means in practice.\n\n**Opening balance** is what you had in the account at the start of the period. **Closing balance** is what you had at the end. **Available balance** is what you can actually spend now, which is the closing balance minus anything held, plus or minus any overdraft.\n\nA **debit** is money out of the account. A **credit** is money into it. Banks print these words or use a sign: a minus sign is money out, a plus sign is money in. The label \"credit\" on a statement does not mean a loan.\n\nA **direct debit** is a payment you authorise a company to take from your account, usually on a date, and which it can take without asking again. A **standing order** is a fixed amount you authorise to be paid on a schedule, whether or not the bill is the same. A **card payment** is a purchase made with a debit or credit card, and it usually appears a day or two after the purchase.\n\nAn **overdraft** is an agreed amount the bank lets you go below zero, and it usually costs money. A **pending transaction** is a payment made with a card that has not yet appeared on the account, and the balance shown in your banking app may already include it while the statement does not.\n\nA **reference** is the code that lets you match a line on the statement to a receipt or a bill. A **direct debit** with no merchant name is usually a company that has sold on the payment, and the reference is the only way to identify it.",
+        "body": "These are the words you will meet on every statement, and what each one means in practice.\n\nOpening balance is what you had in the account at the start of the period. **Closing balance** is what you had at the end. **Available balance** is what you can actually spend now, which is the closing balance minus anything held, plus or minus any overdraft.\n\nA **debit** is money out of the account. A **credit** is money into it. Banks print these words or use a sign: a minus sign is money out, a plus sign is money in. The label \"credit\" on a statement does not mean a loan.\n\nA **direct debit** is a payment you authorise a company to take from your account, usually on a date, and which it can take without asking again. A **standing order** is a fixed amount you authorise to be paid on a schedule, whether or not the bill is the same. A **card payment** is a purchase made with a debit or credit card, and it usually appears a day or two after the purchase.\n\nAn **overdraft** is an agreed amount the bank lets you go below zero, and it usually costs money. A **pending transaction** is a payment made with a card that has not yet appeared on the account, and the balance shown in your banking app may already include it while the statement does not.\n\nA **reference** is the code that lets you match a line on the statement to a receipt or a bill. A **direct debit** with no merchant name is usually a company that has sold on the payment, and the reference is the only way to identify it.",
         "heading": "The words on a statement",
         "terms": [
           {
@@ -126,7 +91,7 @@
         "type": "prose"
       },
       {
-        "body": "**Overdraft interest** is charged when you go below zero, and it is often applied without any warning at the moment it happens. Some banks charge a fee for each item that goes through while overdrawn, on top of a daily or annual rate. Ask for a buffer: most banks will agree a small overdraft limit that costs nothing if you stay inside it.\n\n**A returned direct debit** costs you twice. The company takes the payment, the bank refuses it, and you are charged for both the return and the payment. The bill still arrives, and it is now late.\n\n**A card payment abroad** often carries a fee on top of the exchange rate. Some cards charge a percentage, some a fixed amount, and many add both. The exchange rate itself already includes a margin, so a card with a foreign transaction fee is usually worse than a good one without.\n\n**An ATM withdrawal** may cost a fee at the machine, at the bank that owns it, or both, and the machine rarely tells you which. Using your own bank's machines avoids most of it.\n\n**A late fee** on a credit card often comes with a penalty interest rate, and the penalty rate can apply to the whole balance. One late payment can therefore cost several times the fee itself.\n\n**A dormant account fee** and a **periodic statement fee** are small, annual and easy to miss, because they never appear in a month when nothing else happens.",
+        "body": "Overdraft interest is charged when you go below zero, and it is often applied without any warning at the moment it happens. Some banks charge a fee for each item that goes through while overdrawn, on top of a daily or annual rate. Ask for a buffer: most banks will agree a small overdraft limit that costs nothing if you stay inside it.\n\nA returned direct debit costs you twice. The company takes the payment, the bank refuses it, and you are charged for both the return and the payment. The bill still arrives, and it is now late.\n\nA card payment abroad often carries a fee on top of the exchange rate. Some cards charge a percentage, some a fixed amount, and many add both. The exchange rate itself already includes a margin, so a card with a foreign transaction fee is usually worse than a good one without.\n\nAn ATM withdrawal may cost a fee at the machine, at the bank that owns it, or both, and the machine rarely tells you which. Using your own bank's machines avoids most of it.\n\nA late fee on a credit card often comes with a penalty interest rate, and the penalty rate can apply to the whole balance. One late payment can therefore cost several times the fee itself.\n\nA dormant account fee and a **periodic statement fee** are small, annual and easy to miss, because they never appear in a month when nothing else happens.",
         "calloutKind": "warning",
         "heading": "The charges that appear quietly on a statement",
         "type": "callout"
@@ -175,7 +140,7 @@
         "type": "callout"
       },
       {
-        "body": "Records matter twice: once when you are asked a question, and once when nobody has asked for years and then somebody does.\n\nThe rule of thumb is simple: keep what proves where the money went. For a business that means invoices for income, receipts for expenses, and bank statements for both. For a household it means the same three things in a simpler form, plus proof of any larger purchase.\n\nOrganise records by **period and category**. A folder per year, a spreadsheet with a row per transaction, or a simple monthly list with the date, the amount, the counterparty and the category all work. The category matters because it is what lets you answer a question like \"show me your vehicle costs\" in a minute.\n\nUse **receipts and bank statements together**. A receipt proves what was bought; a statement proves it was paid. Either alone has a weakness, because receipts fade, are lost, and are sometimes not issued, while statements show the payment but not what it was for.\n\n**Retention periods** vary by country and by the type of record. Keep records for at least as long as the tax office allows you to be audited, and check the rule rather than guessing. When in doubt, keep them longer; storage is cheap and a discarded record cannot be produced.\n\nTwo practical habits make everything easier. Photograph documents the day you receive them, and store them with the month they belong to. And once a year, spend an hour checking that the total of your records matches your statement totals. A system that has never been checked is a system you cannot rely on.",
+        "body": "Records matter twice: once when you are asked a question, and once when nobody has asked for years and then somebody does.\n\nThe rule of thumb is simple: keep what proves where the money went. For a business that means invoices for income, receipts for expenses, and bank statements for both. For a household it means the same three things in a simpler form, plus proof of any larger purchase.\n\nOrganise records by **period and category**. A folder per year, a spreadsheet with a row per transaction, or a simple monthly list with the date, the amount, the counterparty and the category all work. The category matters because it is what lets you answer a question like \"show me your vehicle costs\" in a minute.\n\nUse **receipts and bank statements together**. A receipt proves what was bought; a statement proves it was paid. Either alone has a weakness, because receipts fade, are lost, and are sometimes not issued, while statements show the payment but not what it was for.\n\nRetention periods vary by country and by the type of record. Keep records for at least as long as the tax office allows you to be audited, and check the rule rather than guessing. When in doubt, keep them longer; storage is cheap and a discarded record cannot be produced.\n\nTwo practical habits make everything easier. Photograph documents the day you receive them, and store them with the month they belong to. And once a year, spend an hour checking that the total of your records matches your statement totals. A system that has never been checked is a system you cannot rely on.",
         "examples": [
           "I file every receipt by month and by category, so I can total any category in a minute.",
           "The receipt proves what it was, and the statement proves it was paid."

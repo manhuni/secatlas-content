@@ -1,15 +1,7 @@
 {
   "language": "vi",
   "lessonId": "article_mental_arithmetic",
-  "objectives": [
-    "Chọn một phím tắt phù hợp với con số trước mặt bạn.",
-    "Làm tròn và điều chỉnh một sản phẩm, sau đó sửa sai lệch theo số tiền đã làm tròn.",
-    "Hãy đọc một tỷ lệ phần trăm như một phân số của mười và chia nó thành các phần.",
-    "Ước lượng kích thước của một câu trả lời trước khi đưa ra con số.",
-    "Kiểm tra một đáp án bằng cách đảo ngược thao tác và kiểm tra tổng các chữ số.",
-    "Gọi tên các thuật ngữ: ước lượng, làm tròn, bù chênh lệch, phần dư, tổng các chữ số, thương.",
-    "Hãy nói rằng bạn cần một khoảnh khắc để tính ra một con số, thay vì đoán."
-  ],
+  "objectives": [],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
@@ -104,7 +96,7 @@
       }
     },
     {
-      "body": "**Ước tính** là một con số gần đúng, đủ sát để cho thấy liệu có thể đưa ra một câu trả lời thực tế hay không. **Làm tròn** nghĩa là viết một số theo giá trị thuận tiện gần nhất, thường là hàng chục, hàng trăm hoặc hàng nghìn: 47 làm tròn thành 50, còn 42 làm tròn thành 40.\n\n**Điều chỉnh** là việc bạn thực hiện sau khi đã làm tròn một số. **Số mang** là số hàng chục mà bạn chuyển sang cột bên cạnh khi các chữ số trong một cột cộng lại đạt từ 10 trở lên: trong 8 + 7, bạn viết 5 và mang 1.\n\n**Phần dư** là phần còn lại khi một số không chia hết cho số kia. **Thương** là kết quả của phép chia không có phần dư: 87 chia cho 7 cho thương là 12 và số dư là 3.\n\n**Tổng các chữ số** là tổng của tất cả các chữ số của một số. Một số là bội của 9 khi và chỉ khi tổng các chữ số của nó là bội của 9: tổng các chữ số của 1296 là 1 + 2 + 9 + 6 = 18, và 18 là bội của 9.",
+      "body": "Ước tính là một con số gần đúng, đủ sát để cho thấy liệu có thể đưa ra một câu trả lời thực tế hay không. **Làm tròn** nghĩa là viết một số theo giá trị thuận tiện gần nhất, thường là hàng chục, hàng trăm hoặc hàng nghìn: 47 làm tròn thành 50, còn 42 làm tròn thành 40.\n\nĐiều chỉnh là việc bạn thực hiện sau khi đã làm tròn một số. **Số mang** là số hàng chục mà bạn chuyển sang cột bên cạnh khi các chữ số trong một cột cộng lại đạt từ 10 trở lên: trong 8 + 7, bạn viết 5 và mang 1.\n\nPhần dư là phần còn lại khi một số không chia hết cho số kia. **Thương** là kết quả của phép chia không có phần dư: 87 chia cho 7 cho thương là 12 và số dư là 3.\n\nTổng các chữ số là tổng của tất cả các chữ số của một số. Một số là bội của 9 khi và chỉ khi tổng các chữ số của nó là bội của 9: tổng các chữ số của 1296 là 1 + 2 + 9 + 6 = 18, và 18 là bội của 9.",
       "examples": [
         "Ước tính của tôi là khoảng 1.500, còn câu trả lời chính xác là 1.296.",
         "47 làm tròn thành 50, rồi tôi cộng lại khoản bồi thường.",
@@ -151,7 +143,7 @@
       ]
     },
     {
-      "body": "Lối tắt mà không kiểm tra là cách nhanh chóng đi sai. Bốn bước kiểm tra chỉ mất vài giây và phát hiện gần như mọi lỗi: kích thước của đáp án, thao tác ngược, tổng các chữ số và đơn vị. Cái đầu tiên là nhanh nhất: **kiểm tra kích thước**. Hãy làm tròn mỗi số thành một giá trị dễ tính rồi ước lượng tích: khoảng 50 nhân với khoảng 30 bằng khoảng 1500. Nếu câu trả lời của bạn là 15 hoặc 15000 thì câu đó đã sai ngay, chưa cần kiểm tra thêm. Ước lượng bắt được những sai sót về quy mô, và không bao giờ bắt được một lỗi nhỏ ở bước cuối cùng.\n\n**Hãy thực hiện phép tính theo chiều ngược lại.** Phép cộng và trừ triệt tiêu lẫn nhau, cũng như phép nhân và chia. Nếu bạn chia 87 cho 7 và nhận được thương là 12, số dư là 3, hãy nhân ngược lại: 12 × 7 = 84, và 84 + 3 = 87. Nếu câu trả lời của bạn là 13 thì 13 × 7 = 91, con số này đã quá lớn. **Hãy dùng tổng các chữ số để kiểm tra các số là bội của 9.** Một số là bội của 9 khi và chỉ khi tổng các chữ số của nó là bội của 9. Vì vậy, nếu cả hai thừa số đều là bội của 3 thì tích của chúng cũng phải là bội của 9.\n\n**Hãy kiểm tra đơn vị và cấp độ lớn.** Câu trả lời cho 48 thùng, mỗi thùng có 27 chai, là một số chai, không phải số thùng, và cũng không phải số chai mỗi thùng. Nếu câu hỏi yêu cầu một độ dài mà câu trả lời của bạn không có đơn vị, thì câu trả lời đó chưa hoàn thành.\n\nDưới đây là một tờ phiếu bị bắt. Bạn cần biết số chai trong 48 thùng, mỗi thùng có 27 chai. Bạn tính 48 × 30 = 1440, sau đó trừ 48 × 3 = 144, rồi ra 1296. Kiểm tra độ lớn cũng khớp: khoảng 1500 gần với 1296. Bây giờ, giả sử bạn tính nhầm phép trừ và viết 1298. Phép kiểm tra ngược sẽ bắt được lỗi này, vì 1298 ÷ 48 không phải là số thùng nguyên. Tổng các chữ số cũng bắt được điều này: tổng các chữ số của 1298 là 1 + 2 + 9 + 8 = 20, không phải bội của 9, trong khi 48 và 27 đều là bội của 3, nên tích phải là bội của 9. Đáp án đúng là 1296, và tổng các chữ số của nó là 18.",
+      "body": "Lối tắt mà không kiểm tra là cách nhanh chóng đi sai. Bốn bước kiểm tra chỉ mất vài giây và phát hiện gần như mọi lỗi: kích thước của đáp án, thao tác ngược, tổng các chữ số và đơn vị. Cái đầu tiên là nhanh nhất: **kiểm tra kích thước**. Hãy làm tròn mỗi số thành một giá trị dễ tính rồi ước lượng tích: khoảng 50 nhân với khoảng 30 bằng khoảng 1500. Nếu câu trả lời của bạn là 15 hoặc 15000 thì câu đó đã sai ngay, chưa cần kiểm tra thêm. Ước lượng bắt được những sai sót về quy mô, và không bao giờ bắt được một lỗi nhỏ ở bước cuối cùng.\n\nHãy thực hiện phép tính theo chiều ngược lại. Phép cộng và trừ triệt tiêu lẫn nhau, cũng như phép nhân và chia. Nếu bạn chia 87 cho 7 và nhận được thương là 12, số dư là 3, hãy nhân ngược lại: 12 × 7 = 84, và 84 + 3 = 87. Nếu câu trả lời của bạn là 13 thì 13 × 7 = 91, con số này đã quá lớn. **Hãy dùng tổng các chữ số để kiểm tra các số là bội của 9.** Một số là bội của 9 khi và chỉ khi tổng các chữ số của nó là bội của 9. Vì vậy, nếu cả hai thừa số đều là bội của 3 thì tích của chúng cũng phải là bội của 9.\n\nHãy kiểm tra đơn vị và cấp độ lớn. Câu trả lời cho 48 thùng, mỗi thùng có 27 chai, là một số chai, không phải số thùng, và cũng không phải số chai mỗi thùng. Nếu câu hỏi yêu cầu một độ dài mà câu trả lời của bạn không có đơn vị, thì câu trả lời đó chưa hoàn thành.\n\nDưới đây là một tờ phiếu bị bắt. Bạn cần biết số chai trong 48 thùng, mỗi thùng có 27 chai. Bạn tính 48 × 30 = 1440, sau đó trừ 48 × 3 = 144, rồi ra 1296. Kiểm tra độ lớn cũng khớp: khoảng 1500 gần với 1296. Bây giờ, giả sử bạn tính nhầm phép trừ và viết 1298. Phép kiểm tra ngược sẽ bắt được lỗi này, vì 1298 ÷ 48 không phải là số thùng nguyên. Tổng các chữ số cũng bắt được điều này: tổng các chữ số của 1298 là 1 + 2 + 9 + 8 = 20, không phải bội của 9, trong khi 48 và 27 đều là bội của 3, nên tích phải là bội của 9. Đáp án đúng là 1296, và tổng các chữ số của nó là 18.",
       "examples": [
         "Khoảng 50 lần 30 bằng khoảng 1.500, vì vậy 1.296 là kích thước phù hợp.",
         "Nhân thương với số chia rồi cộng số dư; bạn phải thu được đúng số ban đầu.",
@@ -177,7 +169,7 @@
       "heading": "Những câu thành thật trong công việc"
     },
     {
-      "body": "**Hãy nói số tổng quát trước, rồi đến số chính xác.** “Khoảng 1.300 chai, và chính xác là 1.296 chai.” Phần số tổng quát chỉ mất một giây và giúp người nghe có cái mốc để đối chiếu với con số. Nếu hai bên không khớp nhau, bạn đã tìm ra lỗi trước khi bất kỳ ai sử dụng con số đó.\n\n**Hãy giữ kích thước và đáp án trong cùng một đơn vị đo.** Kích thước tính bằng mét và đáp án tính bằng centimet không thể kiểm tra lẫn nhau.\n\n**Hãy nói to lên.** Một con số chỉ được nghĩ trong đầu thì chỉ được kiểm tra đôi khi.",
+      "body": "Hãy nói số tổng quát trước, rồi đến số chính xác. “Khoảng 1.300 chai, và chính xác là 1.296 chai.” Phần số tổng quát chỉ mất một giây và giúp người nghe có cái mốc để đối chiếu với con số. Nếu hai bên không khớp nhau, bạn đã tìm ra lỗi trước khi bất kỳ ai sử dụng con số đó.\n\nHãy giữ kích thước và đáp án trong cùng một đơn vị đo. Kích thước tính bằng mét và đáp án tính bằng centimet không thể kiểm tra lẫn nhau.\n\nHãy nói to lên. Một con số chỉ được nghĩ trong đầu thì chỉ được kiểm tra đôi khi.",
       "examples": [
         "Khoảng 1.300 chai, và chính xác là 1.296 chai.",
         "Hãy nói kích thước theo cùng đơn vị với đáp án, nếu không bài kiểm tra sẽ không bắt được lỗi.",
