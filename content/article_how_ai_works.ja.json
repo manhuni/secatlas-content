@@ -1,7 +1,15 @@
 {
   "language": "ja",
   "lessonId": "article_how_ai_works",
-  "objectives": [],
+  "objectives": [
+    "言語モデルが何であり、何ではないかを説明します。",
+    "training loopを、テキストの収集からparametersの調整まで説明します。",
+    "メッセージを送ってから回答を受け取るまでの間に何が起きるか説明します。",
+    "この分野の用語を正しく使い分けます：token、training data、parameters、inference、context window、prompt、hallucination。",
+    "流暢な回答が依然として誤りになりうる理由を説明します。",
+    "どのタスクをモデルに委ね、どのタスクを自分で担うべきかを判断します。",
+    "出力を信頼する前に、数値、情報源、欠落している点を確認します。"
+  ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [

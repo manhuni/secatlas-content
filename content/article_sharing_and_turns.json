@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "03079ebcc0ed9914419a98ff7012b4d0d6d75cb9ce8368d660885f4221570fde"
+    "03079ebcc0ed9914419a98ff7012b4d0d6d75cb9ce8368d660885f4221570fde",
+    "2fd243f1c4251d741bde5fc0c0a4eb2e333abf69ae8214e123ea5860b274ef18",
+    "53b9d5adce5e0c5db50f13effaafe71c57785d7f72ead616705fd0dbbb99b1c7",
+    "8b37ae5240512dea83b50951fde51e3402bc8bbb9940f7d7ae860bb408802f9e"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,41 @@
     "media": {
       "audio": [],
       "cover": "asset://03079ebcc0ed9914419a98ff7012b4d0d6d75cb9ce8368d660885f4221570fde",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "What sharing, taking turns, waiting and trading each mean.",
+          "kind": "image",
+          "source": "asset://2fd243f1c4251d741bde5fc0c0a4eb2e333abf69ae8214e123ea5860b274ef18",
+          "title": "The sharing map"
+        },
+        {
+          "caption": "Say the words, wait for the answer, then take your turn.",
+          "kind": "image",
+          "source": "asset://53b9d5adce5e0c5db50f13effaafe71c57785d7f72ead616705fd0dbbb99b1c7",
+          "title": "Asking for a turn"
+        },
+        {
+          "caption": "Two children swap toys and both feel happy.",
+          "kind": "image",
+          "source": "asset://8b37ae5240512dea83b50951fde51e3402bc8bbb9940f7d7ae860bb408802f9e",
+          "title": "Trading instead of taking"
+        }
+      ],
+      "images": [
+        "asset://53b9d5adce5e0c5db50f13effaafe71c57785d7f72ead616705fd0dbbb99b1c7",
+        "asset://8b37ae5240512dea83b50951fde51e3402bc8bbb9940f7d7ae860bb408802f9e"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Say what sharing and taking turns mean.",
+      "Name the feeling you have when you want a toy somebody else has.",
+      "Ask for a turn with words other children understand.",
+      "Wait for your turn without grabbing or pushing.",
+      "Use the sharing words in a real conversation.",
+      "Know that sharing does not mean giving everything away."
+    ],
     "sections": [
       {
         "body": "Sharing means letting somebody else have a turn with a toy you like. Taking turns means one child uses it first, and the next child uses it after that.\n\nEvery child wants the best toy in the room. That is normal. When you think about losing it, your hands feel tight and your tummy feels hot. Your voice gets loud too.\n\nSharing is not the same as giving your favourite toy away forever. Sharing is taking turns. You get the toy back later.\n\nChildren who learn to share early find playing easier. They wait less. They say yes more often. They get invited to more games, and they make more friends.\n\nSharing is a skill you practise, like tying your shoes. Nobody is born knowing how to do it. Some children learn it in a week. Some take a whole year. Both are fine.\n\nThe first thing you need is a word for the feeling. When you can say \"I am cross because I want that\", the feeling gets a little smaller. Small feelings are easier to handle than big ones.",
@@ -56,7 +88,7 @@
         "type": "steps"
       },
       {
-        "body": "These are the words you need when you play with other children. Learn them and you can ask for what you want.\n\nA **share** is when you let somebody else use your toy, and you use it later.\n\nTake turns means playing first and then playing next. It is the same idea as sharing, but it has a time in it.\n\nWaiting means doing something else while it is not your turn. It does not mean standing still and sighing.\n\nTrade means you give one thing and you get another thing back. Trading is sharing with a swap.\n\nTry saying each word out loud while you play. Words stick when you use them with your hands.",
+        "body": "These are the words you need when you play with other children. Learn them and you can ask for what you want.\n\nA **share** is when you let somebody else use your toy, and you use it later.\n\n**Take turns** means playing first and then playing next. It is the same idea as sharing, but it has a time in it.\n\n**Waiting** means doing something else while it is not your turn. It does not mean standing still and sighing.\n\n**Trade** means you give one thing and you get another thing back. Trading is sharing with a swap.\n\nTry saying each word out loud while you play. Words stick when you use them with your hands.",
         "examples": [
           "Can I share this with you?",
           "It is your turn, then it is mine.",

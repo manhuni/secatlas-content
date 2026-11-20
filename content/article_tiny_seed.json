@@ -1,6 +1,10 @@
 {
   "dependencies": [
-    "9f650ec10df31c395d34ce24f6d0adc7641ded4121165aa935546c373610112e"
+    "0953b242f4c3a7cff5ba0581b675e9d0598b67026c9c02b3d1a638c400015927",
+    "2e4fd52cd441f349f1e65545af4749c497b95d5e3f98ad7431c79cc876895666",
+    "50cc963a3e93b0be2b463dbf7152540f6b8bfa66038e619ef07d5756e9924e70",
+    "9f650ec10df31c395d34ce24f6d0adc7641ded4121165aa935546c373610112e",
+    "c75555566538f2a0cb0e356e7a0624160c0ac1970b068d31adfecd930ec04689"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +15,34 @@
     "media": {
       "audio": [],
       "cover": "asset://9f650ec10df31c395d34ce24f6d0adc7641ded4121165aa935546c373610112e",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "Small, dark, and waiting for something to happen.",
+          "kind": "image",
+          "source": "asset://2e4fd52cd441f349f1e65545af4749c497b95d5e3f98ad7431c79cc876895666",
+          "title": "The seed under the soil"
+        },
+        {
+          "caption": "A beginning, a middle and an end, with the surprise kept for last.",
+          "kind": "image",
+          "source": "asset://0953b242f4c3a7cff5ba0581b675e9d0598b67026c9c02b3d1a638c400015927",
+          "title": "The three parts of the seed's story"
+        }
+      ],
+      "images": [
+        "asset://50cc963a3e93b0be2b463dbf7152540f6b8bfa66038e619ef07d5756e9924e70",
+        "asset://c75555566538f2a0cb0e356e7a0624160c0ac1970b068d31adfecd930ec04689"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Follow a story from its beginning to its end.",
+      "Name the three parts of a good story.",
+      "Use five new words from the story in your own sentences.",
+      "Retell the story to someone in the right order.",
+      "Tell another child the small lesson at the end."
+    ],
     "sections": [
       {
         "body": "This is a story about a tiny seed. The seed is so small that you could lose it on your hand. It is smaller than a pea.\n\nA good story has a shape. It has a beginning, a middle, and an end. The beginning tells you who the characters are. The middle brings a problem. The end fixes the problem in a way you did not expect.\n\nThis story has that shape. In the beginning, the seed is buried in dark soil. In the middle, the seed waits for rain and sun. In the end, the seed becomes a tree.\n\nThe story is quiet, and that is part of its magic. Read it slowly. Let the words arrive at the same speed as the growing.\n\nListen first. Then tell the story back to someone. That is how a story becomes yours.",
@@ -59,7 +85,7 @@
         "type": "prose"
       },
       {
-        "body": "These are the words you will meet in this story. Learn them here, and you can use them in your own sentences.\n\nA **seed** is the small beginning of a plant. Inside a seed is everything the plant needs to start.\n\nA **root** is the part that grows down into the soil. Roots hold the plant up and drink up the water.\n\nA **sprout** is a baby plant that has just come out of the soil. It is very small and very green.\n\nSoil is the soft earth where plants grow. It holds water and food for the roots.\n\nSunlight is the light from the sun. Plants lean towards it, because they need it to grow.",
+        "body": "These are the words you will meet in this story. Learn them here, and you can use them in your own sentences.\n\nA **seed** is the small beginning of a plant. Inside a seed is everything the plant needs to start.\n\nA **root** is the part that grows down into the soil. Roots hold the plant up and drink up the water.\n\nA **sprout** is a baby plant that has just come out of the soil. It is very small and very green.\n\n**Soil** is the soft earth where plants grow. It holds water and food for the roots.\n\n**Sunlight** is the light from the sun. Plants lean towards it, because they need it to grow.",
         "examples": [
           "A seed is the beginning of a plant.",
           "The root grows down and the shoot grows up.",

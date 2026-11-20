@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "992dc58e0673e7104e752eb2878de3847a714096c66b9ab57857116de3f07a10"
+    "6c9efc7d9abefa1c94b0e093f0e1fc5e19dd0a22e72929b28f83751e216d777b",
+    "992dc58e0673e7104e752eb2878de3847a714096c66b9ab57857116de3f07a10",
+    "d775e473b51332c14e43c0ff2a32e6351a85be2c806c606788ef4c0a4c4e18f6",
+    "f672e29ec7fe17ed357315243290369eee1fbcd19d98deb15c3cace7e2d0c348"
   ],
   "item": {
     "addedAt": "2026-11-17",
@@ -11,12 +14,39 @@
     "media": {
       "audio": [],
       "cover": "asset://992dc58e0673e7104e752eb2878de3847a714096c66b9ab57857116de3f07a10",
-      "gallery": [],
+      "gallery": [
+        {
+          "caption": "From the left: what the model is, how it is trained, what happens when you press Enter, then the words of the field and why a fluent answer can be wrong.",
+          "kind": "image",
+          "source": "asset://6c9efc7d9abefa1c94b0e093f0e1fc5e19dd0a22e72929b28f83751e216d777b",
+          "title": "The three steps of an AI answer"
+        },
+        {
+          "caption": "The model predicts the next token, measures the mistake, adjusts the parameters, and starts again.",
+          "kind": "image",
+          "source": "asset://f672e29ec7fe17ed357315243290369eee1fbcd19d98deb15c3cace7e2d0c348",
+          "title": "Training is a loop of small corrections"
+        },
+        {
+          "caption": "Every new token is predicted from the tokens before it, so the answer grows one token at a time.",
+          "kind": "image",
+          "source": "asset://d775e473b51332c14e43c0ff2a32e6351a85be2c806c606788ef4c0a4c4e18f6",
+          "title": "One token at a time"
+        }
+      ],
       "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Explain what a language model is, and what it is not.",
+      "Describe the training loop, from collecting text to adjusting the parameters.",
+      "Explain what happens between sending a message and receiving an answer.",
+      "Use the words of the field correctly: token, training data, parameters, inference, context window, prompt, hallucination.",
+      "Explain why a fluent answer can still be wrong.",
+      "Judge which task to hand to a model and which task to keep.",
+      "Check the numbers, the sources and the gaps before you trust an output."
+    ],
     "relatedTopicIds": [
       "article_ai_tokens",
       "article_ai_revolution"

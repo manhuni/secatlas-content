@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "bacb29897f09ee599fab30b6851253a2f924a1a6182c0f74cd63005b8ea9eace"
+    "29e40dce8340beefdd080f53dd3b9f060846cfb51861c9fe0836345425d7e4da",
+    "36bdac10083ad3557b3c010f140bb50064edf67846da3fc3fb02c2ebe01f7925",
+    "bacb29897f09ee599fab30b6851253a2f924a1a6182c0f74cd63005b8ea9eace",
+    "d21bda6c4d7b9be79c8d51f714c545aad729931e7d9c6f201b0f0ebbd66abdd1"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,41 @@
     "media": {
       "audio": [],
       "cover": "asset://bacb29897f09ee599fab30b6851253a2f924a1a6182c0f74cd63005b8ea9eace",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "Morning, afternoon, evening and night.",
+          "kind": "image",
+          "source": "asset://d21bda6c4d7b9be79c8d51f714c545aad729931e7d9c6f201b0f0ebbd66abdd1",
+          "title": "The four parts of a day"
+        },
+        {
+          "caption": "Five things I do before school.",
+          "kind": "image",
+          "source": "asset://36bdac10083ad3557b3c010f140bb50064edf67846da3fc3fb02c2ebe01f7925",
+          "title": "My morning"
+        },
+        {
+          "caption": "Everyday jobs that belong to each of us.",
+          "kind": "image",
+          "source": "asset://29e40dce8340beefdd080f53dd3b9f060846cfb51861c9fe0836345425d7e4da",
+          "title": "Helping at home"
+        }
+      ],
+      "images": [
+        "asset://36bdac10083ad3557b3c010f140bb50064edf67846da3fc3fb02c2ebe01f7925",
+        "asset://29e40dce8340beefdd080f53dd3b9f060846cfb51861c9fe0836345425d7e4da"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Name the parts of a day and put them in order.",
+      "Say what happens in the morning, the afternoon and the evening.",
+      "Name the people in your family and what they do.",
+      "Use the new words for times and family in a sentence.",
+      "Explain how a family helps each other.",
+      "Describe your own ordinary day to someone else."
+    ],
     "sections": [
       {
         "body": "A **day** is one whole turn of the earth. It has a morning, an afternoon, an evening and a night. The sun comes up, we play and learn, we eat, and then we sleep.\n\nA day has parts, and each part has its own feel. In the **morning** it is bright and people are busy. In the **afternoon** the sun is high and we play or do our homework. In the **evening** the light turns orange and the family comes home together. At **night** it is dark and quiet and we rest.\n\nThe **calendar** tells you the day of the week. A week has seven days, and the days always come in the same order.\n\nA day also has hours. There are 24 hours in a day, and they are numbered from 0 to 23. When people say ‘meet me at 7’, they usually mean 7 in the morning. When they say ‘at 19’, they mean 7 in the evening.\n\nWhen you know the parts of a day, you can tell a story about your own day. And you can tell what comes next.",
@@ -56,7 +88,7 @@
         "type": "prose"
       },
       {
-        "body": "These are the words for the people you live with and the parts of the day.\n\nMorning is the part of the day from when you wake up until lunchtime.\n\nNoon is the middle of the day, around twelve o'clock.\n\nEvening is after the afternoon, when the light gets soft and people come home.\n\nA **mother** is the woman who looks after you. Some children have more than one mother in their family, and that is fine too.\n\nA **father** is the man who looks after you. A **grandmother** is your father's or mother's mother.\n\nBedtime is the time when you go to bed. Every family has its own bedtime, and it is usually earlier on a school night.",
+        "body": "These are the words for the people you live with and the parts of the day.\n\n**Morning** is the part of the day from when you wake up until lunchtime.\n\n**Noon** is the middle of the day, around twelve o'clock.\n\n**Evening** is after the afternoon, when the light gets soft and people come home.\n\nA **mother** is the woman who looks after you. Some children have more than one mother in their family, and that is fine too.\n\nA **father** is the man who looks after you. A **grandmother** is your father's or mother's mother.\n\n**Bedtime** is the time when you go to bed. Every family has its own bedtime, and it is usually earlier on a school night.",
         "examples": [
           "Good morning, everyone!",
           "I go home at noon.",

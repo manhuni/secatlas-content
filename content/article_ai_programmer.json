@@ -16,7 +16,13 @@
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Describe what AI code generation actually automates.",
+      "Explain the shift from writing code to defining problems.",
+      "Distinguish automation of syntax from automation of judgment.",
+      "Identify the skills that grow in value as coding is automated.",
+      "Reason about what 'engineer' means when machines write code."
+    ],
     "sections": [
       {
         "body": "Every wave of programming automation has eliminated a layer of typing and revealed a deeper layer of thinking underneath. Compilers eliminated machine code; frameworks eliminated boilerplate; cloud services eliminated server administration. Each time, the prediction was the same — programming is dead — and each time the job moved up one level of abstraction.\n\nAI code generation is the largest such jump. Routine functions, tests, migrations and glue code now arrive in seconds. Measured by characters typed, most of what programmers did in 2020 is automatable. Measured by what made the work matter, almost nothing is.\n\nThe persistent core of the job was never syntax. It is the translation of a messy human situation — a business rule, a user need, a physical constraint — into a precise statement a machine can execute, and the judgment to know whether the result is right. Syntax was the last, most visible and least important layer.",

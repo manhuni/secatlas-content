@@ -1,7 +1,15 @@
 {
   "language": "pt_br",
   "lessonId": "article_how_ai_works",
-  "objectives": [],
+  "objectives": [
+    "Explique o que é um modelo de linguagem e o que ele não é.",
+    "Descreva o ciclo de treinamento, desde a coleta de texto até o ajuste dos parâmetros.",
+    "Explique o que acontece entre o envio de uma mensagem e o recebimento de uma resposta.",
+    "Use corretamente os termos da área: token, training data, parameters, inference, context window, prompt e hallucination.",
+    "Explique por que uma resposta fluida ainda pode estar errada.",
+    "Decida qual tarefa deve ser delegada a um modelo e qual tarefa deve ser mantida por você.",
+    "Verifique os números, as fontes e as lacunas antes de confiar em um resultado."
+  ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [

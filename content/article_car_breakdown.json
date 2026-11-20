@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "5163142d0ad6097462843b7bf48d4bcf7ee84fdac1aa43f7f6e30e6873cb5e29"
+    "2822f580f4405e6a36fcf1cc19edad71ed3f9aa4f3a6e2f27c1712b3bef7177f",
+    "5163142d0ad6097462843b7bf48d4bcf7ee84fdac1aa43f7f6e30e6873cb5e29",
+    "58b4803e7aa892879a8fb3316b2a7b98beb743e5446c14ff3efcfed16c647460",
+    "8160bf7517267b0cb3074b9bf5ee2f4f8575019a6d4f68b93411655db9bb6a04"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,41 @@
     "media": {
       "audio": [],
       "cover": "asset://5163142d0ad6097462843b7bf48d4bcf7ee84fdac1aa43f7f6e30e6873cb5e29",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "The order that keeps a small fault small.",
+          "kind": "image",
+          "source": "asset://58b4803e7aa892879a8fb3316b2a7b98beb743e5446c14ff3efcfed16c647460",
+          "title": "The first five minutes of a breakdown"
+        },
+        {
+          "caption": "Hazards on, car off the carriageway, everyone behind the barrier.",
+          "kind": "image",
+          "source": "asset://8160bf7517267b0cb3074b9bf5ee2f4f8575019a6d4f68b93411655db9bb6a04",
+          "title": "A safe scene on the road"
+        },
+        {
+          "caption": "Where you are, what the car is doing, what you need.",
+          "kind": "image",
+          "source": "asset://2822f580f4405e6a36fcf1cc19edad71ed3f9aa4f3a6e2f27c1712b3bef7177f",
+          "title": "What the operator needs to hear"
+        }
+      ],
+      "images": [
+        "asset://8160bf7517267b0cb3074b9bf5ee2f4f8575019a6d4f68b93411655db9bb6a04",
+        "asset://2822f580f4405e6a36fcf1cc19edad71ed3f9aa4f3a6e2f27c1712b3bef7177f"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Make the roadside safe before you touch the car.",
+      "Describe the fault and the location so the right help is sent.",
+      "Ask an operator for the arrival time, the cost and what your policy covers.",
+      "Explain a flat tyre, a flat battery and an overheated engine.",
+      "Assist another driver without putting yourself in danger.",
+      "Record the details your insurer will ask for afterwards."
+    ],
     "sections": [
       {
         "body": "A car breakdown is an unplanned stop in which your car can no longer be driven safely. The engine has stopped, or the car will not move, and the cause may be something you could fix in ten minutes or something that needs a recovery vehicle. Knowing which one you have matters, because the first ten minutes decide whether the breakdown is a small nuisance or an expensive day.\n\nMost breakdowns on the road are boring. The commonest causes are a flat tyre, an empty fuel tank, a flat battery, an engine that has overheated and switched itself off, a door that will not latch, and a broken belt or hose. Failures in the engine and the gearbox are rarer, and they are also the ones most likely to need a tow.\n\nA breakdown is not an accident. An accident is damage caused by a collision, and it involves other people, insurance and possibly the police. A breakdown happens to one vehicle on its own. The confusion between the two causes real trouble, because a breakdown handled as an accident can mean hours of waiting for the wrong kind of help.\n\nThe first five minutes matter. In those minutes you stop safely, protect the scene, and find out three things: where exactly you are, what the car is telling you, and what help is available to you. Everything else in this article follows from those three answers.\n\nDo one thing at a time, and do it in the right order. If you try to fix the car before the road is safe, a small fault becomes a serious one. If you call for help before you know where you are, the operator will ask you anyway, and the delay costs time.\n\nMost of what you need on a roadside is small and cheap: a warning triangle, a reflective jacket, a torch, a power bank, water and a spare set of keys. A breakdown is far more unpleasant on a dark road in the rain than in a car park at midday, and the difference is almost entirely about preparation.\n\nWhatever the cause, you are entitled to professional help, and in most countries your breakdown assistance membership or your insurance provides some of it. Knowing what your membership covers before you need it saves the awkward part of the conversation later.",
@@ -55,7 +87,7 @@
         "type": "prose"
       },
       {
-        "body": "These are the words you will hear on the phone and you will need to understand when they are said to you.\n\nA **breakdown** is the stop itself, not the fault. People use the word for both, so \"I have had a breakdown\" might mean the car stopped or that the gearbox failed. A **fault** is the specific fault, and it is what tells the operator what to send.\n\nRoadside assistance is the service that comes to you. It may be included in your insurance, sold by the manufacturer with the car, or bought as a separate membership. A **patrol** or a **recovery vehicle** is the van or truck that arrives.\n\nA **call-out** is one visit. Some policies include a call-out fee and a fixed amount of work, and then charge per kilometre beyond that. **Towing** or **recovery** means the car is carried to a garage, and **towing** in the strict sense means a rope or a lift.\n\nThe **hazard warning lights** are the two orange indicators you switch on together. The **warning triangle** is the red reflective triangle you place on the road. A **high-visibility jacket** is the fluorescent vest that makes you visible at night.\n\nA **jump start** is starting the car with the battery of another car. A **flat battery** is a battery that has lost its charge, usually because it is old, because the lights were left on, or because the car stood for weeks.",
+        "body": "These are the words you will hear on the phone and you will need to understand when they are said to you.\n\nA **breakdown** is the stop itself, not the fault. People use the word for both, so \"I have had a breakdown\" might mean the car stopped or that the gearbox failed. A **fault** is the specific fault, and it is what tells the operator what to send.\n\n**Roadside assistance** is the service that comes to you. It may be included in your insurance, sold by the manufacturer with the car, or bought as a separate membership. A **patrol** or a **recovery vehicle** is the van or truck that arrives.\n\nA **call-out** is one visit. Some policies include a call-out fee and a fixed amount of work, and then charge per kilometre beyond that. **Towing** or **recovery** means the car is carried to a garage, and **towing** in the strict sense means a rope or a lift.\n\nThe **hazard warning lights** are the two orange indicators you switch on together. The **warning triangle** is the red reflective triangle you place on the road. A **high-visibility jacket** is the fluorescent vest that makes you visible at night.\n\nA **jump start** is starting the car with the battery of another car. A **flat battery** is a battery that has lost its charge, usually because it is old, because the lights were left on, or because the car stood for weeks.",
         "heading": "The words of a breakdown call",
         "terms": [
           {
@@ -137,7 +169,7 @@
         "type": "callout"
       },
       {
-        "body": "The ten minutes after the help arrives are worth as much as the ten minutes before it, because that is when the evidence is still fresh.\n\nPhotograph everything. The scene, the damage, the position of your car on the road, the other vehicles, the signs and landmarks, the fuel gauge, the odometer and the warning lights. Take them before anything is moved. If the recovery vehicle has already arrived, photograph where the car was sitting and how it was marked.\n\nWrite down the timeline while you still remember it. The time of the failure, the time you called, the time the operator gave you as the arrival time, the time the vehicle arrived, the registration of every vehicle involved, and the names of everyone you spoke to. Memory of a stressful hour is unreliable, and a short list written on the back of a receipt will be more useful than an hour of thinking.\n\nExchange details if other vehicles or people are involved. Name, insurance company, policy number, registration and a telephone number. Do not admit fault, and do not sign anything you have not read. If the other driver is at fault, you will need their details to claim, and if the driver is foreign, the local police may need to be involved.\n\nKeep the receipts and the reference numbers. Photograph the paperwork before you hand it over. Note your case number, and use it every time you speak to the company, because each new call that starts from scratch is a chance for the story to change.\n\nAsk about the storage of the car. If it is going to a garage, ask where the garage is, when they expect to have it, and how you will be told. A car left somewhere unknown is a car you stop paying for.\n\nTell your insurance company, even when the breakdown is covered by a separate membership. Your insurer may need to open a claim for the car itself, and the two claims often run alongside each other.",
+        "body": "The ten minutes after the help arrives are worth as much as the ten minutes before it, because that is when the evidence is still fresh.\n\n**Photograph everything**. The scene, the damage, the position of your car on the road, the other vehicles, the signs and landmarks, the fuel gauge, the odometer and the warning lights. Take them before anything is moved. If the recovery vehicle has already arrived, photograph where the car was sitting and how it was marked.\n\n**Write down the timeline while you still remember it.** The time of the failure, the time you called, the time the operator gave you as the arrival time, the time the vehicle arrived, the registration of every vehicle involved, and the names of everyone you spoke to. Memory of a stressful hour is unreliable, and a short list written on the back of a receipt will be more useful than an hour of thinking.\n\n**Exchange details if other vehicles or people are involved**. Name, insurance company, policy number, registration and a telephone number. Do not admit fault, and do not sign anything you have not read. If the other driver is at fault, you will need their details to claim, and if the driver is foreign, the local police may need to be involved.\n\n**Keep the receipts and the reference numbers**. Photograph the paperwork before you hand it over. Note your case number, and use it every time you speak to the company, because each new call that starts from scratch is a chance for the story to change.\n\n**Ask about the storage of the car.** If it is going to a garage, ask where the garage is, when they expect to have it, and how you will be told. A car left somewhere unknown is a car you stop paying for.\n\n**Tell your insurance company**, even when the breakdown is covered by a separate membership. Your insurer may need to open a claim for the car itself, and the two claims often run alongside each other.",
         "examples": [
           "My case number is 4471, and the recovery vehicle arrived at 14:20.",
           "I have photographed the scene, the warning lights and the fuel gauge.",

@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "5bd90ada9e3af88ecfa114911776f1ce6daa1e19a7f3178bf0ee8390577aa5cb"
+    "037174e027fa7b3901098b6c615134a361581acdd2496b0f7f4abe002a071565",
+    "5bd90ada9e3af88ecfa114911776f1ce6daa1e19a7f3178bf0ee8390577aa5cb",
+    "a5800159ce5add54bcd9bef838ff09d15663154f39b957171c248ffa8efef3bd",
+    "d2fe82dacb2ce7402d70782f8ae9f7387cba9d83be0073de3909e4a812fa9d9d"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,41 @@
     "media": {
       "audio": [],
       "cover": "asset://5bd90ada9e3af88ecfa114911776f1ce6daa1e19a7f3178bf0ee8390577aa5cb",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "Rice, soup, vegetables, fruit and a dish you love.",
+          "kind": "image",
+          "source": "asset://d2fe82dacb2ce7402d70782f8ae9f7387cba9d83be0073de3909e4a812fa9d9d",
+          "title": "The plate of many colours"
+        },
+        {
+          "caption": "Pizza, pho, sushi, tacos and noodles.",
+          "kind": "image",
+          "source": "asset://a5800159ce5add54bcd9bef838ff09d15663154f39b957171c248ffa8efef3bd",
+          "title": "Favourite foods around the world"
+        },
+        {
+          "caption": "Saying what you like, and trying one new thing.",
+          "kind": "image",
+          "source": "asset://037174e027fa7b3901098b6c615134a361581acdd2496b0f7f4abe002a071565",
+          "title": "Talking at the family table"
+        }
+      ],
+      "images": [
+        "asset://a5800159ce5add54bcd9bef838ff09d15663154f39b957171c248ffa8efef3bd",
+        "asset://037174e027fa7b3901098b6c615134a361581acdd2496b0f7f4abe002a071565"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Say what a favourite food is.",
+      "Name favourite foods from around the world.",
+      "Use the words favourite, dislike, try, taste and kind.",
+      "Tell your family what you like and why.",
+      "Try a new food without worry.",
+      "Explain why a plate with many colours is a good plate."
+    ],
     "sections": [
       {
         "body": "A favourite food is the food you like most. It is the one you hope to see on the table. Every person has one, and every favourite is different.\n\nA favourite food can be anything. It can be sweet, like ice cream or a mango. It can be salty, like fried chicken or a bowl of noodles. It can be plain, like rice with egg. It can even be a food other children do not like at all.\n\nWhy do we like some foods and not others? Taste is only one part of it. Food also has a smell, a texture, and a colour. A crunchy apple is different from a soft one. A hot bowl of soup on a cold day feels good in the stomach, not only on the tongue.\n\nMemory matters too. Many people love a food because of a happy moment. A bowl of cháo reminds one child of their grandmother. Another child loves fruit because it was on a holiday trip.\n\nThere is nothing wrong with having a favourite food. But one food alone is not enough for a body. A plate with many kinds of food on it gives you everything you need.",
@@ -29,7 +61,7 @@
         "type": "definition"
       },
       {
-        "body": "Ask a hundred children, and you get a hundred answers. Here are some that many people love.\n\nPhở is Vietnam's warm breakfast soup. It has rice noodles, meat and herbs on top. People eat it in the morning, and they eat it again at night.\n\nPizza comes from Italy, but the whole world eats it. It has bread dough, tomato sauce and cheese, and it is cut in triangles.\n\nSushi is Japanese. It is made of rice with fish on top, or with vegetables. You eat it with chopsticks, and you take one piece at a time.\n\nTacos are Mexican. A soft tortilla holds meat, beans, cheese and salad, and you fold it up to eat it.\n\nNoodles are loved everywhere. In Vietnam we have bún, phở, mì and hủ tiếu. In Japan there is ramen. In China there are many kinds too.\n\nIce cream is a favourite for people of every age. It is cold and sweet, and it melts in your mouth.\n\nFruit is a favourite too, and a healthy one. Mangoes, bananas and apples are cheap and easy to find.\n\nNotice how different they are. That is the good part. A world where everybody liked the same food would be a dull world to eat in.",
+        "body": "Ask a hundred children, and you get a hundred answers. Here are some that many people love.\n\n**Phở** is Vietnam's warm breakfast soup. It has rice noodles, meat and herbs on top. People eat it in the morning, and they eat it again at night.\n\n**Pizza** comes from Italy, but the whole world eats it. It has bread dough, tomato sauce and cheese, and it is cut in triangles.\n\n**Sushi** is Japanese. It is made of rice with fish on top, or with vegetables. You eat it with chopsticks, and you take one piece at a time.\n\n**Tacos** are Mexican. A soft tortilla holds meat, beans, cheese and salad, and you fold it up to eat it.\n\n**Noodles** are loved everywhere. In Vietnam we have bún, phở, mì and hủ tiếu. In Japan there is ramen. In China there are many kinds too.\n\n**Ice cream** is a favourite for people of every age. It is cold and sweet, and it melts in your mouth.\n\n**Fruit** is a favourite too, and a healthy one. Mangoes, bananas and apples are cheap and easy to find.\n\nNotice how different they are. That is the good part. A world where everybody liked the same food would be a dull world to eat in.",
         "examples": [
           "Phở is my favourite breakfast.",
           "I love pizza on a Friday.",

@@ -1,7 +1,15 @@
 {
   "language": "pt_br",
   "lessonId": "article_mental_arithmetic",
-  "objectives": [],
+  "objectives": [
+    "Escolher um atalho que seja adequado ao número que você tem à frente.",
+    "Arredondar e ajustar um produto, corrigindo-o pela quantidade usada no arredondamento.",
+    "Ler uma porcentagem como fração de dez e dividi-la em partes.",
+    "Estimar a magnitude de uma resposta antes de apresentar o número.",
+    "Verificar uma resposta invertendo a operação e testando a soma dos algarismos.",
+    "Nomear os termos do ofício: estimativa, arredondamento, compensação, resto, soma dos algarismos e quociente.",
+    "Dizer que você precisa de um momento para calcular um número, em vez de adivinhar."
+  ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
@@ -95,7 +103,7 @@
       }
     },
     {
-      "body": "Estimativa é um número aproximado, perto o suficiente para mostrar se uma resposta real é possível. **Arredondamento** é escrever um número como o valor conveniente mais próximo, normalmente a dezena, a centena ou o milhar mais próximos: 47 arredonda para 50, e 42 arredonda para 40.\n\nCompensação é o ajuste que você faz depois de arredondar um número. **Vai um** é a dezena que você passa para a próxima coluna quando os algarismos de uma coluna somam dez ou mais: em 8 + 7, você escreve 5 e leva 1.\n\nResto é a parte que sobra quando um número não é dividido exatamente pelo outro. **Quociente** é o resultado da divisão sem essa parte que sobra: ao dividir 87 por 7, obtemos o quociente 12 e o resto 3.\n\nSoma dos algarismos é o total de todos os algarismos de um número. Um número é um múltiplo de 9 exatamente quando a soma de seus algarismos é um múltiplo de 9: a soma dos algarismos de 1296 é 1 + 2 + 9 + 6 = 18, e 18 é um múltiplo de 9.",
+      "body": "**Estimativa** é um número aproximado, perto o suficiente para mostrar se uma resposta real é possível. **Arredondamento** é escrever um número como o valor conveniente mais próximo, normalmente a dezena, a centena ou o milhar mais próximos: 47 arredonda para 50, e 42 arredonda para 40.\n\n**Compensação** é o ajuste que você faz depois de arredondar um número. **Vai um** é a dezena que você passa para a próxima coluna quando os algarismos de uma coluna somam dez ou mais: em 8 + 7, você escreve 5 e leva 1.\n\n**Resto** é a parte que sobra quando um número não é dividido exatamente pelo outro. **Quociente** é o resultado da divisão sem essa parte que sobra: ao dividir 87 por 7, obtemos o quociente 12 e o resto 3.\n\n**Soma dos algarismos** é o total de todos os algarismos de um número. Um número é um múltiplo de 9 exatamente quando a soma de seus algarismos é um múltiplo de 9: a soma dos algarismos de 1296 é 1 + 2 + 9 + 6 = 18, e 18 é um múltiplo de 9.",
       "examples": [
         "Minha estimativa foi cerca de 1,500, e a resposta exata foi 1,296.",
         "47 arredonda para 50, e eu somo a compensação de volta.",
@@ -135,7 +143,7 @@
       ]
     },
     {
-      "body": "Um atalho sem verificação é uma forma rápida de errar. Quatro verificações levam alguns segundos e detectam quase todo pequeno erro: o tamanho da resposta, a operação inversa, a soma dos algarismos e a unidade. A primeira é a mais rápida: **verifique o tamanho**. Arredonde cada número para um valor fácil e calcule o produto aproximado: cerca de 50 vezes cerca de 30 é cerca de 1500. Se a sua resposta for 15 ou 15000, ela estará errada antes de você verificar mais a fundo. Uma estimativa detecta erros de tamanho, mas nunca detecta um pequeno erro no último passo.\n\nFaça a operação inversa. Adição e subtração se anulam, assim como multiplicação e divisão. Se você dividiu 87 por 7 e obteve o quociente 12 com resto 3, multiplique de volta: 12 × 7 = 84, e 84 + 3 = 87. Se sua resposta tivesse sido 13, então 13 × 7 = 91, o que já é grande demais. **Use a soma dos algarismos para múltiplos de 9.** Um número é múltiplo de 9 exatamente quando sua soma de algarismos é múltipla de 9. Portanto, se ambos os fatores forem múltiplos de 3, o produto também deverá ser múltiplo de 9.\n\nVerifique a unidade e a ordem de grandeza. A resposta para 48 caixas de 27 garrafas é um número de garrafas, e não de caixas, nem de garrafas por caixa. Se a pergunta pede um comprimento e a sua resposta não tem unidade, ela não está terminada.\n\nEste é um pequeno erro sendo detectado. Você precisa do número de garrafas em 48 caixas de 27 garrafas. Você calcula 48 × 30 = 1440, depois subtrai 48 × 3 = 144 e obtém 1296. A verificação do tamanho concorda: cerca de 1500 está perto de 1296. Agora, suponha que a subtração sofra um pequeno erro e você escreva 1298. A verificação inversa detecta o erro, porque 1298 ÷ 48 não é um número inteiro de caixas. A soma dos algarismos também o detecta: a soma dos algarismos de 1298 é 1 + 2 + 9 + 8 = 20, que não é múltiplo de 9, enquanto 48 e 27 são ambos múltiplos de 3, então o produto tem de ser múltiplo de 9. A resposta correta é 1296, e a soma de seus algarismos é 18.",
+      "body": "Um atalho sem verificação é uma forma rápida de errar. Quatro verificações levam alguns segundos e detectam quase todo pequeno erro: o tamanho da resposta, a operação inversa, a soma dos algarismos e a unidade. A primeira é a mais rápida: **verifique o tamanho**. Arredonde cada número para um valor fácil e calcule o produto aproximado: cerca de 50 vezes cerca de 30 é cerca de 1500. Se a sua resposta for 15 ou 15000, ela estará errada antes de você verificar mais a fundo. Uma estimativa detecta erros de tamanho, mas nunca detecta um pequeno erro no último passo.\n\n**Faça a operação inversa.** Adição e subtração se anulam, assim como multiplicação e divisão. Se você dividiu 87 por 7 e obteve o quociente 12 com resto 3, multiplique de volta: 12 × 7 = 84, e 84 + 3 = 87. Se sua resposta tivesse sido 13, então 13 × 7 = 91, o que já é grande demais. **Use a soma dos algarismos para múltiplos de 9.** Um número é múltiplo de 9 exatamente quando sua soma de algarismos é múltipla de 9. Portanto, se ambos os fatores forem múltiplos de 3, o produto também deverá ser múltiplo de 9.\n\n**Verifique a unidade e a ordem de grandeza.** A resposta para 48 caixas de 27 garrafas é um número de garrafas, e não de caixas, nem de garrafas por caixa. Se a pergunta pede um comprimento e a sua resposta não tem unidade, ela não está terminada.\n\nEste é um pequeno erro sendo detectado. Você precisa do número de garrafas em 48 caixas de 27 garrafas. Você calcula 48 × 30 = 1440, depois subtrai 48 × 3 = 144 e obtém 1296. A verificação do tamanho concorda: cerca de 1500 está perto de 1296. Agora, suponha que a subtração sofra um pequeno erro e você escreva 1298. A verificação inversa detecta o erro, porque 1298 ÷ 48 não é um número inteiro de caixas. A soma dos algarismos também o detecta: a soma dos algarismos de 1298 é 1 + 2 + 9 + 8 = 20, que não é múltiplo de 9, enquanto 48 e 27 são ambos múltiplos de 3, então o produto tem de ser múltiplo de 9. A resposta correta é 1296, e a soma de seus algarismos é 18.",
       "examples": [
         "Cerca de 50 vezes cerca de 30 é cerca de 1,500, então 1,296 é o tamanho certo.",
         "Multiplique o quociente de volta e adicione o resto; você deve obter o número de que partiu.",
@@ -161,7 +169,7 @@
       "heading": "As frases honestas no trabalho"
     },
     {
-      "body": "Diga primeiro o tamanho aproximado e depois o número exato. \"Cerca de 1.300 garrafas, e exatamente 1.296.\" O tamanho leva um segundo e dá ao ouvinte algo com que conferir o número. Se os dois divergirem, você encontrou o erro antes que alguém usasse o número.\n\nMantenha o tamanho na mesma unidade da resposta. Um tamanho em metros e uma resposta em centímetros não podem ser conferidos entre si.\n\nDiga em voz alta. Um número em que você só pensa é um número que você confere apenas às vezes.",
+      "body": "**Diga primeiro o tamanho aproximado e depois o número exato.** \"Cerca de 1.300 garrafas, e exatamente 1.296.\" O tamanho leva um segundo e dá ao ouvinte algo com que conferir o número. Se os dois divergirem, você encontrou o erro antes que alguém usasse o número.\n\n**Mantenha o tamanho na mesma unidade da resposta.** Um tamanho em metros e uma resposta em centímetros não podem ser conferidos entre si.\n\n**Diga em voz alta.** Um número em que você só pensa é um número que você confere apenas às vezes.",
       "examples": [
         "Cerca de 1.300 garrafas, e exatamente 1.296.",
         "Diga o tamanho na mesma unidade da resposta, ou a verificação não vai encontrar nenhum erro.",

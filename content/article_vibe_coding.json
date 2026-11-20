@@ -16,7 +16,13 @@
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Define vibe coding and explain how it differs from programming.",
+      "Describe where technical debt accumulates in AI-generated code.",
+      "Explain why working code is not the same as understood code.",
+      "Recognize the architectural limits of prompt-driven development.",
+      "State who is responsible for software that an AI wrote."
+    ],
     "sections": [
       {
         "body": "Vibe coding is the practice of building software by describing what you want to an AI in plain language, pasting the generated code, and accepting the result when it seems to work. The term spread in 2025 as AI coding tools became good enough that non-programmers could produce real, running applications.\n\nThe output is not fake. The apps run, the demos impress, and for small personal tools the method is often the fastest path from idea to working software. Something real has changed: the cost of producing code has collapsed, and with it the barrier that once forced people to understand a system before they could extend it.\n\nBut code that runs is not code that is understood. A program is not only its behavior today; it is its behavior under bad input, under load, under attack, and a year from now when the platform changes. Vibe coding optimizes the first of these and discovers the rest later.",

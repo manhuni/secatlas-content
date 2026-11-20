@@ -1,5 +1,8 @@
 {
   "dependencies": [
+    "4cacc2830e1e34bad7aaeffd473a6d613a8e6668bd5383e96335a66c6167d96d",
+    "da5364569670dddfeebf4cd0c0f7372ba11e924b43a4f5d75a88292f90a15a38",
+    "e9a08e6f47bf1c9e40455678101e06805c6b9be6401d867cd12d95f817e43b68",
     "f2bdddd766ee2601c048e50a2506d52dee0a43205f0a2734883dbfe75074479e"
   ],
   "item": {
@@ -11,12 +14,39 @@
     "media": {
       "audio": [],
       "cover": "asset://f2bdddd766ee2601c048e50a2506d52dee0a43205f0a2734883dbfe75074479e",
-      "gallery": [],
+      "gallery": [
+        {
+          "caption": "The surface, the tyres and the time of the reaction decide how long the car takes to stop.",
+          "kind": "image",
+          "source": "asset://da5364569670dddfeebf4cd0c0f7372ba11e924b43a4f5d75a88292f90a15a38",
+          "title": "What changes the braking distance"
+        },
+        {
+          "caption": "The system works only while the wheel keeps turning and the driver keeps the pedal down.",
+          "kind": "image",
+          "source": "asset://e9a08e6f47bf1c9e40455678101e06805c6b9be6401d867cd12d95f817e43b68",
+          "title": "Brake pedal and steering wheel"
+        },
+        {
+          "caption": "On a descent the engine and the gearbox hold the speed, and the brake is used less.",
+          "kind": "image",
+          "source": "asset://4cacc2830e1e34bad7aaeffd473a6d613a8e6668bd5383e96335a66c6167d96d",
+          "title": "A hill, a low gear and a hand on the wheel"
+        }
+      ],
       "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Describe how an anti-lock braking system works and what its parts do.",
+      "Name the terms of braking: braking distance, traction, lock-up, threshold braking and brake fade.",
+      "Explain where ABS does not help, and why the surface decides the answer.",
+      "Compare threshold braking, progressive braking, engine braking and braking with ABS.",
+      "Use the right braking method on a firm surface, on loose ground and on ice.",
+      "Follow the steps of braking well in a car with ABS and in a car without it.",
+      "Say what to do when the ABS warning light comes on."
+    ],
     "relatedTopicIds": [
       "article_car_breakdown",
       "article_units_dimensions"

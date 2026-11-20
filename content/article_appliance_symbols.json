@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "1adf4f12d8ba43411359ffe8d45e92468d829dee892eb2870b6dfc1f2da7c7d1"
+    "1adf4f12d8ba43411359ffe8d45e92468d829dee892eb2870b6dfc1f2da7c7d1",
+    "447d233cebca7d1fe73165bbba72a751bce6c80a9c064f5324f6242b4b7dc6f3",
+    "552694137658b69acd4de5675baf57c446f80193405cd23d7ae3a61d40eebbef",
+    "b455d59b2fd6504731e1bfb3a685e0f6907536b40c214661f1470f0bc37fb820"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,41 @@
     "media": {
       "audio": [],
       "cover": "asset://1adf4f12d8ba43411359ffe8d45e92468d829dee892eb2870b6dfc1f2da7c7d1",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "Power, programme, temperature, start, and the drawer symbols.",
+          "kind": "image",
+          "source": "asset://447d233cebca7d1fe73165bbba72a751bce6c80a9c064f5324f6242b4b7dc6f3",
+          "title": "The symbols on a household appliance"
+        },
+        {
+          "caption": "The dial, the display and the three symbols you use most.",
+          "kind": "image",
+          "source": "asset://b455d59b2fd6504731e1bfb3a685e0f6907536b40c214661f1470f0bc37fb820",
+          "title": "The control panel of a washing machine"
+        },
+        {
+          "caption": "What the drawer and the salt cap are telling you.",
+          "kind": "image",
+          "source": "asset://552694137658b69acd4de5675baf57c446f80193405cd23d7ae3a61d40eebbef",
+          "title": "The salt and detergent symbols"
+        }
+      ],
+      "images": [
+        "asset://b455d59b2fd6504731e1bfb3a685e0f6907536b40c214661f1470f0bc37fb820",
+        "asset://552694137658b69acd4de5675baf57c446f80193405cd23d7ae3a61d40eebbef"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Recognise the standard symbols for power, start, pause and programme selection.",
+      "Choose a washing programme that suits the fabric in the drum.",
+      "Match the temperature symbol to the right heat for the load.",
+      "Read the spin, eco and delay symbols and know what they change.",
+      "Understand what the salt, detergent and rinse aid symbols ask you to do.",
+      "Work a dishwasher and an oven you have never used before."
+    ],
     "sections": [
       {
         "body": "Appliance symbols are a small international language. A washing machine sold in Hanoi, Madrid or Manila carries the same few dozen pictures, and they mean the same thing in every country. The reason is practical: a machine has to be understood by a person who cannot read the manual, and a picture survives translation while a word does not.\n\nMost of these symbols are not inventions of one brand. They are drawn from international standards, which is why a familiar pictogram appears on machines from different makers in the same position. That is good news for anyone who moves house, travels, or buys a second-hand machine from another country.\n\nThe symbols fall into a small number of families. **Control symbols** tell you how to run the machine: power, start, pause, programme selection, delay. **Setting symbols** tell you what to choose: temperature, spin speed, soil level, load type. **Care symbols** tell you what goes in the drawer: salt, detergent, rinse aid. **Status symbols** tell you what the machine is doing: locked door, filter needs cleaning, end of cycle.\n\nEvery symbol is small, printed on the panel or moulded into the plastic, and usually printed again in the manual. The manual is the authority, and the panel is the quick reference. When the two seem to disagree, the manual wins, because the panel shows you the shapes and the manual explains them.\n\nTwo habits make this easy. First, learn the ten symbols you will actually use, and ignore the rest until you need them. Second, look for the same symbol rather than reading the words next to it. The picture for cotton is the same picture in every country, whether the word beside it says cotton, cotton or Baumwolle.\n\nOne warning is worth saying at the start. Symbols are usually moulded in plastic or printed on the fascia, and they wear out. A faded thermometer on a machine in a launderette may be a machine that has been scrubbed clean many times. When a symbol is unclear, check the manual, or check the model number, rather than guessing.",
@@ -126,7 +158,7 @@
         "type": "symbols"
       },
       {
-        "body": "Three settings decide how much water, heat and time a wash uses: the soil level, the spin speed and the programme length. The symbols for them are small, and they are the ones that make the difference between a cheap wash and an expensive one.\n\nThe **soil level** symbol shows a pile of dots or soil. One dot is lightly soiled, two is normal, three is heavy. The machine uses this to set the time, and on some machines it also sets the temperature. Washing a lightly soiled load on the heavy setting is one of the most common ways people waste water and electricity without noticing.\n\nThe **spin speed** symbol is a circle of arrows. A larger number means the drum turns faster and the clothes come out drier. It also uses more energy and makes more noise, and it can be hard on delicate fabrics. A speed of 1200 rpm is plenty for most clothes. The spin only matters for drying: the clothes come out drier, so the machine spends less time in the dryer afterwards.\n\nEco mode is usually a small leaf or the word eco on the programme itself. It means less water and less heat for a slightly longer wash. It suits everyday cotton and nothing that is very dirty. On a dishwasher the eco programme is the one to choose every day, because the long, cool cycle cleans well and uses far less energy than a hot intensive cycle.\n\nDelay start, the clock symbol, is the opposite kind of saving. It is not about using less, it is about using it when it is cheaper or when the power is cleaner. If your tariff is cheaper overnight, set a delay start and the machine begins in the night, and you wake up to finished washing.\n\nAnd **half load** symbols, a drum with half of it filled, tell you the machine to use less water for a smaller load. On some machines the sensor measures the load automatically and does it for you, which is why a modern machine may take longer than you expect on a small load.",
+        "body": "Three settings decide how much water, heat and time a wash uses: the soil level, the spin speed and the programme length. The symbols for them are small, and they are the ones that make the difference between a cheap wash and an expensive one.\n\nThe **soil level** symbol shows a pile of dots or soil. One dot is lightly soiled, two is normal, three is heavy. The machine uses this to set the time, and on some machines it also sets the temperature. Washing a lightly soiled load on the heavy setting is one of the most common ways people waste water and electricity without noticing.\n\nThe **spin speed** symbol is a circle of arrows. A larger number means the drum turns faster and the clothes come out drier. It also uses more energy and makes more noise, and it can be hard on delicate fabrics. A speed of 1200 rpm is plenty for most clothes. The spin only matters for drying: the clothes come out drier, so the machine spends less time in the dryer afterwards.\n\n**Eco mode** is usually a small leaf or the word eco on the programme itself. It means less water and less heat for a slightly longer wash. It suits everyday cotton and nothing that is very dirty. On a dishwasher the eco programme is the one to choose every day, because the long, cool cycle cleans well and uses far less energy than a hot intensive cycle.\n\n**Delay start**, the clock symbol, is the opposite kind of saving. It is not about using less, it is about using it when it is cheaper or when the power is cleaner. If your tariff is cheaper overnight, set a delay start and the machine begins in the night, and you wake up to finished washing.\n\nAnd **half load** symbols, a drum with half of it filled, tell you the machine to use less water for a smaller load. On some machines the sensor measures the load automatically and does it for you, which is why a modern machine may take longer than you expect on a small load.",
         "examples": [
           "It is only lightly soiled, so I am using one dot and the eco programme.",
           "I have set a delay start, so the wash begins at midnight on the cheaper tariff.",
@@ -146,7 +178,7 @@
         "type": "prose"
       },
       {
-        "body": "The drawer symbols are the ones people get wrong, because the names are unfamiliar and the consequences are quiet. A dishwasher that is never given salt will eventually have hard-water deposits on the heating element and on every glass.\n\nSalt goes in the round cap at the bottom of the tub. The symbol is a salt shaker, or a letter S in some European machines. Salt softens the water so that detergent can work. Dishwashers are designed for soft water, and in a hard-water area they need salt; most manufacturers say to use salt whenever the machine has a salt symbol at all.\n\nDetergent is the powder or the liquid tablet, and it goes in the main compartment of the drawer, the one marked with the letter II or with a flower or a spray. The compartment that looks like a small bucket is for the pre-wash, and only some machines need anything in it.\n\nRinse aid goes in the wide compartment, marked with a jug and the letter A, or a spray of drops. Rinse aid is not a detergent and it does not clean anything. It makes the water sheet off the glass and the dishes so they dry without water spots.\n\nSoftener is the same salt in a different shape. Some machines have a separate water softener setting for the whole machine, and some dishwashers have their own resin softener inside, which is different from the salt cap. If the manual describes a water softener level, that is a setting on the display, not something you pour in.\n\nThe **filter** is the last of this family. It sits in the pump at the bottom of the machine, catches the bits of food and the coins, and must be emptied. A machine that will not drain is usually full of coins and grit rather than broken.\n\nThe spray arm is the rotating arm below the dishes that throws the water up. If one of its holes is blocked, dishes come out dirty in the same place every time, and the cure is to remove the arm and clear the holes.",
+        "body": "The drawer symbols are the ones people get wrong, because the names are unfamiliar and the consequences are quiet. A dishwasher that is never given salt will eventually have hard-water deposits on the heating element and on every glass.\n\n**Salt** goes in the round cap at the bottom of the tub. The symbol is a salt shaker, or a letter S in some European machines. Salt softens the water so that detergent can work. Dishwashers are designed for soft water, and in a hard-water area they need salt; most manufacturers say to use salt whenever the machine has a salt symbol at all.\n\n**Detergent** is the powder or the liquid tablet, and it goes in the main compartment of the drawer, the one marked with the letter II or with a flower or a spray. The compartment that looks like a small bucket is for the pre-wash, and only some machines need anything in it.\n\n**Rinse aid** goes in the wide compartment, marked with a jug and the letter A, or a spray of drops. Rinse aid is not a detergent and it does not clean anything. It makes the water sheet off the glass and the dishes so they dry without water spots.\n\n**Softener** is the same salt in a different shape. Some machines have a separate water softener setting for the whole machine, and some dishwashers have their own resin softener inside, which is different from the salt cap. If the manual describes a water softener level, that is a setting on the display, not something you pour in.\n\nThe **filter** is the last of this family. It sits in the pump at the bottom of the machine, catches the bits of food and the coins, and must be emptied. A machine that will not drain is usually full of coins and grit rather than broken.\n\n**The spray arm** is the rotating arm below the dishes that throws the water up. If one of its holes is blocked, dishes come out dirty in the same place every time, and the cure is to remove the arm and clear the holes.",
         "heading": "Salt, detergent and rinse aid",
         "terms": [
           {

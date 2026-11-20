@@ -1,20 +1,45 @@
 # The content library of SecAtlas
 
-This repository (`D:\Projects\Personal\Github\secatlas-content`) is the single source of truth for SecAtlas live content.
+This repository holds the library the SecAtlas app reads: the articles, their
+editions in the seven languages of the library, the catalogue, the pictures and
+the shared dictionary.
 
-## How to add, edit, or delete content (No App Build, No Worker Deploy)
+The content service of the app does not keep a copy. It reads this repository:
 
-1. **Edit an article or block**:
-   - Open `content/<article_id>.json` (English) or `content/<article_id>.<lang>.json` (translated edition: `vi`, `ja`, `ko`, `pt_br`, `id`, `th`, `tr`).
-   - Every block in the app is **100% data-driven**:
-     - `objectives`: Leave `[]` to hide "What you will learn", or add strings to show it.
-     - `media.gallery` / `section.gallery`: Leave `[]` to hide image galleries, or add media items (`image`, `video`, `audio`, `link`) to show them.
-     - `sections[i].steps`, `table`, `plots`, `equations`, `simulations`, `terms`, `symbols`, `examples`, `calloutKind`: Present only when non-empty in JSON.
-     - Set `"hidden": true` inside `"item"` to hide an article from the app without deleting its file.
-2. **Add or delete an article**:
-   - Create or remove `content/<article_id>.json`.
-   - Run `python sync_catalog.py` locally (optional — GitHub Actions also runs `sync_catalog.py` automatically on every `git push`).
-3. **Publish**:
-   - Run `git add -A && git commit -m "..." && git push`.
-   - GitHub Actions automatically syncs `catalog/` and `items/` (if needed) and updates `current.json` to the new commit SHA.
-   - The app picks up the new content automatically without rebuilding the Flutter app or deploying any Cloudflare Worker.
+    https://secatlas-content.nguyenvanmanh-dev.workers.dev/v1/content/<article>
+
+## How to change an article
+
+1. Open the file of the article: `content/<article>.vi.json` for the
+   Vietnamese edition, `content/<article>.ja.json` for the Japanese one, and
+   so on. `content/<article>.json` is the English source.
+2. Change the text. Keep the shape: the same sections, the same number of
+   examples, the same terms.
+3. Commit. The pointer of the library moves to that commit, and the service
+   serves the new text within a minute. The workflow of this repository moves
+   the pointer; the house moves it as well with
+   `python tools\publish_content_to_github.py --publish-head`.
+
+A publication of the house writes the whole library again, so it refuses to do
+that while the words here were changed by hand: it names the files and stops.
+The house serves them with `--publish-head`, or writes its own release over
+them with `--force`.
+
+The release id of the library is the commit the files live in. The service
+writes it into every answer, so the app knows that the library changed and
+reads it again.
+
+## What is generated and what is not
+
+- `content/`, `catalog/`, `items/`, `assets/`, `aliases/`, `dictionary/`,
+  `blob-metadata/` and `chunks/` are written by the tools of the house
+  repository. A person may change the text of `content/`; the rest is built.
+- `current.json` names the release the service reads. It is written after
+  every push.
+- `legacy-releases.json` names the publications that were made before this
+  repository existed, so a reader that pinned an old release is still
+  answered.
+- The pictures are built from the media of the house repository, so a new
+  picture is a new build, not a commit here.
+
+The house repository is private: `manhuni/flt-gixsoft-secatlas-contents`.

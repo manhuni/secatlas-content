@@ -1,7 +1,15 @@
 {
   "language": "id",
   "lessonId": "article_water_heater_safety",
-  "objectives": [],
+  "objectives": [
+    "Jelaskan bagaimana pemanas air dapat mengalirkan listrik ke dalam air, ke dalam pipa, dan ke dalam tubuh manusia.",
+    "Sebutkan arus, tegangan, insulasi, grounding, arus kebocoran, dan perangkat arus sisa (RCD), serta jelaskan fungsi masing-masing.",
+    "Jelaskan mengapa kamar mandi menjadi tempat di mana gangguan listrik kecil dapat menjadi berbahaya.",
+    "Pisahkan proteksi listrik dari proteksi tekanan, sehingga bagian yang benar diperiksa.",
+    "Bandingkan kabel pelindung bumi, perangkat arus sisa, dan pemutus sirkuit berdasarkan apa yang masing-masing mengawasi.",
+    "Gunakan urutan tindakan yang benar saat seseorang mengalami sengatan listrik dari perangkat air panas.",
+    "Periksa label pemanas dan pemeliharaan yang mencegah gangguan tersebut terjadi."
+  ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
@@ -166,7 +174,7 @@
       ]
     },
     {
-      "body": "Jangan pernah mengerjakan pemanas saat dayanya menyala. Bukan elemennya, bukan kabelnya, bukan steknya, dan jangan dengan asserts yang sudah dimatikan serta berharap bahwa dayanya memang sudah mati. Jika Anda tidak dapat memastikan bahwa sirkuit tersebut tidak aktif, Anda tidak boleh bekerja pada sirkuit itu.\n\nJangan pernah menyetel ulang RCD berulang kali. Perangkat yang trips telah menemukan gangguan. Mengaturnya ulang menghapus bukti dan mengembalikan kesalahan. Catat apa yang sedang dilakukan oleh peralatan itu, catat waktunya, dan panggil tukang listrik. Perangkat yang mati dua kali dalam satu minggu merupakan gangguan yang harus dilaporkan, bukan gangguan yang dapat diabaikan.\n\nJangan pernah menggunakan kabel ekstensi atau pemanas portabel di ruangan yang lembap. Kabel ekstensi adalah konductor panjang yang poorly dilindungi, sedangkan pemanas portabel merupakan elemen bertegangan yang berada di lantai ruangan lembap. Keduanya tidak pantas berada di kamar mandi. Jika stopkontak jauh dari perangkat, solusinya adalah instalasi sirkuit baru oleh tukang listrik, bukan lead yang membentang di seluruh ruangan.\n\nJangan mengandalkan kabel tanah saja. Kabel tanah adalah satu lapisan perlindungan, dan hanya berfungsi ketika papan melihat arus gangguan. RCD adalah lapisan yang mengawasi orang tersebut. Pemanas dengan grounding yang baik dan tanpa proteksi RCD tidak aman, dan pemanas dengan RCD yang baik serta kawat grounding yang terputus juga tidak aman. Dan satu aturan berlaku di atas keempatnya: **hanya listriken berlisensi yang boleh membuka, memperbaiki, atau menguji pemanas air.** Manual peralatan, standar lokal, dan sertifikat listriken menentukan apa yang harus dilakukan. Artikel ini menjelaskan apa yang terjadi dan apa yang harus dilakukan pada menit-menit pertama. Hal itu bukan instruksi perbaikan, dan itu tidak menggantikan salah satu dari ketiganya.",
+      "body": "**Jangan pernah mengerjakan pemanas saat dayanya menyala.** Bukan elemennya, bukan kabelnya, bukan steknya, dan jangan dengan asserts yang sudah dimatikan serta berharap bahwa dayanya memang sudah mati. Jika Anda tidak dapat memastikan bahwa sirkuit tersebut tidak aktif, Anda tidak boleh bekerja pada sirkuit itu.\n\n**Jangan pernah menyetel ulang RCD berulang kali.** Perangkat yang trips telah menemukan gangguan. Mengaturnya ulang menghapus bukti dan mengembalikan kesalahan. Catat apa yang sedang dilakukan oleh peralatan itu, catat waktunya, dan panggil tukang listrik. Perangkat yang mati dua kali dalam satu minggu merupakan gangguan yang harus dilaporkan, bukan gangguan yang dapat diabaikan.\n\n**Jangan pernah menggunakan kabel ekstensi atau pemanas portabel di ruangan yang lembap.** Kabel ekstensi adalah konductor panjang yang poorly dilindungi, sedangkan pemanas portabel merupakan elemen bertegangan yang berada di lantai ruangan lembap. Keduanya tidak pantas berada di kamar mandi. Jika stopkontak jauh dari perangkat, solusinya adalah instalasi sirkuit baru oleh tukang listrik, bukan lead yang membentang di seluruh ruangan.\n\n**Jangan mengandalkan kabel tanah saja.** Kabel tanah adalah satu lapisan perlindungan, dan hanya berfungsi ketika papan melihat arus gangguan. RCD adalah lapisan yang mengawasi orang tersebut. Pemanas dengan grounding yang baik dan tanpa proteksi RCD tidak aman, dan pemanas dengan RCD yang baik serta kawat grounding yang terputus juga tidak aman. Dan satu aturan berlaku di atas keempatnya: **hanya listriken berlisensi yang boleh membuka, memperbaiki, atau menguji pemanas air.** Manual peralatan, standar lokal, dan sertifikat listriken menentukan apa yang harus dilakukan. Artikel ini menjelaskan apa yang terjadi dan apa yang harus dilakukan pada menit-menit pertama. Hal itu bukan instruksi perbaikan, dan itu tidak menggantikan salah satu dari ketiganya.",
       "examples": [
         "Saya tidak akan menyetel ulang RCD lagi; alat ini sudah tripping dua kali dan kesalahannya harus ditemukan.",
         "Kami tidak menggunakan kabel ekstensi untuk pemanas; stopkontaknya terlalu jauh dari peralatan.",

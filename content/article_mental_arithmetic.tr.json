@@ -1,7 +1,15 @@
 {
   "language": "tr",
   "lessonId": "article_mental_arithmetic",
-  "objectives": [],
+  "objectives": [
+    "Önünüzdeki sayıya uygun bir kısayol seçin.",
+    "Bir çarpımı yuvarlayıp düzeltin ve yuvarlama miktarı kadar düzeltin.",
+    "Bir yüzdeyi onun kesri olarak okuyun ve parçalara ayırın.",
+    "Sayıyı vermeden önce yanıtın büyüklüğünü tahmin edin.",
+    "İşlemi tersine uygulayarak ve rakam toplamını sınayarak yanıtı doğrulayın.",
+    "Bu alanın terimlerini adlandırın: tahmin, yuvarlama, telafi, kalan, rakam toplamı, bölüm.",
+    "Bir sayıyı çözmek için zamana ihtiyacınız olduğunu söyleyin; tahmin yürütmek yerine."
+  ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [
@@ -95,7 +103,7 @@
       }
     },
     {
-      "body": "Tahmin, gerçek bir yanıtın mümkün olup olmadığını göstermeye yetecek kadar yakın, yaklaşık bir sayıdır. **Yuvarlama**, bir sayıyı genellikle en yakın on, yüz veya bin değerine yuvarlama biçimidir: 47, 50’ye yuvarlanır ve 42, 40’a yuvarlanır.\n\nDüzeltme, bir sayıyı yuvarladıktan sonra yaptığınız düzeltmedir. **Elde**, bir sütundaki rakamlar toplandığında on veya daha fazla olduğunda sonraki sütuna aktardığınız onluktur: 8 + 7’de 5 yazarsınız ve 1 elde edersiniz.\n\nKalan, bir sayının diğerine bölümü tam olmadığında geriye kalan kısımdır. **Bölüm**, kalan kısım hariç bölme işleminin sonucudur: 87, 7’ye bölündüğünde bölüm 12, kalan 3 olur.\n\nRakam toplamı, bir sayının tüm rakamlarının toplamıdır. Bir sayının rakam toplamı 9’un katı olduğunda o sayı tam olarak 9’un katıdır: 1296’nın rakam toplamı 1 + 2 + 9 + 6 = 18’dir ve 18, 9’un katıdır.",
+      "body": "**Tahmin**, gerçek bir yanıtın mümkün olup olmadığını göstermeye yetecek kadar yakın, yaklaşık bir sayıdır. **Yuvarlama**, bir sayıyı genellikle en yakın on, yüz veya bin değerine yuvarlama biçimidir: 47, 50’ye yuvarlanır ve 42, 40’a yuvarlanır.\n\n**Düzeltme**, bir sayıyı yuvarladıktan sonra yaptığınız düzeltmedir. **Elde**, bir sütundaki rakamlar toplandığında on veya daha fazla olduğunda sonraki sütuna aktardığınız onluktur: 8 + 7’de 5 yazarsınız ve 1 elde edersiniz.\n\n**Kalan**, bir sayının diğerine bölümü tam olmadığında geriye kalan kısımdır. **Bölüm**, kalan kısım hariç bölme işleminin sonucudur: 87, 7’ye bölündüğünde bölüm 12, kalan 3 olur.\n\n**Rakam toplamı**, bir sayının tüm rakamlarının toplamıdır. Bir sayının rakam toplamı 9’un katı olduğunda o sayı tam olarak 9’un katıdır: 1296’nın rakam toplamı 1 + 2 + 9 + 6 = 18’dir ve 18, 9’un katıdır.",
       "examples": [
         "Tahminim yaklaşık 1,500 sayısıydı, kesin yanıt ise 1,296 oldu.",
         "47, 50’ye yuvarlanır ve düzeltmeyi geri eklerim.",
@@ -135,7 +143,7 @@
       ]
     },
     {
-      "body": "Kontrolsüz bir kısayol, yanlışlığa en hızlı yoldan ulaşmanın yoludur. Dört kontrol saniyeler içinde neredeyse her hatayı yakalar: cevabın büyüklüğü, işlemi tersine yapma, rakam toplamı ve birim. İlk kontrol en hızlısıdır: **cevabın büyüklüğünü kontrol et**. Her sayıyı kolay bir değere yuvarla ve yaklaşık çarpımı hesapla: yaklaşık 50 ile yaklaşık 30’un çarpımı yaklaşık 1500’dür. Cevabın 15 veya 15000 ise, daha fazla kontrol etmeden önce yanlış olur. Bir tahmin, büyüklük hatalarını yakalar; ancak son adımdaki küçük bir hatayı asla yakalamaz.\n\nİşlemi tersine yap. Toplama ve çıkarma birbirini geri alır; çarpma ve bölme de öyle. 87’yi 7’ye böldüysen ve bölümün 12, kalanın 3 olduğunu bulduysan, geriye doğru çarp: 12 × 7 = 84 ve 84 + 3 = 87. Cevabın 13 olsaydı, 13 × 7 = 91 olurdu; bu sonuç çoktan fazla büyük olurdu. **9’un katları için rakam toplamını kullan.** Bir sayı, rakam toplamı 9’un katı olduğunda tam olarak 9’un katıdır. Dolayısıyla her iki çarpan da 3’ün katıysa çarpım da 9’un katı olmalıdır.\n\nBirimi ve büyüklük mertebesini kontrol et. 48 kasadaki 27 şişenin cevabı, kasa sayısı değil, şişe sayısıdır; kasa başına düşen şişe sayısı da değildir. Soru bir uzunluk istiyorsa ve cevabında birim yoksa işlem henüz tamamlanmamıştır.\n\nHatayı yakalayan bir örnek görüyoruz. 48 kasada 27 şişe olduğuna göre şişe sayısını bulman gerekiyor. 48 × 30 = 1440’ı hesaplıyorsun, ardından 48 × 3 = 144’ü çıkarıyorsun ve 1296’yı buluyorsun. Büyüklük kontrolü bunu doğruluyor: yaklaşık 1500, 1296’ya yakındır. Şimdi çıkarmanın kaydığını ve 1298 yazdığını düşünelim. Tersine kontrol bunu yakalar; çünkü 1298 ÷ 48, tam sayı kasa sayısı vermez. Rakam toplamı da bunu yakalar: 1298’in rakam toplamı 1 + 2 + 9 + 8 = 20’dir ve bu, 9’un katı değildir. Oysa 48 ve 27’nin ikisi de 3’ün katı olduğundan çarpımın 9’un katı olması gerekir. Doğru cevap 1296’dır ve rakam toplamı 18’dir.",
+      "body": "Kontrolsüz bir kısayol, yanlışlığa en hızlı yoldan ulaşmanın yoludur. Dört kontrol saniyeler içinde neredeyse her hatayı yakalar: cevabın büyüklüğü, işlemi tersine yapma, rakam toplamı ve birim. İlk kontrol en hızlısıdır: **cevabın büyüklüğünü kontrol et**. Her sayıyı kolay bir değere yuvarla ve yaklaşık çarpımı hesapla: yaklaşık 50 ile yaklaşık 30’un çarpımı yaklaşık 1500’dür. Cevabın 15 veya 15000 ise, daha fazla kontrol etmeden önce yanlış olur. Bir tahmin, büyüklük hatalarını yakalar; ancak son adımdaki küçük bir hatayı asla yakalamaz.\n\n**İşlemi tersine yap.** Toplama ve çıkarma birbirini geri alır; çarpma ve bölme de öyle. 87’yi 7’ye böldüysen ve bölümün 12, kalanın 3 olduğunu bulduysan, geriye doğru çarp: 12 × 7 = 84 ve 84 + 3 = 87. Cevabın 13 olsaydı, 13 × 7 = 91 olurdu; bu sonuç çoktan fazla büyük olurdu. **9’un katları için rakam toplamını kullan.** Bir sayı, rakam toplamı 9’un katı olduğunda tam olarak 9’un katıdır. Dolayısıyla her iki çarpan da 3’ün katıysa çarpım da 9’un katı olmalıdır.\n\n**Birimi ve büyüklük mertebesini kontrol et.** 48 kasadaki 27 şişenin cevabı, kasa sayısı değil, şişe sayısıdır; kasa başına düşen şişe sayısı da değildir. Soru bir uzunluk istiyorsa ve cevabında birim yoksa işlem henüz tamamlanmamıştır.\n\nHatayı yakalayan bir örnek görüyoruz. 48 kasada 27 şişe olduğuna göre şişe sayısını bulman gerekiyor. 48 × 30 = 1440’ı hesaplıyorsun, ardından 48 × 3 = 144’ü çıkarıyorsun ve 1296’yı buluyorsun. Büyüklük kontrolü bunu doğruluyor: yaklaşık 1500, 1296’ya yakındır. Şimdi çıkarmanın kaydığını ve 1298 yazdığını düşünelim. Tersine kontrol bunu yakalar; çünkü 1298 ÷ 48, tam sayı kasa sayısı vermez. Rakam toplamı da bunu yakalar: 1298’in rakam toplamı 1 + 2 + 9 + 8 = 20’dir ve bu, 9’un katı değildir. Oysa 48 ve 27’nin ikisi de 3’ün katı olduğundan çarpımın 9’un katı olması gerekir. Doğru cevap 1296’dır ve rakam toplamı 18’dir.",
       "examples": [
         "Yaklaşık 50 ile yaklaşık 30’un çarpımı yaklaşık 1,500’dür; dolayısıyla 1,296 doğru büyüklüktedir.",
         "Bölümü geriye doğru çarp ve kalanı ekle; başladığın sayıyı elde etmen gerekir.",
@@ -161,7 +169,7 @@
       "heading": "İş ortamında dürüst cümleler"
     },
     {
-      "body": "Önce yaklaşık büyüklüğü, sonra kesin sayıyı söyleyin. \"Yaklaşık 1.300 şişe ve tam olarak 1.296.\" Büyüklüğü söylemek bir saniye sürer ve dinleyiciye sayıyı karşılaştıracak bir dayanak verir. İkisi birbiriyle uyuşmazsa, sayıyı herhangi biri kullanmadan önce hatayı bulmuş olursunuz.\n\nYanıtla aynı birimde tutun. Metre cinsinden bir büyüklükle santim cinsinden bir yanıt birbirini doğrulayamaz.\n\nYüksek sesle söyleyin. Yalnızca düşündüğünüz bir sayıyı yalnızca bazen doğrularsınız.",
+      "body": "**Önce yaklaşık büyüklüğü, sonra kesin sayıyı söyleyin.** \"Yaklaşık 1.300 şişe ve tam olarak 1.296.\" Büyüklüğü söylemek bir saniye sürer ve dinleyiciye sayıyı karşılaştıracak bir dayanak verir. İkisi birbiriyle uyuşmazsa, sayıyı herhangi biri kullanmadan önce hatayı bulmuş olursunuz.\n\n**Yanıtla aynı birimde tutun.** Metre cinsinden bir büyüklükle santim cinsinden bir yanıt birbirini doğrulayamaz.\n\n**Yüksek sesle söyleyin.** Yalnızca düşündüğünüz bir sayıyı yalnızca bazen doğrularsınız.",
       "examples": [
         "Yaklaşık 1.300 şişe ve tam olarak 1.296.",
         "Büyüklüğü yanıtla aynı birimde söyleyin, aksi hâlde denetim hiçbir şeyi yakalayamaz.",

@@ -1,7 +1,15 @@
 {
   "language": "ko",
   "lessonId": "article_how_ai_works",
-  "objectives": [],
+  "objectives": [
+    "언어 모델이 무엇이며, 무엇이 아닌지 설명하십시오.",
+    "text를 수집하는 것부터 parameters를 조정하는 것까지의 training loop을 설명하십시오.",
+    "message를 보내고 answer를 받는 사이에 무엇이 일어나는지 설명하십시오.",
+    "이 분야에서 사용하는 용어를 정확히 사용하십시오: token, training data, parameters, inference, context window, prompt, hallucination.",
+    "유창한 answer이 여전히 틀릴 수 있는 이유를 설명하십시오.",
+    "어떤 task를 model에 맡기고 어떤 task를 직접 처리하도록 남겨 두어야 하는지 판단하십시오.",
+    "output을 신뢰하기 전에 숫자와 sources, 빠진 부분을 확인하십시오."
+  ],
   "release": "{{release}}",
   "schemaVersion": 1,
   "sections": [

@@ -1,5 +1,9 @@
 {
   "dependencies": [
+    "42f5de403596da14a09fa26a2c71daa40fe669ed6fb505b9465a8b5bd5c56fa4",
+    "5beb91e2b9267c96112e94bfe441e4d477cefab6a8967b2f08452c303f9f12ca",
+    "61f6236ab451529f358141d1336aef7a5b48bdf7d680b1efedc57d0e3e783286",
+    "7ff27e3de586afe71a3cf9a5fc2d4b787e7850ca3d36f5c8a5e493ee80119688",
     "a618973b4df5951862aaad73389acf738d6518b878b45c28e156f91fe9c7b3ea"
   ],
   "item": {
@@ -11,12 +15,35 @@
     "media": {
       "audio": [],
       "cover": "asset://a618973b4df5951862aaad73389acf738d6518b878b45c28e156f91fe9c7b3ea",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "The countdown, the long ride, and the quiet grey surface.",
+          "kind": "image",
+          "source": "asset://61f6236ab451529f358141d1336aef7a5b48bdf7d680b1efedc57d0e3e783286",
+          "title": "The three parts of the moon trip"
+        },
+        {
+          "caption": "Ten, nine, eight. The rocket waits and everybody holds still.",
+          "kind": "image",
+          "source": "asset://42f5de403596da14a09fa26a2c71daa40fe669ed6fb505b9465a8b5bd5c56fa4",
+          "title": "Counting down at the launch pad"
+        }
+      ],
+      "images": [
+        "asset://7ff27e3de586afe71a3cf9a5fc2d4b787e7850ca3d36f5c8a5e493ee80119688",
+        "asset://5beb91e2b9267c96112e94bfe441e4d477cefab6a8967b2f08452c303f9f12ca"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Follow a journey from the launch pad to the Moon and back.",
+      "Name the three parts of the adventure.",
+      "Use five new space words in your own sentences.",
+      "Say why an astronaut bounces on the Moon.",
+      "Retell the adventure to someone else in the right order.",
+      "Tell a friend the small lesson at the end."
+    ],
     "sections": [
       {
         "body": "This is a story about a girl called Linh. She wants to see the Moon for herself. Not in a book. Not on television. For herself.\n\nShe gets her chance on a clear winter night. A rocket stands on the launch pad, tall and white and full of fuel. Linh has a seat, a helmet and a list of things to do.\n\nA good adventure has a shape. It has a beginning, a middle and an end. The beginning tells you who is going and why. The middle brings the surprise. The end gives you something worth keeping.\n\nThis trip has that shape. At the beginning, the rocket shakes on the pad and the whole sky is orange. In the middle, Linh floats in the dark and sees the Earth become a small blue ball. At the end, she stands on the Moon and finds something nobody expected.\n\nRead it slowly. Then tell it to someone else. That is how an adventure becomes yours.",
@@ -59,7 +86,7 @@
         "type": "prose"
       },
       {
-        "body": "These are the words you will meet in this story. Learn them here, and you can use them in your own sentences.\n\nA **rocket** is a machine that pushes itself up into the sky with fire and gas. A **launch pad** is the platform where the rocket stands before it flies.\n\nAn **astronaut** is a person trained to fly into space. Astronauts wear a spacesuit so they can breathe in places where there is no air.\n\nWeightlessness is the feeling of floating, with nothing pulling you down. **Orbit** is the long loop a spacecraft travels around the Moon or the Earth.\n\nA **crater** is a round hollow in the ground. On the Moon, craters were made by rocks that fell from space long ago.",
+        "body": "These are the words you will meet in this story. Learn them here, and you can use them in your own sentences.\n\nA **rocket** is a machine that pushes itself up into the sky with fire and gas. A **launch pad** is the platform where the rocket stands before it flies.\n\nAn **astronaut** is a person trained to fly into space. Astronauts wear a spacesuit so they can breathe in places where there is no air.\n\n**Weightlessness** is the feeling of floating, with nothing pulling you down. **Orbit** is the long loop a spacecraft travels around the Moon or the Earth.\n\nA **crater** is a round hollow in the ground. On the Moon, craters were made by rocks that fell from space long ago.",
         "examples": [
           "A rocket needs fire and gas to fly.",
           "The astronaut wore a spacesuit.",

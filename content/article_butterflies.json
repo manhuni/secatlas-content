@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "1d96bc5af1825c79675814992eacff99d590a26bb49a2eadc073e5c6520ce6cb"
+    "1d96bc5af1825c79675814992eacff99d590a26bb49a2eadc073e5c6520ce6cb",
+    "8dea4903033eda91cbdf38d9e8a53382e0981a2589f74b9248d2e7d6a97bb246",
+    "993638bb371e1a8ff89e0f9fd883bcf322155851fee394db5d8958bdeb300ca4",
+    "ee75df2d2390bbbac81fdff5ef9260a8a58ab5bdde68afec9e6a017a9b653d5f"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,41 @@
     "media": {
       "audio": [],
       "cover": "asset://1d96bc5af1825c79675814992eacff99d590a26bb49a2eadc073e5c6520ce6cb",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "Egg, caterpillar, chrysalis, butterfly.",
+          "kind": "image",
+          "source": "asset://993638bb371e1a8ff89e0f9fd883bcf322155851fee394db5d8958bdeb300ca4",
+          "title": "The four stages of a butterfly"
+        },
+        {
+          "caption": "Eats, grows, sheds its skin.",
+          "kind": "image",
+          "source": "asset://8dea4903033eda91cbdf38d9e8a53382e0981a2589f74b9248d2e7d6a97bb246",
+          "title": "What the caterpillar does"
+        },
+        {
+          "caption": "The plants a butterfly needs.",
+          "kind": "image",
+          "source": "asset://ee75df2d2390bbbac81fdff5ef9260a8a58ab5bdde68afec9e6a017a9b653d5f",
+          "title": "A garden for butterflies"
+        }
+      ],
+      "images": [
+        "asset://8dea4903033eda91cbdf38d9e8a53382e0981a2589f74b9248d2e7d6a97bb246",
+        "asset://ee75df2d2390bbbac81fdff5ef9260a8a58ab5bdde68afec9e6a017a9b653d5f"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Name the four stages a butterfly goes through.",
+      "Tell the difference between a caterpillar and a chrysalis.",
+      "Find a butterfly egg or caterpillar in your garden.",
+      "Describe how a caterpillar eats and grows.",
+      "Use the new words for the parts of a butterfly.",
+      "Watch a butterfly safely and let it go."
+    ],
     "sections": [
       {
         "body": "A butterfly is an insect with big, bright wings. It drinks sweet flower juice with a long tongue.\n\nEvery butterfly starts life as a tiny egg. The egg rests on a leaf, often under it. Then something small and hungry hatches out.\n\nThat little creature is a **caterpillar**. It eats leaves and grows very fast. In a few weeks it becomes too big for its old skin.\n\nThen the caterpillar makes a soft case around itself and hides inside. Inside the case, its body changes in an amazing way.\n\nWhen the case splits open, a butterfly comes out. Its wings are soft and wet at first. It hangs still and lets them dry.\n\nThis whole journey has a name. It is called a **life cycle**. The butterfly grows, changes, and one day lays eggs of its own.\n\nButterflies are not strong flyers when they leave. Their wings must harden in the sun before they can fly well.",
@@ -29,7 +61,7 @@
         "type": "definition"
       },
       {
-        "body": "Look closely at a butterfly and you cannot see where the caterpillar went. But if you watch from the start, the four stages are easy to spot.\n\nStage one: the egg. The female butterfly lays her eggs on a plant. She chooses the right plant, because that is what the baby will eat. The egg is so small that you may need to look for it with care. Some eggs are green, some white, some golden.\n\nStage two: the caterpillar. The egg hatches into a larva, which is another word for caterpillar. It eats almost all the time. It grows, and then it sheds its skin and grows more. A caterpillar may shed its skin four or five times.\n\nStage three: the chrysalis. When the caterpillar is big enough, it finds a safe place. It makes a case for itself called a **pupa**. For a butterfly, this case is called a chrysalis. It often hangs from a leaf or a twig. Inside, the caterpillar melts into a liquid and builds its new body. This is the strangest part of the whole journey.\n\nStage four: the butterfly. The chrysalis turns clear and thin. The butterfly pushes out and hangs from the empty shell. Its wings fold and hang like wet cloth. After a short rest, it opens them and tests them in the sun.\n\nThen the whole cycle begins again.",
+        "body": "Look closely at a butterfly and you cannot see where the caterpillar went. But if you watch from the start, the four stages are easy to spot.\n\n**Stage one: the egg.** The female butterfly lays her eggs on a plant. She chooses the right plant, because that is what the baby will eat. The egg is so small that you may need to look for it with care. Some eggs are green, some white, some golden.\n\n**Stage two: the caterpillar.** The egg hatches into a larva, which is another word for caterpillar. It eats almost all the time. It grows, and then it sheds its skin and grows more. A caterpillar may shed its skin four or five times.\n\n**Stage three: the chrysalis.** When the caterpillar is big enough, it finds a safe place. It makes a case for itself called a **pupa**. For a butterfly, this case is called a chrysalis. It often hangs from a leaf or a twig. Inside, the caterpillar melts into a liquid and builds its new body. This is the strangest part of the whole journey.\n\n**Stage four: the butterfly.** The chrysalis turns clear and thin. The butterfly pushes out and hangs from the empty shell. Its wings fold and hang like wet cloth. After a short rest, it opens them and tests them in the sun.\n\nThen the whole cycle begins again.",
         "examples": [
           "The eggs are green and tiny, on the underside of a leaf.",
           "The caterpillar sheds its skin and gets bigger.",
@@ -57,7 +89,7 @@
         "type": "steps"
       },
       {
-        "body": "These are the words you will need when you talk about butterflies.\n\nA **life cycle** is the whole journey of an animal, from egg to adult and back to eggs again.\n\nA **larva** is the young stage. For a butterfly it is the caterpillar. For a frog it is called a tadpole.\n\nA **pupa** is the resting stage. A butterfly's pupa is called a chrysalis. A moth's pupa is called a cocoon.\n\nMetamorphosis means a big change of shape. A butterfly changes its whole body as it grows.\n\nAntennae are the two thin feelers on a butterfly's head. They help it smell flowers and find a partner.\n\nNectar is the sweet juice inside a flower. Butterflies drink it with a long tube mouth called a proboscis.",
+        "body": "These are the words you will need when you talk about butterflies.\n\nA **life cycle** is the whole journey of an animal, from egg to adult and back to eggs again.\n\nA **larva** is the young stage. For a butterfly it is the caterpillar. For a frog it is called a tadpole.\n\nA **pupa** is the resting stage. A butterfly's pupa is called a chrysalis. A moth's pupa is called a cocoon.\n\n**Metamorphosis** means a big change of shape. A butterfly changes its whole body as it grows.\n\n**Antennae** are the two thin feelers on a butterfly's head. They help it smell flowers and find a partner.\n\n**Nectar** is the sweet juice inside a flower. Butterflies drink it with a long tube mouth called a proboscis.",
         "heading": "The words about butterflies, one by one",
         "terms": [
           {

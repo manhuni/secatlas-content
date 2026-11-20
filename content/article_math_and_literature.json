@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "8165f264af913dba70bf94d73f3593b1081c7de94fd516287893a748b7671081"
+    "8165f264af913dba70bf94d73f3593b1081c7de94fd516287893a748b7671081",
+    "d62c7d4688e5b0cccd5fd3b65a792c8ab67df6f1c424f5035a9d28b5ddbd4d5d",
+    "f0e6a403b49d8514d9cad0d1fe1000e58b8d730fb61d2fd36a16f58a9882b026",
+    "f576476fc0f57ccbcdf87aef5ba8c14ca16c25fa60004ed0c898d5bf17d05750"
   ],
   "item": {
     "addedAt": "2026-11-17",
@@ -11,12 +14,39 @@
     "media": {
       "audio": [],
       "cover": "asset://8165f264af913dba70bf94d73f3593b1081c7de94fd516287893a748b7671081",
-      "gallery": [],
+      "gallery": [
+        {
+          "caption": "Two columns: the machine of mathematics and the machine of literature.",
+          "kind": "image",
+          "source": "asset://d62c7d4688e5b0cccd5fd3b65a792c8ab67df6f1c424f5035a9d28b5ddbd4d5d",
+          "title": "Two ways of reasoning"
+        },
+        {
+          "caption": "A proof can be checked step by step; a story is checked against what people do.",
+          "kind": "image",
+          "source": "asset://f576476fc0f57ccbcdf87aef5ba8c14ca16c25fa60004ed0c898d5bf17d05750",
+          "title": "A proof and a story"
+        },
+        {
+          "caption": "The number decides, the story explains why the number matters.",
+          "kind": "image",
+          "source": "asset://f0e6a403b49d8514d9cad0d1fe1000e58b8d730fb61d2fd36a16f58a9882b026",
+          "title": "Moving from one mode to the other"
+        }
+      ],
       "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Describe the two ways of thinking and the promise each one makes about its conclusion.",
+      "Explain the machine of mathematics: axioms, definitions, deduction and the proof.",
+      "Explain the machine of literature: model, plausibility, perspective and ambiguity.",
+      "Separate an error of deduction from an error of premise.",
+      "Use the two modes side by side to choose the right check for a question.",
+      "Move between the two modes with six steps, from a certain fact to a decision a person can act on.",
+      "Write one sentence in the register of the analyst and one in the register of the writer."
+    ],
     "relatedTopicIds": [
       "math_linear_eq",
       "article_illusion_knowledge"
@@ -203,7 +233,7 @@
         "type": "steps"
       },
       {
-        "body": "The number decides; the story makes people act. A team that has only the number has an answer and no movement. A team that has only the story has movement and no answer. The work needs both, and each one does the job the other cannot.\n\nWriting a specification is mathematics. The words are defined, the steps are in order, and a reader who follows them gets the same machine you got. Explaining why the specification matters is literature. The reader has to see their own work inside it, or the specification stays on the shelf.\n\nPut the number first when the question is a fact. Put the story first when the question is a decision. A price, a lead time, a tolerance: lead with the figure. A new shift, a new tool, a new procedure: lead with the reason, because the reader has to want it before the detail matters.",
+        "body": "**The number decides; the story makes people act.** A team that has only the number has an answer and no movement. A team that has only the story has movement and no answer. The work needs both, and each one does the job the other cannot.\n\nWriting a specification is mathematics. The words are defined, the steps are in order, and a reader who follows them gets the same machine you got. Explaining why the specification matters is literature. The reader has to see their own work inside it, or the specification stays on the shelf.\n\n**Put the number first when the question is a fact. Put the story first when the question is a decision.** A price, a lead time, a tolerance: lead with the figure. A new shift, a new tool, a new procedure: lead with the reason, because the reader has to want it before the detail matters.",
         "calloutKind": "tip",
         "examples": [
           "The number decides; the story makes people act.",

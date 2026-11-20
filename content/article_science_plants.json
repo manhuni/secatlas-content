@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "d329d0186b648d1532dcd8bb518ff09dd5d1bce16da9088a6867d648dda1b13b"
+    "4da2d8675a1518637f3333fd145637c7e3b24bbfeeebacf7d480549670329f56",
+    "89cf5fc4f975a919d38a85d5da8f8e5588202a8226ce2dbe4275265049c67f52",
+    "d329d0186b648d1532dcd8bb518ff09dd5d1bce16da9088a6867d648dda1b13b",
+    "f85452642212443063ead4efa530fa58b71d9d37cfea2f398460fec419440215"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,35 @@
     "media": {
       "audio": [],
       "cover": "asset://d329d0186b648d1532dcd8bb518ff09dd5d1bce16da9088a6867d648dda1b13b",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "Root down, shoot up, leaves open.",
+          "kind": "image",
+          "source": "asset://4da2d8675a1518637f3333fd145637c7e3b24bbfeeebacf7d480549670329f56",
+          "title": "A seed waking up and growing"
+        },
+        {
+          "caption": "Roots, stem, leaves, flower and fruit.",
+          "kind": "image",
+          "source": "asset://f85452642212443063ead4efa530fa58b71d9d37cfea2f398460fec419440215",
+          "title": "The parts of a plant"
+        }
+      ],
+      "images": [
+        "asset://4da2d8675a1518637f3333fd145637c7e3b24bbfeeebacf7d480549670329f56",
+        "asset://89cf5fc4f975a919d38a85d5da8f8e5588202a8226ce2dbe4275265049c67f52"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Say that every plant starts life as a seed.",
+      "Name the parts of a plant and say what each one does.",
+      "Explain that roots take in water and hold the plant in the ground.",
+      "Explain that leaves use light, water and air to make food.",
+      "Grow a seed and record what happens each day.",
+      "Explain why a plant without light or water does not grow well."
+    ],
     "sections": [
       {
         "body": "A plant is a living thing that makes its own food. You and I eat food. Plants build theirs from sunlight.\n\nEvery plant has the same main parts. The **roots** hold it in the soil and drink up water and minerals. The **stem** holds the plant up and carries water up from the roots. The **leaves** catch the sunlight. Flowers make seeds for the next plant. Fruit holds the seeds.\n\nAll of these parts are made of cells. A cell is one of the tiny building blocks that everything living is made of. Plants make new cells all the time, and that is what growing means.\n\nPlants grow in two ways at once. They get taller, and they get wider. A tree gets taller at its tips and thicker at its base.\n\nHere is the honest secret about plants: they do not hurry. A bean seed can sit in a drawer for a year and still grow when it finds water and warmth. The building is already packed inside the seed. All the seed needs is a wake-up call.",
@@ -62,7 +88,7 @@
         "type": "callout"
       },
       {
-        "body": "These are the words you need when you look closely at a plant.\n\nRoots are the underground part. They anchor the plant and drink water and minerals from the soil.\n\nThe **stem** holds the plant up. It carries water up from the roots and food down to the roots.\n\nLeaves are the food factories. Their green colour comes from chlorophyll, the stuff that catches sunlight.\n\nPhotosynthesis is the making of food. The leaf takes water from the stem, carbon dioxide from the air, and light from the Sun, and it makes sugar. The plant uses the sugar and gives out oxygen for us to breathe.",
+        "body": "These are the words you need when you look closely at a plant.\n\n**Roots** are the underground part. They anchor the plant and drink water and minerals from the soil.\n\nThe **stem** holds the plant up. It carries water up from the roots and food down to the roots.\n\n**Leaves** are the food factories. Their green colour comes from chlorophyll, the stuff that catches sunlight.\n\n**Photosynthesis** is the making of food. The leaf takes water from the stem, carbon dioxide from the air, and light from the Sun, and it makes sugar. The plant uses the sugar and gives out oxygen for us to breathe.",
         "examples": [
           "The roots drink the water up from the soil.",
           "The stem carries the water up to the leaves.",

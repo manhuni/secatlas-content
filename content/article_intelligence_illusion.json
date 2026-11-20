@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "004547057e94621259c8f57144fc0f7551c19f5dc39a3c3f815ea3abf2120aaf"
+    "004547057e94621259c8f57144fc0f7551c19f5dc39a3c3f815ea3abf2120aaf",
+    "2f912f42530126cb869a0321d7eb6688fa315cc4a03c88cc3ec7da7c7af82f9e",
+    "4abdc4f02fcb430891c9ee78613174e17955839656f2d146a729a1d979a8cc73",
+    "6a63d8b7e0b2da6a881e97b4019dc3667c5659f2bdff4ba1fd50e899e1b6a9e6"
   ],
   "item": {
     "addedAt": "2026-11-17",
@@ -11,12 +14,38 @@
     "media": {
       "audio": [],
       "cover": "asset://004547057e94621259c8f57144fc0f7551c19f5dc39a3c3f815ea3abf2120aaf",
-      "gallery": [],
+      "gallery": [
+        {
+          "caption": "A ladder of evidence: from a score on paper to a piece of real work.",
+          "kind": "image",
+          "source": "asset://4abdc4f02fcb430891c9ee78613174e17955839656f2d146a729a1d979a8cc73",
+          "title": "How strong is the evidence?"
+        },
+        {
+          "caption": "The same person can score well in one and fail in the other.",
+          "kind": "image",
+          "source": "asset://2f912f42530126cb869a0321d7eb6688fa315cc4a03c88cc3ec7da7c7af82f9e",
+          "title": "A test and a real job"
+        },
+        {
+          "caption": "A grade is a number under one set of conditions, not a picture of the mind.",
+          "kind": "image",
+          "source": "asset://6a63d8b7e0b2da6a881e97b4019dc3667c5659f2bdff4ba1fd50e899e1b6a9e6",
+          "title": "Reading a report card"
+        }
+      ],
       "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Describe the illusion of intelligence as the reading of a proxy as the ability itself.",
+      "Name the three words of the subject: proxy, evidence and ability.",
+      "Explain what a score measures well, and what it leaves out.",
+      "Compare six kinds of evidence of thinking ability, from weak to strong.",
+      "Use six steps to judge ability from real work instead of from a label.",
+      "Check your own judgement of yourself and of other people before you rate anybody's ability."
+    ],
     "relatedTopicIds": [
       "article_intelligence_nature",
       "article_illusion_skill",
@@ -83,7 +112,7 @@
         "type": "prose"
       },
       {
-        "body": "The score is silent about the things that decide the work. It says nothing about whether the skill travels to a new situation. It says nothing about motivation, or about persistence on the day when the problem is hard. It says nothing about working with other people, and nothing about judgement when the information is incomplete and nobody can be asked.\n\nTransfer of learning is the first of these: the ability to use what you learned in one situation in a different situation. A candidate can answer every question about a procedure and still stop at the first time the procedure differs in any way: another machine, another fault, another order of steps. A score taken in one situation says very little about that.\n\nPractice effect is the second. When a test is taken more than once, the result often rises because the material has been seen before, not because the ability has grown. This is a well established finding in testing, and it changes how a second result should be read. Nerves work in the same way on the day itself: a bad day is not a bad person, and a good day is not a good person. A score always carries the day with it.\n\nNone of this makes a score worthless. It makes a score one measurement of one thing on one day, while a person is much larger than that. The distance between the two is where the illusion lives.",
+        "body": "The score is silent about the things that decide the work. It says nothing about whether the skill travels to a new situation. It says nothing about motivation, or about persistence on the day when the problem is hard. It says nothing about working with other people, and nothing about judgement when the information is incomplete and nobody can be asked.\n\n**Transfer of learning** is the first of these: the ability to use what you learned in one situation in a different situation. A candidate can answer every question about a procedure and still stop at the first time the procedure differs in any way: another machine, another fault, another order of steps. A score taken in one situation says very little about that.\n\n**Practice effect** is the second. When a test is taken more than once, the result often rises because the material has been seen before, not because the ability has grown. This is a well established finding in testing, and it changes how a second result should be read. Nerves work in the same way on the day itself: a bad day is not a bad person, and a good day is not a good person. A score always carries the day with it.\n\nNone of this makes a score worthless. It makes a score one measurement of one thing on one day, while a person is much larger than that. The distance between the two is where the illusion lives.",
         "examples": [
           "The skill did not transfer: the procedure was the same, the situation was not.",
           "The second result is higher, and the practice effect explains much of it.",

@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "6039217a8ab4ac8a022b08a45d672461b07f672da40014e44fc0fb4ab27d9d30"
+    "54932a52a02bed7543d0c4dc04847e24f3b9cb8a5d15339c594cc7a813e789ef",
+    "6039217a8ab4ac8a022b08a45d672461b07f672da40014e44fc0fb4ab27d9d30",
+    "be489f49dc970f88157f9693acad229b872494bab6f486b7c4a3037c32b2ef15",
+    "c45f5f8a8ee1899d50d02829b5e90e798f0f7521ce8644dd820a3379938c1501"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,41 @@
     "media": {
       "audio": [],
       "cover": "asset://6039217a8ab4ac8a022b08a45d672461b07f672da40014e44fc0fb4ab27d9d30",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "Four countries, four first meals of the day.",
+          "kind": "image",
+          "source": "asset://be489f49dc970f88157f9693acad229b872494bab6f486b7c4a3037c32b2ef15",
+          "title": "Breakfasts around the world"
+        },
+        {
+          "caption": "Rice soup, bread, eggs and fruit on the table.",
+          "kind": "image",
+          "source": "asset://c45f5f8a8ee1899d50d02829b5e90e798f0f7521ce8644dd820a3379938c1501",
+          "title": "A breakfast table"
+        },
+        {
+          "caption": "Toasting bread, pouring milk and washing an apple.",
+          "kind": "image",
+          "source": "asset://54932a52a02bed7543d0c4dc04847e24f3b9cb8a5d15339c594cc7a813e789ef",
+          "title": "Making your own breakfast"
+        }
+      ],
+      "images": [
+        "asset://c45f5f8a8ee1899d50d02829b5e90e798f0f7521ce8644dd820a3379938c1501",
+        "asset://54932a52a02bed7543d0c4dc04847e24f3b9cb8a5d15339c594cc7a813e789ef"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Say what breakfast is and why we eat it.",
+      "Name four breakfasts from different countries.",
+      "Use the words breakfast, hungry, cereal, toast and energy.",
+      "Make a simple breakfast on your own.",
+      "Explain why a small breakfast is sometimes enough.",
+      "Know what to eat and drink in the morning."
+    ],
     "sections": [
       {
         "body": "Breakfast is the first meal of the day. You eat it after you wake up. The word comes from two old English words that mean to break the fast. Your body is hungry in the morning, because it had no food all night.\n\nBreakfast gives you **energy**. Energy is the power your body uses to move, to think and to play. In the morning, your body wakes up slowly, and breakfast helps it wake up faster.\n\nBreakfast also gives your brain fuel. A hungry brain cannot concentrate well at school. Many children say they are not hungry in the morning, and then they feel hungry at ten o'clock, in the middle of a lesson.\n\nA good breakfast has three parts. It has **carbohydrates**, which give you energy slowly and for a long time, like bread, rice or noodles. It has **protein**, which helps you grow and keeps you full, like eggs, milk, tofu or beans. And it has **fruit or vegetables**, which give you vitamins and water.\n\nBreakfast can be big or small. Some people eat rice soup, bread and eggs. Some people eat only fruit and milk. Both can be a good breakfast.\n\nAnd breakfast is not only for eating. It is the time your family talks together before the day begins.",
@@ -56,7 +88,7 @@
         "type": "steps"
       },
       {
-        "body": "These are the words you will hear in the morning.\n\nBreakfast is the first meal of the day, eaten after you wake up. It comes from an old English phrase that means to break the fast of the night.\n\nYou are **hungry** when your body wants food. Your tummy feels empty, and your body tells you it needs energy. The word for the feeling is hunger.\n\nCereal is grain that you pour into milk and eat with a spoon. It is quick to make, so many people eat it on busy mornings.\n\nToast is bread that is warmed in a toaster until it is brown and crisp. You often put butter, jam or cheese on it.\n\nEnergy is the power your body uses to move, think and play. Food turns into energy inside you. When you feel tired in the morning, it is often because your body has no energy yet.",
+        "body": "These are the words you will hear in the morning.\n\n**Breakfast** is the first meal of the day, eaten after you wake up. It comes from an old English phrase that means to break the fast of the night.\n\nYou are **hungry** when your body wants food. Your tummy feels empty, and your body tells you it needs energy. The word for the feeling is hunger.\n\n**Cereal** is grain that you pour into milk and eat with a spoon. It is quick to make, so many people eat it on busy mornings.\n\n**Toast** is bread that is warmed in a toaster until it is brown and crisp. You often put butter, jam or cheese on it.\n\n**Energy** is the power your body uses to move, think and play. Food turns into energy inside you. When you feel tired in the morning, it is often because your body has no energy yet.",
         "examples": [
           "I am hungry when I wake up.",
           "The toast is brown and crisp.",

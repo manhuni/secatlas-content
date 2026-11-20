@@ -1,5 +1,8 @@
 {
   "dependencies": [
+    "691e78cb467f6f4bf5637d95571b2e7d292d9da7dea2407b99add90be26e7558",
+    "da3966e24fd63477bad2b1c78e134bf391f32468ea30f4f2de37f306516e2795",
+    "f0c2077dda242f76cf457694ff5aaee46401d4967063f23f8e90cf41f02fb619",
     "f848eb2b1f1d271b82fd37571c86ab9ee75a24cc4ae27e372bb5db4587057e5d"
   ],
   "item": {
@@ -11,12 +14,41 @@
     "media": {
       "audio": [],
       "cover": "asset://f848eb2b1f1d271b82fd37571c86ab9ee75a24cc4ae27e372bb5db4587057e5d",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "From the cow to your glass, in five steps.",
+          "kind": "image",
+          "source": "asset://691e78cb467f6f4bf5637d95571b2e7d292d9da7dea2407b99add90be26e7558",
+          "title": "The journey of milk"
+        },
+        {
+          "caption": "Whole, semi-skimmed, skimmed and long life milk.",
+          "kind": "image",
+          "source": "asset://da3966e24fd63477bad2b1c78e134bf391f32468ea30f4f2de37f306516e2795",
+          "title": "Kinds of milk on the shelf"
+        },
+        {
+          "caption": "Where the milk is made inside the cow.",
+          "kind": "image",
+          "source": "asset://f0c2077dda242f76cf457694ff5aaee46401d4967063f23f8e90cf41f02fb619",
+          "title": "The cow and her udder"
+        }
+      ],
+      "images": [
+        "asset://da3966e24fd63477bad2b1c78e134bf391f32468ea30f4f2de37f306516e2795",
+        "asset://f0c2077dda242f76cf457694ff5aaee46401d4967063f23f8e90cf41f02fb619"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Say where milk comes from.",
+      "Name the parts of a cow that make milk.",
+      "Follow the steps from farm to fridge.",
+      "Say what milk does for your body.",
+      "Choose a kind of milk in the shop.",
+      "Tell someone else how milk is made safe."
+    ],
     "sections": [
       {
         "body": "Milk is a white drink that comes from animals. Cows give us most of the milk we drink. Goats and sheep give us a little, and camels give us milk in hot countries.\n\nMilk is made inside the cow's body. Under her belly, she has a bag called an **udder**. Inside the udder, the cow makes warm milk. The milk flows down to four small parts called teats. A milker or a milking machine takes the milk out.\n\nThe milk goes straight into a cold tank. Cold milk stays fresh longer. Then a truck takes it to a **dairy**. A dairy is a place where people clean milk and pack it for shops.\n\nAt the dairy, the milk is cleaned. It is heated very fast, then cooled very fast. This is called **pasteurising**. It kills tiny germs that could make you ill. The safe milk is poured into bottles, cartons and plastic bags.\n\nA big lorry drives the milk to the shop. The shop worker puts it in the cold fridge. You take a carton home, open it, and pour it into a glass.\n\nThat is a long journey for one glass of milk. A cow eats grass in a field in the morning. By evening, the milk is on a shelf near your house.",
@@ -39,7 +71,7 @@
         "type": "prose"
       },
       {
-        "body": "The milk in your cart is not always the same. Here is how to tell them apart.\n\nWhole milk keeps all the fat. It is thick and creamy, and it tastes milky. It has about 3.5 % fat in it.\n\nSemi-skimmed milk has a little fat taken out. It is the one most families buy. It is lighter than whole milk, but still creamy.\n\nSkimmed milk has nearly all the fat taken out. It looks thin and white. It tastes less creamy, and it has the least fat of all.\n\nLong life milk has been heated to a very high temperature and put in a sealed box. It does not need a fridge until you open it. It is handy for a picnic or a long trip.\n\nFresh milk is not heated much at all. It tastes very fresh. It needs a fridge the whole time.\n\nFlavoured milk has cocoa or fruit added to it. It tastes sweet. It is a treat, not an everyday drink.",
+        "body": "The milk in your cart is not always the same. Here is how to tell them apart.\n\n**Whole milk** keeps all the fat. It is thick and creamy, and it tastes milky. It has about 3.5 % fat in it.\n\n**Semi-skimmed milk** has a little fat taken out. It is the one most families buy. It is lighter than whole milk, but still creamy.\n\n**Skimmed milk** has nearly all the fat taken out. It looks thin and white. It tastes less creamy, and it has the least fat of all.\n\n**Long life milk** has been heated to a very high temperature and put in a sealed box. It does not need a fridge until you open it. It is handy for a picnic or a long trip.\n\n**Fresh milk** is not heated much at all. It tastes very fresh. It needs a fridge the whole time.\n\n**Flavoured milk** has cocoa or fruit added to it. It tastes sweet. It is a treat, not an everyday drink.",
         "examples": [
           "This is whole milk, because the fat is still in it.",
           "We buy semi-skimmed milk for every day.",
@@ -49,7 +81,7 @@
         "type": "prose"
       },
       {
-        "body": "These are the words you will hear when people talk about milk. Here is what each one means.\n\nA **dairy** is the place where milk is cleaned, heated and packed. People who work there are called dairy workers.\n\nAn **udder** is the bag under a cow's body. The milk is made inside it.\n\nPasteurised means the milk was heated to kill germs. Almost all milk in shops is pasteurised.\n\nCalcium is the mineral that makes bones and teeth strong. You find it in milk, cheese and green vegetables.\n\nA **litre** is a measure of liquid. One carton of milk is usually one litre. A **millilitre** is a small bit of a litre. There are 1000 millilitres in one litre.",
+        "body": "These are the words you will hear when people talk about milk. Here is what each one means.\n\nA **dairy** is the place where milk is cleaned, heated and packed. People who work there are called dairy workers.\n\nAn **udder** is the bag under a cow's body. The milk is made inside it.\n\n**Pasteurised** means the milk was heated to kill germs. Almost all milk in shops is pasteurised.\n\n**Calcium** is the mineral that makes bones and teeth strong. You find it in milk, cheese and green vegetables.\n\nA **litre** is a measure of liquid. One carton of milk is usually one litre. A **millilitre** is a small bit of a litre. There are 1000 millilitres in one litre.",
         "examples": [
           "The word dairy means a place that makes milk.",
           "Pasteurised milk is heated so it is safe.",

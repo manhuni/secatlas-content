@@ -1,5 +1,8 @@
 {
   "dependencies": [
+    "46f7352c54a24d17f8192c8bb8bc080326f5059f86ff0260d1b6c95f7fffe0f7",
+    "a5a0da17cb5236521864569f9c64e38e5937a9e1137ba692d0082f46c9b9113b",
+    "b3fb5c0ff7adad21d721a6ee4df934aef5bf151ae9270f500322c7aa270fea5e",
     "edbe10347ba2b721b250b13fe407467fa7a986d00ee075251594900359a10411"
   ],
   "item": {
@@ -11,12 +14,39 @@
     "media": {
       "audio": [],
       "cover": "asset://edbe10347ba2b721b250b13fe407467fa7a986d00ee075251594900359a10411",
-      "gallery": [],
+      "gallery": [
+        {
+          "caption": "The sections of the article, from the currency in law to the cultures of money.",
+          "kind": "image",
+          "source": "asset://b3fb5c0ff7adad21d721a6ee4df934aef5bf151ae9270f500322c7aa270fea5e",
+          "title": "The families of currency"
+        },
+        {
+          "caption": "A price is written in the money of the country, and the money of the country is what the shop takes.",
+          "kind": "image",
+          "source": "asset://a5a0da17cb5236521864569f9c64e38e5937a9e1137ba692d0082f46c9b9113b",
+          "title": "At the counter of a shop"
+        },
+        {
+          "caption": "The value, the issuer, and the promise behind the paper.",
+          "kind": "image",
+          "source": "asset://46f7352c54a24d17f8192c8bb8bc080326f5059f86ff0260d1b6c95f7fffe0f7",
+          "title": "What a note carries"
+        }
+      ],
       "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Define a currency as the money a state issues and backs, and name its issuer, its code and its symbol.",
+      "Explain why one currency name serves many countries, and where a currency union and a currency board begin.",
+      "Read a note or a coin: the value it carries, the issuer behind it, the denomination and the minor unit.",
+      "Describe how money is paid in different places, from a market stall to a taxi, a restaurant and a shop.",
+      "Use the words of the trade — tip, haggle, split the bill, parallel market — in the sentences that go with them.",
+      "Describe what money means in a culture, from the gift of money to the shame of debt.",
+      "Read a price, a note and an unfamiliar currency with a fixed sequence of seven steps."
+    ],
     "relatedTopicIds": [
       "article_what_money_is",
       "article_inflation",
@@ -25,7 +55,7 @@
     ],
     "sections": [
       {
-        "body": "A currency is the money that a state, or a union of states, issues and backs. The euro is issued for the countries of the euro area and is backed by the European Central Bank. The naira is issued by the Central Bank of Nigeria. What makes money the currency of a country is not the paper or the metal; it is the decision of a public authority to stand behind it, and the habit of using it. A currency is two things at once: a promise and a habit.\n\nLegal tender is the money the law accepts as the final payment of a debt. When a shop says it takes legal tender, it means that no court will let the buyer refuse the payment because the note is not his, or because he prefers another form of payment. The protection runs both ways: the law also requires the money to be the right money, and it lets the shop refuse a note that is badly damaged or counterfeit.\n\nEvery currency also carries a name for machines. The **ISO 4217 code** is a set of three letters that names the currency in the standard ISO 4217: USD, EUR, JPY, NGN. A bank, a customs office and an accounting system work with the code, not with the word dollar. Beside the code sits the symbol: the mark that people write and print on a price — $, €, ¥, ₹. The code and the symbol are the labels of the currency; the currency itself is the promise behind them.\n\nTwo things must hold for a currency to work. The state must keep its side of the promise: the money must be redeemable, and the prices must not run away from it. The people must keep theirs: the note must be accepted by the next shop, the next taxi driver and the next employer. The first is law and policy. The second is habit. A currency fails when either side stops.",
+        "body": "A currency is the money that a state, or a union of states, issues and backs. The euro is issued for the countries of the euro area and is backed by the European Central Bank. The naira is issued by the Central Bank of Nigeria. What makes money the currency of a country is not the paper or the metal; it is the decision of a public authority to stand behind it, and the habit of using it. A currency is two things at once: a promise and a habit.\n\n**Legal tender** is the money the law accepts as the final payment of a debt. When a shop says it takes legal tender, it means that no court will let the buyer refuse the payment because the note is not his, or because he prefers another form of payment. The protection runs both ways: the law also requires the money to be the right money, and it lets the shop refuse a note that is badly damaged or counterfeit.\n\nEvery currency also carries a name for machines. The **ISO 4217 code** is a set of three letters that names the currency in the standard ISO 4217: USD, EUR, JPY, NGN. A bank, a customs office and an accounting system work with the code, not with the word dollar. Beside the code sits the symbol: the mark that people write and print on a price — $, €, ¥, ₹. The code and the symbol are the labels of the currency; the currency itself is the promise behind them.\n\nTwo things must hold for a currency to work. The state must keep its side of the promise: the money must be redeemable, and the prices must not run away from it. The people must keep theirs: the note must be accepted by the next shop, the next taxi driver and the next employer. The first is law and policy. The second is habit. A currency fails when either side stops.",
         "examples": [
           "The euro is issued by the European Central Bank and is legal tender across the euro area.",
           "Write USD on the invoice, not the word dollar, so the system reads it.",

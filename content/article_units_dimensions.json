@@ -2,7 +2,9 @@
   "dependencies": [
     "0a0d2cbd16068b7413b2738b0ea13305ba8e8401ddb6258d5719a68e44fe21f5",
     "278ccc53cacd8cddb68cb9de19564713c60c966542c8bb94f3584bf3b33fe070",
+    "649c87136aeab85b91f5242a22a5380671dad4d11e22eea543fc616525c74afd",
     "6bd9e4d350f359e70985eb6a3e6c6355ba5864c6fa2b930a75d28b92acb850fd",
+    "6dfce79c43e492d36262168c0763f8b56be80b5338716501fbb2332a1602af07",
     "83daa0f1346e14780964fb79ffb0c94c6a6e2e051435216ae1a3846e276169bd",
     "c1d7fefbdcd04eb07bd5fe4e7b71a09004cc040c0555c01281a8bce16a6bd5a2",
     "c825a451293cdadfdcda8a8a29ffb30d72e0221277fa94505a2495f2433ef56c",
@@ -17,9 +19,28 @@
     "id": "article_units_dimensions",
     "media": {
       "cover": "asset://6bd9e4d350f359e70985eb6a3e6c6355ba5864c6fa2b930a75d28b92acb850fd",
-      "gallery": []
+      "gallery": [
+        {
+          "caption": "Every derived unit is a product of the base units. Force, for example, is kilogram times metre per second squared.",
+          "kind": "image",
+          "source": "asset://6dfce79c43e492d36262168c0763f8b56be80b5338716501fbb2332a1602af07",
+          "title": "How the seven base units carry every other unit"
+        },
+        {
+          "caption": "Every prefix is a power of ten, and every power of ten is a power of three as well. That is why the ladder has no gaps.",
+          "kind": "image",
+          "source": "asset://649c87136aeab85b91f5242a22a5380671dad4d11e22eea543fc616525c74afd",
+          "title": "The prefix ladder"
+        }
+      ]
     },
-    "objectives": [],
+    "objectives": [
+      "Explain why a measurement needs a unit, and what a dimension is.",
+      "Name the seven SI base units and read their symbols.",
+      "Use prefixes correctly, and say how much each one multiplies.",
+      "Check a formula with dimensional analysis.",
+      "Convert between units without changing what the number means."
+    ],
     "relatedTopicIds": [
       "math_linear_eq"
     ],

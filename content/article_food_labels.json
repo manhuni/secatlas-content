@@ -1,5 +1,9 @@
 {
   "dependencies": [
+    "6611e234720130e2bc94534a2b172e4c73c1427924f584bc8def0716b48a9118",
+    "896c2f5708f2ca65f04f6954c4fdfd72c13e8d9be3b6fc768811fab3b5aa8d81",
+    "8dccae5080268819b913f4deb33a64eade178993f36b8aaea5d2f113fdf90c82",
+    "9a17ba1bff9fb04ef69eeaba3cf28ff1ccbd469aa46768e473024137c762bb06",
     "b97720a1469459a04e84324c06109a10cc3366cdbf56b4a789f43e097fa33ad4"
   ],
   "item": {
@@ -11,12 +15,42 @@
     "media": {
       "audio": [],
       "cover": "asset://b97720a1469459a04e84324c06109a10cc3366cdbf56b4a789f43e097fa33ad4",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "Where to look first, and what each part is for.",
+          "kind": "image",
+          "source": "asset://8dccae5080268819b913f4deb33a64eade178993f36b8aaea5d2f113fdf90c82",
+          "title": "The five parts of a food package"
+        },
+        {
+          "caption": "Date, seal and cold chain.",
+          "kind": "image",
+          "source": "asset://6611e234720130e2bc94534a2b172e4c73c1427924f584bc8def0716b48a9118",
+          "title": "The three checks at the shelf"
+        },
+        {
+          "caption": "Use-by, best-before and the day-month order.",
+          "kind": "image",
+          "source": "asset://9a17ba1bff9fb04ef69eeaba3cf28ff1ccbd469aa46768e473024137c762bb06",
+          "title": "What the codes on the date mean"
+        }
+      ],
+      "images": [
+        "asset://6611e234720130e2bc94534a2b172e4c73c1427924f584bc8def0716b48a9118",
+        "asset://896c2f5708f2ca65f04f6954c4fdfd72c13e8d9be3b6fc768811fab3b5aa8d81"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Read the ingredient list from the heaviest item down.",
+      "Tell a use-by date from a best-before date and act on each one correctly.",
+      "Find the nutrition panel and say what a serving really is.",
+      "Recognise the allergen statements that are printed in bold.",
+      "Check a package for damage, tampering and temperature abuse.",
+      "Ask a shop assistant the right question about a date you do not trust.",
+      "Explain to someone else how to store the food you have just bought."
+    ],
     "sections": [
       {
         "body": "A food package is a legal document. Every word on it is there because a law requires it, and the layout is nearly the same in every country because the rules were written to make the label comparable.\n\nThe front of the package is advertising. It carries the name of the product, the picture, and the claim the maker wants you to buy on. Ignore it for now and turn the package over. The back carries five parts, and they are always in the same order.\n\nFirst the **name of the food**, in the law of the country it was made in. Sometimes the legal name sounds different from the name on the front: a jar that says \"spicy tomato sauce\" on the front may legally be called \"tomato concentrate with added chilli and sugar\" on the back.\n\nSecond the **ingredient list**, in order of weight. The first ingredient is the heaviest thing in the pack, the last is the lightest. This is the single most useful fact on the label, and it is the one people never look at.\n\nThird the **allergen statement**. In most countries the fourteen allergens that can cause a serious reaction are named in the list, sometimes in bold, sometimes in their own box: cereals containing gluten, crustaceans, eggs, fish, peanuts, soya beans, milk, nuts, celery, mustard, sesame, sulphur dioxide and sulphites above 10 mg/kg, lupin, and molluscs.\n\nFourth the **nutrition panel**, giving the energy and the fat, the saturates, the carbohydrate, the sugars, the protein and the salt for a stated amount of the product.\n\nFifth the **date and the storage instruction**, usually on the lid or the base: a use-by date, a best-before date, and the temperature the product has to stay at.\n\nRead them in that order and you know more about a product than most people ever will.",
@@ -62,7 +96,7 @@
         "type": "prose"
       },
       {
-        "body": "These are the words you will meet on the shelf, and what each one actually obliges the maker to do.\n\nPer 100 g is the standard measure that lets you compare two products fairly. **Per serving** is whatever the maker calls a serving, which is convenient for them and unhelpful for you. **Per portion** means the same thing, usually.\n\nkcal is kilocalories: the energy in one gram of fat is nine kilocalories, in a gram of carbohydrate or protein it is four, and in a gram of alcohol it is seven. **kJ** is kilojoules, the same energy in the metric system. One kilocalorie is 4.18 kilojoules.\n\nReference intake is the daily average for an adult. **Daily value** is the American equivalent and is printed on a package sold in the United States.\n\nWhey, skimmed, semi-skimmed and whole describe how much fat was taken out of the milk. **UHT** means ultra-high-temperature treated: heated briefly to make the milk keep without a fridge. **Pasteurised** means heated enough to kill most bacteria. **HACCP** on a fish or meat label is a statement about how the factory controlled contamination, not about the product being better.\n\nTrace means the ingredient is present in an amount too small to be worth measuring, usually under 0.5 %. **May contain** means the same line is used in the factory, so the product may carry traces of it.\n\nFree from is a claim about what is NOT in the product: no gluten, no added sugar, no dairy. It is only as good as the testing behind it.\n\nBest served within and **once opened** are the storage instructions: the second one means the clock starts when you open the jar, not when it was made.",
+        "body": "These are the words you will meet on the shelf, and what each one actually obliges the maker to do.\n\n**Per 100 g** is the standard measure that lets you compare two products fairly. **Per serving** is whatever the maker calls a serving, which is convenient for them and unhelpful for you. **Per portion** means the same thing, usually.\n\n**kcal** is kilocalories: the energy in one gram of fat is nine kilocalories, in a gram of carbohydrate or protein it is four, and in a gram of alcohol it is seven. **kJ** is kilojoules, the same energy in the metric system. One kilocalorie is 4.18 kilojoules.\n\n**Reference intake** is the daily average for an adult. **Daily value** is the American equivalent and is printed on a package sold in the United States.\n\n**Whey, skimmed, semi-skimmed and whole** describe how much fat was taken out of the milk. **UHT** means ultra-high-temperature treated: heated briefly to make the milk keep without a fridge. **Pasteurised** means heated enough to kill most bacteria. **HACCP** on a fish or meat label is a statement about how the factory controlled contamination, not about the product being better.\n\n**Trace** means the ingredient is present in an amount too small to be worth measuring, usually under 0.5 %. **May contain** means the same line is used in the factory, so the product may carry traces of it.\n\n**Free from** is a claim about what is NOT in the product: no gluten, no added sugar, no dairy. It is only as good as the testing behind it.\n\n**Best served within** and **once opened** are the storage instructions: the second one means the clock starts when you open the jar, not when it was made.",
         "heading": "The words on a label, one by one",
         "terms": [
           {
@@ -131,7 +165,7 @@
         "type": "prose"
       },
       {
-        "body": "A date is a promise about the future, and the promise only holds if the storage rules were followed.\n\nKeep refrigerated below 5 °C is the standard for anything fresh. Domestic fridges are usually colder than that at the back and warmer in the door, so keep milk, meat and opened jars away from the door and never in the vegetable drawer, which is the warmest place in the box.\n\nKeep frozen means minus 18 °C or colder. A freezer that holds a bag of frozen peas is the test: if the peas are solid, the temperature is right.\n\nStore in a cool, dry place away from direct sunlight is the instruction for oil, flour, biscuits, tinned food and anything in glass. Heat and light are what spoil the fat and fade the colour.\n\nOnce opened, keep refrigerated and use within three days is the most common instruction in the world, and it is the one most often ignored. A jar of pesto, a pack of cooked rice and a tub of hummus all carry it. Write the date on the container when you open it; the date printed on the jar says nothing about the jar in your fridge.\n\nDo not refreeze after thawing is not a quality warning but a safety one, for meat, fish and ready meals. If you have bought too much, freeze it before it thaws, not after.",
+        "body": "A date is a promise about the future, and the promise only holds if the storage rules were followed.\n\n**Keep refrigerated below 5 °C** is the standard for anything fresh. Domestic fridges are usually colder than that at the back and warmer in the door, so keep milk, meat and opened jars away from the door and never in the vegetable drawer, which is the warmest place in the box.\n\n**Keep frozen** means minus 18 °C or colder. A freezer that holds a bag of frozen peas is the test: if the peas are solid, the temperature is right.\n\n**Store in a cool, dry place away from direct sunlight** is the instruction for oil, flour, biscuits, tinned food and anything in glass. Heat and light are what spoil the fat and fade the colour.\n\n**Once opened, keep refrigerated and use within three days** is the most common instruction in the world, and it is the one most often ignored. A jar of pesto, a pack of cooked rice and a tub of hummus all carry it. Write the date on the container when you open it; the date printed on the jar says nothing about the jar in your fridge.\n\n**Do not refreeze after thawing** is not a quality warning but a safety one, for meat, fish and ready meals. If you have bought too much, freeze it before it thaws, not after.",
         "examples": [
           "Once opened, keep it in the fridge and use it within three days.",
           "I wrote the date on the tub when I opened it."

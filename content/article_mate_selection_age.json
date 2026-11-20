@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "6dbb2540db24f143f29fb2334bcec4dec2aa28047e7cab2d6d8bea70938a6510"
+    "0a1d67d256aaed858767fc0b3ae2cf96199919ffacc911236a5b9db697838de4",
+    "0ed21d4fe50d49e044639144cdd1acb44f2488ee160f37f37d1d25d42478506f",
+    "6dbb2540db24f143f29fb2334bcec4dec2aa28047e7cab2d6d8bea70938a6510",
+    "8f7199f7922c99e735dcf9ee811c3a0df3fc393838fbb59beded2b9d14450964"
   ],
   "item": {
     "addedAt": "2026-11-18",
@@ -11,12 +14,38 @@
     "media": {
       "audio": [],
       "cover": "asset://6dbb2540db24f143f29fb2334bcec4dec2aa28047e7cab2d6d8bea70938a6510",
-      "gallery": [],
+      "gallery": [
+        {
+          "caption": "Five columns, one for each part of the article: what mate selection is, how people choose, where age preferences come from, the words of the subject, and the comparisons that matter in a conversation.",
+          "kind": "image",
+          "source": "asset://0a1d67d256aaed858767fc0b3ae2cf96199919ffacc911236a5b9db697838de4",
+          "title": "The map of the article"
+        },
+        {
+          "caption": "The list a person gives in an interview and the behaviour that follows it are two different things.",
+          "kind": "image",
+          "source": "asset://0ed21d4fe50d49e044639144cdd1acb44f2488ee160f37f37d1d25d42478506f",
+          "title": "The list and the choice"
+        },
+        {
+          "caption": "A range with a lower and an upper bound, and the gap between two people's ages in the middle.",
+          "kind": "image",
+          "source": "asset://8f7199f7922c99e735dcf9ee811c3a0df3fc393838fbb59beded2b9d14450964",
+          "title": "An age range on a page"
+        }
+      ],
       "images": [],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Define mate selection and tell attraction, preference and decision apart.",
+      "Describe how proximity, similarity and conversation shape who people actually meet.",
+      "Explain where age preferences come from, and name the mechanisms that can produce an age gap.",
+      "Tell a stated preference from a revealed one, and read the direction and the size of an age gap.",
+      "Separate deal-breakers from preferences, and name the trade-offs in your own choice.",
+      "Use plain sentences to talk about types, about age, and about what matters to you."
+    ],
     "relatedTopicIds": [
       "article_dating_expressions",
       "article_boundaries",
@@ -24,7 +53,7 @@
     ],
     "sections": [
       {
-        "body": "Mate selection is the process of choosing a partner. The word covers everything from the first moment of interest to the last decision to build a life with somebody. It is a process and not a single event: it can take weeks or years, it can be decided in an afternoon, and it can also end without a decision at all. Where the subject is studied, it is studied as a process with parts, because the parts can be checked separately and they do not always point the same way.\n\nThree words have to be kept apart, because English uses them almost interchangeably. **Attraction** is the pull towards somebody: it is felt, it arrives fast, and it says nothing about the future. A **preference** is what a person says they want before any particular person appears: it is stated, it can be examined, and it can be wrong. A **decision** is the act of choosing one person out of the people who are actually available. A person can be attracted to somebody outside every preference they hold, and can prefer somebody they never choose.\n\nThis is why the distance between what a person looks for and what a person chooses matters more than either list on its own. A person looks for a set of qualities: a shared language, a shared way of working, a certain kind of humour, a family they can sit with. A person then chooses one individual, in one week, out of the people they actually meet. The list is a description of a wish. The choice is a decision made under conditions, and the conditions — the people you see, the time you have, the money you have — are not yours to choose alone.\n\nThis article gives you three things: the mechanism of the choice, the vocabulary other people use when they describe it, and a short procedure you can run on your own preferences. It does not tell you what kind of partner to look for, and it does not claim that one answer is better than another.",
+        "body": "**Mate selection** is the process of choosing a partner. The word covers everything from the first moment of interest to the last decision to build a life with somebody. It is a process and not a single event: it can take weeks or years, it can be decided in an afternoon, and it can also end without a decision at all. Where the subject is studied, it is studied as a process with parts, because the parts can be checked separately and they do not always point the same way.\n\nThree words have to be kept apart, because English uses them almost interchangeably. **Attraction** is the pull towards somebody: it is felt, it arrives fast, and it says nothing about the future. A **preference** is what a person says they want before any particular person appears: it is stated, it can be examined, and it can be wrong. A **decision** is the act of choosing one person out of the people who are actually available. A person can be attracted to somebody outside every preference they hold, and can prefer somebody they never choose.\n\nThis is why the distance between what a person looks for and what a person chooses matters more than either list on its own. A person looks for a set of qualities: a shared language, a shared way of working, a certain kind of humour, a family they can sit with. A person then chooses one individual, in one week, out of the people they actually meet. The list is a description of a wish. The choice is a decision made under conditions, and the conditions — the people you see, the time you have, the money you have — are not yours to choose alone.\n\nThis article gives you three things: the mechanism of the choice, the vocabulary other people use when they describe it, and a short procedure you can run on your own preferences. It does not tell you what kind of partner to look for, and it does not claim that one answer is better than another.",
         "examples": [
           "Attraction is what you feel; preference is what you say; the decision is what you do.",
           "The list is a wish, and the choice is made under conditions.",
@@ -57,7 +86,7 @@
         "type": "definition"
       },
       {
-        "body": "In an interview, people give a clean list of reasons: looks, conversation, shared values, a sense of humour, work that feels useful, a family they get on with. The list is usually short, usually sensible, and usually sorted by importance. The behaviour is less tidy. When the two are compared, the behaviour is the better guide, because behaviour is what happened and a list is only what a person was willing to say.\n\nFour forces do most of the work. **Proximity** comes first: who is physically near you, in the same building, on the same shift, in the same class, at the same hour of the day. People do not choose from the whole population; they choose from the people they see. The second force is similarity — people tend to end up with people who resemble them in some way, in background, in work, in values, in the way they spend an evening. The third is conversation: whether two people can talk easily for an hour is a practical test that many people apply without naming it. The fourth is time: how long you have known each other, and how often you meet.\n\nThe people you can actually choose from form your **choice set**. It is a small set, and it is made of your life: your work, your street, your friends' friends, your family, your habits. A preference you never act on costs nothing. A preference you cannot act on, because the person is not in your choice set, is not a preference at work — it is a wish about somebody who does not exist in your week. This is the part people rarely check, because the choice set feels like the whole world while you are inside it.\n\nCourtship is the period in which two people find out what the other one is like. It has its own timetable: first meetings, then hours together, then the first small problem that has to be handled. Some people end a courtship early, because the first meetings answered the question. Others take much longer, because the question they are answering needs more evidence. The length of a courtship is not a measure of interest. It is a measure of how much the two people need to know before they can decide.",
+        "body": "In an interview, people give a clean list of reasons: looks, conversation, shared values, a sense of humour, work that feels useful, a family they get on with. The list is usually short, usually sensible, and usually sorted by importance. The behaviour is less tidy. When the two are compared, the behaviour is the better guide, because behaviour is what happened and a list is only what a person was willing to say.\n\nFour forces do most of the work. **Proximity** comes first: who is physically near you, in the same building, on the same shift, in the same class, at the same hour of the day. People do not choose from the whole population; they choose from the people they see. The second force is similarity — people tend to end up with people who resemble them in some way, in background, in work, in values, in the way they spend an evening. The third is conversation: whether two people can talk easily for an hour is a practical test that many people apply without naming it. The fourth is time: how long you have known each other, and how often you meet.\n\nThe people you can actually choose from form your **choice set**. It is a small set, and it is made of your life: your work, your street, your friends' friends, your family, your habits. A preference you never act on costs nothing. A preference you cannot act on, because the person is not in your choice set, is not a preference at work — it is a wish about somebody who does not exist in your week. This is the part people rarely check, because the choice set feels like the whole world while you are inside it.\n\n**Courtship** is the period in which two people find out what the other one is like. It has its own timetable: first meetings, then hours together, then the first small problem that has to be handled. Some people end a courtship early, because the first meetings answered the question. Others take much longer, because the question they are answering needs more evidence. The length of a courtship is not a measure of interest. It is a measure of how much the two people need to know before they can decide.",
         "examples": [
           "Proximity decides who is available; similarity decides who stays in the frame.",
           "Your choice set is the people you actually meet, not everybody you can picture.",
@@ -132,7 +161,7 @@
         "type": "prose"
       },
       {
-        "body": "Four words carry most of the practical meaning. The first is the **deal-breaker**: a quality whose absence ends the possibility, as opposed to a quality that only lowers the score. Most people have very few of them, and they are worth finding out, because a deal-breaker saves the time a preference wastes. A second set of words sits in the middle: a quality you would like, that you can live without, and that you notice is missing.\n\nCompatibility is the word for how well two people fit together in ordinary life. It is not the same as chemistry, which is felt at once, and it is not the same as agreement about values. It is closer to pace: who calls when, how money is discussed, whether a quiet evening is restful or empty. Compatibility shows up in small repeated situations, which is why it is often visible before the big subjects are.\n\nReadiness is the state of being ready to be in a relationship: the free time, the money, the emotional state, the sense of what the relationship would cost. Readiness is a state and not a character. A person can be ready this year and not ready next year, and the same person can be ready for one relationship and not for another. It is also the word that separates a wish from a plan.\n\nThe last word is a **trade-off**: what you give up in order to get something else that you want more. Trade-offs are ordinary in this subject, because no partner carries every quality at once. Waiting longer for a better fit costs years. Choosing a person nearby costs some of the range. Saying what matters to you early costs a little ease. Naming a trade-off is not a verdict on the choice; it is how two people find out whether they are making the same one.",
+        "body": "Four words carry most of the practical meaning. The first is the **deal-breaker**: a quality whose absence ends the possibility, as opposed to a quality that only lowers the score. Most people have very few of them, and they are worth finding out, because a deal-breaker saves the time a preference wastes. A second set of words sits in the middle: a quality you would like, that you can live without, and that you notice is missing.\n\n**Compatibility** is the word for how well two people fit together in ordinary life. It is not the same as chemistry, which is felt at once, and it is not the same as agreement about values. It is closer to pace: who calls when, how money is discussed, whether a quiet evening is restful or empty. Compatibility shows up in small repeated situations, which is why it is often visible before the big subjects are.\n\n**Readiness** is the state of being ready to be in a relationship: the free time, the money, the emotional state, the sense of what the relationship would cost. Readiness is a state and not a character. A person can be ready this year and not ready next year, and the same person can be ready for one relationship and not for another. It is also the word that separates a wish from a plan.\n\nThe last word is a **trade-off**: what you give up in order to get something else that you want more. Trade-offs are ordinary in this subject, because no partner carries every quality at once. Waiting longer for a better fit costs years. Choosing a person nearby costs some of the range. Saying what matters to you early costs a little ease. Naming a trade-off is not a verdict on the choice; it is how two people find out whether they are making the same one.",
         "examples": [
           "A deal-breaker ends it; a preference only lowers the score.",
           "Compatibility shows up in the small repeated situations.",

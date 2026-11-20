@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "1ee381d879ca0a52f060794a7db7a67b9a63d5924d9684e66bd183df0119572b"
+    "1ee381d879ca0a52f060794a7db7a67b9a63d5924d9684e66bd183df0119572b",
+    "2bd54996fa9a7ab6aab0b8fb02c7aff56ff4727a552e2172719a18fa36547101",
+    "3cf3ab6c763fa0aaa77fc7ec6bcc4cfb10e50969df912076617513ba68012eb6",
+    "8c6031293fcd6e1ffd7559694cc5f663dbcc65851a71c79844150edde32feeb7"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,41 @@
     "media": {
       "audio": [],
       "cover": "asset://1ee381d879ca0a52f060794a7db7a67b9a63d5924d9684e66bd183df0119572b",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "What we will talk about, from wings to the cockpit.",
+          "kind": "image",
+          "source": "asset://2bd54996fa9a7ab6aab0b8fb02c7aff56ff4727a552e2172719a18fa36547101",
+          "title": "The six things in this article"
+        },
+        {
+          "caption": "Air moving over and under the wing.",
+          "kind": "image",
+          "source": "asset://8c6031293fcd6e1ffd7559694cc5f663dbcc65851a71c79844150edde32feeb7",
+          "title": "How the wings work"
+        },
+        {
+          "caption": "From the gate to the sky and back.",
+          "kind": "image",
+          "source": "asset://3cf3ab6c763fa0aaa77fc7ec6bcc4cfb10e50969df912076617513ba68012eb6",
+          "title": "A day at the airport"
+        }
+      ],
+      "images": [
+        "asset://8c6031293fcd6e1ffd7559694cc5f663dbcc65851a71c79844150edde32feeb7",
+        "asset://3cf3ab6c763fa0aaa77fc7ec6bcc4cfb10e50969df912076617513ba68012eb6"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Explain why an airplane stays up in the air.",
+      "Name the main parts of an airplane and say what each one does.",
+      "Tell the four forces that act on a flying airplane.",
+      "Describe what happens between the gate and take-off.",
+      "Use the words lift, thrust, drag and gravity correctly.",
+      "Stay safe near an airport."
+    ],
     "sections": [
       {
         "body": "An airplane is a machine that carries people and cargo through the air. It has a long body, two big wings, a tail and some engines.\n\nA plane is heavy. A big plane carries hundreds of people, and that weight is many tonnes. Yet it flies. How can something so heavy stay up in the air?\n\nThe answer is the **wing**. The shape of a wing is called an **airfoil**. When a plane moves forward, air flows over the top of the wing and around the bottom. The wing pushes some of that air down, and the air pushes back up on the wing. That upward push is called **lift**.\n\nLift is strong enough to hold up the whole plane. The wings are wide and long so there is lots of surface for the air to push against.\n\nThe engines do the pushing forward. The engines pull air backwards and push it away, and the plane moves forward. That is called **thrust**.\n\nA plane keeps going because the wings keep making lift while the engines keep making thrust. It also has to fight the air that tries to slow it down. That slowing force is called **drag**.\n\nAnd the whole time, the Earth pulls the plane down. That pull is called **gravity**. A good airplane is one where lift beats gravity, and thrust beats drag.",
@@ -67,7 +99,7 @@
         "type": "steps"
       },
       {
-        "body": "These are the words you will hear about airplanes.\n\nLift is the upward push on the wings. It holds the plane up in the air.\n\nThrust is the forward push. The engines make it.\n\nDrag is the air pushing back on the plane and trying to slow it down.\n\nGravity is the Earth's pull downwards. It tries to bring the plane down.\n\nAirfoil is the shape of a wing. The curve on top and the flat part underneath are what make lift.\n\nFlaps are moving panels on the back of the wing. They make the wing bigger for take-off and landing, so the plane can go slowly and stay in the air.\n\nTake-off is the moment the wheels leave the ground. **Landing** is the moment they touch down again.",
+        "body": "These are the words you will hear about airplanes.\n\n**Lift** is the upward push on the wings. It holds the plane up in the air.\n\n**Thrust** is the forward push. The engines make it.\n\n**Drag** is the air pushing back on the plane and trying to slow it down.\n\n**Gravity** is the Earth's pull downwards. It tries to bring the plane down.\n\n**Airfoil** is the shape of a wing. The curve on top and the flat part underneath are what make lift.\n\n**Flaps** are moving panels on the back of the wing. They make the wing bigger for take-off and landing, so the plane can go slowly and stay in the air.\n\n**Take-off** is the moment the wheels leave the ground. **Landing** is the moment they touch down again.",
         "heading": "The Words We Use for Flying",
         "terms": [
           {

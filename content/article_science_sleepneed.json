@@ -1,6 +1,9 @@
 {
   "dependencies": [
-    "500d61045ff29a014462d01a9d44cbd91d5b6147bc4efd16a3aef502612b7f2a"
+    "48d43c1c837cab3aa0a8f3d4a3bfff9dccfc0c557fb96bf6c0c9dea0f6851788",
+    "500d61045ff29a014462d01a9d44cbd91d5b6147bc4efd16a3aef502612b7f2a",
+    "93ac1363cf173a5eb60d563cb2747972886261a5bf4e47fe3f2d3800190b7140",
+    "bc968f57ce823a18a075e4ac1c7bb32f9b81d32bf338c606773f835bbc36efcf"
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
@@ -11,12 +14,35 @@
     "media": {
       "audio": [],
       "cover": "asset://500d61045ff29a014462d01a9d44cbd91d5b6147bc4efd16a3aef502612b7f2a",
-      "gallery": [],
-      "images": [],
+      "gallery": [
+        {
+          "caption": "Growing, repairing and tidying up inside.",
+          "kind": "image",
+          "source": "asset://93ac1363cf173a5eb60d563cb2747972886261a5bf4e47fe3f2d3800190b7140",
+          "title": "What your body does while you sleep"
+        },
+        {
+          "caption": "Light sleep, deep sleep and dreaming sleep come in turns.",
+          "kind": "image",
+          "source": "asset://bc968f57ce823a18a075e4ac1c7bb32f9b81d32bf338c606773f835bbc36efcf",
+          "title": "A night of sleep in stages"
+        }
+      ],
+      "images": [
+        "asset://93ac1363cf173a5eb60d563cb2747972886261a5bf4e47fe3f2d3800190b7140",
+        "asset://48d43c1c837cab3aa0a8f3d4a3bfff9dccfc0c557fb96bf6c0c9dea0f6851788"
+      ],
       "links": [],
       "video": []
     },
-    "objectives": [],
+    "objectives": [
+      "Explain that sleep is a time when the body works, not a time when nothing happens.",
+      "Say that children need about 9 to 12 hours of sleep.",
+      "Name the jobs sleep does for the body and the brain.",
+      "Explain that the body has a daily clock that tells you when to sleep.",
+      "Say why bright screens and late drinks make sleep harder.",
+      "Follow a simple bedtime routine."
+    ],
     "sections": [
       {
         "body": "Sleep is not nothing at all. Sleep is when your body does its busiest work of the day.\n\nYour body is always busy. It keeps your heart beating, your lungs breathing, and your brain thinking. But some jobs cannot be done while you are awake and moving around. They need you to be still.\n\nWhen you sleep, your body repairs itself. It fixes small wear and tear in your muscles and grows. That is why children, who are growing fast, need more sleep than grown-ups.\n\nYour brain also does its tidying at night. During the day you learn things: new words, new facts, how to ride a bike. At night your brain sorts them, files them away, and keeps the useful ones. That is why a good night's sleep helps you remember the morning after.\n\nSleep also runs your daily clock. Your body has a rhythm that repeats about every 24 hours. That rhythm tells you when to feel awake and when to feel sleepy. It is called your body clock, or circadian rhythm.\n\nChildren need about 9 to 12 hours of sleep each night. Grown-ups need less. If you miss sleep, you do not fall over. But you get clumsy, bad-tempered, and slow to learn.",
@@ -55,7 +81,7 @@
         "type": "callout"
       },
       {
-        "body": "These are the words you need to talk about sleep.\n\nREM sleep is the part of the night when you dream most. Your brain is busy and your eyes move, but your body is still.\n\nYour **body clock**, also called your circadian rhythm, is the daily rhythm inside you. It tells you when to be awake and when to be sleepy, and it follows the light and dark.\n\nA **dream** is the story your brain makes while you sleep. Some people remember their dreams. Most do not.\n\nMelatonin is the chemical your body makes in the evening to tell you it is time for bed. It rises when the light fades.",
+        "body": "These are the words you need to talk about sleep.\n\n**REM sleep** is the part of the night when you dream most. Your brain is busy and your eyes move, but your body is still.\n\nYour **body clock**, also called your circadian rhythm, is the daily rhythm inside you. It tells you when to be awake and when to be sleepy, and it follows the light and dark.\n\nA **dream** is the story your brain makes while you sleep. Some people remember their dreams. Most do not.\n\n**Melatonin** is the chemical your body makes in the evening to tell you it is time for bed. It rises when the light fades.",
         "examples": [
           "REM sleep is when I dream the most.",
           "My body clock follows the light.",
