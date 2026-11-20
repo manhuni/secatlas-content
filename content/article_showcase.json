@@ -11,7 +11,6 @@
     "536c7db5fd59f6fe68510c6531cf3ba196b56aaee96928b65b393eb3dfe7bd2c",
     "53fe5e9d3cb0ec4959f501dc915233c6b2d8a3947cc9888a0d0ca4b27ec00224",
     "5c51b7d474f763fae20cdd3aaf16c84470d7db80002322cdcb502e1ded603477",
-    "6dc0ae3f3cbb4748d74a600cba726fc960e362c76d96c93e93eeb3d43986dad8",
     "76e632be2239ca8ba7080d5ec3ef7457961b7e75de3c34e8cc4c42e442e0f570",
     "78038222d95831dcb6f0031b796afe9ee3a34f0af901727526438c740f231c4e",
     "7a50dbaacb865576631165a60b55097b2e371e2a96747421ef7d1034267d58d2",
@@ -30,7 +29,7 @@
   ],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
-    "cover": "asset://6dc0ae3f3cbb4748d74a600cba726fc960e362c76d96c93e93eeb3d43986dad8",
+    "cover": "",
     "durationMin": 22,
     "fieldId": "formal_sciences",
     "id": "article_showcase",
@@ -49,7 +48,7 @@
         "asset://7a50dbaacb865576631165a60b55097b2e371e2a96747421ef7d1034267d58d2",
         "asset://53fe5e9d3cb0ec4959f501dc915233c6b2d8a3947cc9888a0d0ca4b27ec00224"
       ],
-      "cover": "asset://6dc0ae3f3cbb4748d74a600cba726fc960e362c76d96c93e93eeb3d43986dad8",
+      "cover": "",
       "diagrams": [
         "asset://474f5707f6c968a7a285fff7c70ae770f3fd73797ee13ab6600dd9559e9ed15c",
         "asset://372c37094e8ca0e96cf9025a5d0f5a2b84cc0ef9c86c396c5151ea24aeba9aba",
@@ -1353,38 +1352,33 @@
       },
       {
         "body": "A note callout sits on a neutral tinted card with an info glyph. Use it for side remarks that do not interrupt the flow.",
-        "calloutKind": "note",
         "heading": "Callout — note",
-        "type": "callout"
+        "type": "prose"
       },
       {
         "body": "A tip callout uses the green primary container. Use it for a faster or better way to do the task.",
-        "calloutKind": "tip",
         "heading": "Callout — tip",
-        "type": "callout"
+        "type": "prose"
       },
       {
         "body": "A caution callout uses the amber warning tint. Use it when a mistake costs time or a retry.",
-        "calloutKind": "caution",
         "heading": "Callout — caution",
-        "type": "callout"
+        "type": "prose"
       },
       {
         "body": "A danger callout uses the red error container. Use it only when a mistake can hurt a person or destroy equipment.",
-        "calloutKind": "danger",
         "heading": "Callout — danger",
-        "type": "callout"
+        "type": "prose"
       },
       {
         "body": "A section typed warning renders on the amber caution card even without a calloutKind, for standards-style safety paragraphs.",
         "heading": "Warning section type",
-        "type": "warning"
+        "type": "prose"
       },
       {
         "body": "In the pack JSON, put locators under media/ inside the zip. A section may list gallery, images, audio, video, links, math, and plots together. A single file is a gallery of one. Many files are a gallery. Live plots are JSON points; pack PNGs are extra stills.",
-        "calloutKind": "note",
         "heading": "Authoring note",
-        "type": "callout"
+        "type": "prose"
       }
     ],
     "summary": "One demo article: cover, stills, galleries, unique audio clips, unique videos, links, math, physics, chemistry, live graphs, and formulas — every locator is a real file in the zip.",

@@ -1,16 +1,14 @@
 {
-  "dependencies": [
-    "1ae4e1dc449f6a33765804feb542083371d6797760a843488e3b91933bb371f7"
-  ],
+  "dependencies": [],
   "item": {
     "addedAt": "2026-11-16T08:00:00Z",
-    "cover": "asset://1ae4e1dc449f6a33765804feb542083371d6797760a843488e3b91933bb371f7",
+    "cover": "",
     "durationMin": 21,
     "fieldId": "mind",
     "id": "article_local_ai",
     "media": {
       "audio": [],
-      "cover": "asset://1ae4e1dc449f6a33765804feb542083371d6797760a843488e3b91933bb371f7",
+      "cover": "",
       "gallery": [],
       "images": [],
       "links": [],
@@ -87,9 +85,8 @@
       },
       {
         "body": "A useful audit for any technology claim of independence: list what breaks if each supplier disappears — the chip maker, the model provider, the app store, the cloud region, the electricity. Whatever has no alternative is a dependence, whatever the label on the box says.",
-        "calloutKind": "tip",
         "heading": "Count your dependencies",
-        "type": "callout"
+        "type": "prose"
       },
       {
         "body": "The useful question is not \"am I independent?\" but \"independent of what, exactly, and at what cost?\" Local AI buys real freedoms: privacy from scanning, resilience against price shocks, the right to modify and audit. Those are worth having and worth defending.\n\nIt does not buy independence from the compute stack, from the physics of chips, or from the knowledge concentrated in a few laboratories. Nobody's laptop contains that independence, at any price.\n\nMature technological autonomy looks like a diversified portfolio rather than a fortress: some local, some hosted, some open, some proprietary — with the knowledge, kept current, of where every piece sits and who can take it away. That knowledge, more than any single tool, is the part of the technology a person can truly own.",

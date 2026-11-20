@@ -1,16 +1,14 @@
 {
-  "dependencies": [
-    "aaec780f2fc2af8dfadb952d17272e73978c5bce69dcd57b80fb11777e250bb2"
-  ],
+  "dependencies": [],
   "item": {
     "addedAt": "2026-11-14T00:00:00Z",
-    "cover": "asset://aaec780f2fc2af8dfadb952d17272e73978c5bce69dcd57b80fb11777e250bb2",
+    "cover": "",
     "durationMin": 21,
     "fieldId": "technology",
     "id": "article_ai_tokens",
     "media": {
       "audio": [],
-      "cover": "asset://aaec780f2fc2af8dfadb952d17272e73978c5bce69dcd57b80fb11777e250bb2",
+      "cover": "",
       "gallery": [],
       "images": [],
       "links": [],
@@ -156,9 +154,8 @@
       },
       {
         "body": "Most complaints about chatbots are about how the request was framed, not about the model. Four habits recover most of the difference. Put the task first, in one sentence, and say what a good answer looks like. Keep the working set small: one document, one question, one task at a time, and ask for the answer in a short form. Bring context with you when you start a new chat, in a fixed template of decisions, open questions and facts to keep. And check the parts that matter: the numbers, the names, the quotations. A model is fast at producing something plausible and slow at confirming it, so the checking stays with you. These four habits work with every model you will meet, including the ones that arrive next year.",
-        "calloutKind": "tip",
         "heading": "Getting more out of the same model",
-        "type": "callout"
+        "type": "prose"
       }
     ],
     "summary": "A chatbot does not read your message; it reads tokens, and the limits on how many tokens it can hold explain most of what feels strange about it. After reading this you can explain what a token is, judge whether a message will fit in the context window, count tokens roughly, write prompts that get better answers, and recognise the moment a long chat has stopped being reliable.",

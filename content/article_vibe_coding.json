@@ -1,16 +1,14 @@
 {
-  "dependencies": [
-    "2afef503ff5f1f2359756ce075650071b2fc35d1ec0f78b09c676c74da88d4c5"
-  ],
+  "dependencies": [],
   "item": {
     "addedAt": "2026-11-16T08:00:00Z",
-    "cover": "asset://2afef503ff5f1f2359756ce075650071b2fc35d1ec0f78b09c676c74da88d4c5",
+    "cover": "",
     "durationMin": 21,
     "fieldId": "mind",
     "id": "article_vibe_coding",
     "media": {
       "audio": [],
-      "cover": "asset://2afef503ff5f1f2359756ce075650071b2fc35d1ec0f78b09c676c74da88d4c5",
+      "cover": "",
       "gallery": [],
       "images": [],
       "links": [],
@@ -87,9 +85,8 @@
       },
       {
         "body": "If AI writes the code and you ship it, the bugs are yours. The law, the app stores, your users and your conscience all assign software to the person or company that published it. 'The AI made it' is not a defense, because you chose the tool, accepted the output, and kept the proceeds.",
-        "calloutKind": "danger",
         "heading": "The responsibility does not transfer",
-        "type": "callout"
+        "type": "prose"
       },
       {
         "body": "The productive way to use AI in programming is not to avoid it but to keep the loop closed: **prompt, read, test, own**. Generate, then read what was generated — actually read it, including the parts you did not ask for. Test beyond the happy path: bad input, empty state, repeat use, a second user.\n\nGrow the system in small pieces a human can hold. When a generated block exceeds what you can explain, stop and reduce until you can. Keep a written record — even a notebook — of why each major piece exists.\n\nUsed this way, AI is the most powerful programming assistant ever built: it removes typing, remembers syntax for you, and drafts the boring eighty percent. What it cannot do is the remaining twenty percent — judgment, responsibility, and the decision about what should exist. That part is still a human job, and it is the part that matters.",

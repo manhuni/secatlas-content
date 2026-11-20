@@ -1,16 +1,14 @@
 {
-  "dependencies": [
-    "23df3aa7095319cbe0cec911e66e42de3806dba9c015941c19f486a5b219fd46"
-  ],
+  "dependencies": [],
   "item": {
     "addedAt": "2026-11-16T08:00:00Z",
-    "cover": "asset://23df3aa7095319cbe0cec911e66e42de3806dba9c015941c19f486a5b219fd46",
+    "cover": "",
     "durationMin": 21,
     "fieldId": "mind",
     "id": "article_ai_agents",
     "media": {
       "audio": [],
-      "cover": "asset://23df3aa7095319cbe0cec911e66e42de3806dba9c015941c19f486a5b219fd46",
+      "cover": "",
       "gallery": [],
       "images": [],
       "links": [],
@@ -87,9 +85,8 @@
       },
       {
         "body": "Agents make production nearly free, which moves the bottleneck to judgment: deciding what is worth making, and checking what was made. Workflows that forget this ship garbage at unprecedented speed. The scarce resource in an agent age is not output — it is attention spent on the right checks.",
-        "calloutKind": "warning",
         "heading": "Speed is not the bottleneck",
-        "type": "callout"
+        "type": "prose"
       },
       {
         "body": "Supervising agents is a learnable craft with recognizable skills. **Specification** matters more than ever: agents do exactly what is written, including the flaws in what is written. **Sampling** replaces exhaustive review: check the outputs where errors are cheapest to catch and most expensive to ship. **Provenance discipline** keeps a record of what each agent did, so that when something is wrong, the fix lands on the step that caused it. And **stopping rules** define when the pipeline must halt and ask a human.\n\nThe people who master this craft will be unreasonably productive, because they combine machine throughput with human judgment. The people who skip it will be busy and embarrassed, discovering their mistakes in public, one shipped artifact at a time.\n\nThere is also a quieter shift. When one person can direct many minds, the definition of a senior professional changes: less about what you can personally produce, more about what you can direct, verify and stand behind. The org chart of the future may list one human and a hundred agents — and the human's job is the oldest one in management: judgment about work done by others.",
