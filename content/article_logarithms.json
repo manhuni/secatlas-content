@@ -1,0 +1,200 @@
+{
+  "dependencies": [
+    "1700f20bb6773e71d9babe03bc026c4a9734d5224f41ff4db8f714cedfc740a8",
+    "1cae6fab95a824887d71a0e9ea271ba64ffe2811ec4774305b064c7a453e434f",
+    "abb6044069c422000d80fb4b37a869b5e1e7f39455d86cce9ddb67c9ed703c26",
+    "aeaf0a1f8b0e8c6efb537294095c881a92d48f5c1ff5f0c8a8dc7b5e24bac2e9"
+  ],
+  "item": {
+    "addedAt": "2026-11-20",
+    "cover": "asset://aeaf0a1f8b0e8c6efb537294095c881a92d48f5c1ff5f0c8a8dc7b5e24bac2e9",
+    "durationMin": 13,
+    "fieldId": "mathematics",
+    "id": "article_logarithms",
+    "media": {
+      "animations": [],
+      "audio": [
+        "asset://1cae6fab95a824887d71a0e9ea271ba64ffe2811ec4774305b064c7a453e434f",
+        "asset://abb6044069c422000d80fb4b37a869b5e1e7f39455d86cce9ddb67c9ed703c26"
+      ],
+      "cover": "asset://aeaf0a1f8b0e8c6efb537294095c881a92d48f5c1ff5f0c8a8dc7b5e24bac2e9",
+      "diagrams": [
+        "asset://1700f20bb6773e71d9babe03bc026c4a9734d5224f41ff4db8f714cedfc740a8",
+        "asset://aeaf0a1f8b0e8c6efb537294095c881a92d48f5c1ff5f0c8a8dc7b5e24bac2e9"
+      ],
+      "gallery": [],
+      "images": [],
+      "links": [
+        {
+          "caption": "Reference article",
+          "kind": "link",
+          "source": "https://en.wikipedia.org/wiki/Logarithm",
+          "title": "Logarithm"
+        }
+      ],
+      "video": []
+    },
+    "objectives": [
+      "Read a logarithm as the inverse of exponentiation.",
+      "Apply the product and power laws of logarithms.",
+      "Explain why log scales cover wide ranges in one picture.",
+      "Compute pH as a logarithm of concentration."
+    ],
+    "relatedTopicIds": [
+      "article_quadratic_equations"
+    ],
+    "sections": [
+      {
+        "audioKey": "asset://1cae6fab95a824887d71a0e9ea271ba64ffe2811ec4774305b064c7a453e434f",
+        "body": "The logarithm of a number to a base is the exponent the base needs to reach it: log_b(x) = y means b^y = x. The common logarithm uses base 10, the natural logarithm uses base e, and both undo exponentiation.\n\n**Logarithms turn multiplication into addition.** That single property made them the engine of calculation for three centuries, and it still drives the decibel, the Richter scale and the pH of a solution.",
+        "heading": "The question a logarithm answers",
+        "math": [
+          "\\log_{b}(xy)=\\log_{b}x+\\log_{b}y",
+          "\\log_{b}(x^{p})=p\\log_{b}x",
+          "\\mathrm{pH}=-\\log_{10}[\\mathrm{H}^{+}]"
+        ],
+        "symbols": [
+          {
+            "label": "log",
+            "meaning": "logarithm, usually base 10",
+            "unicode": "log"
+          },
+          {
+            "label": "ln",
+            "meaning": "the natural logarithm, base e",
+            "unicode": "ln"
+          },
+          {
+            "label": "e",
+            "meaning": "Euler’s number, the base of the natural logarithm",
+            "unicode": "e"
+          }
+        ],
+        "terms": [
+          {
+            "gloss": "The exponent to which a base must be raised to produce a number.",
+            "ipa": "/ˈlɒɡ.ə.rɪð.əm/",
+            "pos": "n.",
+            "term": "logarithm"
+          },
+          {
+            "gloss": "The number that is raised to a power; 10 in log10, e in ln.",
+            "ipa": "/beɪs/",
+            "pos": "n.",
+            "term": "base"
+          },
+          {
+            "gloss": "The power to which a base is raised; the answer a logarithm gives.",
+            "ipa": "/ɪkˈspəʊ.nənt/",
+            "pos": "n.",
+            "term": "exponent"
+          }
+        ],
+        "type": "definition"
+      },
+      {
+        "body": "Two laws carry every computation. The log of a product is the sum of the logs, and the log of a power is the power times the log. Together they reduce any monster of multiplications to a short chain of additions.",
+        "equations": [
+          {
+            "caption": "The product law: multiplication becomes addition.",
+            "id": "product-law",
+            "tex": "\\log_{b}(xy)=\\log_{b}x+\\log_{b}y"
+          },
+          {
+            "caption": "The power law: exponentiation becomes multiplication.",
+            "id": "power-law",
+            "tex": "\\log_{b}(x^{p})=p\\,\\log_{b}x"
+          }
+        ],
+        "heading": "The two laws that carry the work",
+        "steps": [
+          "Write the number as a product of powers of the base.",
+          "Replace each product with a sum of logarithms.",
+          "Replace each power with a multiple of a logarithm.",
+          "Add the terms and read the answer from the log table."
+        ],
+        "type": "prose"
+      },
+      {
+        "body": "Some ranges are too wide for a ruler. The loudness of a whisper and of a jet engine differ by a factor of a trillion; on a linear scale one of them is invisible. A log scale draws each factor of ten as one equal step, and the whole range fits on one line.\n\nRead the vertical axis of the plot as powers of ten: each grid line is ten times the one below it. The curve of y = 10^x becomes a straight climb.",
+        "examples": [
+          "log10(1,000) = 3, because 10^3 = 1,000.",
+          "A solution with [H+] = 10^-7 mol/L has pH = −log10(10^-7) = 7: neutral water."
+        ],
+        "gallery": [
+          {
+            "caption": "A hand-drawn semilog plot of y = 10^x.",
+            "kind": "image",
+            "source": "asset://1700f20bb6773e71d9babe03bc026c4a9734d5224f41ff4db8f714cedfc740a8",
+            "title": "The semilog picture"
+          }
+        ],
+        "heading": "Log scales see wide worlds",
+        "plots": [
+          {
+            "logY": true,
+            "maxX": 9,
+            "minX": 0,
+            "series": [
+              {
+                "name": "y = 10^x",
+                "points": [
+                  [
+                    0,
+                    1
+                  ],
+                  [
+                    1,
+                    10
+                  ],
+                  [
+                    2,
+                    100
+                  ],
+                  [
+                    3,
+                    1000
+                  ],
+                  [
+                    4,
+                    10000
+                  ],
+                  [
+                    5,
+                    100000
+                  ],
+                  [
+                    6,
+                    1000000
+                  ],
+                  [
+                    7,
+                    10000000
+                  ],
+                  [
+                    8,
+                    100000000
+                  ],
+                  [
+                    9,
+                    1000000000
+                  ]
+                ]
+              }
+            ],
+            "title": "One line for nine powers of ten",
+            "type": "line",
+            "xLabel": "x",
+            "yLabel": "y = 10^x"
+          }
+        ],
+        "type": "prose"
+      }
+    ],
+    "summary": "A logarithm answers the question \"how many times do I multiply?\" It turns wide worlds — from the energy of an earthquake to the loudness of a concert — into numbers a person can hold.",
+    "systemId": "algebra",
+    "title": "Logarithms and Log Scales"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

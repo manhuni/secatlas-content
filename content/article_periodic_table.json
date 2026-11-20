@@ -1,0 +1,212 @@
+{
+  "dependencies": [
+    "38b033a7f1f1a9901fd9ca7483de4b461350439d51a0da0aede2b71fee07dd5f",
+    "86e5fa653ef16b5a158d948dfcfb689277d82678af0a2c49ef5d519598d8838f",
+    "90f92b845b9205106550d5ba671b4ed5203fd0d047e9a0ee0c81cdc37dd3cf8a",
+    "aee2527243d2432a6fad0f281365467faad2ab49ac63cb4067e754a4039714aa",
+    "af028864396f68ee8dbc838a7c76568ba651959bf62bd5f155820ba939db21e8",
+    "bb486e08c4cfd3bd3b97dfb02660b02ad2b971c5090c696d8423ff58979fa189"
+  ],
+  "item": {
+    "addedAt": "2026-11-20",
+    "cover": "asset://90f92b845b9205106550d5ba671b4ed5203fd0d047e9a0ee0c81cdc37dd3cf8a",
+    "durationMin": 15,
+    "fieldId": "chemistry",
+    "id": "article_periodic_table",
+    "media": {
+      "animations": [],
+      "audio": [
+        "asset://86e5fa653ef16b5a158d948dfcfb689277d82678af0a2c49ef5d519598d8838f",
+        "asset://af028864396f68ee8dbc838a7c76568ba651959bf62bd5f155820ba939db21e8"
+      ],
+      "cover": "asset://90f92b845b9205106550d5ba671b4ed5203fd0d047e9a0ee0c81cdc37dd3cf8a",
+      "diagrams": [
+        "asset://90f92b845b9205106550d5ba671b4ed5203fd0d047e9a0ee0c81cdc37dd3cf8a",
+        "asset://bb486e08c4cfd3bd3b97dfb02660b02ad2b971c5090c696d8423ff58979fa189"
+      ],
+      "gallery": [],
+      "images": [],
+      "links": [
+        {
+          "caption": "Reference article",
+          "kind": "link",
+          "source": "https://en.wikipedia.org/wiki/Periodic_table",
+          "title": "Periodic table"
+        }
+      ],
+      "video": [
+        "asset://38b033a7f1f1a9901fd9ca7483de4b461350439d51a0da0aede2b71fee07dd5f"
+      ]
+    },
+    "objectives": [
+      "Find the atomic number, symbol and name of an element in the table.",
+      "Tell a group from a period and say what each one fixes.",
+      "Use the periodic law to guess the character of an unknown element.",
+      "Compute amounts of substance with the mole."
+    ],
+    "relatedTopicIds": [],
+    "sections": [
+      {
+        "audioKey": "asset://86e5fa653ef16b5a158d948dfcfb689277d82678af0a2c49ef5d519598d8838f",
+        "body": "The periodic table orders the elements by atomic number, the number of protons in the nucleus. Each row is a **period**: the elements of one period fill the same set of electron shells. Each column is a **group**: the elements of one group share the same outer electron pattern, and with it the same chemistry.\n\nMetals sit to the left and centre, non-metals to the right, and the metalloids form the staircase between them. The noble gases of group 18 keep full outer shells and react with almost nothing.",
+        "heading": "What the grid says",
+        "symbols": [
+          {
+            "label": "H",
+            "meaning": "hydrogen — the lightest element",
+            "unicode": "H"
+          },
+          {
+            "label": "O",
+            "meaning": "oxygen — the element of combustion and breathing",
+            "unicode": "O"
+          },
+          {
+            "label": "Fe",
+            "meaning": "iron — a metal of the transition block",
+            "unicode": "Fe"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Z",
+            "Symbol",
+            "Name",
+            "Relative atomic mass"
+          ],
+          "rows": [
+            [
+              "1",
+              "H",
+              "hydrogen",
+              "1.008"
+            ],
+            [
+              "2",
+              "He",
+              "helium",
+              "4.003"
+            ],
+            [
+              "3",
+              "Li",
+              "lithium",
+              "6.94"
+            ],
+            [
+              "6",
+              "C",
+              "carbon",
+              "12.011"
+            ],
+            [
+              "7",
+              "N",
+              "nitrogen",
+              "14.007"
+            ],
+            [
+              "8",
+              "O",
+              "oxygen",
+              "15.999"
+            ],
+            [
+              "11",
+              "Na",
+              "sodium",
+              "22.990"
+            ],
+            [
+              "13",
+              "Al",
+              "aluminium",
+              "26.982"
+            ],
+            [
+              "26",
+              "Fe",
+              "iron",
+              "55.845"
+            ],
+            [
+              "79",
+              "Au",
+              "gold",
+              "196.967"
+            ]
+          ]
+        },
+        "terms": [
+          {
+            "gloss": "A substance of one kind of atom, fixed by its number of protons.",
+            "ipa": "/ˈel.ɪ.mənt/",
+            "pos": "n.",
+            "term": "element"
+          },
+          {
+            "gloss": "The number of protons in the nucleus of an atom; it fixes the element.",
+            "ipa": "/əˈtɒm.ɪk ˈnʌm.bər/",
+            "pos": "n.",
+            "term": "atomic number"
+          },
+          {
+            "gloss": "A column of the periodic table; elements of one group share their outer electrons.",
+            "ipa": "/ɡruːp/",
+            "pos": "n.",
+            "term": "group"
+          },
+          {
+            "gloss": "A row of the periodic table; one period fills one set of electron shells.",
+            "ipa": "/ˈpɪə.ri.əd/",
+            "pos": "n.",
+            "term": "period"
+          }
+        ],
+        "type": "definition"
+      },
+      {
+        "body": "Read a cell in one pass: the symbol in the middle, the atomic number above it, the name below, and the relative atomic mass at the bottom. The mass tells you what one mole of the element weighs in grams, and the mole is the bridge between atoms and laboratory balances.\n\n**The periodic law** is the promise of the table: when the elements stand in order of atomic number, their properties repeat at regular intervals. Mendeleev trusted the law enough to leave gaps for elements no one had seen; eka-aluminium became gallium, and the table was right.",
+        "equations": [
+          {
+            "caption": "Amount of substance n equals mass m divided by molar mass M.",
+            "id": "mole",
+            "tex": "n=\\frac{m}{M}"
+          }
+        ],
+        "gallery": [
+          {
+            "caption": "A bench of reagents with the table at hand.",
+            "kind": "image",
+            "source": "asset://bb486e08c4cfd3bd3b97dfb02660b02ad2b971c5090c696d8423ff58979fa189",
+            "title": "The lab bench"
+          },
+          {
+            "caption": "Glassware ready for a titration.",
+            "kind": "image",
+            "source": "asset://aee2527243d2432a6fad0f281365467faad2ab49ac63cb4067e754a4039714aa",
+            "title": "Glassware"
+          }
+        ],
+        "heading": "How to read a cell",
+        "math": [
+          "n=\\frac{m}{M}",
+          "c=\\frac{n}{V}",
+          "2\\mathrm{H}_{2}+\\mathrm{O}_{2}\\rightarrow 2\\mathrm{H}_{2}\\mathrm{O}"
+        ],
+        "steps": [
+          "Find the symbol; the number above it is the atomic number Z.",
+          "Read the name and the relative atomic mass below the symbol.",
+          "Look down the column to see the group and what chemistry to expect.",
+          "Weigh one mole in grams with the same number as the relative atomic mass."
+        ],
+        "type": "prose"
+      }
+    ],
+    "summary": "One hundred and eighteen elements, one table. The place of an element in the grid tells you its electrons, its character and the bonds it will make.",
+    "systemId": "matter",
+    "title": "Reading the Periodic Table"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "fieldId": "mathematics",
+      "id": "algebra",
+      "name": "Algebra",
+      "order": 1,
+      "summary": "Equations and their roots, from the quadratic formula to logarithms.",
+      "topicIds": [
+        "article_quadratic_equations",
+        "article_logarithms"
+      ]
+    },
+    {
+      "fieldId": "physics",
+      "id": "mechanics",
+      "name": "Mechanics",
+      "order": 1,
+      "summary": "Newton's laws of motion and the force that changes them.",
+      "topicIds": [
+        "article_newtons_laws"
+      ]
+    },
+    {
+      "fieldId": "chemistry",
+      "id": "matter",
+      "name": "Matter & Elements",
+      "order": 1,
+      "summary": "The periodic table and the amount of substance behind every reaction.",
+      "topicIds": [
+        "article_periodic_table"
+      ]
+    },
+    {
+      "fieldId": "english",
+      "id": "communication",
+      "name": "Workplace Communication",
+      "order": 1,
+      "summary": "Emails and messages that carry one ask and get one answer.",
+      "topicIds": [
+        "article_technical_email"
+      ]
+    }
+  ],
+  "nextCursor": null,
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

@@ -1,0 +1,184 @@
+{
+  "dependencies": [
+    "3563ca987a60c6f5215cd077d37e07aadfaad14d6a1d25306b54343280357ed0",
+    "3d12501ae7b18ea824822a9265d544858ea4145435807c3949463aa6e61f0f04",
+    "65254082531151c6dba85a61f7579f813937da487786f4af124d30db44f996ca",
+    "869cd80d66e0139949804a6aab68ba25b657edd393e1bfe6ff25b67a50167690",
+    "892b45570b527f3ffd01ff10a817392f06cd7fdec5fab1f16bba400d5eaf8820",
+    "b77df1396693adbd6a420b8f039c8fb56ee7318a1cd2b2e9c502dddaa94e3b19",
+    "cbb022b08e407a20dfaa70126ac026e7f50fae3d4cc64099100366b11d774adb"
+  ],
+  "item": {
+    "addedAt": "2026-11-20",
+    "cover": "asset://65254082531151c6dba85a61f7579f813937da487786f4af124d30db44f996ca",
+    "durationMin": 16,
+    "fieldId": "physics",
+    "id": "article_newtons_laws",
+    "media": {
+      "animations": [
+        "asset://3563ca987a60c6f5215cd077d37e07aadfaad14d6a1d25306b54343280357ed0",
+        "asset://892b45570b527f3ffd01ff10a817392f06cd7fdec5fab1f16bba400d5eaf8820"
+      ],
+      "audio": [
+        "asset://b77df1396693adbd6a420b8f039c8fb56ee7318a1cd2b2e9c502dddaa94e3b19",
+        "asset://cbb022b08e407a20dfaa70126ac026e7f50fae3d4cc64099100366b11d774adb"
+      ],
+      "cover": "asset://65254082531151c6dba85a61f7579f813937da487786f4af124d30db44f996ca",
+      "diagrams": [
+        "asset://65254082531151c6dba85a61f7579f813937da487786f4af124d30db44f996ca",
+        "asset://869cd80d66e0139949804a6aab68ba25b657edd393e1bfe6ff25b67a50167690"
+      ],
+      "gallery": [],
+      "images": [],
+      "links": [
+        {
+          "caption": "Reference article",
+          "kind": "link",
+          "source": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+          "title": "Newton's laws of motion"
+        }
+      ],
+      "video": [
+        "asset://3d12501ae7b18ea824822a9265d544858ea4145435807c3949463aa6e61f0f04"
+      ]
+    },
+    "objectives": [
+      "State the three laws of motion in your own words.",
+      "Use F = ma to connect force, mass and acceleration.",
+      "Tell an action–reaction pair from a balanced pair of forces.",
+      "Estimate the acceleration of a cart from a measured force."
+    ],
+    "relatedTopicIds": [
+      "article_quadratic_equations"
+    ],
+    "sections": [
+      {
+        "audioKey": "asset://b77df1396693adbd6a420b8f039c8fb56ee7318a1cd2b2e9c502dddaa94e3b19",
+        "body": "A body keeps its velocity unless a net force acts on it. That is the **first law**: inertia. The **second law** says the net force on a body equals the rate of change of its momentum; for a constant mass it shrinks to the famous F = ma. The **third law** says forces come in pairs: when body A pushes body B, body B pushes body A back with a force of the same size in the opposite direction.\n\nMass measures inertia: the more mass a body has, the harder it is to change its velocity. Weight is the gravitational force on that mass, and it changes with gravity while the mass does not.",
+        "heading": "Three laws in words",
+        "math": [
+          "\\sum \\vec{F}=m\\vec{a}",
+          "F=ma",
+          "\\vec{F}_{12}=-\\vec{F}_{21}"
+        ],
+        "symbols": [
+          {
+            "label": "F",
+            "meaning": "force, in newtons",
+            "unicode": "F"
+          },
+          {
+            "label": "m",
+            "meaning": "mass, in kilograms",
+            "unicode": "m"
+          },
+          {
+            "label": "a",
+            "meaning": "acceleration, in metres per second squared",
+            "unicode": "a"
+          }
+        ],
+        "terms": [
+          {
+            "gloss": "A push or a pull, measured in newtons; a vector with size and direction.",
+            "ipa": "/fɔːs/",
+            "pos": "n.",
+            "term": "force"
+          },
+          {
+            "gloss": "The quantity of matter in a body, measured in kilograms; the source of inertia.",
+            "ipa": "/mæs/",
+            "pos": "n.",
+            "term": "mass"
+          },
+          {
+            "gloss": "The rate of change of velocity, measured in metres per second squared.",
+            "ipa": "/əkˌsel.əˈreɪ.ʃən/",
+            "pos": "n.",
+            "term": "acceleration"
+          }
+        ],
+        "type": "definition"
+      },
+      {
+        "body": "The second law is a working tool. Measure the mass of the cart, measure the force you apply, and the acceleration comes out of one division. Double the force and the acceleration doubles; double the mass and the acceleration halves.\n\n**Action and reaction never cancel each other**, because they act on different bodies. The horse pulls the cart forward; the cart pulls the horse backward. Whether the pair speeds up or not depends on the other forces on each body, not on the pair itself.",
+        "examples": [
+          "A 2 kg cart feels a net force of 6 N. Its acceleration is a = F/m = 6/2 = 3 m/s².",
+          "A 1,000 kg car brakes from 20 m/s to rest in 4 s. The deceleration is 5 m/s², so the braking force is F = ma = 1,000 × 5 = 5,000 N."
+        ],
+        "heading": "F = ma at work",
+        "steps": [
+          "Draw the body and every force that acts on it, with directions.",
+          "Add the forces as vectors to get the net force.",
+          "Write F = ma along each direction and solve for the unknown.",
+          "Check the units: newtons equal kilograms times metres per second squared."
+        ],
+        "table": {
+          "headers": [
+            "Law",
+            "Statement",
+            "Everyday example"
+          ],
+          "rows": [
+            [
+              "First (inertia)",
+              "Velocity stays constant without a net force.",
+              "A passenger lurches forward when a bus brakes."
+            ],
+            [
+              "Second",
+              "Net force equals mass times acceleration.",
+              "A loaded trolley is harder to start."
+            ],
+            [
+              "Third",
+              "Forces come in equal, opposite pairs.",
+              "A rocket pushes gas down; the gas pushes the rocket up."
+            ]
+          ]
+        },
+        "type": "prose"
+      },
+      {
+        "body": "A force gauge shows the law directly: pull the cart with different forces and watch the acceleration answer in proportion. Move the slider and read the pair of values.",
+        "gallery": [
+          {
+            "caption": "Opacity keyframes, 3-second loop.",
+            "kind": "animation",
+            "source": "asset://892b45570b527f3ffd01ff10a817392f06cd7fdec5fab1f16bba400d5eaf8820",
+            "title": "Blinking tell-tale"
+          },
+          {
+            "caption": "Rotation keyframes on a shape group.",
+            "kind": "animation",
+            "source": "asset://3563ca987a60c6f5215cd077d37e07aadfaad14d6a1d25306b54343280357ed0",
+            "title": "Needle sweep"
+          }
+        ],
+        "heading": "Push the cart and watch",
+        "simulations": [
+          {
+            "description": "The slider sets the net force on a 2 kg cart. The acceleration answers with a = F/m, straight from the second law.",
+            "equation": "a = \\frac{F}{m}",
+            "id": "force-cart",
+            "initialX": 2,
+            "intercept": 0,
+            "slope": 0.5,
+            "title": "Force on a cart",
+            "xLabel": "Force (N)",
+            "xMax": 10,
+            "xMin": 0,
+            "xStep": 0.1,
+            "yLabel": "Acceleration (m/s²)"
+          }
+        ],
+        "type": "prose"
+      }
+    ],
+    "summary": "Three sentences carry the whole of classical mechanics: inertia, F = ma, and action with reaction. With them you can predict the motion of carts, rockets and planets.",
+    "systemId": "mechanics",
+    "title": "Newton's Laws of Motion"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

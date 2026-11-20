@@ -1,0 +1,207 @@
+{
+  "dependencies": [
+    "1cae6fab95a824887d71a0e9ea271ba64ffe2811ec4774305b064c7a453e434f",
+    "4658b89ff15cc7597b5815da85366c02ec52a35eb87a87e075bf876c68324de3",
+    "abb6044069c422000d80fb4b37a869b5e1e7f39455d86cce9ddb67c9ed703c26",
+    "ef776ccd053cd4fc8d4bb6978d1732189dcd726a870894c90d4646dfefb08e77"
+  ],
+  "item": {
+    "addedAt": "2026-11-20",
+    "cover": "asset://ef776ccd053cd4fc8d4bb6978d1732189dcd726a870894c90d4646dfefb08e77",
+    "durationMin": 14,
+    "fieldId": "mathematics",
+    "id": "article_quadratic_equations",
+    "media": {
+      "animations": [],
+      "audio": [
+        "asset://abb6044069c422000d80fb4b37a869b5e1e7f39455d86cce9ddb67c9ed703c26"
+      ],
+      "cover": "asset://ef776ccd053cd4fc8d4bb6978d1732189dcd726a870894c90d4646dfefb08e77",
+      "diagrams": [
+        "asset://4658b89ff15cc7597b5815da85366c02ec52a35eb87a87e075bf876c68324de3"
+      ],
+      "gallery": [],
+      "images": [],
+      "links": [
+        {
+          "caption": "Reference article",
+          "kind": "link",
+          "source": "https://en.wikipedia.org/wiki/Quadratic_equation",
+          "title": "Quadratic equation"
+        }
+      ],
+      "video": []
+    },
+    "objectives": [
+      "Recognise a quadratic equation and name its coefficients a, b and c.",
+      "Compute the discriminant and say how many real roots it promises.",
+      "Apply the quadratic formula and check each root by substitution.",
+      "Read the roots of a parabola from its graph."
+    ],
+    "relatedTopicIds": [
+      "article_logarithms"
+    ],
+    "sections": [
+      {
+        "audioKey": "asset://1cae6fab95a824887d71a0e9ea271ba64ffe2811ec4774305b064c7a453e434f",
+        "body": "A quadratic equation in one variable has the form ax^2 + bx + c = 0, where a is not zero. The curve y = ax^2 + bx + c is a parabola, and the solutions of the equation are the places where the parabola crosses the x-axis. A quadratic always has two roots, counted with multiplicity: they can be two different real numbers, one repeated real number, or a pair of complex conjugates.\n\nThree coefficients carry the equation. **a** scales and opens the parabola, **b** moves its axis, and **c** fixes the height at which it crosses the y-axis. Read the equation from its shape: when a is positive the parabola opens upward, and its lowest point is the vertex.",
+        "equations": [
+          {
+            "caption": "The quadratic formula: every root of ax^2 + bx + c = 0 in one line.",
+            "id": "quadratic-formula",
+            "tex": "x=\\frac{-b\\pm\\sqrt{b^{2}-4ac}}{2a}"
+          },
+          {
+            "caption": "The discriminant Δ = b^2 − 4ac decides the kind of the roots.",
+            "id": "discriminant",
+            "tex": "\\Delta=b^{2}-4ac"
+          }
+        ],
+        "heading": "What a quadratic is",
+        "math": [
+          "ax^{2}+bx+c=0\\quad(a\\neq 0)",
+          "x=\\frac{-b\\pm\\sqrt{b^{2}-4ac}}{2a}"
+        ],
+        "terms": [
+          {
+            "gloss": "A number multiplied by a power of the unknown; in ax^2 + bx + c the coefficients are a, b and c.",
+            "ipa": "/ˌkəʊ.ɪˈfɪʃ.ənt/",
+            "pos": "n.",
+            "term": "coefficient"
+          },
+          {
+            "gloss": "A value of the unknown that makes the equation true; another name for a solution of an equation.",
+            "ipa": "/ruːt/",
+            "pos": "n.",
+            "term": "root"
+          }
+        ],
+        "type": "definition"
+      },
+      {
+        "body": "The discriminant is the part under the square root. When Δ is positive the equation has two different real roots; when Δ is zero the two roots merge into one; when Δ is negative the parabola never reaches the x-axis and the roots are complex.\n\n**Check every root you find.** Substitute it back into the original equation and confirm that both sides name the same number. A root that fails the check is arithmetic that went wrong on the way, not a property of the equation.",
+        "heading": "The discriminant decides first",
+        "steps": [
+          "Write the equation in the standard form ax^2 + bx + c = 0 and read a, b and c.",
+          "Compute the discriminant Δ = b^2 − 4ac and decide how many real roots to expect.",
+          "Substitute a, b and c into the quadratic formula.",
+          "Simplify the square root and the fraction; keep both signs of ±.",
+          "Substitute each root back into the original equation and check it."
+        ],
+        "symbols": [
+          {
+            "label": "Δ",
+            "meaning": "the discriminant b^2 − 4ac",
+            "unicode": "Δ"
+          },
+          {
+            "label": "x₁, x₂",
+            "meaning": "the two roots of the equation",
+            "unicode": "x₁"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Discriminant",
+            "Kind",
+            "Number of real roots"
+          ],
+          "rows": [
+            [
+              "Δ > 0",
+              "two different real roots",
+              "2"
+            ],
+            [
+              "Δ = 0",
+              "one repeated real root",
+              "1"
+            ],
+            [
+              "Δ < 0",
+              "two complex conjugates",
+              "0"
+            ]
+          ]
+        },
+        "type": "prose"
+      },
+      {
+        "body": "The graph of a quadratic is a parabola. Its axis of symmetry is the vertical line x = −b/2a, and its vertex is the point the equation reaches at that x. When the parabola crosses the x-axis twice, the equation has two real roots; when it only touches the axis, the root is repeated; when it floats above the axis, the roots are complex.",
+        "examples": [
+          "Solve x^2 − 5x + 6 = 0. Here a = 1, b = −5, c = 6, so Δ = 25 − 24 = 1 and x = (5 ± 1)/2, which gives x = 3 and x = 2. Check: 9 − 15 + 6 = 0 and 4 − 10 + 6 = 0.",
+          "Solve x^2 + 2x + 5 = 0. The discriminant is 4 − 20 = −16, negative, so the equation has no real roots; the parabola floats above the axis."
+        ],
+        "gallery": [
+          {
+            "caption": "Substitute a candidate root and confirm both sides.",
+            "kind": "image",
+            "source": "asset://4658b89ff15cc7597b5815da85366c02ec52a35eb87a87e075bf876c68324de3",
+            "title": "Check a root"
+          }
+        ],
+        "heading": "Read the roots on the graph",
+        "plots": [
+          {
+            "logY": false,
+            "maxX": 5,
+            "minX": -5,
+            "series": [
+              {
+                "name": "y = x^2 − 2x − 3",
+                "points": [
+                  [
+                    -3,
+                    12
+                  ],
+                  [
+                    -2,
+                    5
+                  ],
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -3
+                  ],
+                  [
+                    1,
+                    -4
+                  ],
+                  [
+                    2,
+                    -3
+                  ],
+                  [
+                    3,
+                    0
+                  ],
+                  [
+                    4,
+                    5
+                  ],
+                  [
+                    5,
+                    12
+                  ]
+                ]
+              }
+            ],
+            "title": "A parabola crossing the axis twice",
+            "type": "line",
+            "xLabel": "x",
+            "yLabel": "y"
+          }
+        ],
+        "type": "prose"
+      }
+    ],
+    "summary": "A quadratic equation carries a square of the unknown. One formula reads its roots, and the discriminant tells you how many there are before you compute anything.",
+    "systemId": "algebra",
+    "title": "Solving Quadratic Equations"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}

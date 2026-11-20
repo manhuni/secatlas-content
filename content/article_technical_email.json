@@ -1,0 +1,138 @@
+{
+  "dependencies": [
+    "2b8f4e793d651f64e9c2733a607be025be35632202fc4041b2de02cf3065e5c7",
+    "5ac0a071d6371cac85ef987eb4aed2c4267566bce455642a412ad81a49b20251",
+    "77cefe2c0312973d0f63bc9dfe7ba3c34980a2bf534b4c2dd2401aafd1fb20c7",
+    "aeaf0a1f8b0e8c6efb537294095c881a92d48f5c1ff5f0c8a8dc7b5e24bac2e9",
+    "cb7247587fa8cfb6b08a119968b87d764caf345640eaf086be7c29f54b008d69"
+  ],
+  "item": {
+    "addedAt": "2026-11-20",
+    "cover": "asset://aeaf0a1f8b0e8c6efb537294095c881a92d48f5c1ff5f0c8a8dc7b5e24bac2e9",
+    "durationMin": 12,
+    "fieldId": "english",
+    "id": "article_technical_email",
+    "media": {
+      "animations": [],
+      "audio": [
+        "asset://cb7247587fa8cfb6b08a119968b87d764caf345640eaf086be7c29f54b008d69",
+        "asset://77cefe2c0312973d0f63bc9dfe7ba3c34980a2bf534b4c2dd2401aafd1fb20c7"
+      ],
+      "cover": "asset://aeaf0a1f8b0e8c6efb537294095c881a92d48f5c1ff5f0c8a8dc7b5e24bac2e9",
+      "diagrams": [
+        "asset://aeaf0a1f8b0e8c6efb537294095c881a92d48f5c1ff5f0c8a8dc7b5e24bac2e9",
+        "asset://aeaf0a1f8b0e8c6efb537294095c881a92d48f5c1ff5f0c8a8dc7b5e24bac2e9"
+      ],
+      "gallery": [],
+      "images": [],
+      "links": [
+        {
+          "caption": "Reference article",
+          "kind": "link",
+          "source": "https://en.wikipedia.org/wiki/Business_communication",
+          "title": "Business communication"
+        }
+      ],
+      "video": []
+    },
+    "objectives": [
+      "Write a subject line that names the task and the deadline.",
+      "Structure an email so the question comes first.",
+      "Choose precise words instead of vague ones.",
+      "Check tone, attachments and recipients before sending."
+    ],
+    "relatedTopicIds": [],
+    "sections": [
+      {
+        "audioKey": "asset://cb7247587fa8cfb6b08a119968b87d764caf345640eaf086be7c29f54b008d69",
+        "body": "A technical email has one job: move a decision forward. Everything in it serves that job. The **subject line** names the topic and the ask in a few words. The opening sentence states the question. The body gives only the context the reader needs to answer, and the close names the next step and its date.\n\nWrite for a reader who reads on a phone between meetings. Short sentences, one idea per paragraph, no greetings beyond one line.",
+        "heading": "What a technical email is",
+        "terms": [
+          {
+            "gloss": "The heading of an email; it decides whether the message gets opened.",
+            "ipa": "/ˈsʌb.dʒɪkt laɪn/",
+            "pos": "n.",
+            "term": "subject line"
+          },
+          {
+            "gloss": "A file sent with an email; name it so the reader knows what it holds.",
+            "ipa": "/əˈtætʃ.mənt/",
+            "pos": "n.",
+            "term": "attachment"
+          },
+          {
+            "gloss": "A copy of an email sent to a secondary recipient, visible to all.",
+            "ipa": "/siː siː/",
+            "pos": "n.",
+            "term": "cc"
+          }
+        ],
+        "type": "definition"
+      },
+      {
+        "body": "Five moves carry almost every technical email. Learn them once and every email you write gets faster to read and faster to answer.",
+        "examples": [
+          "Subject: Gauge calibration needed before 20 Nov. Hi An, the pressure gauge on pump 2 reads 4% low against the reference. Could you calibrate it before Thursday? Test log: attached. Thanks, Minh.",
+          "Subject: Two faults in the water heater draft. Hi team, the draft heater fails in two ways: it stalls on start-up, and the flame gauge flickers at low flow. Logs attached; can we review at 14:00?"
+        ],
+        "heading": "Five moves, in order",
+        "steps": [
+          "Subject: name the task and the deadline — \"Pump test data needed by Friday\".",
+          "Opening: one sentence with the question or the decision you need.",
+          "Context: the facts, the numbers and the links, each on its own line.",
+          "Ask: what you want the reader to do, and by when.",
+          "Close: your name, and an attachment list if there is one."
+        ],
+        "table": {
+          "headers": [
+            "Instead of",
+            "Write"
+          ],
+          "rows": [
+            [
+              "ASAP",
+              "by Thursday 17:00"
+            ],
+            [
+              "a couple of problems",
+              "two faults: the pump stalls, the gauge reads low"
+            ],
+            [
+              "the file attached",
+              "pump_test_2026-11-20.csv (12 rows, raw)"
+            ],
+            [
+              "I don't know",
+              "I could not reproduce it on the test bench"
+            ]
+          ]
+        },
+        "type": "prose"
+      },
+      {
+        "body": "Before you press send, run the check: the subject says what you need, the question stands in the first lines, the numbers match the attachment, the tone stays neutral, and every recipient on To needs to act while the rest sit on cc.",
+        "gallery": [
+          {
+            "caption": "A shelf of references for the exact word.",
+            "kind": "image",
+            "source": "asset://5ac0a071d6371cac85ef987eb4aed2c4267566bce455642a412ad81a49b20251",
+            "title": "The library corner"
+          },
+          {
+            "caption": "A quiet desk for the final read-through.",
+            "kind": "image",
+            "source": "asset://2b8f4e793d651f64e9c2733a607be025be35632202fc4041b2de02cf3065e5c7",
+            "title": "The desk"
+          }
+        ],
+        "heading": "The two-minute check",
+        "type": "prose"
+      }
+    ],
+    "summary": "A technical email is a tool: one subject line that says what you need, one question per message, and enough context for the reader to answer without a meeting.",
+    "systemId": "communication",
+    "title": "Writing a Technical Email That Gets an Answer"
+  },
+  "release": "{{release}}",
+  "schemaVersion": 1
+}
