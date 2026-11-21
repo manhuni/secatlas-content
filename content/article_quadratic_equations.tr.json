@@ -1,0 +1,39 @@
+{
+  "language": "tr",
+  "lessonId": "article_quadratic_equations",
+  "objectives": [
+    "İkinci dereceden denklemi tanıyın ve a, b, c katsayılarını adlandırın.",
+    "Diskriminantı hesaplayın ve kaç gerçek kök vaat ettiğini söyleyin.",
+    "Kök formülünü uygulayın ve her kökü yerine koyarak denetleyin.",
+    "Bir parabolün köklerini grafiğinden okuyun."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Tek bilinmeyenli ikinci dereceden denklem ax^2 + bx + c = 0 biçimindedir; a sıfırdan farklıdır. y = ax^2 + bx + c grafiği bir paraboldür ve denklemin çözümleri parabolün x eksenini kestiği noktalardır. Bir ikinci dereceden denklemin her zaman iki kökü vardır, çoklukla sayılır: iki farklı gerçek sayı, tekrarlanan tek bir gerçek sayı ya da karmaşık eşlenik bir çift.\n\nDenklemi üç katsayı taşır. **a** parabolü ölçekler ve açılış yönünü belirler, **b** eksenini kaydırır, **c** ise y eksenini kestiği yüksekliği sabitler. a pozitifken parabol yukarı açılır ve en alçak noktası tepe noktasıdır.",
+      "heading": "İkinci dereceden denklem nedir"
+    },
+    {
+      "body": "Diskriminant, karekökün altındaki kısımdır. Δ pozitifken denklemin iki farklı gerçek kökü vardır; Δ sıfırken iki kök tek bir kökte birleşir; Δ negatifken parabol x eksenine hiç değmez ve kökler karmaşıktır.\n\n**Bulduğunuz her kökü denetleyin.** Kökü orijinal denklemde yerine koyun ve iki tarafın aynı sayıyı verdiğini doğrulayın. Denetimden kalan bir kök, yolda yapılmış bir hesap hatasıdır; denklemin özelliği değil.",
+      "heading": "Önce diskriminant karar verir",
+      "steps": [
+        "Denklemi standart biçim ax^2 + bx + c = 0 olarak yazın ve a, b, c değerlerini okuyun.",
+        "Diskriminantı Δ = b^2 − 4ac hesaplayın ve kaç gerçek kök bekleneceğine karar verin.",
+        "a, b, c değerlerini kök formülüne yerleştirin.",
+        "Karekökü ve kesri sadeleştirin; ± işaretlerinin ikisini de koruyun.",
+        "Her kökü orijinal denkleme geri koyup denetleyin."
+      ]
+    },
+    {
+      "body": "İkinci dereceden denklemin grafiği bir paraboldür. Simetri ekseni x = −b/2a doğrusudur ve tepe noktası parabolün o x değerinde ulaştığı noktadır. Parabol x eksenini iki kez keserse iki gerçek kök, yalnızca dokunursa kök tekrarlanmış, eksenin üzerinde yüzerse kökler karmaşıktır.",
+      "examples": [
+        "x^2 − 5x + 6 = 0 denklemini çözün. Burada a = 1, b = −5, c = 6, yani Δ = 25 − 24 = 1 ve x = (5 ± 1)/2'den x = 3 ve x = 2 çıkar. Denetim: 9 − 15 + 6 = 0 ve 4 − 10 + 6 = 0.",
+        "x^2 + 2x + 5 = 0 denklemini çözün. Diskriminant 4 − 20 = −16, negatif; denklemin gerçek kökü yoktur ve parabol eksenin üzerinde yüzer."
+      ],
+      "heading": "Kökleri grafikten okuyun"
+    }
+  ],
+  "summary": "İkinci dereceden bir denklem bilinmeyenin karesini taşır. Tek bir formül kökleri okur ve diskriminant, hesaptan önce kaç kök olduğunu söyler.",
+  "title": "İkinci dereceden denklemlerin çözümü"
+}

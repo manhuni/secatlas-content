@@ -1,0 +1,38 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_logarithms",
+  "objectives": [
+    "Leia um logaritmo como o inverso da exponenciação.",
+    "Aplique as duas leis do logaritmo do produto e da potência.",
+    "Explique por que escalas log cobrem amplos intervalos em uma figura.",
+    "Calcule o pH como um logaritmo de concentração."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "O logaritmo de um número numa base é o expoente que a base precisa para alcançá-lo: log_b(x) = y significa b^y = x. O logaritmo comum usa base 10, o natural usa base e, e ambos desfazem a exponenciação.\n\n**Logaritmos transformam multiplicação em adição.** Essa única propriedade os tornou o motor do cálculo por três séculos, e ainda hoje move o decibel, a escala Richter e o pH de uma solução.",
+      "heading": "A pergunta que o logaritmo responde"
+    },
+    {
+      "body": "Duas leis carregam toda computação. O log de um produto é a soma dos logs, e o log de uma potência é a potência vezes o log. Juntas, reduzem qualquer monstro de multiplicações a uma curta cadeia de adições.",
+      "heading": "As duas leis que carregam o trabalho",
+      "steps": [
+        "Escreva o número como produto de potências da base.",
+        "Troque cada produto por uma soma de logaritmos.",
+        "Troque cada potência por um múltiplo de um logaritmo.",
+        "Some os termos e leia a resposta da tabela de logs."
+      ]
+    },
+    {
+      "body": "Algumas faixas são largas demais para uma régua. O sussurro e o motor a jato diferem por um fator de um trilhão; numa escala linear, um dos dois fica invisível. Uma escala log desenha cada fator de dez como um passo igual, e a faixa inteira cabe numa linha.\n\nLeia o eixo vertical do gráfico como potências de dez: cada linha é dez vezes a de baixo. A curva y = 10^x vira uma subida reta.",
+      "examples": [
+        "log10(1.000) = 3, porque 10^3 = 1.000.",
+        "Uma solução com [H+] = 10^-7 mol/L tem pH = −log10(10^-7) = 7: água neutra."
+      ],
+      "heading": "Escalas log enxergam mundos amplos"
+    }
+  ],
+  "summary": "Um logaritmo responde \"quantas vezes eu multiplico?\". Ele transforma mundos amplos — da energia de um terremoto ao volume de um show — em números que uma pessoa segura.",
+  "title": "Logaritmos e Escalas Log"
+}

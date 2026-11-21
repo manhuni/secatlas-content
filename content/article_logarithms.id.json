@@ -1,0 +1,38 @@
+{
+  "language": "id",
+  "lessonId": "article_logarithms",
+  "objectives": [
+    "Baca logaritma sebagai kebalikan pemangkatan.",
+    "Terapkan dua kaidah logaritma perkalian dan pangkat.",
+    "Jelaskan mengapa skala log menutup rentang lebar dalam satu gambar.",
+    "Hitung pH sebagai logaritma konsentrasi."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Logaritma suatu bilangan pada suatu basis adalah pangkat yang diperlukan basis untuk mencapainya: log_b(x) = y berarti b^y = x. Logaritma umum memakai basis 10, logaritma natural memakai basis e, dan keduanya membuka pemangkatan.\n\n**Logaritma mengubah perkalian menjadi penjumlahan.** Sifat tunggal itu menjadikannya mesin perhitungan selama tiga abad, dan masih menggerakkan desibel, skala Richter, dan pH larutan.",
+      "heading": "Pertanyaan yang dijawab logaritma"
+    },
+    {
+      "body": "Dua kaidah membawa semua hitungan. Logaritma hasil kali adalah jumlah logaritma, dan logaritma pangkat adalah pangkat dikali logaritma. Bersama-sama, mereka mereduksi monster perkalian apa pun menjadi rantai penjumlahan pendek.",
+      "heading": "Dua kaidah yang mengangkat pekerjaan",
+      "steps": [
+        "Tulis bilangan sebagai hasil kali pangkat basis.",
+        "Ganti tiap kali dengan jumlah logaritma.",
+        "Ganti tiap pangkat dengan kelipatan logaritma.",
+        "Jumlahkan suku-suku dan baca jawaban dari tabel log."
+      ]
+    },
+    {
+      "body": "Seberapa rentang terlalu lebar untuk penggaris. Bisikan dan mesin jet berbeda sejuta kali lipat; pada skala linear, salah satunya tak terlihat. Skala log menggambar tiap faktor sepuluh sebagai satu langkah sama, dan seluruh rentang muat dalam satu garis.\n\nBaca sumbu tegak grafik sebagai pangkat sepuluh: tiap garis sepuluh kali garis di bawahnya. Kurva y = 10^x menjadi tanjakan lurus.",
+      "examples": [
+        "log10(1.000) = 3, karena 10^3 = 1.000.",
+        "Larutan dengan [H+] = 10^-7 mol/L memiliki pH = −log10(10^-7) = 7: air netral."
+      ],
+      "heading": "Skala log melihat dunia yang lebar"
+    }
+  ],
+  "summary": "Logaritma menjawab pertanyaan \"berapa kali saya kalikan?\". Ia mengubah dunia yang lebar — dari energi gempa sampai kerasnya konser — menjadi angka yang bisa digenggam manusia.",
+  "title": "Logaritma dan Skala Log"
+}

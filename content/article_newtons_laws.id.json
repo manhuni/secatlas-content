@@ -1,0 +1,34 @@
+{
+  "language": "id",
+  "lessonId": "article_newtons_laws",
+  "objectives": [
+    "Ucapkan tiga hukum gerak dengan kata-katamu sendiri.",
+    "Gunakan F = ma untuk menghubungkan gaya, massa, dan percepatan.",
+    "Beda pasangan aksi-reaksi dari pasangan gaya yang seimbang.",
+    "Perkirakan percepatan gerobak dari gaya yang terukur."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Benda menjaga kecepatannya kecuali gaya total bekerja padanya. Itulah **hukum pertama**: inersia. **Hukum kedua** menyatakan gaya total pada benda sama dengan laju perubahan momentumnya; untuk massa tetap ia menyederhana menjadi F = ma yang terkenal. **Hukum ketiga** menyatakan gaya datang berpasangan: bila benda A mendorong benda B, benda B mendorong balik A dengan gaya sama besar berlawanan arah.\n\nMassa mengukur inersia: makin besar massa, makin sulit mengubah kecepatannya. Berat adalah gaya gravitasi pada massa itu, dan berubah dengan gravitasi sedangkan massa tidak.",
+      "heading": "Tiga hukum dalam kata"
+    },
+    {
+      "body": "Hukum kedua adalah alat kerja. Ukur massa gerobak, ukur gaya yang Anda berikan, dan percepatan keluar dari satu pembagian. Gandakan gaya, percepatan berlipat dua; gandakan massa, percepatan berkurang separuh.\n\n**Aksi dan reaksi tidak pernah saling meniadakan**, karena bekerja pada benda berbeda. Kuda menarik gerobak ke depan; gerobak menarik kuda ke belakang. Pasangan itu mempercepat atau tidak tergantung pada gaya lain pada tiap benda, bukan pada pasangan itu sendiri.",
+      "heading": "F = ma dalam kerja",
+      "steps": [
+        "Gambar benda dan semua gaya yang bekerja padanya, dengan arah.",
+        "Jumlahkan gaya sebagai vektor untuk mendapat gaya total.",
+        "Tulis F = ma pada tiap arah dan selesaikan yang tak diketahui.",
+        "Periksa satuan: newton sama dengan kilogram dikali meter per detik kuadrat."
+      ]
+    },
+    {
+      "body": "Gaya ukur menunjukkan hukum secara langsung: tarik gerobak dengan gaya berbeda dan lihat percepatan menjawab secara proporsional. Gerakkan penggeser dan baca pasangan nilai.",
+      "heading": "Dorong gerobak dan amati"
+    }
+  ],
+  "summary": "Tiga kalimat membawa seluruh mekanika klasik: inersia, F = ma, dan aksi-reaksi. Dengannya Anda memprediksi gerak gerobak, roket, dan planet.",
+  "title": "Hukum Gerak Newton"
+}

@@ -1,0 +1,39 @@
+{
+  "language": "id",
+  "lessonId": "article_quadratic_equations",
+  "objectives": [
+    "Mengenali persamaan kuadrat dan menyebut koefisien a, b, dan c.",
+    "Menghitung diskriminan dan menyatakan banyaknya akar riil.",
+    "Menerapkan rumus abc dan memeriksa tiap akar dengan substitusi.",
+    "Membaca akar parabola dari grafiknya."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Persamaan kuadrat satu peubah berbentuk ax^2 + bx + c = 0, dengan a bukan nol. Grafik y = ax^2 + bx + c adalah parabola, dan solusi persamaan adalah tempat parabola memotong sumbu x. Persamaan kuadrat selalu punya dua akar, dihitung dengan multiplisitas: dua bilangan riil berbeda, satu riil berulang, atau sepasang konjugat kompleks.\n\nTiga koefisien membawa persamaan. **a** mengubah skala dan arah buka parabola, **b** menggeser sumbunya, dan **c** menetapkan ketinggian potongan terhadap sumbu y. Bila a positif, parabola terbuka ke atas dan titik terendahnya adalah puncak.",
+      "heading": "Apa itu persamaan kuadrat"
+    },
+    {
+      "body": "Diskriminan adalah bagian di bawah akar kuadrat. Bila Δ positif, persamaan punya dua akar riil berbeda; bila Δ nol, dua akar menyatu menjadi satu; bila Δ negatif, parabola tidak pernah menyentuh sumbu x dan akarnya kompleks.\n\n**Periksa setiap akar yang Anda temukan.** Substitusikan kembali ke persamaan asli dan pastikan kedua ruas bernilai sama. Akar yang gagal diperiksa adalah salah hitung di perjalanan, bukan sifat persamaan.",
+      "heading": "Diskriminan memutuskan lebih dulu",
+      "steps": [
+        "Tulis persamaan dalam bentuk baku ax^2 + bx + c = 0 dan baca a, b, c.",
+        "Hitung diskriminan Δ = b^2 − 4ac dan tentukan berapa akar riil yang diharapkan.",
+        "Substitusikan a, b, c ke dalam rumus abc.",
+        "Sederhanakan akar dan pecahan; pertahankan kedua tanda ±.",
+        "Substitusikan tiap akar kembali ke persamaan asli dan periksa."
+      ]
+    },
+    {
+      "body": "Grafik persamaan kuadrat adalah parabola. Sumbu simetrinya adalah garis x = −b/2a, dan puncaknya adalah titik yang dicapai parabola pada x itu. Bila parabola memotong sumbu x dua kali, persamaan punya dua akar riil; bila hanya menyentuh, akarnya berulang; bila melayang di atas sumbu, akarnya kompleks.",
+      "examples": [
+        "Selesaikan x^2 − 5x + 6 = 0. Di sini a = 1, b = −5, c = 6, jadi Δ = 25 − 24 = 1 dan x = (5 ± 1)/2, memberi x = 3 dan x = 2. Periksa: 9 − 15 + 6 = 0 dan 4 − 10 + 6 = 0.",
+        "Selesaikan x^2 + 2x + 5 = 0. Diskriminan 4 − 20 = −16, negatif, jadi persamaan tidak punya akar riil; parabola melayang di atas sumbu."
+      ],
+      "heading": "Baca akar pada grafik"
+    }
+  ],
+  "summary": "Persamaan kuadrat memuat kuadrat dari peubah. Satu rumus membaca akar-akarnya, dan diskriminan memberi tahu berapa banyak akar sebelum Anda menghitung.",
+  "title": "Menyelesaikan persamaan kuadrat"
+}

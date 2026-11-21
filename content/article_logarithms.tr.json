@@ -1,0 +1,38 @@
+{
+  "language": "tr",
+  "lessonId": "article_logarithms",
+  "objectives": [
+    "Bir logaritmayı üs almanın tersi olarak okuyun.",
+    "Logaritmanın çarpım ve kuvvet kurallarını uygulayın.",
+    "Log ölçeklerin geniş aralıkları tek bir görselde nasıl kapladığını açıklayın.",
+    "pH'ı bir konsantrasyon logaritması olarak hesaplayın."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Bir sayının bir tabandaki logaritması, tabanın o sayıya ulaşması için gereken üsttür: log_b(x) = y, b^y = x demektir. Onluk logaritma taban 10 kullanır, doğal logaritma taban e kullanır; ikisi de üs almayı geri alır.\n\n**Logaritmalar çarpımı toplama dönüştürür.** Bu tek özellik, üç yüzyıl boyunca hesabın motoru olmuştur ve hâlâ desibeli, Richter ölçeğini ve bir çözeltinin pH değerini yönetir.",
+      "heading": "Logaritmanın yanıtladığı soru"
+    },
+    {
+      "body": "İki kural tüm hesabı taşır. Bir çarpımın logu, logların toplamıdır; bir kuvvetin logu, kuvvet çarpı logdur. Birlikte, her çarpma canavarını kısa bir toplama zincirine indirirler.",
+      "heading": "İşi taşıyan iki kural",
+      "steps": [
+        "Sayıyı tabanın kuvvetlerinin çarpımı olarak yazın.",
+        "Her çarpımı bir logaritma toplamıyla değiştirin.",
+        "Her kuvveti bir logaritmanın katıyla değiştirin.",
+        "Terimleri toplayın ve yanıtı logaritma tablosundan okuyun."
+      ]
+    },
+    {
+      "body": "Bazı aralıklar bir cetvel için fazla geniştir. Fısıltı ile jet motorunun sesi bir trilyon kat fark eder; doğrusal ölçekte ikisinden biri görünmez olur. Bir log ölçek, her on katı eşit bir adım olarak çizer ve bütün aralık tek çizgiye sığar.\n\nGrafiğin düşey eksenini onun kuvvetleri olarak okuyun: her çizgi, altındakinin on katıdır. y = 10^x eğrisi düz bir tırmanışa dönüşür.",
+      "examples": [
+        "log10(1.000) = 3, çünkü 10^3 = 1.000.",
+        "[H+] = 10^-7 mol/L olan bir çözeltinin pH değeri −log10(10^-7) = 7 olur: nötr su."
+      ],
+      "heading": "Log ölçekler geniş dünyaları görür"
+    }
+  ],
+  "summary": "Bir logaritma \"kaç kez çarptım?\" sorusunu yanıtlar. Depremin enerjisinden konserin yüksekliğine kadar geniş dünyaları, bir insanın tutabileceği sayılara dönüştürür.",
+  "title": "Logaritmalar ve Log Ölçekleri"
+}

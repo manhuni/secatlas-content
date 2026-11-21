@@ -1,0 +1,34 @@
+{
+  "language": "tr",
+  "lessonId": "article_newtons_laws",
+  "objectives": [
+    "Hareketin üç yasasını kendi sözlerinizle ifade edin.",
+    "F = ma ile kuvvet, kütle ve ivmeyi bağlayın.",
+    "Etki-tepki çiftini dengeli kuvvet çiftinden ayırt edin.",
+    "Ölçülen bir kuvvetten arabanın ivmesini kestirin."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Bir cisim, net bir kuvvet etkilemedikçe hızını korur. Bu **birinci yasa**dır: eylemsizlik. **İkinci yasa**, cisim üzerindeki net kuvvetin momentum değişim hızına eşit olduğunu söyler; sabit kütle için ünlü F = ma ifadesine indirgenir. **Üçüncü yasa**, kuvvetlerin çiftler hâlinde geldiğini söyler: A cismi B cismini ittiğinde, B cismi de aynı büyüklükte zıt yönlü bir kuvvetle A cismini iter.\n\nKütle eylemsizliği ölçer: kütle arttıkça hızı değiştirmek zorlaşır. Ağırlık, o kütleye etki eden yerçekimi kuvvetidir ve kütle değişmezken ağırlık yerçekimiyle değişir.",
+      "heading": "Üç yasa, sözle"
+    },
+    {
+      "body": "İkinci yasa çalışan bir araçtır. Arabanın kütlesini ölçün, uyguladığınız kuvveti ölçün; ivme tek bir bölmeden çıkar. Kuvveti iki katına çıkarırsanız ivme iki katına, kütleyi iki katına çıkarırsanız ivme yarıya iner.\n\n**Etki ve tepki birbirini asla götürmez**, çünkü farklı cisimler üzerinde etkir. At arabayı ileri çeker; araba da atı geri çeker. Çiftin hızlanıp hızlanmaması, çiftin kendisine değil, her cisim üzerindeki diğer kuvvetlere bağlıdır.",
+      "heading": "İş başında F = ma",
+      "steps": [
+        "Cismi ve üzerine etkiyen tüm kuvvetleri yönleriyle çizin.",
+        "Kuvvetleri vektör olarak toplayıp net kuvveti bulun.",
+        "Her yön için F = ma yazın ve bilinmeyeni çözün.",
+        "Birimleri denetleyin: newton, kilogram çarpı metre bölü saniye karedir."
+      ]
+    },
+    {
+      "body": "Bir kuvvetölçer yasayı doğrudan gösterir: arabayı farklı kuvvetlerle çekin ve ivmenin orantılı karşılığını izleyin. Kaydırıcıyı hareket ettirip değer çiftini okuyun.",
+      "heading": "Arabayı itin ve izleyin"
+    }
+  ],
+  "summary": "Üç cümle tüm klasik mekaniği taşır: eylemsizlik, F = ma ve etki-tepki. Bunlarla arabaların, roketlerin ve gezegenlerin hareketini öngörürsünüz.",
+  "title": "Newton'un Hareket Yasaları"
+}

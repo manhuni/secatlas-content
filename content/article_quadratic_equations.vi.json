@@ -1,0 +1,39 @@
+{
+  "language": "vi",
+  "lessonId": "article_quadratic_equations",
+  "objectives": [
+    "Nhận dạng phương trình bậc hai và gọi tên các hệ số a, b và c.",
+    "Tính biệt thức và nói có bao nhiêu nghiệm thực.",
+    "Áp dụng công thức nghiệm và kiểm tra từng nghiệm bằng phép thế.",
+    "Đọc nghiệm của parabol từ đồ thị."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Phương trình bậc hai một ẩn có dạng ax^2 + bx + c = 0, trong đó a khác 0. Đồ thị y = ax^2 + bx + c là một parabol, và nghiệm của phương trình là những điểm parabol cắt trục hoành. Một phương trình bậc hai luôn có hai nghiệm kể cả bội: chúng có thể là hai số thực phân biệt, một số thực lặp lại, hoặc một cặp liên hợp phức.\n\nBa hệ số mang phương trình. **a** phóng to và xác định chiều mở parabol, **b** dở trục đối xứng, và **c** cố định độ cao cắt trục tung. Khi a dương, parabol mở hướng lên và điểm thấp nhất là đỉnh.",
+      "heading": "Phương trình bậc hai là gì"
+    },
+    {
+      "body": "Biệt thức là phần dưới dấu căn. Khi Δ dương, phương trình có hai nghiệm thực phân biệt; khi Δ bằng 0, hai nghiệm trùng thành một; khi Δ âm, parabol không chạm trục hoành và nghiệm là số phức.\n\n**Hãy kiểm tra mọi nghiệm tìm được.** Thế nghiệm trở lại phương trình gốc và xác nhận hai vế bằng nhau. Nghiệm không qua được phép kiểm tra là phép tính nhầm trên đường đi, không phải tính chất của phương trình.",
+      "heading": "Biệt thức quyết định trước",
+      "steps": [
+        "Viết phương trình về dạng chuẩn ax^2 + bx + c = 0 và đọc a, b, c.",
+        "Tính biệt thức Δ = b^2 − 4ac và quyết định số nghiệm thực cần tìm.",
+        "Thay a, b, c vào công thức nghiệm.",
+        "Rút gọn căn và phân số; giữ cả hai dấu của ±.",
+        "Thế từng nghiệm vào phương trình gốc và kiểm tra."
+      ]
+    },
+    {
+      "body": "Đồ thị của phương trình bậc hai là parabol. Trục đối xứng của nó là đường thẳng x = −b/2a, và đỉnh là điểm phương trình đạt tại x đó. Khi parabol cắt trục hoành hai lần, phương trình có hai nghiệm thực; khi nó chỉ chạm trục, nghiệm lặp; khi nó nổi phía trên trục, nghiệm là số phức.",
+      "examples": [
+        "Giải x^2 − 5x + 6 = 0. Ở đây a = 1, b = −5, c = 6, nên Δ = 25 − 24 = 1 và x = (5 ± 1)/2, cho x = 3 và x = 2. Kiểm tra: 9 − 15 + 6 = 0 và 4 − 10 + 6 = 0.",
+        "Giải x^2 + 2x + 5 = 0. Biệt thức bằng 4 − 20 = −16, âm, nên phương trình không có nghiệm thực; parabol nổi phía trên trục."
+      ],
+      "heading": "Đọc nghiệm trên đồ thị"
+    }
+  ],
+  "summary": "Phương trình bậc hai chứa bình phương của ẩn số. Một công thức đọc ra nghiệm của nó, và biệt thức cho biết có bao nhiêu nghiệm trước khi bạn tính toán gì.",
+  "title": "Giải phương trình bậc hai"
+}

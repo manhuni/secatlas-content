@@ -1,0 +1,34 @@
+{
+  "language": "vi",
+  "lessonId": "article_newtons_laws",
+  "objectives": [
+    "Phát biểu ba định luật về chuyển động bằng lợi của chính bạn.",
+    "Dùng F = ma nối lực, khối lượng và gia tốc.",
+    "Phân biệt cặp tác dụng – phản tác dụng với cặp lực cân bằng.",
+    "Ước tính gia tốc của một chiếc xe từ lực đo được."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Một vật giữ nguyên vận tốc trừ khi có ngoại lực tổng hợp tác dụng. Đó là **định luật thứ nhất**: quán tính. **Định luật thứ hai** nói ngoại lực tổng hợp bằng tốc độ biến thiên động lượng; với khối lượng không đổi nó thu gọn thành F = ma nổi tiếng. **Định luật thứ ba** nói lực đi theo từng cặp: khi vật A đẩy vật B, vật B đẩy lại vật A bằng một lực cùng độ lớn, ngược chiều.\n\nKhối lượng đo quán tính: khối lượng càng lớn, vận tốc càng khó thay đổi. Trọng lượng là lực hấp dẫn tác dụng lên khối lượng đó, và nó thay đổi theo trọng trường còn khối lượng thì không.",
+      "heading": "Ba định luật bằng lợi"
+    },
+    {
+      "body": "Định luật thứ hai là công cụ làm việc. Đo khối lượng chiếc xe, đo lực bạn tác dụng, và gia tốc ra khỏi một phép chia. Tăng gấp đôi lực thì gia tốc tăng gấp đôi; tăng gấp đôi khối lượng thì gia tốc giảm một nửa.\n\n**Tác dụng và phản tác dụng không bao giờ triệt tiêu nhau**, vì chúng tác dụng lên hai vật khác nhau. Con ngựa kéo xe về phía trước; chiếc xe kéo ngựa về phía sau. Cặp có tăng tốc hay không tùy thuộc vào các lực khác trên từng vật, không phải vào chính cặp đó.",
+      "heading": "F = ma trong công việc",
+      "steps": [
+        "Vẽ vật và mọi lực tác dụng lên nó, kèm phương chiều.",
+        "Cộng các lực theo véc-tơ để được ngoại lực tổng hợp.",
+        "Viết F = ma theo từng phương và giải ẩn.",
+        "Kiểm tra đơn vị: newton bằng kilogram nhân mét trên giây bình phương."
+      ]
+    },
+    {
+      "body": "Một lực kế chỉ ra định luật một cách trực tiếp: kéo chiếc xe với các lực khác nhau và xem gia tốc trả lợi tỉ lệ thuận. Di chuyển thanh trượt và đọc cặp giá trị.",
+      "heading": "Đẩy xe và quan sát"
+    }
+  ],
+  "summary": "Ba câu nói mang theo toàn bộ cơ học cổ điển: quán tính, F = ma, và tác dụng với phản tác dụng. Với chúng bạn dự đoán được chuyển động của xe, tên lửa và hành tinh.",
+  "title": "Ba định luật Newton về chuyển động"
+}

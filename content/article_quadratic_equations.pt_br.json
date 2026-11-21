@@ -1,0 +1,39 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_quadratic_equations",
+  "objectives": [
+    "Reconhecer uma equação quadrática e nomear os coeficientes a, b e c.",
+    "Calcular o discriminante e dizer quantas raízes reais ele promete.",
+    "Aplicar a fórmula de Bhaskara e verificar cada raiz por substituição.",
+    "Ler as raízes de uma parábola no gráfico."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Uma equação quadrática em uma variável tem a forma ax^2 + bx + c = 0, com a diferente de zero. O gráfico de y = ax^2 + bx + c é uma parábola, e as soluções da equação são os pontos onde a parábola corta o eixo x. Uma quadrática sempre tem duas raízes, contadas com multiplicidade: podem ser dois reais diferentes, um real repetido, ou um par de complexos conjugados.\n\nTrês coeficientes carregam a equação. **a** escala e abre a parábola, **b** move seu eixo, e **c** fixa a altura em que ela cruza o eixo y. Quando a é positivo, a parábola abre para cima e seu ponto mais baixo é o vértice.",
+      "heading": "O que é uma equação quadrática"
+    },
+    {
+      "body": "O discriminante é a parte sob a raiz quadrada. Quando Δ é positivo, a equação tem duas raízes reais diferentes; quando Δ é zero, as duas raízes se fundem em uma; quando Δ é negativo, a parábola nunca toca o eixo x e as raízes são complexas.\n\n**Verifique cada raiz que encontrar.** Substitua-a de volta na equação original e confirme que os dois lados dão o mesmo número. Uma raiz que falha na verificação é aritmética que errou no caminho, não uma propriedade da equação.",
+      "heading": "O discriminante decide primeiro",
+      "steps": [
+        "Escreva a equação na forma padrão ax^2 + bx + c = 0 e leia a, b e c.",
+        "Calcule o discriminante Δ = b^2 − 4ac e decida quantas raízes reais esperar.",
+        "Substitua a, b e c na fórmula de Bhaskara.",
+        "Simplifique a raiz e a fração; mantenha os dois sinais de ±.",
+        "Substitua cada raiz de volta na equação original e verifique."
+      ]
+    },
+    {
+      "body": "O gráfico de uma quadrática é uma parábola. Seu eixo de simetria é a reta x = −b/2a, e o vértice é o ponto que a parábola atinge nesse x. Quando a parábola cruza o eixo x duas vezes, a equação tem duas raízes reais; quando apenas o toca, a raiz é repetida; quando flutua acima do eixo, as raízes são complexas.",
+      "examples": [
+        "Resolva x^2 − 5x + 6 = 0. Aqui a = 1, b = −5, c = 6, então Δ = 25 − 24 = 1 e x = (5 ± 1)/2, o que dá x = 3 e x = 2. Verificação: 9 − 15 + 6 = 0 e 4 − 10 + 6 = 0.",
+        "Resolva x^2 + 2x + 5 = 0. O discriminante é 4 − 20 = −16, negativo, então a equação não tem raízes reais; a parábola flutua acima do eixo."
+      ],
+      "heading": "Leia as raízes no gráfico"
+    }
+  ],
+  "summary": "Uma equação quadrática carrega o quadrado da incógnita. Uma fórmula lê suas raízes, e o discriminante diz quantas existem antes de qualquer cálculo.",
+  "title": "Resolvendo equações quadráticas"
+}

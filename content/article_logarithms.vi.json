@@ -1,0 +1,38 @@
+{
+  "language": "vi",
+  "lessonId": "article_logarithms",
+  "objectives": [
+    "Đọc logarit như phép nghịch đảo của lũy thừa.",
+    "Áp dụng hai quy tắc logarit của tích và của lũy thừa.",
+    "Giải thích vì sao thang log phủ dải rộng trong một hình.",
+    "Tính pH như logarit của nồng độ."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Logarit của một số theo cơ số là số mũ mà cơ số cần để đạt tới số đó: log_b(x) = y nghĩa là b^y = x. Logarit thường dùng cơ số 10, logarit tự nhiên dùng cơ số e, và cả hai phá vỡ lũy thừa theo chiều ngược lại.\n\n**Logarit biến phép nhân thành phép cộng.** Chính tính chất đó làm chúng trở thành động cơ của tính toán suốt ba thế kỷ, và nó vẫn điều khiển đề-xi-ben, thang Richter và pH của dung dịch.",
+      "heading": "Câu hỏi logarit trả lờ"
+    },
+    {
+      "body": "Hai quy tắc gánh mọi phép tính. Logarit của một tích bằng tổng các logarit, và logarit của một lũy thừa bằng lũy thừa nhân logarit. Cùng nhau, chúng rút mọi quái vật phép nhân về một chuỗi phép cộng ngắn.",
+      "heading": "Hai quy tắc gánh phần việc",
+      "steps": [
+        "Viết số thành tích các lũy thừa của cơ số.",
+        "Thay mỗi tích bằng tổng các logarit.",
+        "Thay mỗi lũy thừa bằng bội số của một logarit.",
+        "Cộng các hạng và đọc kết quả từ bảng logarit."
+      ]
+    },
+    {
+      "body": "Một số dải quá rộng cho một thước kẻ. Độ to của tiếng thì thầm và của động cơ phản lực chênh nhau một tỉ lần; trên thang tuyến tính, một trong hai sẽ vô hình. Thang log vẽ mỗi bội số mưỻ thành một bước bằng nhau, và cả dải vừa trong một đường.\n\nHãy đọc trục đứng của đồ thị như các lũy thừa của mưỻ: mỗi đường kẻ ngang gấp mưỻ lần đường bên dưới. Đường cong y = 10^x trở thành một đường thẳng đứng dốc đều.",
+      "examples": [
+        "log10(1.000) = 3, vì 10^3 = 1.000.",
+        "Dung dịch với [H+] = 10^-7 mol/L có pH = −log10(10^-7) = 7: nước trung tính."
+      ],
+      "heading": "Thang log nhìn thấy thế giới rộng"
+    }
+  ],
+  "summary": "Logarit trả lờ câu hỏi \"nhân bao nhiêu lần?\". Nó đưa những thế giới rộng — từ năng lượng động đất đến độ to của buổi hoà nhạc — về những con số con ngườ cầm được.",
+  "title": "Logarit và thang log"
+}

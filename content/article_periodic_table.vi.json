@@ -1,0 +1,30 @@
+{
+  "language": "vi",
+  "lessonId": "article_periodic_table",
+  "objectives": [
+    "Tìm số hiệu nguyên tử, ký hiệu và tên của một nguyên tố trong bảng.",
+    "Phân biệt nhóm với chu kỳ và nói mỗi cái cố định điều gì.",
+    "Dùng định luật tuần hoàn để đoán tính chất của một nguyên tố lạ.",
+    "Tính lượng chất bằng mol."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Bảng tuần hoàn sắp xếp các nguyên tố theo số hiệu nguyên tử, tức số proton trong hạt nhân. Mỗi hàng là một **chu kỳ**: các nguyên tố của cùng chu kỳ điền cùng tập lớp electron. Mỗi cột là một **nhóm**: các nguyên tố cùng nhóm chia sẻ cùng mô hình electron lớp ngoài, và với nó là cùng hóa tính.\n\nKim loại nằm bên trái và ở giữa, phi kim nằm bên phải, và các ái kim tạo thành dãy bậc thang giữa hai vùng. Khí hiếm của nhóm 18 giữ lớp ngoài đầy đủ và gần như không phản ứng với bất cứ thứ gì.",
+      "heading": "Lưới nói gì"
+    },
+    {
+      "body": "Đọc một ô trong một lượt: ký hiệu ở giữa, số hiệu nguyên tử phía trên, tên phía dưới, và khối lượng nguyên tử tương đối ở dưới cùng. Khối lượng cho biết một mol nguyên tố nặng bao nhiêu gam, và mol là cây cầu giữa nguyên tử với cân phòng thí nghiệm.\n\n**Định luật tuần hoàn** là lợi hứa của bảng: khi các nguyên tố đứng theo số hiệu nguyên tử, tính chất của chúng lặp lại theo chu kỳ đều đặn. Mendeleev tin vào định luật đến mức chừa chỗ cho những nguyên tố chưa ai thấy; eka-aluminium trở thành galli, và bảng đã đúng.",
+      "heading": "Cách đọc một ô",
+      "steps": [
+        "Tìm ký hiệu; số phía trên là số hiệu nguyên tử Z.",
+        "Đọc tên và khối lượng nguyên tử tương đối bên dưới ký hiệu.",
+        "Nhìn xuống cột để thấy nhóm và hóa tính cần chờ đợi.",
+        "Cân một mol bằng gam với cùng con số khối lượng nguyên tử tương đối."
+      ]
+    }
+  ],
+  "summary": "Một trăm mưới tám nguyên tố, một bảng duy nhất. Vị trí của một nguyên tố trong lưới cho biết điện tử, tính chất và các liên kết nó sẽ tạo.",
+  "title": "Đọc bảng tuần hoàn"
+}

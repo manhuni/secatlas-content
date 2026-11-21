@@ -1,0 +1,34 @@
+{
+  "language": "pt_br",
+  "lessonId": "article_newtons_laws",
+  "objectives": [
+    "Enuncie as três leis do movimento com suas palavras.",
+    "Use F = ma para ligar força, massa e aceleração.",
+    "Distinga um par ação-reação de um par de forças equilibradas.",
+    "Estime a aceleração de um carrinho a partir de uma força medida."
+  ],
+  "release": "{{release}}",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "body": "Um corpo mantém sua velocidade a menos que uma força líquida atue sobre ele. Essa é a **primeira lei**: a inércia. A **segunda lei** diz que a força líquida sobre um corpo é igual à taxa de variação de seu momento; para massa constante, resume-se ao famoso F = ma. A **terceira lei** diz que as forças vêm em pares: quando o corpo A empurra o corpo B, o corpo B empurra o A de volta com uma força do mesmo tamanho em sentido oposto.\n\nA massa mede a inércia: quanto maior a massa, mais difícil mudar a velocidade. O peso é a força gravitacional sobre essa massa, e varia com a gravidade, enquanto a massa não varia.",
+      "heading": "Três leis em palavras"
+    },
+    {
+      "body": "A segunda lei é uma ferramenta de trabalho. Meça a massa do carrinho, meça a força aplicada, e a aceleração sai de uma divisão. Dobre a força e a aceleração dobra; dobre a massa e a aceleração cai pela metade.\n\n**Ação e reação nunca se cancelam**, porque atuam em corpos diferentes. O cavalo puxa a carroça para frente; a carroça puxa o cavalo para trás. Se o par acelera ou não depende das outras forças em cada corpo, não do par em si.",
+      "heading": "F = ma em ação",
+      "steps": [
+        "Desenhe o corpo e todas as forças que atuam nele, com direções.",
+        "Some as forças como vetores para obter a força líquida.",
+        "Escreva F = ma em cada direção e resolva a incógnita.",
+        "Confira as unidades: newtons igualam quilogramas vezes metros por segundo ao quadrado."
+      ]
+    },
+    {
+      "body": "Um dinamômetro mostra a lei diretamente: puxe o carrinho com forças diferentes e veja a aceleração responder em proporção. Mova o controle e leia o par de valores.",
+      "heading": "Empurre o carrinho e observe"
+    }
+  ],
+  "summary": "Três frases carregam toda a mecânica clássica: inércia, F = ma, e ação com reação. Com elas você prevê o movimento de carrinhos, foguetes e planetas.",
+  "title": "As Leis de Newton do Movimento"
+}
